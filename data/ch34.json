@@ -1,0 +1,2661 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C34-001",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The management section that opens 'Affect Disorders: Part 2' deals with:",
+   "opts": [
+    "Management of depression",
+    "Management of mania",
+    "Management of schizophrenia",
+    "Management of anxiety only"
+   ],
+   "ans": 0,
+   "exp": "The heading on the page is management of depression. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-002",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The hypothesis used to explain drug action in depression on this page is the:",
+   "opts": [
+    "Monoamine hypothesis",
+    "BDNF hypothesis",
+    "GABA hypothesis",
+    "Cholinergic hypothesis"
+   ],
+   "ans": 0,
+   "exp": "The page is headed monoamine hypothesis. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-003",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The neurotransmitter described as the most important in this synapse is:",
+   "opts": [
+    "5HT (serotonin)",
+    "Dopamine",
+    "GABA",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "5HT or serotonin is labelled the most important neurotransmitter. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-004",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "NE in the synapse diagram stands for:",
+   "opts": [
+    "Norepinephrine",
+    "Norethindrone",
+    "Neurotensin",
+    "Neuropeptide Y"
+   ],
+   "ans": 0,
+   "exp": "NE is expanded as norepinephrine. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-005",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "MAO in the synapse stands for:",
+   "opts": [
+    "Monoamine oxidase",
+    "Monoamine oxygenase",
+    "Monoacetyl oxidase",
+    "Microsomal amine oxidase"
+   ],
+   "ans": 0,
+   "exp": "MAO is expanded as monoamine oxidase. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-006",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The two ways the synapse disposes of the amines are reuptake and:",
+   "opts": [
+    "Metabolism by MAO",
+    "Excretion unchanged",
+    "Binding to BDNF",
+    "Diffusion into fat"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows reuptake and MAO-mediated metabolism as the two disposal routes. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-007",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The growth factor also shown in the depression synapse is:",
+   "opts": [
+    "BDNF",
+    "NGF",
+    "VEGF",
+    "EPO"
+   ],
+   "ans": 0,
+   "exp": "BDNF appears in the synapse diagram alongside the amines. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-008",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "Antidepressants are said to need how long before their effect appears?",
+   "opts": [
+    "Two to three weeks",
+    "Two to three days",
+    "Two to three months",
+    "A single dose"
+   ],
+   "ans": 0,
+   "exp": "The page notes that two to three weeks are needed to treat depression. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-009",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The typical antidepressants listed are TCA, SNRI, SSRI and:",
+   "opts": [
+    "MAO inhibitors",
+    "Atypical antipsychotics",
+    "Benzodiazepines",
+    "Lithium"
+   ],
+   "ans": 0,
+   "exp": "The typical group lists TCA, SNRI, SSRI and MAO-I. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-010",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "Tricyclic antidepressants are described as:",
+   "opts": [
+    "Non-selective, inhibiting reuptake of both 5HT and NE",
+    "Selective for 5HT reuptake",
+    "Selective for NE reuptake",
+    "MAO-A selective"
+   ],
+   "ans": 0,
+   "exp": "TCA are labelled non-selective because they inhibit reuptake of both 5HT and NE. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-011",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The receptor non-specificity of TCA includes blockade of H1, muscarinic, 5HT receptors and:",
+   "opts": [
+    "Na+ channels",
+    "Calcium channels",
+    "Potassium channels",
+    "Chloride channels"
+   ],
+   "ans": 0,
+   "exp": "The list of blocked targets includes H1, muscarinic, 5HT receptors and Na+ channels. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-012",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The cardiac toxicity quoted for TCA is:",
+   "opts": [
+    "Cardiac arrhythmias",
+    "Cardiomyopathy",
+    "Pericarditis",
+    "Aortic dissection"
+   ],
+   "ans": 0,
+   "exp": "Toxicity of TCA is given as cardiac arrhythmias. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-013",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "MAO inhibitors are said to be limited by:",
+   "opts": [
+    "High drug interaction and fatal side effects",
+    "Very low efficacy",
+    "Need for intravenous use",
+    "Severe nephrotoxicity"
+   ],
+   "ans": 0,
+   "exp": "The page lists high drug interaction and fatal side effects against MAO inhibitors. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-014",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "SNRI are described as retaining the effect of TCA but:",
+   "opts": [
+    "Without the side effects seen with TCA",
+    "With more antimuscarinic effect",
+    "With more sedation",
+    "With more arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "SNRI are said to retain the effect without the side effects of TCA. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-015",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "SSRI are described as:",
+   "opts": [
+    "The drug of choice and first line treatment for depression",
+    "Second line only",
+    "Used only in mania",
+    "Used only in OCD"
+   ],
+   "ans": 0,
+   "exp": "SSRI are labelled the DOC for depression and first line treatment. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-016",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "Erectile dysfunction with typical antidepressants is attributed to stimulation of which receptor in the spinal cord?",
+   "opts": [
+    "5HT2",
+    "5HT3",
+    "Alpha-1",
+    "Muscarinic M3"
+   ],
+   "ans": 0,
+   "exp": "The comparison table attributes erectile dysfunction to stimulation of 5HT2 receptors in the spinal cord. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-017",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The atypical antidepressants listed at the top of the page act by blocking 5HT2 receptors and by acting on:",
+   "opts": [
+    "Dopamine",
+    "GABA",
+    "Histamine",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The atypical branch shows 5HT2 blockers such as mirtazapine and dopamine acting drugs such as bupropion. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-018",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "Compared with typical antidepressants, atypical agents cause erectile dysfunction:",
+   "opts": [
+    "Rarely or not at all",
+    "More often",
+    "Just as often",
+    "Only in the elderly"
+   ],
+   "ans": 0,
+   "exp": "The table marks erectile dysfunction as present with typical and absent with atypical antidepressants. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-019",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The selective norepinephrine reuptake inhibitors noted at the foot of the page are used to treat:",
+   "opts": [
+    "ADHD",
+    "Parkinson's disease",
+    "Schizophrenia",
+    "Insomnia"
+   ],
+   "ans": 0,
+   "exp": "The note says selective norepinephrine reuptake inhibitors are used to treat ADHD. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-020",
+   "sec": "Management of Depression and the Monoamine Hypothesis",
+   "page": 134,
+   "q": "The two selective norepinephrine reuptake inhibitors named are:",
+   "opts": [
+    "Atomoxetine and viloxazine",
+    "Methylphenidate and dexmethylphenidate",
+    "Modafinil and armodafinil",
+    "Clonidine and guanfacine"
+   ],
+   "ans": 0,
+   "exp": "The drugs named are atomoxetine and viloxazine. (Book p134)"
+  },
+  {
+   "id": "PHARM-C34-021",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Antidepressants are first divided into:",
+   "opts": [
+    "Typical and atypical",
+    "Selective and non-selective",
+    "Short and long acting",
+    "Oral and parenteral"
+   ],
+   "ans": 0,
+   "exp": "The classification splits antidepressants into typical and atypical. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-022",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The typical antidepressant groups listed are TCA, SNRI, SSRI and:",
+   "opts": [
+    "MAO inhibitors",
+    "5HT2 blockers",
+    "GABA modulators",
+    "Bupropion"
+   ],
+   "ans": 0,
+   "exp": "MAO inhibitors complete the typical group. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-023",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Which of the following is a tricyclic antidepressant listed on the page?",
+   "opts": [
+    "Clomipramine",
+    "Duloxetine",
+    "Sertraline",
+    "Moclobemide"
+   ],
+   "ans": 0,
+   "exp": "Clomipramine heads the TCA column. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-024",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Tricyclic antidepressants listed include all of the following EXCEPT:",
+   "opts": [
+    "Venlafaxine",
+    "Amitriptyline",
+    "Nortriptyline",
+    "Doxepin"
+   ],
+   "ans": 0,
+   "exp": "Venlafaxine is an SNRI; amitriptyline, nortriptyline and doxepin are tricyclics. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-025",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Which of the following is an SNRI named on the page?",
+   "opts": [
+    "Duloxetine",
+    "Imipramine",
+    "Fluoxetine",
+    "Phenelzine"
+   ],
+   "ans": 0,
+   "exp": "Duloxetine heads the SNRI column. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-026",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Levomilnacipran belongs to which group?",
+   "opts": [
+    "SNRI",
+    "SSRI",
+    "TCA",
+    "MAO inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Levomilnacipran is listed in the SNRI column. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-027",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Which of the following is an SSRI named on the page?",
+   "opts": [
+    "Escitalopram",
+    "Desipramine",
+    "Milnacipran",
+    "Tranylcypromine"
+   ],
+   "ans": 0,
+   "exp": "Escitalopram is listed in the SSRI column. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-028",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Fluvoxamine belongs to which group?",
+   "opts": [
+    "SSRI",
+    "SNRI",
+    "TCA",
+    "MAO inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Fluvoxamine is listed among the SSRI. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-029",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The tricyclic listed alongside amoxapine at the foot of the TCA column is:",
+   "opts": [
+    "Loxapine",
+    "Maprotiline",
+    "Protriptyline",
+    "Trimipramine"
+   ],
+   "ans": 0,
+   "exp": "Amoxapine and loxapine are the last two drugs in the TCA column. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-030",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The atypical antidepressant groups listed are 5HT2 blockers, bupropion and:",
+   "opts": [
+    "Miscellaneous newer drugs",
+    "Benzodiazepines",
+    "Lithium",
+    "Antipsychotics"
+   ],
+   "ans": 0,
+   "exp": "The atypical branch lists 5HT2 blockers, bupropion and a miscellaneous group. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-031",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Older 5HT2 blockers named on the page include:",
+   "opts": [
+    "Trazodone and nefazodone",
+    "Mirtazapine and mianserin",
+    "Vilazodone and vortioxetine",
+    "Bupropion and gepirone"
+   ],
+   "ans": 0,
+   "exp": "Trazodone and nefazodone are listed as the older 5HT2 blockers. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-032",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Newer 5HT2 blockers named on the page include:",
+   "opts": [
+    "Mirtazapine and mianserin",
+    "Trazodone and nefazodone",
+    "Brexanolone and zuranolone",
+    "Esketamine and gepirone"
+   ],
+   "ans": 0,
+   "exp": "Mirtazapine and mianserin are listed as the newer 5HT2 blockers. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-033",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The miscellaneous atypical group contains GABA modulators and:",
+   "opts": [
+    "Novel antidepressants",
+    "Tricyclics",
+    "MAO inhibitors",
+    "Benzodiazepines"
+   ],
+   "ans": 0,
+   "exp": "The miscellaneous branch contains GABA modulators and novel antidepressants. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-034",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The GABA modulators named are:",
+   "opts": [
+    "Brexanolone and zuranolone",
+    "Esketamine and gepirone",
+    "Vilazodone and vortioxetine",
+    "Trazodone and nefazodone"
+   ],
+   "ans": 0,
+   "exp": "Brexanolone and zuranolone are the GABA modulators. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-035",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "The novel antidepressants named are:",
+   "opts": [
+    "Vilazodone, vortioxetine, esketamine and gepirone",
+    "Brexanolone and zuranolone",
+    "Mirtazapine and mianserin",
+    "Bupropion and atomoxetine"
+   ],
+   "ans": 0,
+   "exp": "The novel group lists vilazodone, vortioxetine, esketamine and gepirone. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-036",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Bupropion is classified as:",
+   "opts": [
+    "An atypical antidepressant",
+    "A typical antidepressant",
+    "An antipsychotic",
+    "A mood stabiliser"
+   ],
+   "ans": 0,
+   "exp": "Bupropion appears in the atypical antidepressant branch. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-037",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Which of the following pairs is correctly matched?",
+   "opts": [
+    "Sertraline - SSRI",
+    "Duloxetine - TCA",
+    "Amitriptyline - SNRI",
+    "Tranylcypromine - SSRI"
+   ],
+   "ans": 0,
+   "exp": "Sertraline is an SSRI; duloxetine is an SNRI, amitriptyline a TCA and tranylcypromine an MAO inhibitor. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-038",
+   "sec": "Classification of Antidepressants",
+   "page": 135,
+   "q": "Which of the following is NOT a typical antidepressant?",
+   "opts": [
+    "Mirtazapine",
+    "Fluoxetine",
+    "Venlafaxine",
+    "Imipramine"
+   ],
+   "ans": 0,
+   "exp": "Mirtazapine is an atypical antidepressant (a 5HT2 blocker). (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-039",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "MAO inhibitors are classified by:",
+   "opts": [
+    "Selectivity and reversibility",
+    "Route and cost",
+    "Half-life only",
+    "Potency only"
+   ],
+   "ans": 0,
+   "exp": "The two headings are types (selectivity) and reversibility. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-040",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "Selective MAO inhibitors block:",
+   "opts": [
+    "MAO-A",
+    "MAO-B only",
+    "Both MAO-A and MAO-B",
+    "Monoamine transporter"
+   ],
+   "ans": 0,
+   "exp": "Selective agents block MAO-A. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-041",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "Non-selective MAO inhibitors block:",
+   "opts": [
+    "Both MAO-A and MAO-B",
+    "MAO-A only",
+    "MAO-B only",
+    "Catechol-O-methyltransferase"
+   ],
+   "ans": 0,
+   "exp": "Non-selective agents block MAO-A and MAO-B. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-042",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "The selective, reversible MAO-A inhibitors named are:",
+   "opts": [
+    "Moclobemide and eprobemide",
+    "Tranylcypromine and phenelzine",
+    "Isocarboxazide and selegiline",
+    "Rasagiline and safinamide"
+   ],
+   "ans": 0,
+   "exp": "Moclobemide and eprobemide are the selective reversible MAO-A inhibitors listed. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-043",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "The non-selective irreversible MAO inhibitors named are:",
+   "opts": [
+    "Tranylcypromine, isocarboxazide and phenelzine",
+    "Moclobemide and eprobemide",
+    "Selegiline and rasagiline",
+    "Safinamide and linezolid"
+   ],
+   "ans": 0,
+   "exp": "Tranylcypromine, isocarboxazide and phenelzine are the non-selective irreversible agents. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-044",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "Irreversible MAO inhibitors are also called:",
+   "opts": [
+    "Hit and run drugs",
+    "Prodrugs",
+    "Designer drugs",
+    "Orphan drugs"
+   ],
+   "ans": 0,
+   "exp": "The irreversible group is labelled hit and run drugs. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-045",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "A hit and run drug is one where the duration of action persists because:",
+   "opts": [
+    "The drug is permanently bound although it is absent from plasma",
+    "The drug is stored in fat",
+    "The drug has an active metabolite",
+    "The drug is given as a depot injection"
+   ],
+   "ans": 0,
+   "exp": "The note explains that despite the drug being absent from plasma, its action lasts because binding is permanent. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-046",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 135,
+   "q": "The examples given of hit and run drugs from other classes are:",
+   "opts": [
+    "Proton pump inhibitors and clopidogrel",
+    "Beta blockers and ACE inhibitors",
+    "Statins and fibrates",
+    "Penicillins and cephalosporins"
+   ],
+   "ans": 0,
+   "exp": "Proton pump inhibitors and clopidogrel are quoted as examples. (Book p135)"
+  },
+  {
+   "id": "PHARM-C34-047",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 136,
+   "q": "The use listed for MAO inhibitors is first line treatment of:",
+   "opts": [
+    "Atypical depression",
+    "Typical depression",
+    "Bipolar depression",
+    "Psychotic depression"
+   ],
+   "ans": 0,
+   "exp": "MAO inhibitors are listed as first line for atypical depression. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-048",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 136,
+   "q": "Atypical depression is characterised on the page by:",
+   "opts": [
+    "Elevated mood on selective occasions",
+    "Loss of mood reactivity",
+    "Melancholic features",
+    "Catatonia"
+   ],
+   "ans": 0,
+   "exp": "Atypical depression is described as elevated mood in selective occasions. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-049",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses",
+   "page": 136,
+   "q": "Which MAO inhibitor would be chosen when reversibility is desirable?",
+   "opts": [
+    "Moclobemide",
+    "Phenelzine",
+    "Tranylcypromine",
+    "Isocarboxazide"
+   ],
+   "ans": 0,
+   "exp": "Moclobemide is a reversible selective MAO-A inhibitor, so its effect can be reversed. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-050",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The first adverse effect listed for MAO inhibitors is:",
+   "opts": [
+    "Cheese reaction",
+    "Serotonin syndrome",
+    "Hepatotoxicity",
+    "Agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "The side effect list begins with the cheese reaction. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-051",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The drug of choice for the cheese reaction is:",
+   "opts": [
+    "Intravenous phentolamine",
+    "Oral nifedipine",
+    "Intravenous nitroprusside",
+    "Oral prazosin"
+   ],
+   "ans": 0,
+   "exp": "IV phentolamine is given as the DOC for the cheese reaction. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-052",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "Phentolamine is used in the cheese reaction because it blocks:",
+   "opts": [
+    "Alpha receptors",
+    "Beta receptors",
+    "Muscarinic receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "Phentolamine is an alpha blocker, appropriate for the pressor effect of tyramine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-053",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "Serotonin syndrome with MAO inhibitors is due to:",
+   "opts": [
+    "Excess 5HT",
+    "Excess dopamine",
+    "Excess GABA",
+    "Excess norepinephrine only"
+   ],
+   "ans": 0,
+   "exp": "The page attributes serotonin syndrome to increased 5HT. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-054",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The ocular signs listed in serotonin syndrome are:",
+   "opts": [
+    "Mydriasis and ocular clonus",
+    "Miosis and ptosis",
+    "Nystagmus and diplopia",
+    "Cataract and glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Mydriasis and ocular clonus are both listed. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-055",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The neuromuscular feature listed in serotonin syndrome is:",
+   "opts": [
+    "Rigid muscles",
+    "Flaccid paralysis",
+    "Fasciculations only",
+    "Myasthenic weakness"
+   ],
+   "ans": 0,
+   "exp": "Rigid muscles are listed among the clinical features. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-056",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "Autonomic features listed in serotonin syndrome include sympathetic activation with raised blood pressure, raised heart rate and:",
+   "opts": [
+    "Sweating",
+    "Dry skin",
+    "Bradycardia",
+    "Hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Sympathetic activation with sweating is listed. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-057",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The temperature change in serotonin syndrome is:",
+   "opts": [
+    "Raised temperature",
+    "Lowered temperature",
+    "No change",
+    "Alternating fever"
+   ],
+   "ans": 0,
+   "exp": "Raised temperature is listed as a feature. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-058",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The diagnostic criteria used for serotonin syndrome are:",
+   "opts": [
+    "Hunter's criteria",
+    "Jones criteria",
+    "Duke criteria",
+    "Revised Jones criteria"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis is by Hunter's criteria. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-059",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "The first line treatment of serotonin syndrome is:",
+   "opts": [
+    "Sympatholytic treatment plus a benzodiazepine",
+    "Cyproheptadine alone",
+    "Dantrolene",
+    "Bromocriptine"
+   ],
+   "ans": 0,
+   "exp": "Treatment is sympatholytic treatment plus a benzodiazepine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-060",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "If there is no response to first line treatment of serotonin syndrome, the drug of choice is:",
+   "opts": [
+    "Cyproheptadine",
+    "Dantrolene",
+    "Bromocriptine",
+    "Propranolol"
+   ],
+   "ans": 0,
+   "exp": "Cyproheptadine is the DOC when there is no response. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-061",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "Cyproheptadine works in serotonin syndrome by blocking:",
+   "opts": [
+    "5HT2 receptors",
+    "Dopamine D2 receptors",
+    "Muscarinic receptors",
+    "NMDA receptors"
+   ],
+   "ans": 0,
+   "exp": "Cyproheptadine is described as a 5HT2 blocker. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-062",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "page": 136,
+   "q": "A patient on an MAO inhibitor eats a tyramine rich meal and develops severe hypertension. The drug of choice is:",
+   "opts": [
+    "Intravenous phentolamine",
+    "Oral captopril",
+    "Intravenous labetalol",
+    "Sublingual nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The cheese reaction of MAO inhibitors is treated with IV phentolamine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-063",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The main indication for tricyclic antidepressants is:",
+   "opts": [
+    "Typical depression",
+    "Atypical depression",
+    "Bipolar depression",
+    "Mania"
+   ],
+   "ans": 0,
+   "exp": "Tricyclics are listed for typical depression. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-064",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic with maximum inhibition of 5HT reuptake is:",
+   "opts": [
+    "Clomipramine",
+    "Desipramine",
+    "Amitriptyline",
+    "Nortriptyline"
+   ],
+   "ans": 0,
+   "exp": "Clomipramine is credited with maximum inhibition of 5HT reuptake. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-065",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic of choice in obsessive-compulsive disorder is:",
+   "opts": [
+    "Clomipramine",
+    "Imipramine",
+    "Amitriptyline",
+    "Doxepin"
+   ],
+   "ans": 0,
+   "exp": "Clomipramine is the TCA of choice in OCD, although the DOC overall is an SSRI. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-066",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "Overall, the drug of choice for obsessive-compulsive disorder is:",
+   "opts": [
+    "An SSRI",
+    "Clomipramine",
+    "A tricyclic",
+    "A benzodiazepine"
+   ],
+   "ans": 0,
+   "exp": "The page notes that the DOC in OCD is an SSRI. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-067",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "Imipramine is used in nocturnal enuresis, where the drug of choice is actually:",
+   "opts": [
+    "Desmopressin",
+    "Imipramine",
+    "Oxybutynin",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "The note states that the DOC for nocturnal enuresis is desmopressin. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-068",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The other use listed for imipramine is:",
+   "opts": [
+    "Cocaine dependence",
+    "Heroin dependence",
+    "Alcohol dependence",
+    "Nicotine dependence"
+   ],
+   "ans": 0,
+   "exp": "Cocaine dependence is listed as the other use of imipramine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-069",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic with maximum inhibition of dopamine and norepinephrine reuptake is:",
+   "opts": [
+    "Desipramine",
+    "Clomipramine",
+    "Doxepin",
+    "Amoxapine"
+   ],
+   "ans": 0,
+   "exp": "Desipramine is credited with maximum inhibition of dopamine and norepinephrine reuptake. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-070",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The most commonly used tricyclic, and the most common cause of death by suicide among them, is:",
+   "opts": [
+    "Amitriptyline",
+    "Nortriptyline",
+    "Imipramine",
+    "Clomipramine"
+   ],
+   "ans": 0,
+   "exp": "Amitriptyline is labelled the most commonly used TCA and the most common cause of death by suicide. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-071",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic of choice for neuropathy is:",
+   "opts": [
+    "Amitriptyline",
+    "Nortriptyline",
+    "Desipramine",
+    "Clomipramine"
+   ],
+   "ans": 0,
+   "exp": "Amitriptyline is the TCA of choice for neuropathy. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-072",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic with the maximum antimuscarinic effect is:",
+   "opts": [
+    "Amitriptyline",
+    "Desipramine",
+    "Nortriptyline",
+    "Amoxapine"
+   ],
+   "ans": 0,
+   "exp": "Amitriptyline has the maximum antimuscarinic effect. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-073",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "Nortriptyline is used as a second line drug for:",
+   "opts": [
+    "Smoking dependence",
+    "Alcohol dependence",
+    "Opioid dependence",
+    "Cocaine dependence"
+   ],
+   "ans": 0,
+   "exp": "Smoking dependence is listed as a second line indication for nortriptyline. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-074",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "Doxepin is described as an H1 blocker used as a tricyclic for insomnia and:",
+   "opts": [
+    "Anxiety",
+    "Psychosis",
+    "Mania",
+    "Enuresis"
+   ],
+   "ans": 0,
+   "exp": "Doxepin is used for insomnia and anxiety. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-075",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic that blocks D2 receptors and has antipsychotic effect is:",
+   "opts": [
+    "Amoxapine",
+    "Amitriptyline",
+    "Doxepin",
+    "Clomipramine"
+   ],
+   "ans": 0,
+   "exp": "Amoxapine blocks D2 receptors and has antipsychotic effect. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-076",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "The tricyclic used in psychotic depression is:",
+   "opts": [
+    "Amoxapine",
+    "Doxepin",
+    "Imipramine",
+    "Nortriptyline"
+   ],
+   "ans": 0,
+   "exp": "Psychotic depression is the indication listed for amoxapine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-077",
+   "sec": "Tricyclic Antidepressants: Uses",
+   "page": 136,
+   "q": "Loxapine is noted as:",
+   "opts": [
+    "An antipsychotic derivative of the tricyclic amoxapine",
+    "A mood stabiliser",
+    "A selective serotonin reuptake inhibitor",
+    "A benzodiazepine"
+   ],
+   "ans": 0,
+   "exp": "The note states loxapine is an antipsychotic derivative of the TCA amoxapine. (Book p136)"
+  },
+  {
+   "id": "PHARM-C34-078",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Dry mouth, urinary retention and mydriasis with tricyclics result from blockade of:",
+   "opts": [
+    "Muscarinic receptors",
+    "H1 receptors",
+    "Alpha-1 receptors",
+    "Dopamine D2 receptors"
+   ],
+   "ans": 0,
+   "exp": "Muscarinic blockade produces mydriasis, urinary retention and dry mouth. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-079",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Sedation with tricyclics is due to blockade of:",
+   "opts": [
+    "H1 receptors",
+    "Muscarinic receptors",
+    "Alpha-1 receptors",
+    "5HT2 receptors"
+   ],
+   "ans": 0,
+   "exp": "H1 blockade causes sedation, which is why night-time dosing is advised. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-080",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Obesity with tricyclics is attributed to increased appetite from blockade of:",
+   "opts": [
+    "H1 receptors",
+    "Muscarinic receptors",
+    "Alpha-1 receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "The page links obesity to increased appetite from H1 blockade. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-081",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Postural hypotension with tricyclics is due to blockade of:",
+   "opts": [
+    "Alpha-1 receptors",
+    "Beta-1 receptors",
+    "Muscarinic receptors",
+    "H1 receptors"
+   ],
+   "ans": 0,
+   "exp": "Alpha-1 blockade is listed as the cause of postural hypotension. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-082",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Because of their antimuscarinic action, tricyclics are contraindicated in:",
+   "opts": [
+    "Glaucoma and benign prostatic hyperplasia",
+    "Peptic ulcer and gastritis",
+    "Asthma and COPD",
+    "Epilepsy and migraine"
+   ],
+   "ans": 0,
+   "exp": "The contraindications listed are glaucoma and BPH. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-083",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "The receptor-blockade adverse effects of tricyclics are noted to be shared with:",
+   "opts": [
+    "Both typical and atypical antipsychotics",
+    "Selective serotonin reuptake inhibitors",
+    "Monoamine oxidase inhibitors",
+    "Benzodiazepines"
+   ],
+   "ans": 0,
+   "exp": "The page notes these effects are also seen with both typical and atypical antipsychotics. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-084",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Tricyclic overdose is described as lethal even with:",
+   "opts": [
+    "Five to ten tablets",
+    "Fifty tablets",
+    "A hundred tablets",
+    "A full bottle"
+   ],
+   "ans": 0,
+   "exp": "The page warns of a lethal effect even with five to ten tablets. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-085",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "The metabolic derangement listed in tricyclic toxicity is:",
+   "opts": [
+    "Metabolic acidosis",
+    "Metabolic alkalosis",
+    "Respiratory acidosis",
+    "Hyperchloraemic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "Metabolic acidosis is listed in the clinical presentation of toxicity. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-086",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "The cardiac manifestation listed in tricyclic toxicity is:",
+   "opts": [
+    "Arrhythmia",
+    "Pericardial effusion",
+    "Myocarditis",
+    "Aortic dissection"
+   ],
+   "ans": 0,
+   "exp": "Arrhythmia is the cardiac feature of tricyclic toxicity. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-087",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "Death in tricyclic toxicity is attributed to the ionised form of the drug blocking:",
+   "opts": [
+    "Na+ channels",
+    "Calcium channels",
+    "Potassium channels",
+    "Chloride channels"
+   ],
+   "ans": 0,
+   "exp": "The ionised form of TCA blocks Na+ channels, which causes death. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-088",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "The drug of choice in tricyclic toxicity is:",
+   "opts": [
+    "Sodium bicarbonate",
+    "Sodium chloride",
+    "Calcium gluconate",
+    "Magnesium sulfate"
+   ],
+   "ans": 0,
+   "exp": "Sodium bicarbonate is the DOC in tricyclic poisoning. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-089",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "The unionised form of a tricyclic is noted to:",
+   "opts": [
+    "Not block Na+ channels",
+    "Block Na+ channels more strongly",
+    "Block calcium channels",
+    "Cause metabolic acidosis"
+   ],
+   "ans": 0,
+   "exp": "The page contrasts the ionised form, which blocks Na+ channels, with the unionised form, which does not. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-090",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "page": 137,
+   "q": "A patient who has taken an overdose of amitriptyline develops a wide-complex arrhythmia. The specific antidotal treatment is:",
+   "opts": [
+    "Sodium bicarbonate",
+    "Intravenous calcium",
+    "Intravenous lidocaine",
+    "Activated charcoal only"
+   ],
+   "ans": 0,
+   "exp": "Sodium bicarbonate is the DOC for the Na+ channel blocking arrhythmia of tricyclic overdose. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-091",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The action of SNRI is described as depending on:",
+   "opts": [
+    "Dose",
+    "Age",
+    "Route",
+    "Renal function only"
+   ],
+   "ans": 0,
+   "exp": "The mechanism is headed 'based on dose'. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-092",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "At low dose, SNRI predominantly inhibit reuptake of:",
+   "opts": [
+    "5HT",
+    "Norepinephrine",
+    "Dopamine",
+    "GABA"
+   ],
+   "ans": 0,
+   "exp": "Low dose gives predominant inhibition of 5HT reuptake. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-093",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "At high dose, SNRI predominantly inhibit reuptake of:",
+   "opts": [
+    "Norepinephrine",
+    "5HT",
+    "Dopamine",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "High dose gives predominant inhibition of norepinephrine reuptake. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-094",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "SNRI are used in typical depression and in depression with:",
+   "opts": [
+    "Postural hypotension or postural tachycardia syndrome",
+    "Glaucoma",
+    "BPH",
+    "Epilepsy"
+   ],
+   "ans": 0,
+   "exp": "Depression with postural hypotension or POTS is a listed indication. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-095",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The genitourinary use listed for SNRI is:",
+   "opts": [
+    "Stress urinary incontinence",
+    "Urge incontinence",
+    "Nocturnal enuresis",
+    "Overactive bladder from BPH"
+   ],
+   "ans": 0,
+   "exp": "Stress urine incontinence is listed among the miscellaneous uses. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-096",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The neuroses listed as SNRI indications include all of the following EXCEPT:",
+   "opts": [
+    "Schizophrenia",
+    "PTSD",
+    "OCD",
+    "Bulimia"
+   ],
+   "ans": 0,
+   "exp": "The neurosis list is PTSD, OCD, anorexia nervosa, phobia and bulimia; schizophrenia is not included. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-097",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The recurrent pain syndrome named as an SNRI indication is:",
+   "opts": [
+    "Fibromyalgia",
+    "Trigeminal neuralgia",
+    "Cluster headache",
+    "Complex regional pain syndrome"
+   ],
+   "ans": 0,
+   "exp": "Fibromyalgia is the recurrent pain syndrome listed. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-098",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "Premenstrual syndrome is listed with the specific symptom of:",
+   "opts": [
+    "Irritability",
+    "Headache",
+    "Breast tenderness",
+    "Fluid retention"
+   ],
+   "ans": 0,
+   "exp": "Irritability in PMS is the indication listed. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-099",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "Hot flashes after the menopause are treated with SNRI, but the drug of choice is:",
+   "opts": [
+    "Hormone replacement therapy",
+    "Clonidine",
+    "Gabapentin",
+    "Black cohosh"
+   ],
+   "ans": 0,
+   "exp": "The note says HRT is the DOC for hot flashes, with SSRI or SNRI preferred if HRT is contraindicated. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-100",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "SSRI or SNRI are preferred over hormone replacement therapy for hot flashes when there is a risk of:",
+   "opts": [
+    "Thrombosis, breast cancer or uterine cancer",
+    "Osteoporosis",
+    "Diabetes",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "The note lists thrombosis, breast cancer and uterine cancer as reasons to prefer SSRI or SNRI. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-101",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The side effect listed for SNRI is:",
+   "opts": [
+    "Hypertension",
+    "Hypotension",
+    "Bradycardia",
+    "Hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Hypertension is the side effect listed for SNRI. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-102",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "Among SNRI, the drug with the maximum risk of withdrawal symptoms is:",
+   "opts": [
+    "Venlafaxine",
+    "Milnacipran",
+    "Duloxetine",
+    "Levomilnacipran"
+   ],
+   "ans": 0,
+   "exp": "Venlafaxine, being short acting, carries the maximum risk of withdrawal symptoms. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-103",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The SNRI with minimum or no withdrawal symptoms is:",
+   "opts": [
+    "Milnacipran",
+    "Venlafaxine",
+    "Duloxetine",
+    "Desvenlafaxine"
+   ],
+   "ans": 0,
+   "exp": "Milnacipran is noted to have minimum or no withdrawal symptoms. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-104",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "page": 137,
+   "q": "The short acting nature of venlafaxine explains its:",
+   "opts": [
+    "High risk of withdrawal symptoms",
+    "Lack of efficacy",
+    "Hepatotoxicity",
+    "Antimuscarinic effects"
+   ],
+   "ans": 0,
+   "exp": "The page links short action with the maximum risk of withdrawal symptoms. (Book p137)"
+  },
+  {
+   "id": "PHARM-C34-105",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "SSRI are the drug of choice for:",
+   "opts": [
+    "Typical and atypical depression",
+    "Mania",
+    "Psychotic depression",
+    "Bipolar depression"
+   ],
+   "ans": 0,
+   "exp": "The DOC list for SSRI names typical and atypical depression. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-106",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Among the other uses of SSRI, the pain condition listed is:",
+   "opts": [
+    "Fibromyalgia",
+    "Trigeminal neuralgia",
+    "Post-herpetic neuralgia",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "Fibromyalgia appears among the other uses of SSRI. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-107",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The other uses of SSRI also include:",
+   "opts": [
+    "Hot flashes",
+    "Hypertension",
+    "Heart failure",
+    "Epilepsy"
+   ],
+   "ans": 0,
+   "exp": "Hot flashes are listed among the other uses. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-108",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Neurosis and irritability in PMS are listed under:",
+   "opts": [
+    "The drug of choice uses of SSRI",
+    "The other uses of SSRI",
+    "The contraindications to SSRI",
+    "The side effects of SSRI"
+   ],
+   "ans": 0,
+   "exp": "Neurosis and irritability in PMS are listed as DOC indications for SSRI. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-109",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The longest acting SSRI is:",
+   "opts": [
+    "Fluoxetine",
+    "Paroxetine",
+    "Escitalopram",
+    "Sertraline"
+   ],
+   "ans": 0,
+   "exp": "Fluoxetine is described as the longest acting SSRI. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-110",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The half-life quoted for fluoxetine is about:",
+   "opts": [
+    "50 hours",
+    "5 hours",
+    "500 hours",
+    "15 hours"
+   ],
+   "ans": 0,
+   "exp": "Fluoxetine's half-life is given as about 50 hours. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-111",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The active metabolite of fluoxetine is:",
+   "opts": [
+    "Norfluoxetine",
+    "Desmethylfluoxetine",
+    "Paroxetine",
+    "Fluvoxamine"
+   ],
+   "ans": 0,
+   "exp": "The active metabolite is norfluoxetine, with a half-life quoted in hundreds of hours. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-112",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Because of its long half-life and active metabolite, fluoxetine causes:",
+   "opts": [
+    "No withdrawal symptoms",
+    "Maximum withdrawal symptoms",
+    "Maximum teratogenicity",
+    "Maximum enzyme inhibition"
+   ],
+   "ans": 0,
+   "exp": "The long acting fluoxetine is noted to produce no withdrawal symptoms. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-113",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The SSRI with no active metabolite and a short action is:",
+   "opts": [
+    "Paroxetine",
+    "Fluoxetine",
+    "Citalopram",
+    "Sertraline"
+   ],
+   "ans": 0,
+   "exp": "Paroxetine is described as having no active metabolite and being short acting. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-114",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Paroxetine is noted for the maximum risk of all of the following EXCEPT:",
+   "opts": [
+    "Weight loss",
+    "Withdrawal symptoms",
+    "Erectile dysfunction",
+    "Teratogenicity"
+   ],
+   "ans": 0,
+   "exp": "Paroxetine carries maximum withdrawal symptoms, maximum erectile dysfunction and maximum teratogenicity; weight loss is not attributed to it. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-115",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Paroxetine blocks which enzyme, preventing activation of tamoxifen to endoxifen?",
+   "opts": [
+    "CYP2D6",
+    "CYP3A4",
+    "CYP2C19",
+    "CYP1A2"
+   ],
+   "ans": 0,
+   "exp": "Paroxetine is described as blocking CYP2D6, which converts tamoxifen to endoxifen in breast cancer. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-116",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The clinical consequence of paroxetine's CYP2D6 inhibition in a patient on tamoxifen is:",
+   "opts": [
+    "Reduced activation of tamoxifen to endoxifen",
+    "Increased risk of bleeding",
+    "Serotonin syndrome",
+    "Excessive sedation"
+   ],
+   "ans": 0,
+   "exp": "Blocking CYP2D6 prevents the conversion of tamoxifen to its active form endoxifen. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-117",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Paroxetine is given at night time because it blocks:",
+   "opts": [
+    "H1 receptors",
+    "Muscarinic receptors",
+    "Dopamine receptors",
+    "Alpha-1 receptors"
+   ],
+   "ans": 0,
+   "exp": "H1 blockade by paroxetine causes sedation, so it suits depression with insomnia and night dosing. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-118",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The SSRI used to treat premature ejaculation is:",
+   "opts": [
+    "Dapoxetine",
+    "Fluoxetine",
+    "Escitalopram",
+    "Fluvoxamine"
+   ],
+   "ans": 0,
+   "exp": "Dapoxetine is listed for premature ejaculation. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-119",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "Dapoxetine is prescribed as a fixed dose combination with:",
+   "opts": [
+    "Sildenafil",
+    "Tadalafil",
+    "Apomorphine",
+    "Yohimbine"
+   ],
+   "ans": 0,
+   "exp": "Dapoxetine is prescribed as a fixed dose combination with sildenafil, the DOC for erectile dysfunction. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-120",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The most specific SSRI is:",
+   "opts": [
+    "Escitalopram",
+    "Citalopram",
+    "Sertraline",
+    "Paroxetine"
+   ],
+   "ans": 0,
+   "exp": "Escitalopram is labelled the most specific SSRI. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-121",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "page": 138,
+   "q": "The note at the foot of the SSRI page states that:",
+   "opts": [
+    "All SSRI are teratogenic",
+    "SSRI are safe in pregnancy",
+    "Only paroxetine is teratogenic",
+    "SSRI are contraindicated in the elderly"
+   ],
+   "ans": 0,
+   "exp": "The note states that all SSRI are teratogenic. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-122",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "The side effects described as seen with both SSRI and SNRI follow from:",
+   "opts": [
+    "Increased 5HT stimulating its receptors",
+    "Blockade of muscarinic receptors",
+    "Blockade of histamine receptors",
+    "Blockade of alpha-1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The section is headed with the rise in 5HT stimulating receptors. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-123",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "Transient anxiety, insomnia and vivid dreams with SSRI lead to which practical advice?",
+   "opts": [
+    "Administer the dose in the morning",
+    "Administer the dose at night",
+    "Split the dose three times a day",
+    "Give the drug only on alternate days"
+   ],
+   "ans": 0,
+   "exp": "Because of insomnia, the morning dose is advised. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-124",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "The commonest side effect overall with SSRI is:",
+   "opts": [
+    "Nausea and vomiting",
+    "Erectile dysfunction",
+    "Anorgasmia",
+    "Akathisia"
+   ],
+   "ans": 0,
+   "exp": "Nausea and vomiting are marked as the commonest effect. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-125",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "Nausea, vomiting and loose stools with SSRI are mediated through:",
+   "opts": [
+    "5HT3 receptors",
+    "5HT2 receptors",
+    "Muscarinic receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "The 5HT3 receptor is linked to these gastrointestinal effects. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-126",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "Sexual dysfunction with SSRI - erectile dysfunction, anorgasmia and delayed ejaculation - is mediated through:",
+   "opts": [
+    "5HT2 receptors in the spinal cord",
+    "5HT3 receptors in the gut",
+    "Alpha-1 receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "5HT2 receptors in the spinal cord are shown as the mediators of sexual dysfunction. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-127",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 138,
+   "q": "Erectile dysfunction with SSRI is described as:",
+   "opts": [
+    "The commonest delayed side effect",
+    "The commonest immediate side effect",
+    "A rare idiosyncratic reaction",
+    "A sign of toxicity"
+   ],
+   "ans": 0,
+   "exp": "Erectile dysfunction is labelled the commonest delayed side effect. (Book p138)"
+  },
+  {
+   "id": "PHARM-C34-128",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 139,
+   "q": "Akathisia as an SSRI side effect means:",
+   "opts": [
+    "Restlessness",
+    "Muscle rigidity",
+    "Tremor",
+    "Dystonia"
+   ],
+   "ans": 0,
+   "exp": "Akathisia is glossed as restlessness. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-129",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 139,
+   "q": "Other side effects listed for SSRI include akathisia, risk of bleeding and:",
+   "opts": [
+    "Risk of osteoporosis",
+    "Risk of glaucoma",
+    "Risk of hepatitis",
+    "Risk of seizures"
+   ],
+   "ans": 0,
+   "exp": "Osteoporosis risk is the third of the other side effects. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-130",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 139,
+   "q": "With continued SSRI treatment, prolonged stimulation of 5HT2 receptors leads to their:",
+   "opts": [
+    "Downregulation, producing anxiolysis",
+    "Upregulation, producing anxiety",
+    "Desensitisation in the gut only",
+    "Conversion to 5HT3 receptors"
+   ],
+   "ans": 0,
+   "exp": "Prolonged stimulation causes downregulation, which produces anxiolysis. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-131",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 139,
+   "q": "Because SSRI cause anxiety during the first few weeks, the page advises adding:",
+   "opts": [
+    "A benzodiazepine for one month",
+    "An antipsychotic for a year",
+    "A beta blocker indefinitely",
+    "Lithium for six months"
+   ],
+   "ans": 0,
+   "exp": "A benzodiazepine is added for one month to cover the initial anxiety. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-132",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "page": 139,
+   "q": "The anxiolytic effect of SSRI appears only after:",
+   "opts": [
+    "A few weeks of continued treatment",
+    "The first dose",
+    "Twenty-four hours",
+    "Six months"
+   ],
+   "ans": 0,
+   "exp": "Downregulation of 5HT2 receptors, and hence anxiolysis, takes a few weeks. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-133",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "The older 5HT2 blockers are described as:",
+   "opts": [
+    "Mild inhibitors of 5HT reuptake",
+    "Potent inhibitors of 5HT reuptake",
+    "MAO inhibitors",
+    "Selective norepinephrine reuptake inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The older drugs are described as mild inhibitors of 5HT reuptake. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-134",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Trazodone is used for depression associated with:",
+   "opts": [
+    "Insomnia",
+    "Psychosis",
+    "Parkinsonism",
+    "Enuresis"
+   ],
+   "ans": 0,
+   "exp": "Trazodone is listed for depression with insomnia. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-135",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Sedation with trazodone is attributed to blockade of:",
+   "opts": [
+    "H1 receptors",
+    "Muscarinic receptors",
+    "Alpha-1 receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "The sedation of trazodone is attributed to H1 blockade. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-136",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "The adverse effect that limits the use of trazodone is:",
+   "opts": [
+    "Erectile dysfunction",
+    "Hepatotoxicity",
+    "Agranulocytosis",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Erectile dysfunction is listed as a side effect of trazodone. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-137",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Nefazodone is described as:",
+   "opts": [
+    "Obsolete because of hepatotoxicity",
+    "The drug of choice in depression with insomnia",
+    "A novel antidepressant",
+    "A GABA modulator"
+   ],
+   "ans": 0,
+   "exp": "Nefazodone is labelled obsolete, with hepatotoxicity as its side effect. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-138",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "The newer 5HT2 blockers named are:",
+   "opts": [
+    "Mianserin and mirtazapine",
+    "Trazodone and nefazodone",
+    "Vilazodone and vortioxetine",
+    "Brexanolone and zuranolone"
+   ],
+   "ans": 0,
+   "exp": "Mianserin and mirtazapine are the newer 5HT2 blockers. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-139",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Mirtazapine, besides blocking 5HT2, also blocks 5HT3, giving it an:",
+   "opts": [
+    "Antiemetic effect",
+    "Antipsychotic effect",
+    "Antihypertensive effect",
+    "Analgesic effect"
+   ],
+   "ans": 0,
+   "exp": "5HT3 blockade gives mirtazapine an antiemetic action. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-140",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Sedation with mirtazapine is handled by:",
+   "opts": [
+    "Night-time dosing",
+    "Morning dosing",
+    "Split dosing",
+    "Stopping the drug"
+   ],
+   "ans": 0,
+   "exp": "Sedation is exploited by giving the drug at night. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-141",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Mirtazapine increases the synaptic availability of:",
+   "opts": [
+    "Both 5HT and norepinephrine",
+    "Dopamine only",
+    "GABA only",
+    "Acetylcholine only"
+   ],
+   "ans": 0,
+   "exp": "Mirtazapine increases both 5HT and norepinephrine. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-142",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "NaSSA, the class name for mirtazapine, expands to:",
+   "opts": [
+    "Noradrenergic and specific serotonergic antidepressant",
+    "Norepinephrine and serotonin selective antagonist",
+    "Noradrenergic selective serotonin agonist",
+    "Non-selective serotonin and noradrenaline antagonist"
+   ],
+   "ans": 0,
+   "exp": "NaSSA stands for noradrenergic and specific serotonergic antidepressant. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-143",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "The drug of choice for depression with insomnia is:",
+   "opts": [
+    "Mirtazapine",
+    "Trazodone",
+    "Fluoxetine",
+    "Bupropion"
+   ],
+   "ans": 0,
+   "exp": "Mirtazapine is the DOC for depression with insomnia. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-144",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers",
+   "page": 139,
+   "q": "Unlike SSRI, mirtazapine is free of which troublesome effect?",
+   "opts": [
+    "Erectile dysfunction",
+    "Sedation",
+    "Weight gain",
+    "Antiemetic effect"
+   ],
+   "ans": 0,
+   "exp": "The page notes the absence of erectile dysfunction with mirtazapine, unlike the typical antidepressants. (Book p139)"
+  },
+  {
+   "id": "PHARM-C34-145",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "Bupropion is described as similar to:",
+   "opts": [
+    "Amphetamine",
+    "Benzodiazepines",
+    "Lithium",
+    "Ketamine"
+   ],
+   "ans": 0,
+   "exp": "The page opens the bupropion section by saying it is similar to amphetamine. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-146",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The neurotransmitter principally acted on by bupropion is:",
+   "opts": [
+    "Dopamine",
+    "Serotonin",
+    "GABA",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "Dopamine is the amine named in the mechanism of bupropion. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-147",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The amine reuptake inhibited along with dopamine by bupropion is:",
+   "opts": [
+    "Norepinephrine",
+    "Serotonin",
+    "GABA",
+    "Glycine"
+   ],
+   "ans": 0,
+   "exp": "Bupropion inhibits reuptake of dopamine and norepinephrine. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-148",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "Bupropion is used in:",
+   "opts": [
+    "Smoking dependence",
+    "Opioid dependence",
+    "Alcohol dependence",
+    "Benzodiazepine dependence"
+   ],
+   "ans": 0,
+   "exp": "Smoking dependence is the first use listed. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-149",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The second use listed for bupropion is:",
+   "opts": [
+    "ADHD",
+    "Narcolepsy",
+    "Parkinson's disease",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "ADHD is the second use listed. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-150",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "For obesity, bupropion is combined with:",
+   "opts": [
+    "Naltrexone",
+    "Orlistat",
+    "Liraglutide",
+    "Phentermine"
+   ],
+   "ans": 0,
+   "exp": "Obesity with naltrexone is listed as a use of bupropion. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-151",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The adverse effect of bupropion that limits its use is:",
+   "opts": [
+    "Seizures",
+    "Hepatotoxicity",
+    "Agranulocytosis",
+    "Pulmonary hypertension"
+   ],
+   "ans": 0,
+   "exp": "Seizures are listed as an adverse effect of bupropion. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-152",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "Bupropion causes anxiety to a degree described as:",
+   "opts": [
+    "Maximum among antidepressants",
+    "Minimum among antidepressants",
+    "Equal to that of SSRI",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Anxiety with bupropion is described as the maximum among antidepressants. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-153",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The weight change expected with bupropion is:",
+   "opts": [
+    "Weight loss",
+    "Weight gain",
+    "No change",
+    "Initial gain then loss"
+   ],
+   "ans": 0,
+   "exp": "Weight loss is listed as an effect of bupropion, and it is used with naltrexone for obesity. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-154",
+   "sec": "Bupropion",
+   "page": 140,
+   "q": "The advantage of bupropion over SSRI is that it does not cause:",
+   "opts": [
+    "Erectile dysfunction",
+    "Seizures",
+    "Anxiety",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "The advantage quoted is the absence of erectile dysfunction. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-155",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Brexanolone and zuranolone are classified as:",
+   "opts": [
+    "GABA modulators",
+    "Novel antidepressants",
+    "5HT2 blockers",
+    "MAO inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The two drugs are grouped as GABA modulators. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-156",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Brexanolone is given:",
+   "opts": [
+    "As a continuous intravenous infusion",
+    "Orally once daily",
+    "As a nasal spray",
+    "Intramuscularly"
+   ],
+   "ans": 0,
+   "exp": "Brexanolone is given IV as a continuous infusion. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-157",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Zuranolone is given:",
+   "opts": [
+    "Orally once daily",
+    "As a continuous infusion",
+    "As a nasal spray",
+    "By depot injection"
+   ],
+   "ans": 0,
+   "exp": "Zuranolone is given by the oral route once daily. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-158",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "The indication for brexanolone and zuranolone is:",
+   "opts": [
+    "Severe postpartum depression",
+    "Resistant depression",
+    "Bipolar depression",
+    "Premenstrual syndrome"
+   ],
+   "ans": 0,
+   "exp": "Both are used for severe postpartum depression. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-159",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Mild to moderate postpartum depression is treated with:",
+   "opts": [
+    "SSRI or SNRI",
+    "Brexanolone",
+    "Esketamine",
+    "Lithium"
+   ],
+   "ans": 0,
+   "exp": "The note says SSRI or SNRI are used for mild to moderate postpartum depression. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-160",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "If a patient with mild postpartum depression also has insomnia, the drug named is:",
+   "opts": [
+    "Mirtazapine",
+    "Bupropion",
+    "Vilazodone",
+    "Gepirone"
+   ],
+   "ans": 0,
+   "exp": "Mirtazapine is named for postpartum depression with insomnia. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-161",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "The novel antidepressants are used to treat:",
+   "opts": [
+    "Resistant depression",
+    "Bipolar depression",
+    "Postpartum depression",
+    "Seasonal affective disorder"
+   ],
+   "ans": 0,
+   "exp": "The novel group is introduced as treatment for resistant depression. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-162",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Vilazodone combines SSRI action with:",
+   "opts": [
+    "5HT1A agonism",
+    "5HT2 blockade",
+    "Dopamine reuptake inhibition",
+    "GABA modulation"
+   ],
+   "ans": 0,
+   "exp": "Vilazodone is described as an SSRI plus a 5HT1A agonist. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-163",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Vortioxetine is described as a:",
+   "opts": [
+    "Multimodal serotonin agonist antagonist",
+    "Selective serotonin reuptake inhibitor only",
+    "Serotonin antagonist only",
+    "GABA modulator"
+   ],
+   "ans": 0,
+   "exp": "Vortioxetine is labelled an mSAA drug, a multimodal serotonin agonist antagonist. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-164",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Besides SSRI action and 5HT1A/1B agonism, vortioxetine antagonises:",
+   "opts": [
+    "5HT1D, 5HT3 and 5HT7 receptors",
+    "5HT2 and 5HT4 receptors",
+    "Dopamine and histamine receptors",
+    "Muscarinic receptors"
+   ],
+   "ans": 0,
+   "exp": "Vortioxetine is described as a 5HT1A and 5HT1B agonist and a 5HT1D, 5HT3 and 5HT7 antagonist. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-165",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Esketamine is a derivative of:",
+   "opts": [
+    "Ketamine",
+    "Amphetamine",
+    "Benzodiazepine",
+    "Lithium"
+   ],
+   "ans": 0,
+   "exp": "Esketamine is described as a derivative of ketamine. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-166",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Esketamine is given for resistant depression as a:",
+   "opts": [
+    "Nasal spray",
+    "Continuous infusion",
+    "Weekly injection",
+    "Transdermal patch"
+   ],
+   "ans": 0,
+   "exp": "Esketamine is given as a nasal spray. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-167",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Gepirone acts as a:",
+   "opts": [
+    "5HT1A agonist",
+    "5HT2 blocker",
+    "GABA modulator",
+    "Dopamine agonist"
+   ],
+   "ans": 0,
+   "exp": "Gepirone is described as a 5HT1A agonist. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-168",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "Which 5HT1A agonist is FDA approved for depression?",
+   "opts": [
+    "Gepirone",
+    "Buspirone",
+    "Ipsapirone",
+    "Vilazodone"
+   ],
+   "ans": 0,
+   "exp": "Gepirone is FDA approved to treat depression, whereas buspirone and ipsapirone are not. (Book p140)"
+  },
+  {
+   "id": "PHARM-C34-169",
+   "sec": "GABA Modulators and Novel Antidepressants",
+   "page": 140,
+   "q": "The older 5HT1A agonists noted as NOT FDA approved for depression are:",
+   "opts": [
+    "Buspirone and ipsapirone",
+    "Gepirone and vilazodone",
+    "Vortioxetine and esketamine",
+    "Trazodone and nefazodone"
+   ],
+   "ans": 0,
+   "exp": "The note lists buspirone and ipsapirone as 5HT1A agonists that are not FDA approved for depression. (Book p140)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U34-1",
+   "ch": 34,
+   "n": 1,
+   "title": "Management of Depression and the Monoamine Hypothesis",
+   "sec": "Management of Depression and the Monoamine Hypothesis · p134",
+   "qs": [
+    "PHARM-C34-001",
+    "PHARM-C34-002",
+    "PHARM-C34-003",
+    "PHARM-C34-004",
+    "PHARM-C34-005",
+    "PHARM-C34-006",
+    "PHARM-C34-007",
+    "PHARM-C34-008",
+    "PHARM-C34-009",
+    "PHARM-C34-010",
+    "PHARM-C34-011",
+    "PHARM-C34-012",
+    "PHARM-C34-013",
+    "PHARM-C34-014",
+    "PHARM-C34-015",
+    "PHARM-C34-016",
+    "PHARM-C34-017",
+    "PHARM-C34-018",
+    "PHARM-C34-019",
+    "PHARM-C34-020"
+   ],
+   "guide": "Part 2 opens with the management of depression and the monoamine hypothesis. In the brain synapse the key amines are 5HT or serotonin - described as the most important neurotransmitter - and norepinephrine, both removed by reuptake and both metabolised by monoamine oxidase (MAO), with BDNF also shown. Antidepressants need two to three weeks to work. Drugs are divided into the typical antidepressants, which raise amines by blocking reuptake or MAO, and the atypical antidepressants, which block 5HT2 receptors or act on dopamine, so that the 5HT2-mediated erectile dysfunction of the typical drugs is absent."
+  },
+  {
+   "id": "PHARM-U34-2",
+   "ch": 34,
+   "n": 2,
+   "title": "Classification of Antidepressants",
+   "sec": "Classification of Antidepressants · p135",
+   "qs": [
+    "PHARM-C34-021",
+    "PHARM-C34-022",
+    "PHARM-C34-023",
+    "PHARM-C34-024",
+    "PHARM-C34-025",
+    "PHARM-C34-026",
+    "PHARM-C34-027",
+    "PHARM-C34-028",
+    "PHARM-C34-029",
+    "PHARM-C34-030",
+    "PHARM-C34-031",
+    "PHARM-C34-032",
+    "PHARM-C34-033",
+    "PHARM-C34-034",
+    "PHARM-C34-035",
+    "PHARM-C34-036",
+    "PHARM-C34-037",
+    "PHARM-C34-038"
+   ],
+   "guide": "Antidepressants are classified into typical and atypical. The typical group contains the non-selective tricyclics (clomipramine, imipramine, desipramine, amitriptyline, nortriptyline, doxepin, amoxapine and loxapine), the selective serotonin-norepinephrine reuptake inhibitors (duloxetine, desvenlafaxine, venlafaxine, milnacipran and levomilnacipran), the selective serotonin reuptake inhibitors (sertraline, paroxetine, escitalopram, citalopram, fluvoxamine and fluoxetine) and the MAO inhibitors (non-selective tranylcypromine, isocarboxazide and phenelzine; selective moclobemide and eprobemide). The atypical group contains the 5HT2 blockers, bupropion and the miscellaneous newer agents."
+  },
+  {
+   "id": "PHARM-U34-3",
+   "ch": 34,
+   "n": 3,
+   "title": "MAO Inhibitors: Types, Reversibility and Uses",
+   "sec": "MAO Inhibitors: Types, Reversibility and Uses · p135",
+   "qs": [
+    "PHARM-C34-039",
+    "PHARM-C34-040",
+    "PHARM-C34-041",
+    "PHARM-C34-042",
+    "PHARM-C34-043",
+    "PHARM-C34-044",
+    "PHARM-C34-045",
+    "PHARM-C34-046",
+    "PHARM-C34-047",
+    "PHARM-C34-048",
+    "PHARM-C34-049"
+   ],
+   "guide": "MAO inhibitors are divided by selectivity into selective drugs that block MAO-A and non-selective drugs that block both MAO-A and MAO-B, and by reversibility into reversible and irreversible agents. The irreversible drugs are hit-and-run drugs: their action outlasts their presence in plasma because the binding is permanent, as with proton pump inhibitors and clopidogrel. Their main use listed is as first line treatment of atypical depression, in which mood is elevated on selective occasions."
+  },
+  {
+   "id": "PHARM-U34-4",
+   "ch": 34,
+   "n": 4,
+   "title": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome",
+   "sec": "MAO Inhibitor Adverse Effects: Cheese Reaction and Serotonin Syndrome · p136",
+   "qs": [
+    "PHARM-C34-050",
+    "PHARM-C34-051",
+    "PHARM-C34-052",
+    "PHARM-C34-053",
+    "PHARM-C34-054",
+    "PHARM-C34-055",
+    "PHARM-C34-056",
+    "PHARM-C34-057",
+    "PHARM-C34-058",
+    "PHARM-C34-059",
+    "PHARM-C34-060",
+    "PHARM-C34-061",
+    "PHARM-C34-062"
+   ],
+   "guide": "The two important adverse effects of MAO inhibitors are the cheese reaction and serotonin syndrome. The cheese reaction, from tyramine in tyramine-rich food, is treated with intravenous phentolamine. Serotonin syndrome follows an excess of 5HT and presents with sympathetic activation with raised blood pressure and heart rate, sweating, mydriasis, rigid muscles, ocular clonus and raised temperature. It is diagnosed by Hunter's criteria and treated with sympatholytic treatment plus a benzodiazepine; if there is no response, the drug of choice is cyproheptadine, which blocks 5HT2 receptors."
+  },
+  {
+   "id": "PHARM-U34-5",
+   "ch": 34,
+   "n": 5,
+   "title": "Tricyclic Antidepressants: Uses",
+   "sec": "Tricyclic Antidepressants: Uses · p136",
+   "qs": [
+    "PHARM-C34-063",
+    "PHARM-C34-064",
+    "PHARM-C34-065",
+    "PHARM-C34-066",
+    "PHARM-C34-067",
+    "PHARM-C34-068",
+    "PHARM-C34-069",
+    "PHARM-C34-070",
+    "PHARM-C34-071",
+    "PHARM-C34-072",
+    "PHARM-C34-073",
+    "PHARM-C34-074",
+    "PHARM-C34-075",
+    "PHARM-C34-076",
+    "PHARM-C34-077"
+   ],
+   "guide": "Tricyclics are used in typical depression and, individually, for a range of other indications: clomipramine, which inhibits 5HT reuptake most, is the tricyclic of choice in obsessive-compulsive disorder (though the drug of choice overall is an SSRI); imipramine is used in nocturnal enuresis (where the drug of choice is desmopressin) and in cocaine dependence; desipramine inhibits dopamine and norepinephrine reuptake most; amitriptyline is the most commonly used tricyclic, the most common cause of death by suicide among them, the tricyclic of choice for neuropathy and has the greatest antimuscarinic effect; nortriptyline is a second line drug for smoking dependence; doxepin, an H1 blocker, is used for insomnia and anxiety; and amoxapine, which blocks D2 receptors, is used in psychotic depression."
+  },
+  {
+   "id": "PHARM-U34-6",
+   "ch": 34,
+   "n": 6,
+   "title": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity",
+   "sec": "Tricyclic Antidepressants: Side Effects, Contraindications and Toxicity · p137",
+   "qs": [
+    "PHARM-C34-078",
+    "PHARM-C34-079",
+    "PHARM-C34-080",
+    "PHARM-C34-081",
+    "PHARM-C34-082",
+    "PHARM-C34-083",
+    "PHARM-C34-084",
+    "PHARM-C34-085",
+    "PHARM-C34-086",
+    "PHARM-C34-087",
+    "PHARM-C34-088",
+    "PHARM-C34-089",
+    "PHARM-C34-090"
+   ],
+   "guide": "The receptor blockade profile of tricyclics explains their adverse effects: muscarinic block gives mydriasis, urinary retention and dry mouth; H1 block gives sedation, for which night-time dosing is used, and obesity through increased appetite; alpha-1 block gives postural hypotension. These effects are shared with typical and atypical antipsychotics, and they make tricyclics contraindicated in glaucoma and benign prostatic hyperplasia. Overdose is lethal even with five to ten tablets, producing metabolic acidosis and arrhythmia; the ionised form of the tricyclic blocks sodium channels and causes death, and the drug of choice is sodium bicarbonate, while the unionised form does not block sodium channels."
+  },
+  {
+   "id": "PHARM-U34-7",
+   "ch": 34,
+   "n": 7,
+   "title": "Serotonin Norepinephrine Reuptake Inhibitors",
+   "sec": "Serotonin Norepinephrine Reuptake Inhibitors · p137",
+   "qs": [
+    "PHARM-C34-091",
+    "PHARM-C34-092",
+    "PHARM-C34-093",
+    "PHARM-C34-094",
+    "PHARM-C34-095",
+    "PHARM-C34-096",
+    "PHARM-C34-097",
+    "PHARM-C34-098",
+    "PHARM-C34-099",
+    "PHARM-C34-100",
+    "PHARM-C34-101",
+    "PHARM-C34-102",
+    "PHARM-C34-103",
+    "PHARM-C34-104"
+   ],
+   "guide": "SNRI action is dose dependent: at low dose they predominantly inhibit 5HT reuptake and at high dose they predominantly inhibit norepinephrine reuptake. They are used in typical depression and in depression with postural hypotension or postural tachycardia syndrome, and have miscellaneous uses including stress urinary incontinence, the neuroses (PTSD, OCD, anorexia nervosa, phobia and bulimia), recurrent pain syndromes such as fibromyalgia, premenstrual syndrome with irritability and hot flashes after the menopause. Their side effect is hypertension; venlafaxine, being short acting, carries the greatest risk of withdrawal symptoms while milnacipran carries the least or none."
+  },
+  {
+   "id": "PHARM-U34-8",
+   "ch": 34,
+   "n": 8,
+   "title": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Uses and Individual Drugs · p138",
+   "qs": [
+    "PHARM-C34-105",
+    "PHARM-C34-106",
+    "PHARM-C34-107",
+    "PHARM-C34-108",
+    "PHARM-C34-109",
+    "PHARM-C34-110",
+    "PHARM-C34-111",
+    "PHARM-C34-112",
+    "PHARM-C34-113",
+    "PHARM-C34-114",
+    "PHARM-C34-115",
+    "PHARM-C34-116",
+    "PHARM-C34-117",
+    "PHARM-C34-118",
+    "PHARM-C34-119",
+    "PHARM-C34-120",
+    "PHARM-C34-121"
+   ],
+   "guide": "SSRI are the drug of choice for typical and atypical depression and are also used in neurosis and for irritability in PMS, with other uses in fibromyalgia and hot flashes. Fluoxetine is the longest acting, with a half-life of about 50 hours and an active metabolite norfluoxetine whose half-life is about 200 hours, so it causes no withdrawal symptoms. Paroxetine has no active metabolite, is short acting and carries the maximum withdrawal symptoms, the maximum erectile dysfunction, the most teratogenic risk and the maximum enzyme inhibition, blocking CYP2D6 and preventing activation of tamoxifen to endoxifen; it also blocks H1, so it sedates and is given at night. Dapoxetine is used for premature ejaculation, often fixed-dose combined with sildenafil. Escitalopram is the most specific SSRI, and all SSRI are teratogenic."
+  },
+  {
+   "id": "PHARM-U34-9",
+   "ch": 34,
+   "n": 9,
+   "title": "Selective Serotonin Reuptake Inhibitors: Side Effects",
+   "sec": "Selective Serotonin Reuptake Inhibitors: Side Effects · p138",
+   "qs": [
+    "PHARM-C34-122",
+    "PHARM-C34-123",
+    "PHARM-C34-124",
+    "PHARM-C34-125",
+    "PHARM-C34-126",
+    "PHARM-C34-127",
+    "PHARM-C34-128",
+    "PHARM-C34-129",
+    "PHARM-C34-130",
+    "PHARM-C34-131",
+    "PHARM-C34-132"
+   ],
+   "guide": "Raised 5HT stimulates receptors to produce the shared SSRI and SNRI effects: transient anxiety, insomnia (so the dose is given in the morning) and vivid dreams, with 5HT2 stimulation in the spinal cord causing erectile dysfunction - the commonest delayed side effect - anorgasmia and delayed ejaculation, and 5HT3 stimulation causing nausea and vomiting, the commonest effect, and loose stools. Other effects are akathisia, bleeding risk and osteoporosis. With continued treatment, prolonged stimulation of 5HT2 receptors leads to their downregulation over a few weeks and anxiolysis; a benzodiazepine is added for a month to cover the initial anxiety."
+  },
+  {
+   "id": "PHARM-U34-10",
+   "ch": 34,
+   "n": 10,
+   "title": "Atypical Antidepressants: 5HT2 Blockers",
+   "sec": "Atypical Antidepressants: 5HT2 Blockers · p139",
+   "qs": [
+    "PHARM-C34-133",
+    "PHARM-C34-134",
+    "PHARM-C34-135",
+    "PHARM-C34-136",
+    "PHARM-C34-137",
+    "PHARM-C34-138",
+    "PHARM-C34-139",
+    "PHARM-C34-140",
+    "PHARM-C34-141",
+    "PHARM-C34-142",
+    "PHARM-C34-143",
+    "PHARM-C34-144"
+   ],
+   "guide": "The older 5HT2 blockers are mild inhibitors of 5HT reuptake: trazodone is used for depression with insomnia but causes sedation through H1 block and erectile dysfunction, while nefazodone is obsolete because it is hepatotoxic. The newer drugs are mianserin and mirtazapine; mirtazapine blocks 5HT2 and also 5HT3, giving an antiemetic effect, causes sedation suited to night-time dosing and increases both 5HT and norepinephrine, which is why it is called a noradrenergic and specific serotonergic antidepressant (NaSSA). It does not cause erectile dysfunction and is the drug of choice for depression with insomnia."
+  },
+  {
+   "id": "PHARM-U34-11",
+   "ch": 34,
+   "n": 11,
+   "title": "Bupropion",
+   "sec": "Bupropion · p140",
+   "qs": [
+    "PHARM-C34-145",
+    "PHARM-C34-146",
+    "PHARM-C34-147",
+    "PHARM-C34-148",
+    "PHARM-C34-149",
+    "PHARM-C34-150",
+    "PHARM-C34-151",
+    "PHARM-C34-152",
+    "PHARM-C34-153",
+    "PHARM-C34-154"
+   ],
+   "guide": "Bupropion is similar to amphetamine and acts on dopamine and norepinephrine. It is used in smoking dependence, ADHD and, combined with naltrexone, in obesity. Its adverse effects are seizures and anxiety - the greatest among the antidepressants - together with weight loss. Its advantage is that it does not cause erectile dysfunction."
+  },
+  {
+   "id": "PHARM-U34-12",
+   "ch": 34,
+   "n": 12,
+   "title": "GABA Modulators and Novel Antidepressants",
+   "sec": "GABA Modulators and Novel Antidepressants · p140",
+   "qs": [
+    "PHARM-C34-155",
+    "PHARM-C34-156",
+    "PHARM-C34-157",
+    "PHARM-C34-158",
+    "PHARM-C34-159",
+    "PHARM-C34-160",
+    "PHARM-C34-161",
+    "PHARM-C34-162",
+    "PHARM-C34-163",
+    "PHARM-C34-164",
+    "PHARM-C34-165",
+    "PHARM-C34-166",
+    "PHARM-C34-167",
+    "PHARM-C34-168",
+    "PHARM-C34-169"
+   ],
+   "guide": "The miscellaneous atypical group contains the GABA modulators brexanolone, given as a continuous intravenous infusion, and zuranolone, given orally once daily, both for severe postpartum depression; mild to moderate postpartum depression is treated with SSRI or SNRI, with mirtazapine if insomnia is present. The novel antidepressants are used for resistant depression: vilazodone combines SSRI action with 5HT1A agonism, vortioxetine is a multimodal serotonin agonist-antagonist, esketamine is a ketamine derivative given as a nasal spray, and gepirone is a 5HT1A agonist approved by the FDA for depression, whereas the older 5HT1A agonists buspirone and ipsapirone are not FDA approved for it."
+  }
+ ]
+}
