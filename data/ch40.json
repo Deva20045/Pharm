@@ -1,0 +1,1631 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C40-001",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "The example given for a third-generation cephalosporin is:",
+   "opts": [
+    "Ceftriaxone",
+    "Cefazolin",
+    "Cefuroxime",
+    "Cefiderocol"
+   ],
+   "ans": 0,
+   "exp": "Ceftriaxone (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-002",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "From first to third generation, Gram-positive activity generally:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Remains absent",
+    "Becomes antifungal"
+   ],
+   "ans": 0,
+   "exp": "Decreases (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-003",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "From first to third generation, Gram-negative activity generally:",
+   "opts": [
+    "Increases",
+    "Decreases",
+    "Remains absent",
+    "Becomes antiviral"
+   ],
+   "ans": 0,
+   "exp": "Increases (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-004",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "First-generation cephalosporins mainly cover Gram-positive:",
+   "opts": [
+    "Aerobes",
+    "Anaerobes only",
+    "Atypical organisms",
+    "Protozoa"
+   ],
+   "ans": 0,
+   "exp": "Aerobes (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-005",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Second-generation activity includes:",
+   "opts": [
+    "Aerobes and anaerobes",
+    "Only viruses",
+    "Only fungi",
+    "Only mycobacteria"
+   ],
+   "ans": 0,
+   "exp": "Aerobes and anaerobes (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-006",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Third-generation Gram-positive emphasis includes:",
+   "opts": [
+    "Pneumococcus",
+    "MRSA only",
+    "Enterococcus only",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "Pneumococcus (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-007",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fourth-generation Gram-positive spectrum is:",
+   "opts": [
+    "Similar to third generation",
+    "Absent",
+    "Only MRSA",
+    "Only enterococci"
+   ],
+   "ans": 0,
+   "exp": "Similar to third generation (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-008",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fourth-generation Gram-negative spectrum is:",
+   "opts": [
+    "Greater than third generation",
+    "Less than first generation",
+    "Absent",
+    "Only anaerobes"
+   ],
+   "ans": 0,
+   "exp": "Greater than third generation (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-009",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fourth-generation added Gram-negative targets include:",
+   "opts": [
+    "Pseudomonas, Enterobacter, ESBL, Serratia and Proteus",
+    "MRSA, VRE and pneumococcus only",
+    "Mycoplasma and Legionella",
+    "Protozoa and fungi"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas, Enterobacter, ESBL, Serratia and Proteus (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-010",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fifth-generation Gram-positive activity is:",
+   "opts": [
+    "Greater than third generation",
+    "Absent",
+    "Less than first generation",
+    "Restricted to anaerobes"
+   ],
+   "ans": 0,
+   "exp": "Greater than third generation (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-011",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fifth-generation coverage includes:",
+   "opts": [
+    "Staphylococcus, Streptococcus and MRSA",
+    "Only Pseudomonas",
+    "Only atypical bacteria",
+    "Only fungi"
+   ],
+   "ans": 0,
+   "exp": "Staphylococcus, Streptococcus and MRSA (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-012",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Fifth-generation Gram-negative activity is:",
+   "opts": [
+    "Similar to third generation",
+    "Absent",
+    "Greater than sixth in every case",
+    "Only anaerobic"
+   ],
+   "ans": 0,
+   "exp": "Similar to third generation (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-013",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "The sixth-generation example is:",
+   "opts": [
+    "Cefiderocol",
+    "Ceftriaxone",
+    "Ceftaroline",
+    "Cefepime"
+   ],
+   "ans": 0,
+   "exp": "Cefiderocol (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-014",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Cefiderocol is a:",
+   "opts": [
+    "Siderophore cephalosporin carrying an iron molecule",
+    "Glycopeptide",
+    "Monobactam",
+    "Carbapenem"
+   ],
+   "ans": 0,
+   "exp": "Siderophore cephalosporin carrying an iron molecule (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-015",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Reduced porin production causes cephalosporin:",
+   "opts": [
+    "Resistance",
+    "Synergy",
+    "Hypersensitivity",
+    "Oral absorption"
+   ],
+   "ans": 0,
+   "exp": "Resistance (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-016",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Cefiderocol bypasses porin-related resistance by entering via:",
+   "opts": [
+    "An iron pump",
+    "A folate transporter",
+    "VMAT-2",
+    "The sodium channel"
+   ],
+   "ans": 0,
+   "exp": "An iron pump (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-017",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Cefiderocol acts mainly against:",
+   "opts": [
+    "Gram-negative organisms",
+    "Gram-positive organisms only",
+    "Protozoa",
+    "Fungi"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative organisms (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-018",
+   "sec": "Cephalosporin Generations and Spectrum",
+   "page": 159,
+   "q": "Cefiderocol is used for resistant:",
+   "opts": [
+    "UTI and ventilator-associated pneumonia",
+    "Otitis and mastitis",
+    "Syphilis and yaws",
+    "Alcohol withdrawal"
+   ],
+   "ans": 0,
+   "exp": "UTI and ventilator-associated pneumonia (Book p159)"
+  },
+  {
+   "id": "PHARM-C40-019",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefazolin belongs to the:",
+   "opts": [
+    "First generation",
+    "Second generation",
+    "Third generation",
+    "Fifth generation"
+   ],
+   "ans": 0,
+   "exp": "First generation (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-020",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The route of cefazolin is:",
+   "opts": [
+    "Intravenous",
+    "Oral",
+    "Intranasal",
+    "Transdermal"
+   ],
+   "ans": 0,
+   "exp": "Intravenous (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-021",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefazolin is the drug of choice for:",
+   "opts": [
+    "Surgical prophylaxis",
+    "MRSA bacteraemia",
+    "VRE",
+    "Pseudomonal meningitis"
+   ],
+   "ans": 0,
+   "exp": "Surgical prophylaxis (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-022",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "For surgical prophylaxis cefazolin is given:",
+   "opts": [
+    "60 minutes before surgery",
+    "After wound closure",
+    "24 hours after surgery",
+    "One month before surgery"
+   ],
+   "ans": 0,
+   "exp": "60 minutes before surgery (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-023",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefazolin has maximal effect against:",
+   "opts": [
+    "Staphylococci and streptococci",
+    "Pseudomonas and Acinetobacter",
+    "Mycoplasma and Legionella",
+    "Bacteroides only"
+   ],
+   "ans": 0,
+   "exp": "Staphylococci and streptococci (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-024",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefuroxime belongs to the:",
+   "opts": [
+    "Second generation",
+    "First generation",
+    "Fourth generation",
+    "Sixth generation"
+   ],
+   "ans": 0,
+   "exp": "Second generation (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-025",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefuroxime covers Gram-positive and Gram-negative:",
+   "opts": [
+    "Aerobes",
+    "Only anaerobes",
+    "Only atypical organisms",
+    "Only fungi"
+   ],
+   "ans": 0,
+   "exp": "Aerobes (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-026",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefuroxime is used for:",
+   "opts": [
+    "Respiratory infection such as pneumonia or otitis",
+    "MRSA endocarditis",
+    "VRE",
+    "Neurosyphilis"
+   ],
+   "ans": 0,
+   "exp": "Respiratory infection such as pneumonia or otitis (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-027",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefuroxime is commonly used in children because it is:",
+   "opts": [
+    "Cheaper",
+    "The only oral cephalosporin",
+    "Free of allergy",
+    "Active against all bacteria"
+   ],
+   "ans": 0,
+   "exp": "Cheaper (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-028",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The cephamycins are:",
+   "opts": [
+    "Cefotetan and cefoxitin",
+    "Cefazolin and cefuroxime",
+    "Ceftriaxone and cefixime",
+    "Cefepime and cefpirome"
+   ],
+   "ans": 0,
+   "exp": "Cefotetan and cefoxitin (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-029",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cephamycins cover:",
+   "opts": [
+    "Gram-positive, Gram-negative and anaerobic organisms",
+    "Only Gram-positive aerobes",
+    "Only Gram-negative aerobes",
+    "Only atypical bacteria"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive, Gram-negative and anaerobic organisms (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-030",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cephamycins are used for:",
+   "opts": [
+    "Abdominal and pelvic infections",
+    "Smoking cessation",
+    "Neurosyphilis",
+    "Dry eye"
+   ],
+   "ans": 0,
+   "exp": "Abdominal and pelvic infections (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-031",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Ceftriaxone is given by:",
+   "opts": [
+    "IV or IM route",
+    "Oral route only",
+    "Transdermal route",
+    "Intranasal route"
+   ],
+   "ans": 0,
+   "exp": "IV or IM route (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-032",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Ceftriaxone is a drug of choice for infections due to:",
+   "opts": [
+    "E. coli, Klebsiella and Providencia",
+    "MRSA and VRE",
+    "Mycoplasma and Legionella",
+    "Fungi"
+   ],
+   "ans": 0,
+   "exp": "E. coli, Klebsiella and Providencia (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-033",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Ceftriaxone is also a drug of choice for:",
+   "opts": [
+    "Typhoid and gonorrhoea",
+    "Tuberculosis and leprosy",
+    "Malaria and amoebiasis",
+    "Influenza and COVID-19"
+   ],
+   "ans": 0,
+   "exp": "Typhoid and gonorrhoea (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-034",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Gonorrhoea can be treated with ceftriaxone as:",
+   "opts": [
+    "Monotherapy",
+    "Mandatory triple therapy",
+    "Topical therapy",
+    "Prophylaxis only"
+   ],
+   "ans": 0,
+   "exp": "Monotherapy (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-035",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The empirical drug of choice for meningitis listed is:",
+   "opts": [
+    "Ceftriaxone",
+    "Cefazolin",
+    "Cefiderocol",
+    "Cefoxitin"
+   ],
+   "ans": 0,
+   "exp": "Ceftriaxone (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-036",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "A shorter-acting alternative to ceftriaxone in meningitis is:",
+   "opts": [
+    "Cefotaxime",
+    "Cefixime",
+    "Cefoperazone",
+    "Ceftaroline"
+   ],
+   "ans": 0,
+   "exp": "Cefotaxime (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-037",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The oral drug of choice for typhoid is:",
+   "opts": [
+    "Cefixime",
+    "Ceftriaxone",
+    "Cefepime",
+    "Cefazolin"
+   ],
+   "ans": 0,
+   "exp": "Cefixime (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-038",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The antipseudomonal third-generation drugs listed are:",
+   "opts": [
+    "Ceftolozane, cefoperazone and ceftazidime",
+    "Cefazolin, cefuroxime and cefotetan",
+    "Ceftaroline, ceftobiprole and cefiderocol",
+    "Cefixime, cefotaxime and ceftriaxone"
+   ],
+   "ans": 0,
+   "exp": "Ceftolozane, cefoperazone and ceftazidime (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-039",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "The best antipseudomonal cephalosporin on the page is:",
+   "opts": [
+    "Ceftazidime",
+    "Cefazolin",
+    "Cefuroxime",
+    "Ceftaroline"
+   ],
+   "ans": 0,
+   "exp": "Ceftazidime (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-040",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Fourth-generation cephalosporins are given by the:",
+   "opts": [
+    "IV route",
+    "Oral route",
+    "Intranasal route",
+    "Topical route"
+   ],
+   "ans": 0,
+   "exp": "IV route (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-041",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Fourth-generation examples are:",
+   "opts": [
+    "Cefepime and cefpirome",
+    "Ceftriaxone and cefixime",
+    "Ceftaroline and ceftobiprole",
+    "Cefotetan and cefoxitin"
+   ],
+   "ans": 0,
+   "exp": "Cefepime and cefpirome (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-042",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Fourth-generation drugs add coverage of Pseudomonas, Proteus, Enterobacter, Acinetobacter, Serratia and:",
+   "opts": [
+    "ESBL organisms",
+    "MRSA only",
+    "VRE only",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "ESBL organisms (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-043",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Fifth-generation examples are:",
+   "opts": [
+    "Ceftobiprole and ceftaroline",
+    "Cefepime and cefpirome",
+    "Cefotetan and cefoxitin",
+    "Ceftriaxone and cefixime"
+   ],
+   "ans": 0,
+   "exp": "Ceftobiprole and ceftaroline (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-044",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Fifth-generation cephalosporins are useful against:",
+   "opts": [
+    "MRSA and streptococci/staphylococci",
+    "Only Pseudomonas",
+    "Only anaerobes",
+    "Only atypicals"
+   ],
+   "ans": 0,
+   "exp": "MRSA and streptococci/staphylococci (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-045",
+   "sec": "Individual Cephalosporins",
+   "page": 160,
+   "q": "Cefiderocol is administered:",
+   "opts": [
+    "Intravenously",
+    "Orally",
+    "Intranasally",
+    "Topically"
+   ],
+   "ans": 0,
+   "exp": "Intravenously (Book p160)"
+  },
+  {
+   "id": "PHARM-C40-046",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Carbapenems cover:",
+   "opts": [
+    "Gram-positive and Gram-negative aerobes and anaerobes",
+    "Only Gram-positive aerobes",
+    "Only Gram-negative anaerobes",
+    "Only atypical organisms"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive and Gram-negative aerobes and anaerobes (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-047",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Carbapenems are drugs of choice for:",
+   "opts": [
+    "ESBL, Serratia, Enterobacter and Acinetobacter",
+    "MRSA only",
+    "VRE only",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "ESBL, Serratia, Enterobacter and Acinetobacter (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-048",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Most carbapenems have:",
+   "opts": [
+    "Antipseudomonal activity",
+    "No Gram-negative action",
+    "Only oral action",
+    "Only antifolate action"
+   ],
+   "ans": 0,
+   "exp": "Antipseudomonal activity (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-049",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Imipenem is very short acting because it is metabolised by:",
+   "opts": [
+    "Renal dihydropeptidase",
+    "Hepatic CYP3A4",
+    "Plasma cholinesterase",
+    "MAO-B"
+   ],
+   "ans": 0,
+   "exp": "Renal dihydropeptidase (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-050",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Imipenem is combined with:",
+   "opts": [
+    "Cilastatin",
+    "Clavulanate",
+    "Tazobactam",
+    "Avibactam"
+   ],
+   "ans": 0,
+   "exp": "Cilastatin (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-051",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Cilastatin acts by inhibiting:",
+   "opts": [
+    "Renal dihydropeptidase",
+    "Beta-lactamase",
+    "PBP",
+    "DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "Renal dihydropeptidase (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-052",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Imipenem activity favours:",
+   "opts": [
+    "Gram-positive over Gram-negative organisms",
+    "Gram-negative over Gram-positive organisms",
+    "Only anaerobes",
+    "Only atypicals"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive over Gram-negative organisms (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-053",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Doripenem and meropenem activity favours:",
+   "opts": [
+    "Gram-negative over Gram-positive organisms",
+    "Gram-positive over Gram-negative organisms",
+    "Only enterococci",
+    "Only fungi"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative over Gram-positive organisms (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-054",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "The carbapenem of choice for meningitis is:",
+   "opts": [
+    "Meropenem",
+    "Imipenem",
+    "Ertapenem",
+    "Aztreonam"
+   ],
+   "ans": 0,
+   "exp": "Meropenem (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-055",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "The longest-acting carbapenem with once-daily dosing is:",
+   "opts": [
+    "Ertapenem",
+    "Imipenem",
+    "Meropenem",
+    "Doripenem"
+   ],
+   "ans": 0,
+   "exp": "Ertapenem (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-056",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Ertapenem spectrum is chiefly:",
+   "opts": [
+    "Anaerobes with low Gram-negative activity",
+    "Only MRSA",
+    "Only Pseudomonas",
+    "Only atypical bacteria"
+   ],
+   "ans": 0,
+   "exp": "Anaerobes with low Gram-negative activity (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-057",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Ertapenem is useful in:",
+   "opts": [
+    "Pelvic and abdominal infections",
+    "Neurosyphilis",
+    "Alcohol withdrawal",
+    "Dry eye"
+   ],
+   "ans": 0,
+   "exp": "Pelvic and abdominal infections (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-058",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "The monobactam discussed is:",
+   "opts": [
+    "Aztreonam",
+    "Imipenem",
+    "Cefiderocol",
+    "Vancomycin"
+   ],
+   "ans": 0,
+   "exp": "Aztreonam (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-059",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Aztreonam covers:",
+   "opts": [
+    "Only Gram-negative organisms",
+    "Only Gram-positive organisms",
+    "Only anaerobes",
+    "Only fungi"
+   ],
+   "ans": 0,
+   "exp": "Only Gram-negative organisms (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-060",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Aztreonam has no cross-sensitivity with other beta-lactams except:",
+   "opts": [
+    "Ceftazidime",
+    "Cefazolin",
+    "Cefuroxime",
+    "Ceftriaxone"
+   ],
+   "ans": 0,
+   "exp": "Ceftazidime (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-061",
+   "sec": "Carbapenems and Monobactams",
+   "page": 161,
+   "q": "Aztreonam is used for Gram-negative infection in a patient with:",
+   "opts": [
+    "Penicillin allergy",
+    "Vancomycin allergy only",
+    "Renal stones",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Penicillin allergy (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-062",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "Type I beta-lactam hypersensitivity presents with:",
+   "opts": [
+    "Rash and anaphylaxis",
+    "Hemolytic anaemia",
+    "Neutropenia",
+    "Pseudolithiasis"
+   ],
+   "ans": 0,
+   "exp": "Rash and anaphylaxis (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-063",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "Type II beta-lactam hypersensitivity presents with:",
+   "opts": [
+    "Hemolytic anaemia",
+    "Anaphylaxis",
+    "Red-man syndrome",
+    "Kernicterus"
+   ],
+   "ans": 0,
+   "exp": "Hemolytic anaemia (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-064",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "Pseudomembranous enterocolitis follows beta-lactam suppression of:",
+   "opts": [
+    "Normal gut flora",
+    "Renal flora",
+    "Skin keratin",
+    "Hepatic enzymes"
+   ],
+   "ans": 0,
+   "exp": "Normal gut flora (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-065",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "Loss of normal flora promotes infection with:",
+   "opts": [
+    "Clostridium difficile",
+    "Mycoplasma",
+    "Treponema",
+    "Legionella"
+   ],
+   "ans": 0,
+   "exp": "Clostridium difficile (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-066",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "The greatest beta-lactam risk of pseudomembranous enterocolitis is with:",
+   "opts": [
+    "Third-generation cephalosporins",
+    "Penicillin V",
+    "Aztreonam",
+    "Benzathine penicillin"
+   ],
+   "ans": 0,
+   "exp": "Third-generation cephalosporins (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-067",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 161,
+   "q": "The risk order shown after third-generation cephalosporins is:",
+   "opts": [
+    "Aminopenicillins, fluoroquinolones, then clindamycin",
+    "Clindamycin, penicillin V, then vancomycin",
+    "Carbapenems, polymyxins, then macrolides",
+    "Sulfonamides, tetracyclines, then bacitracin"
+   ],
+   "ans": 0,
+   "exp": "Aminopenicillins, fluoroquinolones, then clindamycin (Book p161)"
+  },
+  {
+   "id": "PHARM-C40-068",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "MTT-containing cephalosporins can cause a:",
+   "opts": [
+    "Disulfiram-like reaction with alcohol",
+    "Serotonin syndrome",
+    "Red-man syndrome",
+    "Cheese reaction"
+   ],
+   "ans": 0,
+   "exp": "Disulfiram-like reaction with alcohol (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-069",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "MTT cephalosporins can produce bleeding through:",
+   "opts": [
+    "Hypoprothrombinaemia",
+    "Thrombocytosis",
+    "Polycythaemia",
+    "Factor VIII excess"
+   ],
+   "ans": 0,
+   "exp": "Hypoprothrombinaemia (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-070",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Drugs associated with MTT-related hypoprothrombinaemia include:",
+   "opts": [
+    "Moxalactam, cefoperazone, cefamandole and cefotetan",
+    "Cefazolin, cefuroxime, cefixime and cefiderocol",
+    "Imipenem, meropenem, aztreonam and vancomycin",
+    "Penicillin G, V, amoxicillin and ampicillin"
+   ],
+   "ans": 0,
+   "exp": "Moxalactam, cefoperazone, cefamandole and cefotetan (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-071",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Ceftriaxone specifically causes:",
+   "opts": [
+    "Pseudolithiasis and kernicterus",
+    "Red-man syndrome and deafness",
+    "Neutropenia only",
+    "Psychosis and seizures"
+   ],
+   "ans": 0,
+   "exp": "Pseudolithiasis and kernicterus (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-072",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Beta-lactams avoided in meningitis because of seizure risk include:",
+   "opts": [
+    "Imipenem and rapidly pushed IV ampicillin",
+    "Meropenem and ceftriaxone",
+    "Aztreonam and cefixime",
+    "Penicillin V and cefuroxime"
+   ],
+   "ans": 0,
+   "exp": "Imipenem and rapidly pushed IV ampicillin (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-073",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "The anti-staphylococcal penicillin associated with hepatotoxicity is:",
+   "opts": [
+    "Oxacillin",
+    "Nafcillin",
+    "Methicillin",
+    "Cloxacillin"
+   ],
+   "ans": 0,
+   "exp": "Oxacillin (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-074",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "The anti-staphylococcal penicillin associated with neutropenia is:",
+   "opts": [
+    "Nafcillin",
+    "Oxacillin",
+    "Methicillin",
+    "Dicloxacillin"
+   ],
+   "ans": 0,
+   "exp": "Nafcillin (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-075",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "In renal failure, beta-lactam doses generally should be:",
+   "opts": [
+    "Adjusted",
+    "Doubled routinely",
+    "Left unchanged in all cases",
+    "Stopped permanently"
+   ],
+   "ans": 0,
+   "exp": "Adjusted (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-076",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Renal-dose-adjustment exceptions are:",
+   "opts": [
+    "Cefpiramide and cefoperazone",
+    "Cefazolin and cefuroxime",
+    "Ceftriaxone and cefixime",
+    "Cefepime and cefpirome"
+   ],
+   "ans": 0,
+   "exp": "Cefpiramide and cefoperazone (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-077",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Cefpiramide and cefoperazone are excreted:",
+   "opts": [
+    "Completely by the liver",
+    "Completely by the kidney",
+    "Through the lungs",
+    "In sweat"
+   ],
+   "ans": 0,
+   "exp": "Completely by the liver (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-078",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Liver-excreted cefpiramide and cefoperazone should not be used for:",
+   "opts": [
+    "UTI",
+    "Pneumonia",
+    "Pelvic infection",
+    "Endocarditis"
+   ],
+   "ans": 0,
+   "exp": "UTI (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-079",
+   "sec": "Beta-lactam Adverse Effects and Dosing",
+   "page": 162,
+   "q": "Another antibacterial noted as unsuitable for UTI is:",
+   "opts": [
+    "Moxifloxacin",
+    "Ciprofloxacin",
+    "Cotrimoxazole",
+    "Fosfomycin"
+   ],
+   "ans": 0,
+   "exp": "Moxifloxacin (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-080",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 162,
+   "q": "The Gram-negative active drug-efflux pump shown is:",
+   "opts": [
+    "MDR-1",
+    "P-glycoprotein in human gut only",
+    "VMAT-2",
+    "Bactoprenol"
+   ],
+   "ans": 0,
+   "exp": "MDR-1 (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-081",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 162,
+   "q": "An efflux pump moves drug:",
+   "opts": [
+    "Against its concentration gradient",
+    "Only down its gradient",
+    "Into the bacterium",
+    "Into the nucleus"
+   ],
+   "ans": 0,
+   "exp": "Against its concentration gradient (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-082",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 162,
+   "q": "Examples using active efflux include:",
+   "opts": [
+    "Pseudomonas, E. coli and gonococci",
+    "Only streptococci",
+    "Only enterococci",
+    "Only clostridia"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas, E. coli and gonococci (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-083",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 162,
+   "q": "Reduced porin production causes resistance by:",
+   "opts": [
+    "Preventing penicillin from crossing the outer wall",
+    "Increasing drug entry",
+    "Increasing PBP affinity",
+    "Blocking renal excretion"
+   ],
+   "ans": 0,
+   "exp": "Preventing penicillin from crossing the outer wall (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-084",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 162,
+   "q": "An organism exemplifying reduced porins is:",
+   "opts": [
+    "Pseudomonas",
+    "Streptococcus",
+    "Enterococcus",
+    "Treponema"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas (Book p162)"
+  },
+  {
+   "id": "PHARM-C40-085",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "A resistance mechanism shared by Gram-positive and Gram-negative organisms is:",
+   "opts": [
+    "Alteration of penicillin-binding protein",
+    "Only MDR-1 efflux",
+    "Only reduced porins",
+    "Only loss of a cell wall"
+   ],
+   "ans": 0,
+   "exp": "Alteration of penicillin-binding protein (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-086",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "MRSA has altered PBP through the:",
+   "opts": [
+    "mecA gene",
+    "vanA gene",
+    "SOD1 gene",
+    "rpoB gene"
+   ],
+   "ans": 0,
+   "exp": "mecA gene (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-087",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Ampicillin resistance in H. influenzae may result from:",
+   "opts": [
+    "Altered PBP",
+    "D-Ala to D-Lac only",
+    "No cell wall",
+    "Loss of ADH"
+   ],
+   "ans": 0,
+   "exp": "Altered PBP (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-088",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Ambler type A beta-lactamases are:",
+   "opts": [
+    "ESBLs including penicillinase, cephalosporinase and monobactamase",
+    "Metalloenzymes except monobactamase",
+    "Only cephalosporinase",
+    "Only cloxacillinase"
+   ],
+   "ans": 0,
+   "exp": "ESBLs including penicillinase, cephalosporinase and monobactamase (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-089",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Ambler type B includes:",
+   "opts": [
+    "All major beta-lactamase activity except monobactamase",
+    "Only ESBL penicillinase",
+    "Only cephalosporinase",
+    "Only cloxacillinase"
+   ],
+   "ans": 0,
+   "exp": "All major beta-lactamase activity except monobactamase (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-090",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Ambler type C is:",
+   "opts": [
+    "Cephalosporinase",
+    "Cloxacillinase",
+    "Penicillinase only",
+    "Monobactamase only"
+   ],
+   "ans": 0,
+   "exp": "Cephalosporinase (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-091",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Ambler type D is:",
+   "opts": [
+    "Cloxacillinase",
+    "Cephalosporinase",
+    "Metallo-beta-lactamase",
+    "Penicillinase only"
+   ],
+   "ans": 0,
+   "exp": "Cloxacillinase (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-092",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "NDM-1 beta-lactamase:",
+   "opts": [
+    "Breaks most beta-lactam drugs",
+    "Only breaks monobactams",
+    "Increases porins",
+    "Blocks efflux"
+   ],
+   "ans": 0,
+   "exp": "Breaks most beta-lactam drugs (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-093",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Treatment options listed for NDM-1 producers are:",
+   "opts": [
+    "Tigecycline and colistin",
+    "Penicillin G and V",
+    "Cefazolin and cefuroxime",
+    "Amoxicillin and ampicillin"
+   ],
+   "ans": 0,
+   "exp": "Tigecycline and colistin (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-094",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Old beta-lactamase inhibitors are described as:",
+   "opts": [
+    "Suicidal inhibitors",
+    "Reversible agonists",
+    "Non-suicidal inhibitors",
+    "PBP activators"
+   ],
+   "ans": 0,
+   "exp": "Suicidal inhibitors (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-095",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Clavulanic acid is paired with:",
+   "opts": [
+    "Amoxicillin",
+    "Ampicillin",
+    "Piperacillin",
+    "Ceftazidime"
+   ],
+   "ans": 0,
+   "exp": "Amoxicillin (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-096",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Sulbactam is paired with:",
+   "opts": [
+    "Ampicillin",
+    "Amoxicillin",
+    "Meropenem",
+    "Imipenem"
+   ],
+   "ans": 0,
+   "exp": "Ampicillin (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-097",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Sulbactam alone has activity against:",
+   "opts": [
+    "Acinetobacter",
+    "MRSA",
+    "VRE",
+    "Treponema"
+   ],
+   "ans": 0,
+   "exp": "Acinetobacter (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-098",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Tazobactam is paired with:",
+   "opts": [
+    "Piperacillin",
+    "Penicillin V",
+    "Cefazolin",
+    "Aztreonam"
+   ],
+   "ans": 0,
+   "exp": "Piperacillin (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-099",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Avibactam is paired with:",
+   "opts": [
+    "Ceftazidime",
+    "Amoxicillin",
+    "Ampicillin",
+    "Meropenem"
+   ],
+   "ans": 0,
+   "exp": "Ceftazidime (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-100",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Vaborbactam is paired with:",
+   "opts": [
+    "Meropenem",
+    "Piperacillin",
+    "Imipenem",
+    "Cefazolin"
+   ],
+   "ans": 0,
+   "exp": "Meropenem (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-101",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Relebactam is paired with:",
+   "opts": [
+    "Imipenem plus cilastatin",
+    "Amoxicillin alone",
+    "Ceftazidime alone",
+    "Piperacillin alone"
+   ],
+   "ans": 0,
+   "exp": "Imipenem plus cilastatin (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-102",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Most Gram-negative beta-lactamases are coded by:",
+   "opts": [
+    "Plasmids",
+    "Mitochondria",
+    "Ribosomes",
+    "Human chromosomes"
+   ],
+   "ans": 0,
+   "exp": "Plasmids (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-103",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Chromosomal beta-lactamases are:",
+   "opts": [
+    "Inducible by beta-lactams",
+    "Never inducible",
+    "Found only in Gram-positive bacteria",
+    "Always inhibited by clavulanate"
+   ],
+   "ans": 0,
+   "exp": "Inducible by beta-lactams (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-104",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Chromosomal inducible beta-lactamases occur in:",
+   "opts": [
+    "Pseudomonas, Enterobacter and Acinetobacter",
+    "Streptococcus, Treponema and Mycoplasma",
+    "Only Staphylococcus",
+    "Only Enterococcus"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas, Enterobacter and Acinetobacter (Book p163)"
+  },
+  {
+   "id": "PHARM-C40-105",
+   "sec": "Mechanisms of Beta-lactam Resistance",
+   "page": 163,
+   "q": "Against chromosomal inducible beta-lactamases, effective inhibitors are:",
+   "opts": [
+    "New non-suicidal inhibitors",
+    "Only clavulanate",
+    "Only sulbactam",
+    "No inhibitors"
+   ],
+   "ans": 0,
+   "exp": "New non-suicidal inhibitors (Book p163)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U40-1",
+   "ch": 40,
+   "n": 1,
+   "title": "Cephalosporin Generations and Spectrum",
+   "sec": "Cephalosporin Generations and Spectrum · p159",
+   "qs": [
+    "PHARM-C40-001",
+    "PHARM-C40-002",
+    "PHARM-C40-003",
+    "PHARM-C40-004",
+    "PHARM-C40-005",
+    "PHARM-C40-006",
+    "PHARM-C40-007",
+    "PHARM-C40-008",
+    "PHARM-C40-009",
+    "PHARM-C40-010",
+    "PHARM-C40-011",
+    "PHARM-C40-012",
+    "PHARM-C40-013",
+    "PHARM-C40-014",
+    "PHARM-C40-015",
+    "PHARM-C40-016",
+    "PHARM-C40-017",
+    "PHARM-C40-018"
+   ],
+   "guide": "Across older generations, Gram-positive activity generally falls while Gram-negative activity rises. Fourth generation extends third-generation Gram-negative coverage; fifth generation restores strong Gram-positive activity including MRSA; cefiderocol is a sixth-generation siderophore cephalosporin."
+  },
+  {
+   "id": "PHARM-U40-2",
+   "ch": 40,
+   "n": 2,
+   "title": "Individual Cephalosporins",
+   "sec": "Individual Cephalosporins · p160",
+   "qs": [
+    "PHARM-C40-019",
+    "PHARM-C40-020",
+    "PHARM-C40-021",
+    "PHARM-C40-022",
+    "PHARM-C40-023",
+    "PHARM-C40-024",
+    "PHARM-C40-025",
+    "PHARM-C40-026",
+    "PHARM-C40-027",
+    "PHARM-C40-028",
+    "PHARM-C40-029",
+    "PHARM-C40-030",
+    "PHARM-C40-031",
+    "PHARM-C40-032",
+    "PHARM-C40-033",
+    "PHARM-C40-034",
+    "PHARM-C40-035",
+    "PHARM-C40-036",
+    "PHARM-C40-037",
+    "PHARM-C40-038",
+    "PHARM-C40-039",
+    "PHARM-C40-040",
+    "PHARM-C40-041",
+    "PHARM-C40-042",
+    "PHARM-C40-043",
+    "PHARM-C40-044",
+    "PHARM-C40-045"
+   ],
+   "guide": "Cefazolin is the surgical-prophylaxis standard; cefuroxime treats respiratory disease; cefotetan and cefoxitin are anaerobe-active cephamycins. Ceftriaxone has broad third-generation indications, while ceftazidime is the best antipseudomonal cephalosporin and later generations cover resistant pathogens."
+  },
+  {
+   "id": "PHARM-U40-3",
+   "ch": 40,
+   "n": 3,
+   "title": "Carbapenems and Monobactams",
+   "sec": "Carbapenems and Monobactams · p161",
+   "qs": [
+    "PHARM-C40-046",
+    "PHARM-C40-047",
+    "PHARM-C40-048",
+    "PHARM-C40-049",
+    "PHARM-C40-050",
+    "PHARM-C40-051",
+    "PHARM-C40-052",
+    "PHARM-C40-053",
+    "PHARM-C40-054",
+    "PHARM-C40-055",
+    "PHARM-C40-056",
+    "PHARM-C40-057",
+    "PHARM-C40-058",
+    "PHARM-C40-059",
+    "PHARM-C40-060",
+    "PHARM-C40-061"
+   ],
+   "guide": "Carbapenems are wide-spectrum drugs for serious resistant infections. Imipenem needs cilastatin; doripenem/meropenem favour Gram negative disease and meningitis; ertapenem is longest acting but lacks strong Gram-negative and antipseudomonal reach. Aztreonam provides Gram-negative coverage when penicillin allergy prevents other beta-lactams."
+  },
+  {
+   "id": "PHARM-U40-4",
+   "ch": 40,
+   "n": 4,
+   "title": "Beta-lactam Adverse Effects and Dosing",
+   "sec": "Beta-lactam Adverse Effects and Dosing · p161",
+   "qs": [
+    "PHARM-C40-062",
+    "PHARM-C40-063",
+    "PHARM-C40-064",
+    "PHARM-C40-065",
+    "PHARM-C40-066",
+    "PHARM-C40-067",
+    "PHARM-C40-068",
+    "PHARM-C40-069",
+    "PHARM-C40-070",
+    "PHARM-C40-071",
+    "PHARM-C40-072",
+    "PHARM-C40-073",
+    "PHARM-C40-074",
+    "PHARM-C40-075",
+    "PHARM-C40-076",
+    "PHARM-C40-077",
+    "PHARM-C40-078",
+    "PHARM-C40-079"
+   ],
+   "guide": "Shared harms are hypersensitivity and pseudomembranous enterocolitis; individual drugs cause MTT-related bleeding, ceftriaxone biliary effects, seizures, hepatitis or neutropenia. Most doses require renal adjustment, except liver-excreted cefpiramide and cefoperazone."
+  },
+  {
+   "id": "PHARM-U40-5",
+   "ch": 40,
+   "n": 5,
+   "title": "Mechanisms of Beta-lactam Resistance",
+   "sec": "Mechanisms of Beta-lactam Resistance · p162",
+   "qs": [
+    "PHARM-C40-080",
+    "PHARM-C40-081",
+    "PHARM-C40-082",
+    "PHARM-C40-083",
+    "PHARM-C40-084",
+    "PHARM-C40-085",
+    "PHARM-C40-086",
+    "PHARM-C40-087",
+    "PHARM-C40-088",
+    "PHARM-C40-089",
+    "PHARM-C40-090",
+    "PHARM-C40-091",
+    "PHARM-C40-092",
+    "PHARM-C40-093",
+    "PHARM-C40-094",
+    "PHARM-C40-095",
+    "PHARM-C40-096",
+    "PHARM-C40-097",
+    "PHARM-C40-098",
+    "PHARM-C40-099",
+    "PHARM-C40-100",
+    "PHARM-C40-101",
+    "PHARM-C40-102",
+    "PHARM-C40-103",
+    "PHARM-C40-104",
+    "PHARM-C40-105"
+   ],
+   "guide": "Gram-negative organisms resist by active MDR-1 efflux and reduced porins. Both Gram-positive and Gram-negative bacteria can alter PBP or produce beta-lactamases. Ambler classes A-D and old versus new inhibitors determine which combination can restore beta-lactam activity."
+  }
+ ]
+}

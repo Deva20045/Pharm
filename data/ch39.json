@@ -1,0 +1,1291 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C39-001",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "The first step of peptidoglycan synthesis occurs in the:",
+   "opts": [
+    "Cytoplasm",
+    "Cell membrane exterior",
+    "Nucleus",
+    "Periplasm only"
+   ],
+   "ans": 0,
+   "exp": "Cytoplasm (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-002",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "NAG stands for:",
+   "opts": [
+    "N-acetylglucosamine",
+    "N-acetylgalactosamine",
+    "N-amino glucose",
+    "N-acetylglycine"
+   ],
+   "ans": 0,
+   "exp": "N-acetylglucosamine (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-003",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "NAM stands for:",
+   "opts": [
+    "N-acetylmuramic acid",
+    "N-acetylmalonic acid",
+    "N-amino muramic acid",
+    "N-acetylmethionine"
+   ],
+   "ans": 0,
+   "exp": "N-acetylmuramic acid (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-004",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "PEP stands for:",
+   "opts": [
+    "Phosphoenolpyruvate",
+    "Phosphoenolpyruvate transferase",
+    "Peptidoglycan endopeptidase",
+    "Penicillin efflux protein"
+   ],
+   "ans": 0,
+   "exp": "Phosphoenolpyruvate (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-005",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "EPT is:",
+   "opts": [
+    "Enolpyruvate transferase",
+    "Endopeptide transferase",
+    "Efflux pump transporter",
+    "Extracellular peptidase"
+   ],
+   "ans": 0,
+   "exp": "Enolpyruvate transferase (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-006",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "A PEP analogue inhibits EPT by:",
+   "opts": [
+    "Competitive inhibition",
+    "Irreversible receptor activation",
+    "Allosteric induction",
+    "Increasing transcription"
+   ],
+   "ans": 0,
+   "exp": "Competitive inhibition (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-007",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "L-alanine is converted to D-alanine by:",
+   "opts": [
+    "Alanine racemase",
+    "Alanine ligase",
+    "Transpeptidase",
+    "Transglycosylase"
+   ],
+   "ans": 0,
+   "exp": "Alanine racemase (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-008",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "The terminal amino acids in the cell-wall pentapeptide are:",
+   "opts": [
+    "D-Ala-D-Ala",
+    "L-Ala-L-Ala",
+    "D-Lys-D-Lys",
+    "Gly-Gly"
+   ],
+   "ans": 0,
+   "exp": "D-Ala-D-Ala (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-009",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "The enzyme attaching alanine into the peptide is:",
+   "opts": [
+    "Alanine ligase",
+    "Alanine racemase",
+    "Bactoprenol phosphatase",
+    "PBP"
+   ],
+   "ans": 0,
+   "exp": "Alanine ligase (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-010",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "The glycine chain and other peptides are part of the:",
+   "opts": [
+    "Pentapeptide side chain",
+    "NAG sugar alone",
+    "Bactoprenol carrier",
+    "Cell membrane lipid"
+   ],
+   "ans": 0,
+   "exp": "Pentapeptide side chain (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-011",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "NAG is joined to NAM to form:",
+   "opts": [
+    "One unit of cell wall",
+    "A ribosome",
+    "A porin",
+    "A DNA gyrase complex"
+   ],
+   "ans": 0,
+   "exp": "One unit of cell wall (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-012",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "During membrane transport, the carrier is:",
+   "opts": [
+    "Bactoprenol phosphate",
+    "P-glycoprotein",
+    "VMAT-2",
+    "Transferrin"
+   ],
+   "ans": 0,
+   "exp": "Bactoprenol phosphate (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-013",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "While transferring its cargo, bactoprenol phosphate becomes:",
+   "opts": [
+    "Bactoprenol diphosphate",
+    "NAG",
+    "NAM",
+    "D-Ala"
+   ],
+   "ans": 0,
+   "exp": "Bactoprenol diphosphate (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-014",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "Bacitracin blocks:",
+   "opts": [
+    "Bactoprenol-mediated transport",
+    "Alanine racemase",
+    "Transglycosylation",
+    "PBP directly"
+   ],
+   "ans": 0,
+   "exp": "Bactoprenol-mediated transport (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-015",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "Step 3 of wall synthesis is:",
+   "opts": [
+    "Transglycosylation or polymerisation",
+    "Cross-linking",
+    "D-alanine formation",
+    "Drug efflux"
+   ],
+   "ans": 0,
+   "exp": "Transglycosylation or polymerisation (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-016",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "The enzyme catalysing polymerisation is:",
+   "opts": [
+    "Peptidoglycan glycosyl transferase",
+    "Alanine racemase",
+    "Dihydropeptidase",
+    "Beta-lactamase"
+   ],
+   "ans": 0,
+   "exp": "Peptidoglycan glycosyl transferase (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-017",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 155,
+   "q": "Vancomycin inhibits:",
+   "opts": [
+    "Transglycosylation/polymerisation",
+    "Bactoprenol transport",
+    "Folate synthesis",
+    "DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "Transglycosylation/polymerisation (Book p155)"
+  },
+  {
+   "id": "PHARM-C39-018",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "Step 4 of cell-wall synthesis is:",
+   "opts": [
+    "Cross-linking",
+    "Transportation",
+    "PEP formation",
+    "Folate reduction"
+   ],
+   "ans": 0,
+   "exp": "Cross-linking (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-019",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "Cross-linking occurs between the fourth-position D-Ala and a:",
+   "opts": [
+    "Neighbouring peptide chain",
+    "NAG molecule only",
+    "Bactoprenol carrier",
+    "Porin"
+   ],
+   "ans": 0,
+   "exp": "Neighbouring peptide chain (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-020",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "The cross-linking enzyme is:",
+   "opts": [
+    "Transpeptidase, also called PBP",
+    "Alanine racemase",
+    "EPT",
+    "COMT"
+   ],
+   "ans": 0,
+   "exp": "Transpeptidase, also called PBP (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-021",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "PBP stands for:",
+   "opts": [
+    "Penicillin-binding protein",
+    "Peptide-binding porin",
+    "Phosphate-binding protein",
+    "Penicillin-breaking protease"
+   ],
+   "ans": 0,
+   "exp": "Penicillin-binding protein (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-022",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "Beta-lactams inhibit:",
+   "opts": [
+    "PBP/transpeptidase",
+    "Alanine racemase",
+    "Bactoprenol",
+    "Transglycosylase only"
+   ],
+   "ans": 0,
+   "exp": "PBP/transpeptidase (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-023",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "PEP-analogue drugs are:",
+   "opts": [
+    "Fosfomycin and fosmidomycin",
+    "Cycloserine and bacitracin",
+    "Vancomycin and teicoplanin",
+    "Penicillin and aztreonam"
+   ],
+   "ans": 0,
+   "exp": "Fosfomycin and fosmidomycin (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-024",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "The D-Ala analogue is:",
+   "opts": [
+    "Cycloserine",
+    "Fosfomycin",
+    "Bacitracin",
+    "Vancomycin"
+   ],
+   "ans": 0,
+   "exp": "Cycloserine (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-025",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "Cycloserine inhibits:",
+   "opts": [
+    "Alanine racemase and alanine ligase",
+    "PBP and beta-lactamase",
+    "Porins and efflux pumps",
+    "Transglycosylase only"
+   ],
+   "ans": 0,
+   "exp": "Alanine racemase and alanine ligase (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-026",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "The transport inhibitor is:",
+   "opts": [
+    "Bacitracin",
+    "Cycloserine",
+    "Fosfomycin",
+    "Penicillin V"
+   ],
+   "ans": 0,
+   "exp": "Bacitracin (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-027",
+   "sec": "Four Steps of Cell-wall Synthesis",
+   "page": 156,
+   "q": "Beta-lactam subclasses are:",
+   "opts": [
+    "Penicillins, cephalosporins, carbapenems and monobactams",
+    "Glycopeptides, macrolides, tetracyclines and quinolones",
+    "Sulfonamides, aminoglycosides, polymyxins and lipopeptides",
+    "Rifamycins, oxazolidinones, streptogramins and ketolides"
+   ],
+   "ans": 0,
+   "exp": "Penicillins, cephalosporins, carbapenems and monobactams (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-028",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Moderate-spectrum penicillins act mainly against:",
+   "opts": [
+    "Gram-positive organisms",
+    "Gram-negative organisms only",
+    "Atypical bacteria",
+    "Fungi"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive organisms (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-029",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Their Gram-negative action is limited because of:",
+   "opts": [
+    "Lower water solubility",
+    "Excess porin production",
+    "High protein synthesis",
+    "Lack of a beta-lactam ring"
+   ],
+   "ans": 0,
+   "exp": "Lower water solubility (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-030",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Aqueous penicillin G is given by the:",
+   "opts": [
+    "Intravenous route",
+    "Oral route",
+    "Transdermal route",
+    "Inhalational route"
+   ],
+   "ans": 0,
+   "exp": "Intravenous route (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-031",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Penicillin G is the drug of choice for:",
+   "opts": [
+    "Neurosyphilis",
+    "MRSA",
+    "VRE",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "Neurosyphilis (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-032",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Penicillin V is administered:",
+   "opts": [
+    "Orally",
+    "Only intravenously",
+    "Only intrathecally",
+    "Only topically"
+   ],
+   "ans": 0,
+   "exp": "Orally (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-033",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "The clinical uses of penicillin V are:",
+   "opts": [
+    "Similar to penicillin G",
+    "Restricted to MRSA",
+    "Restricted to Pseudomonas",
+    "Only UTI"
+   ],
+   "ans": 0,
+   "exp": "Similar to penicillin G (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-034",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 156,
+   "q": "Long-acting penicillins are administered by the:",
+   "opts": [
+    "Intramuscular route",
+    "Intravenous route",
+    "Oral route",
+    "Intranasal route"
+   ],
+   "ans": 0,
+   "exp": "Intramuscular route (Book p156)"
+  },
+  {
+   "id": "PHARM-C39-035",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The three long-acting penicillin approaches listed are:",
+   "opts": [
+    "Probenecid-PG, procaine-PG and benzathine-PG",
+    "Clavulanate-PG, sulbactam-PG and tazobactam-PG",
+    "Cefazolin, cefuroxime and ceftriaxone",
+    "Oxacillin, nafcillin and methicillin"
+   ],
+   "ans": 0,
+   "exp": "Probenecid-PG, procaine-PG and benzathine-PG (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-036",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The longest-acting penicillin preparation is:",
+   "opts": [
+    "Benzathine penicillin G",
+    "Procaine penicillin G",
+    "Aqueous penicillin G",
+    "Penicillin V"
+   ],
+   "ans": 0,
+   "exp": "Benzathine penicillin G (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-037",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "Benzathine penicillin G acts for approximately:",
+   "opts": [
+    "28 days",
+    "28 hours",
+    "7 days",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "28 days (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-038",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "Monthly rheumatic-fever prophylaxis uses:",
+   "opts": [
+    "Benzathine penicillin G",
+    "Aqueous penicillin G daily",
+    "Penicillin V once yearly",
+    "Vancomycin monthly"
+   ],
+   "ans": 0,
+   "exp": "Benzathine penicillin G (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-039",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The S in SLYGRAM includes Streptococcus and:",
+   "opts": [
+    "Syphilis",
+    "Staphylococcus only",
+    "Serratia",
+    "Shigella"
+   ],
+   "ans": 0,
+   "exp": "Syphilis (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-040",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "Resistance to penicillin in syphilis is described as:",
+   "opts": [
+    "Zero",
+    "Universal",
+    "Rapidly increasing",
+    "Due to mecA"
+   ],
+   "ans": 0,
+   "exp": "Zero (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-041",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The L in SLYGRAM is:",
+   "opts": [
+    "Leptospirosis",
+    "Listeriosis",
+    "Legionellosis",
+    "Leprosy"
+   ],
+   "ans": 0,
+   "exp": "Leptospirosis (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-042",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The Y in SLYGRAM is:",
+   "opts": [
+    "Yaws",
+    "Yellow fever",
+    "Yersiniosis",
+    "Yeast infection"
+   ],
+   "ans": 0,
+   "exp": "Yaws (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-043",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The G in SLYGRAM is:",
+   "opts": [
+    "Gas gangrene",
+    "Gonorrhoea",
+    "Giardiasis",
+    "Gastritis"
+   ],
+   "ans": 0,
+   "exp": "Gas gangrene (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-044",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The R in SLYGRAM is:",
+   "opts": [
+    "Rat-bite fever",
+    "Rheumatic fever only",
+    "Rocky Mountain fever",
+    "Relapsing fever"
+   ],
+   "ans": 0,
+   "exp": "Rat-bite fever (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-045",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The A in SLYGRAM is:",
+   "opts": [
+    "Actinomycosis",
+    "Anthrax",
+    "Amoebiasis",
+    "Aspergillosis"
+   ],
+   "ans": 0,
+   "exp": "Actinomycosis (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-046",
+   "sec": "Moderate-spectrum and Long-acting Penicillins",
+   "page": 157,
+   "q": "The M in SLYGRAM is:",
+   "opts": [
+    "Sensitive meningococcal infection",
+    "MRSA",
+    "Mycoplasma",
+    "Malaria"
+   ],
+   "ans": 0,
+   "exp": "Sensitive meningococcal infection (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-047",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Narrow anti-staphylococcal penicillins are designed to resist:",
+   "opts": [
+    "Penicillinase",
+    "Altered folate",
+    "DNA gyrase",
+    "Aminoglycoside-modifying enzymes"
+   ],
+   "ans": 0,
+   "exp": "Penicillinase (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-048",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Their principal activity is against Gram-positive:",
+   "opts": [
+    "Staphylococcus",
+    "Pseudomonas",
+    "E. coli",
+    "Bacteroides"
+   ],
+   "ans": 0,
+   "exp": "Staphylococcus (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-049",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Oral anti-staphylococcal penicillins include:",
+   "opts": [
+    "Oxacillin, cloxacillin and dicloxacillin",
+    "Nafcillin, methicillin and vancomycin",
+    "Ampicillin, amoxicillin and piperacillin",
+    "Penicillin G, aztreonam and imipenem"
+   ],
+   "ans": 0,
+   "exp": "Oxacillin, cloxacillin and dicloxacillin (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-050",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Oral anti-staphylococcal penicillins are used for:",
+   "opts": [
+    "Mild to moderate cellulitis and mastitis",
+    "Meningitis",
+    "Pseudomonal sepsis",
+    "VRE"
+   ],
+   "ans": 0,
+   "exp": "Mild to moderate cellulitis and mastitis (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-051",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "IV anti-staphylococcal drugs include:",
+   "opts": [
+    "Oxacillin, nafcillin and methicillin",
+    "Cloxacillin only",
+    "Penicillin V and amoxicillin",
+    "Aztreonam and cefixime"
+   ],
+   "ans": 0,
+   "exp": "Oxacillin, nafcillin and methicillin (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-052",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Methicillin is limited by:",
+   "opts": [
+    "Nephrotoxicity",
+    "Hepatotoxicity",
+    "Ototoxicity",
+    "Retinopathy"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxicity (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-053",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "IV anti-staphylococcal penicillins are used in:",
+   "opts": [
+    "Severe infection and endocarditis",
+    "Only mild acne",
+    "Only viral infection",
+    "Only uncomplicated cystitis"
+   ],
+   "ans": 0,
+   "exp": "Severe infection and endocarditis (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-054",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Staphylococci resist penicillin by synthesising:",
+   "opts": [
+    "Beta-lactamase (penicillinase)",
+    "Aminoglycoside",
+    "Folate",
+    "D-Ala-D-Lac"
+   ],
+   "ans": 0,
+   "exp": "Beta-lactamase (penicillinase) (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-055",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Penicillinase resistance arises when the drug has:",
+   "opts": [
+    "A modified beta-lactam region that penicillinase cannot attack",
+    "No beta-lactam ring",
+    "No PBP affinity",
+    "A folate group"
+   ],
+   "ans": 0,
+   "exp": "A modified beta-lactam region that penicillinase cannot attack (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-056",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "MRSA resistance is mediated by:",
+   "opts": [
+    "Altered PBP encoded by mecA",
+    "Only drug efflux",
+    "Loss of folate synthesis",
+    "D-Ala to D-Lac conversion"
+   ],
+   "ans": 0,
+   "exp": "Altered PBP encoded by mecA (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-057",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "The drug of choice for MRSA on this page is:",
+   "opts": [
+    "Vancomycin",
+    "Methicillin",
+    "Penicillin V",
+    "Ampicillin"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-058",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Vancomycin resistance develops through conversion of:",
+   "opts": [
+    "D-Ala to D-lactate",
+    "L-Ala to D-Ala",
+    "NAG to NAM",
+    "PEP to pyruvate"
+   ],
+   "ans": 0,
+   "exp": "D-Ala to D-lactate (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-059",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "The drug of choice for VRSA is:",
+   "opts": [
+    "Daptomycin",
+    "Vancomycin",
+    "Methicillin",
+    "Penicillin G"
+   ],
+   "ans": 0,
+   "exp": "Daptomycin (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-060",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 157,
+   "q": "Alternatives for resistant staphylococcal infection include:",
+   "opts": [
+    "Linezolid, streptogramins and tigecycline",
+    "Disulfiram, naltrexone and topiramate",
+    "Cefazolin only",
+    "Fosfomycin only"
+   ],
+   "ans": 0,
+   "exp": "Linezolid, streptogramins and tigecycline (Book p157)"
+  },
+  {
+   "id": "PHARM-C39-061",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "Carboxypenicillins carry a carboxyl group that adds:",
+   "opts": [
+    "Positive charge and water solubility",
+    "Negative charge only",
+    "Lipid solubility",
+    "Protein binding"
+   ],
+   "ans": 0,
+   "exp": "Positive charge and water solubility (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-062",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "The carboxypenicillins listed are:",
+   "opts": [
+    "Carbenicillin and ticarcillin",
+    "Piperacillin and mezlocillin",
+    "Amoxicillin and ampicillin",
+    "Oxacillin and cloxacillin"
+   ],
+   "ans": 0,
+   "exp": "Carbenicillin and ticarcillin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-063",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "Ureidopenicillins carry both positive and negative charge, giving:",
+   "opts": [
+    "Maximum water solubility",
+    "Minimum water solubility",
+    "No Gram-negative activity",
+    "Only oral absorption"
+   ],
+   "ans": 0,
+   "exp": "Maximum water solubility (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-064",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "The penicillins described as most effective against Gram-negative organisms are:",
+   "opts": [
+    "Ureidopenicillins",
+    "Penicillin V",
+    "Benzathine penicillin",
+    "Anti-staphylococcal penicillins"
+   ],
+   "ans": 0,
+   "exp": "Ureidopenicillins (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-065",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "Ureidopenicillins listed are:",
+   "opts": [
+    "Azlocillin, mezlocillin and piperacillin",
+    "Carbenicillin, ticarcillin and ampicillin",
+    "Oxacillin, nafcillin and methicillin",
+    "Penicillin G, V and benzathine"
+   ],
+   "ans": 0,
+   "exp": "Azlocillin, mezlocillin and piperacillin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-066",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "Aminopenicillins are:",
+   "opts": [
+    "Negatively charged",
+    "Positively charged only",
+    "Uncharged",
+    "Lipid soluble steroids"
+   ],
+   "ans": 0,
+   "exp": "Negatively charged (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-067",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "page": 158,
+   "q": "The aminopenicillins compared are:",
+   "opts": [
+    "Amoxicillin and ampicillin",
+    "Oxacillin and cloxacillin",
+    "Piperacillin and ticarcillin",
+    "Penicillin G and V"
+   ],
+   "ans": 0,
+   "exp": "Amoxicillin and ampicillin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-068",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Compared with ampicillin, oral absorption of amoxicillin is:",
+   "opts": [
+    "Greater",
+    "Lower",
+    "Equal to zero",
+    "Only possible IV"
+   ],
+   "ans": 0,
+   "exp": "Greater (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-069",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Amoxicillin is dosed:",
+   "opts": [
+    "Three times daily (TDS)",
+    "Four times daily",
+    "Once monthly",
+    "Only once"
+   ],
+   "ans": 0,
+   "exp": "Three times daily (TDS) (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-070",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Ampicillin is dosed:",
+   "opts": [
+    "Four times daily (QID)",
+    "Three times daily",
+    "Once daily",
+    "Once monthly"
+   ],
+   "ans": 0,
+   "exp": "Four times daily (QID) (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-071",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Diarrhoea is more frequent with:",
+   "opts": [
+    "Ampicillin",
+    "Amoxicillin",
+    "Penicillin G",
+    "Benzathine penicillin"
+   ],
+   "ans": 0,
+   "exp": "Ampicillin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-072",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Amoxicillin may be given by:",
+   "opts": [
+    "Oral or IV route",
+    "IV route only",
+    "IM route only",
+    "Intrathecal route only"
+   ],
+   "ans": 0,
+   "exp": "Oral or IV route (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-073",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Ampicillin in the comparison table is given by:",
+   "opts": [
+    "IV route",
+    "Oral route only",
+    "Transdermal route",
+    "Intranasal route"
+   ],
+   "ans": 0,
+   "exp": "IV route (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-074",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Amoxicillin covers infection of:",
+   "opts": [
+    "Mild, moderate or severe intensity",
+    "Severe intensity only",
+    "Mild intensity only",
+    "No respiratory infection"
+   ],
+   "ans": 0,
+   "exp": "Mild, moderate or severe intensity (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-075",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Ampicillin is chiefly assigned to:",
+   "opts": [
+    "Severe infection",
+    "Only mild infection",
+    "Dry-eye disease",
+    "Smoking dependence"
+   ],
+   "ans": 0,
+   "exp": "Severe infection (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-076",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Amoxicillin uses include respiratory infection such as:",
+   "opts": [
+    "Otitis and pneumonia",
+    "Only meningitis",
+    "Only endocarditis",
+    "Only skin infection"
+   ],
+   "ans": 0,
+   "exp": "Otitis and pneumonia (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-077",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Amoxicillin is used for UTI and is:",
+   "opts": [
+    "Safe in pregnancy",
+    "Absolutely contraindicated in pregnancy",
+    "Nephrotoxic in every dose",
+    "Used only in men"
+   ],
+   "ans": 0,
+   "exp": "Safe in pregnancy (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-078",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "The preferred regimen for Listeria meningitis is:",
+   "opts": [
+    "IV ampicillin plus gentamicin",
+    "Oral amoxicillin alone",
+    "Vancomycin alone",
+    "Piperacillin alone"
+   ],
+   "ans": 0,
+   "exp": "IV ampicillin plus gentamicin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-079",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "The preferred regimen for E. faecalis endocarditis is:",
+   "opts": [
+    "IV ampicillin plus gentamicin",
+    "Cefixime alone",
+    "Penicillin V alone",
+    "Bacitracin"
+   ],
+   "ans": 0,
+   "exp": "IV ampicillin plus gentamicin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-080",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "If E. faecalis endocarditis fails ampicillin, the page recommends:",
+   "opts": [
+    "Vancomycin plus gentamicin",
+    "Amoxicillin alone",
+    "Cloxacillin alone",
+    "Aztreonam"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin plus gentamicin (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-081",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Penicillinase causes resistance by:",
+   "opts": [
+    "Cutting the beta-lactam ring at its base",
+    "Changing D-Ala to D-Lac",
+    "Blocking folate",
+    "Increasing PBP affinity"
+   ],
+   "ans": 0,
+   "exp": "Cutting the beta-lactam ring at its base (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-082",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "PBP alteration through mecA produces:",
+   "opts": [
+    "MRSA",
+    "VRSA",
+    "VRE",
+    "ESBL E. coli only"
+   ],
+   "ans": 0,
+   "exp": "MRSA (Book p158)"
+  },
+  {
+   "id": "PHARM-C39-083",
+   "sec": "Amoxicillin versus Ampicillin and Resistance",
+   "page": 158,
+   "q": "Change of D-Ala to D-lactate produces:",
+   "opts": [
+    "Vancomycin-resistant S. aureus",
+    "MRSA",
+    "Penicillin-sensitive Streptococcus",
+    "Meningococcus"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin-resistant S. aureus (Book p158)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U39-1",
+   "ch": 39,
+   "n": 1,
+   "title": "Four Steps of Cell-wall Synthesis",
+   "sec": "Four Steps of Cell-wall Synthesis · p155",
+   "qs": [
+    "PHARM-C39-001",
+    "PHARM-C39-002",
+    "PHARM-C39-003",
+    "PHARM-C39-004",
+    "PHARM-C39-005",
+    "PHARM-C39-006",
+    "PHARM-C39-007",
+    "PHARM-C39-008",
+    "PHARM-C39-009",
+    "PHARM-C39-010",
+    "PHARM-C39-011",
+    "PHARM-C39-012",
+    "PHARM-C39-013",
+    "PHARM-C39-014",
+    "PHARM-C39-015",
+    "PHARM-C39-016",
+    "PHARM-C39-017",
+    "PHARM-C39-018",
+    "PHARM-C39-019",
+    "PHARM-C39-020",
+    "PHARM-C39-021",
+    "PHARM-C39-022",
+    "PHARM-C39-023",
+    "PHARM-C39-024",
+    "PHARM-C39-025",
+    "PHARM-C39-026",
+    "PHARM-C39-027"
+   ],
+   "guide": "Peptidoglycan assembly begins in cytoplasm with NAG, NAM and a D-Ala-containing pentapeptide, crosses the membrane on bactoprenol, polymerises by transglycosylation, and finally cross-links through PBP/transpeptidase. Each stage has a characteristic inhibitor."
+  },
+  {
+   "id": "PHARM-U39-2",
+   "ch": 39,
+   "n": 2,
+   "title": "Moderate-spectrum and Long-acting Penicillins",
+   "sec": "Moderate-spectrum and Long-acting Penicillins · p156",
+   "qs": [
+    "PHARM-C39-028",
+    "PHARM-C39-029",
+    "PHARM-C39-030",
+    "PHARM-C39-031",
+    "PHARM-C39-032",
+    "PHARM-C39-033",
+    "PHARM-C39-034",
+    "PHARM-C39-035",
+    "PHARM-C39-036",
+    "PHARM-C39-037",
+    "PHARM-C39-038",
+    "PHARM-C39-039",
+    "PHARM-C39-040",
+    "PHARM-C39-041",
+    "PHARM-C39-042",
+    "PHARM-C39-043",
+    "PHARM-C39-044",
+    "PHARM-C39-045",
+    "PHARM-C39-046"
+   ],
+   "guide": "Moderate-spectrum penicillins mainly cover Gram positive organisms. Penicillin G is aqueous IV and treats neurosyphilis; penicillin V is oral. Probenecid, procaine and benzathine prolong penicillin action, with benzathine lasting 28 days and supporting monthly rheumatic-fever prophylaxis."
+  },
+  {
+   "id": "PHARM-U39-3",
+   "ch": 39,
+   "n": 3,
+   "title": "Penicillinase-resistant and Antipseudomonal Penicillins",
+   "sec": "Penicillinase-resistant and Antipseudomonal Penicillins · p157",
+   "qs": [
+    "PHARM-C39-047",
+    "PHARM-C39-048",
+    "PHARM-C39-049",
+    "PHARM-C39-050",
+    "PHARM-C39-051",
+    "PHARM-C39-052",
+    "PHARM-C39-053",
+    "PHARM-C39-054",
+    "PHARM-C39-055",
+    "PHARM-C39-056",
+    "PHARM-C39-057",
+    "PHARM-C39-058",
+    "PHARM-C39-059",
+    "PHARM-C39-060",
+    "PHARM-C39-061",
+    "PHARM-C39-062",
+    "PHARM-C39-063",
+    "PHARM-C39-064",
+    "PHARM-C39-065",
+    "PHARM-C39-066",
+    "PHARM-C39-067"
+   ],
+   "guide": "Anti-staphylococcal penicillins resist penicillinase and cover Gram-positive Staphylococcus. Oral agents serve mild disease, IV agents severe disease. Wider penicillins add charge and water solubility: carboxypenicillins and ureidopenicillins cover Pseudomonas; aminopenicillins include amoxicillin and ampicillin."
+  },
+  {
+   "id": "PHARM-U39-4",
+   "ch": 39,
+   "n": 4,
+   "title": "Amoxicillin versus Ampicillin and Resistance",
+   "sec": "Amoxicillin versus Ampicillin and Resistance · p158",
+   "qs": [
+    "PHARM-C39-068",
+    "PHARM-C39-069",
+    "PHARM-C39-070",
+    "PHARM-C39-071",
+    "PHARM-C39-072",
+    "PHARM-C39-073",
+    "PHARM-C39-074",
+    "PHARM-C39-075",
+    "PHARM-C39-076",
+    "PHARM-C39-077",
+    "PHARM-C39-078",
+    "PHARM-C39-079",
+    "PHARM-C39-080",
+    "PHARM-C39-081",
+    "PHARM-C39-082",
+    "PHARM-C39-083"
+   ],
+   "guide": "Amoxicillin absorbs better, needs TDS dosing and causes less diarrhoea; ampicillin is less absorbed, needs QID dosing and is used IV for severe infection. IV ampicillin plus gentamicin is preferred for Listeria meningitis and E. faecalis endocarditis."
+  }
+ ]
+}

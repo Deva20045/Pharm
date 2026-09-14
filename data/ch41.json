@@ -1,0 +1,971 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C41-001",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Fosfomycin and fosmidomycin are analogues of:",
+   "opts": [
+    "PEP (phosphoenolpyruvate)",
+    "D-Ala",
+    "Bactoprenol",
+    "PBP"
+   ],
+   "ans": 0,
+   "exp": "PEP (phosphoenolpyruvate) (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-002",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "They inhibit:",
+   "opts": [
+    "EPT (enolpyruvate transferase)",
+    "Transpeptidase",
+    "Alanine racemase",
+    "DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "EPT (enolpyruvate transferase) (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-003",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "The antibacterial spectrum listed for fosfomycin is:",
+   "opts": [
+    "Gram-negative",
+    "Only Gram-positive",
+    "Only atypical",
+    "Only anaerobic"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-004",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Fosfomycin is useful in UTI because it:",
+   "opts": [
+    "Concentrates in urine",
+    "Is excreted entirely in bile",
+    "Blocks renal filtration",
+    "Concentrates in CSF"
+   ],
+   "ans": 0,
+   "exp": "Concentrates in urine (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-005",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "The UTI regimen of fosfomycin is:",
+   "opts": [
+    "A single 3-g dose",
+    "3 mg hourly",
+    "30 g daily",
+    "A monthly implant"
+   ],
+   "ans": 0,
+   "exp": "A single 3-g dose (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-006",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Fosfomycin is described as:",
+   "opts": [
+    "Safe in pregnancy",
+    "Teratogenic",
+    "Contraindicated in all women",
+    "Nephrotoxic at any dose"
+   ],
+   "ans": 0,
+   "exp": "Safe in pregnancy (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-007",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Cycloserine is an analogue of:",
+   "opts": [
+    "D-alanine",
+    "PEP",
+    "NAG",
+    "NAM"
+   ],
+   "ans": 0,
+   "exp": "D-alanine (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-008",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Cycloserine inhibits:",
+   "opts": [
+    "Alanine racemase and alanine ligase",
+    "EPT and PBP",
+    "Porins and MDR-1",
+    "Transglycosylase and beta-lactamase"
+   ],
+   "ans": 0,
+   "exp": "Alanine racemase and alanine ligase (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-009",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Cycloserine is a:",
+   "opts": [
+    "Second-line tuberculosis drug",
+    "First-line UTI drug",
+    "Drug of choice for MRSA",
+    "Cephalosporin"
+   ],
+   "ans": 0,
+   "exp": "Second-line tuberculosis drug (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-010",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Cycloserine neuropsychiatric effects include:",
+   "opts": [
+    "Psychosis, neuropathy and seizures",
+    "Red-man syndrome and deafness",
+    "Pseudolithiasis and kernicterus",
+    "Bleeding and neutropenia"
+   ],
+   "ans": 0,
+   "exp": "Psychosis, neuropathy and seizures (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-011",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Bacitracin inhibits:",
+   "opts": [
+    "Bactoprenol-mediated wall-unit transport",
+    "PBP cross-linking",
+    "Alanine racemase",
+    "DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "Bactoprenol-mediated wall-unit transport (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-012",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Bacitracin is used topically for:",
+   "opts": [
+    "Bacterial skin infection",
+    "Systemic MRSA sepsis",
+    "Meningitis",
+    "Endocarditis"
+   ],
+   "ans": 0,
+   "exp": "Bacterial skin infection (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-013",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "Systemic bacitracin is avoided because of:",
+   "opts": [
+    "Very high toxicity",
+    "Poor taste only",
+    "Hepatic metabolism",
+    "No antibacterial action"
+   ],
+   "ans": 0,
+   "exp": "Very high toxicity (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-014",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin",
+   "page": 164,
+   "q": "For an MRSA nasal carrier, the drug of choice is:",
+   "opts": [
+    "Mupirocin",
+    "Bacitracin",
+    "Vancomycin IV",
+    "Fosfomycin"
+   ],
+   "ans": 0,
+   "exp": "Mupirocin (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-015",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "Glycopeptides inhibit cell-wall synthesis by binding:",
+   "opts": [
+    "D-Ala termini",
+    "PBP directly",
+    "Porins",
+    "DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "D-Ala termini (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-016",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "The blocked stage is:",
+   "opts": [
+    "Transglycosylation/polymerisation",
+    "Folate synthesis",
+    "DNA replication",
+    "Protein translation"
+   ],
+   "ans": 0,
+   "exp": "Transglycosylation/polymerisation (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-017",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "VRSA resists vancomycin by converting:",
+   "opts": [
+    "D-Ala to D-lactate",
+    "D-Ala to L-Ala",
+    "NAG to NAM",
+    "PEP to pyruvate"
+   ],
+   "ans": 0,
+   "exp": "D-Ala to D-lactate (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-018",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "The vancomycin MIC defining VRSA on the page is:",
+   "opts": [
+    "At least 16 µg/mL",
+    "Below 2 µg/mL",
+    "4-8 µg/mL",
+    "Exactly 1 µg/mL"
+   ],
+   "ans": 0,
+   "exp": "At least 16 µg/mL (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-019",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "VISA resistance results from:",
+   "opts": [
+    "Increased D-Ala density and a thicker cell wall",
+    "Complete loss of the wall",
+    "Reduced folate",
+    "Altered DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "Increased D-Ala density and a thicker cell wall (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-020",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "The VISA MIC range is:",
+   "opts": [
+    "4-8 µg/mL",
+    "Below 2 µg/mL",
+    "At least 16 µg/mL",
+    "0.1-0.5 µg/mL"
+   ],
+   "ans": 0,
+   "exp": "4-8 µg/mL (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-021",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "VISA expands to:",
+   "opts": [
+    "Vancomycin-intermediate Staphylococcus aureus",
+    "Vancomycin-insensitive Streptococcus aeruginosa",
+    "Variable-inhibition Staphylococcus aureus",
+    "Vancomycin-induced Staphylococcus antigen"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin-intermediate Staphylococcus aureus (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-022",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "VRSA expands to:",
+   "opts": [
+    "Vancomycin-resistant Staphylococcus aureus",
+    "Vancomycin-resistant Streptococcus aeruginosa",
+    "Variable-resistant Staphylococcus antigen",
+    "Vancomycin-reactive Staphylococcus aureus"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin-resistant Staphylococcus aureus (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-023",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "MIC means:",
+   "opts": [
+    "Minimum inhibitory concentration",
+    "Maximum inhibitory concentration",
+    "Minimum infused concentration",
+    "Mean intracellular concentration"
+   ],
+   "ans": 0,
+   "exp": "Minimum inhibitory concentration (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-024",
+   "sec": "Glycopeptide Action and Resistance",
+   "page": 164,
+   "q": "Vancomycin-susceptible S. aureus has MIC:",
+   "opts": [
+    "Below 2 µg/mL",
+    "4-8 µg/mL",
+    "At least 16 µg/mL",
+    "Above 32 µg/mL"
+   ],
+   "ans": 0,
+   "exp": "Below 2 µg/mL (Book p164)"
+  },
+  {
+   "id": "PHARM-C41-025",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Vancomycin spectrum is:",
+   "opts": [
+    "Gram-positive Staphylococcus and Enterococcus",
+    "Gram-negative aerobes",
+    "Atypical organisms only",
+    "Protozoa"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive Staphylococcus and Enterococcus (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-026",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Oral absorption of vancomycin is:",
+   "opts": [
+    "Poor",
+    "Complete",
+    "Greater than 90%",
+    "Enhanced by food"
+   ],
+   "ans": 0,
+   "exp": "Poor (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-027",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "For systemic MRSA, vancomycin is given by the:",
+   "opts": [
+    "IV route",
+    "Oral route",
+    "Topical route only",
+    "Intranasal route"
+   ],
+   "ans": 0,
+   "exp": "IV route (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-028",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Alternative MRSA drugs listed are:",
+   "opts": [
+    "Doxycycline, ceftaroline, clindamycin and cotrimoxazole",
+    "Penicillin V, ampicillin and aztreonam",
+    "Fosfomycin only",
+    "Cefazolin and cefuroxime only"
+   ],
+   "ans": 0,
+   "exp": "Doxycycline, ceftaroline, clindamycin and cotrimoxazole (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-029",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "E. faecalis endocarditis is initially treated with:",
+   "opts": [
+    "Ampicillin",
+    "Vancomycin first in every case",
+    "Linezolid",
+    "Daptomycin"
+   ],
+   "ans": 0,
+   "exp": "Ampicillin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-030",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "If E. faecalis is unresponsive to ampicillin, use:",
+   "opts": [
+    "Vancomycin",
+    "Penicillin V",
+    "Bacitracin",
+    "Fosfomycin"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-031",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "E. faecium endocarditis is treated with:",
+   "opts": [
+    "Vancomycin",
+    "Ampicillin in every case",
+    "Cefazolin",
+    "Aztreonam"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-032",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Vancomycin-unresponsive enterococcus is termed:",
+   "opts": [
+    "VRE",
+    "VRSA",
+    "VISA",
+    "MRSA"
+   ],
+   "ans": 0,
+   "exp": "VRE (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-033",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "The drug of choice for VRE is:",
+   "opts": [
+    "Linezolid",
+    "Vancomycin",
+    "Ampicillin",
+    "Penicillin G"
+   ],
+   "ans": 0,
+   "exp": "Linezolid (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-034",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Other VRE options are:",
+   "opts": [
+    "Streptogramins and daptomycin",
+    "Cefazolin and cefuroxime",
+    "Fosfomycin and bacitracin",
+    "Amoxicillin and cefixime"
+   ],
+   "ans": 0,
+   "exp": "Streptogramins and daptomycin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-035",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Oral vancomycin is used for:",
+   "opts": [
+    "Pseudomembranous enterocolitis",
+    "Systemic MRSA bacteraemia",
+    "Meningitis",
+    "Endocarditis"
+   ],
+   "ans": 0,
+   "exp": "Pseudomembranous enterocolitis (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-036",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "For a first non-fulminant C. difficile episode, the drug of choice is:",
+   "opts": [
+    "Oral fidaxomicin",
+    "IV vancomycin",
+    "Oral metronidazole",
+    "IV linezolid"
+   ],
+   "ans": 0,
+   "exp": "Oral fidaxomicin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-037",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "An alternative for a first non-fulminant episode is:",
+   "opts": [
+    "Oral vancomycin",
+    "IV vancomycin",
+    "Bacitracin",
+    "Ceftriaxone"
+   ],
+   "ans": 0,
+   "exp": "Oral vancomycin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-038",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "For a second episode at age at least 60 years, use:",
+   "opts": [
+    "Oral fidaxomicin",
+    "Ceftriaxone",
+    "IV metronidazole alone",
+    "Bacitracin"
+   ],
+   "ans": 0,
+   "exp": "Oral fidaxomicin (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-039",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "For a second episode below age 60 years, use:",
+   "opts": [
+    "Oral fidaxomicin plus bezlotoxumab",
+    "Oral vancomycin alone",
+    "IV cefazolin",
+    "Linezolid alone"
+   ],
+   "ans": 0,
+   "exp": "Oral fidaxomicin plus bezlotoxumab (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-040",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "page": 165,
+   "q": "Fulminant pseudomembranous enterocolitis is treated with:",
+   "opts": [
+    "Oral vancomycin plus IV metronidazole",
+    "Oral fidaxomicin alone",
+    "IV vancomycin alone",
+    "Ceftriaxone plus gentamicin"
+   ],
+   "ans": 0,
+   "exp": "Oral vancomycin plus IV metronidazole (Book p165)"
+  },
+  {
+   "id": "PHARM-C41-041",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Rapid IV vancomycin can cause:",
+   "opts": [
+    "Red-man syndrome",
+    "Stevens-Johnson syndrome",
+    "Serotonin syndrome",
+    "Cheese reaction"
+   ],
+   "ans": 0,
+   "exp": "Red-man syndrome (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-042",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Red-man syndrome results from increased:",
+   "opts": [
+    "Histamine release",
+    "Dopamine release",
+    "GABA release",
+    "Insulin release"
+   ],
+   "ans": 0,
+   "exp": "Histamine release (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-043",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The flushing of red-man syndrome is caused by:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Haemolysis",
+    "Thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-044",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The best prevention of red-man syndrome is:",
+   "opts": [
+    "Slow IV infusion",
+    "Rapid IV push",
+    "Oral dosing for systemic infection",
+    "Adding cilastatin"
+   ],
+   "ans": 0,
+   "exp": "Slow IV infusion (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-045",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Premedication for red-man syndrome uses:",
+   "opts": [
+    "Diphenhydramine, an H1 blocker",
+    "Cyproheptadine, a 5HT2 blocker",
+    "Propranolol",
+    "Dantrolene"
+   ],
+   "ans": 0,
+   "exp": "Diphenhydramine, an H1 blocker (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-046",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Other major vancomycin toxicities are:",
+   "opts": [
+    "Ototoxicity and nephrotoxicity",
+    "Hepatotoxicity and retinopathy",
+    "Agranulocytosis and myocarditis",
+    "Pseudolithiasis and kernicterus"
+   ],
+   "ans": 0,
+   "exp": "Ototoxicity and nephrotoxicity (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-047",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The Matzke nomogram chooses vancomycin dose based on:",
+   "opts": [
+    "Creatinine clearance",
+    "Liver function",
+    "Age only",
+    "Body temperature"
+   ],
+   "ans": 0,
+   "exp": "Creatinine clearance (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-048",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The Sawchuk method is based on:",
+   "opts": [
+    "Vancomycin pharmacokinetics after a first dose",
+    "Creatinine alone",
+    "Bayes theorem alone",
+    "Liver excretion"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin pharmacokinetics after a first dose (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-049",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The Sawchuk method measures:",
+   "opts": [
+    "Elimination constant and volume of distribution",
+    "Only albumin",
+    "Only GFR",
+    "Only oral absorption"
+   ],
+   "ans": 0,
+   "exp": "Elimination constant and volume of distribution (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-050",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Ctr denotes:",
+   "opts": [
+    "Trough concentration",
+    "Peak concentration",
+    "Toxic concentration",
+    "Target clearance"
+   ],
+   "ans": 0,
+   "exp": "Trough concentration (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-051",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Cmax denotes:",
+   "opts": [
+    "Peak plasma concentration",
+    "Trough concentration",
+    "Renal clearance",
+    "Volume of distribution"
+   ],
+   "ans": 0,
+   "exp": "Peak plasma concentration (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-052",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "The best vancomycin dosing approach listed is:",
+   "opts": [
+    "Bayesian software",
+    "Matzke nomogram",
+    "Sawchuk nomogram",
+    "Fixed dose for all"
+   ],
+   "ans": 0,
+   "exp": "Bayesian software (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-053",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "A disadvantage of Bayesian software is that it is:",
+   "opts": [
+    "Expensive",
+    "Inaccurate",
+    "Based only on creatinine",
+    "Unable to predict a next dose"
+   ],
+   "ans": 0,
+   "exp": "Expensive (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-054",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Bayesian vancomycin dosing applies:",
+   "opts": [
+    "Bayes theorem",
+    "Henderson-Hasselbalch equation",
+    "Fick principle",
+    "Michaelis-Menten only"
+   ],
+   "ans": 0,
+   "exp": "Bayes theorem (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-055",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing",
+   "page": 166,
+   "q": "Bayesian software compares first-dose pharmacokinetics with:",
+   "opts": [
+    "General-population pharmacokinetics",
+    "Only creatinine clearance",
+    "Liver enzymes",
+    "Bacterial MIC alone"
+   ],
+   "ans": 0,
+   "exp": "General-population pharmacokinetics (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-056",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "Other glycopeptides listed include:",
+   "opts": [
+    "Teicoplanin, dalbavancin, telavancin and oritavancin",
+    "Cefazolin, cefuroxime, ceftriaxone and cefepime",
+    "Imipenem, meropenem, ertapenem and aztreonam",
+    "Fosfomycin, cycloserine, bacitracin and mupirocin"
+   ],
+   "ans": 0,
+   "exp": "Teicoplanin, dalbavancin, telavancin and oritavancin (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-057",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "The longest-acting glycopeptide is:",
+   "opts": [
+    "Dalbavancin",
+    "Teicoplanin",
+    "Telavancin",
+    "Oritavancin"
+   ],
+   "ans": 0,
+   "exp": "Dalbavancin (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-058",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "Telavancin and oritavancin additionally:",
+   "opts": [
+    "Depolarise the cell membrane",
+    "Block DNA gyrase",
+    "Inhibit folate",
+    "Block ribosomes"
+   ],
+   "ans": 0,
+   "exp": "Depolarise the cell membrane (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-059",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "The route for these other glycopeptides is:",
+   "opts": [
+    "Intravenous",
+    "Oral",
+    "Intranasal",
+    "Transdermal"
+   ],
+   "ans": 0,
+   "exp": "Intravenous (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-060",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "Their approved MRSA uses are:",
+   "opts": [
+    "Skin and soft-tissue infections",
+    "All systemic infections",
+    "Meningitis only",
+    "UTI only"
+   ],
+   "ans": 0,
+   "exp": "Skin and soft-tissue infections (Book p166)"
+  },
+  {
+   "id": "PHARM-C41-061",
+   "sec": "Other Glycopeptides",
+   "page": 166,
+   "q": "These agents are not approved for:",
+   "opts": [
+    "Systemic MRSA infection",
+    "MRSA skin infection",
+    "MRSA soft-tissue infection",
+    "IV administration"
+   ],
+   "ans": 0,
+   "exp": "Systemic MRSA infection (Book p166)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U41-1",
+   "ch": 41,
+   "n": 1,
+   "title": "Fosfomycin, Cycloserine and Bacitracin",
+   "sec": "Fosfomycin, Cycloserine and Bacitracin · p164",
+   "qs": [
+    "PHARM-C41-001",
+    "PHARM-C41-002",
+    "PHARM-C41-003",
+    "PHARM-C41-004",
+    "PHARM-C41-005",
+    "PHARM-C41-006",
+    "PHARM-C41-007",
+    "PHARM-C41-008",
+    "PHARM-C41-009",
+    "PHARM-C41-010",
+    "PHARM-C41-011",
+    "PHARM-C41-012",
+    "PHARM-C41-013",
+    "PHARM-C41-014"
+   ],
+   "guide": "Fosfomycin/fosmidomycin mimic PEP and block EPT; fosfomycin concentrates in urine for single-dose pregnancy-safe UTI therapy. Cycloserine blocks alanine enzymes but causes neuropsychiatric toxicity. Bacitracin blocks bactoprenol and is restricted to topical skin use."
+  },
+  {
+   "id": "PHARM-U41-2",
+   "ch": 41,
+   "n": 2,
+   "title": "Glycopeptide Action and Resistance",
+   "sec": "Glycopeptide Action and Resistance · p164",
+   "qs": [
+    "PHARM-C41-015",
+    "PHARM-C41-016",
+    "PHARM-C41-017",
+    "PHARM-C41-018",
+    "PHARM-C41-019",
+    "PHARM-C41-020",
+    "PHARM-C41-021",
+    "PHARM-C41-022",
+    "PHARM-C41-023",
+    "PHARM-C41-024"
+   ],
+   "guide": "Vancomycin binds the D-Ala terminus and prevents transglycosylation. VRSA changes D-Ala to D-lactate and has MIC at least 16 µg/mL; VISA thickens its wall by raising D-Ala density, with MIC 4-8 µg/mL. Susceptible S. aureus has MIC below 2 µg/mL."
+  },
+  {
+   "id": "PHARM-U41-3",
+   "ch": 41,
+   "n": 3,
+   "title": "Vancomycin Uses and Enterococcal/C. difficile Algorithms",
+   "sec": "Vancomycin Uses and Enterococcal/C. difficile Algorithms · p165",
+   "qs": [
+    "PHARM-C41-025",
+    "PHARM-C41-026",
+    "PHARM-C41-027",
+    "PHARM-C41-028",
+    "PHARM-C41-029",
+    "PHARM-C41-030",
+    "PHARM-C41-031",
+    "PHARM-C41-032",
+    "PHARM-C41-033",
+    "PHARM-C41-034",
+    "PHARM-C41-035",
+    "PHARM-C41-036",
+    "PHARM-C41-037",
+    "PHARM-C41-038",
+    "PHARM-C41-039",
+    "PHARM-C41-040"
+   ],
+   "guide": "Vancomycin is poorly absorbed and is given IV for systemic Gram-positive disease such as MRSA and enterococcal endocarditis. Its poor absorption is useful orally in C. difficile enterocolitis, though fidaxomicin is preferred for non-fulminant disease and recurrence is age-stratified."
+  },
+  {
+   "id": "PHARM-U41-4",
+   "ch": 41,
+   "n": 4,
+   "title": "Vancomycin Adverse Effects and Precision Dosing",
+   "sec": "Vancomycin Adverse Effects and Precision Dosing · p166",
+   "qs": [
+    "PHARM-C41-041",
+    "PHARM-C41-042",
+    "PHARM-C41-043",
+    "PHARM-C41-044",
+    "PHARM-C41-045",
+    "PHARM-C41-046",
+    "PHARM-C41-047",
+    "PHARM-C41-048",
+    "PHARM-C41-049",
+    "PHARM-C41-050",
+    "PHARM-C41-051",
+    "PHARM-C41-052",
+    "PHARM-C41-053",
+    "PHARM-C41-054",
+    "PHARM-C41-055"
+   ],
+   "guide": "Rapid infusion triggers histamine-mediated red-man syndrome, prevented by slow infusion and diphenhydramine. Ototoxicity and nephrotoxicity motivate dose individualisation by Matzke, Sawchuk or preferably Bayesian methods."
+  },
+  {
+   "id": "PHARM-U41-5",
+   "ch": 41,
+   "n": 5,
+   "title": "Other Glycopeptides",
+   "sec": "Other Glycopeptides · p166",
+   "qs": [
+    "PHARM-C41-056",
+    "PHARM-C41-057",
+    "PHARM-C41-058",
+    "PHARM-C41-059",
+    "PHARM-C41-060",
+    "PHARM-C41-061"
+   ],
+   "guide": "Teicoplanin, dalbavancin, telavancin and oritavancin are IV glycopeptides. Dalbavancin is longest acting; telavancin and oritavancin also depolarise the membrane. They are approved for MRSA skin and soft-tissue infection, not systemic MRSA disease."
+  }
+ ]
+}

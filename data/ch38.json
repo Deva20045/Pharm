@@ -1,0 +1,826 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C38-001",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Cell-wall synthesis inhibitors are most effective against:",
+   "opts": [
+    "Replicating bacteria",
+    "Dormant spores only",
+    "Viruses",
+    "Human cells"
+   ],
+   "ans": 0,
+   "exp": "Replicating bacteria (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-002",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Cell-wall inhibitors kill bacteria because loss of the wall allows:",
+   "opts": [
+    "Water and solutes to enter, causing lysis",
+    "DNA repair to stop",
+    "Ribosomes to dissociate",
+    "Folate to accumulate"
+   ],
+   "ans": 0,
+   "exp": "Water and solutes to enter, causing lysis (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-003",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The least toxic cell-wall inhibitors are:",
+   "opts": [
+    "Beta-lactams",
+    "Glycopeptides",
+    "Bacitracin",
+    "Cycloserine"
+   ],
+   "ans": 0,
+   "exp": "Beta-lactams (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-004",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The beta-lactam nucleus is shown as a beta-lactam ring plus a:",
+   "opts": [
+    "Thiazoline ring",
+    "Pyridine ring",
+    "Imidazole ring",
+    "Benzene ring"
+   ],
+   "ans": 0,
+   "exp": "Thiazoline ring (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-005",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Penicillins principally cover:",
+   "opts": [
+    "Gram-positive organisms",
+    "Only Gram-negative organisms",
+    "Only anaerobes",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive organisms (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-006",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Cephalosporins principally extend coverage toward:",
+   "opts": [
+    "Gram-negative organisms",
+    "Viruses",
+    "Fungi",
+    "Protozoa"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative organisms (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-007",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Carbapenems cover:",
+   "opts": [
+    "Both Gram-positive and Gram-negative organisms",
+    "Only Gram-positive organisms",
+    "Only atypical bacteria",
+    "Only mycobacteria"
+   ],
+   "ans": 0,
+   "exp": "Both Gram-positive and Gram-negative organisms (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-008",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Monobactams principally cover:",
+   "opts": [
+    "Gram-negative organisms",
+    "Gram-positive organisms",
+    "Anaerobes only",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative organisms (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-009",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The glycopeptide listed for resistant Gram-positive infection is:",
+   "opts": [
+    "Vancomycin",
+    "Aztreonam",
+    "Fosfomycin",
+    "Bacitracin"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-010",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Other cell-wall inhibitors listed are:",
+   "opts": [
+    "Cycloserine, bacitracin and fosfomycin",
+    "Tetracycline, macrolide and linezolid",
+    "Sulfonamide, trimethoprim and quinolone",
+    "Polymyxin, daptomycin and colistin"
+   ],
+   "ans": 0,
+   "exp": "Cycloserine, bacitracin and fosfomycin (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-011",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Most protein-synthesis inhibitors are:",
+   "opts": [
+    "Bacteriostatic",
+    "Bactericidal",
+    "Virucidal",
+    "Fungicidal"
+   ],
+   "ans": 0,
+   "exp": "Bacteriostatic (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-012",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The bactericidal exception among protein-synthesis inhibitors is:",
+   "opts": [
+    "Aminoglycosides",
+    "Tetracyclines",
+    "Macrolides",
+    "Clindamycin"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycosides (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-013",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Protein-synthesis inhibitors listed include tetracyclines, macrolides, clindamycin, linezolid, streptogramins and:",
+   "opts": [
+    "Aminoglycosides",
+    "Penicillins",
+    "Sulfonamides",
+    "Polymyxins"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycosides (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-014",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Most antifolate antibacterial action is:",
+   "opts": [
+    "Bacteriostatic",
+    "Bactericidal",
+    "Sporicidal",
+    "Virucidal"
+   ],
+   "ans": 0,
+   "exp": "Bacteriostatic (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-015",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The bactericidal antifolate combination is:",
+   "opts": [
+    "Cotrimoxazole",
+    "A sulfonamide alone",
+    "Folic acid",
+    "Methotrexate"
+   ],
+   "ans": 0,
+   "exp": "Cotrimoxazole (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-016",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "DNA-gyrase inhibitors are:",
+   "opts": [
+    "Bactericidal",
+    "Bacteriostatic",
+    "Only fungistatic",
+    "Only virustatic"
+   ],
+   "ans": 0,
+   "exp": "Bactericidal (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-017",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "The DNA-gyrase inhibitor class listed is:",
+   "opts": [
+    "Fluoroquinolones",
+    "Macrolides",
+    "Glycopeptides",
+    "Polymyxins"
+   ],
+   "ans": 0,
+   "exp": "Fluoroquinolones (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-018",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Drugs acting on the cell membrane include:",
+   "opts": [
+    "Polymyxins and daptomycin",
+    "Penicillins and cephalosporins",
+    "Tetracyclines and macrolides",
+    "Sulfonamides and cotrimoxazole"
+   ],
+   "ans": 0,
+   "exp": "Polymyxins and daptomycin (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-019",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Daptomycin is classified as a:",
+   "opts": [
+    "Lipopeptide",
+    "Glycopeptide",
+    "Beta-lactam",
+    "Aminoglycoside"
+   ],
+   "ans": 0,
+   "exp": "Lipopeptide (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-020",
+   "sec": "Antibacterial Classes and Core Properties",
+   "page": 153,
+   "q": "Cell-membrane-active antibacterial drugs are generally:",
+   "opts": [
+    "Bactericidal",
+    "Bacteriostatic",
+    "Antifolate",
+    "DNA synthesis promoters"
+   ],
+   "ans": 0,
+   "exp": "Bactericidal (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-021",
+   "sec": "Pharmacotherapy Decision Making",
+   "page": 153,
+   "q": "When otherwise appropriate, pharmacotherapy favours:",
+   "opts": [
+    "Bactericidal over bacteriostatic drugs",
+    "Bacteriostatic over bactericidal drugs",
+    "Most toxic over least toxic drugs",
+    "Combination therapy in every case"
+   ],
+   "ans": 0,
+   "exp": "Bactericidal over bacteriostatic drugs (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-022",
+   "sec": "Pharmacotherapy Decision Making",
+   "page": 153,
+   "q": "The toxicity preference is:",
+   "opts": [
+    "Less toxic beta-lactams over more toxic agents",
+    "Polymyxins over beta-lactams",
+    "Aminoglycosides over penicillins",
+    "The most toxic agent available"
+   ],
+   "ans": 0,
+   "exp": "Less toxic beta-lactams over more toxic agents (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-023",
+   "sec": "Pharmacotherapy Decision Making",
+   "page": 153,
+   "q": "The basic condition for using an antibacterial is:",
+   "opts": [
+    "Benefit must exceed risk",
+    "Risk must exceed benefit",
+    "It must always be bacteriostatic",
+    "It must be orally absorbed"
+   ],
+   "ans": 0,
+   "exp": "Benefit must exceed risk (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-024",
+   "sec": "Pharmacotherapy Decision Making",
+   "page": 153,
+   "q": "Combining a bacteriostatic drug with a cell-wall inhibitor can:",
+   "opts": [
+    "Reduce the cell-wall inhibitor effect",
+    "Always produce synergy",
+    "Prevent resistance completely",
+    "Increase bacterial replication"
+   ],
+   "ans": 0,
+   "exp": "Reduce the cell-wall inhibitor effect (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-025",
+   "sec": "Pharmacotherapy Decision Making",
+   "page": 153,
+   "q": "Why may a bacteriostatic drug antagonise a beta-lactam?",
+   "opts": [
+    "Beta-lactams work best on actively replicating bacteria",
+    "Beta-lactams need folate",
+    "Bacteriostatic drugs destroy beta-lactam rings",
+    "Both compete for renal excretion"
+   ],
+   "ans": 0,
+   "exp": "Beta-lactams work best on actively replicating bacteria (Book p153)"
+  },
+  {
+   "id": "PHARM-C38-026",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "For a Gram-positive organism with a cell wall, first-line treatment is usually:",
+   "opts": [
+    "A penicillin",
+    "A polymyxin",
+    "A tetracycline in every case",
+    "A fluoroquinolone only"
+   ],
+   "ans": 0,
+   "exp": "A penicillin (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-027",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "For a Gram-negative organism with a cell wall, first-line choices include:",
+   "opts": [
+    "Cephalosporin, penicillin or carbapenem",
+    "Vancomycin only",
+    "Daptomycin only",
+    "Macrolide only"
+   ],
+   "ans": 0,
+   "exp": "Cephalosporin, penicillin or carbapenem (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-028",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "A resistant Gram-positive cell-wall infection is treated with:",
+   "opts": [
+    "Vancomycin",
+    "Aztreonam",
+    "Fosfomycin only",
+    "Cytisine"
+   ],
+   "ans": 0,
+   "exp": "Vancomycin (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-029",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "In a severe cell-wall infection, an add-on drug is:",
+   "opts": [
+    "An aminoglycoside such as gentamicin",
+    "A bacteriostatic tetracycline",
+    "Disulfiram",
+    "Acamprosate"
+   ],
+   "ans": 0,
+   "exp": "An aminoglycoside such as gentamicin (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-030",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Gentamicin added to a beta-lactam broadens coverage to:",
+   "opts": [
+    "Gram-positive and Gram-negative bacteria",
+    "Only anaerobes",
+    "Only atypical bacteria",
+    "Only fungi"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive and Gram-negative bacteria (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-031",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Organisms without a cell wall include:",
+   "opts": [
+    "Mycoplasma and Legionella",
+    "Staphylococcus and Streptococcus",
+    "E. coli and Klebsiella",
+    "Enterococcus and Pneumococcus"
+   ],
+   "ans": 0,
+   "exp": "Mycoplasma and Legionella (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-032",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "First-line choices for wall-less bacteria are:",
+   "opts": [
+    "Tetracyclines, macrolides or clindamycin",
+    "Penicillin G only",
+    "Vancomycin only",
+    "Bacitracin only"
+   ],
+   "ans": 0,
+   "exp": "Tetracyclines, macrolides or clindamycin (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-033",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Linezolid and streptomycin in the wall-less algorithm are:",
+   "opts": [
+    "More toxic later-line options",
+    "First-line least-toxic options",
+    "Antifolates",
+    "Cell-wall inhibitors"
+   ],
+   "ans": 0,
+   "exp": "More toxic later-line options (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-034",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "For a UTI, a useful drug must achieve high concentration in:",
+   "opts": [
+    "Urine",
+    "Stool",
+    "CSF only",
+    "Bile only"
+   ],
+   "ans": 0,
+   "exp": "Urine (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-035",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "First-line but toxic urinary antibacterial agents are:",
+   "opts": [
+    "Fluoroquinolones",
+    "Macrolides",
+    "Glycopeptides",
+    "Lipopeptides"
+   ],
+   "ans": 0,
+   "exp": "Fluoroquinolones (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-036",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Sulfonamides are particularly useful against:",
+   "opts": [
+    "Protozoa",
+    "Viruses",
+    "Fungi only",
+    "Helminths"
+   ],
+   "ans": 0,
+   "exp": "Protozoa (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-037",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Cotrimoxazole is reserved in the UTI box for:",
+   "opts": [
+    "Rare bacteria",
+    "All uncomplicated UTIs",
+    "Fungal UTI",
+    "Viral cystitis"
+   ],
+   "ans": 0,
+   "exp": "Rare bacteria (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-038",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Aminoglycosides require caution in urinary infection because they are:",
+   "opts": [
+    "Nephrotoxic",
+    "Hepatotoxic",
+    "Myelotoxic",
+    "Only ototoxic without renal toxicity"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxic (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-039",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "For gastrointestinal infection, a first-line drug with high stool concentration is:",
+   "opts": [
+    "A fluoroquinolone",
+    "Vancomycin IV only",
+    "Penicillin V",
+    "Gentamicin IV"
+   ],
+   "ans": 0,
+   "exp": "A fluoroquinolone (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-040",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Polymyxins are last-line drugs for resistant:",
+   "opts": [
+    "Gram-negative bacteria",
+    "Gram-positive bacteria",
+    "Mycoplasma",
+    "Fungi"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative bacteria (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-041",
+   "sec": "Therapy by Cell Wall, Site and Resistance",
+   "page": 154,
+   "q": "Daptomycin is a last-line drug for resistant:",
+   "opts": [
+    "Gram-positive bacteria",
+    "Gram-negative bacteria",
+    "Protozoa",
+    "Viruses"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive bacteria (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-042",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Glycopeptides and lipopeptides are:",
+   "opts": [
+    "Large protein molecules",
+    "Small lipid-soluble bases",
+    "Beta-lactam sugars",
+    "Folate analogues"
+   ],
+   "ans": 0,
+   "exp": "Large protein molecules (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-043",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Their large molecular size causes:",
+   "opts": [
+    "Poor oral absorption",
+    "Complete oral absorption",
+    "Rapid BBB entry",
+    "Exclusive hepatic excretion"
+   ],
+   "ans": 0,
+   "exp": "Poor oral absorption (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-044",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Peptide antibiotics cannot enter Gram-negative bacteria through:",
+   "opts": [
+    "Porins",
+    "Ribosomes",
+    "DNA gyrase",
+    "Folate pumps"
+   ],
+   "ans": 0,
+   "exp": "Porins (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-045",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "The spectrum of glycopeptides/lipopeptides is mainly:",
+   "opts": [
+    "Gram-positive Staphylococcus and Enterococcus",
+    "Gram-negative aerobes",
+    "Atypical organisms only",
+    "Protozoa"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive Staphylococcus and Enterococcus (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-046",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Aminoglycosides have:",
+   "opts": [
+    "Poor oral absorption",
+    "Complete oral bioavailability",
+    "No renal toxicity",
+    "No need for bacterial uptake"
+   ],
+   "ans": 0,
+   "exp": "Poor oral absorption (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-047",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Aminoglycoside entry depends on bacterial generation of a:",
+   "opts": [
+    "Transmembrane potential",
+    "Folate gradient",
+    "Chloride gradient only",
+    "Nuclear potential"
+   ],
+   "ans": 0,
+   "exp": "Transmembrane potential (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-048",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "The bacterial transmembrane potential for aminoglycoside entry requires:",
+   "opts": [
+    "ATP and oxygen",
+    "Folate and CO2",
+    "Only glucose",
+    "Only sodium"
+   ],
+   "ans": 0,
+   "exp": "ATP and oxygen (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-049",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Aminoglycoside monotherapy primarily covers:",
+   "opts": [
+    "Gram-negative aerobes",
+    "Gram-positive anaerobes",
+    "Mycoplasma only",
+    "Viruses"
+   ],
+   "ans": 0,
+   "exp": "Gram-negative aerobes (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-050",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "In polytherapy, aminoglycoside coverage can extend to:",
+   "opts": [
+    "Gram-positive and Gram-negative bacteria",
+    "Only protozoa",
+    "Only fungi",
+    "Only wall-less bacteria"
+   ],
+   "ans": 0,
+   "exp": "Gram-positive and Gram-negative bacteria (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-051",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "Beta-lactam plus aminoglycoside synergy occurs because the beta-lactam:",
+   "opts": [
+    "Inhibits the wall and facilitates aminoglycoside entry",
+    "Blocks aminoglycoside excretion",
+    "Activates bacterial folate",
+    "Prevents oxygen use"
+   ],
+   "ans": 0,
+   "exp": "Inhibits the wall and facilitates aminoglycoside entry (Book p154)"
+  },
+  {
+   "id": "PHARM-C38-052",
+   "sec": "Peptides and Aminoglycoside Synergy",
+   "page": 154,
+   "q": "The resulting beta-lactam–aminoglycoside combination effect is:",
+   "opts": [
+    "Bactericidal",
+    "Bacteriostatic",
+    "Antiviral",
+    "Fungistatic"
+   ],
+   "ans": 0,
+   "exp": "Bactericidal (Book p154)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U38-1",
+   "ch": 38,
+   "n": 1,
+   "title": "Antibacterial Classes and Core Properties",
+   "sec": "Antibacterial Classes and Core Properties · p153",
+   "qs": [
+    "PHARM-C38-001",
+    "PHARM-C38-002",
+    "PHARM-C38-003",
+    "PHARM-C38-004",
+    "PHARM-C38-005",
+    "PHARM-C38-006",
+    "PHARM-C38-007",
+    "PHARM-C38-008",
+    "PHARM-C38-009",
+    "PHARM-C38-010",
+    "PHARM-C38-011",
+    "PHARM-C38-012",
+    "PHARM-C38-013",
+    "PHARM-C38-014",
+    "PHARM-C38-015",
+    "PHARM-C38-016",
+    "PHARM-C38-017",
+    "PHARM-C38-018",
+    "PHARM-C38-019",
+    "PHARM-C38-020"
+   ],
+   "guide": "Antibacterials are organised by target: cell-wall synthesis, protein synthesis, folate, DNA gyrase or the membrane. Cell-wall drugs and gyrase inhibitors are bactericidal; most protein and folate inhibitors are bacteriostatic, with aminoglycosides and cotrimoxazole as bactericidal exceptions."
+  },
+  {
+   "id": "PHARM-U38-2",
+   "ch": 38,
+   "n": 2,
+   "title": "Pharmacotherapy Decision Making",
+   "sec": "Pharmacotherapy Decision Making · p153",
+   "qs": [
+    "PHARM-C38-021",
+    "PHARM-C38-022",
+    "PHARM-C38-023",
+    "PHARM-C38-024",
+    "PHARM-C38-025"
+   ],
+   "guide": "The hierarchy favours bactericidal and less toxic agents, but treatment always rests on benefit exceeding risk. A bacteriostatic drug may reduce a cell-wall inhibitor’s effect because the latter needs bacterial replication."
+  },
+  {
+   "id": "PHARM-U38-3",
+   "ch": 38,
+   "n": 3,
+   "title": "Therapy by Cell Wall, Site and Resistance",
+   "sec": "Therapy by Cell Wall, Site and Resistance · p154",
+   "qs": [
+    "PHARM-C38-026",
+    "PHARM-C38-027",
+    "PHARM-C38-028",
+    "PHARM-C38-029",
+    "PHARM-C38-030",
+    "PHARM-C38-031",
+    "PHARM-C38-032",
+    "PHARM-C38-033",
+    "PHARM-C38-034",
+    "PHARM-C38-035",
+    "PHARM-C38-036",
+    "PHARM-C38-037",
+    "PHARM-C38-038",
+    "PHARM-C38-039",
+    "PHARM-C38-040",
+    "PHARM-C38-041"
+   ],
+   "guide": "With a cell wall, beta-lactams are first line and aminoglycosides are added in severe disease. Without a wall, protein-synthesis inhibitors are required. Site matters: urinary and stool concentration guide UTI and GIT therapy; polymyxins and daptomycin are toxic last-line choices for resistant organisms."
+  },
+  {
+   "id": "PHARM-U38-4",
+   "ch": 38,
+   "n": 4,
+   "title": "Peptides and Aminoglycoside Synergy",
+   "sec": "Peptides and Aminoglycoside Synergy · p154",
+   "qs": [
+    "PHARM-C38-042",
+    "PHARM-C38-043",
+    "PHARM-C38-044",
+    "PHARM-C38-045",
+    "PHARM-C38-046",
+    "PHARM-C38-047",
+    "PHARM-C38-048",
+    "PHARM-C38-049",
+    "PHARM-C38-050",
+    "PHARM-C38-051",
+    "PHARM-C38-052"
+   ],
+   "guide": "Glycopeptides and lipopeptides are large proteins, explaining poor oral absorption and failure to traverse Gram-negative porins; their spectrum is Gram positive. Aminoglycosides also absorb poorly and need an oxygen-dependent membrane potential to enter; beta-lactam wall disruption permits synergistic entry."
+  }
+ ]
+}
