@@ -1,0 +1,1191 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C20-001",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Class II antiarrhythmics are:",
+   "opts": [
+    "β blockers",
+    "K+ channel blockers",
+    "Ca2+ channel blockers",
+    "Miscellaneous drugs"
+   ],
+   "ans": 0,
+   "exp": "The page shows class II as β blockers. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-002",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Class III antiarrhythmics are:",
+   "opts": [
+    "K+ channel blockers",
+    "β blockers",
+    "Ca2+ channel blockers",
+    "Adenosine receptor agonists only"
+   ],
+   "ans": 0,
+   "exp": "The page labels class III as K+ channel blockers. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-003",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Which class III drug is noted as a medical defibrillator?",
+   "opts": [
+    "Bretylium",
+    "Dofetilide",
+    "Vernakalant",
+    "Sotalol"
+   ],
+   "ans": 0,
+   "exp": "Bretylium is followed by the note medical defibrillator. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-004",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Which pair belongs to the class IV antiarrhythmic list?",
+   "opts": [
+    "Diltiazem and verapamil",
+    "Amlodipine and nifedipine",
+    "Prazosin and terazosin",
+    "Quinidine and disopyramide"
+   ],
+   "ans": 0,
+   "exp": "Class IV lists diltiazem and verapamil. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-005",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Class V miscellaneous antiarrhythmics include:",
+   "opts": [
+    "Adenosine, MgSO4, atropine and digoxin",
+    "Carvedilol, labetalol, nebivolol and tilisolol",
+    "Hydralazine, minoxidil, diazoxide and fenoldopam",
+    "Captopril, lisinopril, fosinopril and enalapril"
+   ],
+   "ans": 0,
+   "exp": "The class V column lists adenosine, MgSO4, atropine and digoxin. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-006",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map",
+   "page": 74,
+   "q": "Which set contains only class III drugs from the opening chart?",
+   "opts": [
+    "Dofetilide, ibutilide, amiodarone and sotalol",
+    "Diltiazem, verapamil, adenosine and atropine",
+    "Lidocaine, mexiletine, flecainide and phenytoin",
+    "Digoxin, timolol, captopril and losartan"
+   ],
+   "ans": 0,
+   "exp": "The class III chart includes dofetilide, ibutilide, vernakalant, amiodarone, sotalol and bretylium. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-007",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "The shared MOA of class II and class IV drugs in the table is:",
+   "opts": [
+    "Relative AV nodal block",
+    "Na+-K+ ATPase blockade",
+    "Direct renin inhibition",
+    "Aldehyde dehydrogenase inhibition"
+   ],
+   "ans": 0,
+   "exp": "The MOA row says relative AV nodal block individually. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-008",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "Class II β blockers are used for:",
+   "opts": [
+    "SVT/PSVT",
+    "Only long-QT pacing",
+    "Only BPH",
+    "Only renal artery stenosis"
+   ],
+   "ans": 0,
+   "exp": "The class II uses list begins with SVT/PSVT. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-009",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "β blockers are DOC for idiopathic ventricular tachycardia because they decrease:",
+   "opts": [
+    "Heart rate",
+    "Aqueous humour outflow",
+    "Uric acid excretion",
+    "Accessory pathway refractoriness only"
+   ],
+   "ans": 0,
+   "exp": "The table says idiopathic VT: β blocker → ↓ HR. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-010",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "Another class II use listed is:",
+   "opts": [
+    "Ventricular premature beats",
+    "Pulmonary fibrosis",
+    "Monday disease",
+    "Hyperreninemic hypertension"
+   ],
+   "ans": 0,
+   "exp": "Ventricular premature beats are listed under class II uses. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-011",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "β blockers treat catecholamine-induced arrhythmia due to:",
+   "opts": [
+    "Pheochromocytoma",
+    "BPH",
+    "Renal artery stenosis",
+    "Nitrate tolerance"
+   ],
+   "ans": 0,
+   "exp": "Pheochromocytoma is listed under catecholamine-induced arrhythmia. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-012",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "Halothane can cause catecholamine-induced arrhythmia because it:",
+   "opts": [
+    "Sensitizes myocardium to catecholamine",
+    "Blocks AV node totally alone",
+    "Inhibits neprilysin",
+    "Opens Na+-iodide symporter"
+   ],
+   "ans": 0,
+   "exp": "The table notes halothane sensitizes myocardium to catecholamine. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-013",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "Class IV calcium channel blockers are used in:",
+   "opts": [
+    "SVT/PSVT",
+    "HOCM surgery only",
+    "Insulinoma",
+    "Scorpion bite"
+   ],
+   "ans": 0,
+   "exp": "The class IV use column says SVT/PSVT. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-014",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "page": 74,
+   "q": "Class II and class IV drugs are contraindicated with each other because combining them can cause:",
+   "opts": [
+    "Total conduction block",
+    "Reflex tachycardia",
+    "Xanthopsia",
+    "Hyperuricemia"
+   ],
+   "ans": 0,
+   "exp": "The note says class II and IV are C/I with each other, never combined: total conduction block. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-015",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Class III K+ channel blockers delay which phase in ventricular cells?",
+   "opts": [
+    "Repolarisation",
+    "Depolarisation only",
+    "Digitalization",
+    "Renal filtration"
+   ],
+   "ans": 0,
+   "exp": "The class III MOA says ventricular cell: delay in repolarisation. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-016",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Delayed repolarisation from class III drugs can lead to:",
+   "opts": [
+    "QT prolongation and torsades de pointes",
+    "QT shortening only",
+    "PR shortening only",
+    "No ECG effect"
+   ],
+   "ans": 0,
+   "exp": "The class III MOA says can lead to QT prolongation → torsades de pointes. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-017",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Torsades risk among class III drugs is maximum with:",
+   "opts": [
+    "Ibutilide",
+    "Amiodarone",
+    "Sotalol",
+    "Bretylium"
+   ],
+   "ans": 0,
+   "exp": "The risk bracket says maximum: ibutilide. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-018",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Torsades risk among class III drugs is minimum with:",
+   "opts": [
+    "Amiodarone",
+    "Ibutilide",
+    "Dofetilide",
+    "Vernakalant"
+   ],
+   "ans": 0,
+   "exp": "The risk bracket says minimum: amiodarone. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-019",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Amiodarone is described as the:",
+   "opts": [
+    "Most wide-spectrum antiarrhythmic",
+    "Shortest-acting antiarrhythmic",
+    "Only class IV drug",
+    "Pure adenosine receptor agonist"
+   ],
+   "ans": 0,
+   "exp": "The amiodarone MOA line says most wide spectrum antiarrhythmic. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-020",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Amiodarone's longest-acting channel block is its:",
+   "opts": [
+    "K+ channel block",
+    "Na+ channel block",
+    "β block",
+    "Ca2+ channel block"
+   ],
+   "ans": 0,
+   "exp": "The MOA list says K+ channel blocker (longest acting). (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-021",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Amiodarone also blocks which additional targets?",
+   "opts": [
+    "Na+ channels, β receptors and Ca2+ channels",
+    "Only D1 receptors",
+    "Only α1a receptors",
+    "Only ACE"
+   ],
+   "ans": 0,
+   "exp": "The list includes Na+ channel blocker, β blocker and Ca2+ channel blocker. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-022",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Amiodarone has a lower torsades risk because of its:",
+   "opts": [
+    "Ca2+ channel-blocking action",
+    "Direct renin inhibition",
+    "Aldehyde dehydrogenase activation",
+    "β3 agonism"
+   ],
+   "ans": 0,
+   "exp": "The Ca2+ channel blocker line is followed by ↓ risk of torsades. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-023",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Ibutilide is the:",
+   "opts": [
+    "Shortest-acting K+ channel blocker",
+    "Longest-acting antiarrhythmic",
+    "Only oral nitrate",
+    "DOC for BPH"
+   ],
+   "ans": 0,
+   "exp": "The ibutilide note says shortest acting K+ channel blocker. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-024",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 74,
+   "q": "Ibutilide is used IV in acute attacks of:",
+   "opts": [
+    "Fibrillation/flutter",
+    "Scorpion bite",
+    "Pulmonary edema only",
+    "Renovascular hypertension"
+   ],
+   "ans": 0,
+   "exp": "The ibutilide note says used IV in acute attack of fibrillation/flutter. (Book p74)"
+  },
+  {
+   "id": "PHARM-C20-025",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 75,
+   "q": "Amiodarone has a half-life of about:",
+   "opts": [
+    "53 days",
+    "1-5 seconds",
+    "36-48 hours",
+    "7-10 days"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 line states 53 days. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-026",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 75,
+   "q": "Amiodarone is the:",
+   "opts": [
+    "Longest-acting antiarrhythmic",
+    "Shortest-acting antiarrhythmic",
+    "Shortest-acting K+ blocker",
+    "Only drug without loading dose"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 line says 53 days: longest acting antiarrhythmic. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-027",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "page": 75,
+   "q": "A loading dose of amiodarone is used to:",
+   "opts": [
+    "Achieve steady state concentration faster",
+    "Prevent all iodine toxicity",
+    "Block renal excretion",
+    "Avoid any need for monitoring"
+   ],
+   "ans": 0,
+   "exp": "The note says use loading dose → achieve steady state concentration faster. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-028",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone pulmonary toxicity listed is:",
+   "opts": [
+    "Pulmonary fibrosis",
+    "Bronchial asthma from β2 block",
+    "Nasolacrimal obstruction",
+    "Pulmonary hypertension only"
+   ],
+   "ans": 0,
+   "exp": "The first side effect says pulmonary fibrosis. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-029",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Before starting amiodarone, the page advises X-ray/PFT especially because it is contraindicated in:",
+   "opts": [
+    "Interstitial lung disease",
+    "BPH",
+    "Gout",
+    "WPW"
+   ],
+   "ans": 0,
+   "exp": "The pulmonary fibrosis line says C/I in ILD: do X-ray/PFT prior to initiating drug. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-030",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone corneal deposits are described as:",
+   "opts": [
+    "Whorl-like",
+    "Cherry-red",
+    "Cotton-wool",
+    "Kayser-Fleischer only"
+   ],
+   "ans": 0,
+   "exp": "The note under the eye image says whorl-like corneal deposits. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-031",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone corneal deposits are usually:",
+   "opts": [
+    "Asymptomatic",
+    "Always blinding",
+    "Always nephrotoxic",
+    "Always painful"
+   ],
+   "ans": 0,
+   "exp": "The corneal-deposit bullet says usually asymptomatic. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-032",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "If amiodarone corneal deposits become symptomatic, the instruction is to:",
+   "opts": [
+    "Change the drug",
+    "Increase the dose",
+    "Add digoxin",
+    "Perform renal angiography"
+   ],
+   "ans": 0,
+   "exp": "The note says if symptomatic → change drug. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-033",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Corneal deposits from amiodarone are reversible because deposited drug is reabsorbed after:",
+   "opts": [
+    "Stopping the drug",
+    "Adding iodine",
+    "Adding digoxin",
+    "Defibrillation"
+   ],
+   "ans": 0,
+   "exp": "The reversible note says deposited drug reabsorbed into circulation on stopping drug. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-034",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Whorl-like corneal deposits are also seen with chloroquine/chlorpromazine and rarely with:",
+   "opts": [
+    "Indomethacin",
+    "Ibuprofen",
+    "Aspirin",
+    "Paracetamol"
+   ],
+   "ans": 0,
+   "exp": "The note lists chloroquine/chlorpromazine and indomethacin rarely. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-035",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Blue-grey pigmentation with amiodarone is called:",
+   "opts": [
+    "Ceruloderma",
+    "Xanthopsia",
+    "Sweet syndrome",
+    "Monday disease"
+   ],
+   "ans": 0,
+   "exp": "The pigmentation line labels blue/grey pigmentation as ceruloderma. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-036",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Ceruloderma from amiodarone is due to lipofuscin deposition in:",
+   "opts": [
+    "Sun-exposed areas",
+    "Renal tubules",
+    "Prostatic urethra",
+    "Pulmonary capillaries only"
+   ],
+   "ans": 0,
+   "exp": "The note says lipofuscin deposition in sun exposed areas. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-037",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Which cardiac inflammation is listed as an amiodarone adverse effect?",
+   "opts": [
+    "Myocarditis",
+    "Endocardial cushion defect",
+    "Pericardial tamponade only",
+    "Atrial septal defect"
+   ],
+   "ans": 0,
+   "exp": "Myocarditis is side effect number 4. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-038",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Which liver lesion is listed with amiodarone?",
+   "opts": [
+    "Liver granuloma",
+    "Hepatic adenoma only",
+    "Biliary colic",
+    "Fatty liver only"
+   ],
+   "ans": 0,
+   "exp": "Liver granuloma is side effect number 5. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-039",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone can cause hypotension through:",
+   "opts": [
+    "α1 block",
+    "α2 agonism",
+    "β3 agonism",
+    "Direct renin inhibition"
+   ],
+   "ans": 0,
+   "exp": "Side effect number 6 says alpha-1 block: hypotension. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-040",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "The most common pigmentation with amiodarone is:",
+   "opts": [
+    "Brown skin pigmentation",
+    "Yellow vision",
+    "Floppy iris",
+    "Retinal detachment"
+   ],
+   "ans": 0,
+   "exp": "The skin line says brown pigmentation (m/c pigmentation). (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-041",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone photosensitivity is managed with:",
+   "opts": [
+    "Full skin coverage plus sunscreen",
+    "Stopping all water intake",
+    "Defibrillation",
+    "PDE5 blockers"
+   ],
+   "ans": 0,
+   "exp": "The skin side-effect note says Rx: full skin coverage + sunscreen. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-042",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Amiodarone thyroid toxicity is more often:",
+   "opts": [
+    "Hypothyroidism in plain dwellers",
+    "Hyperthyroidism in plain dwellers",
+    "No thyroid effect",
+    "Only thyroid cancer"
+   ],
+   "ans": 0,
+   "exp": "The thyroid line says hypothyroid (plain dwellers) > hyperthyroid (hilly areas). (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-043",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Which toxicity is specifically noted as absent with amiodarone?",
+   "opts": [
+    "Nephrotoxicity",
+    "Pulmonary fibrosis",
+    "Corneal deposits",
+    "Photosensitivity"
+   ],
+   "ans": 0,
+   "exp": "The note says no nephrotoxicity seen. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-044",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Dronedarone is a derivative of amiodarone without:",
+   "opts": [
+    "Iodine",
+    "Na+ channel blockade",
+    "Any antiarrhythmic use",
+    "Carbon atoms"
+   ],
+   "ans": 0,
+   "exp": "The dronedarone line says derivative of amiodarone without iodine. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-045",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Compared with amiodarone, dronedarone has:",
+   "opts": [
+    "Less toxicity and less efficacy",
+    "More toxicity and more efficacy",
+    "No α/β block",
+    "Only renal toxicity"
+   ],
+   "ans": 0,
+   "exp": "The dronedarone bullets say less toxicity and less efficacy. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-046",
+   "sec": "Amiodarone Adverse Effects and Dronedarone",
+   "page": 75,
+   "q": "Dronedarone has more:",
+   "opts": [
+    "α and β block",
+    "Nephrotoxicity",
+    "Iodine content",
+    "PDE5 inhibition"
+   ],
+   "ans": 0,
+   "exp": "The dronedarone section says more α + β block. (Book p75)"
+  },
+  {
+   "id": "PHARM-C20-047",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine blocks the AV node through which G protein?",
+   "opts": [
+    "Gi",
+    "Gq",
+    "Gs",
+    "G12"
+   ],
+   "ans": 0,
+   "exp": "The MOA list says block AV node (Gi). (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-048",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine causes bronchoconstriction through:",
+   "opts": [
+    "Gq",
+    "Gi",
+    "Gs",
+    "G0 only"
+   ],
+   "ans": 0,
+   "exp": "The MOA list says bronchoconstriction (Gq). (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-049",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine causes vasodilation through:",
+   "opts": [
+    "Gs",
+    "Gq",
+    "Gi",
+    "No G protein"
+   ],
+   "ans": 0,
+   "exp": "The MOA list says vasodilation (Gs). (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-050",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine is given by which route for antiarrhythmic use?",
+   "opts": [
+    "IV",
+    "Oral",
+    "Transdermal",
+    "Inhaled only"
+   ],
+   "ans": 0,
+   "exp": "The route section lists IV. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-051",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine is rapidly taken up into cells by:",
+   "opts": [
+    "Cellular adenosine uptake protein",
+    "Na+-K+ ATPase",
+    "Neprilysin",
+    "Aldehyde dehydrogenase"
+   ],
+   "ans": 0,
+   "exp": "The IV route note says rapid uptake into cells by cellular adenosine uptake protein. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-052",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "The initial rapid-push dose of adenosine is:",
+   "opts": [
+    "6 mg",
+    "12 mg",
+    "1 mg",
+    "53 mg"
+   ],
+   "ans": 0,
+   "exp": "The dosing line says rapid push: 6 mg. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-053",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "If there is no response to initial adenosine rapid push, the next dose is:",
+   "opts": [
+    "12 mg",
+    "6 mg again only",
+    "1 mg",
+    "100 mg"
+   ],
+   "ans": 0,
+   "exp": "The dosing line shows 6 mg no response → 12 mg. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-054",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Oral adenosine is contraindicated because gastric HCl acts on the:",
+   "opts": [
+    "Nucleoside",
+    "β receptor",
+    "K+ channel",
+    "Na+-K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "The route note says oral route C/I due to action of HCl on nucleoside. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-055",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine is DOC for acute attacks of:",
+   "opts": [
+    "SVT and PSVT",
+    "HOCM",
+    "Insulinoma",
+    "Hypertensive pregnancy"
+   ],
+   "ans": 0,
+   "exp": "The use section says DOC: acute attack of SVT, PSVT. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-056",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Initial non-drug management before adenosine in acute SVT/PSVT is:",
+   "opts": [
+    "Carotid massage",
+    "Renal angiography",
+    "Digitalization",
+    "Sunscreen"
+   ],
+   "ans": 0,
+   "exp": "The use note says initial mx: carotid massage. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-057",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Carotid massage works by vagal stimulation causing:",
+   "opts": [
+    "AV block",
+    "Accessory pathway opening",
+    "Renin release",
+    "Bronchodilation"
+   ],
+   "ans": 0,
+   "exp": "The carotid massage flow says vagal stimulation → AV block. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-058",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine can maintain controlled hypotension during surgery due to:",
+   "opts": [
+    "Vasodilation",
+    "Bronchoconstriction",
+    "Aldosterone release",
+    "Na+ channel blockade"
+   ],
+   "ans": 0,
+   "exp": "The use list says maintain controlled hypotension d/t vasodilatation, e.g. bleeding during surgery. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-059",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses",
+   "page": 76,
+   "q": "Adenosine is the shortest-acting antiarrhythmic, with half-life:",
+   "opts": [
+    "1-5 seconds",
+    "53 days",
+    "36-48 hours",
+    "7-10 days"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 note says shortest acting antiarrhythmic (1-5 sec). (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-060",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "The most common adenosine side effects listed are:",
+   "opts": [
+    "Transient apnea and flushing",
+    "Pulmonary fibrosis and corneal deposits",
+    "Xanthopsia and gynecomastia",
+    "Angioedema and dry cough"
+   ],
+   "ans": 0,
+   "exp": "Transient apnea and flushing are bracketed as m/c. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-061",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Adenosine can cause atrial fibrillation due to opening of:",
+   "opts": [
+    "K+ channels",
+    "Na+-K+ ATPase",
+    "PDE5",
+    "ACE"
+   ],
+   "ans": 0,
+   "exp": "The atrial fibrillation side-effect line says due to opening of K+ channels. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-062",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "K+ channel opening by adenosine causes early repolarisation followed by:",
+   "opts": [
+    "Early depolarisation",
+    "Permanent hyperpolarisation",
+    "Renin release",
+    "Digitalization"
+   ],
+   "ans": 0,
+   "exp": "The flow says early repolarisation → early depolarisation. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-063",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Adenosine is contraindicated in bronchial asthma/COPD because it can cause:",
+   "opts": [
+    "Bronchoconstriction",
+    "Bronchodilation",
+    "Hypothyroidism",
+    "Xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "Bronchial asthma/COPD appears in the contraindication list, and bronchoconstriction is an adenosine effect. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-064",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Adenosine is contraindicated in atrial fibrillation because it can:",
+   "opts": [
+    "Promote atrial fibrillation",
+    "Cure all atrial circuits",
+    "Block renal renin",
+    "Prevent K+ opening"
+   ],
+   "ans": 0,
+   "exp": "Atrial fibrillation is both a listed side effect and a contraindication. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-065",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Adenosine is contraindicated in transplanted heart due to risk of:",
+   "opts": [
+    "Denervation hypersensitivity",
+    "Hyperuricemia",
+    "Floppy iris",
+    "Aldosterone loss"
+   ],
+   "ans": 0,
+   "exp": "The transplanted heart line says due to risk of denervation hypersensitivity. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-066",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Digoxin's antiarrhythmic MOA in this chapter is:",
+   "opts": [
+    "Block AV node",
+    "Open K+ channels directly",
+    "Block Ca2+ channels",
+    "Stimulate β1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The digoxin section says MOA: block AV node. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-067",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Digoxin is used as an ionotrope in long-term management of:",
+   "opts": [
+    "Chronic CHF",
+    "Hypertensive emergency",
+    "BPH",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "The use line says as an ionotrope in long term mx of chronic CHF. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-068",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Digoxin is also used in:",
+   "opts": [
+    "SVT/PSVT",
+    "Torsades acute attack",
+    "Scorpion bite only",
+    "Renovascular hypertension"
+   ],
+   "ans": 0,
+   "exp": "The digoxin use line includes SVT/PSVT. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-069",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "MgSO4 blocks which channel in the torsades section?",
+   "opts": [
+    "Ca2+ channel",
+    "Na+ channel",
+    "K+ channel only",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The MgSO4 MOA says block Ca2+ channel. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-070",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "MgSO4 decreases QT interval by causing:",
+   "opts": [
+    "Early repolarisation",
+    "Delayed repolarisation",
+    "Delayed depolarization",
+    "AV node stimulation"
+   ],
+   "ans": 0,
+   "exp": "The MgSO4 line says block Ca2+ channel → early repolarisation → ↓ QT interval. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-071",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "The DOC for acute torsades de pointes is:",
+   "opts": [
+    "MgSO4",
+    "Amiodarone",
+    "Adenosine",
+    "Digoxin"
+   ],
+   "ans": 0,
+   "exp": "The MgSO4 DOC line says Rx of torsades de pointes acute attack. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-072",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Congenital long-QT syndrome is due to a:",
+   "opts": [
+    "Hyperadrenergic state",
+    "Nitrate-free state",
+    "Renin-free state",
+    "Pure cholinergic state"
+   ],
+   "ans": 0,
+   "exp": "The long-term long-QT note says congenital: due to hyperadrenergic state. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-073",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "DOC for congenital long-QT syndrome is:",
+   "opts": [
+    "β blocker",
+    "PDE5 inhibitor",
+    "Digibind",
+    "Sodium nitroprusside"
+   ],
+   "ans": 0,
+   "exp": "The congenital long-QT line says DOC: β blocker. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-074",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "Treatment of choice for congenital long-QT syndrome is:",
+   "opts": [
+    "Pacing",
+    "Carotid massage",
+    "Renal angiography",
+    "Sunscreen"
+   ],
+   "ans": 0,
+   "exp": "The note says TOC: pacing. (Book p76)"
+  },
+  {
+   "id": "PHARM-C20-075",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "page": 76,
+   "q": "For acquired drug-induced long-QT syndrome, the key management is:",
+   "opts": [
+    "Avoid drugs",
+    "Give more QT-prolonging drugs",
+    "Use oral adenosine",
+    "Give digoxin"
+   ],
+   "ans": 0,
+   "exp": "The acquired line says drug induced: avoid drugs. (Book p76)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U20-1",
+   "ch": 20,
+   "n": 1,
+   "title": "Class II, III, IV and V Antiarrhythmic Map",
+   "sec": "Class II, III, IV and V Antiarrhythmic Map · p74",
+   "qs": [
+    "PHARM-C20-001",
+    "PHARM-C20-002",
+    "PHARM-C20-003",
+    "PHARM-C20-004",
+    "PHARM-C20-005",
+    "PHARM-C20-006"
+   ],
+   "guide": "Part 2 re-lists the non-class-I antiarrhythmics. Class II contains β blockers; class III contains K+ blockers including bretylium, dofetilide, ibutilide, vernakalant, amiodarone and sotalol; class IV contains diltiazem/verapamil; and class V contains adenosine, MgSO4, atropine and digoxin. This opening map anchors the later details on AV nodal block, K+ blockade and miscellaneous drugs."
+  },
+  {
+   "id": "PHARM-U20-2",
+   "ch": 20,
+   "n": 2,
+   "title": "Class II β Blockers and Class IV Calcium Channel Blockers",
+   "sec": "Class II β Blockers and Class IV Calcium Channel Blockers · p74",
+   "qs": [
+    "PHARM-C20-007",
+    "PHARM-C20-008",
+    "PHARM-C20-009",
+    "PHARM-C20-010",
+    "PHARM-C20-011",
+    "PHARM-C20-012",
+    "PHARM-C20-013",
+    "PHARM-C20-014"
+   ],
+   "guide": "Class II and class IV drugs both cause relative AV nodal block when used individually. β blockers are used for SVT/PSVT, idiopathic VT with reduced heart rate, ventricular premature beats and catecholamine-induced arrhythmias from pheochromocytoma or halothane. Diltiazem/verapamil are used for SVT/PSVT, but class II and IV must never be combined because total conduction block can result."
+  },
+  {
+   "id": "PHARM-U20-3",
+   "ch": 20,
+   "n": 3,
+   "title": "Class III K+ Channel Blockers and Amiodarone Spectrum",
+   "sec": "Class III K+ Channel Blockers and Amiodarone Spectrum · p74",
+   "qs": [
+    "PHARM-C20-015",
+    "PHARM-C20-016",
+    "PHARM-C20-017",
+    "PHARM-C20-018",
+    "PHARM-C20-019",
+    "PHARM-C20-020",
+    "PHARM-C20-021",
+    "PHARM-C20-022",
+    "PHARM-C20-023",
+    "PHARM-C20-024",
+    "PHARM-C20-025",
+    "PHARM-C20-026",
+    "PHARM-C20-027"
+   ],
+   "guide": "Class III drugs delay ventricular repolarization, producing QT prolongation and torsades risk. Ibutilide has the maximum torsades risk, whereas amiodarone has minimum torsades risk because it blocks K+, Na+, β and Ca2+ channels. Amiodarone is the broadest and longest-acting antiarrhythmic; ibutilide is the shortest-acting K+ blocker used IV for acute fibrillation/flutter attacks."
+  },
+  {
+   "id": "PHARM-U20-4",
+   "ch": 20,
+   "n": 4,
+   "title": "Amiodarone Adverse Effects and Dronedarone",
+   "sec": "Amiodarone Adverse Effects and Dronedarone · p75",
+   "qs": [
+    "PHARM-C20-028",
+    "PHARM-C20-029",
+    "PHARM-C20-030",
+    "PHARM-C20-031",
+    "PHARM-C20-032",
+    "PHARM-C20-033",
+    "PHARM-C20-034",
+    "PHARM-C20-035",
+    "PHARM-C20-036",
+    "PHARM-C20-037",
+    "PHARM-C20-038",
+    "PHARM-C20-039",
+    "PHARM-C20-040",
+    "PHARM-C20-041",
+    "PHARM-C20-042",
+    "PHARM-C20-043",
+    "PHARM-C20-044",
+    "PHARM-C20-045",
+    "PHARM-C20-046"
+   ],
+   "guide": "Amiodarone toxicity is dominated by iodine-related lung, liver, skin, thyroid and ocular problems. Pulmonary fibrosis needs baseline X-ray/PFT and is contraindicated in ILD; corneal deposits are whorl-like, usually asymptomatic and reversible; skin effects include ceruloderma and brown photosensitive pigmentation; and thyroid disease is more often hypothyroid in plain dwellers than hyperthyroid in hilly areas. Dronedarone lacks iodine, so it is less toxic but also less efficacious."
+  },
+  {
+   "id": "PHARM-U20-5",
+   "ch": 20,
+   "n": 5,
+   "title": "Adenosine: MOA, Route, Dosing and Uses",
+   "sec": "Adenosine: MOA, Route, Dosing and Uses · p76",
+   "qs": [
+    "PHARM-C20-047",
+    "PHARM-C20-048",
+    "PHARM-C20-049",
+    "PHARM-C20-050",
+    "PHARM-C20-051",
+    "PHARM-C20-052",
+    "PHARM-C20-053",
+    "PHARM-C20-054",
+    "PHARM-C20-055",
+    "PHARM-C20-056",
+    "PHARM-C20-057",
+    "PHARM-C20-058",
+    "PHARM-C20-059"
+   ],
+   "guide": "Adenosine acts on adenosine receptors to block the AV node through Gi, cause bronchoconstriction through Gq and vasodilate through Gs. Because it is rapidly taken up into cells and degraded orally by gastric acid, it must be given as an IV rapid push—6 mg, then 12 mg if there is no response. It is DOC for acute SVT/PSVT after vagal/carotid massage and can maintain controlled hypotension during surgery."
+  },
+  {
+   "id": "PHARM-U20-6",
+   "ch": 20,
+   "n": 6,
+   "title": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate",
+   "sec": "Adenosine Adverse Effects, Digoxin and Magnesium Sulfate · p76",
+   "qs": [
+    "PHARM-C20-060",
+    "PHARM-C20-061",
+    "PHARM-C20-062",
+    "PHARM-C20-063",
+    "PHARM-C20-064",
+    "PHARM-C20-065",
+    "PHARM-C20-066",
+    "PHARM-C20-067",
+    "PHARM-C20-068",
+    "PHARM-C20-069",
+    "PHARM-C20-070",
+    "PHARM-C20-071",
+    "PHARM-C20-072",
+    "PHARM-C20-073",
+    "PHARM-C20-074",
+    "PHARM-C20-075"
+   ],
+   "guide": "Adenosine commonly causes transient apnea and flushing; it may trigger atrial fibrillation by K+ channel opening and is contraindicated in asthma/COPD, atrial fibrillation and transplanted hearts because of denervation hypersensitivity. Digoxin blocks the AV node and is used as a chronic CHF inotrope plus SVT/PSVT drug. MgSO4 blocks Ca2+ channels to shorten QT and is DOC for acute torsades; congenital long QT is managed with β blockers and pacing, while acquired drug-induced long QT requires avoiding drugs."
+  }
+ ]
+}

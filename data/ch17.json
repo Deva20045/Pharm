@@ -1,0 +1,1971 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C17-001",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "β3 receptors in this chapter are located mainly on the:",
+   "opts": [
+    "Urinary bladder",
+    "SA node",
+    "Prostatic urethra",
+    "Adrenal medulla"
+   ],
+   "ans": 0,
+   "exp": "The β3 agonist section says β3 receptors are in the urinary bladder. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-002",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "β3 receptor stimulation in the urinary bladder causes:",
+   "opts": [
+    "Relaxation",
+    "Contraction",
+    "Miosis",
+    "Increased renin"
+   ],
+   "ans": 0,
+   "exp": "The note says β3 receptors in the urinary bladder cause relaxation. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-003",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "The β3 agonists listed are:",
+   "opts": [
+    "Mirabegron and vibegron",
+    "Formoterol and salmeterol",
+    "Terbutaline and salbutamol",
+    "Olodaterol and vilanterol"
+   ],
+   "ans": 0,
+   "exp": "The β3 agonist drug list includes mirabegron and vibegron. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-004",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "Among the listed β3 agonists, the preferred drug is:",
+   "opts": [
+    "Vibegron",
+    "Mirabegron",
+    "Salbutamol",
+    "Terbutaline"
+   ],
+   "ans": 0,
+   "exp": "Vibegron is marked as preferred. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-005",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "β3 agonists are DOC for:",
+   "opts": [
+    "Overactive bladder or urge incontinence",
+    "Intermittent bronchial asthma",
+    "Hypertensive crisis",
+    "Brittle asthma"
+   ],
+   "ans": 0,
+   "exp": "The use line says DOC for overactive bladder (urge incontinence). (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-006",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "Which β3 agonist has more side effects according to the page?",
+   "opts": [
+    "Mirabegron",
+    "Vibegron",
+    "Formoterol",
+    "Salmeterol"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line states mirabegron > vibegron. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-007",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "A vascular side effect of mirabegron/vibegron listed is:",
+   "opts": [
+    "Headache",
+    "Cataract",
+    "Retinal detachment",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The first listed side effect is vascular headache. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-008",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "UTI with β3 agonists is attributed to urine retention in a:",
+   "opts": [
+    "Relaxed bladder",
+    "Contracted bladder",
+    "Fibrosed urethra",
+    "Dilated pupil"
+   ],
+   "ans": 0,
+   "exp": "The UTI side-effect note says it occurs due to urine retention in relaxed bladder. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-009",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "Which cardiovascular side effect is listed for β3 agonists?",
+   "opts": [
+    "Hypertension",
+    "Severe bradycardia",
+    "AV block only",
+    "Diastolic collapse only"
+   ],
+   "ans": 0,
+   "exp": "Hypertension is side effect number 3 in the β3 list. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-010",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "Which upper-airway side effect is listed for β3 agonists?",
+   "opts": [
+    "Nasopharyngitis",
+    "Laryngospasm",
+    "Epistaxis only",
+    "Bronchial asthma"
+   ],
+   "ans": 0,
+   "exp": "Nasopharyngitis is side effect number 4. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-011",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "Anticholinergics listed as alternatives in urge incontinence are:",
+   "opts": [
+    "Darifenacin, solifenacin and trospium",
+    "Mirabegron, vibegron and ritodrine",
+    "Formoterol, salmeterol and vilanterol",
+    "Epinephrine, norepinephrine and dopamine"
+   ],
+   "ans": 0,
+   "exp": "The note names darifenacin, solifenacin and trospium as anticholinergics used in urge incontinence. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-012",
+   "sec": "β3 Agonists for Overactive Bladder",
+   "page": 58,
+   "q": "The key therapeutic action of mirabegron/vibegron is best described as:",
+   "opts": [
+    "Bladder relaxation for urge incontinence",
+    "Bladder contraction for overflow incontinence",
+    "Bronchial relaxation for COPD only",
+    "α1 vasoconstriction for spinal hypotension"
+   ],
+   "ans": 0,
+   "exp": "The β3 section links urinary bladder relaxation with use as DOC in overactive bladder. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-013",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Short-acting β agonists (SABA) last approximately:",
+   "opts": [
+    "4 hours",
+    "12 hours",
+    "24 hours",
+    "2-3 days"
+   ],
+   "ans": 0,
+   "exp": "The SABA branch is labelled about 4 h. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-014",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The SABA that is the only adrenergic given by subcutaneous route is:",
+   "opts": [
+    "Terbutaline",
+    "Salbutamol",
+    "Formoterol",
+    "Vilanterol"
+   ],
+   "ans": 0,
+   "exp": "Under SABA, terbutaline is noted as the only adrenergic given by SC route. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-015",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Salbutamol can be administered via nebulisers for:",
+   "opts": [
+    "Bronchial asthma and COPD",
+    "Overactive bladder and BPH",
+    "Narcolepsy and ADHD",
+    "Pheochromocytoma and cheese reaction"
+   ],
+   "ans": 0,
+   "exp": "The salbutamol note says it can be taken via nebulisers for bronchial asthma and COPD. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-016",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Long-acting β agonists (LABA) last approximately:",
+   "opts": [
+    "12 hours",
+    "4 hours",
+    "24 hours",
+    "One week"
+   ],
+   "ans": 0,
+   "exp": "The LABA branch is labelled about 12 h. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-017",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The LABAs listed are:",
+   "opts": [
+    "Formoterol and salmeterol",
+    "Terbutaline and salbutamol",
+    "Olodaterol and vilanterol",
+    "Mirabegron and vibegron"
+   ],
+   "ans": 0,
+   "exp": "Under LABA, the two drugs listed are formoterol and salmeterol. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-018",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "LABAs are given by pMDI at what schedule in the page?",
+   "opts": [
+    "BD",
+    "OD",
+    "QID",
+    "Every 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The LABA use block says used in pMDI BD. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-019",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Persistent bronchial asthma in this page is defined by:",
+   "opts": [
+    "At least 2 episodes per week",
+    "Less than 2 episodes per week",
+    "One episode per month",
+    "Only nocturnal cough"
+   ],
+   "ans": 0,
+   "exp": "The persistent BA line says ≥2 episodes/week. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-020",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "For persistent bronchial asthma, the DOC controller drug listed is:",
+   "opts": [
+    "Inhaled corticosteroids (ICS)",
+    "LABA monotherapy",
+    "VLABA alone",
+    "Mirabegron"
+   ],
+   "ans": 0,
+   "exp": "The persistent BA line marks ICS as DOC, with LABA as add-on drug. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-021",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "In persistent bronchial asthma, LABAs are used as:",
+   "opts": [
+    "Add-on drugs",
+    "The only DOC monotherapy",
+    "Contraindicated agents",
+    "AChE reactivators"
+   ],
+   "ans": 0,
+   "exp": "A bracket beside persistent BA/COPD marks the β agonists as add-on drugs. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-022",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Very-long-acting β agonists (VLABA) last approximately:",
+   "opts": [
+    "24 hours",
+    "4 hours",
+    "12 hours",
+    "3-5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The VLABA branch is labelled about 24 h. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-023",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The VLABAs listed are:",
+   "opts": [
+    "Olodaterol and vilanterol",
+    "Formoterol and salmeterol",
+    "Terbutaline and salbutamol",
+    "Mirabegron and vibegron"
+   ],
+   "ans": 0,
+   "exp": "The VLABA branch lists olodaterol and vilanterol. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-024",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "VLABAs are used only in:",
+   "opts": [
+    "COPD",
+    "Intermittent asthma",
+    "Overactive bladder",
+    "Narcolepsy"
+   ],
+   "ans": 0,
+   "exp": "The VLABA branch says used only in COPD. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-025",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The dosing schedule for VLABA pMDI is:",
+   "opts": [
+    "OD",
+    "BD",
+    "QID",
+    "Every 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The VLABA use says pMDI OD. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-026",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Fast-acting β agonists are used as relievers in:",
+   "opts": [
+    "Intermittent bronchial asthma",
+    "Permanent COPD only",
+    "Hypertensive emergency",
+    "Urge incontinence"
+   ],
+   "ans": 0,
+   "exp": "The box says fast-acting β agonists are used as reliever in intermittent bronchial asthma. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-027",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "Intermittent bronchial asthma is described here as:",
+   "opts": [
+    "Less than 2 episodes per week",
+    "At least 2 episodes per week",
+    "Daily symptoms",
+    "Only nocturnal symptoms"
+   ],
+   "ans": 0,
+   "exp": "The reliever box defines intermittent BA as <2 episodes/week. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-028",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The DOC for intermittent bronchial asthma is:",
+   "opts": [
+    "Formoterol plus inhaled corticosteroids",
+    "Salbutamol alone always",
+    "Olodaterol alone",
+    "Mirabegron plus vibegron"
+   ],
+   "ans": 0,
+   "exp": "The box says DOC for intermittent BA: formoterol + ICS. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-029",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The formoterol plus ICS regimen is delivered by:",
+   "opts": [
+    "Pressurised metered-dose inhaler (pMDI)",
+    "Intravenous infusion",
+    "Subcutaneous injection",
+    "Transdermal patch"
+   ],
+   "ans": 0,
+   "exp": "The reliever box writes pMDI beneath formoterol + ICS. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-030",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "If formoterol plus ICS is unaffordable, the page advises:",
+   "opts": [
+    "1 pMDI salbutamol, wait 5 minutes, then 1 pMDI ICS",
+    "Terbutaline IV every 5 minutes",
+    "Olodaterol pMDI QID",
+    "Mirabegron plus vibegron"
+   ],
+   "ans": 0,
+   "exp": "The affordability branch shows 1 pMDI salbutamol → 5 minutes → 1 pMDI ICS. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-031",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 58,
+   "q": "The interval between salbutamol and ICS in the fallback intermittent asthma regimen is:",
+   "opts": [
+    "5 minutes",
+    "30 seconds",
+    "12 hours",
+    "24 hours"
+   ],
+   "ans": 0,
+   "exp": "The arrow between salbutamol and ICS is labelled 5 minutes. (Book p58)"
+  },
+  {
+   "id": "PHARM-C17-032",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 59,
+   "q": "The most common side effect of β2 agonists is:",
+   "opts": [
+    "Tremor",
+    "Cataract",
+    "Dementia",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list marks tremor as most common. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-033",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 59,
+   "q": "Salbutamol is useful in hyperkalemia because β2 agonists can cause:",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Hyponatremia",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list says hypokalemia and notes salbutamol is used for hyperkalemia treatment. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-034",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 59,
+   "q": "β2 agonists can cause which glucose side effect?",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "No glucose change",
+    "Ketonuria only"
+   ],
+   "ans": 0,
+   "exp": "Hyperglycemia is listed as a β agonist side effect. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-035",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 59,
+   "q": "Which cardiac symptom is listed as a β agonist side effect?",
+   "opts": [
+    "Palpitations",
+    "Complete heart block",
+    "Asystole only",
+    "No cardiac symptom"
+   ],
+   "ans": 0,
+   "exp": "Palpitations appear as side effect number 4. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-036",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "page": 59,
+   "q": "Which side-effect cluster best matches β2 agonists in the notes?",
+   "opts": [
+    "Tremor, hypokalemia, hyperglycemia and palpitations",
+    "Miosis, lacrimation, defecation and urination",
+    "Dry mouth, constipation, dementia and urinary retention",
+    "Cataract, iris cyst, glaucoma and brow ache"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list contains tremor, hypokalemia, hyperglycemia and palpitations. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-037",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Indirect adrenergics are also known as:",
+   "opts": [
+    "Norepinephrine displacers",
+    "AChE inhibitors",
+    "Muscarinic blockers",
+    "β3 antagonists"
+   ],
+   "ans": 0,
+   "exp": "The section begins by saying indirect adrenergics are aka norepinephrine displacers. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-038",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "In the mechanism of indirect adrenergics, the drug is similar to:",
+   "opts": [
+    "Norepinephrine",
+    "Acetylcholine",
+    "Histamine",
+    "GABA"
+   ],
+   "ans": 0,
+   "exp": "The mechanism line says drug similar to NE enters the neuron. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-039",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "After an indirect adrenergic enters the neuron, norepinephrine is displaced from the:",
+   "opts": [
+    "Vesicle",
+    "Nucleus",
+    "Postsynaptic receptor",
+    "AChE molecule"
+   ],
+   "ans": 0,
+   "exp": "The mechanism says NE molecule is displaced from vesicle. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-040",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Displaced NE enters the:",
+   "opts": [
+    "Synaptic space",
+    "Urine",
+    "Aqueous humour",
+    "CSF only"
+   ],
+   "ans": 0,
+   "exp": "The flow sends displaced NE to synaptic space. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-041",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "The synaptic NE produced by indirect adrenergics stimulates:",
+   "opts": [
+    "α and β receptors",
+    "m and N receptors",
+    "Only D2 receptors",
+    "Only H3 receptors"
+   ],
+   "ans": 0,
+   "exp": "The mechanism flow has α, β stimulation after synaptic NE release. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-042",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "The final pharmacologic effect of indirect adrenergics is:",
+   "opts": [
+    "Sympathomimetic effect",
+    "Parasympatholytic effect",
+    "AChE reactivation",
+    "Muscle paralysis"
+   ],
+   "ans": 0,
+   "exp": "The mechanism ends with sympathomimetic effect. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-043",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "With intermittent dosing of an indirect adrenergic, NE acts on:",
+   "opts": [
+    "α and β receptors",
+    "Only m3 receptors",
+    "Only NMJ nicotinic receptors",
+    "Only renal D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The dosing branch says intermittent dosing → NE acts on α and β receptors. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-044",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Intermittent dosing of indirect adrenergics produces:",
+   "opts": [
+    "Sympathomimetic effects",
+    "Sympatholysis",
+    "ACh depletion",
+    "Only cholinergic crisis"
+   ],
+   "ans": 0,
+   "exp": "The intermittent dosing branch ends with sympathomimetic effects. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-045",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Continuous dosing of indirect adrenergics leads to:",
+   "opts": [
+    "Depletion of NE",
+    "Accumulation of ACh",
+    "Increased vesicular NE forever",
+    "Only D1 diuresis"
+   ],
+   "ans": 0,
+   "exp": "The continuous dosing branch says depletion of NE. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-046",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "NE depletion during continuous dosing causes:",
+   "opts": [
+    "Failure of drug and sympatholysis",
+    "Greater sympathomimetic action indefinitely",
+    "Miosis",
+    "AChE ageing"
+   ],
+   "ans": 0,
+   "exp": "The continuous branch ends with failure of drug and sympatholysis. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-047",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Norepinephrine is metabolised by:",
+   "opts": [
+    "Monoamine oxidase",
+    "Acetylcholinesterase",
+    "Pseudocholinesterase",
+    "Tyrosine hydroxylase"
+   ],
+   "ans": 0,
+   "exp": "The note beneath dosing says NE is metabolised by monoamine oxidase. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-048",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Cheese reaction involves food containing:",
+   "opts": [
+    "Tyramine",
+    "Histamine",
+    "Pilocarpine",
+    "Atropine"
+   ],
+   "ans": 0,
+   "exp": "The boxed note says tyramine-containing food such as cheese and wine. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-049",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Examples of tyramine-containing food in the note are:",
+   "opts": [
+    "Cheese and wine",
+    "Milk and rice",
+    "Meat and eggs",
+    "Coffee and tea"
+   ],
+   "ans": 0,
+   "exp": "The note includes cheese and wine as examples. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-050",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Tyramine causes cheese reaction by:",
+   "opts": [
+    "Displacing NE",
+    "Blocking β receptors",
+    "Activating AChE",
+    "Increasing insulin directly"
+   ],
+   "ans": 0,
+   "exp": "The tyramine branch leads to displacement of NE. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-051",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "MAO inhibitors in the cheese reaction are identified as:",
+   "opts": [
+    "Antidepressants",
+    "Antihistamines",
+    "Anticholinergics",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "The patient branch lists MAO inhibitors with antidepressants in parentheses. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-052",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "When MAO is inhibited, NE is:",
+   "opts": [
+    "Not metabolised",
+    "Rapidly destroyed",
+    "Converted to ACh",
+    "Stored only in urine"
+   ],
+   "ans": 0,
+   "exp": "The MAO-inhibitor branch says NE is not metabolised. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-053",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Accumulation of NE in cheese reaction produces:",
+   "opts": [
+    "Hypertensive crisis",
+    "Hypotensive syncope",
+    "Miosis",
+    "Bronchial relaxation only"
+   ],
+   "ans": 0,
+   "exp": "The final outcome of the cheese reaction flow is hypertensive crisis. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-054",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Methylphenidate is DOC for:",
+   "opts": [
+    "ADHD",
+    "Obesity",
+    "Brittle asthma",
+    "Overactive bladder"
+   ],
+   "ans": 0,
+   "exp": "The stimulant list states methylphenidate is DOC for ADHD. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-055",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Another listed use of methylphenidate is:",
+   "opts": [
+    "Narcolepsy",
+    "Anaphylaxis",
+    "Pheochromocytoma",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Under methylphenidate, other use is narcolepsy. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-056",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Methylphenidate can worsen:",
+   "opts": [
+    "Tics",
+    "Cataract",
+    "BPH",
+    "Diuresis"
+   ],
+   "ans": 0,
+   "exp": "The side effects under methylphenidate include worsens tics. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-057",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "A second methylphenidate adverse issue listed is:",
+   "opts": [
+    "Abuse potential",
+    "Retinal detachment",
+    "Organophosphate ageing",
+    "Urine retention only"
+   ],
+   "ans": 0,
+   "exp": "Abuse potential is listed as a side effect of methylphenidate. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-058",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Amphetamine is used in:",
+   "opts": [
+    "ADHD, narcolepsy and obesity",
+    "Glaucoma, uveitis and cataract",
+    "PUD, diarrhoea and dysmenorrhoea",
+    "BPH and postural hypotension only"
+   ],
+   "ans": 0,
+   "exp": "The amphetamine use list contains ADHD, narcolepsy and obesity. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-059",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Methamphetamine is described as a:",
+   "opts": [
+    "Designer drug and drug of abuse",
+    "DOC for ADHD",
+    "β3 agonist",
+    "AChE reactivator"
+   ],
+   "ans": 0,
+   "exp": "The methamphetamine list says designer drug and drug of abuse. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-060",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "page": 59,
+   "q": "Methamphetamine is also known as:",
+   "opts": [
+    "Crystal meth",
+    "Truth serum",
+    "Calabar bean",
+    "Datura"
+   ],
+   "ans": 0,
+   "exp": "The page writes methamphetamine is aka crystal meth. (Book p59)"
+  },
+  {
+   "id": "PHARM-C17-061",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Guanfacine and guanabenz can treat hypertension by:",
+   "opts": [
+    "Sympatholysis",
+    "Direct α1 vasoconstriction",
+    "AChE reactivation",
+    "β3 bladder relaxation"
+   ],
+   "ans": 0,
+   "exp": "The page says guanfacine and guanabenz can be used to treat HTN by sympatholysis. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-062",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Guanfacine and guanabenz are contraindicated in:",
+   "opts": [
+    "Pheochromocytoma",
+    "Bronchial asthma",
+    "Glaucoma",
+    "Sicca syndrome"
+   ],
+   "ans": 0,
+   "exp": "The line under guanfacine and guanabenz says C/I in pheochromocytoma. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-063",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "The DOC for ADHD with family history of drug abuse is:",
+   "opts": [
+    "Selective NE reuptake inhibitors",
+    "Methylphenidate",
+    "Methamphetamine",
+    "Epinephrine"
+   ],
+   "ans": 0,
+   "exp": "The note states DOC for ADHD with family history of drug abuse: selective NE reuptake inhibitors. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-064",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Selective NE reuptake inhibitors listed for ADHD are:",
+   "opts": [
+    "Atomoxetine and viloxazine",
+    "Solriamfetol and modafinil",
+    "Guanfacine and guanabenz",
+    "Amphetamine and methamphetamine"
+   ],
+   "ans": 0,
+   "exp": "Atomoxetine and viloxazine are written in parentheses after selective NE reuptake inhibitors. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-065",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Solriamfetol is a:",
+   "opts": [
+    "Dopamine-NE reuptake inhibitor",
+    "H3 receptor antagonist only",
+    "β3 agonist",
+    "AChE inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The narcolepsy drug list describes solriamfetol as a dopamine-NE reuptake inhibitor. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-066",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Pitolisant is described as a receptor antagonist/inverse agonist at:",
+   "opts": [
+    "H3 receptors",
+    "β1 receptors",
+    "m3 receptors",
+    "D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The narcolepsy list identifies pitolisant as an H3 receptor antagonist/inverse agonist. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-067",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Which two stimulant drugs are listed among narcolepsy drugs?",
+   "opts": [
+    "Amphetamine and methylphenidate",
+    "Epinephrine and norepinephrine",
+    "Mirabegron and vibegron",
+    "Olodaterol and vilanterol"
+   ],
+   "ans": 0,
+   "exp": "The narcolepsy list includes amphetamine and methylphenidate. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-068",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Modafinil acts by greatly increasing:",
+   "opts": [
+    "Dopamine",
+    "Acetylcholine",
+    "GABA",
+    "Histamine only"
+   ],
+   "ans": 0,
+   "exp": "The modafinil line says ↑↑ dopamine. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-069",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Modafinil is DOC for narcolepsy and also for:",
+   "opts": [
+    "Obstructive sleep apnea and shift worker disease",
+    "BPH and glaucoma",
+    "Pheochromocytoma and shock",
+    "Tardive dyskinesia and Huntington chorea"
+   ],
+   "ans": 0,
+   "exp": "The arrows from modafinil DOC point to narcolepsy, obstructive sleep apnea and shift worker disease. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-070",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Mixed-acting sympathomimetics stimulate:",
+   "opts": [
+    "α and β receptors as well as increasing NE levels",
+    "Only m3 receptors",
+    "Only AChE",
+    "Only β3 bladder receptors"
+   ],
+   "ans": 0,
+   "exp": "The mixed-acting section states they stimulate α and β receptors as well as ↑ NE levels. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-071",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Ephedrine is described as similar to:",
+   "opts": [
+    "Phenylephrine",
+    "Physostigmine",
+    "Mirabegron",
+    "Tetrabenazine"
+   ],
+   "ans": 0,
+   "exp": "The ephedrine line says similar to phenylephrine. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-072",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Ephedrine is used for hypotension due to spinal anaesthesia when associated with:",
+   "opts": [
+    "Bradycardia",
+    "Tachyarrhythmia only",
+    "Miosis",
+    "Urge incontinence"
+   ],
+   "ans": 0,
+   "exp": "The ephedrine use says hypotension due to spinal anaesthesia with bradycardia. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-073",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Ephedrine can produce mydriasis:",
+   "opts": [
+    "Without cycloplegia",
+    "With obligatory cycloplegia",
+    "Only after atropine",
+    "By m3 stimulation"
+   ],
+   "ans": 0,
+   "exp": "The ephedrine use list includes mydriasis without cycloplegia. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-074",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Ephedrine is also used as a:",
+   "opts": [
+    "Nasal decongestant",
+    "β3 agonist",
+    "AChE reactivator",
+    "Miotic agent"
+   ],
+   "ans": 0,
+   "exp": "The ephedrine use list includes nasal decongestant. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-075",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Pseudoephedrine is used as an oral:",
+   "opts": [
+    "Nasal decongestant",
+    "Bronchodilator for severe asthma",
+    "Antiglaucoma miotic",
+    "Anticholinergic antidote"
+   ],
+   "ans": 0,
+   "exp": "The pseudoephedrine line says nasal decongestant (PO). (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-076",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Norephedrine is also known as:",
+   "opts": [
+    "Phenylpropanolamine",
+    "Dipivefrine",
+    "Droxidopa",
+    "Isoprenaline"
+   ],
+   "ans": 0,
+   "exp": "The norephedrine line gives aka phenylpropanolamine. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-077",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "page": 60,
+   "q": "Norephedrine was formerly used for obesity but was banned because of increased incidence of:",
+   "opts": [
+    "Stroke",
+    "Cataract",
+    "Iris cysts",
+    "Dementia"
+   ],
+   "ans": 0,
+   "exp": "The norephedrine note says it was banned due to increased incidence of stroke. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-078",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 60,
+   "q": "Epinephrine dilution 1:1000 is used by which routes?",
+   "opts": [
+    "Subcutaneous, intramuscular and endotracheal",
+    "Intravenous, intracardiac and intraosseous",
+    "Only local vasoconstriction",
+    "Only with local anaesthetic"
+   ],
+   "ans": 0,
+   "exp": "The dilution table lists 1:1000 for subcutaneous, intramuscular and endotracheal use. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-079",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 60,
+   "q": "Epinephrine dilution 1:10,000 is used by which routes?",
+   "opts": [
+    "Intravenous, intracardiac and intraosseous",
+    "Subcutaneous, intramuscular and endotracheal",
+    "Only with local anaesthetic",
+    "Only pMDI"
+   ],
+   "ans": 0,
+   "exp": "The table lists 1:10,000 for intravenous, intracardiac and intraosseous use. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-080",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 60,
+   "q": "Epinephrine dilution 1:100,000 is used for:",
+   "opts": [
+    "Local vasoconstriction",
+    "Intracardiac resuscitation",
+    "Endotracheal delivery",
+    "Oral decongestion"
+   ],
+   "ans": 0,
+   "exp": "The table says 1:100,000 is used in local vasoconstriction. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-081",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 60,
+   "q": "The purpose of local vasoconstriction with 1:100,000 epinephrine is to prevent:",
+   "opts": [
+    "Muscle necrosis",
+    "Mydriasis",
+    "Hyperglycemia",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "The note under 1:100,000 says local vasoconstriction to prevent muscle necrosis. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-082",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 60,
+   "q": "Epinephrine dilution 1:100,000 or 1:200,000 is used with:",
+   "opts": [
+    "Local anaesthetic",
+    "MAO inhibitor",
+    "β3 agonist",
+    "AChE reactivator"
+   ],
+   "ans": 0,
+   "exp": "The fourth dilution column says used with local anaesthetic. (Book p60)"
+  },
+  {
+   "id": "PHARM-C17-083",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Dale's phenomenon refers to epinephrine causing a:",
+   "opts": [
+    "Biphasic blood-pressure pattern",
+    "Single fixed fall in BP",
+    "Pure bradycardia only",
+    "No vascular effect"
+   ],
+   "ans": 0,
+   "exp": "The heading states epinephrine administration leads to a biphasic pattern of BP. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-084",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "At high concentrations, adrenaline primarily acts on:",
+   "opts": [
+    "α receptors",
+    "β2 receptors only",
+    "D1 receptors",
+    "m3 receptors"
+   ],
+   "ans": 0,
+   "exp": "The high concentration branch says acts on α. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-085",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "High-concentration adrenaline acts on α receptors because their threshold is:",
+   "opts": [
+    "Higher",
+    "Lower",
+    "Absent",
+    "Unrelated to concentration"
+   ],
+   "ans": 0,
+   "exp": "The high concentration branch says α acts due to higher threshold. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-086",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "The high-concentration pressor limb reflects vasoconstriction due to α action minus:",
+   "opts": [
+    "β2 vasodilation",
+    "m3 miosis",
+    "D1 diuresis",
+    "AChE activity"
+   ],
+   "ans": 0,
+   "exp": "The high-concentration branch writes vasoconstriction (α) minus vasodilation (β2). (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-087",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "The high-concentration limb of Dale's phenomenon causes:",
+   "opts": [
+    "Increased BP",
+    "Decreased BP",
+    "No BP change",
+    "Only urine retention"
+   ],
+   "ans": 0,
+   "exp": "The high-concentration branch ends with increased BP and a curve. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-088",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "At low concentrations, adrenaline primarily acts on:",
+   "opts": [
+    "β2 receptors",
+    "α receptors",
+    "D1 receptors",
+    "Nm receptors"
+   ],
+   "ans": 0,
+   "exp": "The low concentration branch says acts on β2. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-089",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Low-concentration β2 action occurs because β2 has a:",
+   "opts": [
+    "Lower threshold",
+    "Higher threshold",
+    "Nonexistent threshold",
+    "Threshold only after atropine"
+   ],
+   "ans": 0,
+   "exp": "The low concentration branch says β2 acts due to lower threshold. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-090",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Low-concentration adrenaline causes vasodilation and:",
+   "opts": [
+    "Decreased BP",
+    "Increased BP",
+    "No change in BP",
+    "Only increased IOP"
+   ],
+   "ans": 0,
+   "exp": "The low concentration branch says vasodilation leads to decreased BP and b curve. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-091",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Vasomotor reversal of Dale occurs after epinephrine plus:",
+   "opts": [
+    "An α blocker",
+    "A β blocker",
+    "Atropine",
+    "AChE inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The reversal heading says administration of epinephrine plus α blocker. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-092",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "With α blockade, epinephrine shows only:",
+   "opts": [
+    "β2 action with a decline in BP",
+    "α1 action with steep rise in BP",
+    "No receptor action",
+    "D1 action with diuresis"
+   ],
+   "ans": 0,
+   "exp": "The vasomotor reversal note says only β2 action and only decline in BP. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-093",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Vasomotor re-reversal of Dale occurs after epinephrine plus:",
+   "opts": [
+    "A β-blocker",
+    "An α-blocker",
+    "Pralidoxime",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "The re-reversal heading says administration of epinephrine plus β-blocker. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-094",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "With β blockade, epinephrine produces:",
+   "opts": [
+    "Unopposed α1 action with a steep rise in BP",
+    "Only β2 vasodilation",
+    "Only no change in BP",
+    "Only diuresis"
+   ],
+   "ans": 0,
+   "exp": "The re-reversal note says unopposed α1 action causes a steep rise in BP. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-095",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Systolic BP is directly proportional to cardiac contractility and:",
+   "opts": [
+    "Preload",
+    "AChE activity",
+    "Aqueous humour",
+    "miosis"
+   ],
+   "ans": 0,
+   "exp": "The factors section says systolic BP is proportional to cardiac contractility and to preload. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-096",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Preload is increased by:",
+   "opts": [
+    "Vasoconstriction",
+    "Bronchodilation",
+    "Miosis",
+    "AChE blockade"
+   ],
+   "ans": 0,
+   "exp": "The factors section notes preload is increased by vasoconstriction. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-097",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon",
+   "page": 61,
+   "q": "Diastolic BP is proportional to:",
+   "opts": [
+    "Tone of peripheral blood vessels",
+    "ACh concentration",
+    "Bladder contraction",
+    "Ciliary accommodation"
+   ],
+   "ans": 0,
+   "exp": "The factors list says diastolic BP is proportional to the tone of peripheral blood vessels. (Book p61)"
+  },
+  {
+   "id": "PHARM-C17-098",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The receptor profile of epinephrine in the comparison table is:",
+   "opts": [
+    "α1, β1 and β2 stimulation",
+    "α1 and β1 stimulation only",
+    "β1 and β2 stimulation only",
+    "D1 and β1 stimulation"
+   ],
+   "ans": 0,
+   "exp": "The epinephrine column is headed α1, β1, β2 stimulation. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-099",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The receptor profile of norepinephrine in the comparison table is:",
+   "opts": [
+    "α1 and β1 stimulation",
+    "α1, β1 and β2 stimulation",
+    "β1 and β2 stimulation",
+    "β3 stimulation only"
+   ],
+   "ans": 0,
+   "exp": "The norepinephrine column is headed α1, β1 stimulation. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-100",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The receptor profile of isoprenaline is:",
+   "opts": [
+    "β1 and β2 stimulation",
+    "α1 and β1 stimulation",
+    "α1, β1 and β2 stimulation",
+    "D1 stimulation only"
+   ],
+   "ans": 0,
+   "exp": "The isoprenaline column is headed β1, β2 stimulation. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-101",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Epinephrine increases systolic BP in the table:",
+   "opts": [
+    "Markedly",
+    "Not at all",
+    "Always decreases it",
+    "Only after α blockade"
+   ],
+   "ans": 0,
+   "exp": "The systolic BP row under epinephrine has double upward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-102",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Norepinephrine's effect on systolic BP is:",
+   "opts": [
+    "Marked increase",
+    "Marked decrease",
+    "No change",
+    "Only transient fall"
+   ],
+   "ans": 0,
+   "exp": "The systolic BP row under norepinephrine has double upward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-103",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Isoprenaline's systolic BP effect is shown as:",
+   "opts": [
+    "No change or slight increase",
+    "Marked fall",
+    "Marked rise like norepinephrine",
+    "No possible effect"
+   ],
+   "ans": 0,
+   "exp": "The systolic BP row under isoprenaline is marked no change/slight increase. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-104",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Epinephrine's diastolic BP effect in the table is:",
+   "opts": [
+    "Increase",
+    "Marked decrease",
+    "No change",
+    "Only biphasic with no net effect"
+   ],
+   "ans": 0,
+   "exp": "The diastolic BP row under epinephrine shows an upward arrow. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-105",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Norepinephrine's diastolic BP effect is:",
+   "opts": [
+    "Marked increase",
+    "Marked decrease",
+    "No change",
+    "Only a β2 fall"
+   ],
+   "ans": 0,
+   "exp": "The diastolic BP row under norepinephrine has double upward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-106",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Isoprenaline's diastolic BP effect is:",
+   "opts": [
+    "Marked decrease",
+    "Marked increase",
+    "No change",
+    "Same as norepinephrine"
+   ],
+   "ans": 0,
+   "exp": "The diastolic BP row under isoprenaline has multiple downward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-107",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The greatest rise in mean BP/tissue perfusion is with:",
+   "opts": [
+    "Norepinephrine",
+    "Epinephrine",
+    "Isoprenaline",
+    "Salbutamol"
+   ],
+   "ans": 0,
+   "exp": "The mean BP row shows the largest upward effect in the norepinephrine column. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-108",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Isoprenaline changes mean BP by:",
+   "opts": [
+    "Decreasing it",
+    "Greatly increasing it",
+    "Leaving it unchanged",
+    "Increasing it more than norepinephrine"
+   ],
+   "ans": 0,
+   "exp": "The mean BP row under isoprenaline has downward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-109",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The direct β-mediated heart-rate effect of epinephrine is:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Only reflex bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The HR direct row under epinephrine shows upward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-110",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The direct β-mediated heart-rate effect of norepinephrine is:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Only blocked by atropine"
+   ],
+   "ans": 0,
+   "exp": "The HR direct row under norepinephrine shows an upward arrow. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-111",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The direct β-mediated heart-rate effect of isoprenaline is:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Only α1-mediated"
+   ],
+   "ans": 0,
+   "exp": "The HR direct row under isoprenaline shows upward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-112",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The reflex heart-rate effect from vessel tone with norepinephrine is:",
+   "opts": [
+    "Decrease",
+    "Increase",
+    "No change",
+    "Only β2 tachycardia"
+   ],
+   "ans": 0,
+   "exp": "The HR reflex row under norepinephrine has downward arrows. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-113",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The net heart-rate effect of norepinephrine is:",
+   "opts": [
+    "Decrease",
+    "Increase",
+    "No change",
+    "Massive tachycardia"
+   ],
+   "ans": 0,
+   "exp": "The HR net row under norepinephrine has a downward arrow. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-114",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The net heart-rate effect of epinephrine is:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Only bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The HR net row under epinephrine has an upward arrow. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-115",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The net heart-rate effect of isoprenaline is:",
+   "opts": [
+    "Very large increase with pro-arrhythmic action",
+    "Decrease",
+    "No change",
+    "Only reflex bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The isoprenaline net HR cell has multiple upward arrows and notes pro-arrhythmic action. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-116",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the mean BP graph, curve a represents:",
+   "opts": [
+    "Norepinephrine",
+    "Epinephrine",
+    "Isoprenaline",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "The mean BP graph labels curve a as NE. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-117",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the mean BP graph, curve b represents:",
+   "opts": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Isoprenaline",
+    "Dobutamine"
+   ],
+   "ans": 0,
+   "exp": "The mean BP graph labels curve b as epinephrine. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-118",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the mean BP graph, curve c represents:",
+   "opts": [
+    "Isoprenaline",
+    "Norepinephrine",
+    "Epinephrine",
+    "Phenylephrine"
+   ],
+   "ans": 0,
+   "exp": "The mean BP graph labels curve c as isoprenaline. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-119",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the HR graph, curve a represents:",
+   "opts": [
+    "Isoprenaline",
+    "Epinephrine",
+    "Norepinephrine",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "The HR graph labels curve a as isoprenaline. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-120",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the HR graph, curve b represents:",
+   "opts": [
+    "Epinephrine",
+    "Isoprenaline",
+    "Norepinephrine",
+    "Salbutamol"
+   ],
+   "ans": 0,
+   "exp": "The HR graph labels curve b as epinephrine. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-121",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In the HR graph, curve c represents:",
+   "opts": [
+    "Norepinephrine",
+    "Epinephrine",
+    "Isoprenaline",
+    "Droxidopa"
+   ],
+   "ans": 0,
+   "exp": "The HR graph labels curve c as NE. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-122",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The preferred treatment for shock, except anaphylactic shock, is:",
+   "opts": [
+    "Norepinephrine",
+    "Isoprenaline",
+    "Salbutamol",
+    "Mirabegron"
+   ],
+   "ans": 0,
+   "exp": "The note says norepinephrine is preferred treatment for shock except anaphylactic shock. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-123",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "The DOC in anaphylactic shock is:",
+   "opts": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Isoprenaline",
+    "Dobutamine"
+   ],
+   "ans": 0,
+   "exp": "The note says anaphylactic shock DOC is epinephrine. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-124",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Epinephrine is DOC in anaphylaxis because it adds:",
+   "opts": [
+    "β2 bronchodilation",
+    "β3 bladder relaxation",
+    "Pure α2 sympatholysis",
+    "AChE inhibition"
+   ],
+   "ans": 0,
+   "exp": "The note explains epinephrine is DOC due to added bronchodilation from β2 action. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-125",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "Epinephrine/NE can reduce HR reflexly due to:",
+   "opts": [
+    "Vagal stimulation",
+    "AChE ageing",
+    "β3 activation",
+    "Dopamine depletion"
+   ],
+   "ans": 0,
+   "exp": "The note says vagal stimulation causes reflex decrease in HR due to epinephrine/NE administration. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-126",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "If vagal effects are blocked by atropine or the heart is transplanted, NE administration causes only:",
+   "opts": [
+    "Increased HR",
+    "Decreased HR",
+    "No HR change",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The note says blockade of vagal effect due to atropine/transplanted heart leads to NE administered → only ↑ HR. (Book p62)"
+  },
+  {
+   "id": "PHARM-C17-127",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "page": 62,
+   "q": "In neurogenic hypotension, norepinephrine is combined with atropine to counteract:",
+   "opts": [
+    "Bradycardia",
+    "Bronchospasm",
+    "Urine retention",
+    "Hyperglycemia"
+   ],
+   "ans": 0,
+   "exp": "The final note says neurogenic hypotension: NE + atropine to counteract bradycardia. (Book p62)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U17-1",
+   "ch": 17,
+   "n": 1,
+   "title": "β3 Agonists for Overactive Bladder",
+   "sec": "β3 Agonists for Overactive Bladder · p58",
+   "qs": [
+    "PHARM-C17-001",
+    "PHARM-C17-002",
+    "PHARM-C17-003",
+    "PHARM-C17-004",
+    "PHARM-C17-005",
+    "PHARM-C17-006",
+    "PHARM-C17-007",
+    "PHARM-C17-008",
+    "PHARM-C17-009",
+    "PHARM-C17-010",
+    "PHARM-C17-011",
+    "PHARM-C17-012"
+   ],
+   "guide": "β3 agonists relax the urinary bladder and are the DOC drug class for overactive bladder or urge incontinence. The listed drugs are mirabegron and vibegron, with vibegron preferred. Mirabegron has more side effects than vibegron, including vascular headache, UTI from urine retention in a relaxed bladder, hypertension and nasopharyngitis; anticholinergic alternatives are darifenacin, solifenacin and trospium."
+  },
+  {
+   "id": "PHARM-U17-2",
+   "ch": 17,
+   "n": 2,
+   "title": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects",
+   "sec": "β2 Agonists: Duration, Asthma/COPD Use and Side Effects · p58",
+   "qs": [
+    "PHARM-C17-013",
+    "PHARM-C17-014",
+    "PHARM-C17-015",
+    "PHARM-C17-016",
+    "PHARM-C17-017",
+    "PHARM-C17-018",
+    "PHARM-C17-019",
+    "PHARM-C17-020",
+    "PHARM-C17-021",
+    "PHARM-C17-022",
+    "PHARM-C17-023",
+    "PHARM-C17-024",
+    "PHARM-C17-025",
+    "PHARM-C17-026",
+    "PHARM-C17-027",
+    "PHARM-C17-028",
+    "PHARM-C17-029",
+    "PHARM-C17-030",
+    "PHARM-C17-031",
+    "PHARM-C17-032",
+    "PHARM-C17-033",
+    "PHARM-C17-034",
+    "PHARM-C17-035",
+    "PHARM-C17-036"
+   ],
+   "guide": "β2 agonists are grouped by duration: SABA lasts about 4 hours, LABA about 12 hours, and VLABA about 24 hours. Terbutaline is the only adrenergic given subcutaneously, salbutamol can be nebulised for asthma/COPD, formoterol and salmeterol are pMDI twice-daily LABAs used as add-ons with ICS, and olodaterol/vilanterol are once-daily COPD-only VLABAs. Fast-acting β agonists are relievers in intermittent asthma, with formoterol plus ICS as DOC and salbutamol followed by ICS if unaffordable; tremor is the most common side effect, with hypokalemia, hyperglycemia and palpitations also listed."
+  },
+  {
+   "id": "PHARM-U17-3",
+   "ch": 17,
+   "n": 3,
+   "title": "Indirect Adrenergics, Cheese Reaction and Stimulants",
+   "sec": "Indirect Adrenergics, Cheese Reaction and Stimulants · p59",
+   "qs": [
+    "PHARM-C17-037",
+    "PHARM-C17-038",
+    "PHARM-C17-039",
+    "PHARM-C17-040",
+    "PHARM-C17-041",
+    "PHARM-C17-042",
+    "PHARM-C17-043",
+    "PHARM-C17-044",
+    "PHARM-C17-045",
+    "PHARM-C17-046",
+    "PHARM-C17-047",
+    "PHARM-C17-048",
+    "PHARM-C17-049",
+    "PHARM-C17-050",
+    "PHARM-C17-051",
+    "PHARM-C17-052",
+    "PHARM-C17-053",
+    "PHARM-C17-054",
+    "PHARM-C17-055",
+    "PHARM-C17-056",
+    "PHARM-C17-057",
+    "PHARM-C17-058",
+    "PHARM-C17-059",
+    "PHARM-C17-060"
+   ],
+   "guide": "Indirect adrenergics are norepinephrine displacers: a drug similar to NE enters the neuron, displaces NE from vesicles into the synapse, and produces α/β sympathomimetic stimulation. Intermittent dosing works, but continuous dosing depletes NE and turns into drug failure with sympatholysis. The cheese reaction is tyramine plus MAO-inhibitor physiology, and stimulant examples include methylphenidate, amphetamine and methamphetamine."
+  },
+  {
+   "id": "PHARM-U17-4",
+   "ch": 17,
+   "n": 4,
+   "title": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics",
+   "sec": "ADHD/Narcolepsy Notes and Mixed-Acting Sympathomimetics · p60",
+   "qs": [
+    "PHARM-C17-061",
+    "PHARM-C17-062",
+    "PHARM-C17-063",
+    "PHARM-C17-064",
+    "PHARM-C17-065",
+    "PHARM-C17-066",
+    "PHARM-C17-067",
+    "PHARM-C17-068",
+    "PHARM-C17-069",
+    "PHARM-C17-070",
+    "PHARM-C17-071",
+    "PHARM-C17-072",
+    "PHARM-C17-073",
+    "PHARM-C17-074",
+    "PHARM-C17-075",
+    "PHARM-C17-076",
+    "PHARM-C17-077"
+   ],
+   "guide": "The chapter adds that guanfacine and guanabenz can lower BP through sympatholysis but are contraindicated in pheochromocytoma. For ADHD with a family history of drug abuse, the preferred DOC group is selective NE reuptake inhibitors such as atomoxetine and viloxazine. Narcolepsy drugs include solriamfetol, pitolisant, amphetamine, methylphenidate and modafinil; mixed-acting sympathomimetics stimulate α/β receptors directly and also raise NE levels, with ephedrine, pseudoephedrine and banned norephedrine as the examples."
+  },
+  {
+   "id": "PHARM-U17-5",
+   "ch": 17,
+   "n": 5,
+   "title": "Epinephrine Dilutions and Dale's Phenomenon",
+   "sec": "Epinephrine Dilutions and Dale's Phenomenon · p60",
+   "qs": [
+    "PHARM-C17-078",
+    "PHARM-C17-079",
+    "PHARM-C17-080",
+    "PHARM-C17-081",
+    "PHARM-C17-082",
+    "PHARM-C17-083",
+    "PHARM-C17-084",
+    "PHARM-C17-085",
+    "PHARM-C17-086",
+    "PHARM-C17-087",
+    "PHARM-C17-088",
+    "PHARM-C17-089",
+    "PHARM-C17-090",
+    "PHARM-C17-091",
+    "PHARM-C17-092",
+    "PHARM-C17-093",
+    "PHARM-C17-094",
+    "PHARM-C17-095",
+    "PHARM-C17-096",
+    "PHARM-C17-097"
+   ],
+   "guide": "The details section turns epinephrine dilutions into route-based facts: 1:1000 for SC/IM/endotracheal, 1:10,000 for IV/intracardiac/intraosseous, 1:100,000 for local vasoconstriction and 1:100,000 or 1:200,000 with local anaesthetic. Dale's phenomenon is the biphasic BP response to epinephrine: high adrenaline reaches the higher-threshold α response to raise BP, while low adrenaline acts on lower-threshold β2 receptors to lower BP. With α blockade the pressor limb is reversed to a pure fall, and with β blockade the response is re-reversed to an unopposed α1 steep rise."
+  },
+  {
+   "id": "PHARM-U17-6",
+   "ch": 17,
+   "n": 6,
+   "title": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR",
+   "sec": "Comparing Epinephrine, Norepinephrine and Isoprenaline on BP and HR · p62",
+   "qs": [
+    "PHARM-C17-098",
+    "PHARM-C17-099",
+    "PHARM-C17-100",
+    "PHARM-C17-101",
+    "PHARM-C17-102",
+    "PHARM-C17-103",
+    "PHARM-C17-104",
+    "PHARM-C17-105",
+    "PHARM-C17-106",
+    "PHARM-C17-107",
+    "PHARM-C17-108",
+    "PHARM-C17-109",
+    "PHARM-C17-110",
+    "PHARM-C17-111",
+    "PHARM-C17-112",
+    "PHARM-C17-113",
+    "PHARM-C17-114",
+    "PHARM-C17-115",
+    "PHARM-C17-116",
+    "PHARM-C17-117",
+    "PHARM-C17-118",
+    "PHARM-C17-119",
+    "PHARM-C17-120",
+    "PHARM-C17-121",
+    "PHARM-C17-122",
+    "PHARM-C17-123",
+    "PHARM-C17-124",
+    "PHARM-C17-125",
+    "PHARM-C17-126",
+    "PHARM-C17-127"
+   ],
+   "guide": "The final table compares α1/β1/β2 epinephrine, α1/β1 norepinephrine and β1/β2 isoprenaline. Norepinephrine gives the greatest mean BP rise but net bradycardia from reflex vagal tone, epinephrine raises mean BP with net tachycardia, and isoprenaline lowers diastolic/mean BP while driving the greatest HR rise with pro-arrhythmic action. Clinically, norepinephrine is preferred for most shock except anaphylaxis, where epinephrine is DOC because β2 bronchodilation matters; atropine blocks vagal reflex bradycardia and is paired with NE in neurogenic hypotension."
+  }
+ ]
+}

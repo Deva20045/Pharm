@@ -1,0 +1,1356 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C16-001",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Adrenergic drugs are also called:",
+   "opts": [
+    "Sympathomimetics",
+    "Parasympathomimetics",
+    "Parasympatholytics",
+    "Cholinesterase inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The classification heading writes adrenergics with sympathomimetics in parentheses. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-002",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Direct adrenergic drugs act on:",
+   "opts": [
+    "α and β receptors",
+    "m and N receptors",
+    "AChE",
+    "VMAT2 only"
+   ],
+   "ans": 0,
+   "exp": "The direct branch states act on α and β receptors. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-003",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Indirect adrenergic drugs increase which neurotransmitter?",
+   "opts": [
+    "Norepinephrine",
+    "Acetylcholine",
+    "Histamine",
+    "GABA"
+   ],
+   "ans": 0,
+   "exp": "The indirect branch says ↑ norepinephrine leading to α and β receptor stimulation. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-004",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Direct adrenergic drugs are divided into:",
+   "opts": [
+    "Catecholamines and non-catecholamines",
+    "Amides and choline esters",
+    "SAMA and LAMA",
+    "Tertiary and quaternary amines"
+   ],
+   "ans": 0,
+   "exp": "The direct branch of the diagram splits into catecholamines and non-catecholamines. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-005",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Catecholamines in this classification are subdivided into:",
+   "opts": [
+    "Endogenous and exogenous",
+    "α1 and α2",
+    "β1 and β2",
+    "Short and long acting only"
+   ],
+   "ans": 0,
+   "exp": "The catecholamine branch divides into endogenous and exogenous. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-006",
+   "sec": "Adrenergic Drugs: Classification",
+   "page": 56,
+   "q": "Non-catecholamine direct adrenergic drugs include:",
+   "opts": [
+    "α-agonists and β-agonists",
+    "Only dopamine agonists",
+    "Only AChE blockers",
+    "Organophosphates and oximes"
+   ],
+   "ans": 0,
+   "exp": "The non-catecholamine branch splits into α-agonist and β-agonist. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-007",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Epinephrine acts on:",
+   "opts": [
+    "α, β1 and β2 receptors",
+    "Only α1 receptors",
+    "Only β1 receptors",
+    "Only D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "Under epinephrine, the page lists action on α, β1 and β2. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-008",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Compared with norepinephrine, epinephrine is a more potent:",
+   "opts": [
+    "Cardiac stimulator",
+    "Vasoconstrictor only",
+    "Miotic agent",
+    "VMAT2 inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The epinephrine column states it is a more potent cardiac stimulator than NE. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-009",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Epinephrine is DOC in cardiac arrest with:",
+   "opts": [
+    "Non-shockable rhythm",
+    "Mild hypertension",
+    "Urge incontinence",
+    "Benign prostatic hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "The first DOC use under epinephrine is cardiac arrest with non-shockable rhythm. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-010",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "The route/dilution of epinephrine for cardiac arrest shown is:",
+   "opts": [
+    "IV, 1:10,000",
+    "IM, 1:1000",
+    "Oral, 1:100,000",
+    "Topical, 1:200,000"
+   ],
+   "ans": 0,
+   "exp": "The cardiac arrest line states IV with 1:10,000. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-011",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Epinephrine is DOC in anaphylactic shock by which route/dilution?",
+   "opts": [
+    "IM, 1:1000",
+    "IV, 1:10,000",
+    "Oral, 1:1000",
+    "Nebulised, 1:100,000"
+   ],
+   "ans": 0,
+   "exp": "The anaphylactic shock line says IM with 1:1000. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-012",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "The adult epinephrine dose for anaphylactic shock shown is:",
+   "opts": [
+    "0.5 mg",
+    "0.05 mg",
+    "5 mg",
+    "50 micrograms"
+   ],
+   "ans": 0,
+   "exp": "The dose note gives 0.3 mg pediatric to 0.5 mg adult. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-013",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "The pediatric epinephrine dose shown for anaphylactic shock is:",
+   "opts": [
+    "0.3 mg",
+    "0.03 mg",
+    "3 mg",
+    "30 micrograms"
+   ],
+   "ans": 0,
+   "exp": "The same dose note gives 0.3 mg for pediatric patients. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-014",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Epinephrine is also DOC in:",
+   "opts": [
+    "Brittle asthma",
+    "Postural hypotension",
+    "Huntington chorea",
+    "Anticholinergic poisoning"
+   ],
+   "ans": 0,
+   "exp": "The third DOC use listed for epinephrine is brittle asthma. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-015",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Adding epinephrine to local anaesthetic produces vasoconstriction that:",
+   "opts": [
+    "Increases duration and decreases toxicity",
+    "Decreases duration and increases toxicity",
+    "Causes immediate bronchodilation only",
+    "Blocks AChE"
+   ],
+   "ans": 0,
+   "exp": "The other-use note shows vasoconstriction causing increased duration and decreased toxicity. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-016",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "For glaucoma, the epinephrine-related drug preferred is:",
+   "opts": [
+    "Dipivefrine",
+    "Droxidopa",
+    "Dopexamine",
+    "Dobutamine"
+   ],
+   "ans": 0,
+   "exp": "Under glaucoma, the page notes dipivefrine is preferred. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-017",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "The ocular side effect of epinephrine/dipivefrine listed is:",
+   "opts": [
+    "Conjunctival pigmentation",
+    "Retinal detachment",
+    "Cataract",
+    "Iris cyst"
+   ],
+   "ans": 0,
+   "exp": "The epinephrine side-effect line says conjunctival pigmentation. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-018",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "The common precursor for melanin mentioned under epinephrine is:",
+   "opts": [
+    "Tyrosine",
+    "DOPA only",
+    "Tryptophan",
+    "Choline"
+   ],
+   "ans": 0,
+   "exp": "The side-effect note says the common precursor as melanin is tyrosine. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-019",
+   "sec": "Endogenous Catecholamines: Epinephrine",
+   "page": 56,
+   "q": "Which property explains why epinephrine is chosen in anaphylaxis rather than norepinephrine?",
+   "opts": [
+    "It also has β2 bronchodilator action",
+    "It cannot stimulate the heart",
+    "It only lowers blood pressure",
+    "It blocks α receptors"
+   ],
+   "ans": 0,
+   "exp": "Epinephrine acts on α, β1 and β2, and the chapter later notes anaphylactic shock DOC is epinephrine because of added β2 bronchodilation. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-020",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Norepinephrine acts mainly on:",
+   "opts": [
+    "α1 and β1 receptors",
+    "α1, β1 and β2 receptors",
+    "β1 and β2 only",
+    "D1 receptors only"
+   ],
+   "ans": 0,
+   "exp": "The norepinephrine column says it acts on α1 and β1. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-021",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Norepinephrine is a more potent vasoconstrictor than epinephrine because it lacks:",
+   "opts": [
+    "β2 vasodilation",
+    "α1 action",
+    "β1 action",
+    "Metabolism by MAO"
+   ],
+   "ans": 0,
+   "exp": "The page says NE is a more potent vasoconstrictor than epinephrine with no β2 vasodilation. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-022",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Norepinephrine is DOC in vasodilatory shock due to:",
+   "opts": [
+    "Sepsis",
+    "Anaphylaxis only",
+    "Brittle asthma",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The first norepinephrine DOC use is vasodilatory shock, with sepsis in parentheses. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-023",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Norepinephrine is also DOC in:",
+   "opts": [
+    "Cardiogenic shock",
+    "Motion sickness",
+    "Overactive bladder",
+    "Myasthenia gravis"
+   ],
+   "ans": 0,
+   "exp": "Cardiogenic shock is listed as the second DOC use of norepinephrine. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-024",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "In neurogenic shock, norepinephrine is used when paraplegia is associated with:",
+   "opts": [
+    "Increased heart rate",
+    "Decreased heart rate",
+    "Absent sweating only",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The neurogenic shock note writes ↑ HR if paraplegia. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-025",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "In neurogenic shock with quadriplegia, the heart rate pattern shown is:",
+   "opts": [
+    "Decreased heart rate",
+    "Increased heart rate",
+    "No heart rate effect",
+    "Only palpitations"
+   ],
+   "ans": 0,
+   "exp": "The neurogenic shock note writes ↓ HR if quadriplegia. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-026",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "The route of norepinephrine is:",
+   "opts": [
+    "Only IV",
+    "Only IM",
+    "Only oral",
+    "Only transdermal"
+   ],
+   "ans": 0,
+   "exp": "The norepinephrine route line says only IV. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-027",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Intramuscular norepinephrine is contraindicated because it can cause:",
+   "opts": [
+    "Muscle necrosis",
+    "Nasal congestion",
+    "Urine retention",
+    "Dementia"
+   ],
+   "ans": 0,
+   "exp": "The route note states IM is contraindicated due to muscle necrosis. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-028",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Dopamine is administered as:",
+   "opts": [
+    "Continuous IV infusion",
+    "Only transdermal patch",
+    "Eye ointment",
+    "Oral tablet"
+   ],
+   "ans": 0,
+   "exp": "The dopamine heading says dose-dependent action with continuous IV infusion. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-029",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Dopamine dosing is expressed in:",
+   "opts": [
+    "mcg/kg/min",
+    "mg/kg/day",
+    "mEq/L",
+    "percentage AUC"
+   ],
+   "ans": 0,
+   "exp": "The dose-dependent action line gives mcg/kg/min. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-030",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "At 0-2 mcg/kg/min, dopamine acts on:",
+   "opts": [
+    "D1 receptors",
+    "β1 receptors",
+    "α1 receptors",
+    "m3 receptors"
+   ],
+   "ans": 0,
+   "exp": "The dopamine dose table says 0 to 2 acts on D1. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-031",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "The low-dose D1 action of dopamine causes:",
+   "opts": [
+    "Diuresis",
+    "Vasoconstriction",
+    "Miosis",
+    "Myocardial depression"
+   ],
+   "ans": 0,
+   "exp": "The low-dose dopamine line ends with diuresis. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-032",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "At 2-10 mcg/kg/min, dopamine acts on:",
+   "opts": [
+    "β1 receptors",
+    "D1 receptors",
+    "α1 receptors",
+    "β3 receptors"
+   ],
+   "ans": 0,
+   "exp": "The dopamine middle-dose line says 2 to 10 acts on β1. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-033",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Intermediate-dose dopamine produces:",
+   "opts": [
+    "Increased heart contraction",
+    "Decreased heart contraction",
+    "Pure diuresis only",
+    "Bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "The β1 dose range points to increased heart contraction. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-034",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "At doses greater than 10 mcg/kg/min, dopamine acts on:",
+   "opts": [
+    "α1 receptors",
+    "D1 receptors",
+    "β3 receptors",
+    "m1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The high-dose dopamine line says >10 acts on α1. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-035",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "High-dose dopamine causes:",
+   "opts": [
+    "Vasoconstriction",
+    "Diuresis",
+    "Bronchodilation",
+    "AChE inhibition"
+   ],
+   "ans": 0,
+   "exp": "The α1 dose range leads to vasoconstriction. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-036",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "Using dopamine in shock can increase mortality because of:",
+   "opts": [
+    "Pro-arrhythmic effect",
+    "AChE ageing",
+    "Retinal detachment",
+    "Acute glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The dopamine note says mortality rate increases if used in shock due to pro-arrhythmic effect. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-037",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "IV epinephrine carries increased risk of:",
+   "opts": [
+    "Ventricular fibrillation and cardiac arrest",
+    "Only cataract",
+    "Only BPH",
+    "Only diabetes remission"
+   ],
+   "ans": 0,
+   "exp": "The note says IV epinephrine increases risk of V-fib and cardiac arrest. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-038",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "The note links local anaesthesia toxicity with:",
+   "opts": [
+    "Neurogenic shock",
+    "Anaphylactic shock",
+    "Urge incontinence",
+    "Sicca syndrome"
+   ],
+   "ans": 0,
+   "exp": "One boxed note reads local anaesthesia toxicity → neurogenic shock. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-039",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "page": 56,
+   "q": "For severe bradycardia in shock, the preferred sequence shown begins with:",
+   "opts": [
+    "Atropine plus norepinephrine",
+    "Dopamine alone",
+    "Norepinephrine alone",
+    "Epinephrine plus atropine"
+   ],
+   "ans": 0,
+   "exp": "The note ranks atropine + norepinephrine ahead of dopamine and norepinephrine alone. (Book p56)"
+  },
+  {
+   "id": "PHARM-C16-040",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Dobutamine acts on β receptors primarily at the:",
+   "opts": [
+    "Myocardium",
+    "Bladder",
+    "Prostatic urethra",
+    "Iris only"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine box says it acts on β at myocardium. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-041",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Dobutamine has no effect on the:",
+   "opts": [
+    "SA node",
+    "Myocardial contractile cells",
+    "β receptors",
+    "Heart as an organ"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine note states no effect on SA node. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-042",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "The action of dobutamine is to increase myocardial contraction while:",
+   "opts": [
+    "Heart rate is maintained",
+    "Heart rate is always decreased",
+    "Blood pressure is always zero",
+    "ACh release is blocked"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine action line says ↑ myocardial contraction with HR maintained. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-043",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Dobutamine is DOC in:",
+   "opts": [
+    "Acute CHF",
+    "Hypertensive emergency",
+    "Postural hypotension",
+    "Brittle asthma"
+   ],
+   "ans": 0,
+   "exp": "Dobutamine is labelled DOC: acute CHF. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-044",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Another use of dobutamine is:",
+   "opts": [
+    "Stress echocardiography",
+    "Ocular fundus examination",
+    "Tensilon test",
+    "Motion sickness"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine box lists stress ECHO cardiography as another use. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-045",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Isoprenaline acts on:",
+   "opts": [
+    "β1 and β2 receptors",
+    "α1 and β1 receptors",
+    "D1 and α1 receptors",
+    "Only D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The isoprenaline box says acts on β1 and β2. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-046",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Isoprenaline has:",
+   "opts": [
+    "No α stimulation",
+    "Only α stimulation",
+    "Only D1 stimulation",
+    "Muscarinic blockade"
+   ],
+   "ans": 0,
+   "exp": "The isoprenaline box explicitly notes no α stimulation. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-047",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Fenoldopam acts on:",
+   "opts": [
+    "D1 and α1, decreasing BP",
+    "β1 only, increasing HR",
+    "α2 only, causing sedation",
+    "m3 only, causing bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "The fenoldopam box says acts on D1, α1 with decreased BP. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-048",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Fenoldopam is used for:",
+   "opts": [
+    "Hypertensive emergency by IV route",
+    "Acute CHF by oral route",
+    "Overactive bladder",
+    "Narcolepsy"
+   ],
+   "ans": 0,
+   "exp": "The fenoldopam use states hypertensive emergency, IV route. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-049",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Dopexamine acts on:",
+   "opts": [
+    "D1 and β1, decreasing BP",
+    "α1 only",
+    "β3 only",
+    "m1 only"
+   ],
+   "ans": 0,
+   "exp": "The dopexamine box says acts on D1, β1 and decreases BP. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-050",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Dopexamine is used in:",
+   "opts": [
+    "Acute CHF",
+    "BPH",
+    "Glaucoma",
+    "Cheese reaction"
+   ],
+   "ans": 0,
+   "exp": "The dopexamine box lists acute CHF. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-051",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Droxidopa is a prodrug of:",
+   "opts": [
+    "Norepinephrine",
+    "Dopamine",
+    "Epinephrine",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The droxidopa box calls it a prodrug of NE. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-052",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "Droxidopa is used for:",
+   "opts": [
+    "Neurogenic hypotension",
+    "Hypertensive emergency",
+    "Anaphylactic shock",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The droxidopa use is neurogenic hypotension. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-053",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "The neurogenic hypotension example for droxidopa is postural hypotension in:",
+   "opts": [
+    "Diabetes mellitus",
+    "Asthma",
+    "Glaucoma",
+    "Huntington disease"
+   ],
+   "ans": 0,
+   "exp": "The droxidopa use specifies postural hypotension in diabetes mellitus. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-054",
+   "sec": "Exogenous Catecholamines",
+   "page": 57,
+   "q": "In diabetic neurogenic postural hypotension, neuropathic damage to ganglia causes decreased:",
+   "opts": [
+    "NE, preload and cardiac output",
+    "AChE and IOP",
+    "Insulin and potassium only",
+    "Dopamine and cortisol only"
+   ],
+   "ans": 0,
+   "exp": "The droxidopa mechanism states ganglionic neuropathic damage lowers NE, preload and cardiac output. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-055",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "The α1 agonist action highlighted is:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilation",
+    "Bronchodilation only",
+    "AChE inhibition"
+   ],
+   "ans": 0,
+   "exp": "The α1 agonist branch is labelled vasoconstriction. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-056",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Phenylephrine is DOC for priapism such as after:",
+   "opts": [
+    "Sildenafil abuse",
+    "Organophosphate poisoning",
+    "Atropine overdose",
+    "β-blocker toxicity"
+   ],
+   "ans": 0,
+   "exp": "The phenylephrine use list says priapism, e.g. sildenafil abuse, DOC. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-057",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "In hypotension due to spinal anaesthesia, the α1 agonist with best fetal outcome is:",
+   "opts": [
+    "Phenylephrine",
+    "Dopamine",
+    "Isoprenaline",
+    "Droxidopa"
+   ],
+   "ans": 0,
+   "exp": "The phenylephrine use list says hypotension by spinal anaesthesia: DOC with best fetal outcome. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-058",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Phenylephrine causes mydriasis:",
+   "opts": [
+    "Without cycloplegia",
+    "With mandatory cycloplegia",
+    "By m3 stimulation",
+    "By β3 action"
+   ],
+   "ans": 0,
+   "exp": "The phenylephrine use list states mydriasis without cycloplegia. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-059",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "A nasal decongestant α1 agonist listed as phenylephrine's use is:",
+   "opts": [
+    "Phenylephrine",
+    "Bromocriptine",
+    "Droxidopa",
+    "Pyridostigmine"
+   ],
+   "ans": 0,
+   "exp": "The phenylephrine use list includes nasal decongestant. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-060",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Xylometazoline and oxymetazoline are used as:",
+   "opts": [
+    "Nasal decongestants",
+    "Cardiac stimulants",
+    "Miotic agents",
+    "AChE reactivators"
+   ],
+   "ans": 0,
+   "exp": "The second α1 list line says xylometazoline and oxymetazoline are nasal decongestants. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-061",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Midodrine is DOC for:",
+   "opts": [
+    "Postural hypotension",
+    "Hypertensive emergency",
+    "Acute CHF",
+    "Anaphylactic shock"
+   ],
+   "ans": 0,
+   "exp": "The midodrine line says DOC for postural hypotension. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-062",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Mephentermine, metaraminol and methoxamine are used for:",
+   "opts": [
+    "Hypotension",
+    "Hyperthyroidism",
+    "Motion sickness",
+    "Overactive bladder"
+   ],
+   "ans": 0,
+   "exp": "These three are bracketed with use: hypotension. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-063",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Apraclonidine is an agonist at:",
+   "opts": [
+    "α1 and α2 receptors",
+    "β1 and β2 receptors",
+    "D1 and D2 receptors",
+    "m1 and m3 receptors"
+   ],
+   "ans": 0,
+   "exp": "Apraclonidine is placed under the α1 and α2 agonist branch. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-064",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Apraclonidine's side effects are mediated by increased:",
+   "opts": [
+    "Ca2+",
+    "cAMP only",
+    "AChE",
+    "VMAT2"
+   ],
+   "ans": 0,
+   "exp": "The apraclonidine note says S/E: ↑ Ca2+. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-065",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Apraclonidine may cause:",
+   "opts": [
+    "Mydriasis and lid retraction",
+    "Miosis and accommodation spasm",
+    "Bronchoconstriction and dyspnea",
+    "Cholinergic crisis"
+   ],
+   "ans": 0,
+   "exp": "The apraclonidine side-effect branches show mydriasis and lid retraction. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-066",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "Apraclonidine is used as an anti-glaucoma drug in:",
+   "opts": [
+    "Open-angle glaucoma",
+    "Closed-angle glaucoma before mannitol",
+    "Only cataract",
+    "Only uveitis"
+   ],
+   "ans": 0,
+   "exp": "The apraclonidine branch says used as anti-glaucoma drugs in open-angle glaucoma. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-067",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists",
+   "page": 57,
+   "q": "The DOC for pregnancy-induced hypertension noted on this page is:",
+   "opts": [
+    "Oral labetalol",
+    "Phenylephrine",
+    "Dopamine",
+    "Clonidine"
+   ],
+   "ans": 0,
+   "exp": "The boxed note says DOC in PIH: oral labetalol. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-068",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "The primary action of α2 agonists is to:",
+   "opts": [
+    "Decrease NE release",
+    "Increase NE release",
+    "Block AChE",
+    "Open nicotinic channels"
+   ],
+   "ans": 0,
+   "exp": "The α2 agonist action box begins with ↓ NE release. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-069",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Decreased NE release from α2 agonists produces:",
+   "opts": [
+    "Central sympatholysis",
+    "Peripheral sympathetic stimulation",
+    "Direct β2 bronchodilation",
+    "ACh accumulation"
+   ],
+   "ans": 0,
+   "exp": "The action flow says ↓ NE release → central sympatholysis. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-070",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Central sympatholysis caused by α2 agonists lowers:",
+   "opts": [
+    "Blood pressure",
+    "IOP only",
+    "AChE activity",
+    "Dopamine only"
+   ],
+   "ans": 0,
+   "exp": "The α2 flow continues central sympatholysis → ↓ BP. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-071",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "If an α2 agonist crosses the BBB it can cause:",
+   "opts": [
+    "Sedation",
+    "Miosis only",
+    "Cataract",
+    "Iris cyst"
+   ],
+   "ans": 0,
+   "exp": "The action box also says cause sedation if it crosses BBB. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-072",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "The prototype α2 agonist is:",
+   "opts": [
+    "Clonidine",
+    "Lofexidine",
+    "Tizanidine",
+    "Brimonidine"
+   ],
+   "ans": 0,
+   "exp": "Clonidine is labelled as the prototype drug. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-073",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Clonidine is DOC for ADHD associated with:",
+   "opts": [
+    "Tourette's syndrome",
+    "Narcolepsy",
+    "Huntington disease",
+    "Myasthenia gravis"
+   ],
+   "ans": 0,
+   "exp": "The clonidine use list states ADHD associated with Tourette's syndrome (DOC). (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-074",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Clonidine is used for withdrawal from:",
+   "opts": [
+    "Opioids, alcohol and nicotine",
+    "Only benzodiazepines",
+    "Only insulin",
+    "Only corticosteroids"
+   ],
+   "ans": 0,
+   "exp": "The clonidine use list includes opioid/alcohol/nicotine withdrawal. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-075",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Clonidine can be used for:",
+   "opts": [
+    "Post-menopausal hot flashes",
+    "BPH only",
+    "Acute angle closure glaucoma",
+    "Organophosphate ageing"
+   ],
+   "ans": 0,
+   "exp": "Post-menopausal hot flashes are listed as a clonidine use. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-076",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Clonidine is also used in:",
+   "opts": [
+    "Hypertension and pre-anaesthetic medication",
+    "Acute CHF and stress echo only",
+    "Anticholinergic poisoning",
+    "Urge incontinence"
+   ],
+   "ans": 0,
+   "exp": "The clonidine use list includes hypertension and pre-anaesthetic medication. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-077",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Clonidine withdrawal can cause rebound hypertension due to:",
+   "opts": [
+    "α2 down-regulation",
+    "β3 up-regulation",
+    "AChE ageing",
+    "Tyrosine depletion"
+   ],
+   "ans": 0,
+   "exp": "The side-effect note says withdrawal/rebound hypertension due to α2 down-regulation. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-078",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Lofexidine is used for:",
+   "opts": [
+    "Opioid withdrawal symptoms",
+    "Brittle asthma",
+    "Cardiac arrest",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The lofexidine line says for opioid withdrawal symptoms. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-079",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Tizanidine is a:",
+   "opts": [
+    "Muscle relaxant",
+    "β3 agonist",
+    "Miotic agent",
+    "AChE reactivator"
+   ],
+   "ans": 0,
+   "exp": "The tizanidine line identifies it as a muscle relaxant. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-080",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "α-methyldopa is a prodrug converted to:",
+   "opts": [
+    "α-methyl-NE",
+    "Droxidopa",
+    "Metyrosine",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The α-methyl-dopa line says prodrug → α methyl-NE. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-081",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "α-methyldopa decreases NE release and:",
+   "opts": [
+    "Depletes NE in vesicles",
+    "Increases NE storage",
+    "Blocks β3 receptors",
+    "Inhibits AChE"
+   ],
+   "ans": 0,
+   "exp": "The action lines under α-methyldopa say ↓ NE release and depletes NE in vesicle. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-082",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "α-methyldopa is used in:",
+   "opts": [
+    "Pregnancy-induced hypertension",
+    "Priapism",
+    "Narcolepsy",
+    "Acute CHF"
+   ],
+   "ans": 0,
+   "exp": "The use line says pregnancy induced hypertension. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-083",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "A side effect of α-methyldopa listed is:",
+   "opts": [
+    "Hemolysis",
+    "Cataract",
+    "Iris cyst",
+    "Retinal detachment"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line for α-methyl-dopa says hemolysis. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-084",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Guanfacine and guanabenz can be used in:",
+   "opts": [
+    "ADHD",
+    "Acute CHF",
+    "Anaphylactic shock",
+    "Organophosphate poisoning"
+   ],
+   "ans": 0,
+   "exp": "The guanfacine/guanabenz line says can be used in ADHD. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-085",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Brimonidine can cross the:",
+   "opts": [
+    "Blood-brain barrier",
+    "Placenta only",
+    "Blood-testis barrier only",
+    "Synovial membrane only"
+   ],
+   "ans": 0,
+   "exp": "The brimonidine line says it can cross the blood-brain barrier. (Book p57)"
+  },
+  {
+   "id": "PHARM-C16-086",
+   "sec": "α2 Agonists",
+   "page": 57,
+   "q": "Neonatal side effects of brimonidine include:",
+   "opts": [
+    "Drowsiness and apnea",
+    "Tremor and hyperglycemia",
+    "Miosis and lacrimation",
+    "Cataract and iris cysts"
+   ],
+   "ans": 0,
+   "exp": "The brimonidine side-effect line lists drowsiness and apnea in neonates. (Book p57)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U16-1",
+   "ch": 16,
+   "n": 1,
+   "title": "Adrenergic Drugs: Classification",
+   "sec": "Adrenergic Drugs: Classification · p56",
+   "qs": [
+    "PHARM-C16-001",
+    "PHARM-C16-002",
+    "PHARM-C16-003",
+    "PHARM-C16-004",
+    "PHARM-C16-005",
+    "PHARM-C16-006"
+   ],
+   "guide": "Adrenergic drugs are sympathomimetics. They can act directly on α and β receptors or indirectly by increasing norepinephrine, which then stimulates α and β receptors. Direct agents are divided into catecholamines and non-catecholamines; catecholamines may be endogenous or exogenous, while non-catecholamines include α-agonists and β-agonists."
+  },
+  {
+   "id": "PHARM-U16-2",
+   "ch": 16,
+   "n": 2,
+   "title": "Endogenous Catecholamines: Epinephrine",
+   "sec": "Endogenous Catecholamines: Epinephrine · p56",
+   "qs": [
+    "PHARM-C16-007",
+    "PHARM-C16-008",
+    "PHARM-C16-009",
+    "PHARM-C16-010",
+    "PHARM-C16-011",
+    "PHARM-C16-012",
+    "PHARM-C16-013",
+    "PHARM-C16-014",
+    "PHARM-C16-015",
+    "PHARM-C16-016",
+    "PHARM-C16-017",
+    "PHARM-C16-018",
+    "PHARM-C16-019"
+   ],
+   "guide": "Epinephrine is the endogenous catecholamine that acts on α, β1 and β2 receptors and is a stronger cardiac stimulant than norepinephrine. It is DOC in cardiac arrest, anaphylactic shock and brittle asthma, with different dilutions/routes for cardiac arrest versus anaphylaxis. Other uses are prolonging local anaesthesia through vasoconstriction and glaucoma therapy with dipivefrine preferred; conjunctival pigmentation is linked to tyrosine, the common melanin precursor."
+  },
+  {
+   "id": "PHARM-U16-3",
+   "ch": 16,
+   "n": 3,
+   "title": "Endogenous Catecholamines: Norepinephrine and Dopamine",
+   "sec": "Endogenous Catecholamines: Norepinephrine and Dopamine · p56",
+   "qs": [
+    "PHARM-C16-020",
+    "PHARM-C16-021",
+    "PHARM-C16-022",
+    "PHARM-C16-023",
+    "PHARM-C16-024",
+    "PHARM-C16-025",
+    "PHARM-C16-026",
+    "PHARM-C16-027",
+    "PHARM-C16-028",
+    "PHARM-C16-029",
+    "PHARM-C16-030",
+    "PHARM-C16-031",
+    "PHARM-C16-032",
+    "PHARM-C16-033",
+    "PHARM-C16-034",
+    "PHARM-C16-035",
+    "PHARM-C16-036",
+    "PHARM-C16-037",
+    "PHARM-C16-038",
+    "PHARM-C16-039"
+   ],
+   "guide": "Norepinephrine acts on α1 and β1 and is a stronger vasoconstrictor than epinephrine because it lacks β2 vasodilation. It is given only IV for vasodilatory, cardiogenic and neurogenic shock, while IM use is contraindicated because of muscle necrosis. Dopamine is dose-dependent: low doses act on D1 for diuresis, intermediate doses on β1 for contractility, and high doses on α1 for vasoconstriction, but shock use raises mortality because of pro-arrhythmia."
+  },
+  {
+   "id": "PHARM-U16-4",
+   "ch": 16,
+   "n": 4,
+   "title": "Exogenous Catecholamines",
+   "sec": "Exogenous Catecholamines · p57",
+   "qs": [
+    "PHARM-C16-040",
+    "PHARM-C16-041",
+    "PHARM-C16-042",
+    "PHARM-C16-043",
+    "PHARM-C16-044",
+    "PHARM-C16-045",
+    "PHARM-C16-046",
+    "PHARM-C16-047",
+    "PHARM-C16-048",
+    "PHARM-C16-049",
+    "PHARM-C16-050",
+    "PHARM-C16-051",
+    "PHARM-C16-052",
+    "PHARM-C16-053",
+    "PHARM-C16-054"
+   ],
+   "guide": "Exogenous catecholamines are receptor-selective clinical tools. Dobutamine acts on myocardial β receptors, increases contraction without SA-node effect and is DOC in acute CHF; isoprenaline is a pure β1/β2 agonist with no α action. Fenoldopam and dopexamine combine D1 with α1 or β1 effects to lower BP, while droxidopa is a norepinephrine prodrug for neurogenic orthostatic hypotension from diabetic neuropathy."
+  },
+  {
+   "id": "PHARM-U16-5",
+   "ch": 16,
+   "n": 5,
+   "title": "α1 and Mixed α Non-catecholamine Agonists",
+   "sec": "α1 and Mixed α Non-catecholamine Agonists · p57",
+   "qs": [
+    "PHARM-C16-055",
+    "PHARM-C16-056",
+    "PHARM-C16-057",
+    "PHARM-C16-058",
+    "PHARM-C16-059",
+    "PHARM-C16-060",
+    "PHARM-C16-061",
+    "PHARM-C16-062",
+    "PHARM-C16-063",
+    "PHARM-C16-064",
+    "PHARM-C16-065",
+    "PHARM-C16-066",
+    "PHARM-C16-067"
+   ],
+   "guide": "α1 non-catecholamines produce vasoconstriction and are used for the mnemonic-like cluster PHEN: priapism, hypotension from spinal anaesthesia, mydriasis without cycloplegia and nasal decongestion. Midodrine is DOC for postural hypotension, while mephentermine, metaraminol and methoxamine treat hypotension. Apraclonidine has α1/α2 action, can cause mydriasis and lid retraction through raised calcium, and is used as an antiglaucoma drug in open-angle glaucoma."
+  },
+  {
+   "id": "PHARM-U16-6",
+   "ch": 16,
+   "n": 6,
+   "title": "α2 Agonists",
+   "sec": "α2 Agonists · p57",
+   "qs": [
+    "PHARM-C16-068",
+    "PHARM-C16-069",
+    "PHARM-C16-070",
+    "PHARM-C16-071",
+    "PHARM-C16-072",
+    "PHARM-C16-073",
+    "PHARM-C16-074",
+    "PHARM-C16-075",
+    "PHARM-C16-076",
+    "PHARM-C16-077",
+    "PHARM-C16-078",
+    "PHARM-C16-079",
+    "PHARM-C16-080",
+    "PHARM-C16-081",
+    "PHARM-C16-082",
+    "PHARM-C16-083",
+    "PHARM-C16-084",
+    "PHARM-C16-085",
+    "PHARM-C16-086"
+   ],
+   "guide": "α2 agonists reduce norepinephrine release to produce central sympatholysis and lower BP; if they cross the BBB they also cause sedation. Clonidine is the prototype and is used for Tourette-associated ADHD, withdrawal syndromes, postmenopausal hot flashes, hypertension and pre-anaesthetic medication, with rebound hypertension on withdrawal due to α2 down-regulation. Lofexidine treats opioid withdrawal, tizanidine is a muscle relaxant, α-methyldopa forms α-methyl-NE and is used in PIH, while guanfacine/guanabenz and brimonidine complete the list."
+  }
+ ]
+}

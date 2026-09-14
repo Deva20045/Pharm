@@ -1,0 +1,2031 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C18-001",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Anti-adrenergic drugs in the opening flowchart are also called:",
+   "opts": [
+    "Sympatholytics",
+    "Parasympathomimetics",
+    "Cholinesterase reactivators",
+    "Ganglion stimulants"
+   ],
+   "ans": 0,
+   "exp": "The heading names sympatholytics/anti-adrenergic drugs as direct acting. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-002",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "The direct-acting anti-adrenergic drugs are first divided into:",
+   "opts": [
+    "α blockers and β blockers",
+    "Nm blockers and Nn blockers",
+    "MAO inhibitors and COMT inhibitors",
+    "D1 agonists and α2 agonists"
+   ],
+   "ans": 0,
+   "exp": "The main branches under direct-acting sympatholytics are α blockers and β blockers. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-003",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Nonselective α blockers block which receptor combination?",
+   "opts": [
+    "α1 and α2",
+    "β1 and β2",
+    "M1 and M2",
+    "D1 and D2"
+   ],
+   "ans": 0,
+   "exp": "The flowchart labels nonselective α blockers as α1 + α2 blockers. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-004",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Selective α blockers in the chapter can selectively block:",
+   "opts": [
+    "α1 or α2",
+    "β1 only or β3 only",
+    "M3 only or Nm only",
+    "D1 only or H1 only"
+   ],
+   "ans": 0,
+   "exp": "The selective α-blocker branch is labelled α1 or α2. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-005",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Tolazoline is placed under which α-blocker group?",
+   "opts": [
+    "Nonselective α blockers",
+    "Selective α2 blockers",
+    "β2 agonists",
+    "Class III antiarrhythmics"
+   ],
+   "ans": 0,
+   "exp": "Tolazoline is written below the nonselective α-blockers heading. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-006",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "The mechanism of tolazoline is:",
+   "opts": [
+    "Dilatation of small blood vessels",
+    "Opening AV nodal calcium channels",
+    "Blocking Na+-K+ ATPase",
+    "Inhibiting aldehyde dehydrogenase"
+   ],
+   "ans": 0,
+   "exp": "The tolazoline MOA line says dilation of small blood vessels. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-007",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Tolazoline is listed for which peripheral vascular disease group?",
+   "opts": [
+    "Raynaud disease and Buerger disease",
+    "HOCM and aortic dissection",
+    "WPW and atrial flutter",
+    "Thyroid storm and glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Under peripheral vascular diseases, Raynaud disease and Buerger disease are named. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-008",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "In Raynaud disease, the page marks the preferred drug class as:",
+   "opts": [
+    "Calcium channel blockers",
+    "Nonselective α blockers",
+    "Digoxin",
+    "β3 agonists"
+   ],
+   "ans": 0,
+   "exp": "The Raynaud line notes preferred drug → Ca2+ channel blocker. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-009",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Besides peripheral vascular diseases, tolazoline is also used in:",
+   "opts": [
+    "Angiography",
+    "Atrial fibrillation anticoagulation",
+    "Long-QT pacing",
+    "Digitalization"
+   ],
+   "ans": 0,
+   "exp": "Angiography is listed as a tolazoline use. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-010",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Phentolamine is administered by which route in this chapter?",
+   "opts": [
+    "Intravenous",
+    "Subcutaneous only",
+    "Topical ocular only",
+    "Oral sustained release only"
+   ],
+   "ans": 0,
+   "exp": "The phentolamine line states route of administration: IV. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-011",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "IV phentolamine is DOC for cheese reaction because it blocks:",
+   "opts": [
+    "α effects of excess catecholamines",
+    "AChE ageing",
+    "β3 bladder relaxation",
+    "PDE5 metabolism"
+   ],
+   "ans": 0,
+   "exp": "Cheese reaction is listed as a DOC indication for IV phentolamine. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-012",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Which withdrawal syndrome is a DOC indication for phentolamine?",
+   "opts": [
+    "Clonidine-withdrawal hypertension",
+    "Digoxin withdrawal bradycardia",
+    "Nitrate-withdrawal headache",
+    "Insulin-withdrawal hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "Clonidine withdrawal hypertension is one of the listed phentolamine uses. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-013",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "In pheochromocytoma surgery, phentolamine is used for:",
+   "opts": [
+    "Intraoperative hypertension due to catecholamine release",
+    "Prevention of nephrotoxicity",
+    "Digitalization before surgery",
+    "Treating cataract formation"
+   ],
+   "ans": 0,
+   "exp": "The note lists intraoperative hypertension due to catecholamine release in pheochromocytoma. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-014",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers",
+   "page": 63,
+   "q": "Definitive management of pheochromocytoma, if there is no metastasis, is:",
+   "opts": [
+    "Surgical resection of the tumour",
+    "Chronic digoxin therapy",
+    "Oral adenosine",
+    "PDE5 blockade"
+   ],
+   "ans": 0,
+   "exp": "The note says definitive management is surgical resection of tumour in the absence of metastasis. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-015",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 63,
+   "q": "The selective α2 blockers listed are:",
+   "opts": [
+    "Yohimbine and idazoxan",
+    "Prazosin and terazosin",
+    "Tamsulosin and silodosin",
+    "Carvedilol and labetalol"
+   ],
+   "ans": 0,
+   "exp": "Under α2 blockers, the drugs are yohimbine and idazoxan. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-016",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 63,
+   "q": "Yohimbine is noted as a food supplement for:",
+   "opts": [
+    "Erectile dysfunction",
+    "Acute pulmonary edema",
+    "Atrial flutter",
+    "Bilateral renal artery stenosis"
+   ],
+   "ans": 0,
+   "exp": "The uses box says yohimbine as food supplement for erectile dysfunction. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-017",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 63,
+   "q": "Besides erectile dysfunction, yohimbine is listed for:",
+   "opts": [
+    "Neuropathic pain and postural hypotension",
+    "Hyperkalemia and glaucoma",
+    "WPW and torsades",
+    "Nausea and xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The same uses list includes neuropathic pain and postural hypotension. (Book p63)"
+  },
+  {
+   "id": "PHARM-C18-018",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "α1 blockers are grouped into which two types on page 64?",
+   "opts": [
+    "α1a,b,d blockers and α1a blockers",
+    "β1 blockers and β3 blockers",
+    "Nn blockers and Nm blockers",
+    "Class Ia and class Ib blockers"
+   ],
+   "ans": 0,
+   "exp": "The α1-blocker type chart splits into α1a,b,d and α1a blockers. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-019",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "The common MOA written for α1 blockers is:",
+   "opts": [
+    "Dilatation",
+    "Digitalization",
+    "Bronchoconstriction",
+    "AChE inhibition"
+   ],
+   "ans": 0,
+   "exp": "The page explicitly writes MOA: dilatation near α1 blockers. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-020",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "α1a receptors in the table are located in the:",
+   "opts": [
+    "Prostatic urethra and iris",
+    "JG cells and bronchi",
+    "SA node and AV node",
+    "Sarcolemma and liver"
+   ],
+   "ans": 0,
+   "exp": "The α1 receptor table puts α1a at the prostatic urethra and iris. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-021",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "α1a blockade in the prostatic urethra can cause:",
+   "opts": [
+    "Ejaculation abnormality",
+    "Hyperkalemia",
+    "Nystagmus",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "The prostatic urethra row lists ejaculation abnormality. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-022",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "The ejaculation abnormality from α1a blockade can be:",
+   "opts": [
+    "Retrograde ejaculation or failure",
+    "Only premature ejaculation",
+    "Only priapism",
+    "Only infertility without ejaculation change"
+   ],
+   "ans": 0,
+   "exp": "The side-effect cell says retrograde/failure. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-023",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "α1a blockade in the iris is associated with:",
+   "opts": [
+    "Floppy iris",
+    "Xanthopsia",
+    "Whorl corneal deposits",
+    "Miosis from pilocarpine"
+   ],
+   "ans": 0,
+   "exp": "The iris row lists floppy iris. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-024",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "Floppy iris is more prominent with:",
+   "opts": [
+    "α1a blockers than α1a,b,d blockers",
+    "β blockers than α blockers",
+    "Digoxin than amiodarone",
+    "Adenosine than atropine"
+   ],
+   "ans": 0,
+   "exp": "The table notes floppy iris: α1a > α1a,b,d blockers. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-025",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "α1b and α1d receptors in the table are located mainly in:",
+   "opts": [
+    "Blood vessels",
+    "Prostatic urethra",
+    "Adrenal medulla",
+    "Sinoatrial node"
+   ],
+   "ans": 0,
+   "exp": "The b,d row gives the site as blood vessels. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-026",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "The classic first-dose adverse effect of vascular α1 blockade is:",
+   "opts": [
+    "Postural hypotension",
+    "Hypertensive crisis",
+    "Torsades de pointes",
+    "Bronchial asthma"
+   ],
+   "ans": 0,
+   "exp": "The blood-vessel side-effect row says postural hypotension (1st dose effect). (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-027",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "Postural hypotension with α1 blockers occurs due to:",
+   "opts": [
+    "Venodilatation",
+    "Delayed Na+ channel closure",
+    "Increased aqueous humour",
+    "Aldosterone excess"
+   ],
+   "ans": 0,
+   "exp": "The page attributes the first-dose effect to venodilatation. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-028",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "The dosing advice to reduce first-dose α1-blocker postural hypotension is:",
+   "opts": [
+    "Give at night",
+    "Give immediately before exercise",
+    "Combine with adenosine",
+    "Use only after meals with grapefruit"
+   ],
+   "ans": 0,
+   "exp": "The advice line says nighttime dose. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-029",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites",
+   "page": 64,
+   "q": "Which lipid effect is listed for α1 blockers?",
+   "opts": [
+    "Decrease LDL",
+    "Increase LDL",
+    "Decrease HDL only",
+    "Increase triglycerides only"
+   ],
+   "ans": 0,
+   "exp": "The α1 receptor table lists ↓ LDL. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-030",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "The α1a,b,d blockers listed are:",
+   "opts": [
+    "Prazosin, terazosin and doxazosin",
+    "Tamsulosin, silodosin and yohimbine",
+    "Propranolol, timolol and nadolol",
+    "Diltiazem, verapamil and digoxin"
+   ],
+   "ans": 0,
+   "exp": "The α1a,b,d drug row lists prazosin, terazosin and doxazosin. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-031",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "α1a,b,d blockers are used for:",
+   "opts": [
+    "BPH with hypertension",
+    "Only bronchial asthma",
+    "Only diabetic neuropathy",
+    "Only long-QT syndrome"
+   ],
+   "ans": 0,
+   "exp": "The uses row for α1a,b,d blockers says BPH + hypertension. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-032",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "Which α1 blocker is used for scorpion-bite sympathetic toxicity?",
+   "opts": [
+    "Prazosin",
+    "Silodosin",
+    "Adenosine",
+    "Digoxin"
+   ],
+   "ans": 0,
+   "exp": "Scorpion bite is listed under α1a,b,d blockers, and the flowchart gives Rx prazosin. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-033",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "The α1a blockers are mainly used for:",
+   "opts": [
+    "Benign prostatic hyperplasia",
+    "Aortic dissection",
+    "Thyroid storm",
+    "Pulmonary hypertension"
+   ],
+   "ans": 0,
+   "exp": "The α1a blocker use cell states BPH. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-034",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "Tamsulosin also blocks which additional α1 subtype?",
+   "opts": [
+    "α1d",
+    "α2",
+    "β1",
+    "D1"
+   ],
+   "ans": 0,
+   "exp": "The drug row says tamsulosin also blocks α1d. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-035",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "Which α1a blocker is marked as having maximum side effects?",
+   "opts": [
+    "Silodosin",
+    "Tamsulosin",
+    "Prazosin",
+    "Doxazosin"
+   ],
+   "ans": 0,
+   "exp": "Silodosin is followed by the note maximum S/E. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-036",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "In scorpion bite, toxin stimulation of the sympathetic limb causes:",
+   "opts": [
+    "Hypertension and pulmonary edema",
+    "Only bradycardia",
+    "Only priapism",
+    "Only xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The scorpion-bite flowchart shows sympathetic → hypertension, pulmonary edema. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-037",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "The treatment for the sympathetic hypertension/pulmonary edema limb of scorpion bite is:",
+   "opts": [
+    "Prazosin",
+    "Atropine",
+    "Phentolamine only if mild",
+    "Digibind"
+   ],
+   "ans": 0,
+   "exp": "The sympathetic branch ends with Rx: prazosin. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-038",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "In scorpion bite, parasympathetic stimulation can produce bradycardia treated with:",
+   "opts": [
+    "Atropine",
+    "Prazosin",
+    "Esmolol",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "The parasympathetic bradycardia branch says Rx atropine. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-039",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "Severe priapism in scorpion bite is treated with:",
+   "opts": [
+    "Phentolamine",
+    "Adenosine",
+    "Verapamil",
+    "Sildenafil"
+   ],
+   "ans": 0,
+   "exp": "The priapism branch says Rx: phentolamine if severe. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-040",
+   "sec": "α1 Blocker Uses and Scorpion Bite",
+   "page": 64,
+   "q": "Which pairing best matches the scorpion-bite flowchart?",
+   "opts": [
+    "Hypertension—prazosin; bradycardia—atropine; severe priapism—phentolamine",
+    "Hypertension—digoxin; bradycardia—prazosin; priapism—adenosine",
+    "Pulmonary edema—silodosin; bradycardia—tamsulosin; priapism—timolol",
+    "Hypertension—sildenafil; bradycardia—tadalafil; priapism—riociguat"
+   ],
+   "ans": 0,
+   "exp": "The three terminal treatment branches are prazosin, atropine and phentolamine respectively. (Book p64)"
+  },
+  {
+   "id": "PHARM-C18-041",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "First-generation β blockers are described as:",
+   "opts": [
+    "Nonselective β1 = β2 blockers",
+    "Pure β3 blockers",
+    "Selective β2 agonists",
+    "Only α1 blockers"
+   ],
+   "ans": 0,
+   "exp": "The first-generation line says non-selective and β1 = β2 block. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-042",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Which set contains only first-generation nonselective β blockers from the page?",
+   "opts": [
+    "Propranolol, timolol and nadolol",
+    "Metoprolol, esmolol and atenolol",
+    "Nebivolol, celiprolol and betaxolol",
+    "Carvedilol, labetalol and hydralazine"
+   ],
+   "ans": 0,
+   "exp": "The first-generation list includes propranolol, timolol, nadolol, oxprenolol and pindolol. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-043",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Oxprenolol and pindolol belong to which β-blocker generation group?",
+   "opts": [
+    "First-generation nonselective",
+    "Second-generation cardioselective",
+    "Third-generation DHP",
+    "Water-soluble only"
+   ],
+   "ans": 0,
+   "exp": "Both oxprenolol and pindolol are listed under first generation nonselective drugs. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-044",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Cardioselective β blockers preferentially block:",
+   "opts": [
+    "β1 more than β2",
+    "β2 more than β1",
+    "α1 more than α2",
+    "D1 more than β1"
+   ],
+   "ans": 0,
+   "exp": "The cardioselective heading says β1 > β2 block. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-045",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Which second-generation cardioselective β blocker is ultra-short acting in later properties?",
+   "opts": [
+    "Esmolol",
+    "Nadolol",
+    "Timolol",
+    "Pindolol"
+   ],
+   "ans": 0,
+   "exp": "Esmolol appears in the second-generation list and later is the shortest-acting β blocker. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-046",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Which set contains second-generation cardioselective β blockers listed on page 65?",
+   "opts": [
+    "Metoprolol, esmolol, atenolol and acebutolol",
+    "Propranolol, timolol, nadolol and pindolol",
+    "Dofetilide, ibutilide, sotalol and amiodarone",
+    "Prazosin, terazosin, doxazosin and tamsulosin"
+   ],
+   "ans": 0,
+   "exp": "The second-generation list includes metoprolol, esmolol, bisoprolol, atenolol and acebutolol. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-047",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Among the second-generation cardioselective list, the drug marked with most cardioselectivity is:",
+   "opts": [
+    "Bisoprolol",
+    "Atenolol",
+    "Acebutolol",
+    "Esmolol"
+   ],
+   "ans": 0,
+   "exp": "Bisoprolol carries the note 'and most cardioselectivity' in the second-generation group. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-048",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Third-generation cardioselective β blockers listed include:",
+   "opts": [
+    "Nebivolol, celiprolol and betaxolol",
+    "Quinidine, procainamide and disopyramide",
+    "Yohimbine, idazoxan and prazosin",
+    "Adenosine, magnesium sulfate and atropine"
+   ],
+   "ans": 0,
+   "exp": "The third-generation cardioselective group lists nebivolol, celiprolol and betaxolol. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-049",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "The third-generation drug marked as most cardioselective is:",
+   "opts": [
+    "Nebivolol",
+    "Celiprolol",
+    "Betaxolol",
+    "Labetalol"
+   ],
+   "ans": 0,
+   "exp": "Nebivolol is annotated as most cardioselectivity. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-050",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Third-generation vasodilating β blockers may be:",
+   "opts": [
+    "Cardioselective or nonselective vasodilators",
+    "Only pure β3 blockers",
+    "Only direct renin inhibitors",
+    "Only class Ia antiarrhythmics"
+   ],
+   "ans": 0,
+   "exp": "The heading says third generation: cardio-selective/non-selective vasodilators. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-051",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Carvedilol and labetalol produce vasodilation through:",
+   "opts": [
+    "α blockade",
+    "β3 blockade only",
+    "Digoxin binding",
+    "AChE reactivation"
+   ],
+   "ans": 0,
+   "exp": "Under vasodilation via α blockers, carvedilol and labetalol are listed. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-052",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Bopindolol produces vasodilation through:",
+   "opts": [
+    "β2 agonism",
+    "α1 agonism",
+    "Kininase inhibition",
+    "Na+-K+ ATPase block"
+   ],
+   "ans": 0,
+   "exp": "Bopindolol appears under β2 agonist vasodilation. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-053",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Which β blocker is also listed under Ca2+ channel blocker-mediated vasodilation?",
+   "opts": [
+    "Carvedilol",
+    "Timolol",
+    "Nadolol",
+    "Atenolol"
+   ],
+   "ans": 0,
+   "exp": "Carvedilol is written under Ca2+ channel blocker vasodilation. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-054",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Nipradilol and nebivolol cause vasodilation by increasing:",
+   "opts": [
+    "Nitric oxide",
+    "Renin",
+    "Aldosterone",
+    "Aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "They are listed under ↑ nitric oxide (NO). (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-055",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "page": 65,
+   "q": "Tilisolol is classified as a vasodilating β blocker through:",
+   "opts": [
+    "K+ channel opening",
+    "PDE5 inhibition",
+    "Direct renin inhibition",
+    "M3 stimulation"
+   ],
+   "ans": 0,
+   "exp": "Tilisolol appears under K+ channel opener. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-056",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Intrinsic sympathomimetic activity in β blockers means:",
+   "opts": [
+    "Partial agonist activity",
+    "Complete irreversible β blockade",
+    "Pure α agonism",
+    "Direct renin inhibition"
+   ],
+   "ans": 0,
+   "exp": "The heading writes Partial Agonists/Intrinsic Sympathomimetic. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-057",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "The mnemonic for partial agonist β blockers is:",
+   "opts": [
+    "Cause Partial Agonism",
+    "BANANAS Chips",
+    "HEMA BETA",
+    "DIGOXIN"
+   ],
+   "ans": 0,
+   "exp": "The partial agonist section gives the mnemonic Cause Partial Agonism. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-058",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Which partial agonist β blocker is marked as having maximum action?",
+   "opts": [
+    "Pindolol",
+    "Celiprolol",
+    "Carteolol",
+    "Acebutolol"
+   ],
+   "ans": 0,
+   "exp": "Pindolol is annotated maximum action. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-059",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Which group contains only listed partial agonist β blockers?",
+   "opts": [
+    "Celiprolol, carteolol, pindolol, penbutolol and acebutolol",
+    "Propranolol, carvedilol, metoprolol, nadolol and timolol",
+    "Esmolol, atenolol, nebivolol, dofetilide and ibutilide",
+    "Prazosin, doxazosin, yohimbine, tamsulosin and silodosin"
+   ],
+   "ans": 0,
+   "exp": "The partial agonist list consists of celiprolol, carteolol, pindolol, penbutolol and acebutolol. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-060",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "The advantage of β blockers with partial agonist activity is:",
+   "opts": [
+    "Lesser bradycardia",
+    "Maximum AV block",
+    "More bronchoconstriction",
+    "More digitalis toxicity"
+   ],
+   "ans": 0,
+   "exp": "The advantage line says lesser bradycardia is seen. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-061",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Partial agonist β blockers are contraindicated in myocardial infarction because:",
+   "opts": [
+    "They produce less bradycardia",
+    "They cause complete renal vasodilation",
+    "They block α1 receptors irreversibly",
+    "They increase digoxin binding"
+   ],
+   "ans": 0,
+   "exp": "The contraindication note says myocardial infarction due to less bradycardia. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-062",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Partial agonist β blockers are also contraindicated in:",
+   "opts": [
+    "Migraine",
+    "BPH only",
+    "Renovascular hypertension only",
+    "Scorpion bite only"
+   ],
+   "ans": 0,
+   "exp": "Migraine is listed in the contraindication list for partial agonists. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-063",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "The β blockers listed as Na+ channel blockers are:",
+   "opts": [
+    "Propranolol, carvedilol and metoprolol",
+    "Tamsulosin, silodosin and prazosin",
+    "Adenosine, atropine and digoxin",
+    "Vericiguat, riociguat and sildenafil"
+   ],
+   "ans": 0,
+   "exp": "The Na+ channel blocker section lists propranolol, carvedilol and metoprolol. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-064",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "Na+ channel-blocking β blockers produce which pharmacologic effect?",
+   "opts": [
+    "Membrane stabilising/local anaesthetic effect",
+    "Direct bronchodilation",
+    "Aldosterone release",
+    "AChE ageing"
+   ],
+   "ans": 0,
+   "exp": "The MOA list includes local anaesthetic effect and membrane stabilising effect. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-065",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 65,
+   "q": "The local anaesthetic effect of Na+ channel-blocking β blockers makes them contraindicated in:",
+   "opts": [
+    "Glaucoma",
+    "Hyperthyroidism",
+    "HOCM",
+    "Aortic dissection"
+   ],
+   "ans": 0,
+   "exp": "The local anaesthetic effect line notes C/I: glaucoma. (Book p65)"
+  },
+  {
+   "id": "PHARM-C18-066",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 66,
+   "q": "The mnemonic for water-soluble β blockers is:",
+   "opts": [
+    "BANANAS Chips",
+    "Cause Partial Agonism",
+    "HEMA BETA",
+    "DIGO XIN"
+   ],
+   "ans": 0,
+   "exp": "The H2O soluble β-blocker section gives BANANAS Chips. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-067",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 66,
+   "q": "Which set contains only water-soluble β blockers from BANANAS Chips?",
+   "opts": [
+    "Betaxolol, atenolol, nadolol and sotalol",
+    "Propranolol, timolol, oxprenolol and pindolol",
+    "Diltiazem, verapamil, nifedipine and clevidipine",
+    "Captopril, losartan, aliskiren and enalapril"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic expands to betaxolol, bisoprolol, atenolol, nebivolol, acebutolol, nadolol, sotalol and celiprolol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-068",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 66,
+   "q": "Water-soluble β blockers are lipid insoluble, so they:",
+   "opts": [
+    "Do not cross the BBB",
+    "Cause maximum nightmares",
+    "Always cause bronchoconstriction",
+    "Are metabolized only by aldehyde dehydrogenase"
+   ],
+   "ans": 0,
+   "exp": "The page says lipid insoluble → not cross BBB → no central side effects. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-069",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "page": 66,
+   "q": "Because water-soluble β blockers are cleared renally, they are contraindicated in:",
+   "opts": [
+    "Renal failure",
+    "Hepatic granuloma",
+    "BPH",
+    "WPW only"
+   ],
+   "ans": 0,
+   "exp": "The H2O-soluble section lists C/I: renal failure. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-070",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "The longest-acting β blocker by half-life is:",
+   "opts": [
+    "Nadolol",
+    "Esmolol",
+    "Celiprolol",
+    "Pindolol"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 property states longest: nadolol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-071",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "The shortest-acting β blocker is:",
+   "opts": [
+    "Esmolol",
+    "Nadolol",
+    "Sotalol",
+    "Timolol"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 property states shortest: esmolol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-072",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "Esmolol is shortest acting because it is metabolised by:",
+   "opts": [
+    "Esterases",
+    "Aldehyde dehydrogenase",
+    "Neprilysin",
+    "COMT only"
+   ],
+   "ans": 0,
+   "exp": "The esmolol note says metabolised by esterases. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-073",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "Esmolol is DOC as an:",
+   "opts": [
+    "Intraoperative β blocker",
+    "Oral BPH drug",
+    "Pulmonary hypertension drug",
+    "Digoxin antidote"
+   ],
+   "ans": 0,
+   "exp": "The page lists DOC as intraoperative β-blocker. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-074",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "When a β blocker is needed in asthmatics, the page marks which drug as DOC because of less bronchoconstriction risk?",
+   "opts": [
+    "Esmolol",
+    "Propranolol",
+    "Nadolol",
+    "Timolol"
+   ],
+   "ans": 0,
+   "exp": "Esmolol is listed as DOC β blocker in asthmatics due to less risk of bronchoconstriction. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-075",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "Maximum plasma protein binding among β blockers is with:",
+   "opts": [
+    "Carvedilol",
+    "Celiprolol",
+    "Esmolol",
+    "Atenolol"
+   ],
+   "ans": 0,
+   "exp": "The PPB box says maximum: carvedilol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-076",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "Minimum plasma protein binding among the listed β blockers is with:",
+   "opts": [
+    "Celiprolol",
+    "Carvedilol",
+    "Nadolol",
+    "Propranolol"
+   ],
+   "ans": 0,
+   "exp": "The PPB box says minimum: celiprolol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-077",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "The nonselective antioxidant/cardioprotective β blocker is:",
+   "opts": [
+    "Carvedilol",
+    "Nebivolol",
+    "Atenolol",
+    "Timolol"
+   ],
+   "ans": 0,
+   "exp": "The antioxidants note says nonselective: carvedilol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-078",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "page": 66,
+   "q": "The cardioselective antioxidant/cardioprotective β blocker is:",
+   "opts": [
+    "Nebivolol",
+    "Carvedilol",
+    "Nadolol",
+    "Pindolol"
+   ],
+   "ans": 0,
+   "exp": "The antioxidants note says cardioselective: nebivolol. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-079",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "The β-blocker side-effect mnemonic begins:",
+   "opts": [
+    "BETA ONE in Heart, Kidney and metabolism",
+    "Cause Partial Agonism",
+    "BANANAS Chips",
+    "DIGO XIN"
+   ],
+   "ans": 0,
+   "exp": "The side-effect heading writes mnemonic: BETA ONE in Heart, Kidney and metabolism. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-080",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Central nervous system side effects of β blockers are mainly due to:",
+   "opts": [
+    "Lipid-soluble drugs",
+    "Water-soluble drugs only",
+    "Direct renin inhibitors",
+    "Pure α1a blockers"
+   ],
+   "ans": 0,
+   "exp": "The brain line specifies lipid soluble drugs. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-081",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Which is a listed central side effect of lipid-soluble β blockers?",
+   "opts": [
+    "Nightmares",
+    "Ceruloderma",
+    "Xanthopsia",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "Insomnia, nightmares and depression are listed under brain side effects. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-082",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "β blockers are contraindicated in bronchial asthma/COPD because they can cause:",
+   "opts": [
+    "Bronchoconstriction",
+    "Bronchodilation",
+    "Aqueous humour excess",
+    "Thyroid storm"
+   ],
+   "ans": 0,
+   "exp": "The bronchoconstriction side-effect box lists asthma/COPD as contraindications. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-083",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "If a β blocker is unavoidable in asthma/COPD, the preferred type is:",
+   "opts": [
+    "Cardioselective more than nonselective",
+    "Nonselective more than cardioselective",
+    "Pure β2 blockade only",
+    "Partial agonist always"
+   ],
+   "ans": 0,
+   "exp": "The bronchoconstriction section says preferred drugs: cardioselective > non-selective. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-084",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "β blockers mask which hypoglycemia warning symptoms?",
+   "opts": [
+    "Palpitations and tremors",
+    "Sweating only",
+    "Xanthopsia and halos",
+    "Nausea and vomiting"
+   ],
+   "ans": 0,
+   "exp": "The hypoglycemia section says block symptoms: palpitations/tremors. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-085",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Which hypoglycemia symptom is not blocked by β blockers?",
+   "opts": [
+    "Sweating",
+    "Palpitations",
+    "Tremors",
+    "Anxiety tremor"
+   ],
+   "ans": 0,
+   "exp": "The page explicitly says sweating is not blocked. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-086",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Sweating in the hypoglycemia note is blocked by:",
+   "opts": [
+    "Parasympatholytics",
+    "β blockers",
+    "Digibind",
+    "PDE5 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The note says sweating is mediated by sympathetic system but blocked by parasympatholytics. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-087",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "β blockers should be avoided in athletes mainly because β2 block causes:",
+   "opts": [
+    "Exercise intolerance",
+    "Floppy iris",
+    "Torsades only",
+    "Priapism"
+   ],
+   "ans": 0,
+   "exp": "The exercise intolerance item says avoid in athletes: β2 block. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-088",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Exercise intolerance with β2 blockade is linked to:",
+   "opts": [
+    "Decreased skeletal muscle contraction and decreased blood glucose",
+    "Increased skeletal muscle contraction and hyperglycemia",
+    "Miosis and lacrimation",
+    "Renin excess and hypertension"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows β2 block → ↓ skeletal muscle contraction and ↓ blood glucose. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-089",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Which sexual adverse effect is listed for β blockers?",
+   "opts": [
+    "Erectile dysfunction",
+    "Priapism",
+    "Retrograde ejaculation only",
+    "Gynecomastia only"
+   ],
+   "ans": 0,
+   "exp": "Erectile dysfunction is side-effect number 5. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-090",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "β blockers can therapeutically decrease:",
+   "opts": [
+    "Tremors and anxiety",
+    "Aqueous outflow and GFR",
+    "LDL and uric acid always",
+    "AV conduction only in WPW"
+   ],
+   "ans": 0,
+   "exp": "The list includes ↓ tremors and ↓ anxiety. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-091",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "A gastrointestinal side effect listed for β blockers is:",
+   "opts": [
+    "Nausea/vomiting",
+    "Diarrhea as most common",
+    "Esophageal spasm",
+    "GI relaxation only"
+   ],
+   "ans": 0,
+   "exp": "Nausea/vomiting appears as side effect number 9. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-092",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "Ocularly, β blockers decrease aqueous production and thereby decrease:",
+   "opts": [
+    "Intraocular pressure",
+    "Blood glucose",
+    "Renal perfusion",
+    "Atrial rate"
+   ],
+   "ans": 0,
+   "exp": "The eye item says ↓ aqueous production → ↓ IOP. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-093",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "β blockers can increase potassium because β block decreases activation of:",
+   "opts": [
+    "Na+-K+ ATPase",
+    "Adenylate cyclase by glucagon",
+    "Aldehyde dehydrogenase",
+    "Neprilysin"
+   ],
+   "ans": 0,
+   "exp": "The potassium item says β block → ↓ activation of Na+-K+ ATPase → hyperkalemia. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-094",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "page": 66,
+   "q": "The electrolyte abnormality from reduced Na+-K+ ATPase activation by β blockers is:",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypercalcemia",
+    "Hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line ends in hyperkalemia. (Book p66)"
+  },
+  {
+   "id": "PHARM-C18-095",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "In the heart, β blockers decrease:",
+   "opts": [
+    "Contraction, heart rate and conduction",
+    "Contractility, renin and aldosterone only",
+    "AV block only without HR effect",
+    "Only preload and afterload"
+   ],
+   "ans": 0,
+   "exp": "The heart side-effect bracket lists ↓ contraction, ↓ heart rate and ↓ conduction. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-096",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "In the kidney, β blockade of JG cells decreases:",
+   "opts": [
+    "Renin release",
+    "Aldosterone breakdown",
+    "GFR by afferent constriction only",
+    "Neprilysin activity"
+   ],
+   "ans": 0,
+   "exp": "The kidney line says β block in JG cells → ↓ renin release. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-097",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Reduced renin release from JG cells leads to:",
+   "opts": [
+    "Lower blood pressure",
+    "Higher blood pressure",
+    "More aqueous humour",
+    "More digoxin binding"
+   ],
+   "ans": 0,
+   "exp": "The flow ends with ↓ blood pressure. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-098",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Nonselective β blockers affect LDL/triglycerides by causing:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Immediate disappearance"
+   ],
+   "ans": 0,
+   "exp": "In the lipid table, nonselective β blockers increase LDL/triglycerides. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-099",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Nonselective β blockers affect HDL by causing:",
+   "opts": [
+    "Decrease",
+    "Increase",
+    "No change",
+    "Marked rise only"
+   ],
+   "ans": 0,
+   "exp": "The lipid table shows nonselective β blockers decrease HDL. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-100",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Cardioselective β blockers affect LDL/triglycerides by causing:",
+   "opts": [
+    "Decrease",
+    "Increase",
+    "No change",
+    "Only triglyceride rise"
+   ],
+   "ans": 0,
+   "exp": "In the lipid table, cardioselective β blockers decrease LDL/triglycerides. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-101",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Cardioselective β blockers affect HDL by causing:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "No change",
+    "Complete block"
+   ],
+   "ans": 0,
+   "exp": "The cardioselective column shows HDL increases. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-102",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "First- and second-generation β blockers affect insulin resistance/glucose by:",
+   "opts": [
+    "Increasing insulin resistance",
+    "Decreasing insulin resistance",
+    "Having no glucose effect",
+    "Only causing xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The insulin resistance/glucose section says 1st/2nd generation: increased. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-103",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Third-generation β blockers affect insulin resistance/glucose by:",
+   "opts": [
+    "Decreasing insulin resistance",
+    "Increasing insulin resistance",
+    "Causing absolute insulin deficiency",
+    "Blocking glucose absorption"
+   ],
+   "ans": 0,
+   "exp": "The same section says 3rd generation: decreased. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-104",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Sympathetic drugs used in glaucoma decrease:",
+   "opts": [
+    "Aqueous humour production",
+    "Uveoscleral outflow always",
+    "Renin release only",
+    "AV nodal conduction only"
+   ],
+   "ans": 0,
+   "exp": "The glaucoma note says sympathetic drugs used in glaucoma: ↓ aqueous humour production. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-105",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Which sympathetic drugs for glaucoma are listed as α2 agonists?",
+   "opts": [
+    "Apraclonidine and brimonidine",
+    "Epinephrine and dipivefrine",
+    "Timolol and betaxolol",
+    "Prazosin and doxazosin"
+   ],
+   "ans": 0,
+   "exp": "The note lists α2 agonists: apraclonidine/brimonidine. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-106",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "In the glaucoma note, α2 agonists additionally increase:",
+   "opts": [
+    "Uveoscleral outflow",
+    "LDL",
+    "Renin",
+    "AV conduction"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside α2 agonists points to ↑ uveoscleral outflow. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-107",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "page": 67,
+   "q": "Which β-blocker group is also listed among sympathetic drugs for glaucoma?",
+   "opts": [
+    "β blockers",
+    "β3 agonists",
+    "β2 relievers",
+    "β blockers with partial agonism only"
+   ],
+   "ans": 0,
+   "exp": "The glaucoma list includes β blockers. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-108",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "For uncomplicated hypertension, β blockers are generally:",
+   "opts": [
+    "Second-line treatment",
+    "The only first-line treatment",
+    "Contraindicated in all cases",
+    "Used only topically"
+   ],
+   "ans": 0,
+   "exp": "The hypertension section says 2nd line Rx. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-109",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "β blockers lower blood pressure particularly when hypertension is associated with:",
+   "opts": [
+    "High renin levels",
+    "Normal renin and normal BP",
+    "Low renin only",
+    "Absent JG cells"
+   ],
+   "ans": 0,
+   "exp": "The hypertension note says high renin levels: ↓ blood pressure. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-110",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "In normal blood pressure with normal renin, β blockers have:",
+   "opts": [
+    "No effect",
+    "Severe hypotension always",
+    "Maximum diuresis",
+    "Immediate renal failure"
+   ],
+   "ans": 0,
+   "exp": "The note says normal blood pressure and renin: no effect. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-111",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "The mnemonic for DOC indications of β blockers is:",
+   "opts": [
+    "HEMA BETA",
+    "BANANAS Chips",
+    "Cause Partial Agonism",
+    "DIGOXIN"
+   ],
+   "ans": 0,
+   "exp": "Under DOC, the mnemonic HEMA BETA is written. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-112",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "Hypertension with which comorbidity is listed under HEMA BETA?",
+   "opts": [
+    "Anxiety",
+    "BPH",
+    "Atrial flutter only",
+    "Scorpion bite only"
+   ],
+   "ans": 0,
+   "exp": "The hypertension-with list includes anxiety, migraine, tremors and hyperthyroidism. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-113",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "In HOCM, β blockers help by decreasing cardiac contraction and therefore decreasing:",
+   "opts": [
+    "Left ventricular outflow tract obstruction",
+    "Aqueous humour production",
+    "Accessory-pathway conduction",
+    "Corneal deposits"
+   ],
+   "ans": 0,
+   "exp": "The HOCM MOA says ↓ contraction of heart → ↓ LV outflow tract obstruction. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-114",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "The medical first drug listed for HOCM is:",
+   "opts": [
+    "Metoprolol",
+    "Digoxin",
+    "Adenosine",
+    "Sildenafil"
+   ],
+   "ans": 0,
+   "exp": "The HOCM Rx line begins medical: metoprolol. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-115",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "If metoprolol fails in HOCM, the next listed drug class is:",
+   "opts": [
+    "Verapamil or diltiazem",
+    "Digoxin or dobutamine",
+    "Prazosin or doxazosin",
+    "Adenosine or MgSO4"
+   ],
+   "ans": 0,
+   "exp": "The flow says no response → calcium channel blockers (verapamil/diltiazem). (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-116",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "If calcium channel blockers fail in HOCM, the next drug named is:",
+   "opts": [
+    "Ranolazine",
+    "Nesiritide",
+    "Yohimbine",
+    "Ibutilide"
+   ],
+   "ans": 0,
+   "exp": "The HOCM flow proceeds to ranolazine after no response. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-117",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "The surgical treatment listed for HOCM is:",
+   "opts": [
+    "Septal resection",
+    "Renal angiography",
+    "Tumour resection",
+    "Defibrillation"
+   ],
+   "ans": 0,
+   "exp": "The HOCM treatment line says surgical: septal resection. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-118",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "Digoxin is contraindicated in HOCM because it:",
+   "opts": [
+    "Increases force of contraction and worsens HOCM",
+    "Blocks AV node too weakly",
+    "Decreases intracellular calcium",
+    "Causes bronchodilation"
+   ],
+   "ans": 0,
+   "exp": "The page notes digoxin ↑ force of contraction → worsen HOCM. (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-119",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 67,
+   "q": "The most common β blocker for essential tremor and migraine prophylaxis in the note is:",
+   "opts": [
+    "Propranolol",
+    "Betaxolol",
+    "Silodosin",
+    "Adenosine"
+   ],
+   "ans": 0,
+   "exp": "Essential tremor and migraine prophylaxis are bracketed to propranolol (m/c). (Book p67)"
+  },
+  {
+   "id": "PHARM-C18-120",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "In aortic dissection, β blockers reduce BP to lower the risk of:",
+   "opts": [
+    "Aneurysmal rupture",
+    "Renal calculi",
+    "Corneal deposits",
+    "Nitrate tolerance"
+   ],
+   "ans": 0,
+   "exp": "The advantage line says ↓ BP → ↓ risk of aneurysmal rupture. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-121",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "The treatment listed for aortic dissection is:",
+   "opts": [
+    "Esmolol ± nitroprusside",
+    "Adenosine alone",
+    "Digoxin plus flecainide",
+    "Tamsulosin plus silodosin"
+   ],
+   "ans": 0,
+   "exp": "The aortic dissection Rx line says esmolol ± nitroprusside. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-122",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "Nitroprusside monotherapy is avoided in aortic dissection because it causes:",
+   "opts": [
+    "Reflex tachycardia",
+    "Floppy iris",
+    "Nystagmus",
+    "Angioedema"
+   ],
+   "ans": 0,
+   "exp": "The note after nitroprusside says monotherapy avoided → causes reflex tachycardia. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-123",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "In thyroid storm, the first drug listed is:",
+   "opts": [
+    "Propranolol",
+    "Diltiazem",
+    "Verapamil",
+    "Betaxolol"
+   ],
+   "ans": 0,
+   "exp": "Under hyperthyroidism/thyroid storm, Rx: 1st drug propranolol. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-124",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "In thyroid storm with bronchial asthma, the alternatives listed are:",
+   "opts": [
+    "Diltiazem or verapamil",
+    "Timolol or propranolol",
+    "Nadolol or pindolol",
+    "Tamsulosin or silodosin"
+   ],
+   "ans": 0,
+   "exp": "The page says diltiazem/verapamil in bronchial asthma. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-125",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "The thyroid-storm mechanism note says AV-node blockade inhibits conversion of atrial fibrillation to:",
+   "opts": [
+    "Ventricular fibrillation",
+    "Atrial flutter",
+    "Normal sinus rhythm always",
+    "WPW syndrome"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says block AV node → inhibits conversion of atrial fibrillation to ventricular fibrillation. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-126",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "The β blocker listed for glaucoma with nasolacrimal duct obstruction as side effect is:",
+   "opts": [
+    "Timolol",
+    "Betaxolol",
+    "Pindolol",
+    "Esmolol"
+   ],
+   "ans": 0,
+   "exp": "The glaucoma note lists timolol with side effect: nasolacrimal duct obstruction. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-127",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "The cardioselective β blocker used in glaucoma is:",
+   "opts": [
+    "Betaxolol",
+    "Timolol",
+    "Propranolol",
+    "Nadolol"
+   ],
+   "ans": 0,
+   "exp": "Betaxolol is followed by cardioselective in the glaucoma section. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-128",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "The antidote for β blocker toxicity is:",
+   "opts": [
+    "Glucagon",
+    "Digibind",
+    "Atropine",
+    "Protamine"
+   ],
+   "ans": 0,
+   "exp": "The toxicity note says antidote: glucagon. (Book p68)"
+  },
+  {
+   "id": "PHARM-C18-129",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "page": 68,
+   "q": "Glucagon treats β-blocker toxicity by stimulating adenylate cyclase and increasing:",
+   "opts": [
+    "cAMP",
+    "cGMP only",
+    "LDL",
+    "Aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The mechanism reads glucagon → stimulate adenylate cyclase → ↑ cAMP. (Book p68)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U18-1",
+   "ch": 18,
+   "n": 1,
+   "title": "Direct Sympatholytics and Nonselective α Blockers",
+   "sec": "Direct Sympatholytics and Nonselective α Blockers · p63",
+   "qs": [
+    "PHARM-C18-001",
+    "PHARM-C18-002",
+    "PHARM-C18-003",
+    "PHARM-C18-004",
+    "PHARM-C18-005",
+    "PHARM-C18-006",
+    "PHARM-C18-007",
+    "PHARM-C18-008",
+    "PHARM-C18-009",
+    "PHARM-C18-010",
+    "PHARM-C18-011",
+    "PHARM-C18-012",
+    "PHARM-C18-013",
+    "PHARM-C18-014"
+   ],
+   "guide": "Anti-adrenergic drugs in this chapter are direct-acting sympatholytics, split first into α blockers and β blockers. α blockers are either nonselective α1+α2 blockers or selective α1/α2 blockers. Tolazoline is a small-vessel dilator for peripheral vascular disease/angiography, whereas IV phentolamine is the acute DOC for catecholamine excess situations such as cheese reaction, clonidine withdrawal and intraoperative pheochromocytoma hypertension."
+  },
+  {
+   "id": "PHARM-U18-2",
+   "ch": 18,
+   "n": 2,
+   "title": "Selective α2 Blockers and α1 Receptor Sites",
+   "sec": "Selective α2 Blockers and α1 Receptor Sites · p63",
+   "qs": [
+    "PHARM-C18-015",
+    "PHARM-C18-016",
+    "PHARM-C18-017",
+    "PHARM-C18-018",
+    "PHARM-C18-019",
+    "PHARM-C18-020",
+    "PHARM-C18-021",
+    "PHARM-C18-022",
+    "PHARM-C18-023",
+    "PHARM-C18-024",
+    "PHARM-C18-025",
+    "PHARM-C18-026",
+    "PHARM-C18-027",
+    "PHARM-C18-028",
+    "PHARM-C18-029"
+   ],
+   "guide": "The α2 blockers here are yohimbine and idazoxan, with yohimbine noted as a food supplement for erectile dysfunction, neuropathic pain and postural hypotension. α1 blockers dilate vessels but their adverse effects depend on α1 subtype: α1a in prostatic urethra and iris gives ejaculation/floppy-iris problems, while α1b/d vascular blockade gives venodilation-driven first-dose postural hypotension and lowers LDL."
+  },
+  {
+   "id": "PHARM-U18-3",
+   "ch": 18,
+   "n": 3,
+   "title": "α1 Blocker Uses and Scorpion Bite",
+   "sec": "α1 Blocker Uses and Scorpion Bite · p64",
+   "qs": [
+    "PHARM-C18-030",
+    "PHARM-C18-031",
+    "PHARM-C18-032",
+    "PHARM-C18-033",
+    "PHARM-C18-034",
+    "PHARM-C18-035",
+    "PHARM-C18-036",
+    "PHARM-C18-037",
+    "PHARM-C18-038",
+    "PHARM-C18-039",
+    "PHARM-C18-040"
+   ],
+   "guide": "Mixed α1a,b,d blockers such as prazosin, terazosin and doxazosin are used for BPH with hypertension and for scorpion bite. More selective α1a blockers, tamsulosin and silodosin, are BPH drugs, with tamsulosin also blocking α1d and silodosin having maximum side effects. Scorpion toxin has sympathetic and parasympathetic limbs: prazosin treats hypertension/pulmonary edema, atropine treats bradycardia, and severe priapism can need phentolamine."
+  },
+  {
+   "id": "PHARM-U18-4",
+   "ch": 18,
+   "n": 4,
+   "title": "β Blocker Classification by Selectivity, Generation and Vasodilation",
+   "sec": "β Blocker Classification by Selectivity, Generation and Vasodilation · p65",
+   "qs": [
+    "PHARM-C18-041",
+    "PHARM-C18-042",
+    "PHARM-C18-043",
+    "PHARM-C18-044",
+    "PHARM-C18-045",
+    "PHARM-C18-046",
+    "PHARM-C18-047",
+    "PHARM-C18-048",
+    "PHARM-C18-049",
+    "PHARM-C18-050",
+    "PHARM-C18-051",
+    "PHARM-C18-052",
+    "PHARM-C18-053",
+    "PHARM-C18-054",
+    "PHARM-C18-055"
+   ],
+   "guide": "β blockers are organized by β1/β2 selectivity and by special vasodilator mechanisms. First-generation agents are nonselective, second-generation agents are β1-selective, and third-generation drugs may add vasodilation through α blockade, β2 agonism, calcium-channel block, nitric oxide or potassium-channel opening. Remember the named drugs carefully because the chapter tests exceptions such as nebivolol, carvedilol, labetalol and tilisolol."
+  },
+  {
+   "id": "PHARM-U18-5",
+   "ch": 18,
+   "n": 5,
+   "title": "Partial Agonism, Membrane Stabilisation and Water Solubility",
+   "sec": "Partial Agonism, Membrane Stabilisation and Water Solubility · p65",
+   "qs": [
+    "PHARM-C18-056",
+    "PHARM-C18-057",
+    "PHARM-C18-058",
+    "PHARM-C18-059",
+    "PHARM-C18-060",
+    "PHARM-C18-061",
+    "PHARM-C18-062",
+    "PHARM-C18-063",
+    "PHARM-C18-064",
+    "PHARM-C18-065",
+    "PHARM-C18-066",
+    "PHARM-C18-067",
+    "PHARM-C18-068",
+    "PHARM-C18-069"
+   ],
+   "guide": "Some β blockers have intrinsic sympathomimetic/partial agonist activity; the mnemonic is 'Cause Partial Agonism' and pindolol has maximum action. This lowers bradycardia but makes these agents contraindicated after myocardial infarction and in migraine. Separate special groups include Na+ channel-blocking membrane stabilizers and water-soluble drugs that do not cross the BBB but are contraindicated in renal failure."
+  },
+  {
+   "id": "PHARM-U18-6",
+   "ch": 18,
+   "n": 6,
+   "title": "β Blocker Pharmacokinetic and Antioxidant Properties",
+   "sec": "β Blocker Pharmacokinetic and Antioxidant Properties · p66",
+   "qs": [
+    "PHARM-C18-070",
+    "PHARM-C18-071",
+    "PHARM-C18-072",
+    "PHARM-C18-073",
+    "PHARM-C18-074",
+    "PHARM-C18-075",
+    "PHARM-C18-076",
+    "PHARM-C18-077",
+    "PHARM-C18-078"
+   ],
+   "guide": "The properties section gives high-yield extremes: nadolol has the longest half-life, esmolol the shortest because esterases metabolize it, carvedilol has maximum protein binding and celiprolol minimum protein binding. Esmolol is DOC intraoperatively and even for β blockade in asthmatics when necessary, while carvedilol and nebivolol are the antioxidant/cardioprotective examples."
+  },
+  {
+   "id": "PHARM-U18-7",
+   "ch": 18,
+   "n": 7,
+   "title": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise",
+   "sec": "β Blocker Adverse Effects: Brain, Bronchi, Glucose and Exercise · p66",
+   "qs": [
+    "PHARM-C18-079",
+    "PHARM-C18-080",
+    "PHARM-C18-081",
+    "PHARM-C18-082",
+    "PHARM-C18-083",
+    "PHARM-C18-084",
+    "PHARM-C18-085",
+    "PHARM-C18-086",
+    "PHARM-C18-087",
+    "PHARM-C18-088",
+    "PHARM-C18-089",
+    "PHARM-C18-090",
+    "PHARM-C18-091",
+    "PHARM-C18-092",
+    "PHARM-C18-093",
+    "PHARM-C18-094"
+   ],
+   "guide": "The side-effect mnemonic is 'BETA ONE in Heart, Kidney and metabolism.' Lipid-soluble β blockers cause central symptoms; bronchoconstriction makes asthma/COPD a contraindication; β blockade masks palpitations and tremors of hypoglycemia but not sweating; and β2 blockade causes exercise intolerance by reducing skeletal muscle contraction and blood glucose."
+  },
+  {
+   "id": "PHARM-U18-8",
+   "ch": 18,
+   "n": 8,
+   "title": "β Blocker Effects on Heart, Kidney and Metabolism",
+   "sec": "β Blocker Effects on Heart, Kidney and Metabolism · p67",
+   "qs": [
+    "PHARM-C18-095",
+    "PHARM-C18-096",
+    "PHARM-C18-097",
+    "PHARM-C18-098",
+    "PHARM-C18-099",
+    "PHARM-C18-100",
+    "PHARM-C18-101",
+    "PHARM-C18-102",
+    "PHARM-C18-103",
+    "PHARM-C18-104",
+    "PHARM-C18-105",
+    "PHARM-C18-106",
+    "PHARM-C18-107"
+   ],
+   "guide": "At the organ level β blockers reduce contraction, heart rate, conduction and renin release. Their metabolic effects differ by generation/selectivity: nonselective agents worsen the lipid profile, cardioselective agents improve it in the table, and first/second generations increase insulin resistance while third-generation agents decrease it."
+  },
+  {
+   "id": "PHARM-U18-9",
+   "ch": 18,
+   "n": 9,
+   "title": "Clinical Uses of β Blockers and Toxicity Antidote",
+   "sec": "Clinical Uses of β Blockers and Toxicity Antidote · p67",
+   "qs": [
+    "PHARM-C18-108",
+    "PHARM-C18-109",
+    "PHARM-C18-110",
+    "PHARM-C18-111",
+    "PHARM-C18-112",
+    "PHARM-C18-113",
+    "PHARM-C18-114",
+    "PHARM-C18-115",
+    "PHARM-C18-116",
+    "PHARM-C18-117",
+    "PHARM-C18-118",
+    "PHARM-C18-119",
+    "PHARM-C18-120",
+    "PHARM-C18-121",
+    "PHARM-C18-122",
+    "PHARM-C18-123",
+    "PHARM-C18-124",
+    "PHARM-C18-125",
+    "PHARM-C18-126",
+    "PHARM-C18-127",
+    "PHARM-C18-128",
+    "PHARM-C18-129"
+   ],
+   "guide": "β blockers are second-line antihypertensives overall, especially useful when renin is high or hypertension coexists with anxiety, migraine, tremor or hyperthyroidism. They are DOC in HOCM because lowering contraction reduces LV outflow obstruction, and they are used in aortic dissection, thyroid storm and glaucoma. Toxicity is treated with glucagon, which bypasses β blockade by stimulating adenylate cyclase and raising cAMP."
+  }
+ ]
+}

@@ -34,9 +34,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 9: 25-28 DONE (99 qs, 7 units) | 10: 29-32 DONE (91 qs, 9 units) |
 11: 33-36 DONE (86 qs, 7 units) |
 ### Autonomic Nervous System
-12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
+12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 DONE (126 qs, 7 units) | 14: 48-51 DONE (99 qs, 5 units) | 15: 52-55 DONE (99 qs, 4 units) | 16: 56-57 DONE (86 qs, 6 units) | 17: 58-62 DONE (127 qs, 6 units) | 18: 63-68 DONE (129 qs, 9 units)
 ### Cardiovascular System
-19: 69-73 | 20: 74-76 | 21: 77-82 | 22: 83-88 | 23: 89-90 | 24: 91-93 | 25: 94-100
+19: 69-73 DONE (112 qs, 7 units) | 20: 74-76 DONE (75 qs, 6 units) | 21: 77-82 DONE (130 qs, 8 units) |
+22: 83-88 DONE (136 qs, 7 units) | 23: 89-90 | 24: 91-93 | 25: 94-100
 ### Renal System
 26: 101-105 | 27: 106-112
 ### Central and Peripheral Nervous System
@@ -78,7 +79,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status  (last updated: 2026-09-14, session 4)
+## Status  (last updated: 2026-09-14, session 6)
 - DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
 - DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
 - DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
@@ -157,12 +158,62 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   Nm toxicity and the respiratory failure flow with botulinum uses incl. CGRP; nicotinic Nm/Nn table;
   all muscarinic m1-m5 rows incl. eNOS vasodilation; Alzheimer's tacilifensin; cholinergic vs
   anticholinergic poisoning table with atropine/physostigmine).
-- **TOTAL LIVE NOW: 999 questions, 105 units, chapters 1-12.** General Pharmacology is COMPLETE.
+- DONE (session 5): **ch13 "Cholinergic Drugs"** (p42-47) - 126 qs, 7 units
+  (parasympathomimetic direct/indirect classification; amides vs choline esters; pilocarpine/cevimeline
+  xerostomia and glaucoma details; ACh plasma metabolism and shortest-acting notes; bethanechol/carbachol/
+  methacholine table; organophosphate mechanism, ageing and oximes; OP poisoning presentation and atropinisation
+  markers; reversible blockers incl. physostigmine/Alzheimer drugs; edrophonium/neostigmine/pyridostigmine,
+  myasthenia crisis/new MG drugs; ACh blood-pressure response graphs with atropine/high-dose ACh).
+- DONE (session 5): **ch14 "Anticholinergic Drugs"** (p48-51) - 99 qs, 5 units
+  (parasympatholytic classification; Nm vs Nn/ganglionic blockers; mecamylamine/trimethaphan; CNS/eye/oropharynx
+  muscarinic blockers incl. scopolamine, tropicamide/cyclopentolate/homatropine, atropine ointment and glaucoma
+  contraindication notes; SAMA/IAMA/LAMA pulmonary table, pMDI/nebuliser and paradoxical bronchoconstriction;
+  atropine for conduction blocks/bradycardia and paradoxical bradycardia; GIT antispasmodics/hyoscine patch;
+  bladder antimuscarinics including darifenacin/solifenacin/trospium and dementia risk from nonselective drugs).
+- DONE (session 5): **ch15 "Sympathetic Nervous System: Neurotransmitters and Receptors"** (p52-55) - 99 qs, 4 units
+  (NE synthesis with tyrosine hydroxylase, VMAT2, MAO/COMT and reuptake inhibitors; metyrosine, reserpine,
+  tetrabenazine/deutetrabenazine/valbenazine and cocaine dependence; α1 vs α2 receptor table; clonidine infusion
+  nuance; catecholamine effects on blood glucose; β1 heart/kidney effects, β2 smooth-muscle/metabolic/K+ effects,
+  and β3 bladder/adipocyte effects).
+- DONE (session 5): **ch16 "Adrenergic Drugs: Part 1"** (p56-57) - 86 qs, 6 units
+  (adrenergic/sympathomimetic classification; endogenous catecholamines epinephrine, norepinephrine and dopamine
+  with routes/doses/shock notes; dobutamine/isoprenaline/fenoldopam/dopexamine/droxidopa; α1 agonists including
+  phenylephrine, oxymetazoline/xylometazoline, midodrine and hypotension drugs; apraclonidine; α2 agonists
+  clonidine/lofexidine/tizanidine/α-methyldopa/guanfacine/guanabenz/brimonidine and PIH note).
+- DONE (session 5): **ch17 "Adrenergic Drugs: Part 2"** (p58-62) - 127 qs, 6 units
+  (β3 agonists mirabegron/vibegron and urge incontinence; β2 agonist SABA/LABA/VLABA table with asthma/COPD
+  regimens and side effects; indirect adrenergics/NE displacers, tachyphylaxis-like NE depletion, cheese reaction,
+  methylphenidate/amphetamine/methamphetamine; ADHD/narcolepsy notes with atomoxetine/viloxazine, solriamfetol,
+  pitolisant and modafinil; mixed acting ephedrine/pseudoephedrine/norephedrine; epinephrine dilutions; Dale's
+  phenomenon and epinephrine/norepinephrine/isoprenaline BP-HR comparison table with shock/vagal notes).
+- DONE (session 6): **ch18 "Anti-adrenergic Drugs"** (p63-68) - 129 qs, 9 units
+  (direct sympatholytics, nonselective and selective α blockers, phenoxybenzamine/phentolamine/tamsulosin/prazosin,
+  α1 receptor locations and clinical uses, scorpion bite prazosin note, β blocker classification by selectivity,
+  generations, vasodilation, ISA, membrane stabilisation, water solubility, pharmacokinetic/antioxidant properties,
+  β blocker adverse effects across brain/bronchi/glucose/exercise/heart/kidney/metabolism, clinical uses and toxicity antidote).
+- DONE (session 6): **ch19 "Antiarrhythmic Drugs: Part 1"** (p69-73) - 112 qs, 7 units
+  (cardiac action potentials, Vaughan Williams classification, SVT/PSVT mechanisms and AV nodal drug preference,
+  atrial flutter/fibrillation and ventricular arrhythmia strategy, class I Na+ channel blockers, quinidine/procainamide/
+  disopyramide toxicities and uses, lidocaine/mexiletine/phenytoin, class Ic drugs and WPW syndrome).
+- DONE (session 6): **ch20 "Antiarrhythmic Drugs: Part 2"** (p74-76) - 75 qs, 6 units
+  (class II/III/IV/V map, β blockers and calcium channel blockers in arrhythmias, class III K+ channel blockers,
+  amiodarone spectrum and organ toxicities, dronedarone, adenosine MOA/route/dosing/uses/adverse effects,
+  digoxin rhythm indications and magnesium sulfate in torsades).
+- DONE (session 6): **ch21 "Drugs Used in CHF"** (p77-82) - 130 qs, 8 units
+  (acute CHF pathophysiology and IV management, inotropes and pulmonary edema drugs, chronic CHF compensation,
+  mortality-reducing oral classes, newly diagnosed CHF approach, neprilysin and soluble guanylate cyclase drugs,
+  digoxin pharmacokinetics, therapeutic levels, Na+/K+ ATPase mechanism, arrhythmia logic, toxicity treatment,
+  organ effects, adverse effects, contraindications and DIGOXIN summary).
+- DONE (session 6): **ch22 "Vasodilators"** (p83-88) - 136 qs, 7 units
+  (vasodilator classification, calcium channel blocker comparison/adverse effects/uses, hydralazine, minoxidil,
+  diazoxide and fenoldopam, nitroglycerin mechanism/uses/tolerance/contraindications, isosorbide nitrates,
+  sodium nitroprusside, RAAS physiology, ACE inhibition, contraindications, ACE inhibitors, ARBs, aliskiren and captopril test).
+- **TOTAL LIVE NOW: 2118 questions, 170 units, chapters 1-22.** General Pharmacology and Autonomic Nervous System are COMPLETE; Cardiovascular System chapters 19-22 are live.
 - SESSION 4 NOTES: work/fixranges.py (auto-syncs unit [a,b] ranges from the q() order) and
   work/fixexp.py (forces exp to end "(Book p<page>)") were added to make the per-chapter pipeline
   less error-prone; run both before work/validate.py.
-- NEXT: **ch13 "Cholinergic Drugs"** (book p42-47 = pdf p47-52), then ch14 (48-51) ...
-  (Autonomic Nervous System section, ch12-18).
+- NEXT: **ch23 "Antihypertensive Drugs"** (book p89-90 = pdf p94-95), then ch24 (91-93) ...
+  (Continue Cardiovascular System).
 
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
