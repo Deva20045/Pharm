@@ -30,9 +30,11 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 ### General Pharmacology
 1: p1 DONE (22 qs, 3 units) | 2: 2-4 DONE (85 qs, 9 units) | 3: 5-8 DONE (93 qs, 11 units) |
 4: 9-10 DONE (78 qs, 10 units) | 5: 11-14 DONE (80 qs, 11 units) | 6: 15-17 DONE (69 qs, 11 units) |
-7: 18-19 DONE (60 qs, 6 units) | 8: 20-24 NEXT | 9: 25-28 | 10: 29-32 | 11: 33-36 |
+7: 18-19 DONE (60 qs, 6 units) | 8: 20-24 DONE (137 qs, 12 units) |
+9: 25-28 DONE (99 qs, 7 units) | 10: 29-32 DONE (91 qs, 9 units) |
+11: 33-36 DONE (86 qs, 7 units) |
 ### Autonomic Nervous System
-12: 37-41 | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
+12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
 ### Cardiovascular System
 19: 69-73 | 20: 74-76 | 21: 77-82 | 22: 83-88 | 23: 89-90 | 24: 91-93 | 25: 94-100
 ### Renal System
@@ -76,7 +78,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status  (last updated: 2026-09-14, session 3)
+## Status  (last updated: 2026-09-14, session 4)
 - DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
 - DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
 - DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
@@ -107,7 +109,6 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   efficacy B>A>C and potency PA>PB>PC, affinity only between parallel lines, full/partial/
   antagonist/inverse agonist + intrinsic efficacy +1 / 1-0 / 0 / -1, curve A/B/C/D, note that
   antagonists are m/c used).
-- **TOTAL LIVE NOW: 487 questions, 61 units, chapters 1-7.**
 - SESSION 3 NOTES (merge of the two parallel workstreams + verified corrections):
   * A failed earlier session of this same branch had already pushed ch2-ch6; those files were
     kept as the base (they carry more questions), and this session's audited additions were
@@ -120,8 +121,49 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
     criterion is **±20%** (not "±30%").
   * work/build.py added for deterministic rebuilds; run it instead of merge.py whenever a chapter
     that is already embedded has changed.
-- NEXT: **ch8 "Pharmacodynamics: Drug Receptors and Interactions"** (book p20-24 = pdf p25-29),
-  then ch9 (25-28), ch10 (29-32), ch11 (33-36) -> General Pharmacology complete.
+- DONE (session 4, this session): **ch8 "Pharmacodynamics: Drug Receptors and Interactions"**
+  (p20-24) - 137 qs, 12 units (physical/chemical/physiological antagonism + charcoal, heparin-protamine,
+  chelators, salbutamol vs ipratropium in COPD; the full reversible-vs-irreversible/non-competitive
+  antagonism table with Vmax/Km/potency rows; Michaelis-Menten note; LGICR + GABA-A chloride channel,
+  glutamate NMDA/AMPA/kainate, nicotinic pentamer alpha,alpha,beta,delta,epsilon and Ach on alpha;
+  enzymatic receptors incl. TK/JAK/STKR/guanylate cyclase; nuclear receptors nucleus vs cytoplasm;
+  GPCR 7TM alpha-subunit GTPase and s/q/i subtypes; then the Gs, Gq, Gi/Go and G12/13 cascades with
+  ritodrine, dobutamine, salbutamol, theophylline (PDE 3,4 bronchi), milrinone (PDE 3 heart), oxytocin/
+  angiotensin/vasopressin-1 receptors, M2/alpha2/H3/5HT1 autoreceptors and belumosudil/fasudil/netarsudil).
+- DONE (session 4): **ch9 "Drug Development and Clinical Trials"** (p25-28) - 99 qs, 7 units
+  (schedules G/H/H1/X/P/W/Y with Rx/NRx/XRx labels; pregnancy categories A-D-X with valproate in JME
+  and thalidomide; nine types of drugs incl. STEP and orphan receptor; preclinical trials with AEC and
+  CPCSEA; phase 0 microdosing and abort rule; the mandatory phases table in full - aims, subjects,
+  sample size, duration, study design, centres and failure rate; IND/NDA/CDSCO approval; phase V
+  pharmacoepidemiology with case control/cohort studies).
+- DONE (session 4): **ch10 "ADR and Pharmacovigilance, Pharmacogenetics and Pharmacogenomics"**
+  (p29-32) - 91 qs, 9 units (ABCDEFG ADR types; 4 hypersensitivity types with the lepra reaction note;
+  PvPI/NCC Ghaziabad/VigiFlow/CDSCO/Uppsala/Vigibase; TDM principle, 5 indications, valproate-folic acid
+  dosing, steady state rule; pharmacogenetics vs genomics; NAT1/NAT2 with INH hepatotoxicity vs INHA
+  neuropathy; malignant hyperthermia RyR cascade and dantrolene; G-6-PD haemolysis drug list;
+  CYP2C19-clopidogrel, CYP2C9+VKORC1-warfarin, CYP2D6-psychiatric drugs/tamoxifen; atypical
+  pseudocholinesterase and TPMT).
+- DONE (session 4): **ch11 "General Pharmacology: Miscellaneous"** (p33-36) - 86 qs, 7 units
+  (definitions incl. pharmacognosy/chemotherapy/pharmacy/barcoding; four drug sources with apomorphine
+  and human insulin; nomenclature with -lol/-pril/-prazole and IP vs formulary; local and topical sites;
+  intrathecal/intraarticular/intraarterial routes; full enteral table oral/rectal/sublingual with
+  first-pass figures and NTG postural hypotension; full parenteral table IV/IM/SC/intranasal/
+  inhalational with Afrezza and tobramycin).
+- DONE (session 4): **ch12 "Introduction to Autonomic Nervous System (ANS)"** (p37-41) - 99 qs, 9 units
+  (cranio-sacral vs thoraco-lumbar, ganglion = collection of neuronal bodies; synaptic transmission with
+  voltage gated Ca2+ and Na+ influx; parasympathetic vs sympathetic innervation table incl. dopamine
+  D1 diuresis, Ach at adrenals/sweat glands and the m3/sympatholytic sweating note; ACh synthesis-storage
+  -release-metabolism with beta-bungarotoxin, botulinum, aminoglycosides, AChE esteratic + anionic sites;
+  Nm toxicity and the respiratory failure flow with botulinum uses incl. CGRP; nicotinic Nm/Nn table;
+  all muscarinic m1-m5 rows incl. eNOS vasodilation; Alzheimer's tacilifensin; cholinergic vs
+  anticholinergic poisoning table with atropine/physostigmine).
+- **TOTAL LIVE NOW: 999 questions, 105 units, chapters 1-12.** General Pharmacology is COMPLETE.
+- SESSION 4 NOTES: work/fixranges.py (auto-syncs unit [a,b] ranges from the q() order) and
+  work/fixexp.py (forces exp to end "(Book p<page>)") were added to make the per-chapter pipeline
+  less error-prone; run both before work/validate.py.
+- NEXT: **ch13 "Cholinergic Drugs"** (book p42-47 = pdf p47-52), then ch14 (48-51) ...
+  (Autonomic Nervous System section, ch12-18).
+
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).

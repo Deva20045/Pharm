@@ -1,0 +1,1581 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C12-001",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "The two components of the autonomic nervous system are:",
+   "opts": [
+    "Parasympathetic and sympathetic",
+    "Somatic and autonomic",
+    "Cranial and spinal",
+    "Sympathetic and enteric"
+   ],
+   "ans": 0,
+   "exp": "The components chart divides the ANS into parasympathetic and sympathetic. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-002",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "The ANS is located in the:",
+   "opts": [
+    "Neuraxis (brain + spinal cord)",
+    "Peripheral nerves only",
+    "Adrenal medulla only",
+    "Enteric plexuses"
+   ],
+   "ans": 0,
+   "exp": "Under anatomy, the location is given as 'Neuraxis (Brain + spinal cord)'. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-003",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "The cranial part of the parasympathetic outflow consists of which cranial nerves?",
+   "opts": [
+    "III, VII, IX and X",
+    "III, V, VII and IX",
+    "I, II, VIII and X",
+    "V, VII, IX and XII"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the cranial part with nerves III, VII, IX and X arising from the brain stem. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-004",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "The parasympathetic system is also called the:",
+   "opts": [
+    "Cranio-sacral part",
+    "Thoraco-lumbar part",
+    "Cervical part",
+    "Lumbo-sacral plexus"
+   ],
+   "ans": 0,
+   "exp": "The label on the left of the diagram reads 'Cranio-sacral part of Parasympathetic System'. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-005",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "The sympathetic system corresponds to the:",
+   "opts": [
+    "Thoraco-lumbar part",
+    "Cranio-sacral part",
+    "Cervical part only",
+    "Sacral part only"
+   ],
+   "ans": 0,
+   "exp": "The bracket in the middle of the cord is labelled 'Thoraco-lumbar part of Sympathetic System'. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-006",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "A ganglion is defined in the diagram as a:",
+   "opts": [
+    "Collection of neuronal bodies",
+    "Bundle of axons",
+    "Synapse between two muscles",
+    "Collection of glial cells"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the ganglion as '(Collection of neuronal body)'. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-007",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "In the two-neuron ANS pathway shown, the impulse passes:",
+   "opts": [
+    "From the 1st neuron to the ganglion and then the 2nd neuron to the organ",
+    "Directly from the CNS to the organ",
+    "From the organ to the CNS",
+    "From the ganglion back to the CNS"
+   ],
+   "ans": 0,
+   "exp": "The diagram traces action potential → 1st neuron → ganglion → 2nd neuron → pupil/CVS. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-008",
+   "sec": "Introduction to ANS: Components and Anatomy",
+   "page": 37,
+   "q": "Which organs are shown being supplied by the sympathetic second neuron?",
+   "opts": [
+    "Blood vessels and heart (CVS)",
+    "Pupil only",
+    "Salivary glands",
+    "Bronchi"
+   ],
+   "ans": 0,
+   "exp": "The lower limb of the diagram ends at 'CVS → Blood vessel, Heart'. (Book p37)"
+  },
+  {
+   "id": "PHARM-C12-009",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "The action potential depolarises the presynaptic neuron, which opens:",
+   "opts": [
+    "Voltage gated Ca2+ channels",
+    "Voltage gated Na+ channels",
+    "Ligand gated K+ channels",
+    "Chloride channels"
+   ],
+   "ans": 0,
+   "exp": "The synapse diagram labels 'Opening of voltage gated Ca2+ channel' at the presynaptic terminal. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-010",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "Ca2+ influx into the presynaptic neuron causes:",
+   "opts": [
+    "Fusion of vesicular membrane and presynaptic membrane with exocytosis of NT",
+    "Opening of Na+ channels directly",
+    "Reuptake of neurotransmitter",
+    "Blockade of the receptor"
+   ],
+   "ans": 0,
+   "exp": "The second half of the figure is labelled 'Fusion of vesicular membrane and presynaptic membrane' with 'Exocytosis of NT + Bind to Receptor'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-011",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "The neurotransmitter released at the ganglion binds to:",
+   "opts": [
+    "The receptor on the post synaptic neuron",
+    "The vesicle",
+    "Ca2+ channels",
+    "The presynaptic membrane"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows exocytosis of NT and its binding to the 'Receptor' on the post-synaptic (ganglion) cell. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-012",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "Binding of the neurotransmitter opens which channel on the post synaptic neuron?",
+   "opts": [
+    "Na+ channel",
+    "K+ channel",
+    "Cl- channel",
+    "Ca2+ channel"
+   ],
+   "ans": 0,
+   "exp": "The figure is labelled 'Opening of Na+ channel + Influx'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-013",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "Influx of Na+ into the post synaptic neuron produces:",
+   "opts": [
+    "Depolarisation of the post synaptic neuron (action potential)",
+    "Hyperpolarisation of the post synaptic neuron",
+    "Release of more vesicles",
+    "Blockade of the receptor"
+   ],
+   "ans": 0,
+   "exp": "The last step of the figure reads 'Depolarisation of post synaptic neuron (Action potential)'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-014",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "page": 38,
+   "q": "Neurotransmitter in the presynaptic neuron is stored in:",
+   "opts": [
+    "Vesicles",
+    "The nucleus",
+    "Mitochondria",
+    "The synaptic cleft"
+   ],
+   "ans": 0,
+   "exp": "The presynaptic terminal is drawn with a 'Vesicle' containing neurotransmitter (NT). (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-015",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The location of the parasympathetic outflow is:",
+   "opts": [
+    "Cranio-sacral",
+    "Thoraco-lumbar",
+    "Cervical only",
+    "Sacral only"
+   ],
+   "ans": 0,
+   "exp": "The location row gives cranio-sacral for parasympathetic and thoraco-lumbar for sympathetic. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-016",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The sympathetic ganglia are located:",
+   "opts": [
+    "Away from the site of action (pre/para vertebral)",
+    "Near the site of action",
+    "Inside the target organ",
+    "In the brain stem"
+   ],
+   "ans": 0,
+   "exp": "The ganglion row gives parasympathetic = near site of action and sympathetic = away from site of action (pre/para vertebral). (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-017",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Parasympathetic ganglia are located:",
+   "opts": [
+    "Near the site of action",
+    "Away from the site of action",
+    "In the spinal cord",
+    "In the adrenal medulla"
+   ],
+   "ans": 0,
+   "exp": "The ganglion row for parasympathetic reads 'Near site of action'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-018",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The ganglionic receptor of both divisions is:",
+   "opts": [
+    "Nicotinic (Nn) - a sodium ion channel",
+    "Muscarinic - a GPCR",
+    "α/β adrenergic",
+    "Nicotinic muscular (Nm)"
+   ],
+   "ans": 0,
+   "exp": "The ganglionic receptor row spans both columns and reads 'Nicotinic (Nn) : Sodium ion channel'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-019",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The post-ganglionic receptor of the parasympathetic system is:",
+   "opts": [
+    "Muscarinic / Nicotinic",
+    "α/β",
+    "Nn only",
+    "Nm only"
+   ],
+   "ans": 0,
+   "exp": "The post ganglionic receptor row gives muscarinic/nicotinic for parasympathetic and α/β for sympathetic. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-020",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The post-ganglionic receptor of the sympathetic system is:",
+   "opts": [
+    "α/β",
+    "Muscarinic",
+    "Nicotinic (Nn)",
+    "Nm"
+   ],
+   "ans": 0,
+   "exp": "The sympathetic post ganglionic receptor is α/β. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-021",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The neurotransmitter of the entire parasympathetic system is:",
+   "opts": [
+    "Acetyl choline (Ach)",
+    "Norepinephrine (NE)",
+    "Dopamine",
+    "Epinephrine"
+   ],
+   "ans": 0,
+   "exp": "The neurotransmitter row gives 'Acetyl choline (Ach)' for the parasympathetic column. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-022",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The pre-ganglionic neurotransmitter of the sympathetic system is:",
+   "opts": [
+    "Acetylcholine (Ach)",
+    "Norepinephrine (NE)",
+    "Dopamine",
+    "Epinephrine"
+   ],
+   "ans": 0,
+   "exp": "Under sympathetic neurotransmitter the pre-ganglionic label reads 'Acetylcholine (Ach)'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-023",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "The post-ganglionic neurotransmitter of the sympathetic system is:",
+   "opts": [
+    "Norepinephrine (NE)",
+    "Acetylcholine (Ach) only",
+    "Dopamine only",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "The sympathetic post ganglionic list begins with Norepinephrine (NE). (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-024",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Dopamine acting on renal blood vessels causes:",
+   "opts": [
+    "Vasodilatation leading to diuresis",
+    "Vasoconstriction leading to oliguria",
+    "No change in renal blood flow",
+    "Bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The list reads 'Dopamine : Renal Blood vessels (D1 → Vasodilatation → Diuresis)'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-025",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Which receptors receive acetylcholine as the post-ganglionic transmitter in the sympathetic system?",
+   "opts": [
+    "Adrenals and sweat glands",
+    "Renal blood vessels",
+    "The heart",
+    "The bronchi"
+   ],
+   "ans": 0,
+   "exp": "The last sympathetic transmitter bullet reads 'Ach : Adrenals, sweat glands'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-026",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Parasympatholytics such as atropine and datura block which receptors on sweat glands?",
+   "opts": [
+    "m3",
+    "m1",
+    "m2",
+    "Nicotinic Nn"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'Parasympatholytics (Atropine, Datura) : m3 blockade → Absent sweating'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-027",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Absent sweating after m3 blockade leads to:",
+   "opts": [
+    "Hyperthermia",
+    "Hypothermia",
+    "Bradycardia",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "An arrow from 'absent sweating' leads to 'Hyperthermia'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-028",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Sympatholytics have which effect on sweat glands?",
+   "opts": [
+    "No action",
+    "Increased sweating",
+    "Absent sweating",
+    "Excessive salivation"
+   ],
+   "ans": 0,
+   "exp": "The note states 'Sympatholytics : No action' on sweat glands. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-029",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Directly acting ANS drugs:",
+   "opts": [
+    "Bind to the receptor",
+    "Act on the neurotransmitter",
+    "Block the synapse only",
+    "Act on the vesicle"
+   ],
+   "ans": 0,
+   "exp": "Under 'Drugs in ANS' the page writes 'Direct acting : Binds to Receptor'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-030",
+   "sec": "Parasympathetic vs Sympathetic Innervation",
+   "page": 38,
+   "q": "Indirectly acting ANS drugs:",
+   "opts": [
+    "Act on the neurotransmitter (NT)",
+    "Bind to the receptor",
+    "Cross the blood-brain barrier",
+    "Act only on the ganglion"
+   ],
+   "ans": 0,
+   "exp": "The page writes 'Indirect acting : Act on NT'. (Book p38)"
+  },
+  {
+   "id": "PHARM-C12-031",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "Acetylcholine is synthesised from acetyl Co-A and choline by:",
+   "opts": [
+    "Choline acetyl transferase",
+    "Acetylcholinesterase",
+    "Choline reuptake transporter",
+    "Catechol-O-methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "The synthesis pathway in the diagram pairs acetyl Co-A with choline via 'Acetyl Transferase' to form ACh. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-032",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "The rate limiting step in the acetylcholine cycle is:",
+   "opts": [
+    "Reuptake of choline",
+    "Synthesis by acetyl transferase",
+    "Entry of ACh into the vesicle",
+    "Ca2+ influx"
+   ],
+   "ans": 0,
+   "exp": "The reuptake arrow is labelled 'Reuptake : Rate limiting step'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-033",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "Besides the presynaptic neuron, choline is also supplied from:",
+   "opts": [
+    "Food (minor source)",
+    "The liver",
+    "Muscle stores",
+    "The adrenal gland"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows 'minor Source : Food' feeding into the choline box. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-034",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "ACh is stored in the presynaptic neuron by entering the:",
+   "opts": [
+    "Vesicle",
+    "Nucleus",
+    "Mitochondria",
+    "Sarcoplasmic reticulum"
+   ],
+   "ans": 0,
+   "exp": "The step reads 'Enters vesicle' before the ACh is shown stored. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-035",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "β-bungarotoxin acts by:",
+   "opts": [
+    "Blocking ACh entry into the vesicle",
+    "Blocking the ACh receptor",
+    "Inhibiting acetylcholinesterase",
+    "Blocking Ca2+ influx"
+   ],
+   "ans": 0,
+   "exp": "The β-bungarotoxin pill carries a block mark on the step where ACh enters the vesicle. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-036",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "Botulinum toxin prevents release of ACh by:",
+   "opts": [
+    "Blocking the vesicle release step",
+    "Blocking the nicotinic receptor",
+    "Destroying acetylcholinesterase",
+    "Blocking choline reuptake"
+   ],
+   "ans": 0,
+   "exp": "The botulinum toxin block is drawn at the vesicle release point in the ACh mechanism diagram. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-037",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "Aminoglycosides are shown blocking:",
+   "opts": [
+    "Ca2+ influx",
+    "ACh synthesis",
+    "Choline reuptake",
+    "The muscarinic receptor"
+   ],
+   "ans": 0,
+   "exp": "The aminoglycoside pill sits on the Ca2+ influx arrow. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-038",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "ACh is metabolised rapidly by:",
+   "opts": [
+    "Acetylcholine esterase (AChE)",
+    "Choline acetyl transferase",
+    "Monoamine oxidase",
+    "Catechol-O-methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "The diagram reads 'metabolised rapidly By Acetylcholine esterase (AChE)'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-039",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "AChE splits ACh into:",
+   "opts": [
+    "Acetate and choline",
+    "Acetyl Co-A and choline",
+    "Choline and water",
+    "Acetate and acetyl Co-A"
+   ],
+   "ans": 0,
+   "exp": "The products shown in the diagram are acetate and choline. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-040",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "The two sites on the AChE molecule are:",
+   "opts": [
+    "Esteratic site (breaks ester bonds) and anionic site (-vely charged)",
+    "Active site and allosteric site",
+    "Cationic site and hydrophobic site",
+    "Estrogenic and anionic site"
+   ],
+   "ans": 0,
+   "exp": "The AChE drawing is labelled 'Esteratic site (breaks ester bonds)' and '-vely charged Anionic site'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-041",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "The choline produced by AChE breakdown is:",
+   "opts": [
+    "Positively charged and taken back up",
+    "Negatively charged and excreted",
+    "Neutral and fat soluble",
+    "Converted to acetate"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the choline as '(+vely charged)' as it is reuptaken. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-042",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "page": 39,
+   "q": "ACh released at the post-ganglionic junction acts on which receptors?",
+   "opts": [
+    "Muscarinic and nicotinic",
+    "α and β",
+    "Only nicotinic Nn",
+    "Only β1"
+   ],
+   "ans": 0,
+   "exp": "The post-synaptic cell in the diagram carries both 'muscarinic' and 'Nicotinic' receptors. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-043",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Aminoglycosides cause muscular contraction to fall by:",
+   "opts": [
+    "Decreasing ACh (↓ Ach)",
+    "Increasing ACh release",
+    "Blocking the ACh receptor directly",
+    "Inhibiting AChE"
+   ],
+   "ans": 0,
+   "exp": "The flow starts 'Aminoglycosides : muscular contraction (↓ Ach)'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-044",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "The neuromuscular toxicity caused by aminoglycosides is treated with:",
+   "opts": [
+    "DOC : Ca2+",
+    "DOC : Atropine",
+    "DOC : Physostigmine",
+    "DOC : Neostigmine"
+   ],
+   "ans": 0,
+   "exp": "An arrow from neuromuscular toxicity leads to 'DOC : Ca2+' as the treatment. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-045",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Krait bite causes respiratory failure through:",
+   "opts": [
+    "β-bungarotoxin",
+    "Cobra toxin",
+    "Botulinum toxin",
+    "Organophosphates"
+   ],
+   "ans": 0,
+   "exp": "The flow reads 'Krait bite : β-bungarotoxin → Respiratory failure'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-046",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Cobra toxin causes:",
+   "opts": [
+    "Respiratory failure",
+    "Floppy infant syndrome",
+    "Tardive dyskinesia",
+    "Angle closure glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Cobra toxin is one of the arrows converging on respiratory failure. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-047",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Myasthenia crisis leads to:",
+   "opts": [
+    "Respiratory failure",
+    "Hyperthermia",
+    "Diuresis",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Myasthenia crisis is connected by an arrow to respiratory failure. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-048",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Food poisoning with botulism leads to respiratory failure and also to:",
+   "opts": [
+    "Floppy infant syndrome",
+    "Tardive dyskinesia",
+    "Achalasia",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "The flow reads 'Food Poisoning : Botulism → Respiratory failure' and continues down to 'Floppy Infant Syndrome'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-049",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "The management of respiratory failure in all these conditions is:",
+   "opts": [
+    "Ventilation",
+    "Atropine",
+    "Physostigmine",
+    "Calcium gluconate"
+   ],
+   "ans": 0,
+   "exp": "Below respiratory failure the flow states 'mx : ventilation'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-050",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Botulinum toxin is used in tardive dyskinesia (torticollis/cervical dystonia) by injection into the:",
+   "opts": [
+    "Sternocleidomastoid (SCM)",
+    "Trapezius",
+    "Deltoid",
+    "Masseter"
+   ],
+   "ans": 0,
+   "exp": "The first use listed is 'Tardive dyskinesia (Torticollis/Cervical dystonia) : Injected into SCM'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-051",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Botulinum toxin is used in which bladder condition?",
+   "opts": [
+    "Urge incontinence/overactive bladder",
+    "Neurogenic bladder with retention",
+    "Bladder cancer",
+    "Interstitial cystitis"
+   ],
+   "ans": 0,
+   "exp": "The second use listed is 'urge Incontinence/Overactive bladder'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-052",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Botulinum toxin is used cosmetically to remove:",
+   "opts": [
+    "Glabellar lines",
+    "Wrinkles on the hands",
+    "Acne scars",
+    "Melasma"
+   ],
+   "ans": 0,
+   "exp": "The cosmetic use given is 'To remove glabellar lines'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-053",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Botulinum toxin relieves achalasia by relaxing the:",
+   "opts": [
+    "Lower esophageal sphincter",
+    "Upper esophageal sphincter",
+    "Pylorus",
+    "Cardia fundus only"
+   ],
+   "ans": 0,
+   "exp": "The use reads 'unrelaxed Lower esophageal sphincter → Achalasia'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-054",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "Botulinum toxin is useful in migraine prophylaxis because it reduces release of:",
+   "opts": [
+    "CGRP (calcitonin gene-related peptide)",
+    "Substance P",
+    "Nitric oxide",
+    "Vasoactive intestinal peptide"
+   ],
+   "ans": 0,
+   "exp": "The last use reads 'migraine prophylaxis : D/t ↓ CGRP (Calcitonin gene-related peptide) release'. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-055",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "page": 39,
+   "q": "In the respiratory failure flow, myasthenia crisis, cobra toxin and botulism all share which final mechanism?",
+   "opts": [
+    "Failure of neuromuscular transmission leading to respiratory failure",
+    "Direct central nervous system depression",
+    "Airway obstruction",
+    "Pulmonary embolism"
+   ],
+   "ans": 0,
+   "exp": "All three arrows converge on respiratory failure, with the management being ventilation. (Book p39)"
+  },
+  {
+   "id": "PHARM-C12-056",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "The two types of cholinergic receptors are:",
+   "opts": [
+    "Muscarinic (m) - GPCRs and nicotinic (N) - Na+ ion channels",
+    "α and β",
+    "m1 and m2 only",
+    "Nn and Nm only"
+   ],
+   "ans": 0,
+   "exp": "The receptor types chart splits into 'muscarinic (m) : G-protein coupled receptors (GPCR)' and 'Nicotinic (N) : Na+ ion channels'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-057",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "Muscarinic receptors are:",
+   "opts": [
+    "G-protein coupled receptors",
+    "Na+ ion channels",
+    "Nuclear receptors",
+    "Tyrosine kinase receptors"
+   ],
+   "ans": 0,
+   "exp": "The muscarinic branch is labelled G-protein coupled receptors (GPCR). (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-058",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "Nicotinic receptors are:",
+   "opts": [
+    "Na+ ion channels",
+    "GPCRs",
+    "K+ channels",
+    "Cl- channels"
+   ],
+   "ans": 0,
+   "exp": "The nicotinic branch is labelled 'Na+ ion channels'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-059",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "Nicotinic muscular (Nm) receptors are found at the:",
+   "opts": [
+    "Neuromuscular junction (NMJ)",
+    "Adrenal glands",
+    "Ganglia",
+    "CNS"
+   ],
+   "ans": 0,
+   "exp": "The table site column for nicotinic muscular (Nm) is the neuromuscular junction (NMJ). (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-060",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "Stimulation of nicotinic muscular (Nm) receptors produces:",
+   "opts": [
+    "Muscle contraction",
+    "Stimulation of the CNS",
+    "Release of epinephrine",
+    "Action potential generation in ganglia"
+   ],
+   "ans": 0,
+   "exp": "The action column for Nm reads 'muscle contraction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-061",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "Nicotinic neuronal (Nn) receptors at the adrenal glands cause:",
+   "opts": [
+    "↑ Norepinephrine in medulla → cortisol from cortex → epinephrine released into plasma",
+    "Muscle contraction",
+    "Bronchoconstriction",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The action cell for the adrenal glands reads '↑ Norepinephrine in medulla → Cortisol (From cortex) → Epinephrine (Released into plasma)'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-062",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "At ganglia, nicotinic neuronal (Nn) receptors:",
+   "opts": [
+    "Generate action potential",
+    "Cause muscle contraction",
+    "Stimulate the CNS only",
+    "Release cortisol"
+   ],
+   "ans": 0,
+   "exp": "The ganglia row action is 'Generate Action Potential'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-063",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "In the CNS, nicotinic neuronal receptors cause:",
+   "opts": [
+    "Stimulation",
+    "Inhibition",
+    "Muscle contraction",
+    "Vasodilation"
+   ],
+   "ans": 0,
+   "exp": "The CNS row of the nicotinic receptor table reads 'Stimulation'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-064",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "In myasthenia gravis, anti-ACh antibodies:",
+   "opts": [
+    "Block Nm receptors, decreasing muscle contraction",
+    "Block Nn receptors at ganglia",
+    "Destroy acetylcholinesterase",
+    "Block muscarinic receptors"
+   ],
+   "ans": 0,
+   "exp": "The clinical significance reads 'Anti-Ach Antibodies → Block Nm → ↓ Muscle contraction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-065",
+   "sec": "Receptors: Nicotinic Receptors",
+   "page": 40,
+   "q": "The symptoms of myasthenia gravis listed are:",
+   "opts": [
+    "Fatigue, ptosis and respiratory failure (crisis)",
+    "Diarrhoea, miosis and lacrimation",
+    "Dry mouth, mydriasis and constipation",
+    "Fever and rash"
+   ],
+   "ans": 0,
+   "exp": "The symptoms listed are fatigue, ptosis and respiratory failure (crisis). (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-066",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "Which muscarinic receptors act through Gq and increased Ca2+?",
+   "opts": [
+    "m1 and m3",
+    "m2 and m4",
+    "m5 only",
+    "m2 only"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside m1 and m3 is labelled 'Gq → ↑ Ca2+'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-067",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m1 receptors in the CNS cause:",
+   "opts": [
+    "↑ Cognition",
+    "↑ HCl secretion",
+    "Miosis",
+    "Bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The m1 CNS row reads '↑ Cognition'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-068",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m1 receptors in the GIT cause:",
+   "opts": [
+    "↑ HCl secretion",
+    "↑ Contraction",
+    "Detrusor contraction",
+    "Salivation"
+   ],
+   "ans": 0,
+   "exp": "The m1 GIT row reads '↑ HCl Secretion'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-069",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "Stimulation of m3 receptors in the GIT produces:",
+   "opts": [
+    "↑ Contraction",
+    "↑ HCl secretion only",
+    "Relaxation",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The m3 GIT row reads '↑ Contraction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-070",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m3 receptors in the bladder cause the detrusor to:",
+   "opts": [
+    "Increase contraction",
+    "Relax",
+    "Have no effect",
+    "Secrete mucus"
+   ],
+   "ans": 0,
+   "exp": "The m3 bladder row reads 'Detrusor → ↑ Contraction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-071",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m3 receptors in the bronchi cause:",
+   "opts": [
+    "Bronchoconstriction",
+    "Bronchodilation",
+    "Mucus secretion only",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The m3 bronchi row reads 'Bronchoconstriction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-072",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m3 receptors on salivary glands cause:",
+   "opts": [
+    "↑ Salivation",
+    "Dry mouth",
+    "Miosis",
+    "Vasodilation"
+   ],
+   "ans": 0,
+   "exp": "The m3 salivary glands row reads '↑ Salivation'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-073",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m3 receptors on the circular muscle of the iris cause:",
+   "opts": [
+    "Miosis (pupil contraction)",
+    "Mydriasis",
+    "Accommodation spasm",
+    "Ptosis"
+   ],
+   "ans": 0,
+   "exp": "The m3 circular muscle of iris row reads 'miosis (Pupil Contraction)'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-074",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m3 receptors on the ciliary muscle cause:",
+   "opts": [
+    "Accommodation spasm",
+    "Miosis",
+    "Mydriasis",
+    "Lacrimation"
+   ],
+   "ans": 0,
+   "exp": "The m3 ciliary muscle row reads 'Accommodation spasm'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-075",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "The effect of m3 on blood vessels is:",
+   "opts": [
+    "Vasodilation > vasoconstriction, by activating eNOS in the endothelium",
+    "Vasoconstriction > vasodilation by smooth muscle",
+    "Pure vasoconstriction",
+    "No effect on blood vessels"
+   ],
+   "ans": 0,
+   "exp": "The m3 blood vessels row reads 'vasodilation > vasoconstriction (Endothelium : Activates eNOS) (Smooth muscle)'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-076",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "eNOS stands for:",
+   "opts": [
+    "Endothelial Nitric Oxide Synthase",
+    "Endothelial Nitric Oxide System",
+    "Endogenous Nitric Oxide Synthase",
+    "Endothelial Nicotinamide Oxidase Synthase"
+   ],
+   "ans": 0,
+   "exp": "The footnote at the bottom of the table expands eNOS as 'Endothelial Nitric Oxide Synthase'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-077",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "The effects of m5 and m4 receptors (CNS) are shown as:",
+   "opts": [
+    "A dash, i.e. not specified",
+    "↑ Cognition",
+    "Stimulation",
+    "Relaxation"
+   ],
+   "ans": 0,
+   "exp": "Both the m5 and m4 rows (CNS) carry only a dash in the action column. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-078",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "m2 receptors act through which G protein?",
+   "opts": [
+    "Gi/o, producing relaxation",
+    "Gq, producing ↑ Ca2+",
+    "Gs, producing ↑ cAMP",
+    "G12/13"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside m2/m4 is labelled 'Gi/o → Relaxation'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-079",
+   "sec": "Muscarinic Receptors",
+   "page": 40,
+   "q": "Blockade of m3 receptors in the heart produces:",
+   "opts": [
+    "SA node : ↓ heart rate and AV node : ↓ conduction",
+    "↑ heart rate and ↑ conduction",
+    "No change in heart rate",
+    "Increased contractility"
+   ],
+   "ans": 0,
+   "exp": "The m2 heart row shows 'Block → SA node : ↓ Heart rate; AV node : ↓ Conduction'. (Book p40)"
+  },
+  {
+   "id": "PHARM-C12-080",
+   "sec": "Clinical Significance: Alzheimer's Disease",
+   "page": 41,
+   "q": "In Alzheimer's disease, the neurotransmitter change is:",
+   "opts": [
+    "↓ ACh → ↓ m1 stimulation → ↓ Cognition",
+    "↑ ACh → ↑ m1 stimulation → ↑ Cognition",
+    "↓ Dopamine → ↓ cognition",
+    "↑ NE → ↑ cognition"
+   ],
+   "ans": 0,
+   "exp": "The clinical significance reads '↓ ACh → ↓ m1 stimulation → ↓ cognition'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-081",
+   "sec": "Clinical Significance: Alzheimer's Disease",
+   "page": 41,
+   "q": "The drug used in Alzheimer's disease as an m1 agonist is:",
+   "opts": [
+    "Tacilifensin",
+    "Physostigmine",
+    "Atropine",
+    "Donepezil"
+   ],
+   "ans": 0,
+   "exp": "The prescription line reads 'Rx : Tacilifensin (m1 Agonist)'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-082",
+   "sec": "Clinical Significance: Alzheimer's Disease",
+   "page": 41,
+   "q": "Tacilifensin acts as an:",
+   "opts": [
+    "m1 agonist",
+    "m1 antagonist",
+    "m2 agonist",
+    "Nm blocker"
+   ],
+   "ans": 0,
+   "exp": "The page specifies tacilifensin as an m1 agonist for Alzheimer's disease. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-083",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Cholinergic poisoning is caused by:",
+   "opts": [
+    "Organophosphates/carbamates",
+    "Atropine and datura",
+    "Tacilifensin",
+    "Botulinum toxin"
+   ],
+   "ans": 0,
+   "exp": "The drugs row for cholinergic poisoning reads 'Organophosphates/Carbamates'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-084",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "The drugs causing anticholinergic poisoning are:",
+   "opts": [
+    "Atropine and datura",
+    "Organophosphates",
+    "Carbamates",
+    "Physostigmine"
+   ],
+   "ans": 0,
+   "exp": "The drugs row for anticholinergic poisoning reads 'Atropine, Datura'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-085",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In cholinergic poisoning the eyes show:",
+   "opts": [
+    "Miosis (pinpoint pupil) and lacrimation",
+    "Mydriasis",
+    "Dry eyes",
+    "Ptosis only"
+   ],
+   "ans": 0,
+   "exp": "The eyes row for cholinergic reads 'miosis (Pinpoint pupil), Lacrimation'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-086",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In anticholinergic poisoning the eyes show:",
+   "opts": [
+    "Mydriasis",
+    "Miosis",
+    "Lacrimation",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The eyes row for anticholinergic reads 'mydriasis'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-087",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Cholinergic poisoning affects the salivary glands as:",
+   "opts": [
+    "↑ Salivation",
+    "Dry mouth",
+    "↑ HCl secretion",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The salivary gland row for cholinergic reads '↑ Salivation'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-088",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Anticholinergic poisoning causes which salivary change?",
+   "opts": [
+    "Dry mouth",
+    "↑ salivation",
+    "Bloody saliva",
+    "Foaming at the mouth"
+   ],
+   "ans": 0,
+   "exp": "The salivary gland row for anticholinergic reads 'Dry mouth'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-089",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In cholinergic poisoning the bronchi show:",
+   "opts": [
+    "Bronchoconstriction : dyspnea",
+    "Bronchodilation",
+    "Cough only",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The bronchi row for cholinergic reads 'Bronchoconstriction : Dyspnea'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-090",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In anticholinergic poisoning the bronchi show:",
+   "opts": [
+    "Bronchodilation",
+    "Bronchoconstriction",
+    "Dyspnea",
+    "Wheeze"
+   ],
+   "ans": 0,
+   "exp": "The bronchi row for anticholinergic reads 'Bronchodilation'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-091",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Cholinergic poisoning produces which gastrointestinal effect?",
+   "opts": [
+    "Involuntary defecation",
+    "Constipation",
+    "Ileus",
+    "Bloody diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "The GIT row for cholinergic reads 'Involuntary Defecation'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-092",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Anticholinergic poisoning produces which gastrointestinal effect?",
+   "opts": [
+    "Constipation",
+    "Involuntary defecation",
+    "Diarrhoea",
+    "Vomiting"
+   ],
+   "ans": 0,
+   "exp": "The GIT row for anticholinergic reads 'Constipation'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-093",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In cholinergic poisoning the bladder shows:",
+   "opts": [
+    "Involuntary urination",
+    "Urine retention",
+    "Hematuria",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The bladder row for cholinergic reads 'Involuntary urination'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-094",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "In anticholinergic poisoning the bladder shows:",
+   "opts": [
+    "Urine retention",
+    "Involuntary urination",
+    "Polyuria",
+    "Dysuria only"
+   ],
+   "ans": 0,
+   "exp": "The bladder row for anticholinergic reads 'urine Retention'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-095",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Sweating in cholinergic poisoning is:",
+   "opts": [
+    "Increased (↑ Sweating)",
+    "Decreased",
+    "Absent",
+    "Unchanged"
+   ],
+   "ans": 0,
+   "exp": "The sweat glands row for cholinergic reads '↑ Sweating'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-096",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Sweating in anticholinergic poisoning is:",
+   "opts": [
+    "Decreased (↓ Sweating)",
+    "Increased",
+    "Normal",
+    "Excessive"
+   ],
+   "ans": 0,
+   "exp": "The sweat glands row for anticholinergic reads '↓ Sweating'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-097",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "The drug of choice for cholinergic poisoning is:",
+   "opts": [
+    "Atropine",
+    "Physostigmine",
+    "Tacilifensin",
+    "Pralidoxime"
+   ],
+   "ans": 0,
+   "exp": "The DOC row for cholinergic poisoning reads 'Atropine'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-098",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "The drug of choice for anticholinergic poisoning is:",
+   "opts": [
+    "Physostigmine",
+    "Atropine",
+    "Datura",
+    "Neostigmine"
+   ],
+   "ans": 0,
+   "exp": "The DOC row for anticholinergic poisoning reads 'Physostigmine'. (Book p41)"
+  },
+  {
+   "id": "PHARM-C12-099",
+   "sec": "Cholinergic and Anticholinergic Poisoning",
+   "page": 41,
+   "q": "Which single feature best distinguishes cholinergic from anticholinergic poisoning at the bedside?",
+   "opts": [
+    "Pinpoint pupil with sweating versus mydriasis with dry skin",
+    "Fever in both, differing only in severity",
+    "Both cause urine retention",
+    "Both cause constipation"
+   ],
+   "ans": 0,
+   "exp": "Cholinergic poisoning gives miosis, lacrimation, ↑ sweating and involuntary urination/defecation; anticholinergic gives mydriasis, dry mouth, ↓ sweating, urine retention and constipation. (Book p41)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U12-1",
+   "ch": 12,
+   "n": 1,
+   "title": "Introduction to ANS: Components and Anatomy",
+   "sec": "Introduction to ANS: Components and Anatomy · p37",
+   "qs": [
+    "PHARM-C12-001",
+    "PHARM-C12-002",
+    "PHARM-C12-003",
+    "PHARM-C12-004",
+    "PHARM-C12-005",
+    "PHARM-C12-006",
+    "PHARM-C12-007",
+    "PHARM-C12-008"
+   ],
+   "guide": "The ANS has two components, parasympathetic and sympathetic, and is located in the neuraxis (brain + spinal cord). The parasympathetic is the cranio-sacral part - cranial nerves III, VII, IX and X from the brain stem plus the sacral outflow - while the sympathetic is the thoraco-lumbar part. Both use a two-neuron pathway: action potential travels along the 1st neuron to a ganglion (a collection of neuronal bodies) and then along the 2nd neuron to the organ, such as the pupil or the CVS (blood vessel, heart)."
+  },
+  {
+   "id": "PHARM-U12-2",
+   "ch": 12,
+   "n": 2,
+   "title": "Physiology of Action Potential: Propagation Across a Neuronal Synapse",
+   "sec": "Physiology of Action Potential: Propagation Across a Neuronal Synapse · p38",
+   "qs": [
+    "PHARM-C12-009",
+    "PHARM-C12-010",
+    "PHARM-C12-011",
+    "PHARM-C12-012",
+    "PHARM-C12-013",
+    "PHARM-C12-014"
+   ],
+   "guide": "An action potential depolarises the presynaptic neuron, opening voltage gated Ca2+ channels; the resulting Ca2+ influx causes fusion of the vesicular and presynaptic membranes with exocytosis of neurotransmitter, which binds the post synaptic receptor. This opens Na+ channels, Na+ influx follows, and the post synaptic neuron depolarises to generate its own action potential. Neurotransmitter is stored in vesicles in the presynaptic terminal."
+  },
+  {
+   "id": "PHARM-U12-3",
+   "ch": 12,
+   "n": 3,
+   "title": "Parasympathetic vs Sympathetic Innervation",
+   "sec": "Parasympathetic vs Sympathetic Innervation · p38",
+   "qs": [
+    "PHARM-C12-015",
+    "PHARM-C12-016",
+    "PHARM-C12-017",
+    "PHARM-C12-018",
+    "PHARM-C12-019",
+    "PHARM-C12-020",
+    "PHARM-C12-021",
+    "PHARM-C12-022",
+    "PHARM-C12-023",
+    "PHARM-C12-024",
+    "PHARM-C12-025",
+    "PHARM-C12-026",
+    "PHARM-C12-027",
+    "PHARM-C12-028",
+    "PHARM-C12-029",
+    "PHARM-C12-030"
+   ],
+   "guide": "Parasympathetic outflow is cranio-sacral with ganglia near the site of action; sympathetic outflow is thoraco-lumbar with ganglia away from the site of action (pre/para vertebral). Both use nicotinic (Nn) ganglionic receptors that are sodium ion channels. Post-ganglionic parasympathetic receptors are muscarinic/nicotinic with acetylcholine as the transmitter throughout; sympathetic post-ganglionic receptors are α/β with norepinephrine, plus dopamine on renal blood vessels (D1 → vasodilatation → diuresis) and Ach at adrenals and sweat glands. Note: parasympatholytics (atropine, datura) block m3 on sweat glands causing absent sweating and hyperthermia, whereas sympatholytics have no action there. Drugs may act directly (binding the receptor) or indirectly (acting on the neurotransmitter)."
+  },
+  {
+   "id": "PHARM-U12-4",
+   "ch": 12,
+   "n": 4,
+   "title": "Parasympathetic Nervous System: Acetylcholine Mechanism",
+   "sec": "Parasympathetic Nervous System: Acetylcholine Mechanism · p39",
+   "qs": [
+    "PHARM-C12-031",
+    "PHARM-C12-032",
+    "PHARM-C12-033",
+    "PHARM-C12-034",
+    "PHARM-C12-035",
+    "PHARM-C12-036",
+    "PHARM-C12-037",
+    "PHARM-C12-038",
+    "PHARM-C12-039",
+    "PHARM-C12-040",
+    "PHARM-C12-041",
+    "PHARM-C12-042"
+   ],
+   "guide": "ACh is synthesised from acetyl Co-A and choline by choline acetyl transferase, with choline reuptake as the rate limiting step and food as a minor source of choline. It enters the vesicle and is released; β-bungarotoxin blocks entry into the vesicle, botulinum toxin blocks vesicle release and aminoglycosides block Ca2+ influx. Released ACh acts on muscarinic and nicotinic receptors and is metabolised rapidly by acetylcholinesterase (AChE), which breaks ACh into acetate and choline. AChE has an esteratic site (breaks ester bonds) and a negatively charged anionic site, and the choline released is positively charged and reuptaken."
+  },
+  {
+   "id": "PHARM-U12-5",
+   "ch": 12,
+   "n": 5,
+   "title": "Clinical Significance: Nm Receptor Action and Uses of Botulinum",
+   "sec": "Clinical Significance: Nm Receptor Action and Uses of Botulinum · p39",
+   "qs": [
+    "PHARM-C12-043",
+    "PHARM-C12-044",
+    "PHARM-C12-045",
+    "PHARM-C12-046",
+    "PHARM-C12-047",
+    "PHARM-C12-048",
+    "PHARM-C12-049",
+    "PHARM-C12-050",
+    "PHARM-C12-051",
+    "PHARM-C12-052",
+    "PHARM-C12-053",
+    "PHARM-C12-054",
+    "PHARM-C12-055"
+   ],
+   "guide": "At the Nm receptor, aminoglycosides reduce muscular contraction by lowering ACh and cause neuromuscular toxicity treated with Ca2+ as DOC. Respiratory failure is the common end point of krait bite (β-bungarotoxin), myasthenia crisis, cobra toxin and food poisoning with botulism (which also causes floppy infant syndrome), and its management is ventilation. Botulinum toxin is used in tardive dyskinesia (torticollis/cervical dystonia, injected into the SCM), urge incontinence/overactive bladder, cosmetically for glabellar lines, for unrelaxed lower esophageal sphincter causing achalasia, and for migraine prophylaxis by reducing CGRP release."
+  },
+  {
+   "id": "PHARM-U12-6",
+   "ch": 12,
+   "n": 6,
+   "title": "Receptors: Nicotinic Receptors",
+   "sec": "Receptors: Nicotinic Receptors · p40",
+   "qs": [
+    "PHARM-C12-056",
+    "PHARM-C12-057",
+    "PHARM-C12-058",
+    "PHARM-C12-059",
+    "PHARM-C12-060",
+    "PHARM-C12-061",
+    "PHARM-C12-062",
+    "PHARM-C12-063",
+    "PHARM-C12-064",
+    "PHARM-C12-065"
+   ],
+   "guide": "Cholinergic receptors are of two types: muscarinic (m), which are GPCRs, and nicotinic (N), which are Na+ ion channels. Nicotinic muscular (Nm) receptors at the neuromuscular junction produce muscle contraction; nicotinic neuronal (Nn) receptors at adrenal glands raise medullary norepinephrine, then cortisol from the cortex and finally epinephrine released into plasma, at ganglia generate action potential, and in the CNS cause stimulation. In myasthenia gravis anti-ACh antibodies block Nm and decrease muscle contraction, giving fatigue, ptosis and respiratory failure (crisis)."
+  },
+  {
+   "id": "PHARM-U12-7",
+   "ch": 12,
+   "n": 7,
+   "title": "Muscarinic Receptors",
+   "sec": "Muscarinic Receptors · p40",
+   "qs": [
+    "PHARM-C12-066",
+    "PHARM-C12-067",
+    "PHARM-C12-068",
+    "PHARM-C12-069",
+    "PHARM-C12-070",
+    "PHARM-C12-071",
+    "PHARM-C12-072",
+    "PHARM-C12-073",
+    "PHARM-C12-074",
+    "PHARM-C12-075",
+    "PHARM-C12-076",
+    "PHARM-C12-077",
+    "PHARM-C12-078",
+    "PHARM-C12-079"
+   ],
+   "guide": "Muscarinic receptors split by G protein: m1 and m3 work through Gq → ↑ Ca2+, while m2/m4 work through Gi/o → relaxation. m1 in the CNS raises cognition and in the GIT raises HCl secretion. m3 causes GIT contraction, detrusor contraction in the bladder, bronchoconstriction, ↑ salivation, miosis (pupil contraction) in the circular muscle of the iris, accommodation spasm in the ciliary muscle, and in blood vessels vasodilation > vasoconstriction by activating eNOS in the endothelium. m5/m4 (CNS) are shown with a dash, and m2 blockade in the heart slows the SA node (↓ heart rate) and AV node (↓ conduction)."
+  },
+  {
+   "id": "PHARM-U12-8",
+   "ch": 12,
+   "n": 8,
+   "title": "Clinical Significance: Alzheimer's Disease",
+   "sec": "Clinical Significance: Alzheimer's Disease · p41",
+   "qs": [
+    "PHARM-C12-080",
+    "PHARM-C12-081",
+    "PHARM-C12-082"
+   ],
+   "guide": "In Alzheimer's disease there is ↓ ACh, so ↓ m1 stimulation and ↓ cognition. Treatment is with tacilifensin, an m1 agonist."
+  },
+  {
+   "id": "PHARM-U12-9",
+   "ch": 12,
+   "n": 9,
+   "title": "Cholinergic and Anticholinergic Poisoning",
+   "sec": "Cholinergic and Anticholinergic Poisoning · p41",
+   "qs": [
+    "PHARM-C12-083",
+    "PHARM-C12-084",
+    "PHARM-C12-085",
+    "PHARM-C12-086",
+    "PHARM-C12-087",
+    "PHARM-C12-088",
+    "PHARM-C12-089",
+    "PHARM-C12-090",
+    "PHARM-C12-091",
+    "PHARM-C12-092",
+    "PHARM-C12-093",
+    "PHARM-C12-094",
+    "PHARM-C12-095",
+    "PHARM-C12-096",
+    "PHARM-C12-097",
+    "PHARM-C12-098",
+    "PHARM-C12-099"
+   ],
+   "guide": "Cholinergic poisoning from organophosphates/carbamates gives miosis (pinpoint pupil) with lacrimation, ↑ salivation, bronchoconstriction with dyspnea, involuntary defecation, involuntary urination and ↑ sweating - the drug of choice being atropine. Anticholinergic poisoning from atropine and datura gives exactly the opposite picture: mydriasis, dry mouth, bronchodilation, constipation, urine retention and ↓ sweating - the drug of choice being physostigmine."
+  }
+ ]
+}
