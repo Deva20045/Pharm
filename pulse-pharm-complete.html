@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PULSE · Pharmacology — Marrow Edition 8 Companion</title>
+<style>
+  :root{
+    --bg:#120d1a; --card:#221a30; --card2:#2b2139; --line:#3a2d52;
+    --txt:#f4eefb; --mut:#a89bbd; --pink:#e0607e; --gold:#c99a4b;
+    --teal:#5fd0b5; --good:#3ddc84; --bad:#ff5d6c; --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  body{margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+    background:var(--bg); color:var(--txt); min-height:100vh;}
+  .wrap{max-width:560px; margin:0 auto; padding:0 16px 60px;}
+  header.top{position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:10px;
+    padding:14px 16px; background:#120d1af2; border-bottom:1px solid var(--line); max-width:560px; margin:0 auto;}
+  header.top .brand{font-weight:800; font-size:20px; letter-spacing:.3px; flex:1;}
+  header.top .back{font-size:22px; cursor:pointer; color:var(--mut); padding:2px 8px 2px 0;}
+  .hstat{font-weight:800; font-size:15px; white-space:nowrap;}
+  .hidden{display:none !important;}
+  .hero{background:linear-gradient(160deg,#3a2547,#221a30 70%); border:1px solid var(--line);
+    border-radius:22px; padding:26px 22px; margin:16px 0;}
+  .hero .kick{font-size:12px; letter-spacing:2.5px; color:var(--mut);}
+  .hero h1{font-family:var(--serif); font-size:42px; margin:8px 0 10px; line-height:1.05;}
+  .hero p{color:#cbbfe0; font-size:15px; line-height:1.55; margin:0 0 12px;}
+  .hero a{color:var(--pink); font-weight:700; text-decoration:none; font-size:15px; cursor:pointer;}
+  .stats{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:0 0 12px;}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px 6px; text-align:center;}
+  .stat b{font-size:22px; display:block;} .stat span{font-size:12px; color:var(--mut);}
+  .btn{display:block; width:100%; margin-top:12px; padding:15px; font-size:16px; font-weight:700;
+    color:#1a0f14; background:linear-gradient(135deg,#f0788f,var(--pink)); border:0; border-radius:14px; cursor:pointer;}
+  .btn:active{transform:scale(.98);}
+  .btn.ghost{background:transparent; color:var(--txt); border:1.5px solid var(--line);}
+  .btn.gold{background:linear-gradient(135deg,#e0b45f,var(--gold)); color:#1d1405;}
+  h2.page{font-family:var(--serif); font-size:30px; margin:18px 0 2px;}
+  p.sub{color:var(--mut); margin:0 0 14px; font-size:14px;}
+  .chrow{display:flex; align-items:center; gap:12px; background:var(--card); border:1px solid var(--line);
+    border-radius:16px; padding:14px; margin:10px 0; cursor:pointer;}
+  .chrow.locked{opacity:.45; cursor:default;}
+  .chnum{min-width:44px; height:44px; border-radius:13px; display:grid; place-items:center;
+    font-weight:800; font-size:17px; background:linear-gradient(135deg,#d96a84,#b34a62); color:#fff;}
+  .chrow.locked .chnum{background:#3a2f4d; color:var(--mut);}
+  .chrow .t{flex:1; font-weight:700; font-size:15.5px; line-height:1.35;}
+  .chrow .u{font-size:12.5px; color:var(--teal); white-space:nowrap; font-weight:700;}
+  .chrow.locked .u{color:var(--mut);}
+  .pathsec{text-align:center; color:var(--mut); font-size:12px; letter-spacing:2.5px; margin:26px 0 6px;
+    display:flex; align-items:center; gap:10px;}
+  .pathsec::before,.pathsec::after{content:""; flex:1; height:1px; background:var(--line);}
+  .node{display:flex; flex-direction:column; align-items:center; position:relative; padding:10px 0 4px;}
+  .node:not(:last-child)::after{content:""; width:3px; height:26px; margin-top:10px; border-radius:2px;
+    background:repeating-linear-gradient(180deg,var(--line) 0 5px,transparent 5px 10px);}
+  .ball{width:86px; height:86px; border-radius:50%; display:grid; place-items:center;
+    font-size:30px; font-weight:800; cursor:pointer; border:4px solid transparent;}
+  .ball.done{background:#1d3a2a; border-color:var(--good); color:var(--good); font-size:32px;}
+  .ball.current{background:radial-gradient(circle at 35% 30%,#e0b45f,var(--gold) 70%);
+    color:#fff; box-shadow:0 0 0 6px #c99a4b33, 0 8px 24px #c99a4b55; animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 6px #c99a4b33;}50%{box-shadow:0 0 0 11px #c99a4b22;}}
+  .ball.locked{background:#241c33; border-color:#171224; color:#6f6386; cursor:default; font-size:30px;}
+  .ntitle{margin-top:8px; font-weight:700; font-size:14.5px; text-align:center; max-width:230px; line-height:1.35;}
+  .ncount{font-size:12px; color:var(--mut); margin-top:2px;}
+  .guide{background:var(--card); border:1px solid var(--line); border-radius:18px; padding:22px; margin-top:16px;}
+  .guide .kick{font-size:12px; letter-spacing:2px; color:var(--gold); font-weight:800;}
+  .guide h2{font-family:var(--serif); font-size:26px; margin:8px 0 10px; line-height:1.25;}
+  .guide p{color:#d8cde9; line-height:1.65; font-size:15.5px;}
+  .qbar{height:10px; background:var(--card2); border:1px solid var(--line); border-radius:999px; overflow:hidden; margin:16px 0 14px;}
+  .qbar i{display:block; height:100%; width:0; background:var(--pink); transition:width .3s;}
+  .qcount{font-size:12px; letter-spacing:2px; color:var(--mut); font-weight:700;}
+  .qtag{display:inline-block; font-size:11.5px; color:var(--teal); border:1px solid #5fd0b555;
+    border-radius:999px; padding:3px 10px; margin-top:8px;}
+  .qtext{font-family:var(--serif); font-size:25px; line-height:1.35; margin:10px 0 16px;}
+  .opt{display:block; width:100%; text-align:left; margin:10px 0; padding:16px; font-size:16px;
+    color:var(--txt); background:var(--card); border:1.5px solid var(--line); border-radius:16px; cursor:pointer; line-height:1.4;}
+  .opt:not(:disabled):active{border-color:var(--pink);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--good); background:#3ddc841c;}
+  .opt.wrong{border-color:var(--bad); background:#ff5d6c1c;}
+  .fb{margin-top:12px; padding:14px 15px; border-radius:14px; font-size:14.5px; line-height:1.6; display:none;}
+  .fb.show{display:block;}
+  .fb.good{background:#3ddc8412; border:1px solid #3ddc8466;}
+  .fb.bad{background:#ff5d6c12; border:1px solid #ff5d6c66;}
+  .donebox{text-align:center; padding:30px 10px;}
+  .donebox .big{font-size:64px;}
+  .donebox h2{font-family:var(--serif); font-size:30px; margin:10px 0 4px;}
+  .rev{margin:8px 0; padding:11px 13px; border:1px solid var(--line); border-radius:12px;
+    font-size:13.5px; background:var(--card); line-height:1.5; text-align:left;}
+  .rev b{color:var(--good);}
+  footer{text-align:center; color:var(--mut); font-size:12px; margin-top:22px; line-height:1.7;}
+  .float{position:fixed; font-weight:800; pointer-events:none; animation:rise 1s ease-out forwards; z-index:50;}
+  @keyframes rise{from{opacity:1; transform:translateY(0);} to{opacity:0; transform:translateY(-46px);}}
+</style>
+</head>
+<body>
+<header class="top">
+  <span class="back hidden" id="backBtn" onclick="goBack()">‹</span>
+  <span class="brand" id="brand">PULSE</span>
+  <span class="hstat">🔥 <span id="hStreak">0</span></span>
+  <span class="hstat">✦ <span id="hXP">0</span></span>
+</header>
+<div class="wrap">
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="hero">
+      <div class="kick">MARROW EDITION 8 · COMPANION</div>
+      <h1>Pharmacology</h1>
+      <p id="heroSub"></p>
+      <a onclick="show('chapters')">Browse chapters →</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="sXP">0</b><span>Total XP</span></div>
+      <div class="stat"><b id="sStreak">0</b><span>Day streak</span></div>
+      <div class="stat"><b id="sUnits">0</b><span>Units done</span></div>
+    </div>
+    <button class="btn ghost" onclick="unlockAll()">🔓 Unlock all units (testing)</button>
+    <button class="btn" onclick="continueLearning()">▶ Continue learning</button>
+  </div>
+
+  <!-- CHAPTERS -->
+  <div id="chapters" class="hidden">
+    <h2 class="page">Chapters</h2>
+    <p class="sub" id="chSub"></p>
+    <div id="chList"></div>
+  </div>
+
+  <!-- PATH -->
+  <div id="path" class="hidden">
+    <p class="sub" id="pathKick" style="margin-top:16px;"></p>
+    <h2 class="page" id="pathTitle" style="margin-top:0;"></h2>
+    <p class="sub" id="pathSub"></p>
+    <div id="nodes"></div>
+  </div>
+
+  <!-- GUIDE -->
+  <div id="guide" class="hidden">
+    <div class="guide">
+      <div class="kick" id="gKick"></div>
+      <h2 id="gTitle"></h2>
+      <p id="gText"></p>
+      <p class="sub" id="gCount"></p>
+      <button class="btn gold" onclick="beginUnit()">Start unit →</button>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="hidden">
+    <div class="qbar"><i id="qbar"></i></div>
+    <div class="qcount" id="qcount"></div>
+    <div><span class="qtag" id="qtag"></span></div>
+    <div class="qtext" id="qtext"></div>
+    <div id="opts"></div>
+    <div class="fb" id="fb"></div>
+    <button class="btn hidden" id="nextBtn" onclick="nextQ()">Continue →</button>
+  </div>
+
+  <!-- UNIT DONE -->
+  <div id="unitdone" class="hidden">
+    <div class="donebox">
+      <div class="big">🎉</div>
+      <h2>Unit complete!</h2>
+      <p class="sub" id="dSub"></p>
+      <div class="stats">
+        <div class="stat"><b id="dScore">–</b><span>Score</span></div>
+        <div class="stat"><b id="dXP">–</b><span>XP earned</span></div>
+        <div class="stat"><b id="dAcc">–</b><span>Accuracy</span></div>
+      </div>
+      <div id="dRev"></div>
+      <button class="btn" onclick="afterUnit()">Continue →</button>
+      <button class="btn ghost" onclick="openGuide(curUnit)">↻ Redo unit</button>
+    </div>
+  </div>
+
+  <footer>PULSE · Pharmacology · question order follows the book line-by-line<br>options shuffled every run · progress saved on this device</footer>
+</div>
+
+<script>
+const QUESTIONS = [];
+const UNITS = [];
+const CHAPTERS = [
+  {n:1,t:"Introduction to Pharmacokinetics and Pharmacodynamics",p:1},
+  {n:2,t:"Pharmacokinetics: Absorption - Part 1",p:2},
+  {n:3,t:"Pharmacokinetics: Absorption - Part 2",p:5},
+  {n:4,t:"Pharmacokinetics: Distribution",p:9},
+  {n:5,t:"Pharmacokinetics: Metabolism",p:11},
+  {n:6,t:"Pharmacokinetics: Excretion",p:15},
+  {n:7,t:"Pharmacodynamics: Potency, Efficacy and Dose Response Curve",p:18},
+  {n:8,t:"Pharmacodynamics: Drug Receptors and Interactions",p:20},
+  {n:9,t:"Drug Development and Clinical Trials",p:25},
+  {n:10,t:"ADR and Pharmacovigilance, Pharmacogenetics and Pharmacogenomics",p:29},
+  {n:11,t:"General Pharmacology: Miscellaneous",p:33},
+  {n:12,t:"Introduction to Autonomic Nervous System (ANS)",p:37},
+  {n:13,t:"Cholinergic Drugs",p:42},
+  {n:14,t:"Anticholinergic Drugs",p:48},
+  {n:15,t:"Sympathetic Nervous System: Neurotransmitters and Receptors",p:52},
+  {n:16,t:"Adrenergic Drugs: Part 1",p:56},
+  {n:17,t:"Adrenergic Drugs: Part 2",p:58},
+  {n:18,t:"Anti-adrenergic Drugs",p:63},
+  {n:19,t:"Antiarrhythmic Drugs: Part 1",p:69},
+  {n:20,t:"Antiarrhythmic Drugs: Part 2",p:74},
+  {n:21,t:"Drugs Used in CHF",p:77},
+  {n:22,t:"Vasodilators",p:83},
+  {n:23,t:"Antihypertensive Drugs",p:89},
+  {n:24,t:"Antianginal Drugs",p:91},
+  {n:25,t:"Hypolipidemic Drugs",p:94},
+  {n:26,t:"Diuretics: Part 1",p:101},
+  {n:27,t:"Diuretics: Part 2",p:106},
+  {n:28,t:"Antiepileptic Drugs: Part 1",p:113},
+  {n:29,t:"Antiepileptic Drugs: Part 2",p:118},
+  {n:30,t:"Sedative-Hypnotic Drugs",p:120},
+  {n:31,t:"Opioids: Part 1",p:123},
+  {n:32,t:"Opioids: Part 2",p:127},
+  {n:33,t:"Affect Disorders: Part 1",p:131},
+  {n:34,t:"Affect Disorders: Part 2",p:134},
+  {n:35,t:"Antipsychotic Drugs",p:141},
+  {n:36,t:"Neurodegenerative Disorders",p:145},
+  {n:37,t:"Alcohol and Smoking Dependence",p:150},
+  {n:38,t:"Introduction to Antibacterial Drugs",p:153},
+  {n:39,t:"Cell Wall Synthesis Inhibitors: Part 1",p:155},
+  {n:40,t:"Cell Wall Synthesis Inhibitors: Part 2",p:159},
+  {n:41,t:"Cell Wall Synthesis Inhibitors: Part 3",p:164},
+  {n:42,t:"Protein Synthesis Inhibitors: Part 1",p:167},
+  {n:43,t:"Protein Synthesis Inhibitors: Part 2",p:171},
+  {n:44,t:"Other Antibacterial Drugs",p:174},
+  {n:45,t:"Anti-fungal Drugs",p:180},
+  {n:46,t:"Non-Retroviral Drugs",p:184},
+  {n:47,t:"Anti-Retroviral Drugs",p:189},
+  {n:48,t:"Anti-Mycobacterial Drugs",p:193},
+  {n:49,t:"Anti-Protozoal Drugs",p:199},
+  {n:50,t:"Anti-Helminthic Drugs",p:205},
+  {n:51,t:"Antidiabetic Drugs: Part 1",p:207},
+  {n:52,t:"Antidiabetic Drugs: Part 2",p:211},
+  {n:53,t:"Drugs Acting on Reproductive System",p:215},
+  {n:54,t:"Growth Hormone and Related Drugs",p:218},
+  {n:55,t:"Steroids",p:221},
+  {n:56,t:"Drugs Acting on Bone",p:224},
+  {n:57,t:"Drugs Acting on Thyroid",p:227},
+  {n:58,t:"Anti-histaminics",p:230},
+  {n:59,t:"Serotonin-related Drugs",p:233},
+  {n:60,t:"Eicosanoids",p:237},
+  {n:61,t:"Gout",p:242},
+  {n:62,t:"Rheumatoid Arthritis",p:244},
+  {n:63,t:"Anti-aggregants and Hematopoietic Agents",p:247},
+  {n:64,t:"Anticoagulants and Fibrinolytics",p:251},
+  {n:65,t:"Bronchial Asthma",p:256},
+  {n:66,t:"Antitussives",p:259},
+  {n:67,t:"Peptic Ulcer Disease",p:261},
+  {n:68,t:"Prokinetics and Antiemetics",p:266},
+  {n:69,t:"Laxatives and Antidiarrheal Drugs",p:269},
+  {n:70,t:"Immunomodulators",p:272},
+  {n:71,t:"Introduction to Anticancer Drugs",p:276},
+  {n:72,t:"Non-Cell Cycle Specific Drugs",p:282},
+  {n:73,t:"Cell Cycle Specific Drugs",p:286},
+  {n:74,t:"Miscellaneous Drugs",p:290}
+];
+const QBYID = {}; QUESTIONS.forEach(q=>QBYID[q.id]=q);
+const $=id=>document.getElementById(id);
+function store(k,v){try{if(v===undefined){const r=localStorage.getItem(k);return r==null?null:JSON.parse(r);}localStorage.setItem(k,JSON.stringify(v));}catch(e){return v===undefined?null:undefined;}}
+const S = {
+  get xp(){return store('pulse_xp')||0;}, set xp(v){store('pulse_xp',v);},
+  get done(){return store('pulse_done')||[];}, set done(v){store('pulse_done',v);},
+  get unlock(){return !!store('pulse_unlock');}, set unlock(v){store('pulse_unlock',v);},
+  streak(){const t=store('pulse_streak')||{n:0,day:''};return t;},
+  bumpStreak(){const today=new Date().toISOString().slice(0,10);let s=this.streak();
+    if(s.day===today)return s.n;
+    const y=new Date(Date.now()-864e5).toISOString().slice(0,10);
+    s={n:(s.day===y?s.n+1:1),day:today};store('pulse_streak',s);return s.n;}
+};
+const nav={stack:['home']};
+function show(id){nav.stack.push(id);render();}
+function goBack(){if(nav.stack.length>1)nav.stack.pop();render();}
+function render(){
+  const cur=nav.stack[nav.stack.length-1];
+  ['home','chapters','path','guide','quiz','unitdone'].forEach(s=>$(s).classList.toggle('hidden',s!==cur));
+  $('backBtn').classList.toggle('hidden',cur==='home');
+  $('brand').textContent = cur==='home'?'PULSE':'PULSE';
+  refreshStats();
+  if(cur==='home')renderHome();
+  if(cur==='chapters')renderChapters();
+  if(cur==='path')renderPath();
+}
+function refreshStats(){
+  $('hXP').textContent=S.xp; $('hStreak').textContent=S.streak().n;
+  $('sXP').textContent=S.xp; $('sStreak').textContent=S.streak().n; $('sUnits').textContent=S.done.length;
+}
+function renderHome(){
+  const live=CHAPTERS.filter(c=>c.live).length;
+  $('heroSub').textContent=live+' of '+CHAPTERS.length+' chapters built so far — original questions, guides, and unit-by-unit mastery for each.';
+}
+function unitsOf(ch){return UNITS.filter(u=>u.ch===ch).sort((a,b)=>a.n-b.n);}
+function renderChapters(){
+  $('chSub').textContent=CHAPTERS.length+' chapters · Full chapter-by-chapter exam pass';
+  const box=$('chList'); box.innerHTML='';
+  CHAPTERS.forEach(c=>{
+    const us=c.live?unitsOf(c.n):[];
+    const dn=us.filter(u=>S.done.includes(u.id)).length;
+    const d=document.createElement('div');
+    d.className='chrow'+(c.live?'':' locked');
+    d.innerHTML='<div class="chnum">'+c.n+'</div><div class="t">'+escapeHtml(c.t)+'</div><div class="u">'+(c.live?dn+'/'+us.length+' units':'Soon')+'</div>';
+    if(c.live)d.onclick=()=>{curCh=c.n;show('path');};
+    box.appendChild(d);
+  });
+}
+let curCh=1, curUnit=null;
+function unitState(u,us){
+  if(S.done.includes(u.id))return 'done';
+  if(S.unlock)return 'current';
+  const i=us.findIndex(x=>x.id===u.id);
+  if(i===0)return 'current';
+  return S.done.includes(us[i-1].id)?'current':'locked';
+}
+function renderPath(){
+  const c=CHAPTERS.find(x=>x.n===curCh), us=unitsOf(curCh);
+  $('pathKick').textContent='CHAPTER '+c.n;
+  $('pathTitle').textContent=c.t;
+  $('pathSub').textContent=us.filter(u=>S.done.includes(u.id)).length+' of '+us.length+' units done · in book order';
+  const box=$('nodes'); box.innerHTML='';
+  let lastSec='';
+  us.forEach(u=>{
+    if(u.sec!==lastSec){lastSec=u.sec;
+      const s=document.createElement('div');s.className='pathsec';s.textContent=u.sec;box.appendChild(s);}
+    const st=unitState(u,us);
+    const d=document.createElement('div');d.className='node';
+    d.innerHTML='<div class="ball '+st+'">'+(st==='done'?'✓':st==='locked'?'🔒':u.n)+'</div><div class="ntitle">'+escapeHtml(u.title)+'</div><div class="ncount">'+u.qs.length+' questions</div>';
+    if(st!=='locked')d.querySelector('.ball').onclick=()=>openGuide(u);
+    box.appendChild(d);
+  });
+}
+function openGuide(u){curUnit=u;
+  $('gKick').textContent='CHAPTER '+u.ch+' · UNIT '+u.n+' · '+u.sec.toUpperCase();
+  $('gTitle').textContent=u.title;
+  $('gText').textContent=u.guide;
+  $('gCount').textContent=u.qs.length+' questions · follows the book line-by-line';
+  show('guide');
+}
+let order=[],idx=0,xpGain=0,streak=0,correct=0,wrongList=[],locked=false;
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function beginUnit(){
+  // FIXED book order — only options shuffle (anti-bias)
+  order=curUnit.qs.map(id=>{const q=QBYID[id];return {q,opts:shuffle(q.opts.map((t,i)=>({t,ok:i===q.ans})))};});
+  idx=0;xpGain=0;streak=0;correct=0;wrongList=[];
+  show('quiz');renderQ();
+}
+function renderQ(){
+  locked=false;
+  const cur=order[idx],q=cur.q;
+  $('qbar').style.width=(idx/order.length*100)+'%';
+  $('qcount').textContent='QUESTION '+(idx+1)+' OF '+order.length;
+  $('qtag').textContent=q.sec+' · Book p'+q.page;
+  $('qtext').textContent=q.q;
+  const box=$('opts');box.innerHTML='';
+  cur.opts.forEach(o=>{
+    const b=document.createElement('button');b.className='opt';b.textContent=o.t;
+    b.onclick=()=>answer(o,b);box.appendChild(b);
+  });
+  $('fb').className='fb';$('fb').innerHTML='';
+  $('nextBtn').classList.add('hidden');
+  $('nextBtn').textContent=idx===order.length-1?'Finish ✓':'Continue →';
+}
+function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function answer(o,btn){
+  if(locked)return;locked=true;
+  const cur=order[idx],q=cur.q,btns=$('opts').children;
+  const rightIdx=cur.opts.findIndex(x=>x.ok);
+  [...btns].forEach(b=>b.disabled=true);
+  btns[rightIdx].classList.add('correct');
+  const fb=$('fb');
+  if(o.ok){correct++;streak++;
+    const gain=10+Math.min(streak*2,10);xpGain+=gain;S.xp=S.xp+gain;
+    floatText(btn,'+'+gain+' XP','#e0607e');
+    fb.className='fb show good';
+    fb.innerHTML='✅ Correct! '+escapeHtml(q.exp);
+  }else{btn.classList.add('wrong');streak=0;
+    wrongList.push(q);
+    fb.className='fb show bad';
+    fb.innerHTML='❌ Answer: <b>'+escapeHtml(cur.opts[rightIdx].t)+'</b><br>'+escapeHtml(q.exp);
+  }
+  refreshStats();
+  $('nextBtn').classList.remove('hidden');
+}
+function floatText(el,txt,color){
+  const r=el.getBoundingClientRect(),s=document.createElement('div');
+  s.className='float';s.textContent=txt;s.style.color=color;
+  s.style.left=(r.left+r.width/2-24)+'px';s.style.top=(r.top-6+window.scrollY)+'px';
+  document.body.appendChild(s);setTimeout(()=>s.remove(),1000);
+}
+function nextQ(){idx++;if(idx>=order.length)finishUnit();else renderQ();}
+function finishUnit(){
+  const d=S.done;if(!d.includes(curUnit.id)){d.push(curUnit.id);S.done=d;}
+  S.bumpStreak();
+  const pct=Math.round(correct/order.length*100);
+  $('dSub').textContent=curUnit.title+' · '+correct+'/'+order.length+' correct';
+  $('dScore').textContent=correct+'/'+order.length;
+  $('dXP').textContent='+'+xpGain;$('dAcc').textContent=pct+'%';
+  const box=$('dRev');box.innerHTML='';
+  if(wrongList.length){const h=document.createElement('p');h.className='sub';h.textContent='Review:';box.appendChild(h);}
+  wrongList.forEach(q=>{
+    const r=document.createElement('div');r.className='rev';
+    r.innerHTML='❓ '+escapeHtml(q.q)+'<br>✅ <b>'+escapeHtml(q.opts[q.ans])+'</b> — '+escapeHtml(q.exp);
+    box.appendChild(r);
+  });
+  show('unitdone');
+}
+function afterUnit(){nav.stack=['home','chapters','path'];render();}
+function continueLearning(){
+  const c=CHAPTERS.find(x=>x.live);
+  if(!c)return;curCh=c.n;
+  const us=unitsOf(c.n);
+  const nxt=us.find(u=>unitState(u,us)==='current')||us[0];
+  curUnit=nxt;nav.stack=['home'];openGuide(nxt);
+}
+function unlockAll(){S.unlock=true;render();}
+document.addEventListener('keydown',e=>{
+  if($('quiz').classList.contains('hidden'))return;
+  const k=parseInt(e.key);
+  if(k>=1&&k<=4&&!locked){const b=$('opts').children[k-1];if(b)b.click();}
+  else if(e.key==='Enter'&&locked)nextQ();
+});
+render();
+</script>
+</body>
+</html>
