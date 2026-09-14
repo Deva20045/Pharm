@@ -8,7 +8,9 @@ Coordinates are in the 300-dpi render frame (page ~2479 x 3506 px), so they can 
 read straight off `python3 work/ocr.py <page> 300` output.
 """
 import sys
+import os
 import pymupdf
+os.makedirs("work/pages", exist_ok=True)
 
 args = sys.argv[1:]
 do_ocr = "--ocr" in args

@@ -20,6 +20,6 @@ small = cv2.normalize(small, None, 0, 255, cv2.NORM_MINMAX)
 if gamma != 1.0:
     small = cv2.pow(small / 255.0, gamma) * 255
 small = small.astype("uint8")
-ramp = "@%#*+=-:. "
+ramp = " .:-=+*#%@"
 for r in small:
     print("".join(ramp[min(len(ramp) - 1, int((255 - v) / 256 * len(ramp)))] for v in r))
