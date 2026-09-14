@@ -1,0 +1,45 @@
+# book p144 dpi=300 boxes=60
+  171   216 | 144  |  Central andPeripheral NervousSystem
+  367   236 | -Active space
+  484   253 | Side effect  |  Etiology  |  Presentation
+  535  1763 | Treatment
+  597   553 | upregulation  |  Facial dyskinesia:
+  605  1493 | VmATblockers(Doc)
+  673   297 | Tardive  |  ofDa  |  Lipsmacking
+  674  1491 | moA:Preventsdopamineentryinto
+  749   269 | dyskinesia.  |  receptor  |  Tongueprotrusion.
+  759  1495 | vesicle.
+  816   551 | (Late onset)  |  Limb dyskinesia:waving of
+  833  1532 | -Deutetrabenazine.
+  883   908 | hand
+  900  1528 | -Valbenazine.
+  955   878 | Autonomicinstability:
+  985  1521 | Doc:Dantrolene.
+ 1033   267 | Neuroleptic  |  BP
+ 1061  1539 | mOA:InhibitsRyanodine
+ 1082   281 | malignant  |  SevereDa  |  /↓ofRespiratoryrate
+ 1137  1542 | receptor(RyR)
+ 1167   290 | syndrome  |  block  |  sweating
+ 1204  1541 | mostspecifcdrug:Bromocriptine.
+ 1226   327 | (SWN)  |  Severemusclecontraction
+ 1279  1539 | mOA:Daaqonist.
+ 1291   882 | rigidity.
+ 1369   863 | Hyperthermia
+ 1455   593 | Note:
+ 1514   630 | Sideeffectofmetoclopramide(Dablocker anti-emetic):Acutedystonia
+ 1604   674 | parkinsonism.
+ 1667   641 | Dantrolene:Docformalignanthyperthermia
+ 1807   605 | Therapeutic Decision Making
+ 1879  2088 | 00:54:26
+ 1943   602 | Psychosis:
+ 1978  1609 | Post partum psychosis:
+ 1999   251 | StartAtypical anti-psychotics(Exceptclozapineolanzapine)
+ 2054  1539 | +Lithium
+ 2100   907 | funresponsivelwks
+ 2116  1592 | (o/t association with bipolar
+ 2151   523 | Addanotheratypical antipsychotic
+ 2192  1594 | disorder).
+ 2241   288 | Switchtotypicalantipsychotic(Haloperidol/Fluphenazine)  |  funresponsivelo wks
+ 2381   908 | funresponsivewks
+ 2450   841 | 133
+ 3118  1099 | Pharmacology·v3.0·Marnw

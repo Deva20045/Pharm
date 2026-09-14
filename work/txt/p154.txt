@@ -1,0 +1,46 @@
+# book p154 dpi=300 boxes=52
+  226   230 | 154  |  Antimicrobials
+  422   216 | Active space
+  491  1527 | Ifcell wallabsent:
+  496   593 | cell wallpresent:
+  579   188 | Istlinedrugs:β-lactam
+  635   299 | Gram+ve:Penicillin  |  fresistant
+  635  1125 | Vancomycin  |  Drugs used:Protein synthesis
+  717  1579 | inhibitors
+  724   308 | Gram-ve:Cephalosporin/penicillin/
+  786  1594 | aTetracycline
+  798   313 | carbapenems
+  856  1597 | b.macrolides  |  istline
+  925  1595 | c.Clindamycin
+  987  1599 | dLinezolid  |  Toxicity
+ 1031   209 | Add-on drug (Severe infection):Aminoglycosides
+ 1063  1595 | e.Streptomycinand/3rdline
+ 1323  1372 | IinfectioninGIT：
+ 1335   184 | Ifinfection in urinary tract:
+ 1377  1372 | Drugs with↑concentration in stool:
+ 1400   188 | Druqs withconcentration in urine:
+ 1455  1370 | Fluoroquinolones(ist line)
+ 1471   257 | aFluoroquinolones(istline,toxic)
+ 1544   258 | b.SufonamidesAnti-protozoal>
+ 1544  1368 | Last line drugs:↑↑Toxicity
+ 1609   262 | c.Cotrimoxozole  |  Anti-bacterial(Rarebacteria)
+ 1616  1379 | d Polymyxins :For resistant Gram -ve
+ 1715   620 | Note:Aminoglycosides are
+ 1771  1424 | Gramtve
+ 1789   625 | nephrotoxic.
+ 1920  2118 | 00:37:26
+ 1923   630 | Drug-specific details
+ 2040   632 | Peptides:
+ 2116  1713 | Poororalabsorption
+ 2119   646 | Glycopeptides
+ 2158   988 | ProteinsLargemolecularsize  |  CannotenterGram-ve
+ 2192   658 | Lipopeptides
+ 2241  1750 | cell walls (Through porins)
+ 2326   639 | Spectrum:Gram +veStaphylococcus,Enterococcus
+ 2448   642 | Aminoglycosides:
+ 2517   644 | Poor oral absorption.
+ 2727   961 | Transmembranepotential(Tmp)
+ 2823   651 | Polytherapy spectrum:Gram +ve-ve bacteria.
+ 2884  1273 | +AminoglycosideBactericidal effect.
+ 2916   662 | β-lactamsInhibitcellwol
+ 3102  1141 | Pharmacology·V3.0·MariowB.0·2024

@@ -1,0 +1,1801 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C32-001",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "The group of opioids with which 'Opioids: Part 2' begins is:",
+   "opts": [
+    "Full agonist opioids",
+    "Mixed agonist-antagonists",
+    "Pure antagonists",
+    "Peripheral antagonists"
+   ],
+   "ans": 0,
+   "exp": "The page heading is 'Full agonist opioids'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-002",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "The first full agonist opioid discussed is:",
+   "opts": [
+    "Morphine",
+    "Codeine",
+    "Pethidine",
+    "Fentanyl"
+   ],
+   "ans": 0,
+   "exp": "Morphine is the first drug listed under full agonist opioids. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-003",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "The oral bioavailability of morphine is low because of:",
+   "opts": [
+    "High first pass metabolism",
+    "Poor tablet disintegration",
+    "P-glycoprotein efflux in the gut only",
+    "Binding to food"
+   ],
+   "ans": 0,
+   "exp": "The pharmacokinetics line states that oral bioavailability is low owing to high first pass metabolism. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-004",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Because of first pass metabolism, the oral dose of morphine compared with the intravenous dose is:",
+   "opts": [
+    "Greater",
+    "Smaller",
+    "Equal",
+    "Half"
+   ],
+   "ans": 0,
+   "exp": "The page notes 'oral dose > IV dose'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-005",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Morphine is metabolised in the:",
+   "opts": [
+    "Liver",
+    "Kidney",
+    "Plasma",
+    "Intestinal mucosa"
+   ],
+   "ans": 0,
+   "exp": "The entry reads metabolism: liver. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-006",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Metabolism in the liver makes morphine contraindicated in:",
+   "opts": [
+    "Liver and renal failure",
+    "Peptic ulcer disease",
+    "Glaucoma only",
+    "Asthma only"
+   ],
+   "ans": 0,
+   "exp": "The note against metabolism reads 'C/I in liver and renal failure'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-007",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Morphine is eliminated mainly by the:",
+   "opts": [
+    "Kidney",
+    "Lung",
+    "Bile",
+    "Skin"
+   ],
+   "ans": 0,
+   "exp": "The entry reads elimination: kidney. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-008",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "The duration of action of morphine is attributed to its:",
+   "opts": [
+    "Active metabolites",
+    "High plasma protein binding",
+    "Enterohepatic circulation",
+    "Slow absorption"
+   ],
+   "ans": 0,
+   "exp": "The duration-of-action line is qualified by 'd/t active metabolites'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-009",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Morphine is described as the drug of choice in:",
+   "opts": [
+    "Severe pain",
+    "Mild pain",
+    "Neuropathic pain only",
+    "Cough"
+   ],
+   "ans": 0,
+   "exp": "The uses section of morphine begins with 'DOC in severe pain'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-010",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Which of the following pains is listed as an indication for morphine?",
+   "opts": [
+    "Pain in cancer",
+    "Tension headache",
+    "Dysmenorrhoea",
+    "Post-herpetic itch"
+   ],
+   "ans": 0,
+   "exp": "The list of pains includes labour pain, bone pain, pain in multiple myeloma, MI pain and pain in cancer. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-011",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Absolute contraindication to morphine listed on the page is:",
+   "opts": [
+    "Head trauma",
+    "Bronchial asthma",
+    "Renal colic",
+    "Myocardial infarction"
+   ],
+   "ans": 0,
+   "exp": "Head trauma is labelled an absolute contraindication. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-012",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Morphine is contraindicated in head trauma because it causes:",
+   "opts": [
+    "Increased intracranial pressure",
+    "Decreased intracranial pressure",
+    "Cerebral vasoconstriction",
+    "Seizures"
+   ],
+   "ans": 0,
+   "exp": "The reason given against head trauma is the rise in intracranial pressure. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-013",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Bronchial asthma is listed as what type of contraindication to morphine?",
+   "opts": [
+    "Relative",
+    "Absolute",
+    "No contraindication",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Bronchial asthma is labelled a relative contraindication. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-014",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "Morphine is relatively contraindicated in bronchial asthma because it causes increased release of:",
+   "opts": [
+    "Histamine",
+    "Leukotrienes only",
+    "Acetylcholine",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "The reason given against bronchial asthma is increased release of histamine. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-015",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "page": 127,
+   "q": "A patient with head injury and a rising intracranial pressure should not receive morphine chiefly because it:",
+   "opts": [
+    "Raises intracranial pressure further",
+    "Causes histamine release",
+    "Is eliminated by the kidney",
+    "Has active metabolites"
+   ],
+   "ans": 0,
+   "exp": "Head trauma is an absolute contraindication because morphine raises intracranial pressure. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-016",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "The drug discussed immediately after morphine on this page is:",
+   "opts": [
+    "Codeine",
+    "Pethidine",
+    "Tramadol",
+    "Fentanyl"
+   ],
+   "ans": 0,
+   "exp": "Codeine follows morphine in the full agonist list. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-017",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "The fraction of codeine that is converted to morphine is:",
+   "opts": [
+    "About 10% of the drug",
+    "About 90% of the drug",
+    "Half of the drug",
+    "None of the drug"
+   ],
+   "ans": 0,
+   "exp": "The metabolism diagram shows 10% of the drug going to morphine. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-018",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "The enzyme that converts codeine to morphine is:",
+   "opts": [
+    "CYP2D6",
+    "CYP3A4",
+    "CYP2C19",
+    "Pseudocholinesterase"
+   ],
+   "ans": 0,
+   "exp": "The arrow from codeine to morphine is labelled CYP2D6. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-019",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "The metabolic fate of the remaining (about 90%) fraction of codeine is:",
+   "opts": [
+    "Glucuronidation to an inactive metabolite that is excreted",
+    "Oxidation to morphine",
+    "Acetylation to an active metabolite",
+    "Excretion unchanged in the urine"
+   ],
+   "ans": 0,
+   "exp": "The second branch shows 90% of the drug undergoing glucuronidation to an inactive metabolite that is excreted. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-020",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "A patient with increased CYP2D6 activity given codeine would be expected to have:",
+   "opts": [
+    "Increased analgesia with a risk of respiratory distress",
+    "No analgesia at all",
+    "Only anti-tussive effect",
+    "Accumulation of inactive metabolite"
+   ],
+   "ans": 0,
+   "exp": "Increased activity of CYP2D6 gives more morphine, hence increased analgesia and a risk of respiratory distress. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-021",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "A poor metaboliser with decreased CYP2D6 activity given codeine would have:",
+   "opts": [
+    "Decreased analgesia",
+    "Excessive analgesia",
+    "Hepatotoxicity",
+    "No change in effect"
+   ],
+   "ans": 0,
+   "exp": "Decreased CYP2D6 activity means less morphine is formed, so analgesia is reduced. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-022",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "Codeine is used as an:",
+   "opts": [
+    "Anti-tussive and for mild to moderate pain",
+    "Anti-diarrhoeal only",
+    "Drug of abuse only",
+    "Pure antagonist"
+   ],
+   "ans": 0,
+   "exp": "The uses listed are anti-tussive and mild to moderate pain. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-023",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "Which statement about codeine is correct?",
+   "opts": [
+    "It is a prodrug partly converted to morphine by CYP2D6",
+    "It is a pure antagonist at the mu receptor",
+    "It is more potent than morphine",
+    "It does not require metabolism for analgesia"
+   ],
+   "ans": 0,
+   "exp": "Codeine's analgesia depends on CYP2D6-mediated conversion to morphine, i.e. it is a prodrug. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-024",
+   "sec": "Codeine",
+   "page": 127,
+   "q": "Respiratory distress as an adverse effect of codeine is explained by:",
+   "opts": [
+    "Excess formation of morphine in extensive CYP2D6 metabolisers",
+    "Histamine release in the bronchi",
+    "Direct depression of the cough centre",
+    "Accumulation of the glucuronide metabolite"
+   ],
+   "ans": 0,
+   "exp": "The diagram links increased CYP2D6 activity with the risk of respiratory distress through excess morphine formation. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-025",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 127,
+   "q": "The maximum duration of use recommended for pethidine (meperidine) is:",
+   "opts": [
+    "48 hours",
+    "48 days",
+    "7 days",
+    "2 weeks"
+   ],
+   "ans": 0,
+   "exp": "The page states maximum duration of use: 48 hr, because of toxicity. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-026",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 127,
+   "q": "The 48-hour limit on pethidine use is imposed because of:",
+   "opts": [
+    "Toxicity",
+    "Tolerance",
+    "Cost",
+    "Shortage of the drug"
+   ],
+   "ans": 0,
+   "exp": "The limit is qualified by 'd/t toxicity'. (Book p127)"
+  },
+  {
+   "id": "PHARM-C32-027",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The major fraction of pethidine is metabolised to:",
+   "opts": [
+    "Meperidinic acid, which is excreted by the kidney",
+    "Nor-meperidine, which is neurotoxic",
+    "Morphine",
+    "Nor-meperidinic acid"
+   ],
+   "ans": 0,
+   "exp": "About 90% is metabolised to meperidinic acid, which is excreted by the kidney. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-028",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The minor (about 10%) metabolite of pethidine is:",
+   "opts": [
+    "Nor-meperidine",
+    "Meperidinic acid",
+    "Morphine-6-glucuronide",
+    "Normorphine"
+   ],
+   "ans": 0,
+   "exp": "About 10% is converted to nor-meperidine. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-029",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Nor-meperidine is important because it is:",
+   "opts": [
+    "Neurotoxic",
+    "Analgesic",
+    "Anti-tussive",
+    "Hepatotoxic"
+   ],
+   "ans": 0,
+   "exp": "Nor-meperidine is labelled neurotoxic. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-030",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Nor-meperidine is further metabolised to:",
+   "opts": [
+    "Nor-meperidinic acid",
+    "Meperidinic acid",
+    "Morphine",
+    "Normorphine"
+   ],
+   "ans": 0,
+   "exp": "The metabolic chain continues from nor-meperidine to nor-meperidinic acid. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-031",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Nor-meperidinic acid, like meperidinic acid, is:",
+   "opts": [
+    "Excreted by the kidney",
+    "Excreted in the bile",
+    "Neurotoxic",
+    "Converted back to pethidine"
+   ],
+   "ans": 0,
+   "exp": "Both acid metabolites are noted as excreted by the kidney. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-032",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Pethidine is described as a cheaper alternative for:",
+   "opts": [
+    "Severe pain, for example labour pain",
+    "Mild pain",
+    "Cough",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "The page says severe pain: cheaper alternative (eg: labour pain). (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-033",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The drug of choice for post-operative chills is:",
+   "opts": [
+    "Pethidine",
+    "Morphine",
+    "Tramadol",
+    "Naloxone"
+   ],
+   "ans": 0,
+   "exp": "Pethidine is labelled DOC for chills, covering post-operative chills. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-034",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Chills occurring after a drug infusion, for example with monoclonal antibodies or amphotericin B, are treated with:",
+   "opts": [
+    "Pethidine",
+    "Paracetamol",
+    "Naloxone",
+    "Ondansetron"
+   ],
+   "ans": 0,
+   "exp": "Post drug chills due to monoclonal antibodies or amphotericin B are listed under the DOC-for-chills indication. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-035",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Two causes of post-drug chills listed on the page are:",
+   "opts": [
+    "Monoclonal antibodies and amphotericin B",
+    "Opioids and benzodiazepines",
+    "Statins and fibrates",
+    "Beta blockers and clonidine"
+   ],
+   "ans": 0,
+   "exp": "The page names monoclonal antibodies and amphotericin B as causes of post drug chills. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-036",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The mechanism quoted for the anti-chills effect of pethidine is agonism at:",
+   "opts": [
+    "Alpha-2 receptors",
+    "Mu opioid receptors",
+    "Dopamine D2 receptors",
+    "GABA-A receptors"
+   ],
+   "ans": 0,
+   "exp": "The mechanism line reads MOA: alpha-2 receptor agonism. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-037",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Which of the following is listed as a side effect of pethidine?",
+   "opts": [
+    "Serotonin syndrome",
+    "QT prolongation",
+    "Hepatotoxicity",
+    "Pulmonary edema"
+   ],
+   "ans": 0,
+   "exp": "The side effects list includes serotonin syndrome, neurotoxicity and hypotension. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-038",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Hypotension with pethidine calls for cautious use in:",
+   "opts": [
+    "Hypovolemia and myocardial infarction",
+    "Hepatic failure",
+    "Asthma",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The note reads hypotension with cautious use in hypovolemia and MI. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-039",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The first contraindication listed for pethidine is:",
+   "opts": [
+    "Renal failure with accumulation of nor-meperidine",
+    "MAO inhibitor use",
+    "Head trauma",
+    "Bronchial asthma"
+   ],
+   "ans": 0,
+   "exp": "C/I 1 is renal failure, because nor-meperidine accumulates. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-040",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Renal failure predisposes to pethidine toxicity through accumulation of:",
+   "opts": [
+    "Nor-meperidine",
+    "Meperidinic acid",
+    "Pethidine glucuronide",
+    "Morphine"
+   ],
+   "ans": 0,
+   "exp": "Accumulation of nor-meperidine in renal failure causes neurotoxicity. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-041",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "The second contraindication listed for pethidine is concomitant use of:",
+   "opts": [
+    "MAO inhibitors",
+    "Beta blockers",
+    "Benzodiazepines",
+    "Statins"
+   ],
+   "ans": 0,
+   "exp": "C/I 2 is MAO inhibitor use. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-042",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "MAO inhibitors increase the risk of serotonin syndrome with pethidine because they:",
+   "opts": [
+    "Block formation of meperidinic and nor-meperidinic acid",
+    "Induce CYP2D6",
+    "Increase renal excretion",
+    "Release histamine"
+   ],
+   "ans": 0,
+   "exp": "The page states that MAO inhibitors block formation of meperidinic and nor-meperidinic acid, leading to neurotoxicity and an increased risk of serotonin syndrome. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-043",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "A patient on an MAO inhibitor who receives pethidine is at risk of:",
+   "opts": [
+    "Both neurotoxicity and serotonin syndrome",
+    "Only respiratory depression",
+    "Only histamine-mediated bronchospasm",
+    "Only QT prolongation"
+   ],
+   "ans": 0,
+   "exp": "The note names neurotoxicity and an increased risk of serotonin syndrome together. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-044",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "page": 128,
+   "q": "Which opioid has a 48-hour ceiling on use, is the DOC for chills and accumulates a neurotoxic metabolite in renal failure?",
+   "opts": [
+    "Pethidine (meperidine)",
+    "Morphine",
+    "Codeine",
+    "Tramadol"
+   ],
+   "ans": 0,
+   "exp": "All three statements describe pethidine: 48-hour limit, DOC for chills and nor-meperidine accumulation. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-045",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "The time to onset of analgesia with intravenous methadone is:",
+   "opts": [
+    "About 10 minutes",
+    "About 1 hour",
+    "About 1 minute",
+    "About 6 hours"
+   ],
+   "ans": 0,
+   "exp": "The page gives IV route: 10 min for onset of analgesia. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-046",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "The time to onset of analgesia with oral methadone is:",
+   "opts": [
+    "About 1 hour",
+    "About 10 minutes",
+    "About 6 hours",
+    "About 30 seconds"
+   ],
+   "ans": 0,
+   "exp": "The page gives oral route: 1 hr for onset of analgesia. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-047",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "Which of the following is a listed side effect of methadone?",
+   "opts": [
+    "QT prolongation",
+    "Pulmonary edema",
+    "Hepatotoxicity",
+    "Serotonin syndrome"
+   ],
+   "ans": 0,
+   "exp": "The side effects listed are QT prolongation and anti-cholinergic effects. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-048",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "The second side effect listed for methadone is:",
+   "opts": [
+    "Anti-cholinergic effects",
+    "Neurotoxicity",
+    "Hypotension",
+    "Histamine release"
+   ],
+   "ans": 0,
+   "exp": "Along with QT prolongation, anti-cholinergic effects are listed. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-049",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "Methadone is used in opioid dependence because the drug is:",
+   "opts": [
+    "Sequestered in tissues, giving sustained effects with minimal withdrawal symptoms",
+    "A pure antagonist at the mu receptor",
+    "Excreted unchanged by the kidney",
+    "Free of any effect on the heart"
+   ],
+   "ans": 0,
+   "exp": "The page states the drug is sequestered in tissues, producing sustained effects and minimal withdrawal symptoms. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-050",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "The sustained effect of methadone in opioid dependence is explained by:",
+   "opts": [
+    "Sequestration of the drug in tissues",
+    "Enterohepatic circulation",
+    "Active renal reabsorption",
+    "Inhibition of CYP3A4"
+   ],
+   "ans": 0,
+   "exp": "Tissue sequestration is given as the reason for the sustained effect. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-051",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "A patient on methadone maintenance develops a prolonged QT interval. The drug-related explanation is:",
+   "opts": [
+    "Methadone causes QT prolongation",
+    "Methadone causes hypokalaemia",
+    "Methadone releases histamine",
+    "Methadone blocks calcium channels"
+   ],
+   "ans": 0,
+   "exp": "QT prolongation is a listed adverse effect of methadone. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-052",
+   "sec": "Methadone",
+   "page": 128,
+   "q": "Apart from opioid dependence, methadone is used as an:",
+   "opts": [
+    "Analgesic",
+    "Anti-tussive",
+    "Anti-diarrhoeal",
+    "Antagonist"
+   ],
+   "ans": 0,
+   "exp": "The uses listed are analgesic and opioid dependence. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-053",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "The three anti-diarrhoeal opioids grouped together on this page are:",
+   "opts": [
+    "Loperamide, diphenoxylate and difenoxin",
+    "Loperamide, codeine and morphine",
+    "Diphenoxylate, tramadol and pethidine",
+    "Difenoxin, loperamide and eluxadoline"
+   ],
+   "ans": 0,
+   "exp": "The heading groups loperamide, diphenoxylate and difenoxin. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-054",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "These opioids are used in:",
+   "opts": [
+    "Non-secretory diarrhoea",
+    "Secretory diarrhoea only",
+    "Constipation",
+    "Vomiting"
+   ],
+   "ans": 0,
+   "exp": "The use listed is non-secretory diarrhoea. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-055",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "The drug of choice in irritable bowel syndrome among these agents is:",
+   "opts": [
+    "Loperamide",
+    "Diphenoxylate",
+    "Difenoxin",
+    "Codeine"
+   ],
+   "ans": 0,
+   "exp": "The page names loperamide as the DOC in irritable bowel syndrome. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-056",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "Chemotherapy-induced diarrhoea specifically mentioned is that caused by:",
+   "opts": [
+    "Irinotecan",
+    "Cyclophosphamide",
+    "Methotrexate",
+    "5-fluorouracil only"
+   ],
+   "ans": 0,
+   "exp": "Irinotecan-induced diarrhoea is listed as an indication. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-057",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "Loperamide does not produce dependence because it:",
+   "opts": [
+    "Does not cross the blood-brain barrier",
+    "Is not an opioid",
+    "Is excreted unchanged",
+    "Is a pure antagonist"
+   ],
+   "ans": 0,
+   "exp": "The note states loperamide does not cross the blood-brain barrier, hence no dependence. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-058",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "To prevent dependence on and abuse of diphenoxylate and difenoxin, the formulation contains:",
+   "opts": [
+    "Atropine",
+    "Naloxone",
+    "Naltrexone",
+    "Hyoscine"
+   ],
+   "ans": 0,
+   "exp": "Atropine is added to prevent dependence and abuse of diphenoxylate and difenoxin. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-059",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "A patient with chemotherapy (irinotecan) induced diarrhoea would be treated with:",
+   "opts": [
+    "Loperamide",
+    "Eluxadoline",
+    "Alvimopan",
+    "Methylnaltrexone"
+   ],
+   "ans": 0,
+   "exp": "Irinotecan-induced diarrhoea is listed under the uses of loperamide, diphenoxylate and difenoxin. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-060",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin",
+   "page": 128,
+   "q": "Which anti-diarrhoeal opioid is safest with respect to central dependence?",
+   "opts": [
+    "Loperamide",
+    "Diphenoxylate",
+    "Difenoxin",
+    "Codeine"
+   ],
+   "ans": 0,
+   "exp": "Loperamide does not cross the blood-brain barrier, so it does not cause dependence. (Book p128)"
+  },
+  {
+   "id": "PHARM-C32-061",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The first drug discussed on this page is:",
+   "opts": [
+    "Tramadol",
+    "Fentanyl",
+    "Methadone",
+    "Loperamide"
+   ],
+   "ans": 0,
+   "exp": "Tramadol begins the page. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-062",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "Tramadol's effects are divided into:",
+   "opts": [
+    "Opioid analgesia and non-opioid analgesia",
+    "Central and peripheral analgesia",
+    "Analgesia and anti-tussive effect",
+    "Analgesia and anti-diarrhoeal effect"
+   ],
+   "ans": 0,
+   "exp": "The effects column splits into opioid analgesia and non-opioid analgesia. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-063",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The mechanism of the opioid analgesia of tramadol is:",
+   "opts": [
+    "Mu receptor agonism",
+    "Kappa receptor antagonism",
+    "NMDA blockade",
+    "GABA-A potentiation"
+   ],
+   "ans": 0,
+   "exp": "Opioid analgesia is attributed to mu receptor agonism. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-064",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The mechanism of the non-opioid analgesia of tramadol is:",
+   "opts": [
+    "Inhibition of serotonin and norepinephrine reuptake",
+    "Blockade of sodium channels",
+    "Inhibition of cyclo-oxygenase",
+    "Activation of GABA-B receptors"
+   ],
+   "ans": 0,
+   "exp": "Non-opioid analgesia is due to inhibition of serotonin and norepinephrine reuptake. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-065",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The non-opioid analgesia of tramadol is described as similar to that of:",
+   "opts": [
+    "TCA/SNRI drugs",
+    "Benzodiazepines",
+    "Antipsychotics",
+    "Antihistamines"
+   ],
+   "ans": 0,
+   "exp": "The page calls the reuptake inhibition a TCA/SNRI-like effect. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-066",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The non-opioid component of tramadol makes it useful in:",
+   "opts": [
+    "Neuropathic pain",
+    "Cancer pain only",
+    "Migraine only",
+    "Biliary colic"
+   ],
+   "ans": 0,
+   "exp": "Neuropathic pain is listed as the use of the non-opioid (reuptake inhibiting) component. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-067",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "Tramadol is used for:",
+   "opts": [
+    "Mild to moderate pain",
+    "Only severe pain",
+    "Only cough",
+    "Only diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives mild to moderate pain. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-068",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "The anti-chills effect of tramadol is attributed to:",
+   "opts": [
+    "Alpha-2 agonism",
+    "Kappa antagonism",
+    "NMDA antagonism",
+    "Muscarinic blockade"
+   ],
+   "ans": 0,
+   "exp": "Post-operative and drug-induced chills are listed with alpha-2 agonism as the mechanism. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-069",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "Post-operative or drug-induced chills can be treated with:",
+   "opts": [
+    "Tramadol",
+    "Naloxone",
+    "Alvimopan",
+    "Methylnaltrexone"
+   ],
+   "ans": 0,
+   "exp": "Tramadol is listed for post-operative and drug induced chills. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-070",
+   "sec": "Tramadol",
+   "page": 129,
+   "q": "A patient with neuropathic pain and moderate pain intensity is best served by which drug on this page?",
+   "opts": [
+    "Tramadol",
+    "Morphine",
+    "Fentanyl",
+    "Loperamide"
+   ],
+   "ans": 0,
+   "exp": "Tramadol combines mu agonism with serotonin and norepinephrine reuptake inhibition, suiting neuropathic pain of mild to moderate intensity. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-071",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Fentanyl is described on this page as a:",
+   "opts": [
+    "Common drug of abuse",
+    "Drug of choice for chills",
+    "Pure antagonist",
+    "Anti-diarrhoeal"
+   ],
+   "ans": 0,
+   "exp": "Fentanyl is labelled a common drug of abuse. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-072",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The potency of fentanyl relative to morphine is:",
+   "opts": [
+    "100 times",
+    "1000 times",
+    "20 times",
+    "10 times"
+   ],
+   "ans": 0,
+   "exp": "Fentanyl's potency is given as 100x morphine. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-073",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Fentanyl is used for:",
+   "opts": [
+    "Anaesthesia",
+    "Cough suppression",
+    "Diarrhoea",
+    "Opioid de-addiction"
+   ],
+   "ans": 0,
+   "exp": "The use listed for fentanyl is anaesthesia. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-074",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The opioid stated to be the most potent, at 1000 times morphine, is:",
+   "opts": [
+    "Sufentanil",
+    "Fentanyl",
+    "Alfentanil",
+    "Remifentanil"
+   ],
+   "ans": 0,
+   "exp": "Sufentanil is listed at 1000x morphine and labelled the most potent opioid. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-075",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The opioid with the maximum plasma protein binding is:",
+   "opts": [
+    "Sufentanil",
+    "Fentanyl",
+    "Remifentanil",
+    "Alfentanil"
+   ],
+   "ans": 0,
+   "exp": "Maximum plasma protein binding is noted for sufentanil. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-076",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The opioid used during bronchoscopy to inhibit the stress response is:",
+   "opts": [
+    "Sufentanil",
+    "Fentanyl",
+    "Remifentanil",
+    "Oliceridine"
+   ],
+   "ans": 0,
+   "exp": "The bronchoscopy indication, to inhibit the stress response, is listed under sufentanil. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-077",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Alfentanil is used for:",
+   "opts": [
+    "Anaesthesia, specifically total intravenous anaesthesia (TIVA)",
+    "Daycare surgery infusion only",
+    "Severe pain by the intravenous route",
+    "Post-operative ileus"
+   ],
+   "ans": 0,
+   "exp": "Alfentanil's use is given as anaesthesia (TIVA). (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-078",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The potency of alfentanil relative to morphine is:",
+   "opts": [
+    "20 times",
+    "100 times",
+    "1000 times",
+    "2 times"
+   ],
+   "ans": 0,
+   "exp": "Alfentanil's potency is given as 20x morphine. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-079",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "The shortest and fastest acting opioid in this group is:",
+   "opts": [
+    "Remifentanil",
+    "Fentanyl",
+    "Alfentanil",
+    "Sufentanil"
+   ],
+   "ans": 0,
+   "exp": "Remifentanil is labelled the shortest and fastest acting. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-080",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Remifentanil is metabolised by:",
+   "opts": [
+    "Pseudocholinesterase",
+    "CYP3A4",
+    "CYP2D6",
+    "Monoamine oxidase"
+   ],
+   "ans": 0,
+   "exp": "Metabolism by pseudocholinesterase is stated for remifentanil. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-081",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Because of its pharmacokinetics, remifentanil is used as:",
+   "opts": [
+    "A continuous intravenous infusion for daycare surgeries",
+    "A weekly depot injection",
+    "An oral maintenance analgesic",
+    "A transdermal patch"
+   ],
+   "ans": 0,
+   "exp": "The use listed is continuous IV infusion for daycare surgeries. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-082",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Oliceridine is given by the intravenous route for:",
+   "opts": [
+    "Severe pain",
+    "Mild pain",
+    "Cough",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Oliceridine's use is IV route for severe pain. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-083",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Arrange these opioids in increasing order of potency relative to morphine:",
+   "opts": [
+    "Alfentanil < fentanyl < sufentanil",
+    "Fentanyl < alfentanil < sufentanil",
+    "Sufentanil < fentanyl < alfentanil",
+    "Alfentanil < sufentanil < fentanyl"
+   ],
+   "ans": 0,
+   "exp": "Alfentanil is 20x, fentanyl 100x and sufentanil 1000x morphine. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-084",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "page": 129,
+   "q": "Which opioid is preferred when a very short, rapidly titratable effect is needed during daycare surgery?",
+   "opts": [
+    "Remifentanil",
+    "Methadone",
+    "Morphine",
+    "Codeine"
+   ],
+   "ans": 0,
+   "exp": "Remifentanil is the shortest and fastest acting opioid and is given as a continuous IV infusion for daycare surgeries. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-085",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "Peripheral opioid antagonists are characterised by their inability to:",
+   "opts": [
+    "Cross the blood-brain barrier",
+    "Bind opioid receptors",
+    "Be absorbed orally",
+    "Reach the kidney"
+   ],
+   "ans": 0,
+   "exp": "The note states that peripheral antagonists do not cross the blood-brain barrier. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-086",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "Peripheral antagonists are used for their action on the:",
+   "opts": [
+    "Gastrointestinal tract",
+    "Central nervous system",
+    "Heart",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "They are used for action on the GIT. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-087",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "The restriction on alvimopan use is that it is:",
+   "opts": [
+    "For short term use only",
+    "For lifelong use",
+    "Restricted to children",
+    "Given only intravenously"
+   ],
+   "ans": 0,
+   "exp": "Alvimopan is noted as being for short term use only. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-088",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "Alvimopan is used for:",
+   "opts": [
+    "Post-operative ileus",
+    "Opioid-induced constipation",
+    "Irritable bowel syndrome with diarrhoea",
+    "Chemotherapy-induced diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "The use listed for alvimopan is post-operative ileus. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-089",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "The serious adverse effect of alvimopan that carries an FDA black box warning is:",
+   "opts": [
+    "Myocardial infarction",
+    "Hepatotoxicity",
+    "Pulmonary edema",
+    "Seizures"
+   ],
+   "ans": 0,
+   "exp": "The side effect listed is MI, with a black box warning by the FDA. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-090",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "Which peripheral antagonist carries an FDA black box warning?",
+   "opts": [
+    "Alvimopan",
+    "Methylnaltrexone",
+    "Naloxegol",
+    "Naldemedine"
+   ],
+   "ans": 0,
+   "exp": "Only alvimopan is listed with a black box warning. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-091",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "The peripheral antagonists used for opioid-induced constipation include all of the following EXCEPT:",
+   "opts": [
+    "Alvimopan",
+    "Methylnaltrexone",
+    "Naloxegol",
+    "Naldemedine"
+   ],
+   "ans": 0,
+   "exp": "Methylnaltrexone, naloxegol and naldemedine are listed for opioid-induced constipation; alvimopan is for post-operative ileus. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-092",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "A patient on long-term morphine for cancer pain develops severe constipation. The most appropriate drug class is a:",
+   "opts": [
+    "Peripheral opioid antagonist",
+    "Centrally acting antagonist",
+    "Mixed agonist-antagonist",
+    "Full agonist"
+   ],
+   "ans": 0,
+   "exp": "Peripheral antagonists act on the gut without entering the brain, so analgesia is preserved while constipation is relieved. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-093",
+   "sec": "Peripheral Opioid Antagonists",
+   "page": 129,
+   "q": "Why do peripheral antagonists not reverse analgesia?",
+   "opts": [
+    "They do not cross the blood-brain barrier and act only on the gut",
+    "They are partial agonists",
+    "They are rapidly metabolised",
+    "They block only delta receptors"
+   ],
+   "ans": 0,
+   "exp": "Because they fail to cross the blood-brain barrier, their action is confined to the gastrointestinal tract. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-094",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 129,
+   "q": "Tolerance is defined on the page as:",
+   "opts": [
+    "Decreased effect with the same dose on continuous dosage",
+    "Increased effect with the same dose",
+    "Loss of effect after a single dose",
+    "Need for a lower dose over time"
+   ],
+   "ans": 0,
+   "exp": "The definition given is decreased effect with the same dose on continuous dosage. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-095",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 129,
+   "q": "The two receptor mechanisms said to underlie tolerance are:",
+   "opts": [
+    "Receptor desensitisation and receptor downregulation",
+    "Receptor upregulation and supersensitivity",
+    "Enzyme induction and enzyme inhibition",
+    "Increased absorption and decreased excretion"
+   ],
+   "ans": 0,
+   "exp": "The page lists receptor desensitisation and receptor downregulation. (Book p129)"
+  },
+  {
+   "id": "PHARM-C32-096",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "Tolerance to miosis with opioids is:",
+   "opts": [
+    "None or minimal",
+    "Moderate",
+    "Fastest of all effects",
+    "Complete within a week"
+   ],
+   "ans": 0,
+   "exp": "The page says no or minimal tolerance develops to miosis. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-097",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "Tolerance to the other opioid effects (apart from miosis and euphoria) is:",
+   "opts": [
+    "Moderate",
+    "None",
+    "Fastest",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Moderate tolerance is listed for other opioid effects. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-098",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "The effect to which tolerance develops fastest (tachyphylaxis) is:",
+   "opts": [
+    "Euphoria",
+    "Miosis",
+    "Constipation",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Fastest tolerance, described as tachyphylaxis, is to euphoria. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-099",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "Tachyphylaxis in opioid use refers to rapid tolerance to:",
+   "opts": [
+    "Euphoria",
+    "Miosis",
+    "Constipation",
+    "Respiratory depression"
+   ],
+   "ans": 0,
+   "exp": "Euphoria is the effect labelled with fastest tolerance or tachyphylaxis. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-100",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "Opioid withdrawal symptoms are described as:",
+   "opts": [
+    "Effects opposite to mu receptor agonism",
+    "Effects identical to mu receptor agonism",
+    "Effects of kappa antagonism",
+    "Effects of delta agonism"
+   ],
+   "ans": 0,
+   "exp": "The page states withdrawal symptoms are the effect opposite to mu receptor agonism. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-101",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "The example given of an opioid withdrawal sign is:",
+   "opts": [
+    "Mydriasis",
+    "Miosis",
+    "Bradycardia",
+    "Constipation"
+   ],
+   "ans": 0,
+   "exp": "Mydriasis is quoted as the example of an effect opposite to mu agonism. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-102",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "The severity of opioid withdrawal is proportional to:",
+   "opts": [
+    "Both the dose and the potency of the drug",
+    "The dose only",
+    "The duration of drug use only",
+    "The route of administration only"
+   ],
+   "ans": 0,
+   "exp": "The page notes severity is proportional to dose and to potency. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-103",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "A heroin user who stops the drug develops dilated pupils. This is explained by:",
+   "opts": [
+    "Withdrawal producing effects opposite to mu receptor agonism",
+    "Direct kappa receptor stimulation",
+    "Anticholinergic contamination of the drug",
+    "Tolerance to miosis"
+   ],
+   "ans": 0,
+   "exp": "Withdrawal effects are opposite to mu agonism, so miosis of intoxication is replaced by mydriasis. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-104",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal",
+   "page": 130,
+   "q": "Which opioid effect shows the least tolerance on continued use?",
+   "opts": [
+    "Miosis",
+    "Euphoria",
+    "Analgesia",
+    "Sedation"
+   ],
+   "ans": 0,
+   "exp": "No or minimal tolerance develops to miosis, which is why pin-point pupils persist in chronic users. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-105",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "De-addiction in opioid dependence has how many components?",
+   "opts": [
+    "Two - reducing withdrawal symptoms and preventing relapse",
+    "One - only detoxification",
+    "Three - detoxification, rehabilitation and surgery",
+    "Four - including vaccination"
+   ],
+   "ans": 0,
+   "exp": "The two headings are 1. reduce withdrawal symptoms and 2. prevent relapse. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-106",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "The drugs named to reduce withdrawal symptoms are:",
+   "opts": [
+    "Methadone and buprenorphine",
+    "Naltrexone and naloxone",
+    "Clonidine and naltrexone",
+    "Loperamide and diphenoxylate"
+   ],
+   "ans": 0,
+   "exp": "The withdrawal arm names methadone and buprenorphine. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-107",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "Buprenorphine is preferred in de-addiction because on cessation it produces:",
+   "opts": [
+    "Only mild symptoms",
+    "No symptoms at all",
+    "Severe symptoms",
+    "Immediate relapse"
+   ],
+   "ans": 0,
+   "exp": "The page notes mild symptoms on cessation with buprenorphine. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-108",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "After the substitute opioid, withdrawal is further managed with symptomatic treatment using:",
+   "opts": [
+    "A beta blocker and clonidine",
+    "Naloxone and naltrexone",
+    "Loperamide and atropine",
+    "Ondansetron and metoclopramide"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic treatment is listed as beta blocker, clonidine etc. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-109",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "Clonidine is used in opioid de-addiction as:",
+   "opts": [
+    "Symptomatic treatment of withdrawal",
+    "A substitute for the opioid",
+    "A relapse-preventing blocker",
+    "An anti-diarrhoeal"
+   ],
+   "ans": 0,
+   "exp": "Clonidine appears under symptomatic treatment of withdrawal symptoms. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-110",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "The drug used to prevent relapse in opioid dependence is:",
+   "opts": [
+    "Oral naltrexone",
+    "Oral methadone",
+    "Intravenous naloxone",
+    "Buprenorphine"
+   ],
+   "ans": 0,
+   "exp": "Relapse prevention is by the opioid receptor blocker oral naltrexone. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-111",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "Naltrexone prevents relapse by:",
+   "opts": [
+    "Blocking the euphoria of a dose, thereby reducing the desire to consume the drug",
+    "Substituting for the opioid",
+    "Sedating the patient",
+    "Stimulating the reward pathway"
+   ],
+   "ans": 0,
+   "exp": "The page states naltrexone blocks the euphoria on intake, which lowers the desire for consumption. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-112",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "Which statement about de-addiction is correct?",
+   "opts": [
+    "Withdrawal is reduced with methadone or buprenorphine and relapse is prevented with naltrexone",
+    "Withdrawal is reduced with naltrexone and relapse is prevented with methadone",
+    "Both arms use naloxone",
+    "Both arms use loperamide"
+   ],
+   "ans": 0,
+   "exp": "The page separates the two arms: methadone/buprenorphine for withdrawal and naltrexone for relapse prevention. (Book p130)"
+  },
+  {
+   "id": "PHARM-C32-113",
+   "sec": "De-addiction",
+   "page": 130,
+   "q": "A patient who has completed withdrawal and wants to avoid going back to heroin should be offered:",
+   "opts": [
+    "Oral naltrexone",
+    "Intravenous naloxone",
+    "Oral methadone indefinitely",
+    "Alvimopan"
+   ],
+   "ans": 0,
+   "exp": "Oral naltrexone is the opioid receptor blocker used to prevent relapse. (Book p130)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U32-1",
+   "ch": 32,
+   "n": 1,
+   "title": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications",
+   "sec": "Full Agonist Opioids: Morphine - Pharmacokinetics, Uses and Contraindications · p127",
+   "qs": [
+    "PHARM-C32-001",
+    "PHARM-C32-002",
+    "PHARM-C32-003",
+    "PHARM-C32-004",
+    "PHARM-C32-005",
+    "PHARM-C32-006",
+    "PHARM-C32-007",
+    "PHARM-C32-008",
+    "PHARM-C32-009",
+    "PHARM-C32-010",
+    "PHARM-C32-011",
+    "PHARM-C32-012",
+    "PHARM-C32-013",
+    "PHARM-C32-014",
+    "PHARM-C32-015"
+   ],
+   "guide": "Part 2 opens with the full agonist opioids, beginning with morphine. Its oral bioavailability is low because of extensive first-pass metabolism, so the oral dose exceeds the intravenous dose; it is metabolised in the liver (hence contraindicated in liver and renal failure) and eliminated by the kidney, and its duration of action is attributed to active metabolites. Morphine is the drug of choice in severe pain, but it is absolutely contraindicated in head trauma because it raises intracranial pressure and relatively contraindicated in bronchial asthma because it releases histamine."
+  },
+  {
+   "id": "PHARM-U32-2",
+   "ch": 32,
+   "n": 2,
+   "title": "Codeine",
+   "sec": "Codeine · p127",
+   "qs": [
+    "PHARM-C32-016",
+    "PHARM-C32-017",
+    "PHARM-C32-018",
+    "PHARM-C32-019",
+    "PHARM-C32-020",
+    "PHARM-C32-021",
+    "PHARM-C32-022",
+    "PHARM-C32-023",
+    "PHARM-C32-024"
+   ],
+   "guide": "Codeine is a prodrug: about a tenth of the dose is converted by CYP2D6 to morphine, so increased CYP2D6 activity gives more analgesia but also a risk of respiratory distress, while reduced activity gives poor analgesia. The bulk of the drug (about 90%) is inactivated by glucuronidation and excreted. Codeine is used as an anti-tussive and for mild to moderate pain."
+  },
+  {
+   "id": "PHARM-U32-3",
+   "ch": 32,
+   "n": 3,
+   "title": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications",
+   "sec": "Pethidine (Meperidine): Metabolism, Uses, Side Effects and Contraindications · p127",
+   "qs": [
+    "PHARM-C32-025",
+    "PHARM-C32-026",
+    "PHARM-C32-027",
+    "PHARM-C32-028",
+    "PHARM-C32-029",
+    "PHARM-C32-030",
+    "PHARM-C32-031",
+    "PHARM-C32-032",
+    "PHARM-C32-033",
+    "PHARM-C32-034",
+    "PHARM-C32-035",
+    "PHARM-C32-036",
+    "PHARM-C32-037",
+    "PHARM-C32-038",
+    "PHARM-C32-039",
+    "PHARM-C32-040",
+    "PHARM-C32-041",
+    "PHARM-C32-042",
+    "PHARM-C32-043",
+    "PHARM-C32-044"
+   ],
+   "guide": "Pethidine may be used for only 48 hours because of toxicity. Most of the drug becomes meperidinic acid, which is excreted by the kidney, while about a tenth becomes nor-meperidine, a neurotoxic metabolite that is further converted to nor-meperidinic acid. It is a cheaper alternative for severe pain such as labour pain, is the drug of choice for post-operative and post-drug chills, and causes serotonin syndrome, neurotoxicity and hypotension; it is contraindicated in renal failure and with MAO inhibitors."
+  },
+  {
+   "id": "PHARM-U32-4",
+   "ch": 32,
+   "n": 4,
+   "title": "Methadone",
+   "sec": "Methadone · p128",
+   "qs": [
+    "PHARM-C32-045",
+    "PHARM-C32-046",
+    "PHARM-C32-047",
+    "PHARM-C32-048",
+    "PHARM-C32-049",
+    "PHARM-C32-050",
+    "PHARM-C32-051",
+    "PHARM-C32-052"
+   ],
+   "guide": "Methadone's analgesia begins in about 10 minutes intravenously and about 1 hour orally. Besides analgesia it is used in opioid dependence because the drug is sequestered in tissues, giving sustained effects and only minimal withdrawal symptoms. Its adverse effects are QT prolongation and anti-cholinergic effects."
+  },
+  {
+   "id": "PHARM-U32-5",
+   "ch": 32,
+   "n": 5,
+   "title": "Loperamide, Diphenoxylate and Difenoxin",
+   "sec": "Loperamide, Diphenoxylate and Difenoxin · p128",
+   "qs": [
+    "PHARM-C32-053",
+    "PHARM-C32-054",
+    "PHARM-C32-055",
+    "PHARM-C32-056",
+    "PHARM-C32-057",
+    "PHARM-C32-058",
+    "PHARM-C32-059",
+    "PHARM-C32-060"
+   ],
+   "guide": "These agents are used in non-secretory diarrhoea, in irritable bowel syndrome (where loperamide is the drug of choice) and in irinotecan-induced diarrhoea. Loperamide does not cross the blood-brain barrier, so it causes no dependence; to prevent abuse of diphenoxylate and difenoxin, atropine is added to their formulations."
+  },
+  {
+   "id": "PHARM-U32-6",
+   "ch": 32,
+   "n": 6,
+   "title": "Tramadol",
+   "sec": "Tramadol · p129",
+   "qs": [
+    "PHARM-C32-061",
+    "PHARM-C32-062",
+    "PHARM-C32-063",
+    "PHARM-C32-064",
+    "PHARM-C32-065",
+    "PHARM-C32-066",
+    "PHARM-C32-067",
+    "PHARM-C32-068",
+    "PHARM-C32-069",
+    "PHARM-C32-070"
+   ],
+   "guide": "Tramadol has two components to its analgesia: an opioid component through mu receptor agonism and a non-opioid component through inhibition of serotonin and norepinephrine reuptake, a TCA/SNRI-like effect that makes it useful in neuropathic pain. It is used for mild to moderate pain and for post-operative or drug-induced chills through alpha-2 agonism."
+  },
+  {
+   "id": "PHARM-U32-7",
+   "ch": 32,
+   "n": 7,
+   "title": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine",
+   "sec": "Fentanyl, Sufentanil, Alfentanil, Remifentanil and Oliceridine · p129",
+   "qs": [
+    "PHARM-C32-071",
+    "PHARM-C32-072",
+    "PHARM-C32-073",
+    "PHARM-C32-074",
+    "PHARM-C32-075",
+    "PHARM-C32-076",
+    "PHARM-C32-077",
+    "PHARM-C32-078",
+    "PHARM-C32-079",
+    "PHARM-C32-080",
+    "PHARM-C32-081",
+    "PHARM-C32-082",
+    "PHARM-C32-083",
+    "PHARM-C32-084"
+   ],
+   "guide": "Fentanyl is a common drug of abuse, is 100 times as potent as morphine and is used in anaesthesia. Sufentanil is 1000 times as potent as morphine and is the most potent opioid, has the maximum plasma protein binding and is used during bronchoscopy to inhibit the stress response. Alfentanil is 20 times as potent as morphine and is used for total intravenous anaesthesia. Remifentanil is the shortest and fastest acting, is metabolised by pseudocholinesterase and is given as a continuous intravenous infusion for daycare surgery. Oliceridine is given intravenously for severe pain."
+  },
+  {
+   "id": "PHARM-U32-8",
+   "ch": 32,
+   "n": 8,
+   "title": "Peripheral Opioid Antagonists",
+   "sec": "Peripheral Opioid Antagonists · p129",
+   "qs": [
+    "PHARM-C32-085",
+    "PHARM-C32-086",
+    "PHARM-C32-087",
+    "PHARM-C32-088",
+    "PHARM-C32-089",
+    "PHARM-C32-090",
+    "PHARM-C32-091",
+    "PHARM-C32-092",
+    "PHARM-C32-093"
+   ],
+   "guide": "Peripheral antagonists do not cross the blood-brain barrier and are used for their action on the gut. Alvimopan is for short-term use only, is given for post-operative ileus and carries an FDA black box warning for myocardial infarction. Methylnaltrexone, naloxegol and naldemedine are used for opioid-induced constipation."
+  },
+  {
+   "id": "PHARM-U32-9",
+   "ch": 32,
+   "n": 9,
+   "title": "Opioid Dependence: Tolerance and Withdrawal",
+   "sec": "Opioid Dependence: Tolerance and Withdrawal · p129",
+   "qs": [
+    "PHARM-C32-094",
+    "PHARM-C32-095",
+    "PHARM-C32-096",
+    "PHARM-C32-097",
+    "PHARM-C32-098",
+    "PHARM-C32-099",
+    "PHARM-C32-100",
+    "PHARM-C32-101",
+    "PHARM-C32-102",
+    "PHARM-C32-103",
+    "PHARM-C32-104"
+   ],
+   "guide": "Tolerance is the reduction of effect with the same dose on continuous dosing, produced by receptor desensitisation and downregulation. Tolerance develops at different rates for different effects: none or minimal for miosis, moderate for other opioid effects and fastest (tachyphylaxis) for euphoria. Withdrawal symptoms are the opposite of mu receptor agonism - for example mydriasis - and their severity is proportional to the dose and the potency of the drug."
+  },
+  {
+   "id": "PHARM-U32-10",
+   "ch": 32,
+   "n": 10,
+   "title": "De-addiction",
+   "sec": "De-addiction · p130",
+   "qs": [
+    "PHARM-C32-105",
+    "PHARM-C32-106",
+    "PHARM-C32-107",
+    "PHARM-C32-108",
+    "PHARM-C32-109",
+    "PHARM-C32-110",
+    "PHARM-C32-111",
+    "PHARM-C32-112",
+    "PHARM-C32-113"
+   ],
+   "guide": "De-addiction has two arms: reducing withdrawal symptoms and preventing relapse. Withdrawal is reduced by starting the patient on methadone or buprenorphine, which produces only mild symptoms on cessation, followed by symptomatic treatment with a beta blocker, clonidine and similar drugs. Relapse is prevented with the opioid receptor blocker oral naltrexone, which abolishes the euphoria of a dose and so reduces the desire to consume the drug."
+  }
+ ]
+}

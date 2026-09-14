@@ -1,0 +1,53 @@
+# book p138 dpi=300 boxes=54
+  157   262 | 138  |  Central andPeripheral NervousSystem
+  335   605 | SELECTIVESEROTONINREUPTAKEINHIBITORS
+  348   258 | ..-Active space
+  406   598 | uses:
+  478   644 | aDOC:
+  485  1488 | b.Other uses:
+  544   630 | Typical and Atypical Depression.
+  551  1477 | ·Fibromyalgia.
+  616   628 | ·Neurosis.
+  628  1479 | ·Hot fashes.
+  681   627 | ·Irritability inPms.
+  796   591 | :s6nua
+  874   635 | 1.Fuoxetine:
+  934   625 | T:so hours (Longest acting SSRI→→No withdrawal symptoms).
+ 1014   630 | Activemetabolite:Noruoxetine（Ty2:aoohrs))
+ 1084   635 | a.Paroxetine:Noactive metabolite-Shortacting
+ 1160   683 | L.Adverseeffects:
+ 1190  1534 | a.uses:
+ 1238   762 | ·maximumwithdrawal
+ 1250  1606 | Blocks HSedation Night
+ 1316   806 | symptoms.
+ 1335  1655 | time dosing).
+ 1381   764 | maximumerectiledysfunction  |  RxofDepressionwith
+ 1453   764 | mostteratogenicSsRl.
+ 1485  1655 | insomnia.
+ 1526   764 | maximumenzymeinhibition：
+ 1597   804 | BlockCyPaDl→ActivationofTamoxifen
+ 1669   803 | toEndoxifen(nbreast cancer).
+ 1740   634 | 3.Dapoxetine:
+ 1766  1488 | 4.Escitalopram:mostspecificSSRI.
+ 1805   621 | RxPrematureejaculation
+ 1877  1440 | Note:AllSSRlareteratogenic
+ 1879   623 | PrescribedasFocwithsildenaAl
+ 1950   672 | (Docfor erectile dysfunction).
+ 2061   588 | SideeRfects:
+ 2137   586 | SeeninbothSSRlandSNRI:
+ 2201   630 | aD/+↑SHT:
+ 2284   646 | StimulateReceptors
+ 2305  1472 | effect
+ 2369  1125 | ·TransientAnxiety
+ 2441  1139 | Insomnia.(Administermorning dose)
+ 2443   903 | Braun
+ 2513  1136 | Vividdreams
+ 2545   651 | SHT
+ 2588  1157 | Erectiledysfunction(m/cdelayeds/e)
+ 2658   852 | Spinal cord
+ 2667  1166 | Anorgasmia.
+ 2734  1167 | Delayed ejaculation
+ 2808  1157 | Nouseo andvomiting (m/e)
+ 2842   799 | SHT3
+ 2883  1158 | Loose stools
+ 2976  1416 | Loose stools

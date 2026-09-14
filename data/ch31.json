@@ -1,0 +1,2011 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C31-001",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The first topic discussed in the chapter 'Opioids: Part 1' is:",
+   "opts": [
+    "Opioid receptors",
+    "Opioid antagonists",
+    "Opioid toxicity",
+    "Opioid tolerance"
+   ],
+   "ans": 0,
+   "exp": "The page starts with the heading 'Opioid receptors' before any drug is discussed. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-002",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The three opioid receptors named on the page are mu, kappa and:",
+   "opts": [
+    "Delta",
+    "Sigma",
+    "Epsilon",
+    "Omega"
+   ],
+   "ans": 0,
+   "exp": "The three receptor headings are mu (mu), kappa (kappa) and delta. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-003",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The mnemonic used for the effects of the mu receptor is:",
+   "opts": [
+    "mMuSCARINE",
+    "MUDPILES",
+    "SLUDGE",
+    "ABCDEF"
+   ],
+   "ans": 0,
+   "exp": "The page gives the mnemonic 'mMuSCARINE' against the mu receptor effects. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-004",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic for mu receptor effects, the letter M stands for:",
+   "opts": [
+    "Miosis",
+    "Mydriasis",
+    "Muscle rigidity",
+    "Metoclopramide-like vomiting"
+   ],
+   "ans": 0,
+   "exp": "M = miosis, the first effect listed under the mu receptor. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-005",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter U stands for:",
+   "opts": [
+    "Urine retention",
+    "Ulceration",
+    "Urea elevation",
+    "Urticaria"
+   ],
+   "ans": 0,
+   "exp": "U = urine retention, listed immediately after miosis. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-006",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter S stands for:",
+   "opts": [
+    "Sedation",
+    "Salivation",
+    "Sweating",
+    "Seizure"
+   ],
+   "ans": 0,
+   "exp": "S = sedation. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-007",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter C stands for:",
+   "opts": [
+    "Constipation",
+    "Cough suppression",
+    "Cyanosis",
+    "Confusion"
+   ],
+   "ans": 0,
+   "exp": "C = constipation. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-008",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter A stands for:",
+   "opts": [
+    "Analgesia",
+    "Anxiolysis",
+    "Anorexia",
+    "Ataxia"
+   ],
+   "ans": 0,
+   "exp": "A = analgesia. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-009",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter R stands for:",
+   "opts": [
+    "Respiratory depression",
+    "Renal failure",
+    "Rash",
+    "Reflex tachycardia"
+   ],
+   "ans": 0,
+   "exp": "R = respiratory depression. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-010",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "In the muSCARINE mnemonic, the letter I stands for:",
+   "opts": [
+    "Increased muscle rigidity",
+    "Itching",
+    "Increased peristalsis",
+    "Insomnia"
+   ],
+   "ans": 0,
+   "exp": "I = increased muscle rigidity. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-011",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The example quoted for opioid-induced increased muscle rigidity is wooden chest syndrome with:",
+   "opts": [
+    "Fentanyl",
+    "Morphine",
+    "Codeine",
+    "Loperamide"
+   ],
+   "ans": 0,
+   "exp": "The page quotes 'wooden chest syndrome in Fentanyl' as the example of increased muscle rigidity. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-012",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "A patient on an intravenous fentanyl infusion suddenly develops a rigid chest wall that cannot be ventilated. This is an example of:",
+   "opts": [
+    "Increased muscle rigidity - wooden chest syndrome",
+    "Respiratory depression from medullary suppression",
+    "Anaphylaxis with bronchospasm",
+    "Malignant hyperthermia"
+   ],
+   "ans": 0,
+   "exp": "Wooden chest syndrome due to increased muscle rigidity is the classic example given for fentanyl. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-013",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "Pin-point pupils seen in opioid overdose reflect which mu receptor effect?",
+   "opts": [
+    "Miosis",
+    "Sedation",
+    "Urinary retention",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Miosis is the M of the muSCARINE mnemonic and produces the pin-point pupil of opioid overdose. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-014",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "Inability to pass urine after morphine is explained by which mu effect?",
+   "opts": [
+    "Urine retention",
+    "Constipation",
+    "Sedation",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "Urine retention (U of the mnemonic) is a mu receptor effect. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-015",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The mu receptor effect on bile flow is:",
+   "opts": [
+    "Decreased bile flow",
+    "Increased bile flow",
+    "No change in bile flow",
+    "Bile flow becomes cyclic"
+   ],
+   "ans": 0,
+   "exp": "The mu list includes reduced bile flow, which follows contraction of the sphincter of Oddi. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-016",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The reduced bile flow produced by mu agonists is attributable to contraction of the:",
+   "opts": [
+    "Sphincter of Oddi",
+    "Lower oesophageal sphincter",
+    "Internal anal sphincter",
+    "Pyloric sphincter"
+   ],
+   "ans": 0,
+   "exp": "The side note against the mu column reads 'contraction of sphincter of Oddi', which cuts bile flow. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-017",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "According to the mu receptor column, circular smooth muscle:",
+   "opts": [
+    "Contracts",
+    "Relaxes",
+    "Is unaffected",
+    "Becomes paralysed only in overdose"
+   ],
+   "ans": 0,
+   "exp": "The mu column ends with 'circular smooth muscles: contract'. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-018",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "According to the mu receptor column, longitudinal smooth muscle:",
+   "opts": [
+    "Relaxes",
+    "Contracts",
+    "Is unaffected",
+    "Undergoes hypertrophy"
+   ],
+   "ans": 0,
+   "exp": "The mu column ends with 'longitudinal smooth muscles: relax'. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-019",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "Which of the following is NOT listed as a mu receptor effect?",
+   "opts": [
+    "Psychomimetic dysphoria",
+    "Miosis",
+    "Respiratory depression",
+    "Increased muscle rigidity"
+   ],
+   "ans": 0,
+   "exp": "Psychomimetic (dysphoria) is listed under the kappa receptor, not under mu. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-020",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "page": 123,
+   "q": "The combination of contracted circular muscle and relaxed longitudinal muscle in the gut of a patient on morphine best explains:",
+   "opts": [
+    "Constipation and spasm with reduced propulsive movement",
+    "Profuse watery diarrhoea",
+    "Rapid gastric emptying",
+    "Loss of the gastro-colic reflex only"
+   ],
+   "ans": 0,
+   "exp": "Circular muscle contracts while longitudinal muscle relaxes, so non-propulsive segmental tone rises - the basis of opioid constipation. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-021",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Constipation is listed as an effect of which receptors?",
+   "opts": [
+    "Both mu and kappa",
+    "mu only",
+    "kappa only",
+    "delta only"
+   ],
+   "ans": 0,
+   "exp": "Constipation appears in the mu list (C of muSCARINE) and at the top of the kappa list. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-022",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Analgesia is listed as an effect of:",
+   "opts": [
+    "mu, kappa and delta",
+    "mu only",
+    "kappa and delta only",
+    "mu and kappa only"
+   ],
+   "ans": 0,
+   "exp": "Analgesia appears in all three receptor columns - mu, kappa and delta. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-023",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "The psychomimetic (dysphoria) effect of opioids is attributed to the:",
+   "opts": [
+    "kappa receptor",
+    "mu receptor",
+    "delta receptor",
+    "sigma receptor"
+   ],
+   "ans": 0,
+   "exp": "Psychomimetic (dysphoria) is listed in the kappa column. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-024",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Anti-pruritic action is a listed effect of the:",
+   "opts": [
+    "kappa receptor",
+    "mu receptor",
+    "delta receptor",
+    "All three receptors equally"
+   ],
+   "ans": 0,
+   "exp": "The kappa column lists anti-pruritus. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-025",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Modulation of the release of neurotransmitters and hormones is listed under:",
+   "opts": [
+    "delta receptor",
+    "mu receptor",
+    "kappa receptor",
+    "Both mu and kappa receptors"
+   ],
+   "ans": 0,
+   "exp": "The delta column lists 'modulate release of: i. neurotransmitters, ii. hormones'. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-026",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "The two categories of release said to be modulated by the delta receptor are:",
+   "opts": [
+    "Neurotransmitters and hormones",
+    "Enzymes and bile acids",
+    "Electrolytes and water",
+    "Cytokines and complement"
+   ],
+   "ans": 0,
+   "exp": "The delta column lists i. neurotransmitters and ii. hormones. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-027",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "A patient on an opioid complains of dysphoria and strange dreams while still having good pain relief. The receptor most responsible is:",
+   "opts": [
+    "kappa",
+    "mu",
+    "delta",
+    "NMDA"
+   ],
+   "ans": 0,
+   "exp": "Psychomimetic effects such as dysphoria are kappa mediated. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-028",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Which receptor effect listed on the page is unique to the delta receptor?",
+   "opts": [
+    "Modulation of neurotransmitter and hormone release",
+    "Analgesia",
+    "Constipation",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "Only the delta column lists modulation of neurotransmitter and hormone release. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-029",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "According to the note on the page, opioids in biliary colic are:",
+   "opts": [
+    "Not contraindicated because the analgesic effect exceeds the contraction",
+    "Absolutely contraindicated because they contract the sphincter of Oddi",
+    "Used only after cholecystectomy",
+    "Replaced by papaverine in all cases"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'Opioids not c/l in biliary colic (Analgesic effect > Contraction)'. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-030",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "The reasoning given for continuing opioids in biliary colic is that the:",
+   "opts": [
+    "Analgesic effect is greater than the sphincter contraction",
+    "Sphincter relaxes at analgesic doses",
+    "Biliary tree has no opioid receptors",
+    "Drug is excreted entirely in bile"
+   ],
+   "ans": 0,
+   "exp": "The note justifies opioid use by stating analgesic effect > contraction. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-031",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Difelikefalin is described as a:",
+   "opts": [
+    "kappa agonist",
+    "mu agonist",
+    "delta antagonist",
+    "mu antagonist"
+   ],
+   "ans": 0,
+   "exp": "The page states 'Difelikefalin: kappa agonist'. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-032",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "Difelikefalin is used for:",
+   "opts": [
+    "Pruritus in CKD patients on dialysis",
+    "Pain in acute pancreatitis",
+    "Diarrhoea-predominant irritable bowel syndrome",
+    "Opioid-induced constipation"
+   ],
+   "ans": 0,
+   "exp": "Difelikefalin is used for pruritus in CKD patients on dialysis. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-033",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "page": 123,
+   "q": "A dialysis-dependent patient with refractory uraemic pruritus is best treated, per this page, with:",
+   "opts": [
+    "Difelikefalin",
+    "Naltrexone",
+    "Loperamide",
+    "Eluxadoline"
+   ],
+   "ans": 0,
+   "exp": "Difelikefalin, a kappa agonist, is the drug named for pruritus in dialysis patients. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-034",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "The first group of drugs discussed under 'Drugs' is:",
+   "opts": [
+    "Endogenous opioids",
+    "Synthetic opioids",
+    "Opioid antagonists",
+    "Semi-synthetic opioids"
+   ],
+   "ans": 0,
+   "exp": "Under the heading 'Drugs' the first group is endogenous opioids. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-035",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Endogenous opioids are defined as those:",
+   "opts": [
+    "Synthesised within the body",
+    "Extracted from Papaver somniferum",
+    "Prepared by chemical modification of morphine",
+    "Produced only in the pituitary"
+   ],
+   "ans": 0,
+   "exp": "The page says endogenous opioids are synthesised within the body. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-036",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Enkephalin acts predominantly on the:",
+   "opts": [
+    "delta receptor",
+    "mu receptor",
+    "kappa receptor",
+    "sigma receptor"
+   ],
+   "ans": 0,
+   "exp": "The list pairs enkephalin with the delta receptor. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-037",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Endorphin acts predominantly on the:",
+   "opts": [
+    "mu receptor",
+    "delta receptor",
+    "kappa receptor",
+    "NMDA receptor"
+   ],
+   "ans": 0,
+   "exp": "The list pairs endorphin with the mu receptor. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-038",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Dynorphin acts predominantly on the:",
+   "opts": [
+    "kappa receptor",
+    "mu receptor",
+    "delta receptor",
+    "GABA-B receptor"
+   ],
+   "ans": 0,
+   "exp": "The list pairs dynorphin with the kappa receptor. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-039",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Correctly matched endogenous opioid and receptor is:",
+   "opts": [
+    "Enkephalin - delta, endorphin - mu, dynorphin - kappa",
+    "Enkephalin - mu, endorphin - delta, dynorphin - kappa",
+    "Enkephalin - kappa, endorphin - mu, dynorphin - delta",
+    "Enkephalin - delta, endorphin - kappa, dynorphin - mu"
+   ],
+   "ans": 0,
+   "exp": "The three pairings are enkephalin-delta, endorphin-mu and dynorphin-kappa. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-040",
+   "sec": "Endogenous Opioids",
+   "page": 123,
+   "q": "Which endogenous opioid is paired with the kappa receptor?",
+   "opts": [
+    "Dynorphin",
+    "Enkephalin",
+    "Endorphin",
+    "Beta-lipotropin"
+   ],
+   "ans": 0,
+   "exp": "Dynorphin is the endogenous ligand listed against the kappa receptor. (Book p123)"
+  },
+  {
+   "id": "PHARM-C31-041",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Exogenous opioids on this page are classified based on:",
+   "opts": [
+    "Source and opioid receptor interaction",
+    "Route of administration only",
+    "Duration of action only",
+    "Chemical structure alone"
+   ],
+   "ans": 0,
+   "exp": "Two classifications are given - 'based on source' and 'based on opioid receptor interaction'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-042",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "The 'based on source' classification divides exogenous opioids into:",
+   "opts": [
+    "Natural (opiates), semi-synthetic and synthetic",
+    "Agonists and antagonists",
+    "Short, intermediate and long acting",
+    "Oral, parenteral and transdermal"
+   ],
+   "ans": 0,
+   "exp": "The three source-based groups are natural (opiates), semi-synthetic and synthetic. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-043",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Natural opiates are derived from:",
+   "opts": [
+    "Papaver somniferum",
+    "Atropa belladonna",
+    "Digitalis lanata",
+    "Rauwolfia serpentina"
+   ],
+   "ans": 0,
+   "exp": "The natural opiates branch states 'derived from Papaver somniferum'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-044",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Under natural opiates, the chemicals with opioid action are:",
+   "opts": [
+    "Morphine and codeine",
+    "Noscapine and papaverine",
+    "Thebaine and noscapine",
+    "Papaverine and codeine"
+   ],
+   "ans": 0,
+   "exp": "The 'chemicals with opioid action' branch lists a. morphine and b. codeine. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-045",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Under natural opiates, the chemicals without opioid action include:",
+   "opts": [
+    "Noscapine, papaverine and thebaine",
+    "Morphine and codeine",
+    "Heroin and pholcodine",
+    "Fentanyl and pethidine"
+   ],
+   "ans": 0,
+   "exp": "The 'chemicals without opioid action' branch lists a. noscapine, b. papaverine and c. thebaine. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-046",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Noscapine is used as:",
+   "opts": [
+    "An anti-tussive for spasmodic cough",
+    "An analgesic for severe pain",
+    "An anti-diarrhoeal agent",
+    "A smooth muscle relaxant in biliary colic"
+   ],
+   "ans": 0,
+   "exp": "Noscapine's use is given as anti-tussive for spasmodic cough. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-047",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Papaverine acts by inhibiting:",
+   "opts": [
+    "Phosphodiesterase",
+    "Adenylate cyclase",
+    "Monoamine oxidase",
+    "Na+/K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "Papaverine inhibits phosphodiesterase, which raises cyclic AMP. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-048",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "The second messenger increased by papaverine is:",
+   "opts": [
+    "Cyclic AMP",
+    "Cyclic GMP",
+    "Inositol triphosphate",
+    "Diacylglycerol"
+   ],
+   "ans": 0,
+   "exp": "Phosphodiesterase inhibition by papaverine increases cyclic AMP. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-049",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Increased cyclic AMP produced by papaverine leads to:",
+   "opts": [
+    "Relaxation of smooth muscles",
+    "Contraction of smooth muscles",
+    "Increased peristalsis",
+    "Bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The page chain reads: inhibits phosphodiesterase, up cyclic AMP, relaxation of smooth muscles. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-050",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Papaverine is used as a smooth muscle relaxant for:",
+   "opts": [
+    "Biliary colic and ureteric colic",
+    "Bronchial asthma",
+    "Migraine",
+    "Gastric ulcer"
+   ],
+   "ans": 0,
+   "exp": "The uses listed are biliary colic and ureteric colic. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-051",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "A patient with biliary colic is given a smooth muscle relaxant derived from opium that has no opioid (analgesic) action. The drug is:",
+   "opts": [
+    "Papaverine",
+    "Morphine",
+    "Codeine",
+    "Pethidine"
+   ],
+   "ans": 0,
+   "exp": "Papaverine is a natural opiate without opioid action used as a smooth muscle relaxant in biliary colic. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-052",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Which natural opiate lacking opioid action is used for cough?",
+   "opts": [
+    "Noscapine",
+    "Thebaine",
+    "Papaverine",
+    "Pholcodine"
+   ],
+   "ans": 0,
+   "exp": "Noscapine is the chemical without opioid action used as an anti-tussive. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-053",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Thebaine is grouped with the chemicals:",
+   "opts": [
+    "Without opioid action",
+    "With opioid action",
+    "That are synthetic",
+    "That are pure antagonists"
+   ],
+   "ans": 0,
+   "exp": "Thebaine is listed as 'c' under chemicals without opioid action. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-054",
+   "sec": "Exogenous Opioids: Natural Opiates",
+   "page": 124,
+   "q": "Which of the following is a natural opiate WITH opioid action?",
+   "opts": [
+    "Codeine",
+    "Noscapine",
+    "Papaverine",
+    "Thebaine"
+   ],
+   "ans": 0,
+   "exp": "Only morphine and codeine are listed as chemicals with opioid action; noscapine, papaverine and thebaine lack opioid action. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-055",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Diacetylmorphine (heroin) is described as having a potency of:",
+   "opts": [
+    "4 times that of morphine",
+    "Equal to morphine",
+    "10 times that of morphine",
+    "One-fourth of morphine"
+   ],
+   "ans": 0,
+   "exp": "The page states potency: 4x morphine for diacetylmorphine (heroin). (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-056",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Diacetylmorphine (heroin) is categorised as a:",
+   "opts": [
+    "Drug of abuse",
+    "Drug of choice in terminal cancer pain",
+    "First line anti-tussive",
+    "Pure opioid antagonist"
+   ],
+   "ans": 0,
+   "exp": "Heroin is labelled a drug of abuse on the page. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-057",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Apomorphine is a:",
+   "opts": [
+    "Dopamine (D) agonist used in Parkinson's disease",
+    "Mu antagonist used in opioid toxicity",
+    "Kappa agonist used for pruritus",
+    "Delta agonist used for analgesia"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine is listed as a D agonist with the use of Parkinson's disease. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-058",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "The semi-synthetic opioid used in Parkinson's disease is:",
+   "opts": [
+    "Apomorphine",
+    "Hydromorphone",
+    "Pholcodine",
+    "Ethylmorphine"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine, a dopamine agonist, is used in Parkinson's disease. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-059",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Hydromorphone is listed as a semi-synthetic opioid used as an:",
+   "opts": [
+    "Analgesic",
+    "Anti-tussive",
+    "Anti-diarrhoeal",
+    "Antagonist"
+   ],
+   "ans": 0,
+   "exp": "Hydromorphone's entry reads 'analgesic'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-060",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Pholcodine is described as:",
+   "opts": [
+    "A non-opioid anti-tussive",
+    "A strong analgesic",
+    "A pure antagonist",
+    "An anti-diarrhoeal drug"
+   ],
+   "ans": 0,
+   "exp": "Pholcodine is labelled 'non-opioid' with the use anti-tussive. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-061",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Hydrocodone is derived from:",
+   "opts": [
+    "Codeine",
+    "Morphine",
+    "Thebaine",
+    "Papaverine"
+   ],
+   "ans": 0,
+   "exp": "Hydrocodone appears under the 'derived from codeine' branch as an analgesic. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-062",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Buprenorphine is derived from:",
+   "opts": [
+    "Thebaine",
+    "Morphine",
+    "Codeine",
+    "Papaver somniferum directly"
+   ],
+   "ans": 0,
+   "exp": "The 'derived from thebaine' branch lists buprenorphine, oxycodone and oxymorphone. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-063",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Oxycodone is derived from thebaine and is used as an:",
+   "opts": [
+    "Analgesic",
+    "Anti-tussive",
+    "Anti-diarrhoeal",
+    "Antagonist"
+   ],
+   "ans": 0,
+   "exp": "Oxycodone is listed under thebaine derivatives with the use 'analgesic'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-064",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Oxymorphone is derived from:",
+   "opts": [
+    "Thebaine",
+    "Morphine",
+    "Codeine",
+    "Noscapine"
+   ],
+   "ans": 0,
+   "exp": "Oxymorphone is the third drug under 'derived from thebaine'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-065",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Which of the following is a SYNTHETIC opioid?",
+   "opts": [
+    "Fentanyl",
+    "Heroin",
+    "Hydrocodone",
+    "Oxycodone"
+   ],
+   "ans": 0,
+   "exp": "The synthetic branch lists fentanyl, pethidine, loperamide and methadone. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-066",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Pethidine belongs to which source-based group?",
+   "opts": [
+    "Synthetic",
+    "Natural opiate",
+    "Semi-synthetic",
+    "Endogenous"
+   ],
+   "ans": 0,
+   "exp": "Pethidine is listed in the synthetic group. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-067",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Loperamide is classified, by source, as a:",
+   "opts": [
+    "Synthetic opioid",
+    "Natural opiate",
+    "Semi-synthetic opioid",
+    "Endogenous opioid"
+   ],
+   "ans": 0,
+   "exp": "Loperamide appears in the synthetic group. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-068",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Methadone is listed under:",
+   "opts": [
+    "Synthetic opioids",
+    "Natural opiates",
+    "Semi-synthetic opioids",
+    "Pure antagonists"
+   ],
+   "ans": 0,
+   "exp": "Methadone is the fourth drug in the synthetic group. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-069",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "All of the following are semi-synthetic opioids EXCEPT:",
+   "opts": [
+    "Fentanyl",
+    "Heroin",
+    "Hydromorphone",
+    "Oxycodone"
+   ],
+   "ans": 0,
+   "exp": "Fentanyl is synthetic; heroin, hydromorphone and oxycodone are semi-synthetic. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-070",
+   "sec": "Semi-synthetic and Synthetic Opioids",
+   "page": 124,
+   "q": "Which semi-synthetic opioid is derived from morphine AND is a drug of abuse?",
+   "opts": [
+    "Diacetylmorphine (heroin)",
+    "Apomorphine",
+    "Pholcodine",
+    "Hydrocodone"
+   ],
+   "ans": 0,
+   "exp": "Heroin (diacetylmorphine) is derived from morphine and is labelled a drug of abuse. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-071",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "Based on opioid receptor interaction, opioids are first divided into:",
+   "opts": [
+    "Agonists and antagonists",
+    "Natural and synthetic",
+    "Short and long acting",
+    "Central and peripheral"
+   ],
+   "ans": 0,
+   "exp": "The receptor-interaction classification splits into agonist and antagonist. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-072",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "Agonists are further divided into:",
+   "opts": [
+    "Full agonists and mixed (agonist-antagonists)",
+    "Central and peripheral",
+    "Natural and synthetic",
+    "Reversible and irreversible"
+   ],
+   "ans": 0,
+   "exp": "Under agonist the page lists 'full agonist' and 'mixed'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-073",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "Antagonists in this classification are described as:",
+   "opts": [
+    "Pure antagonists",
+    "Partial antagonists",
+    "Mixed antagonists",
+    "Competitive agonists"
+   ],
+   "ans": 0,
+   "exp": "The antagonist branch leads to 'pure antagonist'. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-074",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "Pure antagonists are subdivided into:",
+   "opts": [
+    "Central and peripheral",
+    "Full and partial",
+    "Natural and synthetic",
+    "Short and long acting"
+   ],
+   "ans": 0,
+   "exp": "The antagonist branch further divides into central and peripheral. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-075",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "A drug that is a mixed agonist-antagonist belongs to which limb of the receptor-interaction classification?",
+   "opts": [
+    "Agonist",
+    "Pure antagonist",
+    "Peripheral antagonist",
+    "Endogenous opioid"
+   ],
+   "ans": 0,
+   "exp": "Mixed agonist-antagonists are grouped under agonists. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-076",
+   "sec": "Classification Based on Opioid Receptor Interaction",
+   "page": 124,
+   "q": "A peripherally acting pure opioid antagonist would be placed under:",
+   "opts": [
+    "Antagonist - peripheral",
+    "Agonist - mixed",
+    "Agonist - full",
+    "Endogenous opioid"
+   ],
+   "ans": 0,
+   "exp": "Peripheral agents are a subdivision of the pure antagonists. (Book p124)"
+  },
+  {
+   "id": "PHARM-C31-077",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Pure centrally acting antagonists are characterised by their ability to:",
+   "opts": [
+    "Cross the blood-brain barrier",
+    "Act only on peripheral opioid receptors",
+    "Stimulate the kappa receptor",
+    "Release endogenous endorphins"
+   ],
+   "ans": 0,
+   "exp": "The heading states that these drugs can cross the blood-brain barrier. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-078",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Pure centrally acting antagonists are the drugs used in:",
+   "opts": [
+    "Opioid toxicity",
+    "Chronic constipation",
+    "Cough suppression",
+    "Parkinson's disease"
+   ],
+   "ans": 0,
+   "exp": "The page says these are the drugs used in opioid toxicity. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-079",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Naloxone is described as the:",
+   "opts": [
+    "Shortest acting",
+    "Long acting",
+    "Longest acting",
+    "Ultra-short acting"
+   ],
+   "ans": 0,
+   "exp": "Naloxone is labelled 'shortest acting' among the three antagonists. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-080",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "The route of administration given for naloxone is:",
+   "opts": [
+    "Intravenous",
+    "Oral",
+    "Intramuscular only",
+    "Subcutaneous only"
+   ],
+   "ans": 0,
+   "exp": "The route listed under naloxone is i.v. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-081",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "In acute opioid toxicity, naloxone can also be given by the:",
+   "opts": [
+    "Intranasal route",
+    "Oral route",
+    "Rectal route",
+    "Transdermal route"
+   ],
+   "ans": 0,
+   "exp": "The page notes intranasal naloxone in acute toxicity. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-082",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "The drug of choice in opioid toxicity is:",
+   "opts": [
+    "Naloxone",
+    "Naltrexone",
+    "Nalmifene",
+    "Methylnaltrexone"
+   ],
+   "ans": 0,
+   "exp": "Naloxone is labelled DOC in opioid toxicity. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-083",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "An off-label use of naloxone mentioned on the page is:",
+   "opts": [
+    "Valproate-induced CNS depression",
+    "Alcohol dependence",
+    "Opioid dependence relapse prevention",
+    "Irritable bowel syndrome"
+   ],
+   "ans": 0,
+   "exp": "The off-label uses listed are valproate-induced CNS depression and clonidine toxicity. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-084",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "The second off-label use of naloxone given on the page is:",
+   "opts": [
+    "Clonidine toxicity",
+    "Methadone overdose",
+    "Benzodiazepine overdose",
+    "Hepatic encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "Clonidine toxicity is the second off-label indication listed. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-085",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "The adverse effects of naloxone are attributed to increased:",
+   "opts": [
+    "Catecholamines",
+    "Serotonin",
+    "Histamine",
+    "GABA"
+   ],
+   "ans": 0,
+   "exp": "The page states side effects are d/t up catecholamines. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-086",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Which of the following is listed as a naloxone adverse effect?",
+   "opts": [
+    "Pulmonary edema",
+    "Hepatotoxicity",
+    "Dysphoria and depression",
+    "Frank liver failure"
+   ],
+   "ans": 0,
+   "exp": "Hypertension, arrhythmias and pulmonary edema are the listed naloxone effects. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-087",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Hypertension, arrhythmias and pulmonary edema after naloxone are explained by:",
+   "opts": [
+    "A surge of catecholamines reversing opioid effect abruptly",
+    "Direct mu agonism in the myocardium",
+    "Histamine release from mast cells",
+    "Antagonism at peripheral delta receptors"
+   ],
+   "ans": 0,
+   "exp": "The note attributes these effects to increased catecholamines. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-088",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "A patient brought drowsy after taking clonidine is given naloxone. This use is:",
+   "opts": [
+    "An off-label use of naloxone",
+    "The drug of choice indication for naltrexone",
+    "Absolutely contraindicated",
+    "A use of nalmifene"
+   ],
+   "ans": 0,
+   "exp": "Clonidine toxicity is listed as an off-label use of naloxone. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-089",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone",
+   "page": 125,
+   "q": "Which pure centrally acting antagonist is shortest acting and therefore often needs repeated dosing?",
+   "opts": [
+    "Naloxone",
+    "Naltrexone",
+    "Nalmifene",
+    "Alvimopan"
+   ],
+   "ans": 0,
+   "exp": "Naloxone is the shortest acting of the three centrally acting antagonists. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-090",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Nalmifene is described as:",
+   "opts": [
+    "Long acting",
+    "Shortest acting",
+    "Longest acting",
+    "Ultra-short acting"
+   ],
+   "ans": 0,
+   "exp": "Nalmifene's entry reads 'long acting'. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-091",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Naltrexone is described as the:",
+   "opts": [
+    "Longest acting",
+    "Shortest acting",
+    "Short acting",
+    "Ultra-short acting"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone is labelled 'longest acting'. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-092",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Arranged from shortest to longest acting, the three pure centrally acting antagonists are:",
+   "opts": [
+    "Naloxone, nalmifene, naltrexone",
+    "Naltrexone, nalmifene, naloxone",
+    "Nalmifene, naloxone, naltrexone",
+    "Naloxone, naltrexone, nalmifene"
+   ],
+   "ans": 0,
+   "exp": "Naloxone is shortest acting, nalmifene long acting and naltrexone longest acting. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-093",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "The route of administration given for naltrexone is:",
+   "opts": [
+    "Oral",
+    "Intravenous",
+    "Intranasal",
+    "Sublingual"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone's route is given as oral. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-094",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Naltrexone is the drug of choice in:",
+   "opts": [
+    "Alcohol dependence",
+    "Opioid toxicity",
+    "Biliary colic",
+    "Spasmodic cough"
+   ],
+   "ans": 0,
+   "exp": "The DOC label under naltrexone is alcohol dependence. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-095",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "In opioid dependence, naltrexone is used to:",
+   "opts": [
+    "Prevent relapse",
+    "Treat acute withdrawal",
+    "Reverse respiratory depression",
+    "Potentiate methadone"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone is used in opioid dependence to prevent relapse. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-096",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "The hepatotoxicity of naltrexone is described as an rise of AST/ALT to:",
+   "opts": [
+    "3 times the normal values",
+    "10 times the normal values",
+    "1.5 times the normal values",
+    "Within twice the normal values"
+   ],
+   "ans": 0,
+   "exp": "The page says AST/ALT up to 3x normal values. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-097",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "The severe form of naltrexone hepatotoxicity mentioned is:",
+   "opts": [
+    "Frank liver failure",
+    "Cirrhosis with portal hypertension",
+    "Hepatic adenoma",
+    "Sclerosing cholangitis"
+   ],
+   "ans": 0,
+   "exp": "The page lists frank liver failure as the severe outcome. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-098",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Dysphoria and depression with naltrexone are attributed to:",
+   "opts": [
+    "Antagonism at the mu receptor",
+    "Agonism at the kappa receptor",
+    "Inhibition of phosphodiesterase",
+    "Excess catecholamine release"
+   ],
+   "ans": 0,
+   "exp": "The page explains dysphoria and depression as a consequence of antagonism at the mu receptor. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-099",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Because it causes dysphoria and depression, naltrexone use is:",
+   "opts": [
+    "Contraindicated in depression",
+    "Preferred in depression",
+    "Given only intravenously",
+    "Restricted to children"
+   ],
+   "ans": 0,
+   "exp": "The page states that because of mu antagonism-related depression, its use is contraindicated. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-100",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "A patient with alcohol dependence and coexisting major depression is a poor candidate for:",
+   "opts": [
+    "Naltrexone",
+    "Naloxone",
+    "Acamprosate",
+    "Disulfiram"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone causes dysphoria and depression by mu antagonism, so its use is contraindicated in depression. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-101",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Monitoring during naltrexone therapy should include:",
+   "opts": [
+    "Liver function tests (AST/ALT)",
+    "Serum amylase",
+    "Pulmonary function tests",
+    "Serum potassium"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone can raise AST/ALT to three times normal and cause frank liver failure, so liver function is monitored. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-102",
+   "sec": "Nalmifene and Naltrexone",
+   "page": 125,
+   "q": "Which antagonist is taken by mouth for relapse prevention in opioid dependence?",
+   "opts": [
+    "Naltrexone",
+    "Naloxone",
+    "Nalmifene",
+    "Methylnaltrexone"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone is the orally administered, longest acting antagonist used to prevent relapse. (Book p125)"
+  },
+  {
+   "id": "PHARM-C31-103",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "The table on this page lists drug, receptor interaction and:",
+   "opts": [
+    "Details",
+    "Dose",
+    "Cost",
+    "Route only"
+   ],
+   "ans": 0,
+   "exp": "The three column headings are Drug, Receptor interaction and Details. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-104",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "The receptor interaction columns in the table are, in order:",
+   "opts": [
+    "mu, kappa and delta",
+    "kappa, delta and mu",
+    "delta, mu and kappa",
+    "mu, delta and sigma"
+   ],
+   "ans": 0,
+   "exp": "The receptor interaction heading spans the mu, kappa and delta columns. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-105",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Nalorphine's receptor interaction is:",
+   "opts": [
+    "Antagonist at mu and full agonist at kappa",
+    "Partial agonist at mu and antagonist at kappa",
+    "Full agonist at mu and delta",
+    "Antagonist at delta only"
+   ],
+   "ans": 0,
+   "exp": "Nalorphine is an antagonist at mu and a full agonist at kappa. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-106",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "The earlier use of nalorphine was:",
+   "opts": [
+    "Opioid toxicity",
+    "Severe cancer pain",
+    "Cough suppression",
+    "Alcohol dependence"
+   ],
+   "ans": 0,
+   "exp": "The details column gives nalorphine's earlier use as opioid toxicity. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-107",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Nalorphine is said to have fewer side effects because of antagonism at:",
+   "opts": [
+    "mu receptor",
+    "delta receptor",
+    "kappa receptor",
+    "NMDA receptor"
+   ],
+   "ans": 0,
+   "exp": "The details column reads 'down side effects d/t antagonism at mu'. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-108",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "The analgesic efficacy of nalorphine is described as:",
+   "opts": [
+    "Poor",
+    "Excellent",
+    "Superior to morphine",
+    "Equal to fentanyl"
+   ],
+   "ans": 0,
+   "exp": "Nalorphine's use is given as analgesic (poor). (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-109",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Dezocine's receptor interaction is:",
+   "opts": [
+    "Antagonist at mu and full agonist at kappa",
+    "Partial agonist at mu and antagonist at kappa",
+    "Full agonist at mu and kappa",
+    "Antagonist at kappa and delta"
+   ],
+   "ans": 0,
+   "exp": "Dezocine is listed as antagonist at mu and full agonist at kappa. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-110",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Pentazocine's receptor interaction is:",
+   "opts": [
+    "Partial agonist at mu and full agonist at kappa",
+    "Antagonist at mu and full agonist at kappa",
+    "Full agonist at mu, kappa and delta",
+    "Antagonist at kappa and delta"
+   ],
+   "ans": 0,
+   "exp": "Pentazocine is a partial agonist at mu and a full agonist at kappa. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-111",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Butorphanol's receptor interaction is:",
+   "opts": [
+    "Partial agonist at mu and full agonist at kappa",
+    "Antagonist at mu and full agonist at kappa",
+    "Full agonist at mu and antagonist at delta",
+    "Partial agonist at kappa and delta"
+   ],
+   "ans": 0,
+   "exp": "Butorphanol is a partial agonist at mu and a full agonist at kappa. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-112",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "The cardiovascular caution listed for pentazocine is:",
+   "opts": [
+    "It raises heart rate and is contraindicated in MI patients",
+    "It causes severe hypotension and is contraindicated in shock",
+    "It causes bradycardia and is contraindicated in heart block",
+    "It prolongs the QT interval"
+   ],
+   "ans": 0,
+   "exp": "The details column states pentazocine increases heart rate and is contraindicated in MI patients. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-113",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "A patient with acute myocardial infarction and severe pain should not receive:",
+   "opts": [
+    "Pentazocine",
+    "Morphine",
+    "Fentanyl",
+    "Naloxone"
+   ],
+   "ans": 0,
+   "exp": "Pentazocine raises heart rate and is contraindicated in myocardial infarction. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-114",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Which two drugs in the table share the interaction 'antagonist at mu plus full agonist at kappa'?",
+   "opts": [
+    "Nalorphine and dezocine",
+    "Pentazocine and butorphanol",
+    "Buprenorphine and nalorphine",
+    "Eluxadoline and dezocine"
+   ],
+   "ans": 0,
+   "exp": "Nalorphine and dezocine are both mu antagonists with full kappa agonism. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-115",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "page": 126,
+   "q": "Which two drugs in the table share the interaction 'partial agonist at mu plus full agonist at kappa'?",
+   "opts": [
+    "Pentazocine and butorphanol",
+    "Nalorphine and dezocine",
+    "Buprenorphine and eluxadoline",
+    "Nalorphine and pentazocine"
+   ],
+   "ans": 0,
+   "exp": "Pentazocine and butorphanol are both mu partial agonists with full kappa agonism. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-116",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Eluxadoline's receptor interaction is:",
+   "opts": [
+    "Full agonist at mu and kappa, antagonist at delta",
+    "Partial agonist at mu, antagonist at kappa",
+    "Antagonist at mu, full agonist at kappa",
+    "Full agonist at all three receptors"
+   ],
+   "ans": 0,
+   "exp": "Eluxadoline is a full agonist at mu and kappa and an antagonist at delta. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-117",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Eluxadoline is used in:",
+   "opts": [
+    "Irritable bowel syndrome with diarrhoea",
+    "Opioid-induced constipation",
+    "Ulcerative colitis",
+    "Chronic pancreatitis pain"
+   ],
+   "ans": 0,
+   "exp": "The details column gives its use as irritable bowel syndrome (IBS) with diarrhoea. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-118",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "The only drug in the table that is an antagonist at the delta receptor is:",
+   "opts": [
+    "Eluxadoline",
+    "Buprenorphine",
+    "Pentazocine",
+    "Nalorphine"
+   ],
+   "ans": 0,
+   "exp": "Eluxadoline is the delta antagonist in the table. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-119",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Buprenorphine's receptor interaction is:",
+   "opts": [
+    "Partial agonist at mu and antagonist at kappa",
+    "Full agonist at mu and kappa",
+    "Antagonist at mu and full agonist at kappa",
+    "Partial agonist at kappa and delta"
+   ],
+   "ans": 0,
+   "exp": "Buprenorphine is a partial agonist at mu and an antagonist at kappa. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-120",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Buprenorphine binds to the mu receptor:",
+   "opts": [
+    "Fast, with slow dissociation because of increased affinity",
+    "Slowly, with fast dissociation",
+    "Irreversibly",
+    "Only at peripheral sites"
+   ],
+   "ans": 0,
+   "exp": "The details column says fast binding with slow dissociation d/t increased affinity to mu. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-121",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "The clinical consequence of buprenorphine's slow dissociation from mu is:",
+   "opts": [
+    "No or only mild withdrawal symptoms",
+    "Severe withdrawal on stopping",
+    "Rapid tolerance",
+    "Marked euphoria"
+   ],
+   "ans": 0,
+   "exp": "Fast binding and slow dissociation mean no or only mild withdrawal symptoms. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-122",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Buprenorphine is used in mild to moderate pain because of its:",
+   "opts": [
+    "Ceiling effect",
+    "Very short half-life",
+    "High potency at delta",
+    "Peripheral selectivity"
+   ],
+   "ans": 0,
+   "exp": "The details column attributes its use in mild to moderate pain to the ceiling effect. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-123",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Buprenorphine is contraindicated in:",
+   "opts": [
+    "Labour pain",
+    "Myocardial infarction",
+    "Renal colic",
+    "Cough"
+   ],
+   "ans": 0,
+   "exp": "Labour pain is listed as a contraindication. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-124",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "The reason buprenorphine is avoided in labour pain is that it may cause:",
+   "opts": [
+    "Naloxone-resistant respiratory depression in the fetus",
+    "Severe maternal hypertension",
+    "Uterine inversion",
+    "Postpartum haemorrhage"
+   ],
+   "ans": 0,
+   "exp": "The page states it may cause naloxone-resistant respiratory depression in the fetus. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-125",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "According to the note at the foot of the page, increasing the dose of a drug:",
+   "opts": [
+    "Increases the drug effect only until the peak effect dose is reached, after which a ceiling is seen",
+    "Increases the drug effect indefinitely",
+    "Has no relation to drug effect",
+    "Produces toxicity before any analgesia"
+   ],
+   "ans": 0,
+   "exp": "The note describes a rising effect with dose that plateaus - the ceiling effect - after the peak effect dose is reached. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-126",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "The ceiling effect described in the note is classically a property of:",
+   "opts": [
+    "A partial agonist such as buprenorphine",
+    "A full agonist such as morphine",
+    "A pure antagonist such as naloxone",
+    "An anti-tussive such as noscapine"
+   ],
+   "ans": 0,
+   "exp": "A ceiling effect is the hallmark of a partial agonist, which is why buprenorphine suits mild to moderate pain. (Book p126)"
+  },
+  {
+   "id": "PHARM-C31-127",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "page": 126,
+   "q": "Which drug in the table is useful in BOTH opioid toxicity and mild to moderate pain?",
+   "opts": [
+    "Buprenorphine",
+    "Nalorphine",
+    "Eluxadoline",
+    "Pentazocine"
+   ],
+   "ans": 0,
+   "exp": "Buprenorphine is used in opioid toxicity (fast binding, slow dissociation) and in mild to moderate pain (ceiling effect). (Book p126)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U31-1",
+   "ch": 31,
+   "n": 1,
+   "title": "Opioid Receptors and the mu (mu) Receptor Effects",
+   "sec": "Opioid Receptors and the mu (mu) Receptor Effects · p123",
+   "qs": [
+    "PHARM-C31-001",
+    "PHARM-C31-002",
+    "PHARM-C31-003",
+    "PHARM-C31-004",
+    "PHARM-C31-005",
+    "PHARM-C31-006",
+    "PHARM-C31-007",
+    "PHARM-C31-008",
+    "PHARM-C31-009",
+    "PHARM-C31-010",
+    "PHARM-C31-011",
+    "PHARM-C31-012",
+    "PHARM-C31-013",
+    "PHARM-C31-014",
+    "PHARM-C31-015",
+    "PHARM-C31-016",
+    "PHARM-C31-017",
+    "PHARM-C31-018",
+    "PHARM-C31-019",
+    "PHARM-C31-020"
+   ],
+   "guide": "The chapter opens with the three opioid receptors - mu, kappa and delta - and their effects. The mu effects are remembered by the mnemonic mMuSCARINE: miosis, urine retention, sedation, constipation, analgesia, respiratory depression and increased muscle rigidity (classically the wooden chest syndrome of fentanyl), followed by reduced bile flow from sphincter of Oddi contraction, contraction of circular smooth muscle and relaxation of longitudinal smooth muscle."
+  },
+  {
+   "id": "PHARM-U31-2",
+   "ch": 31,
+   "n": 2,
+   "title": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin",
+   "sec": "kappa and delta Receptor Effects, the Biliary Colic Note and Difelikefalin · p123",
+   "qs": [
+    "PHARM-C31-021",
+    "PHARM-C31-022",
+    "PHARM-C31-023",
+    "PHARM-C31-024",
+    "PHARM-C31-025",
+    "PHARM-C31-026",
+    "PHARM-C31-027",
+    "PHARM-C31-028",
+    "PHARM-C31-029",
+    "PHARM-C31-030",
+    "PHARM-C31-031",
+    "PHARM-C31-032",
+    "PHARM-C31-033"
+   ],
+   "guide": "The kappa receptor adds constipation, analgesia, anti-pruritic action and psychomimetic dysphoria, whereas the delta receptor produces analgesia and modulates the release of neurotransmitters and hormones. The page carries two clinical notes: opioids are not contraindicated in biliary colic because the analgesic effect outweighs sphincter contraction, and difelikefalin, a kappa agonist, is used for pruritus in dialysis-dependent CKD patients."
+  },
+  {
+   "id": "PHARM-U31-3",
+   "ch": 31,
+   "n": 3,
+   "title": "Endogenous Opioids",
+   "sec": "Endogenous Opioids · p123",
+   "qs": [
+    "PHARM-C31-034",
+    "PHARM-C31-035",
+    "PHARM-C31-036",
+    "PHARM-C31-037",
+    "PHARM-C31-038",
+    "PHARM-C31-039",
+    "PHARM-C31-040"
+   ],
+   "guide": "The drug section begins with the endogenous opioids, which are synthesised within the body: enkephalin acting on the delta receptor, endorphin on the mu receptor and dynorphin on the kappa receptor."
+  },
+  {
+   "id": "PHARM-U31-4",
+   "ch": 31,
+   "n": 4,
+   "title": "Exogenous Opioids: Natural Opiates",
+   "sec": "Exogenous Opioids: Natural Opiates · p124",
+   "qs": [
+    "PHARM-C31-041",
+    "PHARM-C31-042",
+    "PHARM-C31-043",
+    "PHARM-C31-044",
+    "PHARM-C31-045",
+    "PHARM-C31-046",
+    "PHARM-C31-047",
+    "PHARM-C31-048",
+    "PHARM-C31-049",
+    "PHARM-C31-050",
+    "PHARM-C31-051",
+    "PHARM-C31-052",
+    "PHARM-C31-053",
+    "PHARM-C31-054"
+   ],
+   "guide": "Exogenous opioids are first classified by source into natural opiates, semi-synthetic and synthetic drugs. Natural opiates are derived from Papaver somniferum and split into chemicals with opioid action (morphine and codeine) and chemicals without opioid action (noscapine, used as an anti-tussive for spasmodic cough; papaverine, which inhibits phosphodiesterase, raises cyclic AMP and relaxes smooth muscle in biliary and ureteric colic; and thebaine)."
+  },
+  {
+   "id": "PHARM-U31-5",
+   "ch": 31,
+   "n": 5,
+   "title": "Semi-synthetic and Synthetic Opioids",
+   "sec": "Semi-synthetic and Synthetic Opioids · p124",
+   "qs": [
+    "PHARM-C31-055",
+    "PHARM-C31-056",
+    "PHARM-C31-057",
+    "PHARM-C31-058",
+    "PHARM-C31-059",
+    "PHARM-C31-060",
+    "PHARM-C31-061",
+    "PHARM-C31-062",
+    "PHARM-C31-063",
+    "PHARM-C31-064",
+    "PHARM-C31-065",
+    "PHARM-C31-066",
+    "PHARM-C31-067",
+    "PHARM-C31-068",
+    "PHARM-C31-069",
+    "PHARM-C31-070"
+   ],
+   "guide": "Semi-synthetic opioids are those derived from morphine (diacetylmorphine/heroin, four times as potent as morphine and a drug of abuse; apomorphine, a dopamine agonist used in Parkinson's disease; hydromorphone, ethylmorphine and the non-opioid anti-tussive pholcodine), from codeine (hydrocodone, an analgesic) and from thebaine (buprenorphine, oxycodone and oxymorphone). The synthetic group lists fentanyl, pethidine, loperamide and methadone."
+  },
+  {
+   "id": "PHARM-U31-6",
+   "ch": 31,
+   "n": 6,
+   "title": "Classification Based on Opioid Receptor Interaction",
+   "sec": "Classification Based on Opioid Receptor Interaction · p124",
+   "qs": [
+    "PHARM-C31-071",
+    "PHARM-C31-072",
+    "PHARM-C31-073",
+    "PHARM-C31-074",
+    "PHARM-C31-075",
+    "PHARM-C31-076"
+   ],
+   "guide": "The second classification is based on opioid receptor interaction. Agonists are either full agonists or mixed agonist-antagonists, while antagonists are pure antagonists, which are further divided into central and peripheral agents."
+  },
+  {
+   "id": "PHARM-U31-7",
+   "ch": 31,
+   "n": 7,
+   "title": "Pure Centrally Acting Antagonists: Naloxone",
+   "sec": "Pure Centrally Acting Antagonists: Naloxone · p125",
+   "qs": [
+    "PHARM-C31-077",
+    "PHARM-C31-078",
+    "PHARM-C31-079",
+    "PHARM-C31-080",
+    "PHARM-C31-081",
+    "PHARM-C31-082",
+    "PHARM-C31-083",
+    "PHARM-C31-084",
+    "PHARM-C31-085",
+    "PHARM-C31-086",
+    "PHARM-C31-087",
+    "PHARM-C31-088",
+    "PHARM-C31-089"
+   ],
+   "guide": "Pure centrally acting antagonists can cross the blood-brain barrier and are the drugs used in opioid toxicity. Naloxone is the shortest acting, is given intravenously (and intranasally in acute toxicity), is the drug of choice in opioid toxicity, and is used off label for valproate-induced CNS depression and clonidine toxicity; its adverse effects - hypertension, arrhythmias and pulmonary edema - follow the surge of catecholamines."
+  },
+  {
+   "id": "PHARM-U31-8",
+   "ch": 31,
+   "n": 8,
+   "title": "Nalmifene and Naltrexone",
+   "sec": "Nalmifene and Naltrexone · p125",
+   "qs": [
+    "PHARM-C31-090",
+    "PHARM-C31-091",
+    "PHARM-C31-092",
+    "PHARM-C31-093",
+    "PHARM-C31-094",
+    "PHARM-C31-095",
+    "PHARM-C31-096",
+    "PHARM-C31-097",
+    "PHARM-C31-098",
+    "PHARM-C31-099",
+    "PHARM-C31-100",
+    "PHARM-C31-101",
+    "PHARM-C31-102"
+   ],
+   "guide": "Nalmifene is the long-acting antagonist, while naltrexone is the longest acting and is given orally. Naltrexone is the drug of choice in alcohol dependence and is used in opioid dependence to prevent relapse; its problems are hepatotoxicity (AST/ALT rising to three times normal, or frank liver failure) and dysphoria or depression from mu antagonism, which contraindicates its use."
+  },
+  {
+   "id": "PHARM-U31-9",
+   "ch": 31,
+   "n": 9,
+   "title": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol",
+   "sec": "Mixed Agonist/Antagonists: Nalorphine, Dezocine, Pentazocine and Butorphanol · p126",
+   "qs": [
+    "PHARM-C31-103",
+    "PHARM-C31-104",
+    "PHARM-C31-105",
+    "PHARM-C31-106",
+    "PHARM-C31-107",
+    "PHARM-C31-108",
+    "PHARM-C31-109",
+    "PHARM-C31-110",
+    "PHARM-C31-111",
+    "PHARM-C31-112",
+    "PHARM-C31-113",
+    "PHARM-C31-114",
+    "PHARM-C31-115"
+   ],
+   "guide": "The mixed agonist/antagonist table lists the drug, its receptor interaction at mu, kappa and delta, and details. Nalorphine (earlier used in opioid toxicity, with fewer side effects because of mu antagonism, but a poor analgesic) and dezocine are mu antagonists with full kappa agonism, whereas pentazocine and butorphanol are mu partial agonists with full kappa agonism. Pentazocine raises heart rate and is contraindicated in a patient with myocardial infarction."
+  },
+  {
+   "id": "PHARM-U31-10",
+   "ch": 31,
+   "n": 10,
+   "title": "Eluxadoline, Buprenorphine and the Ceiling Effect",
+   "sec": "Eluxadoline, Buprenorphine and the Ceiling Effect · p126",
+   "qs": [
+    "PHARM-C31-116",
+    "PHARM-C31-117",
+    "PHARM-C31-118",
+    "PHARM-C31-119",
+    "PHARM-C31-120",
+    "PHARM-C31-121",
+    "PHARM-C31-122",
+    "PHARM-C31-123",
+    "PHARM-C31-124",
+    "PHARM-C31-125",
+    "PHARM-C31-126",
+    "PHARM-C31-127"
+   ],
+   "guide": "Eluxadoline is a full agonist at mu and kappa and an antagonist at delta, used in irritable bowel syndrome with diarrhoea. Buprenorphine is a partial agonist at mu and an antagonist at kappa; because it binds fast and dissociates slowly (high affinity for mu) it produces no or only mild withdrawal symptoms and is used in opioid toxicity and, thanks to its ceiling effect, in mild to moderate pain. It is contraindicated in labour pain because it may cause naloxone-resistant respiratory depression in the fetus."
+  }
+ ]
+}

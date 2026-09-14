@@ -1,0 +1,40 @@
+# book p127 dpi=300 boxes=42
+  104  2217 | 127
+  305   741 | OPIOIDS:PART2  |  --Activespace
+  643  1731 | 00:00:10
+  655   158 | Full Agonist Opioids
+  773   156 | morphine:
+  847   156 | Pharmacokinetics:
+  982   269 | -Oral:as%bioavailability(o/thiqhfrstpassmetabolism).
+ 1072   348 | Oraldose>Ivdose.
+ 1151   206 | metabolism:Liver.
+ 1173   759 | C/Iinliverandrenalfailure
+ 1224   199 | Elimination:Kidney.
+ 1293   209 | Tva:ahr.
+ 1351   199 | Durationofaction:a4hr(o/tactivemetabolites).
+ 1489   153 | uses:
+ 1627   234 | pain in cancer).
+ 1724  1125 | c/
+ 1743   158 | Side effects:
+ 1786  1158 | Headtrauma(Absolute)
+ 1816   211 | Intracranialpressure
+ 1858  1143 | ·Bronchialasthma(Relative)
+ 1888   228 | ↑Releaseofhistamine
+ 2008   162 | Codeine:
+ 2079   158 | metabolism:
+ 2132   873 | metabolism
+ 2307  1544 | 90%ofdrug
+ 2358   165 | 10%ofdrug
+ 2393   864 | distress  |  Glucuronidation
+ 2445   280 | cyPaDlo
+ 2494   864 | ↓Analgesia  |  Inactivemetabolite
+ 2528   170 | morphine
+ 2570   487 | Decreased activity
+ 2653  1585 | Excreted
+ 2655   207 | Effect
+ 2748   160 | use:
+ 2823   200 | Anti-tussive.
+ 2899   213 | mild tomoderatepain.
+ 3003   169 | Pethidine/meperidine:
+ 3054   165 | maximun duration ofuse:48hr(D/t toxicity)
+ 3164   803 | Pharmacology·v3.0·Marrow8.0·2024

@@ -1,0 +1,46 @@
+# book p141 dpi=300 boxes=57
+  127  2252 | 141
+  247   635 | ANTIPSYCHOTICDRUGS
+  328  2013 | ..-Active space..
+  492   172 | Dopamine hypothesis ofpsychosis:
+  609   310 | Dopamine levels  |  Actson  |  Dreceptors
+  657  1410 | BlocksThoughts
+  681   299 | (Inlimbic system)  |  (G subtype of GPCR)
+  726  1558 | APfect
+  934   611 | Typical antipsychotics
+ 1044   176 | TypesofAntipsychotics
+ 1084  1775 | 00:02:00
+ 1233   766 | Typical antipsychotics
+ 1245  1520 | Atypical antipsychotics
+ 1316  1317 | Centra SHT(major)
+ 1342   267 | Receptorblocked  |  Dareceptor
+ 1399  1361 | Dreceptor(minor)
+ 1459   241 | Extrapyramidal side
+ 1510   965 | +++
+ 1510  1495 | +（o/tlessDstimulation)
+ 1628   195 | Preference (Inpsychosis  |  and line drug
+ 1644  1275 | linedrug except  |  Clozapine  |  +/C
+ 1710   271 | or schizophrenia)
+ 1720  1713 | OlanzapineJtoxicity
+ 1803   251 | Drug preferredfor  |  Haloperidol
+ 1846  1641 | olanzapine
+ 1881   357 | aqitation
+ 1962  1562 | Positivenegative
+ 2031  1299 | Cariprazine>Risperidonebestfornegative
+ 2033   221 | Symptomsacted upon  |  Only positive
+ 2112  1646 | symptoms
+ 2199   228 | Drugusedininsomnia
+ 2266  1646 | Quetiapine
+ 2344   359 | disorder)
+ 2418   221 | Drugwith↑riskofQT  |  Haloperidol.
+ 2422  1349 | quetiapine.
+ 2494  1345 | Ziprasidone.
+ 2501   329 | prolonqation  |  Chlorpromazine.
+ 2568  1389 | Addonuseifaantidepressants
+ 2651   271 | usein depression  |  Notused
+ 2651  1632 | ineffective)
+ 2720  1298 | (quetiapine:Canbeused asmonotherapy)
+ 2814   905 | Sublingual dexmedetomedine(aagonist)
+ 2863   183 | Note:Forsedationin agitation
+ 2925   891 | -Lorazepam
+ 3148   841 | Pharmacology·y3.0·Marrow8.0-2024

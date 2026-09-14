@@ -1,0 +1,51 @@
+# book p151 dpi=300 boxes=67
+  144  1252 | Alcohol&SmokingDependence  |  151
+  348  1916 | ---Active space-...
+  349   109 | NonFDA Approved:
+  505  1204 | e.Topiramate:
+  507   197 | aB2D  |  c.Gabapentin
+  574  1206 | Preffered drug  |  F.Varenicline
+  628   392 | b.Clonidine  |  dBaclofen
+  750   125 | AcuteAlcohol withdrawal (Doc)
+  828   116 | TreatmentApproach:
+  915   535 | New,Case
+ 1088   391 | Initial Investiqation:LFT
+ 1171   193 | 3timesnormal  |  <3timesnormal
+ 1277   125 | Acamprosate  |  Inadequateresponse  |  Naltrexone
+ 1277  1150 | Inadequateresponse  |  Topiramate
+ 1358  1697 | topiramate
+ 1429  1697 | contraindicated:
+ 1508  1703 | ·Renal stone
+ 1582  1745 | Glaucoma
+ 1763  1680 | 00:21:22
+ 1773   139 | SmokingDependence
+ 1892   137 | FirstLine:
+ 2005  1358 | C.NRT(Nicotine Replacement Therapy)
+ 2013   140 | ddg  |  b.Varenicline (Doc)
+ 2068  1771 | Types:
+ 2091   412 | most ePfective drug
+ 2146   445 | Syntheticdrug:Derivedfrom cytisine.
+ 2187  1299 | Long acting  |  Short acting
+ 2213   403 | Route:Oral
+ 2240  1220 | maintenance  |  Breakthrough craving
+ 2259   399 | moA:Nicotinicreceptoragonist
+ 2305  1222 | Patch:1e-a4hours  |  Route:
+ 2356  1243 | (Apply on hairless  |  NasalSpray:mosteffective
+ 2407   357 | Partial agonista4βa  |  Full agonista7
+ 2409  1240 | area once a day).  |  NRT Schedule H drug
+ 2467  1756 | oral:Gum/Lozengeover the
+ 2478   334 | /e:
+ 2524  1215 | Regime:Patch+Gum/Lozenge/Nasal Spray  |  counterdrugs
+ 2528   341 | -v:vomiting,Nousea
+ 2581   338 | -A:Abnormal sleep
+ 2635   392 | (wismguurouos)
+ 2694  1705 | New Case
+ 2699   301 | Atypical use:Dry eye
+ 2745   324 | disease (ntranasolroute)
+ 2851  1194 | Oralvarenicline (Doc)  |  NRT
+ 2899   408 | Trigeminalnerve
+ 2934  1611 | Inadequateresponse
+ 3038  1706 | Addboth
+ 3042   376 | Nosolo.crimal refex:
+ 3100   461 | lacrimation
+ 3155   782 | Pharmiacology·v3.0-Marrow8.0·2024

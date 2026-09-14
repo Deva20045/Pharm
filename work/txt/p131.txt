@@ -1,0 +1,49 @@
+# book p131 dpi=300 boxes=57
+  100  2221 | 131
+  286   551 | AFFECTDISORDERS:PART1
+  298  1965 | -.--Active space----
+  586   167 | BDNFHypothesis:
+  674   560 | BDNF(erainDerivedNeurotrophicFactor)
+  726   167 | Increases
+  726  1599 | Decreases
+  794  1453 | Depression
+  798   373 | mania
+  851   697 | Fluctuating:BipolarDisorder
+  922   688 | (Rapid cycles:>4times/year)
+ 1015   163 | Management ofMania
+ 1022  1747 | 00:03:10
+ 1144   162 | LITHIum
+ 1213   163 | mechanism ofAction:
+ 1282  1114 | b.Pathway to↑BDNFSynthesis:
+ 1286   206 | a.Pathway to↓BDNFSynthesis:
+ 1351  1160 | Activation of Gq subtype ofGPCR
+ 1362   250 | ActivationofFrizzled(Fz)receptor.
+ 1422  2015 | Lithium
+ 1503   311 | membrane  |  F2  |  Lithium
+ 1505  1359 | membrane  |  ↓↑PIPa (Phospho Inositol
+ 1627   368 | GSK-3(GlycogenSynthase Kinase-3)
+ 1627  1609 | Bisphosphonates)
+ 1688  1463 | ↓↑IP3  |  Recycling  |  inositol
+ 1695   162 | Cytoplasm  |  Breaks
+ 1750  2069 | Inositol
+ 1780   361 | ↑β-catenin
+ 1824   415 | ↓uptake  |  ↓BDNF↑
+ 1826  1946 | monophosphatase
+ 1916  1417 | ↓↑BDNF  |  IP(Inositol monophosphate)
+ 2096  1222 | Neuroplasticity  |  Neuroprotection
+ 2187   207 | LithiumactsbasedonBDNFconcentration
+ 2218  1557 | aweeks:Noteffectiveinacutemania
+ 2305  1416 | Control mania
+ 2328   480 | moodstabilizer
+ 2549   156 | uses:
+ 2602  1077 | Otheruses:
+ 2630   162 | DOC:
+ 2665  1111 | unipolardepression(ifnoresponse
+ 2692   204 | Prophylaxis ofmania
+ 2743  1144 | toSSRI/SNRD.
+ 2777   234 | Bipolar Disorder.
+ 2817  1118 | Neutropenia/Leukopenia(Atypical
+ 2831   239 | Hypnic heo.do.che (sleep related).
+ 2902  1143 | use).
+ 2916   199 | ·mania. in Ta and T3ofpregnancy
+ 3174   817 | Pharmacology·v3.0·Marrow8.0·2024

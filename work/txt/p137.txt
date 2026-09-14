@@ -1,0 +1,51 @@
+# book p137 dpi=300 boxes=59
+   97  1467 | AffectDisorders:Part2  |  137
+  250   156 | Side effects:
+  280  1056 | Contraindications:  |  Active space-..
+  323   147 | Also seen in both Typical and Atypical
+  355  1090 | Glaucoma
+  406   155 | Antipsychotics.
+  425  1085 | ·BPH.
+  533   827 | effects  |  Toxicity:
+  544   170 | Receptors Blocked
+  611  1317 | Lethaleffectevenwiths-lotablets.
+  621   632 | mydriasis
+  688  1328 | ClinicalPresentation:
+  697   246 | muscarinic  |  ·urineretention
+  768  1447 | metabolicacidosis.
+  772   591 | ·Drymouth
+  830   593 | ·Sedation（Givenightdosing)  |  Arrhythmia（lonizedformofTCA—
+  895   338 | IH  |  Obesity
+  906  1495 | BlockNa*channeD—Death.
+  991   656 | Obesity(o/t↑Appetite)  |  Doc:SodiumBicarbonate
+ 1010   315 | LHS
+ 1059   702 | Posturalhypotension  |  （unionizedformofTcA
+ 1093   339 | aI
+ 1130  1363 | DoesnotblockNachannel.
+ 1268   158 | SEROTONINNOREPINEPHRINEREUPTAKEINHIBITORS
+ 1347   158 | mOA:
+ 1409   537 | Lowdose-PredominantinhibitionofsHTreuptake.
+ 1445   163 | Basedondose
+ 1485   546 | Highdose—PredominantinhibitionofNereuptake.
+ 1586   158 | uses:
+ 1658   206 | Typicaldepression.
+ 1726   200 | DepressionwithPostural hypotension/postural TachycardiaSyndrome(PoTs).
+ 1801   200 | ·miscellaneous uses(SNRD:
+ 1888   243 | Stressurineincontinence.
+ 1953   246 | Newrosis:PTSD,OcD,Anorexianervosa,Phobia,Bulemia
+ 1985  1594 | SSRlaremore
+ 2029   274 | Recurrentpainsyndrome:Fibromyalgia
+ 2047   591 | Premenstrual Syndrome(Pms).  |  preffered
+ 2130   253 | Irritabilityin
+ 2160   614 | HotFlashes(In post menopausad.
+ 2282   165 | Note:Hotfashes.
+ 2340   193 | Hormone Replacement Therapy(HRT):DOC.
+ 2402   195 | ·SSRI/sNRI:Preffered iHRT//S/elikeThrombosisBreastCancer
+ 2501   239 | uterine cancer).
+ 2607  1347 | SideEffects:
+ 2618   165 | :s6na
+ 2679  1345 | Hypertension.
+ 2695   170 | Venla.faxine (Shortacting
+ 2755   162 | moximum risk of withdrowal symptoms).
+ 2824   165 | minocipran(minimum/ No withdrawal symptoms).
+ 3141   811 | Pharmacology·v3.0·Marrow8.0·2024

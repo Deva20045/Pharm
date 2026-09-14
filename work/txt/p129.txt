@@ -1,0 +1,50 @@
+# book p129 dpi=300 boxes=50
+  105  1622 | Opioids:Part 2  |  129
+  293   158 | Tramadol:
+  303  1969 | ..-Active space .
+  355   850 | effects
+  540   362 | Opioidanalgesia
+  542  1130 | Non-opioid analgesia
+  598   199 | moA:μreceptoragonism.
+  607  1085 | moA:Inhibitionofserotonin
+  669  1118 | norepinephrinereuptake(TcA/SNRI-
+  680   197 | use:
+  747   271 | -mild to moderatepain.
+  754  1120 | like effect).
+  816   273 | -Post-operative/drug
+  826  1072 | use:Neuropathic pain.
+  893   313 | induced chills (a agonism).
+ 1014   162 | Fentanyl:
+ 1021  1040 | Alfentanyl:
+ 1084   191 | Common drug ofabuse.
+ 1091  1074 | ·use:Anaesthesia(TIvA).
+ 1165   200 | Potency:Iooxmorphine.
+ 1173  1076 | ·Potency:aoxmorphine.
+ 1241   202 | use:Anaesthesia
+ 1346  1044 | Ramifentanyl:
+ 1406  1076 | ·Shortestfastest acting
+ 1416   195 | ·Potency:looox morphine (most
+ 1482  1077 | ·metabolisedbypseudocholinesterase.
+ 1498   237 | potent opioid).
+ 1551  1079 | ·use:ContinuousIvinfusionfordaycare surgeries.
+ 1570   199 | moximum plasma proteinbinding.
+ 1641   197 | ·use:Bronchoscopy (To inhibit
+ 1711  1049 | oliceridine:
+ 1720   257 | stress response).
+ 1775  1121 | use:IvroutePor severe pain.
+ 1869   236 | Note:
+ 1913   246 | Peripheral antagonists:DonotcrossBBB—usedforaction onGIT.
+ 2006   271 | 1.Alvimopan:Only short termuse.
+ 2084   355 | -use:Post-operative ileus.
+ 2134   348 | -Side effect :ml (Black box warning by FDA).
+ 2234   276 | a.methyinaltrexone.
+ 2319   276 | 3.Naloxegol.
+ 2328   732 | use:Opioid induced constipation
+ 2393   276 | 4.Naldemedine.
+ 2520  1741 | 00:40:03
+ 2549   179 | Opioid Dependence
+ 2664   176 | Tolerance:
+ 2752   181 | Leffect with same dose oncontinuous dosage.
+ 2870   368 | Receptordesensitisation
+ 2966   362 | Receptordownregulation
+ 3158   819 | Pharmacology·v3.0·Marrow8.0·2024

@@ -1,0 +1,46 @@
+# book p136 dpi=300 boxes=56
+  185   697 | Central andPeripheral NervousSystem
+  344   346 | -Activespace-*  |  uses:
+  408   676 | and line RxofAtypical depression(Elevatedmood in selective occasions).
+  519   678 | Sideeffects:
+  590   678 | CheeseReaction:
+  722   671 | DoC:/vPhentolamine.
+  835   669 | SerotoninSyndrome:D/tSHT
+  906   709 | 1.Clinicol presentation:
+  929  1664 | a. Diagnosis: Hunter's criteria
+  978   708 | Sympatheticactivation
+  987  1248 | Sweating  |  3.Rx:SympathotaticRx+
+ 1068  1280 | elood pressure  |  Benzodiazepine.
+ 1150  1285 | Heartrate  |  No Response
+ 1187   736 | Eye:mydriasis.
+ 1231  1708 | DOC:Cyproheptadine (SHTa Block)
+ 1259   732 | Rigid muscles.
+ 1323   699 | Ocular clonus.  |  Causes
+ 1397   739 | Temperature.
+ 1506   662 | TRICYCLICANTIDEPRESSANTS
+ 1577   653 | uses:
+ 1642   681 | ·Typical Depression.
+ 1713   683 | Otheruses:
+ 1837   935 | moA
+ 1876  1780 | uses
+ 1879   258 | Clomipramine  |  maximuminhibitionofsHTreuptake
+ 1932  1500 | TCAofchoice inOCD(DOCisSSRD
+ 1953   274 | Imipramine
+ 2006  1430 | Nocturnalenuresis:DocisDesmopressin
+ 2047   258 | Desipramine  |  maximuminhibitionofDopamine/Ne
+ 2127   877 | reuptake
+ 2130  1623 | CocaineDependence
+ 2220  1391 | m/cused TCA:m/c causeofdeathd/t  |  TCAofchoiceforNeuropathy
+ 2248   246 | Amitriptyline  |  maximumantimuscariniceffect
+ 2363  1426 | suicide
+ 2402   244 | Nortriptyline
+ 2443  1461 | Smoking Dependance(and line drug)
+ 2515  1386 | ·Insomnia
+ 2517   294 | Doxepin  |  HIBlockeralsousedasTcA
+ 2581  1380 | ·Anxiety
+ 2635   255 | Amoxapine  |  BlockDareceptorsAnti-psychotic
+ 2713  1613 | PsychoticDepression
+ 2715   884 | effect)
+ 2826   614 | Note:
+ 2883   609 | Loxapine:Antipsychotic derivative of TCA (Amoxapine).
+ 3059  1100 | Pharmacology·v3.0·Marrow8.0·2024

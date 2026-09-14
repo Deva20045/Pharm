@@ -1,0 +1,44 @@
+# book p139 dpi=300 boxes=46
+   95  1456 | AffectDisorders:Part2  |  139
+  300  1983 | --Active space --
+  321   197 | b.others/e:
+  392   195 | ·AKathisia (Restlessness).
+  478   209 | Riskofeleeding
+  630   234 | ofosteoporosis.
+  710   692 | Note:SSRI-sHTinsynapse
+  892  1106 | ProlongedStimulationof
+  913   607 | Bind toSHTa
+  975  1204 | SHTareceptor
+  985   641 | Receptors
+ 1104  1192 | Downrequlation
+ 1111   662 | Anxiety
+ 1183   570 | (Fora-lweeks)
+ 1234  1264 | Anxiolysis
+ 1310   457 | Add Ben2odiazepine(62D)
+ 1390   621 | forImonth
+ 1491  1731 | 01:00:53
+ 1519   169 | Atypical Antidepressants
+ 1646   167 | SHTaBLOCKERS
+ 1722   167 | older drugs:
+ 1786   167 | mildinhibitorsofSHTreuptake.
+ 1823  1349 | a.Nefazodone:Obsolete
+ 1865   206 | I.Trazodone
+ 1899   775 | RxDepression with  |  s/E:Hepatotoxic
+ 1943   366 | Side effects
+ 2008   887 | Insomnia
+ 2012   278 | Sedation:D/tHI Block
+ 2075   769 | Erectile dysfunction.
+ 2231   174 | Newerdrugs:
+ 2268  1104 | a.mianserin
+ 2296   207 | 1.mirtazapine:
+ 2360   176 | mOA:Block  |  SHTa.
+ 2432   482 | SHT3Antiemetic.
+ 2508   568 | sedation(Nighttimedosing)
+ 2547   489 | →工
+ 2573   586 | sHT/NE(AKANor-adrenergicSpecifcserotonergic
+ 2630   491 | aa
+ 2676   521 | Antidepressant,NaSSAdrug)
+ 2773   871 | Erectile dysfunction
+ 2805   177 | use:Docfor Depression with
+ 2863   871 | Insomnia
+ 3158   810 | Pharmacology·v3.0·Marrow8.0·2024

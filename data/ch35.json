@@ -1,0 +1,1656 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C35-001",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "The hypothesis with which the antipsychotic chapter begins is the:",
+   "opts": [
+    "Dopamine hypothesis of psychosis",
+    "Serotonin hypothesis of psychosis",
+    "GABA hypothesis of psychosis",
+    "Glutamate hypothesis of psychosis"
+   ],
+   "ans": 0,
+   "exp": "The first heading is the dopamine hypothesis of psychosis. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-002",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "The dopamine said to be abnormal in psychosis is that in the:",
+   "opts": [
+    "Limbic system",
+    "Basal ganglia only",
+    "Cerebellum",
+    "Spinal cord"
+   ],
+   "ans": 0,
+   "exp": "The schema specifies dopamine levels in the limbic system. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-003",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "The dopamine receptor subtype implicated is:",
+   "opts": [
+    "D2",
+    "D1",
+    "D3 only",
+    "D5"
+   ],
+   "ans": 0,
+   "exp": "The schema shows dopamine acting on D2 receptors. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-004",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "The D2 receptor belongs to which G protein subtype?",
+   "opts": [
+    "Gi",
+    "Gs",
+    "Gq",
+    "G12/13"
+   ],
+   "ans": 0,
+   "exp": "The page notes D2 receptors are of the Gi subtype of GPCR. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-005",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "The two mental functions said to be affected by the dopamine excess are thoughts and:",
+   "opts": [
+    "Affect",
+    "Memory",
+    "Orientation",
+    "Sleep"
+   ],
+   "ans": 0,
+   "exp": "The schema ends with effects on thoughts and affect. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-006",
+   "sec": "Dopamine Hypothesis of Psychosis",
+   "page": 141,
+   "q": "A drug that relieves hallucinations and disordered thinking by blocking D2 receptors in the limbic system is acting on the:",
+   "opts": [
+    "Dopamine hypothesis of psychosis",
+    "Monoamine hypothesis of depression",
+    "Cholinergic hypothesis of dementia",
+    "GABA hypothesis of anxiety"
+   ],
+   "ans": 0,
+   "exp": "Blocking limbic D2 receptors to improve thoughts and affect is the dopamine hypothesis applied to treatment. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-007",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The two types of antipsychotics compared on this page are:",
+   "opts": [
+    "Typical and atypical",
+    "First and second generation only",
+    "Selective and non-selective",
+    "Reversible and irreversible"
+   ],
+   "ans": 0,
+   "exp": "Types of antipsychotics are given as typical and atypical. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-008",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Typical antipsychotics mainly block the:",
+   "opts": [
+    "D2 receptor",
+    "Central 5HT receptor",
+    "D4 receptor",
+    "NMDA receptor"
+   ],
+   "ans": 0,
+   "exp": "The receptor blocked by typical agents is the D2 receptor. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-009",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Atypical antipsychotics act mainly on:",
+   "opts": [
+    "Central 5HT receptors, with D2 blockade a minor component",
+    "D2 receptors only",
+    "Dopamine transporters only",
+    "GABA-A receptors"
+   ],
+   "ans": 0,
+   "exp": "The atypical column lists central 5HT blockade as major and D2 blockade as minor. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-010",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Extrapyramidal side effects with typical antipsychotics are graded as:",
+   "opts": [
+    "Marked (+++)",
+    "Minimal (+)",
+    "Absent",
+    "Identical to atypical agents"
+   ],
+   "ans": 0,
+   "exp": "Typical agents are graded +++ for extrapyramidal side effects. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-011",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The milder extrapyramidal profile of atypical agents is attributed to:",
+   "opts": [
+    "Less D2 stimulation blockade",
+    "Greater D2 blockade",
+    "Antimuscarinic potency",
+    "Faster metabolism"
+   ],
+   "ans": 0,
+   "exp": "The page attributes the lower extrapyramidal effect to less D2 blockade. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-012",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "In psychosis or schizophrenia, the preferred first line drugs are:",
+   "opts": [
+    "Atypical antipsychotics, apart from clozapine and olanzapine",
+    "Typical antipsychotics",
+    "Benzodiazepines",
+    "Lithium"
+   ],
+   "ans": 0,
+   "exp": "Atypical agents are first line, but clozapine and olanzapine are excepted from routine first line use. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-013",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Typical antipsychotics are described as:",
+   "opts": [
+    "Second line drugs",
+    "First line drugs",
+    "Drugs of choice in resistant disease",
+    "Not used in psychosis"
+   ],
+   "ans": 0,
+   "exp": "Typical agents are labelled second line drugs. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-014",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The drugs preferred for agitation are:",
+   "opts": [
+    "Haloperidol and olanzapine",
+    "Clozapine and quetiapine",
+    "Risperidone and aripiprazole",
+    "Chlorpromazine and thioridazine"
+   ],
+   "ans": 0,
+   "exp": "Haloperidol and olanzapine are the drugs preferred for agitation. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-015",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Typical antipsychotics act on which symptoms?",
+   "opts": [
+    "Only positive symptoms",
+    "Only negative symptoms",
+    "Both positive and negative symptoms",
+    "Only cognitive symptoms"
+   ],
+   "ans": 0,
+   "exp": "Typical agents are said to act only on positive symptoms. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-016",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Atypical antipsychotics act on:",
+   "opts": [
+    "Both positive and negative symptoms",
+    "Only positive symptoms",
+    "Only negative symptoms",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Atypical agents act on positive and negative symptoms. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-017",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The drugs described as best for negative symptoms, in order, are:",
+   "opts": [
+    "Cariprazine, then risperidone",
+    "Risperidone, then cariprazine",
+    "Haloperidol, then chlorpromazine",
+    "Quetiapine, then olanzapine"
+   ],
+   "ans": 0,
+   "exp": "The note reads cariprazine greater than risperidone for negative symptoms. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-018",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The antipsychotic used in insomnia disorder is:",
+   "opts": [
+    "Quetiapine",
+    "Haloperidol",
+    "Risperidone",
+    "Aripiprazole"
+   ],
+   "ans": 0,
+   "exp": "Quetiapine is named as the drug used in insomnia disorder. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-019",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "When antidepressants are ineffective, the antipsychotic used as an add-on is:",
+   "opts": [
+    "Quetiapine",
+    "Haloperidol",
+    "Chlorpromazine",
+    "Fluphenazine"
+   ],
+   "ans": 0,
+   "exp": "Quetiapine is listed for add-on use when antidepressants are ineffective, and it can even be used as monotherapy. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-020",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "Typical antipsychotics in that add-on situation are:",
+   "opts": [
+    "Not used",
+    "The drugs of choice",
+    "Used only with lithium",
+    "Used only in the elderly"
+   ],
+   "ans": 0,
+   "exp": "Typical agents are marked as not used for add-on treatment of depression. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-021",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The QT prolonging drugs listed are:",
+   "opts": [
+    "Haloperidol, chlorpromazine, quetiapine and ziprasidone",
+    "Haloperidol and clozapine only",
+    "Aripiprazole and brexpiprazole only",
+    "Lurasidone and cariprazine only"
+   ],
+   "ans": 0,
+   "exp": "Haloperidol, chlorpromazine, quetiapine and ziprasidone are the drugs listed with increased QT prolongation risk. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-022",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "For sedation in agitation, the note mentions sublingual dexmedetomidine, which is:",
+   "opts": [
+    "An alpha-2 agonist",
+    "A benzodiazepine",
+    "A dopamine antagonist",
+    "An anticholinergic"
+   ],
+   "ans": 0,
+   "exp": "Dexmedetomidine is noted as an alpha-2 agonist given sublingually. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-023",
+   "sec": "Typical versus Atypical Antipsychotics",
+   "page": 141,
+   "q": "The other drug noted for sedation in agitation is:",
+   "opts": [
+    "Lorazepam",
+    "Diazepam",
+    "Promethazine",
+    "Zolpidem"
+   ],
+   "ans": 0,
+   "exp": "Lorazepam is the second drug noted for sedation in agitation. (Book p141)"
+  },
+  {
+   "id": "PHARM-C35-024",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Typical antipsychotics are subdivided by:",
+   "opts": [
+    "Potency",
+    "Route",
+    "Half-life",
+    "Cost"
+   ],
+   "ans": 0,
+   "exp": "The typical branch divides into low potency and high potency drugs. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-025",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Low potency typical antipsychotics named are:",
+   "opts": [
+    "Chlorpromazine and thioridazine",
+    "Haloperidol and droperidol",
+    "Fluphenazine and perphenazine",
+    "Trifluoperazine and molindone"
+   ],
+   "ans": 0,
+   "exp": "Chlorpromazine and thioridazine are the low potency agents. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-026",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "High potency typical antipsychotics named include:",
+   "opts": [
+    "Fluphenazine, trifluoperazine and perphenazine",
+    "Chlorpromazine and thioridazine",
+    "Clozapine and olanzapine",
+    "Quetiapine and ziprasidone"
+   ],
+   "ans": 0,
+   "exp": "Fluphenazine, trifluoperazine and perphenazine are the high potency phenothiazines. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-027",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "The butyrophenones named are:",
+   "opts": [
+    "Haloperidol and droperidol",
+    "Chlorpromazine and thioridazine",
+    "Risperidone and paliperidone",
+    "Aripiprazole and brexpiprazole"
+   ],
+   "ans": 0,
+   "exp": "Haloperidol and droperidol are the butyrophenones. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-028",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Chlorpromazine and thioridazine belong to which chemical group?",
+   "opts": [
+    "Phenothiazines",
+    "Butyrophenones",
+    "Thioxanthenes",
+    "Dibenzodiazepines"
+   ],
+   "ans": 0,
+   "exp": "The phenothiazine group is labelled against chlorpromazine and thioridazine. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-029",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "The drug listed outside the phenothiazine and butyrophenone groups is:",
+   "opts": [
+    "Molindone",
+    "Haloperidol",
+    "Perphenazine",
+    "Trifluoperazine"
+   ],
+   "ans": 0,
+   "exp": "Molindone is listed separately in the typical group. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-030",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Brown vision is a characteristic adverse effect of:",
+   "opts": [
+    "Thioridazine",
+    "Sildenafil",
+    "Digoxin",
+    "Chlorpromazine"
+   ],
+   "ans": 0,
+   "exp": "The colour vision note pairs brown vision with thioridazine. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-031",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Blue vision is associated with:",
+   "opts": [
+    "Sildenafil",
+    "Thioridazine",
+    "Digoxin",
+    "Haloperidol"
+   ],
+   "ans": 0,
+   "exp": "Blue vision is listed for sildenafil. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-032",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "Yellow vision is classically associated with:",
+   "opts": [
+    "Digoxin",
+    "Thioridazine",
+    "Sildenafil",
+    "Clozapine"
+   ],
+   "ans": 0,
+   "exp": "Yellow vision is listed for digoxin. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-033",
+   "sec": "Classification of Antipsychotics",
+   "page": 142,
+   "q": "A patient on a low potency phenothiazine complains that everything looks brown. The drug is:",
+   "opts": [
+    "Thioridazine",
+    "Chlorpromazine",
+    "Haloperidol",
+    "Fluphenazine"
+   ],
+   "ans": 0,
+   "exp": "Thioridazine, a low potency phenothiazine, is the drug that causes brown vision. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-034",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Clozapine is described as having the:",
+   "opts": [
+    "Minimum D2 receptor blockade",
+    "Maximum D2 receptor blockade",
+    "No dopamine blockade at all",
+    "Selective D1 blockade"
+   ],
+   "ans": 0,
+   "exp": "Clozapine is credited with the minimum D2 receptor block. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-035",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Clozapine is the most effective antipsychotic because it blocks:",
+   "opts": [
+    "D4 receptors",
+    "D1 receptors",
+    "5HT3 receptors",
+    "NMDA receptors"
+   ],
+   "ans": 0,
+   "exp": "Its superior efficacy is attributed to D4 receptor block. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-036",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Clozapine is also described as the:",
+   "opts": [
+    "Most toxic antipsychotic",
+    "Safest antipsychotic",
+    "Least effective antipsychotic",
+    "Cheapest antipsychotic"
+   ],
+   "ans": 0,
+   "exp": "The page labels clozapine the most toxic antipsychotic. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-037",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The mnemonic given for clozapine's side effects is:",
+   "opts": [
+    "SAMOSA",
+    "MUSCARINE",
+    "ORCHAD",
+    "HIPS Dance"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic is SAMOSA. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-038",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "In the SAMOSA mnemonic, the first S stands for:",
+   "opts": [
+    "Sedation",
+    "Sialorrhoea",
+    "Seizures",
+    "Sweating"
+   ],
+   "ans": 0,
+   "exp": "The first S is sedation. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-039",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The A of SAMOSA stands for:",
+   "opts": [
+    "Agranulocytosis",
+    "Akathisia",
+    "Anorexia",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "A stands for agranulocytosis. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-040",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Why is therapeutic drug monitoring not possible for clozapine's agranulocytosis?",
+   "opts": [
+    "There is no correlation with plasma concentration",
+    "The drug cannot be measured in plasma",
+    "The reaction is immediate",
+    "The reaction is dose independent in everyone"
+   ],
+   "ans": 0,
+   "exp": "The page states agranulocytosis has no correlation to plasma concentration, so monitoring cannot predict it. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-041",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The M of SAMOSA stands for:",
+   "opts": [
+    "Myocarditis",
+    "Mydriasis",
+    "Miosis",
+    "Metabolic acidosis"
+   ],
+   "ans": 0,
+   "exp": "M stands for myocarditis. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-042",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The O of SAMOSA stands for:",
+   "opts": [
+    "Obesity",
+    "Osteoporosis",
+    "Ocular clonus",
+    "Oliguria"
+   ],
+   "ans": 0,
+   "exp": "O stands for obesity. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-043",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The second S of SAMOSA stands for sialorrhoea, also called:",
+   "opts": [
+    "Wet pillow syndrome",
+    "Dry mouth syndrome",
+    "Cotton wool syndrome",
+    "Restless leg syndrome"
+   ],
+   "ans": 0,
+   "exp": "Sialorrhoea with clozapine is described as the wet pillow syndrome. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-044",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "The final A of SAMOSA stands for:",
+   "opts": [
+    "Angle closure glaucoma",
+    "Agranulocytosis",
+    "Akathisia",
+    "Anaemia"
+   ],
+   "ans": 0,
+   "exp": "The final A is angle closure glaucoma. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-045",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Another use of clozapine noted on the page is treatment of:",
+   "opts": [
+    "Suicidal tendencies",
+    "Insomnia",
+    "Obsessive-compulsive disorder",
+    "Tourette syndrome"
+   ],
+   "ans": 0,
+   "exp": "The note mentions treatment of suicidal tendencies. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-046",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Clozapine is the drug of choice in:",
+   "opts": [
+    "Resistant schizophrenia",
+    "First episode psychosis",
+    "Postpartum psychosis",
+    "Drug induced psychosis"
+   ],
+   "ans": 0,
+   "exp": "Clozapine is the DOC in resistant schizophrenia. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-047",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "Other options noted for resistant schizophrenia besides clozapine are lithium and:",
+   "opts": [
+    "Electroconvulsive therapy",
+    "Deep brain stimulation",
+    "Psychosurgery",
+    "Vagus nerve stimulation"
+   ],
+   "ans": 0,
+   "exp": "Lithium and electroconvulsive therapy are the other options listed, ECT being described as the best method. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-048",
+   "sec": "Clozapine",
+   "page": 142,
+   "q": "A patient on clozapine reports drooling onto the pillow at night. This is:",
+   "opts": [
+    "Sialorrhoea - the wet pillow syndrome",
+    "Sedation",
+    "Obesity related reflux",
+    "A sign of myocarditis"
+   ],
+   "ans": 0,
+   "exp": "Sialorrhoea, the wet pillow syndrome, is one of the SAMOSA effects of clozapine. (Book p142)"
+  },
+  {
+   "id": "PHARM-C35-049",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "The atypical antipsychotics with maximum D2 blockade are:",
+   "opts": [
+    "Risperidone and paliperidone",
+    "Clozapine and quetiapine",
+    "Aripiprazole and brexpiprazole",
+    "Pimavanserin and lurasidone"
+   ],
+   "ans": 0,
+   "exp": "Risperidone and paliperidone are credited with maximum D2 blockade. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-050",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "The ocular adverse effect specifically attributed to quetiapine is:",
+   "opts": [
+    "Cataract",
+    "Glaucoma",
+    "Retinal detachment",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Cataract is listed as a side effect of quetiapine. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-051",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Pimavanserin is described as:",
+   "opts": [
+    "A 5HT blocker with no D2 blockade",
+    "A D2 blocker with no 5HT effect",
+    "A dopamine partial agonist",
+    "A GABA modulator"
+   ],
+   "ans": 0,
+   "exp": "Pimavanserin is a 5HT blocker only, with no D2 blockade. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-052",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Pimavanserin is the drug of choice for:",
+   "opts": [
+    "Levodopa-induced psychosis",
+    "Resistant schizophrenia",
+    "Tourette syndrome",
+    "Delirium tremens"
+   ],
+   "ans": 0,
+   "exp": "Pimavanserin is the DOC for levodopa-induced psychosis. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-053",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Aripiprazole, brexpiprazole and cariprazine are 5HT blockers that are additionally:",
+   "opts": [
+    "Partial agonists at D2 receptors",
+    "Full antagonists at D2 receptors",
+    "Dopamine reuptake inhibitors",
+    "MAO inhibitors"
+   ],
+   "ans": 0,
+   "exp": "These three are described as 5HT blockers plus partial agonists at D2 receptors. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-054",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Because aripiprazole, brexpiprazole and cariprazine do not block muscarinic or histamine receptors, they can be used in:",
+   "opts": [
+    "BPH and glaucoma",
+    "Asthma and COPD",
+    "Peptic ulcer",
+    "Myasthenia gravis"
+   ],
+   "ans": 0,
+   "exp": "The note says they can be used in BPH and glaucoma because other receptors are spared. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-055",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Ziprasidone is distinguished by being:",
+   "opts": [
+    "Weight neutral",
+    "The most sedating",
+    "The most antimuscarinic",
+    "The most hepatotoxic"
+   ],
+   "ans": 0,
+   "exp": "Ziprasidone is noted as weight neutral. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-056",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Lurasidone is described as a:",
+   "opts": [
+    "5HT agonist",
+    "Selective D2 antagonist",
+    "GABA agonist",
+    "Dopamine agonist"
+   ],
+   "ans": 0,
+   "exp": "Lurasidone is described as a 5HT agonist. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-057",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "Which atypical agent is safest in a patient with glaucoma and prostatic hypertrophy?",
+   "opts": [
+    "Aripiprazole",
+    "Clozapine",
+    "Olanzapine",
+    "Quetiapine"
+   ],
+   "ans": 0,
+   "exp": "Aripiprazole does not block muscarinic or histamine receptors, so it is suitable in BPH and glaucoma. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-058",
+   "sec": "Other Atypical Antipsychotics",
+   "page": 143,
+   "q": "A patient with Parkinson's disease on levodopa develops visual hallucinations. The drug of choice is:",
+   "opts": [
+    "Pimavanserin",
+    "Haloperidol",
+    "Risperidone",
+    "Clozapine"
+   ],
+   "ans": 0,
+   "exp": "Pimavanserin, a pure 5HT blocker without D2 blockade, is the DOC for levodopa-induced psychosis. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-059",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "Extrapyramidal side effects and hyperprolactinaemia are due to blockade of:",
+   "opts": [
+    "D2 receptors",
+    "5HT2 receptors",
+    "Histamine H1 receptors",
+    "Muscarinic receptors"
+   ],
+   "ans": 0,
+   "exp": "The page attributes extrapyramidal effects and hyperprolactinaemia to D2 blockade. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-060",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "Among atypical agents, D2-related effects are most severe with:",
+   "opts": [
+    "Risperidone",
+    "Clozapine",
+    "Pimavanserin",
+    "Aripiprazole"
+   ],
+   "ans": 0,
+   "exp": "Risperidone is listed in the most severe column. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-061",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "The atypical agent with the least D2 related effects is:",
+   "opts": [
+    "Clozapine",
+    "Risperidone",
+    "Paliperidone",
+    "Haloperidol"
+   ],
+   "ans": 0,
+   "exp": "Clozapine appears in the least severe column. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-062",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "In which drug are D2 related effects absent?",
+   "opts": [
+    "Pimavanserin",
+    "Risperidone",
+    "Clozapine",
+    "Olanzapine"
+   ],
+   "ans": 0,
+   "exp": "Pimavanserin is placed in the absent column because it has no D2 blockade. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-063",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "Metabolic and sedative effects such as obesity, urinary retention and sedation are due to blockade of:",
+   "opts": [
+    "Receptors other than D2",
+    "D2 receptors only",
+    "Dopamine transporters",
+    "GABA receptors"
+   ],
+   "ans": 0,
+   "exp": "These effects are grouped under blockade of other receptors. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-064",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "Hyperglycaemia with atypical antipsychotics is attributed to:",
+   "opts": [
+    "Insulin resistance",
+    "Beta cell destruction",
+    "Increased glucagon",
+    "Renal glycosuria"
+   ],
+   "ans": 0,
+   "exp": "The page attributes hyperglycaemia to insulin resistance. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-065",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "The drug with the greatest metabolic and sedative burden is:",
+   "opts": [
+    "Clozapine",
+    "Lurasidone",
+    "Cariprazine",
+    "Ziprasidone"
+   ],
+   "ans": 0,
+   "exp": "The order begins with clozapine as the most severe. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-066",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "The drug with the least metabolic burden among those listed is:",
+   "opts": [
+    "Lurasidone",
+    "Clozapine",
+    "Olanzapine",
+    "Risperidone"
+   ],
+   "ans": 0,
+   "exp": "Lurasidone is at the mildest end of the list. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-067",
+   "sec": "Adverse Effects According to Receptor Blocked",
+   "page": 143,
+   "q": "Which of the following is NOT listed among the non-D2 receptor mediated effects?",
+   "opts": [
+    "Extrapyramidal symptoms",
+    "Obesity",
+    "Dyslipidaemia",
+    "Urinary retention"
+   ],
+   "ans": 0,
+   "exp": "Extrapyramidal symptoms are D2 mediated; obesity, dyslipidaemia and urinary retention belong to the other receptor group. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-068",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The commonest extrapyramidal side effect of antipsychotics is:",
+   "opts": [
+    "Akathisia",
+    "Acute dystonia",
+    "Parkinsonism",
+    "Tardive dyskinesia"
+   ],
+   "ans": 0,
+   "exp": "Akathisia is marked as the commonest. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-069",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "Akathisia means:",
+   "opts": [
+    "Restlessness",
+    "Muscle rigidity",
+    "Tremor at rest",
+    "Involuntary facial movement"
+   ],
+   "ans": 0,
+   "exp": "Akathisia is glossed as restlessness. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-070",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The presentation of akathisia includes pacing around and:",
+   "opts": [
+    "Shifting or crossing of the legs",
+    "Facial grimacing",
+    "Lip smacking",
+    "Tongue protrusion"
+   ],
+   "ans": 0,
+   "exp": "Shifting and crossing of the legs are listed with pacing around. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-071",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The drug of choice for akathisia is:",
+   "opts": [
+    "Propranolol",
+    "Trihexyphenidyl",
+    "Promethazine",
+    "Bromocriptine"
+   ],
+   "ans": 0,
+   "exp": "Propranolol is the DOC for akathisia. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-072",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "If akathisia does not respond to the drug of choice, the next option is:",
+   "opts": [
+    "A benzodiazepine",
+    "Levodopa",
+    "An anticholinergic",
+    "Dantrolene"
+   ],
+   "ans": 0,
+   "exp": "A benzodiazepine is advised when there is no response. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-073",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "Acute dystonia is said to occur with increased incidence in:",
+   "opts": [
+    "Young patients",
+    "Elderly patients",
+    "Women only",
+    "Patients with renal failure"
+   ],
+   "ans": 0,
+   "exp": "The page notes the increased incidence in young patients. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-074",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The manifestations of acute dystonia listed are abnormal posturing and:",
+   "opts": [
+    "Facial grimacing",
+    "Lip smacking",
+    "Waving of the hand",
+    "Tongue protrusion"
+   ],
+   "ans": 0,
+   "exp": "Facial grimacing and abnormal posturing are listed for acute dystonia. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-075",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The drug of choice for acute dystonia is an anticholinergic, specifically:",
+   "opts": [
+    "Benzhexol (trihexyphenidyl)",
+    "Propranolol",
+    "Promethazine",
+    "Biperiden only"
+   ],
+   "ans": 0,
+   "exp": "Anticholinergics are the DOC, with benzhexol or trihexyphenidyl preferred. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-076",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "The antihistamine used alternatively in acute dystonia is:",
+   "opts": [
+    "Promethazine",
+    "Cetirizine",
+    "Fexofenadine",
+    "Ranitidine"
+   ],
+   "ans": 0,
+   "exp": "Promethazine, an H1 blocker, is named as the alternative. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-077",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "Drug induced parkinsonism from D2 blockade presents with tremors and:",
+   "opts": [
+    "Bradykinesia",
+    "Chorea",
+    "Myoclonus",
+    "Ataxia"
+   ],
+   "ans": 0,
+   "exp": "Tremors and bradykinesia are listed under parkinsonism. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-078",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "A young man started on haloperidol develops painful neck muscle spasm and facial grimacing. The diagnosis and treatment are:",
+   "opts": [
+    "Acute dystonia treated with an anticholinergic such as trihexyphenidyl",
+    "Akathisia treated with propranolol",
+    "Parkinsonism treated with levodopa",
+    "Tardive dyskinesia treated with a VMAT blocker"
+   ],
+   "ans": 0,
+   "exp": "Acute dystonia is commoner in the young, presents with abnormal posturing and grimacing, and is treated with anticholinergics. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-079",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "page": 143,
+   "q": "A patient on an antipsychotic cannot sit still and constantly crosses and uncrosses the legs. The drug of choice is:",
+   "opts": [
+    "Propranolol",
+    "Trihexyphenidyl",
+    "Dantrolene",
+    "Bromocriptine"
+   ],
+   "ans": 0,
+   "exp": "This is akathisia, for which propranolol is the DOC. (Book p143)"
+  },
+  {
+   "id": "PHARM-C35-080",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Tardive dyskinesia is described as:",
+   "opts": [
+    "Late onset",
+    "Immediate onset",
+    "Occurring only with clozapine",
+    "Reversible within hours"
+   ],
+   "ans": 0,
+   "exp": "Tardive dyskinesia is labelled late onset. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-081",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The mechanism of tardive dyskinesia is:",
+   "opts": [
+    "Upregulation of D2 receptors",
+    "Downregulation of D2 receptors",
+    "Dopamine depletion",
+    "GABA receptor loss"
+   ],
+   "ans": 0,
+   "exp": "The aetiology given is upregulation of D2 receptors. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-082",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Facial dyskinesia in tardive dyskinesia comprises:",
+   "opts": [
+    "Lip smacking and tongue protrusion",
+    "Facial grimacing only",
+    "Ptosis and diplopia",
+    "Trismus only"
+   ],
+   "ans": 0,
+   "exp": "Lip smacking and tongue protrusion are the facial features. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-083",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The limb manifestation of tardive dyskinesia described is:",
+   "opts": [
+    "Waving of the hand",
+    "Foot drop",
+    "Winging of the scapula",
+    "Intention tremor"
+   ],
+   "ans": 0,
+   "exp": "Limb dyskinesia is described as waving of the hand. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-084",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The drugs of choice for tardive dyskinesia are the:",
+   "opts": [
+    "VMAT blockers",
+    "Anticholinergics",
+    "Beta blockers",
+    "Benzodiazepines"
+   ],
+   "ans": 0,
+   "exp": "VMAT blockers are the DOC for tardive dyskinesia. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-085",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The VMAT blockers named are tetrabenazine, deutetrabenazine and:",
+   "opts": [
+    "Valbenazine",
+    "Reserpine",
+    "Haloperidol",
+    "Bromocriptine"
+   ],
+   "ans": 0,
+   "exp": "Valbenazine is the third VMAT blocker named. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-086",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "VMAT blockers work by:",
+   "opts": [
+    "Preventing dopamine entry into the vesicle",
+    "Blocking dopamine receptors",
+    "Stimulating dopamine release",
+    "Inhibiting monoamine oxidase"
+   ],
+   "ans": 0,
+   "exp": "Their mechanism is prevention of dopamine entry into the vesicle. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-087",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Neuroleptic malignant syndrome is attributed to:",
+   "opts": [
+    "Severe D2 receptor blockade",
+    "Anticholinergic excess",
+    "Serotonin excess",
+    "GABA depletion"
+   ],
+   "ans": 0,
+   "exp": "The aetiology given is severe D2 block. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-088",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Features of neuroleptic malignant syndrome listed include severe muscle rigidity, hyperthermia, sweating, autonomic instability and:",
+   "opts": [
+    "Reduced respiratory rate",
+    "Bradycardia",
+    "Hypothermia",
+    "Polyuria"
+   ],
+   "ans": 0,
+   "exp": "Reduced respiratory rate is listed among the features. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-089",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The drug of choice for neuroleptic malignant syndrome is:",
+   "opts": [
+    "Dantrolene",
+    "Bromocriptine",
+    "Diazepam",
+    "Propranolol"
+   ],
+   "ans": 0,
+   "exp": "Dantrolene is the DOC in neuroleptic malignant syndrome. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-090",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Dantrolene acts by inhibiting the:",
+   "opts": [
+    "Ryanodine receptor",
+    "D2 receptor",
+    "Sodium channel",
+    "Calcium channel only in the heart"
+   ],
+   "ans": 0,
+   "exp": "Dantrolene's mechanism is inhibition of the ryanodine receptor. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-091",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The most specific drug for neuroleptic malignant syndrome is:",
+   "opts": [
+    "Bromocriptine",
+    "Dantrolene",
+    "Diazepam",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "Bromocriptine is described as the most specific drug. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-092",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Bromocriptine is used in neuroleptic malignant syndrome because it is a:",
+   "opts": [
+    "D2 agonist",
+    "D2 antagonist",
+    "Muscle relaxant",
+    "Antipyretic"
+   ],
+   "ans": 0,
+   "exp": "Bromocriptine is a D2 agonist, reversing the blockade that caused the syndrome. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-093",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "The antiemetic named as also causing acute dystonia and parkinsonism is:",
+   "opts": [
+    "Metoclopramide",
+    "Ondansetron",
+    "Domperidone only",
+    "Prochlorperazine only"
+   ],
+   "ans": 0,
+   "exp": "Metoclopramide, a D2 blocker antiemetic, is noted to cause acute dystonia and parkinsonism. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-094",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "page": 144,
+   "q": "Dantrolene is also the drug of choice for:",
+   "opts": [
+    "Malignant hyperthermia",
+    "Tardive dyskinesia",
+    "Serotonin syndrome",
+    "Acute dystonia"
+   ],
+   "ans": 0,
+   "exp": "The note states dantrolene is the DOC for malignant hyperthermia. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-095",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "The first step in treating psychosis is to start:",
+   "opts": [
+    "An atypical antipsychotic other than clozapine or olanzapine",
+    "A typical antipsychotic",
+    "Lithium alone",
+    "A benzodiazepine alone"
+   ],
+   "ans": 0,
+   "exp": "The algorithm starts with atypical antipsychotics, excluding clozapine and olanzapine. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-096",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "Clozapine and olanzapine are excluded from the starting regimen because of their:",
+   "opts": [
+    "Toxicity",
+    "Lack of efficacy",
+    "Cost",
+    "Need for injection"
+   ],
+   "ans": 0,
+   "exp": "The two most toxic or metabolically burdened agents are held back rather than used first line. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-097",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "If the first atypical antipsychotic produces an inadequate response, the next step is to:",
+   "opts": [
+    "Add another atypical antipsychotic",
+    "Switch immediately to clozapine",
+    "Stop all antipsychotics",
+    "Add lithium"
+   ],
+   "ans": 0,
+   "exp": "The second step is to add another atypical antipsychotic. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-098",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "If the response is still inadequate, the next step is to switch to:",
+   "opts": [
+    "A typical antipsychotic such as haloperidol or fluphenazine",
+    "Clozapine",
+    "A benzodiazepine",
+    "An antidepressant"
+   ],
+   "ans": 0,
+   "exp": "The third step is a switch to a typical antipsychotic such as haloperidol or fluphenazine. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-099",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "The option reserved for patients unresponsive to the earlier steps is:",
+   "opts": [
+    "Electroconvulsive therapy",
+    "Psychosurgery",
+    "Insulin coma therapy",
+    "Long term benzodiazepines"
+   ],
+   "ans": 0,
+   "exp": "Electroconvulsive therapy is the last option named in the algorithm. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-100",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "Postpartum psychosis is treated with an antipsychotic plus:",
+   "opts": [
+    "Lithium",
+    "Valproate",
+    "Carbamazepine",
+    "An antidepressant alone"
+   ],
+   "ans": 0,
+   "exp": "Lithium is added in postpartum psychosis. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-101",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "The reason lithium is added in postpartum psychosis is its association with:",
+   "opts": [
+    "Bipolar disorder",
+    "Schizophrenia",
+    "Obsessive-compulsive disorder",
+    "Epilepsy"
+   ],
+   "ans": 0,
+   "exp": "The page notes the association of postpartum psychosis with bipolar disorder, hence lithium. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-102",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "A patient with schizophrenia fails two atypical antipsychotics. According to the algorithm the next step is:",
+   "opts": [
+    "Switch to a typical antipsychotic such as haloperidol",
+    "Start clozapine immediately",
+    "Add a benzodiazepine",
+    "Stop treatment and observe"
+   ],
+   "ans": 0,
+   "exp": "After an inadequate response to atypical agents including an add-on, the algorithm switches to a typical antipsychotic. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-103",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "Which statement about antipsychotic choice is correct?",
+   "opts": [
+    "Atypical agents are first line, typical agents are second line, and ECT is reserved for the unresponsive",
+    "Typical agents are first line and atypical agents second line",
+    "Clozapine is the first line drug of choice in every patient",
+    "Lithium alone is the treatment of choice in schizophrenia"
+   ],
+   "ans": 0,
+   "exp": "The algorithm and comparison table put atypical agents first, typical agents second and ECT last. (Book p144)"
+  },
+  {
+   "id": "PHARM-C35-104",
+   "sec": "Therapeutic Decision Making",
+   "page": 144,
+   "q": "Haloperidol and fluphenazine appear in the algorithm as:",
+   "opts": [
+    "Typical antipsychotics used after atypical agents fail",
+    "First line drugs",
+    "Drugs used only in postpartum psychosis",
+    "Drugs used only for insomnia"
+   ],
+   "ans": 0,
+   "exp": "They are the typical antipsychotics named for the switch step of the algorithm. (Book p144)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U35-1",
+   "ch": 35,
+   "n": 1,
+   "title": "Dopamine Hypothesis of Psychosis",
+   "sec": "Dopamine Hypothesis of Psychosis · p141",
+   "qs": [
+    "PHARM-C35-001",
+    "PHARM-C35-002",
+    "PHARM-C35-003",
+    "PHARM-C35-004",
+    "PHARM-C35-005",
+    "PHARM-C35-006"
+   ],
+   "guide": "The antipsychotic chapter opens with the dopamine hypothesis of psychosis: dopamine acting in the limbic system on D2 receptors, which are Gi-coupled G protein coupled receptors, produces the disordered thoughts and flattened or inappropriate affect of psychosis. Blocking these receptors is the basis of antipsychotic action."
+  },
+  {
+   "id": "PHARM-U35-2",
+   "ch": 35,
+   "n": 2,
+   "title": "Typical versus Atypical Antipsychotics",
+   "sec": "Typical versus Atypical Antipsychotics · p141",
+   "qs": [
+    "PHARM-C35-007",
+    "PHARM-C35-008",
+    "PHARM-C35-009",
+    "PHARM-C35-010",
+    "PHARM-C35-011",
+    "PHARM-C35-012",
+    "PHARM-C35-013",
+    "PHARM-C35-014",
+    "PHARM-C35-015",
+    "PHARM-C35-016",
+    "PHARM-C35-017",
+    "PHARM-C35-018",
+    "PHARM-C35-019",
+    "PHARM-C35-020",
+    "PHARM-C35-021",
+    "PHARM-C35-022",
+    "PHARM-C35-023"
+   ],
+   "guide": "Typical antipsychotics block the D2 receptor, produce marked extrapyramidal side effects and act only on positive symptoms; they are second line drugs, preferred for agitation (haloperidol) and carry a risk of QT prolongation (haloperidol, chlorpromazine). Atypical antipsychotics act mainly on central 5HT receptors with minor D2 blockade, produce far fewer extrapyramidal effects, act on both positive and negative symptoms and are first line drugs (apart from clozapine and olanzapine); olanzapine is also used for agitation, quetiapine for insomnia and as an add-on (or even monotherapy) when antidepressants fail, and quetiapine and ziprasidone prolong the QT interval. For sedation in agitation, sublingual dexmedetomidine, an alpha-2 agonist, and lorazepam are noted."
+  },
+  {
+   "id": "PHARM-U35-3",
+   "ch": 35,
+   "n": 3,
+   "title": "Classification of Antipsychotics",
+   "sec": "Classification of Antipsychotics · p142",
+   "qs": [
+    "PHARM-C35-024",
+    "PHARM-C35-025",
+    "PHARM-C35-026",
+    "PHARM-C35-027",
+    "PHARM-C35-028",
+    "PHARM-C35-029",
+    "PHARM-C35-030",
+    "PHARM-C35-031",
+    "PHARM-C35-032",
+    "PHARM-C35-033"
+   ],
+   "guide": "Typical antipsychotics are divided by potency: the low potency phenothiazines chlorpromazine and thioridazine, and the high potency phenothiazines fluphenazine, trifluoperazine and perphenazine together with the butyrophenones haloperidol and droperidol; molindone is listed separately. Colour vision disturbances are a recall point: brown vision with thioridazine, blue vision with sildenafil and yellow vision with digoxin."
+  },
+  {
+   "id": "PHARM-U35-4",
+   "ch": 35,
+   "n": 4,
+   "title": "Clozapine",
+   "sec": "Clozapine · p142",
+   "qs": [
+    "PHARM-C35-034",
+    "PHARM-C35-035",
+    "PHARM-C35-036",
+    "PHARM-C35-037",
+    "PHARM-C35-038",
+    "PHARM-C35-039",
+    "PHARM-C35-040",
+    "PHARM-C35-041",
+    "PHARM-C35-042",
+    "PHARM-C35-043",
+    "PHARM-C35-044",
+    "PHARM-C35-045",
+    "PHARM-C35-046",
+    "PHARM-C35-047",
+    "PHARM-C35-048"
+   ],
+   "guide": "Clozapine has the least D2 receptor blockade of the antipsychotics, is the most effective because it blocks D4 receptors and is also the most toxic. Its adverse effects are remembered by the mnemonic SAMOSA: sedation, agranulocytosis (which does not correlate with plasma concentration, so therapeutic drug monitoring is impossible), myocarditis, obesity, sialorrhoea (the wet pillow syndrome) and angle closure glaucoma; it is also used to treat suicidal tendencies. Its indications are resistant schizophrenia, where it is the drug of choice, with lithium and electroconvulsive therapy as other options."
+  },
+  {
+   "id": "PHARM-U35-5",
+   "ch": 35,
+   "n": 5,
+   "title": "Other Atypical Antipsychotics",
+   "sec": "Other Atypical Antipsychotics · p143",
+   "qs": [
+    "PHARM-C35-049",
+    "PHARM-C35-050",
+    "PHARM-C35-051",
+    "PHARM-C35-052",
+    "PHARM-C35-053",
+    "PHARM-C35-054",
+    "PHARM-C35-055",
+    "PHARM-C35-056",
+    "PHARM-C35-057",
+    "PHARM-C35-058"
+   ],
+   "guide": "Risperidone and paliperidone have the greatest D2 blockade among the atypical agents and quetiapine causes cataract. Pimavanserin is a pure 5HT blocker with no D2 blockade and is the drug of choice for levodopa-induced psychosis. Aripiprazole, brexpiprazole and cariprazine are 5HT blockers that are also partial agonists at D2 receptors; because they do not block muscarinic or histamine receptors they can be used in BPH and glaucoma. Ziprasidone is a 5HT blocker that is weight neutral and lurasidone is a 5HT agonist."
+  },
+  {
+   "id": "PHARM-U35-6",
+   "ch": 35,
+   "n": 6,
+   "title": "Adverse Effects According to Receptor Blocked",
+   "sec": "Adverse Effects According to Receptor Blocked · p143",
+   "qs": [
+    "PHARM-C35-059",
+    "PHARM-C35-060",
+    "PHARM-C35-061",
+    "PHARM-C35-062",
+    "PHARM-C35-063",
+    "PHARM-C35-064",
+    "PHARM-C35-065",
+    "PHARM-C35-066",
+    "PHARM-C35-067"
+   ],
+   "guide": "D2 blockade produces extrapyramidal side effects and hyperprolactinaemia - most severe with risperidone, least severe with clozapine and absent with pimavanserin and the partial agonists. Blockade of other receptors produces obesity, urinary retention, sedation, dyslipidaemia and hyperglycaemia from insulin resistance, in the order clozapine greater than olanzapine greater than risperidone greater than ziprasidone, with cariprazine and lurasidone the mildest."
+  },
+  {
+   "id": "PHARM-U35-7",
+   "ch": 35,
+   "n": 7,
+   "title": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism",
+   "sec": "Extrapyramidal Side Effects: Akathisia, Acute Dystonia and Parkinsonism · p143",
+   "qs": [
+    "PHARM-C35-068",
+    "PHARM-C35-069",
+    "PHARM-C35-070",
+    "PHARM-C35-071",
+    "PHARM-C35-072",
+    "PHARM-C35-073",
+    "PHARM-C35-074",
+    "PHARM-C35-075",
+    "PHARM-C35-076",
+    "PHARM-C35-077",
+    "PHARM-C35-078",
+    "PHARM-C35-079"
+   ],
+   "guide": "Akathisia is the commonest extrapyramidal effect and presents as restlessness with pacing around and shifting or crossing of the legs; propranolol is the drug of choice and a benzodiazepine is used if there is no response. Acute dystonia, commoner in young patients, produces abnormal posturing and facial grimacing from muscle contraction and is treated with an anticholinergic, benzhexol (trihexyphenidyl) being preferred, or with the H1 blocker promethazine. Parkinsonism from D2 blockade produces tremors and bradykinesia."
+  },
+  {
+   "id": "PHARM-U35-8",
+   "ch": 35,
+   "n": 8,
+   "title": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome",
+   "sec": "Tardive Dyskinesia and Neuroleptic Malignant Syndrome · p144",
+   "qs": [
+    "PHARM-C35-080",
+    "PHARM-C35-081",
+    "PHARM-C35-082",
+    "PHARM-C35-083",
+    "PHARM-C35-084",
+    "PHARM-C35-085",
+    "PHARM-C35-086",
+    "PHARM-C35-087",
+    "PHARM-C35-088",
+    "PHARM-C35-089",
+    "PHARM-C35-090",
+    "PHARM-C35-091",
+    "PHARM-C35-092",
+    "PHARM-C35-093",
+    "PHARM-C35-094"
+   ],
+   "guide": "Tardive dyskinesia is a late onset movement disorder from upregulation of D2 receptors, producing facial dyskinesia with lip smacking and tongue protrusion and limb dyskinesia with waving of the hand; the drugs of choice are the VMAT blockers tetrabenazine, deutetrabenazine and valbenazine, which prevent dopamine entering the vesicle. Neuroleptic malignant syndrome follows severe D2 blockade and causes severe muscle rigidity, hyperthermia, autonomic instability with sweating and reduced respiratory rate; dantrolene, which inhibits the ryanodine receptor, is the drug of choice, while bromocriptine, a D2 agonist, is the most specific drug. Metoclopramide, a D2 blocking antiemetic, also causes acute dystonia and parkinsonism."
+  },
+  {
+   "id": "PHARM-U35-9",
+   "ch": 35,
+   "n": 9,
+   "title": "Therapeutic Decision Making",
+   "sec": "Therapeutic Decision Making · p144",
+   "qs": [
+    "PHARM-C35-095",
+    "PHARM-C35-096",
+    "PHARM-C35-097",
+    "PHARM-C35-098",
+    "PHARM-C35-099",
+    "PHARM-C35-100",
+    "PHARM-C35-101",
+    "PHARM-C35-102",
+    "PHARM-C35-103",
+    "PHARM-C35-104"
+   ],
+   "guide": "In psychosis, treatment starts with an atypical antipsychotic other than clozapine or olanzapine; if the response is inadequate another atypical antipsychotic is added, and if that fails the patient is switched to a typical antipsychotic such as haloperidol or fluphenazine, with electroconvulsive therapy reserved for those still unresponsive. Postpartum psychosis is treated with an antipsychotic plus lithium because of its association with bipolar disorder."
+  }
+ ]
+}

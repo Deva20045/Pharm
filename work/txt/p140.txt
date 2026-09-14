@@ -1,0 +1,55 @@
+# book p140 dpi=300 boxes=62
+  183   220 | 140  |  Central andPeripheral NervousSystem
+  356   228 | -Active space  |  BUPROPION
+  429   570 | SimilartoAmphetamine.
+  505   565 | mOA:
+  577   690 | Dopamine.
+  586  1470 | ·Seizures.
+  658  1467 | Anxiety:maximumamong
+  662   709 | 3N
+  738  1514 | antidepressants,
+  772   568 | :asn
+  817  1493 | weightloss.
+  837   607 | Smoking dependence.
+  904   602 | ADHD.
+  929  1442 | Advantage:DoesnotcauseErectile
+  980   609 | Obesity withNaltrexone.
+  998  1442 | Dysfunction.
+ 1120   574 | Miscellaneous drugs
+ 1162  2097 | 01:08:50
+ 1243   579 | GABA MODULATORS
+ 1314   575 | Newerdrugs.
+ 1402   993 | Route
+ 1416  1488 | Dose  |  use
+ 1489  1276 | Continuous infusionforbo
+ 1503   614 | Brexanolone  |  /v
+ 1535  1474 | smoy  |  SeverePost
+ 1612  1257 | oncedaily somgfor14days  |  partumdepression
+ 1625   628 | Zuranolone  |  oral
+ 1731   586 | Note:Rxofmildtomoderatepostpartumdepression.
+ 1800   623 | ·SSRI/SNRI.
+ 1877   627 | ·mirtozapine:fwithInsomnia
+ 1992   598 | NOVELANTIDEPRESSANTS
+ 2059   600 | ToRxResistantdepression.
+ 2171   602 | Vilazodone:
+ 2183  1453 | Esketamine:
+ 2245   598 | moA:
+ 2254  1497 | Derivativeofketamine.
+ 2316   639 | .SSRI.
+ 2324  1484 | ·RxResistantdepression asnasal
+ 2383   637 | ·SHTi agonist.
+ 2395  1523 | spray.
+ 2499   611 | Vortioxetine:
+ 2510  1454 | Gepirone:
+ 2561   602 | mSAA drug GmultipleSerotoninAgonist
+ 2577  1484 | ·SHTIA Agonist.
+ 2635   607 | Antagonist),
+ 2648  1525 | FDA approved to Rx depression.
+ 2708   604 | mOA:
+ 2759  1453 | Note:SHTIA aqonists
+ 2775   642 | SSRI.
+ 2828  1495 | Buspirone.
+ 2838   649 | SHTIA/IBAgonist.
+ 2884  1527 | Ipsapirone.  |  NotFDAapproved
+ 2906   649 | SHTID/SHT3/SHT7anto.gonist.
+ 3109  1100 | Pharmacology·v3.0-Marrow8.0·2024

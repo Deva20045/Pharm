@@ -1,0 +1,50 @@
+# book p153 dpi=300 boxes=60
+  162  2231 | 153
+  293   260 | INTRODUCTIONTOANTIBACTERIALDRUGS
+  358  1997 | --Active space--
+  625   153 | Classes
+  669  1754 | 00:02:39
+  823   158 | Cellwall synthesis inhibitors
+  840  1076 | Protein synthesis inhibitors  |  Actingon cell membrane
+  892   169 | β-lactamring+thiazolinering
+  918  1083 | ·Bacteriostatic  |  ·Bactericidal
+  973   170 | effectiveinreplicatingbacteria
+  982  1085 | effectiveinreplicating  |  Drugs:
+ 1054   174 | Bactericida
+ 1067  1127 | bacteria  |  1.Polymixins
+ 1125   172 | Absenceofcellwall
+ 1143  1107 | Drugs:  |  a.Lipo peptide:
+ 1217  1143 | 1.Tetracyclines  |  Daptomycin
+ 1277   206 | watersolutesenter-lysis
+ 1293  1150 | a.macrolides
+ 1349   206 | ofcell
+ 1363  1148 | 3.Clindamycin
+ 1429   176 | Drugs:
+ 1445  1153 | 4.Line2olid
+ 1501   227 | β-lactams(Least toxic):
+ 1514  1153 | s.Streptogramins
+ 1581   228 | aPenicillins(Gramtve)
+ 1582  1151 | lb. Aminoglycosides
+ 1657   227 | b.Cephalosporins(Gram-ve)
+ 1657  1211 | (Bactericidad
+ 1729   230 | c.Carbapenems(Gram+/-ve)
+ 1805   227 | dmonoba.ctams(Gram-ve:
+ 1879   287 | Rare)
+ 1922   914 | Anti-folate  |  DNA gyrase inhibitors
+ 1955   228 | a.Glycopeptides:Vancomycin
+ 1990   926 | Bacteriostatic  |  Bactericidal
+ 2028   290 | (ResistantGram +ve)
+ 2065   938 | Drugs:  |  Drugs:
+ 2105   228 | 3.Cycloserine
+ 2141   982 | 1.Suphonamides  |  1.Fluoroquinolones
+ 2183   228 | 4.Bacitracin
+ 2210   982 | a.Cotrimoxazole  |  (Floxacin)
+ 2255   230 | S.Fosfomycin.
+ 2284  1042 | (Bactericida)
+ 2425   163 | Pharmacotherapydecision making
+ 2429  1754 | 00:18:37
+ 2547   167 | Bactericidal>Bacteriostatic.
+ 2614   167 | Lesstoxic(β-lactams)>moretoxic.
+ 2692   165 | Beneft>Riskusedrug.
+ 2752   163 | Bocteriostaticdrug=↓ePfectofcell wallinhibitors.
+ 3160   833 | Pharmacology·v3.0-Marrow8.0·2024

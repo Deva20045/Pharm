@@ -1,0 +1,28 @@
+# book p142 dpi=300 boxes=42
+  206   209 | 142  |  Central andPeripheral NervousSystem
+  383   253 | Active space  |  Antipsychotics
+  561   861 | Typical  |  Atypical
+  724   445 | Low potency  |  Highpotency
+  892   146 | molindone  |  ChlorpromazineThioridazine  |  Fluphenazine  |  Triluoperazine  |  Perphenazine  |  Butyrephenones
+ 1151  1044 | Phenothiazines  |  Haloperidol  |  Droperidol
+ 1250   591 | Note:
+ 1310   639 | Browun vision:Thioridazine
+ 1379   635 | BlueVision:Sildenafil
+ 1455   651 | yellow Vision:Digoxin.
+ 1579   604 | Atypical Antipsychotics  |  00:17:22
+ 1729   604 | Clozapine:
+ 1784   658 | minimumDreceptorblock
+ 1846   651 | mostePfectived/tD4receptorblock.
+ 1925   672 | most toxic antipsychotic.
+ 2001   653 | Sideeffects:
+ 2072   611 | mnemonic:SAmoSA
+ 2142   738 | -Sedation  |  Agranulocytosis:No correlation to plasma concentration
+ 2323  1116 | Therapeuticdrugmonitoringnotpossible
+ 2416   741 | -myocarditis,
+ 2489   743 | -Obesity.
+ 2538   741 | -Sialorrhea (wetPillow syndrome)
+ 2616   762 | Angleclosureglaucoma  |  Note:Treatmentofsuicida tendencies.
+ 2697   701 | usedin:
+ 2747   762 | Docinresistantschizophrenia  |  -Lithium.
+ 2854  1541 | -Electroconvulsive Therapy (ECT):
+ 2960  1592 | Bestmethod

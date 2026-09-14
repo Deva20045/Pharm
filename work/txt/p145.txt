@@ -1,0 +1,40 @@
+# book p145 dpi=300 boxes=49
+  127  2233 | 145
+  296   375 | NEURODEGENERATIVEDISORDERS  |  Active space
+  611   112 | Cause:Freeradicaldamagetocells(↑Byexcitatoryneurotransmitters).
+  719   894 | Neurodeqenerativedisorders
+  881  1003 | Amyotrophiclateral  |  Parkinson'sdisease:
+  883   313 | Alzheimer'sdisease:
+  957  1048 | sclerosis (ALS):  |  Deathofdopaminergic
+  959   318 | ↓Acetylcholine(Ach)
+ 1038   996 | motorneurondeath  |  neuron inCorpusstriatum
+ 1093   399 | memory loss
+ 1165  1025 | muscle spasticity  |  Dopaminelevel
+ 1294  1625 | Tremors,Bradykinesia
+ 1443  1747 | 00:02:32
+ 1445   118 | Drugs for Alzheimer's disease
+ 1551  1167 | Anti-β-amyloidmonoclonal antibodies:
+ 1572   119 | Cholinergics:
+ 1632  1158 | use:mRl confrmedβ-amyloiddepositioninbrain
+ 1648   114 | mostpreferred
+ 1708  1211 | 1.Aducanumab:Blocksfbrils.  |  milddisease
+ 1718   112 | mOA:BlocKAChE—ACh.
+ 1780  1211 | a.Lecanemab:BlocksprotoAbrils
+ 1794   160 | 1.Tacrine:Notpreferred
+ 1874   209 | Sideeffect:Hepatotoxicity.
+ 1904  1167 | Nootropicdrugs:
+ 1945   167 | a.Rivastigmine  |  mildtomoderate
+ 1978  1208 | ·memory enhancers.
+ 2024   167 | 3.Galantamine  |  disease.
+ 2040  1231 | NotFDAapprovedforAlzheimer's
+ 2104   169 | 4.Donepe2il:DOC
+ 2134  1243 | Drugs:
+ 2167   211 | use:mild/moderate/severedisease.
+ 2195  1324 | -Piribedil.  |  Citicoline.
+ 2252   417 | noresponse
+ 2271  1335 | -Piracetam.  |  Cerebrolysin.
+ 2360  1218 | moA:Unknown.
+ 2377   123 | memantine:
+ 2448   119 | Add-on drug.
+ 2528   121 | mOA:BlocKS NmDA.
+ 3204   804 | Pharmacology·v3.0·Marrow8.0·2024

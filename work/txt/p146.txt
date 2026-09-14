@@ -1,0 +1,41 @@
+# book p146 dpi=300 boxes=49
+  181   227 | 146  |  Central andPeripheral NervousSystem
+  363   253 | Active space--  |  Drugsfor ALS
+  365  2120 | 00:10:10
+  466   600 | Drugs to prevent neurodegeneration:Drugs to treatmuscle spasticity:
+  542  1504 | Baclofen:musclerelaxant.
+  609  1502 | moA:GABAreceptor agonist.
+  618   649 | 1.Rilu2ole:DOC
+  678   693 | mOA:Blocks  |  Glutamate
+  756  1042 | Nachannels
+  773  1516 | Note:
+  809   827 | No response
+  835  1553 | -Trofnetide:Only drug forRett
+  906   642 | a.edaravone:Add-on
+  911  1595 | syndrome.
+  976  1560 | Omaveloxolone:Only drug for
+  980   690 | moA:Freeradicalscavenger.
+ 1047  1595 | Friedreich'sataxia
+ 1052   938 | OR
+ 1116   637 | 3.SodiumPhenyl Butyrate
+ 1187   683 | mOA:Inhibits Histone Dea.cetylase
+ 1328   683 | Tourursodiol (Anti-apoptotic)
+ 1388   632 | 4.Tofersen:New drug (Antisense oligonucleotide).
+ 1459   681 | mOA:BlocksmRNAofSoD-I(SuperoxideDismutase).
+ 1604  1003 | 100S
+ 1687   679 | use:ALSwithSoDIgenemutation.
+ 1801  2111 | 00:17:12
+ 1828   583 | DrugsforParkinson'sdisease
+ 1943   574 | Synthesisofdopamine:
+ 2144  1629 | Aetson
+ 2181   498 | Dopa decarboxylase  |  auurodoo  |  Synaptic  |  vesicle
+ 2188  1565 | DA
+ 2241  1403 | releases
+ 2252   119 | TyrosineDopa  |  *Vit-B
+ 2316  1590 | mAO-B/  |  Post-synaptic neuron
+ 2317  1072 | vmAT-a
+ 2383  1594 | comT
+ 2404   105 | Pre-synapticneuron
+ 2510  1474 | metabolised
+ 2664   574 | Index:  |  mAo-B:monoamineOxidase-Broin
+ 2773   574 | comT:Cotechol-O-methyl transferase.

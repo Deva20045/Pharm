@@ -1,0 +1,52 @@
+# book p147 dpi=300 boxes=53
+  123  1352 | NeurodegenerativeDisorders  |  147
+  305   119 | DRUGSUSED
+  330  1969 | *-Active space --
+  381   118 | Levodopa:
+  466   158 | BestdrugforP.D.
+  537   156 | ·DoC inpatients bsy.
+  657   112 | moA:Levo-isomerofdopa(Prodrug ofdopamine)
+  749   563 | Dopa decarboxylase
+  851   449 | Dopamine.
+  918   118 | Drugs that↑efficacy:
+  927  1393 | Drugs that↓efficacy:
+ 1006   170 | Carbidapa:Analogueofdopa
+ 1012  1433 | Vitamin Blo:
+ 1081  1481 | moA:↑Activity ofdopadecarboxylase.
+ 1084   214 | DoesnotcrossBloodBrainBarrier(lipidinsoluble)
+ 1286   493 | ↓Levodopa.metabolism inperiphery.
+ 1420   662 | ↑Availability inbrain.
+ 1542   176 | a.Entacapone:ComTinhibitor
+ 1607   216 | moA:BlocksArstpassmetabolism ofLevodopa↑oral bioavailability.
+ 1731  1269 | c/1:
+ 1745   130 | Sideeffects:mnemonicDoPA
+ 1810   174 | Dyskinesia(o/t↑dopamine)
+ 1814  1312 | Absolute:Psychosis.
+ 1886  1313 | Relative:
+ 1902   214 | DoC:Amantadine.
+ 1962  1453 | Angleclosureglaucoma
+ 1975   181 | Orthostatichypotension.
+ 2035   202 | Psychosis(o/tDstimulation:Also causes
+ 2038  1490 | Peptic ulcer Disease  |  worsens
+ 2114  1460 | melanoma
+ 2125   211 | nauseay, vomiting).
+ 2181   174 | -Angle closure glaucoma(o/t mydriasis).
+ 2316   132 | DAgonists:
+ 2395  1266 | Apomorphine
+ 2414   135 | Pramipexole:Oral.
+ 2467  1296 | ·Rescue therapyforOn-offphenomenon.
+ 2489   137 | Ropinirole:Oral.
+ 2543  1305 | scroute.
+ 2552   133 | Rotigotine:Oral/Transcranial patch.
+ 2611  1312 | Sideeffect:Severenauseavomiting
+ 2637   176 | Doc for patients <hsy.
+ 2694   181 | Other uses:RestlessLeg Syndrome (Doc:
+ 2701  1342 | Doc:Trimethobenzamide.
+ 2766  1354 | Started3hbeforeapomorphine
+ 2778   223 | Preqabalin/Gabapentin).
+ 2851   181 | Sideeffects:Notpreferred in26sy
+ 2891  1442 | continuedforamonths)
+ 2941   354 | Fatigue.
+ 2989  1440 | C/1:Ondansetron(↑Riskofhypotension).
+ 2996   352 | Compulsivesexual activity/gambling.
+ 3199   797 | Pharmacology·v3.0·Marrow8.0-2024
