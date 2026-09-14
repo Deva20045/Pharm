@@ -1,0 +1,1366 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C5-001",
+   "sec": "Phase I",
+   "page": 11,
+   "q": "In the phase I flowchart, a prodrug that is inactive is converted to an:",
+   "opts": [
+    "Activated form after the drug is broken down",
+    "Inactivated form after conjugation",
+    "Ionized water-soluble form",
+    "Excretable conjugate"
+   ],
+   "ans": 0,
+   "exp": "The phase I flow shows prodrug (inactive) - drug broken down - activated; the other limb shows most drugs (active) - inactivated. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-002",
+   "sec": "Phase I",
+   "page": 11,
+   "q": "For MOST drugs, which are already active, phase I metabolism results in:",
+   "opts": [
+    "Inactivation of the drug, adding a functional group",
+    "Activation of the drug, removing a functional group",
+    "Direct conjugation without any functional group",
+    "Immediate renal excretion"
+   ],
+   "ans": 0,
+   "exp": "Most drugs are active; phase I breaks them down into the inactivated form with a functional group, which is then handled by phase II. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-003",
+   "sec": "Phase I",
+   "page": 11,
+   "q": "The product of phase I metabolism that enters phase II is:",
+   "opts": [
+    "Drug + functional group",
+    "Drug + conjugate",
+    "Drug + glucuronic acid",
+    "Ionized water-soluble drug"
+   ],
+   "ans": 0,
+   "exp": "Phase I yields drug + functional group, which is the substrate for phase II conjugation. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-004",
+   "sec": "Phase II",
+   "page": 11,
+   "q": "In phase II, the drug with its functional group is combined with a conjugate which is:",
+   "opts": [
+    "Negatively charged",
+    "Positively charged",
+    "Neutral",
+    "Lipid soluble"
+   ],
+   "ans": 0,
+   "exp": "The flowchart labels the conjugate as -ve charged, which makes the drug ionized and water soluble. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-005",
+   "sec": "Phase II",
+   "page": 11,
+   "q": "The end product of phase II metabolism is:",
+   "opts": [
+    "Ionized and water soluble, hence easily excreted",
+    "Lipid soluble, hence reabsorbed",
+    "A prodrug awaiting activation",
+    "A protein-bound complex"
+   ],
+   "ans": 0,
+   "exp": "Drug + functional group + conjugate becomes ionized and water soluble and is easily excreted - the object of phase II. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-006",
+   "sec": "Phase II",
+   "page": 11,
+   "q": "The purpose of conjugation in phase II metabolism is to:",
+   "opts": [
+    "Make the drug water soluble and easily excretable",
+    "Make the drug more lipid soluble for absorption",
+    "Activate the drug at its receptor",
+    "Reduce the drug's molecular weight"
+   ],
+   "ans": 0,
+   "exp": "Conjugation with a negatively charged group makes the metabolite ionized and water soluble, so it is easily excreted. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-007",
+   "sec": "Phase II",
+   "page": 11,
+   "q": "According to the note on this page, a placebo:",
+   "opts": [
+    "Does not contain any drug",
+    "Contains an inactive prodrug",
+    "Contains a conjugate of the active drug",
+    "Contains the drug in subtherapeutic dose"
+   ],
+   "ans": 0,
+   "exp": "The note plainly states that placebo does not contain any drug - it is used for its psychological effect. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-008",
+   "sec": "Phase I vs II",
+   "page": 11,
+   "q": "Which sequence correctly describes drug metabolism?",
+   "opts": [
+    "Active drug - phase I inactivates it and adds a functional group - phase II conjugates it - water-soluble metabolite excreted",
+    "Active drug - phase II conjugates it - phase I inactivates it - lipid-soluble metabolite reabsorbed",
+    "Prodrug - phase II conjugation - activation - excretion",
+    "Active drug - conjugation - renal tubular reabsorption - excretion"
+   ],
+   "ans": 0,
+   "exp": "Phase I (CYP450) breaks the drug down and adds a functional group; phase II attaches a charged conjugate to give an ionized water-soluble product that is easily excreted. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-009",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Which of the following is a prodrug among the antimalarials?",
+   "opts": [
+    "Proguanil",
+    "Chloroquine",
+    "Primaquine",
+    "Artemether"
+   ],
+   "ans": 0,
+   "exp": "Proguanil heads the list of prodrugs - it requires metabolic activation to exert its antimalarial action. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-010",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Which angiotensin converting enzyme inhibitors are NOT prodrugs?",
+   "opts": [
+    "Captopril and lisinopril",
+    "Ramipril and enalapril",
+    "Perindopril and quinapril",
+    "Fosinopril and trandolapril"
+   ],
+   "ans": 0,
+   "exp": "Ramipril and other ACE inhibitors are prodrugs EXCEPT captopril and lisinopril, which are active as such. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-011",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Which of the following pairs are all prodrugs?",
+   "opts": [
+    "Oxcarbazepine and omeprazole",
+    "Phenytoin and warfarin",
+    "Atenolol and metoprolol",
+    "Diazepam and lorazepam"
+   ],
+   "ans": 0,
+   "exp": "Oxcarbazepine and omeprazole appear in the prodrug list, along with proguanil, ramipril, dipivefrine, levodopa, racecadotril, 5-fluorouracil and gemcitabine. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-012",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Dipivefrine, used in ophthalmology, is listed as a:",
+   "opts": [
+    "Prodrug",
+    "Active metabolite",
+    "Conjugate",
+    "Enzyme inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Dipivefrine appears in the list of prodrugs given on the page. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-013",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Which of the following anticancer drugs are listed as prodrugs?",
+   "opts": [
+    "5-Fluorouracil and gemcitabine",
+    "Cisplatin and carboplatin",
+    "Doxorubicin and daunorubicin",
+    "Vincristine and vinblastine"
+   ],
+   "ans": 0,
+   "exp": "5-Fluorouracil and gemcitabine are included in the prodrug list. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-014",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Levodopa is grouped with the prodrugs because it:",
+   "opts": [
+    "Must be converted to the active moiety in the body",
+    "Blocks dopamine receptors directly",
+    "Is excreted unchanged in urine",
+    "Is a prodrug that never becomes active"
+   ],
+   "ans": 0,
+   "exp": "Levodopa is listed among prodrugs - it is inactive as such and is decarboxylated to the active dopamine. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-015",
+   "sec": "Prodrugs",
+   "page": 11,
+   "q": "Racecadotril and dipivefrine share which property in this list?",
+   "opts": [
+    "Both are prodrugs",
+    "Both are enzyme inducers",
+    "Both are metabolised by acetylation",
+    "Both are CYP2E1 substrates"
+   ],
+   "ans": 0,
+   "exp": "Racecadotril and dipivefrine both appear in the prodrug list along with proguanil, ramipril, oxcarbazepine, omeprazole, levodopa, 5-fluorouracil and gemcitabine. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-016",
+   "sec": "Phase I reactions",
+   "page": 11,
+   "q": "The mnemonic ORCHAD stands for:",
+   "opts": [
+    "Phase I reactions",
+    "Phase II reactions",
+    "Enzyme inducers",
+    "CYP450 families"
+   ],
+   "ans": 0,
+   "exp": "ORCHAD lists phase I reactions: Oxidation, Reduction, Cyclization, Hydrolysis, Aliphatic hydroxylation, Aromatic hydroxylation and Deamination. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-017",
+   "sec": "Phase I reactions",
+   "page": 11,
+   "q": "The commonest phase I reaction is:",
+   "opts": [
+    "Oxidation",
+    "Reduction",
+    "Hydrolysis",
+    "Deamination"
+   ],
+   "ans": 0,
+   "exp": "Oxidation is marked m/c in the ORCHAD list of phase I reactions. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-018",
+   "sec": "Phase I reactions",
+   "page": 11,
+   "q": "Phase I reactions are enabled by:",
+   "opts": [
+    "Microsomal CYP450 enzymes",
+    "Gut bacterial glucuronidase",
+    "Cytosolic acetyl transferases",
+    "Plasma esterases alone"
+   ],
+   "ans": 0,
+   "exp": "The page states that phase I reactions are enabled by microsomal CYP450 enzymes - the mixed function oxidases. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-019",
+   "sec": "Phase I reactions",
+   "page": 11,
+   "q": "Which of these is NOT a phase I reaction in the ORCHAD list?",
+   "opts": [
+    "Glucuronidation",
+    "Cyclization",
+    "Aromatic hydroxylation",
+    "Deamination"
+   ],
+   "ans": 0,
+   "exp": "Glucuronidation is a phase II conjugation, not a phase I reaction; phase I comprises oxidation, reduction, cyclization, hydrolysis, aliphatic and aromatic hydroxylation and deamination. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-020",
+   "sec": "Phase II reactions",
+   "page": 11,
+   "q": "Phase II reactions are named after:",
+   "opts": [
+    "The conjugate",
+    "The enzyme",
+    "The substrate",
+    "The functional group"
+   ],
+   "ans": 0,
+   "exp": "The page notes phase II reactions are named after the conjugate, e.g. glucuronidation, glycination, glutathionation. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-021",
+   "sec": "Phase II reactions",
+   "page": 11,
+   "q": "The commonest phase II reaction is:",
+   "opts": [
+    "Glucuronidation",
+    "Sulfation",
+    "Acetylation",
+    "Methylation"
+   ],
+   "ans": 0,
+   "exp": "Glucuronidation is marked m/c among phase II reactions, and it is microsomal. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-022",
+   "sec": "Phase II reactions",
+   "page": 11,
+   "q": "Which phase II reaction is a MICROSOMAL reaction?",
+   "opts": [
+    "Glucuronidation",
+    "Glycination",
+    "Acetylation",
+    "Sulfation"
+   ],
+   "ans": 0,
+   "exp": "Glucuronidation (m/c) is grouped as microsomal; glycination, glutathionation, acetylation, methylation and sulfation are listed as non-microsomal. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-023",
+   "sec": "Phase II reactions",
+   "page": 11,
+   "q": "Which set of phase II reactions is NON-microsomal?",
+   "opts": [
+    "Glycination, glutathionation, acetylation, methylation, sulfation",
+    "Glucuronidation and glycination",
+    "Glucuronidation, sulfation and acetylation",
+    "Oxidation, reduction and hydrolysis"
+   ],
+   "ans": 0,
+   "exp": "The brace marks glycination, glutathionation, acetylation, methylation and sulfation as non-microsomal reactions, leaving glucuronidation as the microsomal one. (Book p11)"
+  },
+  {
+   "id": "PHARM-C5-024",
+   "sec": "CYP450 enzyme group",
+   "page": 12,
+   "q": "In 'CYP', the CY stands for cytochrome, which is described as a:",
+   "opts": [
+    "Heme protein that binds oxygen and facilitates metabolism",
+    "Zinc-containing metalloenzyme",
+    "Non-heme iron-sulfur protein",
+    "Plant pigment with no metal"
+   ],
+   "ans": 0,
+   "exp": "CY (cytochrome) is a heme protein that binds oxygen and thereby facilitates metabolism. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-025",
+   "sec": "CYP450 enzyme group",
+   "page": 12,
+   "q": "The 'P450' designation was given because these enzymes:",
+   "opts": [
+    "Were discovered in plant pigment and absorb light of 450 nm wavelength",
+    "Weigh 450 kDa",
+    "Have 450 amino acids",
+    "Require a pH of 4.50 to work"
+   ],
+   "ans": 0,
+   "exp": "P450: enzymes discovered in plant pigment, absorbing light of 450 nm wavelength. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-026",
+   "sec": "CYP450 enzyme group",
+   "page": 12,
+   "q": "In the nomenclature CYP1A2, the number 1 denotes the:",
+   "opts": [
+    "Family",
+    "Subfamily",
+    "Gene/isoform number",
+    "Enzyme subtype"
+   ],
+   "ans": 0,
+   "exp": "In CYP1A2: 1 = family, A = subfamily, 2 = gene/isoform number. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-027",
+   "sec": "CYP450 enzyme group",
+   "page": 12,
+   "q": "In the nomenclature CYP1A2, the letter A denotes the:",
+   "opts": [
+    "Subfamily",
+    "Family",
+    "Gene/isoform number",
+    "Species of origin"
+   ],
+   "ans": 0,
+   "exp": "The letter A stands for subfamily, while the numeral after it is the gene/isoform number. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-028",
+   "sec": "CYP1A2",
+   "page": 12,
+   "q": "Which drugs are metabolised by CYP1A2?",
+   "opts": [
+    "Paracetamol, tacrine and theophylline",
+    "Phenytoin and warfarin",
+    "6-mercaptopurine and methyldopa",
+    "Mifepristone and tamoxifen"
+   ],
+   "ans": 0,
+   "exp": "CYP1A2 metabolises paracetamol, tacrine and theophylline. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-029",
+   "sec": "CYP2B6",
+   "page": 12,
+   "q": "Which drugs are metabolised by CYP2B6?",
+   "opts": [
+    "6-mercaptopurine and methyldopa",
+    "Phenytoin and warfarin",
+    "Paracetamol and theophylline",
+    "Omeprazole and clopidogrel"
+   ],
+   "ans": 0,
+   "exp": "CYP2B6 metabolises 6-mercaptopurine and methyldopa. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-030",
+   "sec": "CYP2C9",
+   "page": 12,
+   "q": "Phenytoin and warfarin are metabolised by:",
+   "opts": [
+    "CYP2C9",
+    "CYP1A2",
+    "CYP2D6",
+    "CYP3A4"
+   ],
+   "ans": 0,
+   "exp": "CYP2C9 is listed with phenytoin and warfarin as its substrates. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-031",
+   "sec": "CYP2C19",
+   "page": 12,
+   "q": "CYP2C19 metabolises omeprazole and:",
+   "opts": [
+    "Activates clopidogrel",
+    "Inactivates clopidogrel",
+    "Activates tamoxifen",
+    "Metabolises mifepristone"
+   ],
+   "ans": 0,
+   "exp": "CYP2C19 metabolises omeprazole and activates clopidogrel, converting the prodrug to its active form. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-032",
+   "sec": "CYP2C19",
+   "page": 12,
+   "q": "Omeprazole decreases the effect of clopidogrel because:",
+   "opts": [
+    "Both are substrates of CYP2C19, so omeprazole acts as a competitive inhibitor of the enzyme",
+    "Omeprazole induces CYP2C19 and destroys clopidogrel",
+    "Omeprazole increases gastric pH and prevents clopidogrel absorption",
+    "Omeprazole binds clopidogrel directly in plasma"
+   ],
+   "ans": 0,
+   "exp": "The book marks them as competitive inhibitors (substrates, decreased enzyme): omeprazole decreases the effect of clopidogrel. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-033",
+   "sec": "CYP2C19",
+   "page": 12,
+   "q": "Clopidogrel requires activation by CYP2C19. A patient with an acute coronary syndrome started on both omeprazole and clopidogrel will have:",
+   "opts": [
+    "A reduced antiplatelet effect of clopidogrel",
+    "Enhanced antiplatelet effect with bleeding risk",
+    "No interaction because they act on different enzymes",
+    "Increased clopidogrel toxicity with rhabdomyolysis"
+   ],
+   "ans": 0,
+   "exp": "Since omeprazole and clopidogrel compete for the same enzyme, omeprazole decreases the effect of clopidogrel - a loss of antiplatelet protection. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-034",
+   "sec": "CYP2D6",
+   "page": 12,
+   "q": "CYP2D6 metabolises all of the following EXCEPT:",
+   "opts": [
+    "Mifepristone",
+    "Psychiatric drugs (antidepressants, antipsychotics)",
+    "Opioids",
+    "Beta blockers"
+   ],
+   "ans": 0,
+   "exp": "CYP2D6 metabolises psychiatric drugs (antidepressants and antipsychotics), opioids and beta blockers; mifepristone is the example given for CYP3A4. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-035",
+   "sec": "CYP2D6",
+   "page": 12,
+   "q": "CYP2D6 ACTIVATES which of the following?",
+   "opts": [
+    "Tamoxifen",
+    "Clopidogrel",
+    "Omeprazole",
+    "Warfarin"
+   ],
+   "ans": 0,
+   "exp": "CYP2D6 activates tamoxifen, converting the prodrug to its active metabolite. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-036",
+   "sec": "CYP2D6",
+   "page": 12,
+   "q": "A patient on tamoxifen started on a potent CYP2D6 inhibitor is at risk of:",
+   "opts": [
+    "Reduced activation of tamoxifen and loss of efficacy",
+    "Tamoxifen toxicity with marrow suppression",
+    "No interaction, since tamoxifen is excreted unchanged",
+    "Increased activation of tamoxifen with toxicity"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen is activated by CYP2D6; inhibiting the enzyme reduces formation of the active metabolite and lowers efficacy. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-037",
+   "sec": "CYP2E1",
+   "page": 12,
+   "q": "Chronic consumption of ethanol causes:",
+   "opts": [
+    "Upregulation of CYP2E1",
+    "Downregulation of CYP2E1",
+    "Inhibition of CYP2E1",
+    "No change in CYP2E1"
+   ],
+   "ans": 0,
+   "exp": "The flowchart runs ethanol - chronic consumption - CYP2E1 upregulation. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-038",
+   "sec": "CYP2E1",
+   "page": 12,
+   "q": "In a chronic alcoholic, paracetamol produces hepatotoxicity because CYP2E1 upregulation leads to:",
+   "opts": [
+    "Increased NAPQI formation",
+    "Decreased NAPQI formation",
+    "Increased glucuronidation of paracetamol",
+    "Reduced glutathione depletion"
+   ],
+   "ans": 0,
+   "exp": "The flow reads: paracetamol - increased NAPQI - hepatotoxicity, following CYP2E1 upregulation by chronic alcohol. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-039",
+   "sec": "CYP2E1",
+   "page": 12,
+   "q": "Paracetamol is metabolised predominantly by:",
+   "opts": [
+    "CYP2E1, much more than CYP1A2",
+    "CYP1A2, much more than CYP2E1",
+    "CYP3A4, much more than CYP2D6",
+    "CYP2C19, much more than CYP2C9"
+   ],
+   "ans": 0,
+   "exp": "The book notes paracetamol is metabolised by CYP2E1 >> CYP1A2 - which is why alcohol-induced CYP2E1 upregulation is so dangerous. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-040",
+   "sec": "CYP2E1",
+   "page": 12,
+   "q": "NAPQI is best described as:",
+   "opts": [
+    "The toxic metabolite of paracetamol whose rise causes hepatotoxicity",
+    "The active analgesic metabolite of paracetamol",
+    "A glutathione conjugate excreted in bile",
+    "An enzyme inducer present in alcohol"
+   ],
+   "ans": 0,
+   "exp": "The flowchart links paracetamol to increased NAPQI and thence hepatotoxicity - NAPQI is the hepatotoxic metabolite. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-041",
+   "sec": "CYP3A4",
+   "page": 12,
+   "q": "Which CYP enzyme is the commonest (m/c) and metabolises more than 50% of drugs?",
+   "opts": [
+    "CYP3A4",
+    "CYP2D6",
+    "CYP2C9",
+    "CYP1A2"
+   ],
+   "ans": 0,
+   "exp": "CYP3A4 is marked m/c and metabolises >50% of drugs, with mifepristone given as an example. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-042",
+   "sec": "CYP3A4",
+   "page": 12,
+   "q": "Mifepristone is given as the example of a drug metabolised by:",
+   "opts": [
+    "CYP3A4",
+    "CYP2C19",
+    "CYP2E1",
+    "CYP2B6"
+   ],
+   "ans": 0,
+   "exp": "The example quoted for CYP3A4, which metabolises more than half of all drugs, is mifepristone. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-043",
+   "sec": "CYP summary",
+   "page": 12,
+   "q": "Which CYP drug-substrate pair is correctly matched?",
+   "opts": [
+    "CYP2C9 - warfarin",
+    "CYP1A2 - methyldopa",
+    "CYP2B6 - theophylline",
+    "CYP2D6 - mifepristone"
+   ],
+   "ans": 0,
+   "exp": "CYP2C9 handles phenytoin and warfarin; methyldopa is a CYP2B6 substrate, theophylline a CYP1A2 substrate and mifepristone a CYP3A4 example. (Book p12)"
+  },
+  {
+   "id": "PHARM-C5-044",
+   "sec": "Glucuronidation",
+   "page": 13,
+   "q": "Which antiviral drug causes Steven Johnson syndrome through glucuronidation issues?",
+   "opts": [
+    "Atazanavir",
+    "Acyclovir",
+    "Zidovudine",
+    "Oseltamivir"
+   ],
+   "ans": 0,
+   "exp": "The glucuronidation section lists atazanavir (antiviral) causing Steven Johnson syndrome. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-045",
+   "sec": "Glucuronidation",
+   "page": 13,
+   "q": "Irinotecan, an anticancer drug, is associated with toxicity because of:",
+   "opts": [
+    "Glucuronidation",
+    "Acetylation",
+    "Sulfation",
+    "Methylation"
+   ],
+   "ans": 0,
+   "exp": "The page pairs irinotecan (anticancer) with toxicity under the heading glucuronidation. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-046",
+   "sec": "Glucuronidation",
+   "page": 13,
+   "q": "Atazanavir and irinotecan are contraindicated in:",
+   "opts": [
+    "Crigler Najjar syndrome",
+    "Gilbert syndrome",
+    "Dubin-Johnson syndrome",
+    "Rotor syndrome"
+   ],
+   "ans": 0,
+   "exp": "Both atazanavir and irinotecan are contraindicated in Crigler Najjar syndrome, where glucuronidation is defective. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-047",
+   "sec": "Glucuronidation",
+   "page": 13,
+   "q": "Atazanavir and irinotecan share which single contraindication in the book?",
+   "opts": [
+    "Crigler Najjar syndrome",
+    "Chronic kidney disease",
+    "Cirrhosis of the liver",
+    "Glucose-6-phosphate dehydrogenase deficiency"
+   ],
+   "ans": 0,
+   "exp": "The brace on the page ties atazanavir-induced Steven Johnson syndrome and irinotecan toxicity to one contraindication - Crigler Najjar syndrome. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-048",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "Estrogen is metabolised in the liver by:",
+   "opts": [
+    "Phase I with CYP3A4 followed by phase II glucuronidation",
+    "Phase I with CYP2E1 followed by acetylation",
+    "Phase II sulfation alone",
+    "Phase II acetylation followed by hydrolysis"
+   ],
+   "ans": 0,
+   "exp": "The estrogen flowchart shows liver phase I with CYP3A4 and phase II glucuronidation. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-049",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "In the liver, estrogen is converted to estrogen + glucuronic acid, which is:",
+   "opts": [
+    "Water soluble",
+    "Lipid soluble",
+    "Negatively charged and lipid soluble",
+    "Protein bound"
+   ],
+   "ans": 0,
+   "exp": "Estrogen + glucuronic acid is labelled water soluble, allowing it to be carried to the small intestine. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-050",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "Enterohepatic circulation of estrogen begins when gut bacteria act on estrogen glucuronide by:",
+   "opts": [
+    "Glucuronidase action",
+    "Sulfatase action",
+    "Acetyl transferase action",
+    "Beta lactamase action"
+   ],
+   "ans": 0,
+   "exp": "In the small intestine, glucuronidase action by gut bacteria breaks down the conjugate; estrogen is then broken down to a lipid-soluble form that is reabsorbed. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-051",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "Enterohepatic circulation of a drug results in:",
+   "opts": [
+    "Extension of the normal half-life (T1/2)",
+    "Shortening of the normal half-life",
+    "Immediate renal excretion",
+    "Loss of drug in faeces"
+   ],
+   "ans": 0,
+   "exp": "The boxed point states enterohepatic circulation is an extension of the normal T1/2, because drug is reabsorbed repeatedly instead of being excreted. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-052",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "Antibiotics cause oral contraceptive pill failure by:",
+   "opts": [
+    "Decreasing the enterohepatic circulation of estrogen, so its T1/2 falls",
+    "Increasing the enterohepatic circulation of estrogen",
+    "Inducing CYP3A4 to activate estrogen",
+    "Blocking estrogen receptors in the uterus"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics kill gut bacteria, so less glucuronidase deconjugates estrogen; enterohepatic circulation falls, T1/2 falls and OCP failure results. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-053",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "The sequence leading to oral contraceptive failure with antibiotics is:",
+   "opts": [
+    "Antibiotics - decreased enterohepatic circulation of estrogen - decreased T1/2 - OCP failure",
+    "Antibiotics - increased enterohepatic circulation - increased T1/2 - OCP failure",
+    "Antibiotics - increased CYP3A4 - decreased estrogen - OCP failure",
+    "Antibiotics - decreased gut glucuronidase - increased estrogen - OCP failure"
+   ],
+   "ans": 0,
+   "exp": "The flowchart reads antibiotics - down enterohepatic circulation of estrogen - down T1/2 - OCP failure. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-054",
+   "sec": "Estrogen metabolism",
+   "page": 13,
+   "q": "For estrogen to re-enter the enterohepatic circulation after bacterial deconjugation, it must become:",
+   "opts": [
+    "Lipid soluble",
+    "Water soluble",
+    "Ionized",
+    "Protein bound"
+   ],
+   "ans": 0,
+   "exp": "After glucuronidase action the estrogen is 'broken down + lipid soluble', which allows reabsorption and re-entry into the circulation. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-055",
+   "sec": "Acetylation",
+   "page": 13,
+   "q": "The mnemonic HIPS Dance stands for drugs undergoing:",
+   "opts": [
+    "Acetylation, and capable of causing drug-induced SLE",
+    "Glucuronidation, and capable of causing Steven Johnson syndrome",
+    "Sulfation, and capable of causing cholestasis",
+    "Oxidation, and capable of causing hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "HIPS Dance lists acetylated drugs - Hydralazine, Isoniazid, Procainamide, Sulfonamide, Dapsone - which can cause drug-induced SLE. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-056",
+   "sec": "Acetylation",
+   "page": 13,
+   "q": "Which group of drugs can cause drug-induced SLE?",
+   "opts": [
+    "Hydralazine, isoniazid, procainamide, sulfonamide, dapsone",
+    "Rifampicin, phenytoin, phenobarbital, carbamazepine",
+    "Atazanavir, irinotecan, omeprazole, clopidogrel",
+    "Paracetamol, theophylline, tacrine, methyldopa"
+   ],
+   "ans": 0,
+   "exp": "The brace groups all five HIPS Dance drugs as capable of causing drug-induced SLE. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-057",
+   "sec": "Acetylation",
+   "page": 13,
+   "q": "In the HIPS Dance mnemonic, the letters stand for:",
+   "opts": [
+    "Hydralazine, Isoniazid, Procainamide, Sulfonamide, Dapsone",
+    "Hydralazine, Indomethacin, Penicillamine, Streptomycin, Danazol",
+    "Heparin, Insulin, Phenytoin, Salicylate, Digoxin",
+    "Haloperidol, Ibuprofen, Paracetamol, Statin, Diazepam"
+   ],
+   "ans": 0,
+   "exp": "HIPS Dance: Hydralazine, Isoniazid, Procainamide, Sulfonamide and Dapsone - all acetylated, all capable of drug-induced SLE. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-058",
+   "sec": "Acetylation",
+   "page": 13,
+   "q": "A patient on isoniazid for tuberculosis develops fever, arthralgia and a positive ANA. The likely cause is:",
+   "opts": [
+    "Drug-induced SLE from an acetylated drug",
+    "Isoniazid hepatotoxicity",
+    "CYP2E1 induction",
+    "Enterohepatic circulation of isoniazid"
+   ],
+   "ans": 0,
+   "exp": "Isoniazid belongs to the HIPS Dance group of acetylated drugs that can cause drug-induced SLE. (Book p13)"
+  },
+  {
+   "id": "PHARM-C5-059",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Microsomal enzyme inducers increase metabolism and thereby cause plasma concentration to fall, resulting in:",
+   "opts": [
+    "Drug failure",
+    "Drug toxicity",
+    "Drug allergy",
+    "Drug resistance"
+   ],
+   "ans": 0,
+   "exp": "The inducer column reads: increased enzyme - increased metabolism - plasma concentration falls - drug failure. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-060",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Microsomal enzyme inhibitors decrease metabolism, so plasma concentration rises and produces:",
+   "opts": [
+    "Drug toxicity",
+    "Drug failure",
+    "Reduced half-life",
+    "Increased first pass metabolism"
+   ],
+   "ans": 0,
+   "exp": "The inhibitor column reads: decreased enzyme - decreased metabolism - increased plasma concentration - drug toxicity. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-061",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Enzyme induction causes drug failure because:",
+   "opts": [
+    "More enzyme means faster metabolism and a lower plasma concentration",
+    "More enzyme means slower metabolism and a higher plasma concentration",
+    "Enzyme induction blocks the drug at its receptor",
+    "Enzyme induction increases renal reabsorption"
+   ],
+   "ans": 0,
+   "exp": "Induction increases the amount of enzyme, speeds metabolism, lowers plasma concentration and thereby causes failure of therapy. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-062",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Enzyme inhibition causes drug toxicity because:",
+   "opts": [
+    "Less enzyme means slower metabolism and a higher plasma concentration",
+    "Less enzyme means faster metabolism and a lower plasma concentration",
+    "Inhibitors increase the number of receptors",
+    "Inhibitors displace drug from albumin"
+   ],
+   "ans": 0,
+   "exp": "Enzyme inhibition reduces metabolism, so the drug accumulates, plasma concentration rises and toxicity follows. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-063",
+   "sec": "Enzyme inducers",
+   "page": 14,
+   "q": "Which of the following are enzyme inducers?",
+   "opts": [
+    "Griseofulvin, rifampicin, chronic alcohol, phenobarbital, carbamazepine",
+    "Cimetidine, ciprofloxacin, ketoconazole, valproate",
+    "Erythromycin, clarithromycin, quinidine, isoniazid",
+    "Grapefruit juice, acute alcohol, diethylcarbamazine, neratinib"
+   ],
+   "ans": 0,
+   "exp": "The inducer list is griseofulvin, rifampicin, alcohol (chronic), benzopyrene, phenobarbital, carbamazepine and St. John's wort. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-064",
+   "sec": "Enzyme inducers",
+   "page": 14,
+   "q": "St. John's wort, listed as an enzyme inducer, is a plant used to treat:",
+   "opts": [
+    "Depression",
+    "Malaria",
+    "Hypertension",
+    "Epilepsy"
+   ],
+   "ans": 0,
+   "exp": "The book annotates St. John's wort as 'plant used to treat depression', and lists it among enzyme inducers. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-065",
+   "sec": "Enzyme inducers",
+   "page": 14,
+   "q": "Benzopyrene, listed among enzyme inducers, is encountered in:",
+   "opts": [
+    "Cigarette smoke",
+    "Grapefruit juice",
+    "St. John's wort",
+    "Dairy products"
+   ],
+   "ans": 0,
+   "exp": "Benzopyrene appears in the inducer list - it is a polycyclic aromatic hydrocarbon of cigarette smoke that induces CYP1A2. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-066",
+   "sec": "Enzyme inducers",
+   "page": 14,
+   "q": "Which of these is NOT an enzyme inducer as listed in the table?",
+   "opts": [
+    "Ketoconazole",
+    "Griseofulvin",
+    "Carbamazepine",
+    "Phenobarbital"
+   ],
+   "ans": 0,
+   "exp": "Ketoconazole is an enzyme INHIBITOR; inducers are griseofulvin, rifampicin, chronic alcohol, benzopyrene, phenobarbital, carbamazepine and St. John's wort. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-067",
+   "sec": "Enzyme inhibitors",
+   "page": 14,
+   "q": "Which of the following are enzyme inhibitors?",
+   "opts": [
+    "Cimetidine, ciprofloxacin, ketoconazole, valproate, quinidine",
+    "Rifampicin, phenobarbital, carbamazepine, griseofulvin",
+    "St. John's wort and benzopyrene",
+    "Chronic alcohol and phenytoin"
+   ],
+   "ans": 0,
+   "exp": "The inhibitor list is acute alcohol consumption, quinidine, isoniazid, cimetidine, ciprofloxacin, ketoconazole, valproate, erythromycin/clarithromycin, grapefruit juice and diethylcarbamazine. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-068",
+   "sec": "Enzyme inhibitors",
+   "page": 14,
+   "q": "Regarding alcohol, the table specifies that:",
+   "opts": [
+    "Acute alcohol consumption is an inhibitor while chronic alcohol is an inducer",
+    "Both acute and chronic alcohol are inducers",
+    "Both acute and chronic alcohol are inhibitors",
+    "Alcohol does not affect microsomal enzymes"
+   ],
+   "ans": 0,
+   "exp": "Chronic alcohol appears in the inducer column and acute alcohol consumption in the inhibitor column - the same agent with opposite effects by duration of intake. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-069",
+   "sec": "Enzyme inhibitors",
+   "page": 14,
+   "q": "Grapefruit juice is listed as an:",
+   "opts": [
+    "Enzyme inhibitor",
+    "Enzyme inducer",
+    "Enzyme substrate only",
+    "Prodrug"
+   ],
+   "ans": 0,
+   "exp": "Grapefruit juice appears in the inhibitor column, with cimetidine, ciprofloxacin, ketoconazole, valproate and others. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-070",
+   "sec": "Enzyme inhibitors",
+   "page": 14,
+   "q": "Diethylcarbamazine is listed as an enzyme:",
+   "opts": [
+    "Inhibitor",
+    "Inducer",
+    "Substrate",
+    "Prodrug"
+   ],
+   "ans": 0,
+   "exp": "Diethylcarbamazine appears at the end of the enzyme inhibitor list. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-071",
+   "sec": "Enzyme inhibitors",
+   "page": 14,
+   "q": "Isoniazid appears in the table as an enzyme:",
+   "opts": [
+    "Inhibitor",
+    "Inducer",
+    "Substrate",
+    "Cofactor"
+   ],
+   "ans": 0,
+   "exp": "Isoniazid is listed among enzyme inhibitors, along with quinidine, cimetidine, ciprofloxacin, ketoconazole and valproate. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-072",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "In oral contraceptive failure due to rifampicin, the book's options include all EXCEPT:",
+   "opts": [
+    "Continuing the same regimen unchanged",
+    "Changing the method of contraception (IUD or condoms)",
+    "Avoiding enzyme inducers",
+    "Increasing the dose of drugs such as phenytoin and retigabine"
+   ],
+   "ans": 0,
+   "exp": "The three options given are to change the method of contraception (IUD or condoms), avoid enzyme inducers, or increase the dose of drugs like phenytoin and retigabine. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-073",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "Which two drugs are named as examples whose dose may be increased when an enzyme inducer is unavoidable?",
+   "opts": [
+    "Phenytoin and retigabine",
+    "Warfarin and digoxin",
+    "Rifampicin and isoniazid",
+    "Omeprazole and clopidogrel"
+   ],
+   "ans": 0,
+   "exp": "The page gives phenytoin and retigabine as examples of drugs whose dose can be increased in the face of enzyme induction. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-074",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "A woman on rifampicin for tuberculosis on combined oral contraceptives experiences OCP failure because rifampicin:",
+   "opts": [
+    "Induces microsomal enzymes, accelerating estrogen metabolism",
+    "Inhibits microsomal enzymes, delaying estrogen metabolism",
+    "Kills gut bacteria and reduces enterohepatic circulation",
+    "Competes with estrogen at the receptor"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin is a classic enzyme inducer: it increases metabolism of the contraceptive steroids, reduces their plasma concentration and causes OCP failure. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-075",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "Erythromycin inhibits microsomal enzymes and therefore causes:",
+   "opts": [
+    "Theophylline toxicity, with ventricular arrhythmia and ventricular fibrillation",
+    "Theophylline failure",
+    "Digoxin failure",
+    "Reduced warfarin effect"
+   ],
+   "ans": 0,
+   "exp": "The clinical significance box states erythromycin leads to theophylline toxicity presenting as ventricular arrhythmia and ventricular fibrillation. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-076",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "Clarithromycin, by enzyme inhibition, causes:",
+   "opts": [
+    "Statin toxicity",
+    "Statin failure",
+    "Theophylline failure",
+    "Reduced clopidogrel effect"
+   ],
+   "ans": 0,
+   "exp": "The page pairs clarithromycin with statin toxicity - inhibition of statin metabolism raises levels and causes myopathy. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-077",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "A patient on a statin develops muscle pain after being prescribed clarithromycin. The mechanism is:",
+   "opts": [
+    "Enzyme inhibition raising statin plasma concentration",
+    "Enzyme induction lowering statin concentration",
+    "Reduced statin absorption from the gut",
+    "Displacement of statin from albumin"
+   ],
+   "ans": 0,
+   "exp": "Clarithromycin inhibits microsomal enzymes, so the statin accumulates and toxicity (myopathy) follows - the stated clarithromycin-statin toxicity. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-078",
+   "sec": "Clinical significance",
+   "page": 14,
+   "q": "A patient with asthma on theophylline presents with ventricular arrhythmia after starting erythromycin. The best explanation is:",
+   "opts": [
+    "Erythromycin inhibits theophylline metabolism, causing theophylline toxicity",
+    "Erythromycin induces theophylline metabolism, causing theophylline failure",
+    "Erythromycin displaces theophylline from albumin",
+    "Theophylline induces erythromycin metabolism"
+   ],
+   "ans": 0,
+   "exp": "Erythromycin is an enzyme inhibitor; theophylline levels rise and toxicity manifests as ventricular arrhythmia and ventricular fibrillation. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-079",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Rifampicin and cimetidine differ in that rifampicin is an ______ while cimetidine is an ______.",
+   "opts": [
+    "Enzyme inducer; enzyme inhibitor",
+    "Enzyme inhibitor; enzyme inducer",
+    "Enzyme substrate; prodrug",
+    "Prodrug; enzyme substrate"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin appears in the inducer column and cimetidine in the inhibitor column of the drug interaction table. (Book p14)"
+  },
+  {
+   "id": "PHARM-C5-080",
+   "sec": "Drug Interactions",
+   "page": 14,
+   "q": "Which statement about chronic versus acute alcohol is correct?",
+   "opts": [
+    "Chronic consumption induces enzymes causing drug failure, acute consumption inhibits enzymes causing drug toxicity",
+    "Chronic consumption inhibits enzymes while acute consumption induces them",
+    "Both chronic and acute consumption cause identical effects",
+    "Only acute consumption affects microsomal enzymes"
+   ],
+   "ans": 0,
+   "exp": "Chronic alcohol is listed as an inducer (drug failure) and acute alcohol consumption as an inhibitor (drug toxicity). (Book p14)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U5-1",
+   "ch": 5,
+   "n": 1,
+   "title": "Phase I and Phase II: The Two Steps",
+   "sec": "Phase I · p11",
+   "qs": [
+    "PHARM-C5-001",
+    "PHARM-C5-002",
+    "PHARM-C5-003",
+    "PHARM-C5-004",
+    "PHARM-C5-005",
+    "PHARM-C5-006",
+    "PHARM-C5-007",
+    "PHARM-C5-008"
+   ],
+   "guide": "Phase I either activates an inactive prodrug or inactivates a drug, and always leaves it with a functional group. Phase II then attaches a negatively charged conjugate to give a drug + functional group + conjugate that is ionized and water soluble and therefore easily excreted. A placebo, by definition, contains no drug at all."
+  },
+  {
+   "id": "PHARM-U5-2",
+   "ch": 5,
+   "n": 2,
+   "title": "Prodrugs and Their Examples",
+   "sec": "Prodrugs · p11",
+   "qs": [
+    "PHARM-C5-009",
+    "PHARM-C5-010",
+    "PHARM-C5-011",
+    "PHARM-C5-012",
+    "PHARM-C5-013",
+    "PHARM-C5-014",
+    "PHARM-C5-015"
+   ],
+   "guide": "Prodrugs are inactive as given and need metabolic activation: proguanil, ramipril and other ACE inhibitors except captopril and lisinopril, oxcarbazepine, omeprazole, dipivefrine, levodopa, racecadotril, 5-fluorouracil and gemcitabine."
+  },
+  {
+   "id": "PHARM-U5-3",
+   "ch": 5,
+   "n": 3,
+   "title": "ORCHAD and the Phase II Conjugations",
+   "sec": "Reactions of Drugs in the Phases · p11",
+   "qs": [
+    "PHARM-C5-016",
+    "PHARM-C5-017",
+    "PHARM-C5-018",
+    "PHARM-C5-019",
+    "PHARM-C5-020",
+    "PHARM-C5-021",
+    "PHARM-C5-022",
+    "PHARM-C5-023"
+   ],
+   "guide": "Phase I reactions follow ORCHAD - oxidation (commonest), reduction, cyclization, hydrolysis, aliphatic hydroxylation, aromatic hydroxylation and deamination - and are enabled by microsomal CYP450 enzymes. Phase II reactions are named after the conjugate: glucuronidation is the commonest and is microsomal, while glycination, glutathionation, acetylation, methylation and sulfation are non-microsomal."
+  },
+  {
+   "id": "PHARM-U5-4",
+   "ch": 5,
+   "n": 4,
+   "title": "CYP450: What the Name Means",
+   "sec": "CYP450 enzyme group · p12",
+   "qs": [
+    "PHARM-C5-024",
+    "PHARM-C5-025",
+    "PHARM-C5-026",
+    "PHARM-C5-027"
+   ],
+   "guide": "CY is a cytochrome - a heme protein that binds oxygen and so facilitates metabolism - and the P450 tag comes from enzymes discovered in plant pigment that absorb light at 450 nm. In CYP1A2 the numerals and letter read as family 1, subfamily A and gene/isoform number 2."
+  },
+  {
+   "id": "PHARM-U5-5",
+   "ch": 5,
+   "n": 5,
+   "title": "Isoform by Isoform: 1A2, 2B6 and 2C9",
+   "sec": "Drugs metabolised in phase I · p12",
+   "qs": [
+    "PHARM-C5-028",
+    "PHARM-C5-029",
+    "PHARM-C5-030"
+   ],
+   "guide": "CYP1A2 metabolises paracetamol, tacrine and theophylline; CYP2B6 metabolises 6-mercaptopurine and methyldopa; CYP2C9 metabolises phenytoin and warfarin."
+  },
+  {
+   "id": "PHARM-U5-6",
+   "ch": 5,
+   "n": 6,
+   "title": "CYP2C19: Omeprazole vs Clopidogrel",
+   "sec": "CYP2C19 · p12",
+   "qs": [
+    "PHARM-C5-031",
+    "PHARM-C5-032",
+    "PHARM-C5-033"
+   ],
+   "guide": "CYP2C19 both metabolises omeprazole and activates the prodrug clopidogrel. Because both are substrates competing for a limited amount of enzyme, omeprazole behaves as a competitive inhibitor and decreases the effect of clopidogrel - so the combination loses antiplatelet protection."
+  },
+  {
+   "id": "PHARM-U5-7",
+   "ch": 5,
+   "n": 7,
+   "title": "CYP2D6 and Tamoxifen Activation",
+   "sec": "CYP2D6 · p12",
+   "qs": [
+    "PHARM-C5-034",
+    "PHARM-C5-035",
+    "PHARM-C5-036"
+   ],
+   "guide": "CYP2D6 metabolises psychiatric drugs (antidepressants and antipsychotics), opioids and beta blockers, and it activates tamoxifen. Inhibiting CYP2D6 therefore deprives the patient of tamoxifen's active metabolite and reduces its efficacy."
+  },
+  {
+   "id": "PHARM-U5-8",
+   "ch": 5,
+   "n": 8,
+   "title": "CYP2E1, Alcohol and Paracetamol",
+   "sec": "CYP2E1 · p12",
+   "qs": [
+    "PHARM-C5-037",
+    "PHARM-C5-038",
+    "PHARM-C5-039",
+    "PHARM-C5-040"
+   ],
+   "guide": "Chronic alcohol consumption upregulates CYP2E1, and paracetamol is metabolised by CYP2E1 far more than by CYP1A2. The induced enzyme diverts paracetamol into its toxic metabolite NAPQI, so a chronic alcoholic taking paracetamol develops hepatotoxicity at doses that would otherwise be safe."
+  },
+  {
+   "id": "PHARM-U5-9",
+   "ch": 5,
+   "n": 9,
+   "title": "CYP3A4: The Commonest Isoform",
+   "sec": "CYP3A4 · p12",
+   "qs": [
+    "PHARM-C5-041",
+    "PHARM-C5-042",
+    "PHARM-C5-043"
+   ],
+   "guide": "CYP3A4 is the commonest CYP enzyme, metabolising more than 50% of all drugs - mifepristone is the example given. Putting the isoforms side by side, methyldopa belongs to CYP2B6, theophylline to CYP1A2, mifepristone to CYP3A4 and warfarin to CYP2C9."
+  },
+  {
+   "id": "PHARM-U5-10",
+   "ch": 5,
+   "n": 10,
+   "title": "Glucuronidation Failure: Crigler Najjar",
+   "sec": "Glucuronidation · p13",
+   "qs": [
+    "PHARM-C5-044",
+    "PHARM-C5-045",
+    "PHARM-C5-046",
+    "PHARM-C5-047"
+   ],
+   "guide": "Glucuronidation is the phase II reaction of concern in two drugs: atazanavir, an antiviral that causes Steven Johnson syndrome, and irinotecan, an anticancer drug that causes toxicity. Both are contraindicated in Crigler Najjar syndrome, in which glucuronidation is defective and the drugs cannot be cleared safely."
+  },
+  {
+   "id": "PHARM-U5-11",
+   "ch": 5,
+   "n": 11,
+   "title": "Enterohepatic Circulation of Estrogen",
+   "sec": "Estrogen · p13",
+   "qs": [
+    "PHARM-C5-048",
+    "PHARM-C5-049",
+    "PHARM-C5-050",
+    "PHARM-C5-051",
+    "PHARM-C5-052",
+    "PHARM-C5-053",
+    "PHARM-C5-054"
+   ],
+   "guide": "Estrogen is handled in the liver by phase I CYP3A4 then phase II glucuronidation, yielding the water-soluble estrogen-glucuronic acid. Gut bacterial glucuronidase liberates lipid-soluble estrogen that is reabsorbed - enterohepatic circulation, which extends the normal half-life. Antibiotics kill those bacteria, so enterohepatic circulation and T1/2 fall and the oral contraceptive fails."
+  },
+  {
+   "id": "PHARM-U5-12",
+   "ch": 5,
+   "n": 12,
+   "title": "HIPS Dance: Acetylation and Drug-Induced SLE",
+   "sec": "Acetylation · p13",
+   "qs": [
+    "PHARM-C5-055",
+    "PHARM-C5-056",
+    "PHARM-C5-057",
+    "PHARM-C5-058"
+   ],
+   "guide": "Acetylation is a non-microsomal phase II reaction, and the drugs that undergo it are recalled by HIPS Dance: Hydralazine, Isoniazid, Procainamide, Sulfonamide and Dapsone. All five can produce drug-induced systemic lupus erythematosus - so arthralgia, fever and a positive ANA in a patient on isoniazid should raise that possibility."
+  },
+  {
+   "id": "PHARM-U5-13",
+   "ch": 5,
+   "n": 13,
+   "title": "Induction vs Inhibition: The Core Effect",
+   "sec": "Drug Interactions · p14",
+   "qs": [
+    "PHARM-C5-059",
+    "PHARM-C5-060",
+    "PHARM-C5-061",
+    "PHARM-C5-062"
+   ],
+   "guide": "Microsomal enzyme induction raises enzyme amount and metabolism, lowers plasma concentration and causes drug failure; enzyme inhibition does the reverse - less metabolism, higher plasma concentration and drug toxicity. Every interaction in this table is read off that single axis."
+  },
+  {
+   "id": "PHARM-U5-14",
+   "ch": 5,
+   "n": 14,
+   "title": "The Inducer List",
+   "sec": "Enzyme inducers · p14",
+   "qs": [
+    "PHARM-C5-063",
+    "PHARM-C5-064",
+    "PHARM-C5-065",
+    "PHARM-C5-066"
+   ],
+   "guide": "Enzyme inducers are griseofulvin, rifampicin, chronic alcohol, benzopyrene (cigarette smoke), phenobarbital, carbamazepine and St. John's wort - the plant used to treat depression. Recognizing them matters because they silently produce therapeutic failure of co-prescribed drugs."
+  },
+  {
+   "id": "PHARM-U5-15",
+   "ch": 5,
+   "n": 15,
+   "title": "The Inhibitor List and Alcohol's Two Faces",
+   "sec": "Enzyme inhibitors · p14",
+   "qs": [
+    "PHARM-C5-067",
+    "PHARM-C5-068",
+    "PHARM-C5-069",
+    "PHARM-C5-070",
+    "PHARM-C5-071"
+   ],
+   "guide": "Enzyme inhibitors include acute alcohol consumption, quinidine, isoniazid, cimetidine, ciprofloxacin, ketoconazole, valproate, erythromycin/clarithromycin, grapefruit juice and diethylcarbamazine. Alcohol is unique in appearing on both sides: acute intake inhibits while chronic intake induces."
+  },
+  {
+   "id": "PHARM-U5-16",
+   "ch": 5,
+   "n": 16,
+   "title": "Clinical Payoff: OCP Failure, Theophylline and Statins",
+   "sec": "Clinical Significance · p14",
+   "qs": [
+    "PHARM-C5-072",
+    "PHARM-C5-073",
+    "PHARM-C5-074",
+    "PHARM-C5-075",
+    "PHARM-C5-076",
+    "PHARM-C5-077",
+    "PHARM-C5-078",
+    "PHARM-C5-079",
+    "PHARM-C5-080"
+   ],
+   "guide": "The clinical payoff of this table is memorised as four vignettes: rifampicin induces enzymes and causes OCP failure - manage by switching to an IUD or condoms, avoiding inducers, or raising the dose of drugs such as phenytoin and retigabine; erythromycin causes theophylline toxicity with ventricular arrhythmia and fibrillation; clarithromycin causes statin toxicity; and alcohol's effect depends on whether intake is acute or chronic."
+  }
+ ]
+}

@@ -28,8 +28,9 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 
 ## Chapter page map (book pages) — 74 chapters, all LISTED in app from day one ("Soon" until live)
 ### General Pharmacology
-1: p1 DONE (22 qs, 3 units) | 2: 2-4 | 3: 5-8 | 4: 9-10 | 5: 11-14 | 6: 15-17 | 7: 18-19 | 8: 20-24 |
-9: 25-28 | 10: 29-32 | 11: 33-36
+1: p1 DONE (22 qs, 3 units) | 2: 2-4 DONE (46 qs, 7 units) | 3: 5-8 DONE (56 qs, 9 units) |
+4: 9-10 DONE (42 qs, 8 units) | 5: 11-14 DONE (80 qs, 16 units) | 6: 15-17 DONE (45 qs, 9 units) |
+7: 18-19 DONE (60 qs, 6 units) | 8: 20-24 | 9: 25-28 | 10: 29-32 | 11: 33-36
 ### Autonomic Nervous System
 12: 37-41 | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
 ### Cardiovascular System
@@ -77,9 +78,39 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 - DONE (2026-09-14): repo skeleton (pulse-pharm-complete.html with all 74 chapters listed,
   index.html redirect, work/ pipeline, this tracker). Source PDF moved to uploads/.
 - DONE (2026-09-14): **ch1 "Introduction to Pharmacokinetics and Pharmacodynamics"**
-  (book p1 = pdf p6) — 22 qs, 3 units; validated, merged, integrity ✓, ch1 LIVE.
-- NEXT: ch2 "Pharmacokinetics: Absorption - Part 1" (book p2-4 = pdf p7-9).
-- LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects → pulse-pharm-complete.html).
-  GitHub Pages: enable once via Repo → Settings → Pages → "Deploy from a branch" → main /(root).
+  (book p1 = pdf p6) - 22 qs, 3 units.
+- DONE (2026-09-14, session 2): **ch2-ch7 built and LIVE** - 351 questions, 58 units total:
+  - ch2 "Pharmacokinetics: Absorption - Part 1" (p2-4) - 46 qs, 7 units
+    (4 transport mechanisms, P-gp/MDR1 pump, BBB/placenta/hepatocytes, resistance,
+    substrates/inducers/inhibitors, effects of blockade, passive diffusion)
+  - ch3 "Pharmacokinetics: Absorption - Part 2" (p5-8) - 56 qs, 9 units
+    (LUNA/WIPE criteria table, unionization, urine pH manipulation, Henderson-Hasselbalch
+    with the pKa 4 in pH 2 worked example, IR/SR/CR, delayed & enteric release,
+    bioavailability + AUC ratio, Cmax/Tmax, bioequivalence/ANDA +/-20%)
+  - ch4 "Pharmacokinetics: Distribution" (p9-10) - 42 qs, 8 units
+    (AVd definition/calculation, loading dose D = AVd x CT/f, factors (fat, pKa, albumin),
+    digoxin & lean body mass, dialysis ineffective when vd high, BADDOC + antidotes,
+    albumin vs alpha-1 acid glycoprotein, nephrotic/inflammation shifts)
+  - ch5 "Pharmacokinetics: Metabolism" (p11-14) - 80 qs, 16 units
+    (phase I/II flowchart, prodrugs, ORCHAD, phase II conjugates, CYP nomenclature,
+    CYP1A2/2B6/2C9/2C19/2D6/2E1/3A4, omeprazole-clopidogrel, NAPQI, glucuronidation &
+    Crigler Najjar, estrogen enterohepatic circulation & OCP failure, HIPS Dance,
+    inducers vs inhibitors table, OCP/theophylline/statin clinical scenarios)
+  - ch6 "Pharmacokinetics: Excretion" (p15-17) - 45 qs, 9 units
+    (filtration 20% vs tubular secretion 80%, -ve basement membrane, RDE = PC x CL,
+    infusion phases I/II/III, 4-5 T1/2 to steady state, maintenance dose = PC x CL x Time/f,
+    T1/2 = 0.693 x vd/CL, Kel, zero vs first order table, pseudozero order, zero-order drugs)
+  - ch7 "Pharmacodynamics: Potency, Efficacy and Dose Response Curve" (p18-19) - 60 qs, 6 units
+    (affinity vs efficacy vs potency, quantal DRC ED50/TD50/LD50, TI = TD50/ED50 humans &
+    LD50/ED50 animals, lithium therapeutic window 0.6-1.5 meq/L, graded DRC
+    B>A>C efficacy & PA>PB>PC potency, affinity only between parallel lines,
+    full/partial/antagonist/inverse agonist table with intrinsic efficacy +1/1-0/0/-1)
+- Pipeline used for all of the above: render.py -> read page images (re-cropped at high DPI
+  whenever a line was unclear) -> data/chNN.json -> validate.py -> merge.py -> integrity.py ->
+  node --check on inline JS. All PASS.
+- NEXT: **ch8 "Pharmacodynamics: Drug Receptors and Interactions"** (book p20-24 = pdf p25-29),
+  then ch9 (25-28), ch10 (29-32), ch11 (33-36) to finish General Pharmacology.
+- LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
+  GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
 - GitHub repo: https://github.com/Deva20045/Pharm
