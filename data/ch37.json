@@ -1,0 +1,1021 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C37-001",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Ethanol is first converted by alcohol dehydrogenase into:",
+   "opts": [
+    "Acetaldehyde",
+    "Acetic acid",
+    "Formaldehyde",
+    "Formic acid"
+   ],
+   "ans": 0,
+   "exp": "Alcohol dehydrogenase converts alcohol to acetaldehyde. (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-002",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Acetaldehyde is converted to non-toxic acetic acid by:",
+   "opts": [
+    "Aldehyde dehydrogenase",
+    "Alcohol dehydrogenase",
+    "Formaldehyde dehydrogenase",
+    "Glycolaldehyde dehydrogenase"
+   ],
+   "ans": 0,
+   "exp": "Aldehyde dehydrogenase (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-003",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "The final non-toxic product of ethanol metabolism shown is:",
+   "opts": [
+    "Acetic acid",
+    "Acetaldehyde",
+    "Formic acid",
+    "Glycolic acid"
+   ],
+   "ans": 0,
+   "exp": "Acetic acid (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-004",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Acetic acid formed from ethanol is ultimately:",
+   "opts": [
+    "Excreted in urine",
+    "Converted to methanol",
+    "Stored in adipose tissue",
+    "Exhaled unchanged"
+   ],
+   "ans": 0,
+   "exp": "Excreted in urine (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-005",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Disulfiram produces alcohol aversion by blocking:",
+   "opts": [
+    "Aldehyde dehydrogenase",
+    "Alcohol dehydrogenase",
+    "Monoamine oxidase",
+    "CYP2E1"
+   ],
+   "ans": 0,
+   "exp": "Aldehyde dehydrogenase (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-006",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Methanol is converted by ADH into:",
+   "opts": [
+    "Formaldehyde",
+    "Acetaldehyde",
+    "Glycolaldehyde",
+    "Acetic acid"
+   ],
+   "ans": 0,
+   "exp": "Formaldehyde (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-007",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Formaldehyde is converted by formaldehyde dehydrogenase into toxic:",
+   "opts": [
+    "Formic acid",
+    "Acetic acid",
+    "Lactic acid",
+    "Oxalic acid"
+   ],
+   "ans": 0,
+   "exp": "Formic acid (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-008",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "The toxic metabolite responsible for death after methanol ingestion is:",
+   "opts": [
+    "Formic acid",
+    "Acetic acid",
+    "Acetaldehyde",
+    "Glycoaldehyde"
+   ],
+   "ans": 0,
+   "exp": "Formic acid (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-009",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Ethylene glycol (antifreeze) is initially converted into:",
+   "opts": [
+    "Glycoaldehyde",
+    "Formaldehyde",
+    "Acetaldehyde",
+    "Acetic acid"
+   ],
+   "ans": 0,
+   "exp": "Glycoaldehyde (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-010",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Glycoaldehyde is further metabolised by GDH to:",
+   "opts": [
+    "Multiple toxic acids",
+    "Non-toxic acetic acid",
+    "Only formic acid",
+    "Ethanol"
+   ],
+   "ans": 0,
+   "exp": "Multiple toxic acids (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-011",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "The drug of choice for methanol or ethylene-glycol toxicity is:",
+   "opts": [
+    "Fomepizole",
+    "Disulfiram",
+    "Naltrexone",
+    "Acamprosate"
+   ],
+   "ans": 0,
+   "exp": "Fomepizole (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-012",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "Ethanol and fomepizole treat toxic-alcohol poisoning by:",
+   "opts": [
+    "Competitive inhibition of alcohol dehydrogenase",
+    "Activating aldehyde dehydrogenase",
+    "Chelating formic acid",
+    "Increasing renal acid reabsorption"
+   ],
+   "ans": 0,
+   "exp": "Competitive inhibition of alcohol dehydrogenase (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-013",
+   "sec": "Alcohol Metabolism and Toxic Alcohols",
+   "page": 150,
+   "q": "A patient who drank antifreeze should receive fomepizole to prevent formation of:",
+   "opts": [
+    "Multiple toxic acids from ethylene glycol",
+    "Acetic acid from ethanol",
+    "Acetaldehyde from ethanol",
+    "Dopamine metabolites"
+   ],
+   "ans": 0,
+   "exp": "Multiple toxic acids from ethylene glycol (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-014",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "The FDA-approved alcohol-dependence drugs on the page are:",
+   "opts": [
+    "Disulfiram, naltrexone and acamprosate",
+    "Diazepam, clonidine and baclofen",
+    "Topiramate, gabapentin and baclofen",
+    "Varenicline, bupropion and nicotine"
+   ],
+   "ans": 0,
+   "exp": "Disulfiram, naltrexone and acamprosate (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-015",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Accumulation of acetaldehyde during disulfiram therapy causes:",
+   "opts": [
+    "Palpitations, tremor, sweating and chest pain",
+    "Miosis, constipation and sedation",
+    "Bradycardia and dry skin",
+    "Ataxia without autonomic symptoms"
+   ],
+   "ans": 0,
+   "exp": "Palpitations, tremor, sweating and chest pain (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-016",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Disulfiram is administered at what time of day?",
+   "opts": [
+    "In the morning",
+    "At bedtime",
+    "Only with alcohol",
+    "Once monthly"
+   ],
+   "ans": 0,
+   "exp": "In the morning (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-017",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Disulfiram is reserved for:",
+   "opts": [
+    "A motivated patient",
+    "Every patient in acute withdrawal",
+    "A patient who refuses abstinence",
+    "A patient with severe hepatic failure"
+   ],
+   "ans": 0,
+   "exp": "A motivated patient (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-018",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Minimum abstinence before starting disulfiram is:",
+   "opts": [
+    "12 hours",
+    "No abstinence",
+    "1 hour",
+    "7 days"
+   ],
+   "ans": 0,
+   "exp": "12 hours (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-019",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "The sleep-related adverse effect of disulfiram is:",
+   "opts": [
+    "Alteration of REM/NREM status",
+    "Only vivid dreams",
+    "Somnambulism",
+    "Complete insomnia"
+   ],
+   "ans": 0,
+   "exp": "Alteration of REM/NREM status (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-020",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Monitoring recommended during disulfiram therapy is:",
+   "opts": [
+    "Liver function every 6 months",
+    "Creatinine every day",
+    "ECG monthly",
+    "Audiometry yearly"
+   ],
+   "ans": 0,
+   "exp": "Liver function every 6 months (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-021",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Naltrexone reduces alcohol reward as a:",
+   "opts": [
+    "Central opioid antagonist",
+    "Glutamate agonist",
+    "Aldehyde-dehydrogenase inhibitor",
+    "Nicotinic agonist"
+   ],
+   "ans": 0,
+   "exp": "Central opioid antagonist (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-022",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "The drug of choice oral regimen for alcohol dependence is:",
+   "opts": [
+    "Naltrexone once daily",
+    "Acamprosate once daily",
+    "Disulfiram three times daily",
+    "Fomepizole once monthly"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone once daily (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-023",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Abstinence before oral naltrexone for alcohol dependence is:",
+   "opts": [
+    "Not required",
+    "12 hours required",
+    "One month required",
+    "Seven days required"
+   ],
+   "ans": 0,
+   "exp": "Not required (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-024",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Long-acting naltrexone can be given as:",
+   "opts": [
+    "A monthly intramuscular dose",
+    "A daily IV infusion",
+    "A weekly patch",
+    "An inhaled dose"
+   ],
+   "ans": 0,
+   "exp": "A monthly intramuscular dose (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-025",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "An additional long-duration naltrexone formulation mentioned is:",
+   "opts": [
+    "An implant",
+    "A nasal spray",
+    "A suppository",
+    "An eye drop"
+   ],
+   "ans": 0,
+   "exp": "An implant (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-026",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Naltrexone may worsen depression by causing:",
+   "opts": [
+    "Dysphoria",
+    "Euphoria",
+    "Mania",
+    "Amnesia"
+   ],
+   "ans": 0,
+   "exp": "Dysphoria (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-027",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Naltrexone is contraindicated when LFT values are:",
+   "opts": [
+    "At least 3 times normal",
+    "Below normal",
+    "Less than twice normal",
+    "Exactly normal"
+   ],
+   "ans": 0,
+   "exp": "At least 3 times normal (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-028",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "Acamprosate acts by:",
+   "opts": [
+    "Inhibiting glutamate effects",
+    "Blocking aldehyde dehydrogenase",
+    "Blocking opioid receptors",
+    "Stimulating nicotinic receptors"
+   ],
+   "ans": 0,
+   "exp": "Inhibiting glutamate effects (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-029",
+   "sec": "FDA-approved Drugs for Alcohol Dependence",
+   "page": 150,
+   "q": "The dosing schedule of acamprosate is:",
+   "opts": [
+    "Oral three times daily",
+    "Oral once daily",
+    "Monthly intramuscular",
+    "Transdermal daily"
+   ],
+   "ans": 0,
+   "exp": "Oral three times daily (Book p150)"
+  },
+  {
+   "id": "PHARM-C37-030",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "Which is a non-FDA-approved option for alcohol dependence?",
+   "opts": [
+    "Topiramate",
+    "Disulfiram",
+    "Naltrexone",
+    "Acamprosate"
+   ],
+   "ans": 0,
+   "exp": "Topiramate (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-031",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "The six non-FDA-approved options listed include benzodiazepines, clonidine, gabapentin, baclofen, topiramate and:",
+   "opts": [
+    "Varenicline",
+    "Fomepizole",
+    "Methadone",
+    "Naloxone"
+   ],
+   "ans": 0,
+   "exp": "Varenicline (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-032",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "The drug of choice for acute alcohol withdrawal is:",
+   "opts": [
+    "A benzodiazepine",
+    "Naltrexone",
+    "Acamprosate",
+    "Varenicline"
+   ],
+   "ans": 0,
+   "exp": "A benzodiazepine (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-033",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "Among non-approved maintenance agents, the preferred drug is:",
+   "opts": [
+    "Topiramate",
+    "Clonidine",
+    "Gabapentin",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "Topiramate (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-034",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "The initial investigation in a new alcohol-dependence case is:",
+   "opts": [
+    "Liver function testing",
+    "Renal biopsy",
+    "Audiometry",
+    "Spirometry"
+   ],
+   "ans": 0,
+   "exp": "Liver function testing (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-035",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "If LFT is at least three times normal, first treatment is:",
+   "opts": [
+    "Acamprosate",
+    "Naltrexone",
+    "Topiramate",
+    "Disulfiram"
+   ],
+   "ans": 0,
+   "exp": "Acamprosate (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-036",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "If LFT is less than three times normal, first treatment is:",
+   "opts": [
+    "Naltrexone",
+    "Acamprosate",
+    "Disulfiram",
+    "Fomepizole"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-037",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "After inadequate response to acamprosate, the next drug is:",
+   "opts": [
+    "Naltrexone",
+    "Disulfiram",
+    "Clonidine",
+    "Fomepizole"
+   ],
+   "ans": 0,
+   "exp": "Naltrexone (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-038",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "After inadequate response to naltrexone, the next drug is:",
+   "opts": [
+    "Topiramate",
+    "Acamprosate",
+    "Diazepam",
+    "Fomepizole"
+   ],
+   "ans": 0,
+   "exp": "Topiramate (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-039",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "Topiramate is contraindicated in:",
+   "opts": [
+    "Renal stones and glaucoma",
+    "Depression and insomnia",
+    "Asthma and COPD",
+    "Anaemia and neutropenia"
+   ],
+   "ans": 0,
+   "exp": "Renal stones and glaucoma (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-040",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "page": 151,
+   "q": "If topiramate is contraindicated, the algorithm proceeds to:",
+   "opts": [
+    "Disulfiram",
+    "Fomepizole",
+    "Clonidine",
+    "Bupropion"
+   ],
+   "ans": 0,
+   "exp": "Disulfiram (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-041",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "First-line smoking-cessation options are:",
+   "opts": [
+    "Bupropion, varenicline and nicotine replacement therapy",
+    "Cytisine, nortriptyline and clonidine",
+    "Diazepam, baclofen and topiramate",
+    "Disulfiram, naltrexone and acamprosate"
+   ],
+   "ans": 0,
+   "exp": "Bupropion, varenicline and nicotine replacement therapy (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-042",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The drug of choice and most effective drug for smoking dependence is:",
+   "opts": [
+    "Varenicline",
+    "Bupropion",
+    "Cytisine",
+    "Nortriptyline"
+   ],
+   "ans": 0,
+   "exp": "Varenicline (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-043",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Varenicline is a synthetic drug derived from:",
+   "opts": [
+    "Cytisine",
+    "Nicotine",
+    "Clonidine",
+    "Nortriptyline"
+   ],
+   "ans": 0,
+   "exp": "Cytisine (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-044",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The route used for varenicline in smoking dependence is:",
+   "opts": [
+    "Oral",
+    "Intranasal",
+    "Transdermal",
+    "Intramuscular"
+   ],
+   "ans": 0,
+   "exp": "Oral (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-045",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Varenicline acts as a nicotinic receptor:",
+   "opts": [
+    "Agonist",
+    "Antagonist",
+    "Inverse agonist",
+    "Channel blocker"
+   ],
+   "ans": 0,
+   "exp": "Agonist (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-046",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "At the alpha4-beta2 nicotinic receptor, varenicline is a:",
+   "opts": [
+    "Partial agonist",
+    "Full agonist",
+    "Antagonist",
+    "Inverse agonist"
+   ],
+   "ans": 0,
+   "exp": "Partial agonist (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-047",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "At the alpha7 nicotinic receptor, varenicline is a:",
+   "opts": [
+    "Full agonist",
+    "Partial agonist",
+    "Antagonist",
+    "Allosteric inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Full agonist (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-048",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The mnemonic VA recalls varenicline adverse effects as:",
+   "opts": [
+    "Vomiting/nausea and abnormal sleep",
+    "Vertigo and anaemia",
+    "Visual loss and anorexia",
+    "Vomiting and agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Vomiting/nausea and abnormal sleep (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-049",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Abnormal sleep with varenicline may manifest as:",
+   "opts": [
+    "Somnambulism",
+    "Narcolepsy",
+    "Sleep paralysis only",
+    "Night blindness"
+   ],
+   "ans": 0,
+   "exp": "Somnambulism (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-050",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "An atypical intranasal use of varenicline is:",
+   "opts": [
+    "Dry-eye disease",
+    "Glaucoma",
+    "Allergic rhinitis",
+    "Epistaxis"
+   ],
+   "ans": 0,
+   "exp": "Dry-eye disease (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-051",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Intranasal varenicline increases lacrimation through the:",
+   "opts": [
+    "Trigeminal nerve and nasolacrimal reflex",
+    "Optic nerve",
+    "Facial motor nucleus only",
+    "Vagus nerve"
+   ],
+   "ans": 0,
+   "exp": "Trigeminal nerve and nasolacrimal reflex (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-052",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Long-acting nicotine replacement is provided by a:",
+   "opts": [
+    "Patch lasting 16-24 hours",
+    "Nasal spray",
+    "Gum",
+    "Lozenge"
+   ],
+   "ans": 0,
+   "exp": "Patch lasting 16-24 hours (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-053",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The nicotine patch should be applied:",
+   "opts": [
+    "Once daily to a hairless area",
+    "Hourly to the scalp",
+    "Weekly to broken skin",
+    "Only when craving occurs"
+   ],
+   "ans": 0,
+   "exp": "Once daily to a hairless area (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-054",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Short-acting NRT is used for:",
+   "opts": [
+    "Breakthrough craving",
+    "Maintenance only",
+    "Alcohol withdrawal",
+    "Sleep induction"
+   ],
+   "ans": 0,
+   "exp": "Breakthrough craving (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-055",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The most effective short-acting NRT route is:",
+   "opts": [
+    "Nasal spray",
+    "Gum",
+    "Lozenge",
+    "Patch"
+   ],
+   "ans": 0,
+   "exp": "Nasal spray (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-056",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Nicotine gum and lozenges are available as:",
+   "opts": [
+    "Over-the-counter drugs",
+    "Schedule X drugs",
+    "Narcotic drugs",
+    "Hospital-only drugs"
+   ],
+   "ans": 0,
+   "exp": "Over-the-counter drugs (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-057",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "Nicotine nasal spray is classified as a:",
+   "opts": [
+    "Schedule H drug",
+    "OTC drug",
+    "Schedule X drug",
+    "Schedule G drug"
+   ],
+   "ans": 0,
+   "exp": "Schedule H drug (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-058",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "The recommended NRT regimen combines:",
+   "opts": [
+    "Patch plus gum, lozenge or nasal spray",
+    "Two patches only",
+    "Gum plus alcohol",
+    "Varenicline plus disulfiram"
+   ],
+   "ans": 0,
+   "exp": "Patch plus gum, lozenge or nasal spray (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-059",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "A new smoking-dependence case may start with:",
+   "opts": [
+    "Oral varenicline or NRT",
+    "Cytisine only",
+    "Clonidine only",
+    "Nortriptyline only"
+   ],
+   "ans": 0,
+   "exp": "Oral varenicline or NRT (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-060",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 151,
+   "q": "If a single first-line option gives inadequate response, the next step is:",
+   "opts": [
+    "Combine oral varenicline and NRT",
+    "Stop all treatment",
+    "Use disulfiram",
+    "Switch to diazepam"
+   ],
+   "ans": 0,
+   "exp": "Combine oral varenicline and NRT (Book p151)"
+  },
+  {
+   "id": "PHARM-C37-061",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 152,
+   "q": "The second-line therapies for smoking dependence are:",
+   "opts": [
+    "Cytisine, nortriptyline and clonidine",
+    "Varenicline, bupropion and NRT",
+    "Disulfiram, naltrexone and acamprosate",
+    "Gabapentin, baclofen and diazepam"
+   ],
+   "ans": 0,
+   "exp": "Cytisine, nortriptyline and clonidine (Book p152)"
+  },
+  {
+   "id": "PHARM-C37-062",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 152,
+   "q": "Cytisine is a:",
+   "opts": [
+    "Plant derivative",
+    "Synthetic opioid",
+    "Tricyclic antidepressant",
+    "Alpha-2 agonist"
+   ],
+   "ans": 0,
+   "exp": "Plant derivative (Book p152)"
+  },
+  {
+   "id": "PHARM-C37-063",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 152,
+   "q": "The mechanism of cytisine is:",
+   "opts": [
+    "The same as varenicline",
+    "Aldehyde-dehydrogenase inhibition",
+    "Opioid antagonism",
+    "Glutamate inhibition"
+   ],
+   "ans": 0,
+   "exp": "The same as varenicline (Book p152)"
+  },
+  {
+   "id": "PHARM-C37-064",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 152,
+   "q": "The tricyclic antidepressant used second-line for smoking cessation is:",
+   "opts": [
+    "Nortriptyline",
+    "Amitriptyline",
+    "Imipramine",
+    "Clomipramine"
+   ],
+   "ans": 0,
+   "exp": "Nortriptyline (Book p152)"
+  },
+  {
+   "id": "PHARM-C37-065",
+   "sec": "Smoking Dependence: First- and Second-line Therapy",
+   "page": 152,
+   "q": "Withdrawal symptoms with cytisine, nortriptyline and clonidine are described as:",
+   "opts": [
+    "Minimal",
+    "Severe",
+    "Unchanged",
+    "Fatal"
+   ],
+   "ans": 0,
+   "exp": "Minimal (Book p152)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U37-1",
+   "ch": 37,
+   "n": 1,
+   "title": "Alcohol Metabolism and Toxic Alcohols",
+   "sec": "Alcohol Metabolism and Toxic Alcohols · p150",
+   "qs": [
+    "PHARM-C37-001",
+    "PHARM-C37-002",
+    "PHARM-C37-003",
+    "PHARM-C37-004",
+    "PHARM-C37-005",
+    "PHARM-C37-006",
+    "PHARM-C37-007",
+    "PHARM-C37-008",
+    "PHARM-C37-009",
+    "PHARM-C37-010",
+    "PHARM-C37-011",
+    "PHARM-C37-012",
+    "PHARM-C37-013"
+   ],
+   "guide": "Ethanol is oxidised by alcohol dehydrogenase to acetaldehyde and then by aldehyde dehydrogenase to harmless acetic acid. Methanol and ethylene glycol traverse analogous pathways to lethal acids; ethanol and fomepizole competitively inhibit ADH, with fomepizole preferred."
+  },
+  {
+   "id": "PHARM-U37-2",
+   "ch": 37,
+   "n": 2,
+   "title": "FDA-approved Drugs for Alcohol Dependence",
+   "sec": "FDA-approved Drugs for Alcohol Dependence · p150",
+   "qs": [
+    "PHARM-C37-014",
+    "PHARM-C37-015",
+    "PHARM-C37-016",
+    "PHARM-C37-017",
+    "PHARM-C37-018",
+    "PHARM-C37-019",
+    "PHARM-C37-020",
+    "PHARM-C37-021",
+    "PHARM-C37-022",
+    "PHARM-C37-023",
+    "PHARM-C37-024",
+    "PHARM-C37-025",
+    "PHARM-C37-026",
+    "PHARM-C37-027",
+    "PHARM-C37-028",
+    "PHARM-C37-029"
+   ],
+   "guide": "The FDA-approved choices are disulfiram, naltrexone and acamprosate. Disulfiram creates aversion through acetaldehyde; naltrexone blocks the opioid reward pathway and can be oral, monthly IM or implanted; acamprosate inhibits glutamate and is taken orally three times daily."
+  },
+  {
+   "id": "PHARM-U37-3",
+   "ch": 37,
+   "n": 3,
+   "title": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm",
+   "sec": "Non-FDA Drugs, Acute Withdrawal and Alcohol Treatment Algorithm · p151",
+   "qs": [
+    "PHARM-C37-030",
+    "PHARM-C37-031",
+    "PHARM-C37-032",
+    "PHARM-C37-033",
+    "PHARM-C37-034",
+    "PHARM-C37-035",
+    "PHARM-C37-036",
+    "PHARM-C37-037",
+    "PHARM-C37-038",
+    "PHARM-C37-039",
+    "PHARM-C37-040"
+   ],
+   "guide": "Non-approved options include benzodiazepines, clonidine, gabapentin, baclofen, topiramate and varenicline. A benzodiazepine is the drug of choice for acute withdrawal; for maintenance, LFT determines acamprosate versus naltrexone, then topiramate and finally disulfiram when topiramate is contraindicated."
+  },
+  {
+   "id": "PHARM-U37-4",
+   "ch": 37,
+   "n": 4,
+   "title": "Smoking Dependence: First- and Second-line Therapy",
+   "sec": "Smoking Dependence: First- and Second-line Therapy · p151",
+   "qs": [
+    "PHARM-C37-041",
+    "PHARM-C37-042",
+    "PHARM-C37-043",
+    "PHARM-C37-044",
+    "PHARM-C37-045",
+    "PHARM-C37-046",
+    "PHARM-C37-047",
+    "PHARM-C37-048",
+    "PHARM-C37-049",
+    "PHARM-C37-050",
+    "PHARM-C37-051",
+    "PHARM-C37-052",
+    "PHARM-C37-053",
+    "PHARM-C37-054",
+    "PHARM-C37-055",
+    "PHARM-C37-056",
+    "PHARM-C37-057",
+    "PHARM-C37-058",
+    "PHARM-C37-059",
+    "PHARM-C37-060",
+    "PHARM-C37-061",
+    "PHARM-C37-062",
+    "PHARM-C37-063",
+    "PHARM-C37-064",
+    "PHARM-C37-065"
+   ],
+   "guide": "First-line therapies are bupropion, oral varenicline and nicotine replacement. Varenicline is the most effective and the drug of choice; NRT combines a long-acting patch with a short-acting rescue form. Cytisine, nortriptyline and clonidine are second line."
+  }
+ ]
+}

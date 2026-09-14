@@ -43,10 +43,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 26: 101-105 DONE (119 qs, 8 units) | 27: 106-112 DONE (162 qs, 11 units)
 ### Central and Peripheral Nervous System
 28: 113-117 DONE (118 qs, 10 units) | 29: 118-119 DONE (38 qs, 2 units) | 30: 120-122 DONE (73 qs, 6 units) |
-31: 123-126 | 32: 127-130 | 33: 131-133 |
-34: 134-140 | 35: 141-144 | 36: 145-149 | 37: 150-152
+31: 123-126 DONE (127 qs, 10 units) | 32: 127-130 DONE (113 qs, 10 units) | 33: 131-133 DONE (74 qs, 7 units) |
+34: 134-140 DONE (169 qs, 12 units) | 35: 141-144 DONE (104 qs, 9 units) | 36: 145-149 DONE (153 qs, 15 units) | 37: 150-152 DONE (65 qs, 4 units)
 ### Antimicrobials
-38: 153-154 | 39: 155-158 | 40: 159-163 | 41: 164-166 | 42: 167-170 | 43: 171-173 |
+38: 153-154 DONE (52 qs, 4 units) | 39: 155-158 DONE (83 qs, 4 units) | 40: 159-163 DONE (105 qs, 5 units) | 41: 164-166 DONE (61 qs, 5 units) | 42: 167-170 | 43: 171-173 |
 44: 174-179 | 45: 180-183 | 46: 184-188 | 47: 189-192 | 48: 193-198 | 49: 199-204 | 50: 205-206
 ### Endocrine System
 51: 207-210 | 52: 211-214 | 53: 215-217 | 54: 218-220 | 55: 221-223 | 56: 224-226 | 57: 227-229
@@ -259,7 +259,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   benzodiazepine metabolism groups with remimazolam, longest/shortest acting lists and LETO; DORA;
   melatonin agonists incl. ramelteon/agomelatonin/tasimelteon and the sedation ranking; insomnia
   treatment algorithm).
-- **TOTAL LIVE NOW: 2952 questions, 227 units, chapters 1-30.** General Pharmacology, Autonomic Nervous System, Cardiovascular System and Renal System are COMPLETE; Central/Peripheral Nervous System chapters 28-30 are live.
+- **TOTAL BEFORE THIS BATCH: 3692 questions, 290 units, chapters 1-36.** General Pharmacology, Autonomic Nervous System, Cardiovascular System, Renal System and Central/Peripheral Nervous System through Neurodegenerative Disorders were live.
 - SESSION 4 NOTES: work/fixranges.py (auto-syncs unit [a,b] ranges from the q() order) and
   work/fixexp.py (forces exp to end "(Book p<page>)") were added to make the per-chapter pipeline
   less error-prone; run both before work/validate.py.
@@ -271,9 +271,32 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   Renders for this batch: `python3 work/render.py 89 122 140` (34 PNGs, 1157x1636 — fully legible).
   Note: some scanned spreads are physically swapped in the PDF (e.g. book p92/p93, p106-p109 return in
   a shuffled read order); the printed page number in the image is authoritative — always trust it.
-- NEXT: **ch31 "Opioids: Part 1"** (book p123-126 = pdf p128-131), then ch32 Opioids: Part 2 (127-130),
-  ch33 (131-133) ... (Continue Central and Peripheral Nervous System).
 
+- DONE (session 8): **ch37 "Alcohol and Smoking Dependence"** (p150-152) - 65 qs, 4 units
+  (ethanol/methanol/ethylene-glycol metabolism; disulfiram, naltrexone and acamprosate; LFT-based
+  alcohol-dependence algorithm and acute withdrawal; varenicline receptor actions/adverse effects,
+  nicotine patch/rescue NRT regimen, dry-eye use and smoking-cessation escalation).
+- DONE (session 8): **ch38 "Introduction to Antibacterial Drugs"** (p153-154) - 52 qs, 4 units
+  (all target-based classes and static/cidal exceptions; treatment-selection principles; therapy by
+  wall presence, resistance and infection site; peptide size/porin limitations, oxygen-dependent
+  aminoglycoside uptake and beta-lactam synergy).
+- DONE (session 8): **ch39 "Cell Wall Synthesis Inhibitors: Part 1"** (p155-158) - 83 qs, 4 units
+  (all four peptidoglycan synthesis stages and inhibitor arrows; moderate and long-acting penicillins
+  with SLYGRAM; anti-staphylococcal and antipseudomonal groups; complete amoxicillin/ampicillin table;
+  MRSA/VRSA resistance mechanisms and treatments).
+- DONE (session 8): **ch40 "Cell Wall Synthesis Inhibitors: Part 2"** (p159-163) - 105 qs, 5 units
+  (generation-wise cephalosporin spectrum and every named drug/use; cefiderocol iron-pump mechanism;
+  carbapenems/aztreonam; shared and drug-specific beta-lactam toxicity/dosing; efflux, porin and PBP
+  resistance; Ambler A-D classification, NDM-1 and all old/new inhibitor combinations).
+- DONE (session 8): **ch41 "Cell Wall Synthesis Inhibitors: Part 3"** (p164-166) - 61 qs, 5 units
+  (fosfomycin/cycloserine/bacitracin table; vancomycin action and VISA/VRSA MIC values; MRSA, VRE and
+  C. difficile algorithms; red-man syndrome; Matzke/Sawchuk/Bayesian dosing; other glycopeptides).
+- **TOTAL LIVE NOW: 4058 questions, 312 units, chapters 1-41.** Central and Peripheral Nervous System
+  is COMPLETE; Antimicrobials are live through Cell Wall Synthesis Inhibitors Part 3.
+- SESSION 8 NOTES: source pages p150-166 were rendered at 180 dpi and read directly from the scanned
+  book. `work/gen_ch37_41.py` is the reproducible generator for this batch. Validation, deterministic
+  rebuild, integrity check and Node inline-JavaScript syntax check all pass.
+- NEXT: **ch42 "Protein Synthesis Inhibitors: Part 1"** (book p167-170), then ch43 Part 2 (p171-173).
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
