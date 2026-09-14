@@ -34,9 +34,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 9: 25-28 DONE (99 qs, 7 units) | 10: 29-32 DONE (91 qs, 9 units) |
 11: 33-36 DONE (86 qs, 7 units) |
 ### Autonomic Nervous System
-12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 DONE (126 qs, 7 units) | 14: 48-51 DONE (99 qs, 5 units) | 15: 52-55 DONE (99 qs, 4 units) | 16: 56-57 DONE (86 qs, 6 units) | 17: 58-62 DONE (127 qs, 6 units) | 18: 63-68
+12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 DONE (126 qs, 7 units) | 14: 48-51 DONE (99 qs, 5 units) | 15: 52-55 DONE (99 qs, 4 units) | 16: 56-57 DONE (86 qs, 6 units) | 17: 58-62 DONE (127 qs, 6 units) | 18: 63-68 DONE (129 qs, 9 units)
 ### Cardiovascular System
-19: 69-73 | 20: 74-76 | 21: 77-82 | 22: 83-88 | 23: 89-90 | 24: 91-93 | 25: 94-100
+19: 69-73 DONE (112 qs, 7 units) | 20: 74-76 DONE (75 qs, 6 units) | 21: 77-82 DONE (130 qs, 8 units) |
+22: 83-88 DONE (136 qs, 7 units) | 23: 89-90 | 24: 91-93 | 25: 94-100
 ### Renal System
 26: 101-105 | 27: 106-112
 ### Central and Peripheral Nervous System
@@ -78,7 +79,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status  (last updated: 2026-09-14, session 5)
+## Status  (last updated: 2026-09-14, session 6)
 - DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
 - DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
 - DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
@@ -185,12 +186,34 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   methylphenidate/amphetamine/methamphetamine; ADHD/narcolepsy notes with atomoxetine/viloxazine, solriamfetol,
   pitolisant and modafinil; mixed acting ephedrine/pseudoephedrine/norephedrine; epinephrine dilutions; Dale's
   phenomenon and epinephrine/norepinephrine/isoprenaline BP-HR comparison table with shock/vagal notes).
-- **TOTAL LIVE NOW: 1536 questions, 133 units, chapters 1-17.** General Pharmacology is COMPLETE; Autonomic Nervous System chapters 12-17 are live.
+- DONE (session 6): **ch18 "Anti-adrenergic Drugs"** (p63-68) - 129 qs, 9 units
+  (direct sympatholytics, nonselective and selective α blockers, phenoxybenzamine/phentolamine/tamsulosin/prazosin,
+  α1 receptor locations and clinical uses, scorpion bite prazosin note, β blocker classification by selectivity,
+  generations, vasodilation, ISA, membrane stabilisation, water solubility, pharmacokinetic/antioxidant properties,
+  β blocker adverse effects across brain/bronchi/glucose/exercise/heart/kidney/metabolism, clinical uses and toxicity antidote).
+- DONE (session 6): **ch19 "Antiarrhythmic Drugs: Part 1"** (p69-73) - 112 qs, 7 units
+  (cardiac action potentials, Vaughan Williams classification, SVT/PSVT mechanisms and AV nodal drug preference,
+  atrial flutter/fibrillation and ventricular arrhythmia strategy, class I Na+ channel blockers, quinidine/procainamide/
+  disopyramide toxicities and uses, lidocaine/mexiletine/phenytoin, class Ic drugs and WPW syndrome).
+- DONE (session 6): **ch20 "Antiarrhythmic Drugs: Part 2"** (p74-76) - 75 qs, 6 units
+  (class II/III/IV/V map, β blockers and calcium channel blockers in arrhythmias, class III K+ channel blockers,
+  amiodarone spectrum and organ toxicities, dronedarone, adenosine MOA/route/dosing/uses/adverse effects,
+  digoxin rhythm indications and magnesium sulfate in torsades).
+- DONE (session 6): **ch21 "Drugs Used in CHF"** (p77-82) - 130 qs, 8 units
+  (acute CHF pathophysiology and IV management, inotropes and pulmonary edema drugs, chronic CHF compensation,
+  mortality-reducing oral classes, newly diagnosed CHF approach, neprilysin and soluble guanylate cyclase drugs,
+  digoxin pharmacokinetics, therapeutic levels, Na+/K+ ATPase mechanism, arrhythmia logic, toxicity treatment,
+  organ effects, adverse effects, contraindications and DIGOXIN summary).
+- DONE (session 6): **ch22 "Vasodilators"** (p83-88) - 136 qs, 7 units
+  (vasodilator classification, calcium channel blocker comparison/adverse effects/uses, hydralazine, minoxidil,
+  diazoxide and fenoldopam, nitroglycerin mechanism/uses/tolerance/contraindications, isosorbide nitrates,
+  sodium nitroprusside, RAAS physiology, ACE inhibition, contraindications, ACE inhibitors, ARBs, aliskiren and captopril test).
+- **TOTAL LIVE NOW: 2118 questions, 170 units, chapters 1-22.** General Pharmacology and Autonomic Nervous System are COMPLETE; Cardiovascular System chapters 19-22 are live.
 - SESSION 4 NOTES: work/fixranges.py (auto-syncs unit [a,b] ranges from the q() order) and
   work/fixexp.py (forces exp to end "(Book p<page>)") were added to make the per-chapter pipeline
   less error-prone; run both before work/validate.py.
-- NEXT: **ch18 "Anti-adrenergic Drugs"** (book p63-68 = pdf p68-73), then ch19 (69-73) ...
-  (Finish Autonomic Nervous System, then start Cardiovascular System).
+- NEXT: **ch23 "Antihypertensive Drugs"** (book p89-90 = pdf p94-95), then ch24 (91-93) ...
+  (Continue Cardiovascular System).
 
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).

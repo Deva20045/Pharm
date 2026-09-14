@@ -1,0 +1,2036 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C21-001",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "The most common cause of acute CHF in the chapter is:",
+   "opts": [
+    "Myocardial infarction",
+    "Rheumatic heart disease",
+    "Cardiomyopathy only",
+    "Renovascular hypertension"
+   ],
+   "ans": 0,
+   "exp": "Under acute CHF, the m/c cause is myocardial infarction. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-002",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "In acute CHF, myocardial infarction causes acute injury with decreased:",
+   "opts": [
+    "Contraction",
+    "Back pressure",
+    "Pulmonary capillary pressure only",
+    "Aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The pathophysiology diagram says acute injury (MI): ↓ contraction. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-003",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "Reduced cardiac contraction in acute CHF causes stasis of:",
+   "opts": [
+    "Blood",
+    "Bile",
+    "Urine",
+    "Aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The heart diagram labels stasis of blood. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-004",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "Stasis of blood in acute CHF increases back pressure toward the:",
+   "opts": [
+    "Lung",
+    "Kidney only",
+    "Prostate",
+    "Iris"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows ↑ back pressure from heart to lung. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-005",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "In the lung, acute CHF causes engorgement of:",
+   "opts": [
+    "Pulmonary capillaries",
+    "Renal tubules",
+    "Corneal vessels",
+    "Prostatic urethra"
+   ],
+   "ans": 0,
+   "exp": "The lung triangle says engorged pulmonary capillaries. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-006",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "Engorged pulmonary capillaries lead to extravasation of plasma into:",
+   "opts": [
+    "Lung parenchyma",
+    "Renal cortex",
+    "Atrial accessory pathway",
+    "Prostatic urethra"
+   ],
+   "ans": 0,
+   "exp": "The diagram says extravasation of plasma into parenchyma. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-007",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "The lung result of acute CHF pathophysiology is:",
+   "opts": [
+    "Pulmonary edema",
+    "Pulmonary fibrosis from iodine",
+    "Bronchial asthma",
+    "Pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "The final label is pulmonary edema. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-008",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "A clinical presentation of acute CHF is:",
+   "opts": [
+    "Chest pain",
+    "Xanthopsia only",
+    "Floppy iris",
+    "Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "The clinical presentation list includes chest pain. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-009",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "Breathlessness in acute CHF is due to:",
+   "opts": [
+    "Pulmonary edema",
+    "Bronchial asthma always",
+    "Renal failure only",
+    "Atrial flutter only"
+   ],
+   "ans": 0,
+   "exp": "The clinical list says breathlessness: due to pulmonary edema. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-010",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "The route of drug administration in acute CHF management is:",
+   "opts": [
+    "IV",
+    "Oral only",
+    "Topical",
+    "Inhaled only"
+   ],
+   "ans": 0,
+   "exp": "The management section says route of administration: IV. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-011",
+   "sec": "Acute CHF Pathophysiology and IV Management",
+   "page": 77,
+   "q": "The treatment of choice for acute CHF is:",
+   "opts": [
+    "Dobutamine plus furosemide",
+    "Sacubitril plus valsartan only",
+    "Digoxin plus atropine",
+    "Sildenafil plus tadalafil"
+   ],
+   "ans": 0,
+   "exp": "The acute CHF management line says TOC: dobutamine + furosemide. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-012",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Dobutamine increases contraction by stimulating:",
+   "opts": [
+    "β1 receptors of the Gs subtype",
+    "β3 receptors in bladder",
+    "α1a receptors in prostate",
+    "Adenosine Gi receptors"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine MOA says stimulate β1 receptor (Gs subtype). (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-013",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "β1-Gs stimulation by dobutamine increases:",
+   "opts": [
+    "cAMP",
+    "cGMP only",
+    "Uric acid",
+    "Aldosterone only"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine flow says ↑ cAMP → ↑ cardiac contraction. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-014",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Dobutamine increases cardiac contraction but does not affect:",
+   "opts": [
+    "Heart rate",
+    "Contractility",
+    "cAMP",
+    "β1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The dobutamine MOA explicitly says does not affect HR. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-015",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "If a patient is on β blockers, the acute CHF inotrope path moves toward:",
+   "opts": [
+    "Phosphodiesterase-3 inhibitors",
+    "α1a blockers",
+    "Direct renin inhibitors",
+    "PDE5 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The table places PDE3 inhibitors as the alternative inotrope group when β-blocker issue is shown. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-016",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "The PDE3 inhibitors listed for acute CHF are:",
+   "opts": [
+    "Milrinone and amrinone/inamrinone",
+    "Sildenafil and tadalafil",
+    "Dofetilide and ibutilide",
+    "Prazosin and doxazosin"
+   ],
+   "ans": 0,
+   "exp": "The PDE3 inhibitor list includes milrinone and amrinone/inamrinone. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-017",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Amrinone/inamrinone is associated with which side effect?",
+   "opts": [
+    "Thrombocytopenia",
+    "Xanthopsia",
+    "Floppy iris",
+    "Dry cough"
+   ],
+   "ans": 0,
+   "exp": "The inamrinone note says S/E: thrombocytopenia. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-018",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "PDE3 inhibitors act as inodilators by increasing:",
+   "opts": [
+    "cAMP",
+    "cGMP",
+    "Renin",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The PDE3 MOA box says inodilator: ↑ cAMP. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-019",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "In the heart, PDE3 inhibitors:",
+   "opts": [
+    "Increase contraction",
+    "Decrease all contraction",
+    "Only block AV node",
+    "Only reduce aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The inodilator flow to heart says ↑ contraction. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-020",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "In blood vessels, PDE3 inhibitors relax smooth muscle to cause:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Thrombosis",
+    "Digitalization"
+   ],
+   "ans": 0,
+   "exp": "The flow to blood vessel says relax smooth muscle → vasodilation. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-021",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Levosimendan causes vasodilation by opening:",
+   "opts": [
+    "K+ channels",
+    "Na+ channels",
+    "PDE5",
+    "Renin channels"
+   ],
+   "ans": 0,
+   "exp": "The levosimendan MOA says open K+ channel → vasodilation. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-022",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Levosimendan also sensitizes myocardium to:",
+   "opts": [
+    "Ca2+ ions",
+    "Iodide",
+    "Uric acid",
+    "Adenosine"
+   ],
+   "ans": 0,
+   "exp": "The levosimendan line says sensitizes myocardium to Ca2+ ions. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-023",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Furosemide immediately relieves pulmonary edema by increasing prostaglandins, causing venodilation and decreasing:",
+   "opts": [
+    "Preload",
+    "Afterload only",
+    "Contractility only",
+    "AV conduction"
+   ],
+   "ans": 0,
+   "exp": "The furosemide MOA says prostaglandins → venodilator → ↓ preload → immediately relieves pulmonary edema. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-024",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "The second mechanism of furosemide for pulmonary edema is:",
+   "opts": [
+    "Diuresis",
+    "Na+ channel blockade",
+    "β1 stimulation",
+    "Neprilysin inhibition"
+   ],
+   "ans": 0,
+   "exp": "The furosemide MOA includes b. diuresis. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-025",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "If furosemide gives no response in acute pulmonary edema, the next listed drug is:",
+   "opts": [
+    "Nitroglycerin",
+    "Digoxin",
+    "Prazosin",
+    "Ibutilide"
+   ],
+   "ans": 0,
+   "exp": "The table arrow says furosemide no response → nitroglycerine. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-026",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Nitroglycerin relieves pulmonary edema by:",
+   "opts": [
+    "Venodilation with decreased preload",
+    "Increasing afterload",
+    "Blocking AV node",
+    "Increasing aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The NTG MOA cell says venodilation → ↓ preload. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-027",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Nesiritide is a:",
+   "opts": [
+    "BNP analogue",
+    "β blocker",
+    "Class Ic antiarrhythmic",
+    "α1a blocker"
+   ],
+   "ans": 0,
+   "exp": "The table labels nesiritide as BNP analogue. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-028",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "page": 77,
+   "q": "Nesiritide is metabolized by the neutral endopeptidase:",
+   "opts": [
+    "Neprilysin",
+    "ACE",
+    "COMT",
+    "MAO"
+   ],
+   "ans": 0,
+   "exp": "The note says neutral endopeptidase (NEP): neprilysin. (Book p77)"
+  },
+  {
+   "id": "PHARM-C21-029",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Chronic CHF pathophysiology starts with cardiomyopathy or:",
+   "opts": [
+    "Rheumatic heart disease",
+    "Myocardial infarction as only cause",
+    "BPH",
+    "Insulinoma"
+   ],
+   "ans": 0,
+   "exp": "The chronic CHF flow begins cardiomyopathy/rheumatic heart disease. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-030",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The first hemodynamic change in chronic CHF is gradual decrease in:",
+   "opts": [
+    "Cardiac output",
+    "Renin always",
+    "Oxygen demand",
+    "Aldosterone always"
+   ],
+   "ans": 0,
+   "exp": "The flow says gradual ↓ in cardiac output. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-031",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Gradual fall in cardiac output activates:",
+   "opts": [
+    "Compensatory mechanisms",
+    "Only corneal deposition",
+    "Aldehyde dehydrogenase",
+    "PDE5 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The flow says activate compensatory mechanisms. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-032",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Decompensated chronic CHF has features similar to:",
+   "opts": [
+    "Acute CHF",
+    "BPH",
+    "Glaucoma",
+    "Raynaud disease"
+   ],
+   "ans": 0,
+   "exp": "The left branch says decompensated chronic CHF → features similar to acute CHF. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-033",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Decompensated chronic CHF increases mortality partly by decreasing:",
+   "opts": [
+    "Oxygen supply",
+    "Oxygen demand",
+    "Renin",
+    "Catecholamine release"
+   ],
+   "ans": 0,
+   "exp": "The left branch leads to ↓ O2 supply → ↑ mortality. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-034",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Compensated chronic CHF is driven by increased release of:",
+   "opts": [
+    "Catecholamines",
+    "Only BNP breakdown products",
+    "Only acetylcholine",
+    "Only iodine"
+   ],
+   "ans": 0,
+   "exp": "The compensated branch says ↑ release of catecholamines. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-035",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The catecholamines listed in compensated chronic CHF are:",
+   "opts": [
+    "Epinephrine, norepinephrine and dopamine",
+    "Serotonin, histamine and bradykinin",
+    "Insulin, glucagon and aldosterone",
+    "Adenosine, atropine and digoxin"
+   ],
+   "ans": 0,
+   "exp": "The flow lists epinephrine, norepinephrine and dopamine. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-036",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Catecholamine α1 stimulation in chronic CHF causes:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilation",
+    "Diuresis",
+    "AV node block"
+   ],
+   "ans": 0,
+   "exp": "The α1 branch says vasoconstriction. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-037",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Catecholamine β1 stimulation in the heart increases:",
+   "opts": [
+    "Contraction and heart rate",
+    "Aqueous humour and IOP",
+    "Uric acid and HDL",
+    "Renal GFR only"
+   ],
+   "ans": 0,
+   "exp": "The β1 heart branch lists ↑ contraction and ↑ HR. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-038",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Catecholamine β1 stimulation in the kidney activates:",
+   "opts": [
+    "RAAS",
+    "PDE5",
+    "AChE",
+    "Na+ channel blockade"
+   ],
+   "ans": 0,
+   "exp": "The β1 kidney branch says RAAS activation. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-039",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "RAAS activation in chronic CHF causes angiotensin-mediated:",
+   "opts": [
+    "Vasoconstriction",
+    "Bronchodilation",
+    "K+ retention only",
+    "Aqueous humour fall only"
+   ],
+   "ans": 0,
+   "exp": "The kidney branch lists angiotensin: vasoconstriction. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-040",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Aldosterone in chronic CHF causes retention of:",
+   "opts": [
+    "Na+ and H2O",
+    "K+ only",
+    "Uric acid only",
+    "Iodide only"
+   ],
+   "ans": 0,
+   "exp": "The RAAS branch says aldosterone: Na+ + H2O retention. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-041",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Compensated chronic CHF causes cardiac remodeling, defined here as:",
+   "opts": [
+    "Hypertrophy of cardiac muscle",
+    "Apoptosis of renal JG cells",
+    "Atrial stasis only",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "The flow labels cardiac remodeling as hypertrophy of cardiac muscle. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-042",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Cardiac remodeling increases mortality by increasing:",
+   "opts": [
+    "Oxygen demand",
+    "Oxygen supply",
+    "Aqueous outflow",
+    "LDL clearance"
+   ],
+   "ans": 0,
+   "exp": "The compensated branch leads to ↑ O2 demand → ↑ mortality. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-043",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Decompensated chronic CHF and acute CHF presenting similarly is called:",
+   "opts": [
+    "Acute heart failure syndrome",
+    "WPW syndrome",
+    "Monday disease",
+    "Ceruloderma"
+   ],
+   "ans": 0,
+   "exp": "The note brackets decompensated chronic CHF and acute CHF as acute heart failure syndrome. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-044",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The route of administration in chronic CHF management is:",
+   "opts": [
+    "Oral",
+    "IV only",
+    "Sublingual only",
+    "Nebulised only"
+   ],
+   "ans": 0,
+   "exp": "The chronic CHF management section says route of administration: oral. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-045",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The best β blockers listed to decrease mortality in chronic CHF are:",
+   "opts": [
+    "Carvedilol, metoprolol, bisoprolol and nebivolol",
+    "Propranolol, timolol, nadolol and pindolol",
+    "Tamsulosin, silodosin, prazosin and doxazosin",
+    "Quinidine, procainamide, lidocaine and flecainide"
+   ],
+   "ans": 0,
+   "exp": "The mortality table lists carvedilol, metoprolol, bisoprolol and nebivolol. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-046",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "β blockers reduce mortality in chronic CHF by inhibiting β1 in the heart, lowering:",
+   "opts": [
+    "Contraction and heart rate",
+    "BNP and cGMP",
+    "Uric acid and LDL",
+    "Aldosterone breakdown"
+   ],
+   "ans": 0,
+   "exp": "The β-blocker MOA cell says inhibit β1 in heart → ↓ contraction, ↓ HR. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-047",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Ivabradine decreases mortality by decreasing:",
+   "opts": [
+    "Heart rate",
+    "Afterload through α1 block",
+    "Na+-K+ ATPase",
+    "Neprilysin"
+   ],
+   "ans": 0,
+   "exp": "The ivabradine MOA row says ↓ heart rate. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-048",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Isosorbide dinitrate plus hydralazine reduces mortality by:",
+   "opts": [
+    "Vasodilation",
+    "Increasing renin",
+    "Blocking AV node only",
+    "Raising preload"
+   ],
+   "ans": 0,
+   "exp": "The table lists vasodilation as its MOA. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-049",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Vericiguat in chronic CHF produces:",
+   "opts": [
+    "Vasodilation",
+    "Na+ channel blockade",
+    "β3 bladder relaxation",
+    "AChE inhibition"
+   ],
+   "ans": 0,
+   "exp": "Vericiguat shares the vasodilation MOA cell in the table. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-050",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "ACE inhibitors, ARBs, spironolactone and sacubitril reduce mortality by inhibiting:",
+   "opts": [
+    "RAAS",
+    "PDE5 only",
+    "Adenosine receptors",
+    "Na+ channels"
+   ],
+   "ans": 0,
+   "exp": "The table groups these drugs with MOA inhibit RAAS. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-051",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The SGLT-2 blocker listed in CHF is:",
+   "opts": [
+    "Canagliflozin",
+    "Sotagliflozin",
+    "Dapagliflozin only",
+    "Empagliflozin only"
+   ],
+   "ans": 0,
+   "exp": "The table explicitly lists SGLT-2 blockers: canagliflozin. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-052",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "The SGLT-1/2 blocker listed in CHF is:",
+   "opts": [
+    "Sotagliflozin",
+    "Canagliflozin",
+    "Vericiguat",
+    "Ivabradine"
+   ],
+   "ans": 0,
+   "exp": "The table lists SGLT-1/2 blockers: sotagliflozin. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-053",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "SGLT blockers reduce mortality by decreasing retention of:",
+   "opts": [
+    "Na+ and H2O",
+    "K+ only",
+    "Ca2+ only",
+    "Iodine"
+   ],
+   "ans": 0,
+   "exp": "The table MOA says ↓ Na+ + H2O retention. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-054",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Symptomatic drugs in chronic CHF include:",
+   "opts": [
+    "Furosemide and digoxin",
+    "Flecainide and adenosine",
+    "Prazosin and silodosin",
+    "Sildenafil and tadalafil"
+   ],
+   "ans": 0,
+   "exp": "The symptomatic management list names furosemide and digoxin. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-055",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "page": 78,
+   "q": "Furosemide helps symptomatic CHF by reducing:",
+   "opts": [
+    "Volume overload",
+    "Renin testing error",
+    "Floppy iris",
+    "Corneal deposits"
+   ],
+   "ans": 0,
+   "exp": "The symptomatic list says furosemide: ↓ volume overload. (Book p78)"
+  },
+  {
+   "id": "PHARM-C21-056",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "The initial drug in a newly diagnosed CHF case is:",
+   "opts": [
+    "Furosemide",
+    "Digoxin",
+    "Flecainide",
+    "Adenosine"
+   ],
+   "ans": 0,
+   "exp": "The Rx approach says initial drug: furosemide. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-057",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "The preferred affordable initial mortality-reducing drug pair is:",
+   "opts": [
+    "Sacubitril plus valsartan",
+    "Digoxin plus atropine",
+    "Sildenafil plus tadalafil",
+    "Prazosin plus terazosin"
+   ],
+   "ans": 0,
+   "exp": "The approach says sacubitril + valsartan is preferred if affordable. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-058",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Sacubitril plus valsartan is preferred over:",
+   "opts": [
+    "ACE inhibitor or ARB",
+    "Digoxin and furosemide",
+    "Adenosine and MgSO4",
+    "β blocker monotherapy only"
+   ],
+   "ans": 0,
+   "exp": "The comparison shows sacubitril+valsartan > ACE inhibitor/ARB. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-059",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Sacubitril and valsartan are fused at the:",
+   "opts": [
+    "Molecular level",
+    "Nuclear level",
+    "Renal artery level",
+    "Atrial node level"
+   ],
+   "ans": 0,
+   "exp": "The note says fused at molecular level. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-060",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "ACEI/ARB therapy in new CHF starts at low/suboptimal dose and is gradually increased to:",
+   "opts": [
+    "Maximum tolerable dose",
+    "Toxic dose",
+    "No dose change ever",
+    "Only IV dose"
+   ],
+   "ans": 0,
+   "exp": "The note says gradually increased to maximum tolerable dose. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-061",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Increasing ACEI/ARB can raise renin and vasodilation, creating risk of:",
+   "opts": [
+    "Postural hypotension",
+    "Xanthopsia",
+    "Floppy iris",
+    "Agranulocytosis only"
+   ],
+   "ans": 0,
+   "exp": "The ACEI/ARB note says ↑ renin → ↑ vasodilation → risk of postural hypotension. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-062",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "β blockers in CHF are started while increasing ACEI/ARB toward:",
+   "opts": [
+    "Maximum tolerable dose",
+    "Zero dose",
+    "Immediate toxic dose",
+    "Only topical dose"
+   ],
+   "ans": 0,
+   "exp": "The β-blocker start note says while increasing ACE-I/ARB to maximum tolerable dose. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-063",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "β blockers in CHF are begun at suboptimal dose and gradually increased to prevent:",
+   "opts": [
+    "Decompensation",
+    "Floppy iris",
+    "Nitrate tolerance",
+    "Torsades"
+   ],
+   "ans": 0,
+   "exp": "The page says at suboptimal dose and gradually increase to prevent decompensation. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-064",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "If the first CHF steps give no response, the page says to:",
+   "opts": [
+    "Add other drugs",
+    "Stop all therapy",
+    "Use only adenosine",
+    "Perform defibrillation"
+   ],
+   "ans": 0,
+   "exp": "The flow below β blockers says if no response → add other drugs. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-065",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Sacubitril inhibits:",
+   "opts": [
+    "NEP/neprilysin",
+    "ACE only",
+    "PDE5 only",
+    "Na+-K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "The drug map says sacubitril MOA: inhibits NEP/neprilysin. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-066",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "By inhibiting neprilysin, sacubitril increases:",
+   "opts": [
+    "BNP",
+    "Aldosterone",
+    "Uric acid",
+    "Aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The flow under sacubitril says ↑ BNP. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-067",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "BNP stands for:",
+   "opts": [
+    "Brain natriuretic peptide",
+    "Bronchial nitric peptide",
+    "Beta nodal protein",
+    "Blood nephron peptide"
+   ],
+   "ans": 0,
+   "exp": "The page expands BNP as Brain Natriuretic Peptide. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-068",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Sacubitril can cause angioedema and is contraindicated with:",
+   "opts": [
+    "ACE inhibitors",
+    "β blockers",
+    "Furosemide",
+    "Digoxin"
+   ],
+   "ans": 0,
+   "exp": "The side-effect note says angioedema, C/I with ACE-I. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-069",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Vericiguat is a:",
+   "opts": [
+    "Guanylate cyclase stimulator",
+    "β blocker",
+    "Direct renin inhibitor",
+    "Na+ channel blocker"
+   ],
+   "ans": 0,
+   "exp": "The vericiguat MOA says guanylate cyclase stimulator. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-070",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Vericiguat increases:",
+   "opts": [
+    "cGMP",
+    "cAMP only",
+    "LDL",
+    "Renin"
+   ],
+   "ans": 0,
+   "exp": "The vericiguat flow says ↑ cGMP. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-071",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "The final effect of vericiguat in CHF is:",
+   "opts": [
+    "Vasodilation",
+    "Bronchoconstriction",
+    "Atrial thrombosis",
+    "Na+ channel opening"
+   ],
+   "ans": 0,
+   "exp": "The vericiguat pathway ends with vasodilation. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-072",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Omapatrilat is obsolete because it caused severe:",
+   "opts": [
+    "Angioedema",
+    "Xanthopsia",
+    "Hirsutism",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "The note says omapatrilat is obsolete causing severe angioedema. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-073",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Death from omapatrilat angioedema occurs due to:",
+   "opts": [
+    "Laryngeal edema",
+    "Renal edema",
+    "Ankle edema",
+    "Corneal edema"
+   ],
+   "ans": 0,
+   "exp": "The note says death due to laryngeal edema. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-074",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "page": 79,
+   "q": "Omapatrilat inhibits:",
+   "opts": [
+    "NEP and ACE",
+    "PDE5 and COMT",
+    "Na+ and K+ channels",
+    "β1 and β2 receptors"
+   ],
+   "ans": 0,
+   "exp": "The MOA note calls it a vasopeptidase inhibitor inhibiting NEP and ACE. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-075",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Digoxin is derived from:",
+   "opts": [
+    "Digitalis lanata",
+    "Rauwolfia serpentina",
+    "Atropa belladonna",
+    "Papaver somniferum"
+   ],
+   "ans": 0,
+   "exp": "The source line says Digitalis lanata. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-076",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Digitalis lanata is also called:",
+   "opts": [
+    "White foxglove plant",
+    "Red cinchona bark",
+    "Purple periwinkle",
+    "Green tea leaf"
+   ],
+   "ans": 0,
+   "exp": "The page labels Digitalis lanata as white foxglove plant. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-077",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Digoxin has:",
+   "opts": [
+    "Good oral absorption",
+    "No oral absorption",
+    "Only inhalational absorption",
+    "Only topical absorption"
+   ],
+   "ans": 0,
+   "exp": "The pharmacokinetics section says good oral absorption. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-078",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Digoxin half-life is about:",
+   "opts": [
+    "36-48 hours",
+    "1-5 seconds",
+    "53 days",
+    "Less than 1 second"
+   ],
+   "ans": 0,
+   "exp": "The distribution line gives T1/2: 36-48 hours. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-079",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Time for digitalization to achieve steady-state plasma concentration is:",
+   "opts": [
+    "7-10 days",
+    "1-5 seconds",
+    "53 days",
+    "Less than 1 hour"
+   ],
+   "ans": 0,
+   "exp": "The page says digitalization takes 7-10 days. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-080",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Therapeutic drug monitoring for digoxin is started after digitalization to avoid:",
+   "opts": [
+    "False low values",
+    "False high glucose",
+    "False low renin",
+    "False positive captopril test"
+   ],
+   "ans": 0,
+   "exp": "The TDM note says start after 7-10 days to avoid false low values. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-081",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Normal plasma concentration of digoxin is:",
+   "opts": [
+    "0.5-2.0 ng/mL",
+    "0.5-0.9 ng/mL",
+    "2.0-5.0 ng/mL",
+    "6-12 mg"
+   ],
+   "ans": 0,
+   "exp": "The line says normal plasma concentration: 0.5-2.0 ng/ml. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-082",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 79,
+   "q": "Therapeutic plasma concentration of digoxin is:",
+   "opts": [
+    "0.5-0.9 ng/mL",
+    "0.5-2.0 ng/mL",
+    "2.0-3.0 ng/mL",
+    "36-48 ng/mL"
+   ],
+   "ans": 0,
+   "exp": "The line says therapeutic plasma concentration: 0.5-0.9 ng/ml. (Book p79)"
+  },
+  {
+   "id": "PHARM-C21-083",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 80,
+   "q": "There is no added advantage when digoxin dose exceeds:",
+   "opts": [
+    "0.9 ng/mL",
+    "0.5 ng/mL",
+    "1.2 ng/mL",
+    "2.0 ng/mL"
+   ],
+   "ans": 0,
+   "exp": "The note says no added advantage if dose >0.9 ng/ml. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-084",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 80,
+   "q": "Digoxin toxicity is classically above:",
+   "opts": [
+    "2.0 ng/mL",
+    "0.9 ng/mL",
+    "0.5 ng/mL",
+    "0.1 ng/mL"
+   ],
+   "ans": 0,
+   "exp": "The toxicity bullet says >2.0 ng/ml. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-085",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 80,
+   "q": "In atrial fibrillation, digoxin levels above which value increase mortality risk?",
+   "opts": [
+    "1.2 ng/mL",
+    "0.5 ng/mL",
+    "0.9 ng/mL",
+    "0.1 ng/mL"
+   ],
+   "ans": 0,
+   "exp": "The toxicity note says >1.2 ng/ml: ↑ risk of mortality in atrial fibrillation. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-086",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 80,
+   "q": "Digoxin is excreted by the:",
+   "opts": [
+    "Kidney",
+    "Lung",
+    "Skin",
+    "Bile only"
+   ],
+   "ans": 0,
+   "exp": "The excretion line says renal. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-087",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "page": 80,
+   "q": "Dose variation with digoxin can occur due to electrolyte disturbances such as hypokalemia and:",
+   "opts": [
+    "Hypercalcemia",
+    "Hypocalcemia only",
+    "Hyponatremia only",
+    "Hypernatremia only"
+   ],
+   "ans": 0,
+   "exp": "The note lists hypokalemia, hypercalcemia, etc. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-088",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Digoxin directly blocks the:",
+   "opts": [
+    "Na+-K+ ATPase pump",
+    "PDE5 enzyme",
+    "ACE enzyme",
+    "Adenosine uptake protein"
+   ],
+   "ans": 0,
+   "exp": "The mechanism line says digoxin blocks Na+-K+ ATPase pump. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-089",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "K+ occupancy of Na+-K+ ATPase causes:",
+   "opts": [
+    "Decreased digoxin binding",
+    "Increased digoxin binding",
+    "No effect on digoxin",
+    "Immediate AV block only"
+   ],
+   "ans": 0,
+   "exp": "The diagram says K+ occupies Na+-K+ ATPase → ↓ digoxin binding. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-090",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "By blocking Na+-K+ ATPase, digoxin increases intracellular:",
+   "opts": [
+    "Na+",
+    "K+ only",
+    "Iodide",
+    "cGMP"
+   ],
+   "ans": 0,
+   "exp": "The right branch says ↑ intracellular Na+. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-091",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Increased intracellular Na+ blocks the:",
+   "opts": [
+    "Na+-Ca2+ exchanger",
+    "Na+-iodide symporter",
+    "PDE3 enzyme",
+    "ACE enzyme"
+   ],
+   "ans": 0,
+   "exp": "The mechanism flow says block Na+-Ca2+ exchanger (antiporter). (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-092",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Blocking the Na+-Ca2+ exchanger increases intracellular:",
+   "opts": [
+    "Ca2+",
+    "K+ only",
+    "Iodide",
+    "Uric acid"
+   ],
+   "ans": 0,
+   "exp": "The flow says ↑ intracellular Ca2+. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-093",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "The final inotropic effect of digoxin is increased:",
+   "opts": [
+    "Contraction of myocardium",
+    "Bronchial relaxation",
+    "Renin release",
+    "Uveoscleral outflow"
+   ],
+   "ans": 0,
+   "exp": "The pathway ends with ↑ contraction of myocardium. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-094",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Digoxin blockade also increases extracellular K+, producing:",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hyponatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "The left branch says ↑ extracellular K+ (hyperkalemia). (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-095",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Hyperkalemia limits digoxin binding to:",
+   "opts": [
+    "Na+-K+ ATPase",
+    "PDE5",
+    "Guanylate cyclase",
+    "ACE"
+   ],
+   "ans": 0,
+   "exp": "The left branch says hyperkalemia limits binding of digoxin to Na+-K+ ATPase. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-096",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Diuretic-induced hypokalemia increases availability of Na+-K+ ATPase for binding and causes:",
+   "opts": [
+    "Digoxin toxicity",
+    "Digoxin antidote effect",
+    "Reduced toxicity",
+    "No digoxin effect"
+   ],
+   "ans": 0,
+   "exp": "The note says diuretics → hypokalemia → ↑ availability of Na+-K+ ATPase for binding → digoxin toxicity. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-097",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "During repolarization, the page notes opening of K+ channels and closing of:",
+   "opts": [
+    "Ca2+ channels",
+    "Na+-K+ ATPase",
+    "ACE",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The diagram says repolarization → opening of K+ channel + closing of Ca2+ channel. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-098",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Delayed afterdepolarization from digoxin is due to delayed closure of:",
+   "opts": [
+    "Ca2+ channels",
+    "K+ channels",
+    "ACE",
+    "Renin"
+   ],
+   "ans": 0,
+   "exp": "The ventricular myocardium note says DAD arrhythmia due to delayed closure of Ca2+ channel. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-099",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "The most common digoxin-induced arrhythmia is:",
+   "opts": [
+    "Ventricular bigeminy",
+    "Atrial flutter",
+    "Mobitz type II block",
+    "Sinus bradycardia only"
+   ],
+   "ans": 0,
+   "exp": "The DAD flow marks ventricular bigeminy as m/c digoxin-induced arrhythmia. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-100",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Extrasystoles from digoxin can manifest as ventricular bigeminy or:",
+   "opts": [
+    "Ventricular trigeminy",
+    "Atrial flutter only",
+    "WPW syndrome",
+    "Long-QT pacing"
+   ],
+   "ans": 0,
+   "exp": "The extrasystole branch lists ventricular bigeminy and ventricular trigeminy. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-101",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "With further increase in digoxin, ventricular tachycardia may become self-sustained, meaning:",
+   "opts": [
+    "Every cell produces action potential",
+    "No cell produces action potential",
+    "Only SA node fires",
+    "Only AV node blocks"
+   ],
+   "ans": 0,
+   "exp": "The VT branch says self-sustained (every cell produces action potential). (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-102",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "Digoxin-induced ventricular tachycardia may be bidirectional due to:",
+   "opts": [
+    "Anterograde/retrograde propagation of action potential",
+    "Only atrial stasis",
+    "Only renin release",
+    "Only α1 blockade"
+   ],
+   "ans": 0,
+   "exp": "The VT note says bidirectional (antero/retrograde propagation of action potential). (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-103",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "page": 80,
+   "q": "In digoxin-induced ventricular fibrillation, the page says to avoid:",
+   "opts": [
+    "Defibrillation",
+    "Digibind",
+    "Lidocaine",
+    "Amiodarone"
+   ],
+   "ans": 0,
+   "exp": "The final line says ventricular fibrillation: avoid defibrillation. (Book p80)"
+  },
+  {
+   "id": "PHARM-C21-104",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "Digoxin-toxic ventricular tachycardia or ventricular fibrillation is treated with:",
+   "opts": [
+    "Lidocaine or amiodarone",
+    "Adenosine or atropine",
+    "Prazosin or terazosin",
+    "Sildenafil or tadalafil"
+   ],
+   "ans": 0,
+   "exp": "The Rx list says lidocaine/amiodarone: Rx of V Tach or V Fib. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-105",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "The antidote for digoxin toxicity is:",
+   "opts": [
+    "Digibind",
+    "Glucagon",
+    "Protamine",
+    "Atropine"
+   ],
+   "ans": 0,
+   "exp": "The toxicity treatment list says antidote: Digibind. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-106",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "Dialysis is not done in digoxin toxicity because digoxin has:",
+   "opts": [
+    "High volume of distribution",
+    "Zero tissue distribution",
+    "Only intravascular distribution",
+    "Very short half-life"
+   ],
+   "ans": 0,
+   "exp": "The treatment list says dialysis not done due to high volume of distribution. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-107",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "At normal dose, digoxin has which autonomic effect on the SA and AV nodes?",
+   "opts": [
+    "Parasympathomimetic nodal block",
+    "Pure sympathomimetic stimulation",
+    "β3 agonism",
+    "α1 blockade"
+   ],
+   "ans": 0,
+   "exp": "The organ-level section says at normal dose: parasympathomimetic SA nodal and AV nodal block. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-108",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "At normal dose, increased Ca2+ in atrial myocardial cells can cause:",
+   "opts": [
+    "Atrial tachycardia",
+    "Ventricular standstill only",
+    "HOCM cure",
+    "Pulmonary edema"
+   ],
+   "ans": 0,
+   "exp": "The right branch says ↑ Ca2+ in atrial myocardial cell: atrial tachycardia. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-109",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "The most specific digoxin-induced arrhythmia is:",
+   "opts": [
+    "Atrial tachycardia",
+    "Ventricular bigeminy",
+    "Atrial flutter",
+    "Mobitz type II block"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels atrial tachycardia as the most specific digoxin induced arrhythmia. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-110",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "Therapeutically, digoxin converts atrial flutter into atrial fibrillation because AF is:",
+   "opts": [
+    "Easier to control ventricular rate",
+    "Always fatal",
+    "Impossible to anticoagulate",
+    "Only a ventricular arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "The therapeutic-use line says atrial flutter → atrial fibrillation (easier to control ventricular rate). (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-111",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "At high dose, digoxin becomes:",
+   "opts": [
+    "Sympathomimetic",
+    "Pure parasympatholytic",
+    "Pure β blocker",
+    "Direct renin inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The high-dose line says sympathomimetic. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-112",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "page": 81,
+   "q": "High-dose digoxin increases:",
+   "opts": [
+    "Heart rate and contraction",
+    "Only AV block",
+    "Only aqueous outflow",
+    "Only uveoscleral flow"
+   ],
+   "ans": 0,
+   "exp": "The high-dose note says ↑ heart rate, ↑ contraction. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-113",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "The most common and earliest side effect of digoxin is:",
+   "opts": [
+    "Nausea and vomiting",
+    "Xanthopsia",
+    "Gynecomastia",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list says nausea and vomiting: m/c and earliest. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-114",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Xanthopsia means:",
+   "opts": [
+    "Yellow vision",
+    "Blue-grey skin",
+    "Whorl cornea",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list writes xanthopsia (yellow vision). (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-115",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Digoxin can cause which endocrine side effect?",
+   "opts": [
+    "Gynecomastia",
+    "Hirsutism in females",
+    "Hypothyroidism only",
+    "Cushing syndrome"
+   ],
+   "ans": 0,
+   "exp": "Gynecomastia appears in the side-effect list. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-116",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Digoxin can cause which electrolyte side effect?",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hyponatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalemia is in the side-effect list. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-117",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Digoxin causes arrhythmias of all types except atrial flutter and:",
+   "opts": [
+    "Mobitz type II block",
+    "Ventricular tachycardia",
+    "Atrial tachycardia",
+    "Ventricular bigeminy"
+   ],
+   "ans": 0,
+   "exp": "The arrhythmia side-effect line says all types except atrial flutter and Mobitz type II block. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-118",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Which condition increases risk of digoxin toxicity by increasing Ca2+?",
+   "opts": [
+    "Hypercalcemia",
+    "Hypocalcemia",
+    "Hyponatremia",
+    "Low BNP"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia is listed under conditions increasing risk. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-119",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Which potassium disturbance increases digoxin toxicity risk?",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Normokalemia",
+    "Potassium excess only protective"
+   ],
+   "ans": 0,
+   "exp": "Hypokalemia appears in the contraindication/risk list. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-120",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Which magnesium disturbance increases digoxin toxicity risk?",
+   "opts": [
+    "Hypomagnesemia",
+    "Hypermagnesemia",
+    "Normal magnesium",
+    "Only high MgSO4"
+   ],
+   "ans": 0,
+   "exp": "Hypomagnesemia is listed under toxicity risk conditions. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-121",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Myocardial infarction increases digoxin toxicity risk because it increases permeability for:",
+   "opts": [
+    "Ca2+ ions",
+    "Iodide",
+    "Uric acid",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The MI item says ↑ permeability for Ca2+ ions. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-122",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Renal failure increases digoxin toxicity because it decreases:",
+   "opts": [
+    "Excretion",
+    "Absorption",
+    "Protein binding only",
+    "Atrial calcium"
+   ],
+   "ans": 0,
+   "exp": "The renal failure item says ↓ excretion. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-123",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Digoxin is contraindicated in HOCM because increased contraction causes:",
+   "opts": [
+    "Worsening",
+    "Cure",
+    "No change",
+    "Less LV obstruction"
+   ],
+   "ans": 0,
+   "exp": "The contraindication line says HOCM: ↑ contraction → worsening. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-124",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 81,
+   "q": "Digoxin is contraindicated in WPW syndrome because AV nodal block increases conduction through the:",
+   "opts": [
+    "Accessory pathway",
+    "Renal artery",
+    "Pulmonary capillary",
+    "Prostatic urethra"
+   ],
+   "ans": 0,
+   "exp": "The WPW line says blocks AV node → ↑ conduction through accessory pathway. (Book p81)"
+  },
+  {
+   "id": "PHARM-C21-125",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, D stands for dialysis not done and:",
+   "opts": [
+    "Digibind antidote",
+    "Diltiazem antidote",
+    "Dobutamine antidote",
+    "Dopamine antidote"
+   ],
+   "ans": 0,
+   "exp": "The summary says D → dialysis not done; Digibind (antidote). (Book p82)"
+  },
+  {
+   "id": "PHARM-C21-126",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, I stands for:",
+   "opts": [
+    "Increase K+",
+    "Increase renin",
+    "Increase iodine",
+    "Increase HDL"
+   ],
+   "ans": 0,
+   "exp": "The summary says I → Increase K+. (Book p82)"
+  },
+  {
+   "id": "PHARM-C21-127",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, G stands for:",
+   "opts": [
+    "Gynecomastia",
+    "Glaucoma",
+    "Gout",
+    "Glucagon"
+   ],
+   "ans": 0,
+   "exp": "The summary says G → gynecomastia. (Book p82)"
+  },
+  {
+   "id": "PHARM-C21-128",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, O stands for:",
+   "opts": [
+    "Ocular side effects",
+    "Oral absorption failure",
+    "Obesity only",
+    "Omapatrilat"
+   ],
+   "ans": 0,
+   "exp": "The summary says O → ocular S/E. (Book p82)"
+  },
+  {
+   "id": "PHARM-C21-129",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, X stands for:",
+   "opts": [
+    "Xanthopsia",
+    "Xerostomia",
+    "Xylometazoline",
+    "Xanthine oxidase"
+   ],
+   "ans": 0,
+   "exp": "The summary says X → xanthopsia. (Book p82)"
+  },
+  {
+   "id": "PHARM-C21-130",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "page": 82,
+   "q": "In the DIGOXIN summary, the final N stands for nausea/vomiting and:",
+   "opts": [
+    "Na+-K+ ATPase blocker",
+    "Nitric oxide donor",
+    "Neprilysin activator",
+    "Nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The summary says N → nausea and vomiting; Na+-K+ ATPase blocker. (Book p82)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U21-1",
+   "ch": 21,
+   "n": 1,
+   "title": "Acute CHF Pathophysiology and IV Management",
+   "sec": "Acute CHF Pathophysiology and IV Management · p77",
+   "qs": [
+    "PHARM-C21-001",
+    "PHARM-C21-002",
+    "PHARM-C21-003",
+    "PHARM-C21-004",
+    "PHARM-C21-005",
+    "PHARM-C21-006",
+    "PHARM-C21-007",
+    "PHARM-C21-008",
+    "PHARM-C21-009",
+    "PHARM-C21-010",
+    "PHARM-C21-011"
+   ],
+   "guide": "Acute CHF is most commonly caused by myocardial infarction. Acute myocardial injury decreases contraction, causes blood stasis in the heart, raises back pressure into the lungs, engorges pulmonary capillaries and extravasates plasma into parenchyma, producing pulmonary edema. Clinically the patient has chest pain and breathlessness; IV treatment of choice is dobutamine plus furosemide."
+  },
+  {
+   "id": "PHARM-U21-2",
+   "ch": 21,
+   "n": 2,
+   "title": "Acute CHF Inotropes and Pulmonary Edema Drugs",
+   "sec": "Acute CHF Inotropes and Pulmonary Edema Drugs · p77",
+   "qs": [
+    "PHARM-C21-012",
+    "PHARM-C21-013",
+    "PHARM-C21-014",
+    "PHARM-C21-015",
+    "PHARM-C21-016",
+    "PHARM-C21-017",
+    "PHARM-C21-018",
+    "PHARM-C21-019",
+    "PHARM-C21-020",
+    "PHARM-C21-021",
+    "PHARM-C21-022",
+    "PHARM-C21-023",
+    "PHARM-C21-024",
+    "PHARM-C21-025",
+    "PHARM-C21-026",
+    "PHARM-C21-027",
+    "PHARM-C21-028"
+   ],
+   "guide": "Acute CHF management combines drugs that increase contraction and drugs that quickly relieve pulmonary edema. Dobutamine stimulates β1-Gs to raise cAMP and contractility without affecting heart rate; PDE3 inhibitors raise cAMP as inodilators; levosimendan opens K+ channels and sensitizes myocardium to Ca2+. Furosemide venodilates via prostaglandins and diureses; if there is no response, nitroglycerin and then nesiritide can be considered."
+  },
+  {
+   "id": "PHARM-U21-3",
+   "ch": 21,
+   "n": 3,
+   "title": "Chronic CHF Compensation, Mortality and Oral Drug Classes",
+   "sec": "Chronic CHF Compensation, Mortality and Oral Drug Classes · p78",
+   "qs": [
+    "PHARM-C21-029",
+    "PHARM-C21-030",
+    "PHARM-C21-031",
+    "PHARM-C21-032",
+    "PHARM-C21-033",
+    "PHARM-C21-034",
+    "PHARM-C21-035",
+    "PHARM-C21-036",
+    "PHARM-C21-037",
+    "PHARM-C21-038",
+    "PHARM-C21-039",
+    "PHARM-C21-040",
+    "PHARM-C21-041",
+    "PHARM-C21-042",
+    "PHARM-C21-043",
+    "PHARM-C21-044",
+    "PHARM-C21-045",
+    "PHARM-C21-046",
+    "PHARM-C21-047",
+    "PHARM-C21-048",
+    "PHARM-C21-049",
+    "PHARM-C21-050",
+    "PHARM-C21-051",
+    "PHARM-C21-052",
+    "PHARM-C21-053",
+    "PHARM-C21-054",
+    "PHARM-C21-055"
+   ],
+   "guide": "Chronic CHF follows gradual loss of output from cardiomyopathy/rheumatic disease, then compensatory catecholamines and RAAS. Compensation may maintain output but drives cardiac remodeling, oxygen demand and mortality; decompensation resembles acute CHF and lowers oxygen supply. Oral mortality-reducing drugs target β1 signaling, heart rate, vasodilation, RAAS and sodium/water retention, while furosemide and digoxin remain symptomatic drugs."
+  },
+  {
+   "id": "PHARM-U21-4",
+   "ch": 21,
+   "n": 4,
+   "title": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs",
+   "sec": "Newly Diagnosed CHF Approach and Neprilysin/Guanylate Cyclase Drugs · p79",
+   "qs": [
+    "PHARM-C21-056",
+    "PHARM-C21-057",
+    "PHARM-C21-058",
+    "PHARM-C21-059",
+    "PHARM-C21-060",
+    "PHARM-C21-061",
+    "PHARM-C21-062",
+    "PHARM-C21-063",
+    "PHARM-C21-064",
+    "PHARM-C21-065",
+    "PHARM-C21-066",
+    "PHARM-C21-067",
+    "PHARM-C21-068",
+    "PHARM-C21-069",
+    "PHARM-C21-070",
+    "PHARM-C21-071",
+    "PHARM-C21-072",
+    "PHARM-C21-073",
+    "PHARM-C21-074"
+   ],
+   "guide": "A newly diagnosed CHF patient first receives furosemide for symptoms, then a mortality-reducing foundation: sacubitril+valsartan if affordable is preferred to ACEI/ARB, otherwise ACEI/ARB are started low and titrated. β blockers are started while ACEI/ARB are being increased, beginning at suboptimal dose to prevent decompensation. Sacubitril raises BNP by inhibiting neprilysin, vericiguat raises cGMP through guanylate cyclase, and omapatrilat is obsolete because dual NEP+ACE inhibition caused fatal angioedema."
+  },
+  {
+   "id": "PHARM-U21-5",
+   "ch": 21,
+   "n": 5,
+   "title": "Digoxin Pharmacokinetics and Therapeutic Concentrations",
+   "sec": "Digoxin Pharmacokinetics and Therapeutic Concentrations · p79",
+   "qs": [
+    "PHARM-C21-075",
+    "PHARM-C21-076",
+    "PHARM-C21-077",
+    "PHARM-C21-078",
+    "PHARM-C21-079",
+    "PHARM-C21-080",
+    "PHARM-C21-081",
+    "PHARM-C21-082",
+    "PHARM-C21-083",
+    "PHARM-C21-084",
+    "PHARM-C21-085",
+    "PHARM-C21-086",
+    "PHARM-C21-087"
+   ],
+   "guide": "Digoxin comes from Digitalis lanata, has good oral absorption, a long 36-48 hour half-life and renal excretion. Digitalization takes 7-10 days, so therapeutic drug monitoring should begin after that to avoid false low values. The normal plasma range is 0.5-2.0 ng/mL, but the desired therapeutic range is 0.5-0.9 ng/mL; toxicity rises above 2.0 ng/mL and mortality in atrial fibrillation rises above 1.2 ng/mL."
+  },
+  {
+   "id": "PHARM-U21-6",
+   "ch": 21,
+   "n": 6,
+   "title": "Digoxin Cellular Mechanism and Ventricular Arrhythmias",
+   "sec": "Digoxin Cellular Mechanism and Ventricular Arrhythmias · p80",
+   "qs": [
+    "PHARM-C21-088",
+    "PHARM-C21-089",
+    "PHARM-C21-090",
+    "PHARM-C21-091",
+    "PHARM-C21-092",
+    "PHARM-C21-093",
+    "PHARM-C21-094",
+    "PHARM-C21-095",
+    "PHARM-C21-096",
+    "PHARM-C21-097",
+    "PHARM-C21-098",
+    "PHARM-C21-099",
+    "PHARM-C21-100",
+    "PHARM-C21-101",
+    "PHARM-C21-102",
+    "PHARM-C21-103"
+   ],
+   "guide": "At the cellular level, digoxin blocks the Na+-K+ ATPase pump. This raises intracellular Na+, blocks the Na+-Ca2+ exchanger, raises intracellular Ca2+ and increases myocardial contraction; extracellular K+ competes with digoxin binding, while diuretic-induced hypokalemia leaves more ATPase available and precipitates toxicity. In ventricles, delayed closure of Ca2+ channels causes DADs, extrasystoles, bigeminy, trigeminy, VT and finally VF, where defibrillation should be avoided."
+  },
+  {
+   "id": "PHARM-U21-7",
+   "ch": 21,
+   "n": 7,
+   "title": "Digoxin Toxicity Treatment and Organ-Level Heart Effects",
+   "sec": "Digoxin Toxicity Treatment and Organ-Level Heart Effects · p81",
+   "qs": [
+    "PHARM-C21-104",
+    "PHARM-C21-105",
+    "PHARM-C21-106",
+    "PHARM-C21-107",
+    "PHARM-C21-108",
+    "PHARM-C21-109",
+    "PHARM-C21-110",
+    "PHARM-C21-111",
+    "PHARM-C21-112"
+   ],
+   "guide": "Digoxin toxicity is treated according to rhythm: lidocaine or amiodarone for VT/VF, Digibind as the antidote, and no dialysis because distribution volume is high. At normal dose digoxin is parasympathomimetic with SA/AV nodal block but also raises atrial Ca2+, causing atrial tachycardia as the most specific arrhythmia; therapeutically it converts atrial flutter into atrial fibrillation, which is easier to control. At high dose it becomes sympathomimetic with increased heart rate and contraction."
+  },
+  {
+   "id": "PHARM-U21-8",
+   "ch": 21,
+   "n": 8,
+   "title": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary",
+   "sec": "Digoxin Adverse Effects, Contraindications and DIGOXIN Summary · p81",
+   "qs": [
+    "PHARM-C21-113",
+    "PHARM-C21-114",
+    "PHARM-C21-115",
+    "PHARM-C21-116",
+    "PHARM-C21-117",
+    "PHARM-C21-118",
+    "PHARM-C21-119",
+    "PHARM-C21-120",
+    "PHARM-C21-121",
+    "PHARM-C21-122",
+    "PHARM-C21-123",
+    "PHARM-C21-124",
+    "PHARM-C21-125",
+    "PHARM-C21-126",
+    "PHARM-C21-127",
+    "PHARM-C21-128",
+    "PHARM-C21-129",
+    "PHARM-C21-130"
+   ],
+   "guide": "The classic toxicity cluster is summarized by DIGOXIN: dialysis not done/Digibind, increased K+, gynecomastia, ocular effects/xanthopsia, increased arrhythmias, nausea-vomiting and Na+-K+ ATPase blockade. Nausea/vomiting is both earliest and most common. Toxicity risk rises with hypercalcemia, hypokalemia, hypomagnesemia, MI and renal failure; digoxin is also contraindicated in HOCM and WPW."
+  }
+ ]
+}

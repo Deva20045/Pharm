@@ -1,0 +1,2116 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C22-001",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Arterial dilators mainly decrease:",
+   "opts": [
+    "Afterload",
+    "Preload",
+    "Both preload and afterload equally",
+    "Aqueous humour only"
+   ],
+   "ans": 0,
+   "exp": "The classification labels arterial dilators as ↓ afterload. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-002",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Venous dilators mainly decrease:",
+   "opts": [
+    "Preload",
+    "Afterload",
+    "Heart rate directly",
+    "Renin only"
+   ],
+   "ans": 0,
+   "exp": "The classification labels venous dilators as ↓ preload. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-003",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Mixed dilators decrease:",
+   "opts": [
+    "Afterload and preload",
+    "Only preload",
+    "Only afterload",
+    "Only AV conduction"
+   ],
+   "ans": 0,
+   "exp": "The mixed dilator label says ↓ afterload & preload. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-004",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The mixed dilator listed is:",
+   "opts": [
+    "Sodium nitroprusside",
+    "Nitroglycerin",
+    "Hydralazine",
+    "Amlodipine"
+   ],
+   "ans": 0,
+   "exp": "Sodium nitroprusside is written under mixed dilators. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-005",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Arterial dilators in the classification include calcium channel blockers, hydralazine, minoxidil, diazoxide and:",
+   "opts": [
+    "Fenoldopam",
+    "Digoxin",
+    "Adenosine",
+    "Sildenafil"
+   ],
+   "ans": 0,
+   "exp": "Fenoldopam is the fifth arterial dilator listed. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-006",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Nitrates in the venodilator group include:",
+   "opts": [
+    "Nitroglycerin, isosorbide dinitrate and isosorbide mononitrate",
+    "Hydralazine, minoxidil and diazoxide",
+    "Captopril, lisinopril and enalapril",
+    "Adenosine, atropine and digoxin"
+   ],
+   "ans": 0,
+   "exp": "The nitrates list contains nitroglycerin, IDN and IMN. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-007",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The most common side effect of venous and mixed dilators is:",
+   "opts": [
+    "Postural hypotension",
+    "Floppy iris",
+    "Nystagmus",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "The note says m/c side effect of venous & mixed dilators: postural hypotension. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-008",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Compared with non-DHP CCBs, DHP CCBs are:",
+   "opts": [
+    "More potent vasodilators",
+    "Less potent vasodilators",
+    "Only AV nodal blockers",
+    "Not vasodilators"
+   ],
+   "ans": 0,
+   "exp": "The CCB table says DHP: more potent vasodilator. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-009",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The early heart-rate effect of non-DHP CCBs is:",
+   "opts": [
+    "Increased HR",
+    "Decreased HR only",
+    "No HR effect",
+    "Complete heart block always"
+   ],
+   "ans": 0,
+   "exp": "The early effect row under non-DHP shows ↑ HR. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-010",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The early heart-rate effect of DHP CCBs is:",
+   "opts": [
+    "Significant increase in HR",
+    "Normal HR",
+    "Decreased HR",
+    "No reflex effect"
+   ],
+   "ans": 0,
+   "exp": "The early effect row under DHP says significant ↑ HR. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-011",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The late central effect of non-DHP CCBs selectively blocks:",
+   "opts": [
+    "SA node and AV node",
+    "Renal afferent arteriole",
+    "Prostatic urethra",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The late non-DHP flow says selective blockade on SA node and AV node. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-012",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Late non-DHP nodal blockade decreases HR and leads to:",
+   "opts": [
+    "Normalization of heart rate",
+    "Permanent tachycardia",
+    "Only afterload increase",
+    "Renin increase"
+   ],
+   "ans": 0,
+   "exp": "The non-DHP late-effect flow says ↓ HR → normalization of heart rate. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-013",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Overall, non-DHP CCBs have which HR effect?",
+   "opts": [
+    "Normal HR",
+    "Marked increased HR",
+    "No possible HR action",
+    "Always asystole"
+   ],
+   "ans": 0,
+   "exp": "The overall action HR row for non-DHP says normal HR. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-014",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Overall, DHP CCBs cause:",
+   "opts": [
+    "Increased HR",
+    "Normal HR",
+    "Decreased HR",
+    "Complete AV block"
+   ],
+   "ans": 0,
+   "exp": "The overall action HR row for DHP says ↑ HR. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-015",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Non-DHP vasodilation is:",
+   "opts": [
+    "Less than DHP",
+    "More than DHP",
+    "Absent",
+    "Equal to sodium nitroprusside always"
+   ],
+   "ans": 0,
+   "exp": "The overall vasodilation row says non-DHP less than in DHP. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-016",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "AV nodal block is present and useful in arrhythmia with:",
+   "opts": [
+    "Non-DHP CCBs",
+    "DHP CCBs",
+    "Nitrates",
+    "Hydralazine"
+   ],
+   "ans": 0,
+   "exp": "The AVN block row has (+): used in arrhythmia under non-DHP. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-017",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "DHP CCBs have which AV nodal block effect?",
+   "opts": [
+    "Absent",
+    "Strongly positive",
+    "More than non-DHP",
+    "Only in WPW"
+   ],
+   "ans": 0,
+   "exp": "The DHP AVN block row shows (-). (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-018",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Oral non-DHP CCBs listed are:",
+   "opts": [
+    "Diltiazem and verapamil",
+    "Clevidipine and nicardipine",
+    "Nifedipine and amlodipine",
+    "Hydralazine and minoxidil"
+   ],
+   "ans": 0,
+   "exp": "The oral drug row under non-DHP lists diltiazem and verapamil. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-019",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Which oral DHP CCB is DOC in hypertension?",
+   "opts": [
+    "Amlodipine",
+    "Nifedipine",
+    "Nimodipine",
+    "Isradipine"
+   ],
+   "ans": 0,
+   "exp": "The DHP oral row says amlodipine (oral): DOC in HTN. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-020",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "Amlodipine has less reflex tachycardia because it has lower:",
+   "opts": [
+    "Peak concentration",
+    "Lipid solubility",
+    "Renal excretion",
+    "Protein binding"
+   ],
+   "ans": 0,
+   "exp": "The amlodipine note says ↓ peak concentration → lesser ↑ HR → ↓ risk of reflex tachycardia. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-021",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "page": 83,
+   "q": "The IV DHP CCBs listed are:",
+   "opts": [
+    "Clevidipine and nicardipine",
+    "Diltiazem and verapamil",
+    "Amlodipine and nifedipine",
+    "Nimodipine and isradipine"
+   ],
+   "ans": 0,
+   "exp": "The IV drug row lists clevidipine and nicardipine under DHP. (Book p83)"
+  },
+  {
+   "id": "PHARM-C22-022",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "The most common side effect of calcium channel blockers is:",
+   "opts": [
+    "Headache",
+    "Dry cough",
+    "Xanthopsia",
+    "Nystagmus"
+   ],
+   "ans": 0,
+   "exp": "The CCB side-effect list marks headache as m/c. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-023",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Ankle edema is mainly due to:",
+   "opts": [
+    "Amlodipine",
+    "Verapamil",
+    "Diltiazem",
+    "Nimodipine"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list says ankle edema: due to amlodipine. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-024",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Amlodipine ankle edema is caused by:",
+   "opts": [
+    "Precapillary dilation",
+    "Postcapillary dilation",
+    "AV nodal block",
+    "Renin release"
+   ],
+   "ans": 0,
+   "exp": "The ankle-edema note says cause: precapillary dilation. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-025",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Amlodipine ankle edema is prevented by postcapillary dilation using lower-dose amlodipine plus:",
+   "opts": [
+    "ACE inhibitors",
+    "Digoxin",
+    "Adenosine",
+    "PDE5 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The prevention line says lower dose amlodipine and adding ACE inhibitors. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-026",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Constipation from CCBs is mainly due to:",
+   "opts": [
+    "Verapamil",
+    "Amlodipine",
+    "Nifedipine",
+    "Clevidipine"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list says constipation mainly due to verapamil. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-027",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Conduction block with CCBs is due to:",
+   "opts": [
+    "Diltiazem/verapamil",
+    "Amlodipine/nifedipine",
+    "Minoxidil/diazoxide",
+    "Sodium nitroprusside"
+   ],
+   "ans": 0,
+   "exp": "The conduction block line names diltiazem/verapamil. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-028",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Diltiazem/verapamil are contraindicated with:",
+   "opts": [
+    "β blockers",
+    "ACE inhibitors",
+    "Thiazides",
+    "Nitrates always"
+   ],
+   "ans": 0,
+   "exp": "The conduction-block note says C/I with β blockers. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-029",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "CCBs are first-line choice drugs for:",
+   "opts": [
+    "Hypertension",
+    "Digoxin toxicity",
+    "Torsades only",
+    "BPH"
+   ],
+   "ans": 0,
+   "exp": "The uses list says hypertension: first line choice of drugs. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-030",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "CCBs are drug of choice for:",
+   "opts": [
+    "Raynaud phenomenon",
+    "WPW syndrome",
+    "Scorpion bite parasympathetic symptoms",
+    "Digoxin-induced VT"
+   ],
+   "ans": 0,
+   "exp": "The uses list says Raynaud's phenomenon: drug of choice. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-031",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "The CCB used to prevent cerebral vasoconstriction in SAH is:",
+   "opts": [
+    "Oral nimodipine",
+    "IV verapamil",
+    "Topical timolol",
+    "Oral digoxin"
+   ],
+   "ans": 0,
+   "exp": "The SAH use line says drug used: oral nimodipine. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-032",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Nimodipine crosses the BBB because it has increased:",
+   "opts": [
+    "Lipid solubility",
+    "Water solubility",
+    "Protein binding",
+    "Renal excretion"
+   ],
+   "ans": 0,
+   "exp": "The nimodipine note says ↑ lipid solubility → crosses BBB. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-033",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses",
+   "page": 84,
+   "q": "Cerebral vasoconstriction after SAH can lead to:",
+   "opts": [
+    "Ischemia",
+    "BPH",
+    "Hyperthyroidism",
+    "Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "The use line says prevention of cerebral vasoconstriction leading to ischemia in SAH. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-034",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Hydralazine blocks which calcium signal?",
+   "opts": [
+    "IP3-induced Ca2+ channel",
+    "Funny Ca2+ current",
+    "Na+-Ca2+ exchanger",
+    "PDE5 channel"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine MOA lists blocks IP3-induced Ca2+ channel. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-035",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Hydralazine also acts as a:",
+   "opts": [
+    "K+ channel opener",
+    "Na+ channel blocker",
+    "Direct renin inhibitor",
+    "PDE5 inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine MOA includes K+ channel openers. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-036",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Hydralazine increases:",
+   "opts": [
+    "Nitric oxide",
+    "Aldosterone",
+    "Uric acid",
+    "Digoxin binding"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine MOA includes ↑ NO. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-037",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Hydralazine is used for hypertensive emergency in:",
+   "opts": [
+    "Pregnancy",
+    "Gout",
+    "WPW",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine uses cell says hypertensive emergency in pregnancy. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-038",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "The DOC for hypertensive emergency in pregnancy is noted as IV:",
+   "opts": [
+    "Labetalol",
+    "Hydralazine",
+    "Minoxidil",
+    "Diazoxide"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine use cell adds DOC: IV labetalol. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-039",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Hydralazine can cause SLE due to:",
+   "opts": [
+    "Acetylation",
+    "Iodine toxicity",
+    "PDE5 inhibition",
+    "Neprilysin inhibition"
+   ],
+   "ans": 0,
+   "exp": "The hydralazine side-effect cell says SLE due to acetylation. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-040",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Sweet syndrome caused by hydralazine is:",
+   "opts": [
+    "Neutrophilic dermatosis",
+    "Whorl corneal deposit",
+    "Yellow vision",
+    "Pulmonary edema"
+   ],
+   "ans": 0,
+   "exp": "The side-effect cell says Sweet syndrome → neutrophilic dermatosis. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-041",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Minoxidil's mechanism is:",
+   "opts": [
+    "K+ channel opener and potent vasodilator",
+    "Na+ channel blocker",
+    "AV node blocker",
+    "Direct renin inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The minoxidil MOA cell says K+ channel opener → potent vasodilator. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-042",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Oral minoxidil is used as a second-line drug for hypertension in:",
+   "opts": [
+    "Elderly patients",
+    "Pregnancy only",
+    "Children only",
+    "Asthmatics only"
+   ],
+   "ans": 0,
+   "exp": "The minoxidil use cell says oral: hypertension in elderly (2nd line drug). (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-043",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Topical minoxidil is used for:",
+   "opts": [
+    "Androgenic alopecia",
+    "BPH",
+    "Atrial flutter",
+    "Torsades"
+   ],
+   "ans": 0,
+   "exp": "The minoxidil uses include topical: androgenic alopecia. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-044",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "The DOC noted for androgenic alopecia is:",
+   "opts": [
+    "Finasteride 1 mg",
+    "Minoxidil oral",
+    "Hydralazine",
+    "Amlodipine"
+   ],
+   "ans": 0,
+   "exp": "The topical androgenic alopecia note says DOC: finasteride 1 mg. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-045",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Minoxidil hair response is slow because hair quality is:",
+   "opts": [
+    "Compensated, taking a long time to act",
+    "Immediately normalized",
+    "Destroyed by K+ opening",
+    "Unaffected in all patients"
+   ],
+   "ans": 0,
+   "exp": "The note says hair quality is compensated, long time to act. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-046",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Minoxidil can cause which side effect in females?",
+   "opts": [
+    "Hirsutism",
+    "Xanthopsia",
+    "Dry cough",
+    "Agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "The minoxidil side-effect cell says hirsutism in females. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-047",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Diazoxide is used in:",
+   "opts": [
+    "Insulinoma",
+    "Hypertensive pregnancy",
+    "Angina prophylaxis",
+    "Atrial flutter"
+   ],
+   "ans": 0,
+   "exp": "The diazoxide use cell says insulinoma. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-048",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Diazoxide can cause shock because it was earlier used in:",
+   "opts": [
+    "Hypertensive emergency",
+    "BPH",
+    "Long-QT syndrome",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The diazoxide side-effect cell says shock due to use in hypertensive emergency earlier. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-049",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "page": 84,
+   "q": "Fenoldopam acts as a D1 agonist and:",
+   "opts": [
+    "α2 agonist",
+    "β3 agonist",
+    "PDE5 inhibitor",
+    "Na+ channel blocker"
+   ],
+   "ans": 0,
+   "exp": "The fenoldopam MOA lists D1 agonist and α2 agonist. (Book p84)"
+  },
+  {
+   "id": "PHARM-C22-050",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Nitroglycerin is converted to nitric oxide by:",
+   "opts": [
+    "Aldehyde dehydrogenase",
+    "Neprilysin",
+    "ACE",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The NTG mechanism flow says nitroglycerin → aldehyde dehydrogenase → nitric oxide. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-051",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "The active component generated from nitroglycerin is:",
+   "opts": [
+    "Nitric oxide",
+    "Cyanide",
+    "Thiocyanate",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The flow labels nitric oxide as the active component. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-052",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Nitric oxide stimulates:",
+   "opts": [
+    "Guanylate cyclase",
+    "Na+-K+ ATPase",
+    "Renin",
+    "Adenosine uptake protein"
+   ],
+   "ans": 0,
+   "exp": "The NTG flow says NO stimulates guanylate cyclase. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-053",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Guanylate cyclase stimulation increases:",
+   "opts": [
+    "Cyclic GMP",
+    "Cyclic AMP only",
+    "Renin",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The flow says ↑ cyclic GMP. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-054",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Raised cGMP causes smooth muscle relaxation with vasodilation and:",
+   "opts": [
+    "GI relaxation",
+    "Bronchoconstriction",
+    "Renin release",
+    "AV block"
+   ],
+   "ans": 0,
+   "exp": "The flow ends with smooth muscle relaxation: vasodilation and GI relaxation. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-055",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Vericiguat is a guanylate cyclase stimulator used in:",
+   "opts": [
+    "CHF",
+    "Pulmonary hypertension",
+    "BPH",
+    "Torsades"
+   ],
+   "ans": 0,
+   "exp": "The stimulator branch says vericiguat: used in CHF. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-056",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Riociguat is a guanylate cyclase stimulator used in:",
+   "opts": [
+    "Pulmonary hypertension",
+    "CHF",
+    "BPH",
+    "Digoxin toxicity"
+   ],
+   "ans": 0,
+   "exp": "The branch says riociguat: used in pulmonary HTN. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-057",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "cGMP is metabolized by:",
+   "opts": [
+    "PDE5",
+    "PDE3",
+    "ACE",
+    "NEP"
+   ],
+   "ans": 0,
+   "exp": "The mechanism diagram labels cGMP metabolized by PDE5. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-058",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Sildenafil has a relatively:",
+   "opts": [
+    "Short half-life",
+    "Long half-life",
+    "53-day half-life",
+    "No half-life"
+   ],
+   "ans": 0,
+   "exp": "The PDE5 blocker branch labels sildenafil short T1/2. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-059",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Tadalafil has a relatively:",
+   "opts": [
+    "Long half-life",
+    "Short half-life",
+    "1-5 second half-life",
+    "No oral action"
+   ],
+   "ans": 0,
+   "exp": "The branch labels tadalafil long T1/2. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-060",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "PDE5 inhibitors are drugs for pulmonary hypertension and DOC for:",
+   "opts": [
+    "Erectile dysfunction",
+    "BPH with hypertension",
+    "Digoxin toxicity",
+    "Aortic dissection"
+   ],
+   "ans": 0,
+   "exp": "The PDE5 branch says drugs in pulmonary HTN and DOC: erectile dysfunction. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-061",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Sublingual nitroglycerin is DOC for:",
+   "opts": [
+    "Acute attacks of angina",
+    "Long-term CHF mortality",
+    "BPH",
+    "Torsades"
+   ],
+   "ans": 0,
+   "exp": "The use list says DOC sublingual: acute attacks of angina. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-062",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Transdermal patch/gel nitroglycerin is used for:",
+   "opts": [
+    "Acute prophylaxis of angina",
+    "Acute torsades",
+    "WPW",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The DOC branch says transdermal patch/gel: acute prophylaxis of angina. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-063",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Nitroglycerin sustained-release tablets are used because oral tablets have high:",
+   "opts": [
+    "First-pass metabolism",
+    "Renal toxicity",
+    "No absorption",
+    "Protein binding only"
+   ],
+   "ans": 0,
+   "exp": "The note says SR tablets are used; oral tablets ↑ first pass metabolism. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-064",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "In myocardial infarction, NTG relieves pain by decreasing contraction and:",
+   "opts": [
+    "Preload",
+    "Afterload only",
+    "Renin",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The MI use says for pain relief (↓ contraction → ↓ preload). (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-065",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Nitroglycerin is also used in:",
+   "opts": [
+    "Esophageal spasm",
+    "Insulinoma",
+    "Scorpion bite",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "Esophageal spasm is listed as an NTG use. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-066",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Long-term NTG tolerance occurs because it downregulates production of:",
+   "opts": [
+    "Aldehyde dehydrogenase",
+    "ACE",
+    "Neprilysin",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The tolerance section says long-term NTG downregulates aldehyde dehydrogenase production. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-067",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Nitrate tolerance is prevented by:",
+   "opts": [
+    "8 hours nitrate-free period at night",
+    "Continuous 24-hour nitrate exposure",
+    "Combining two PDE5 inhibitors",
+    "Defibrillation"
+   ],
+   "ans": 0,
+   "exp": "The prevention line says 8 hours nitrate-free period (night time). (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-068",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "The headache from nitrates tends to:",
+   "opts": [
+    "Decrease in intensity with continuous use",
+    "Increase forever with continuous use",
+    "Never occur",
+    "Only occur with digoxin"
+   ],
+   "ans": 0,
+   "exp": "The headache side-effect note says intensity decreases with continuous use. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-069",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "Monday disease in nitrate industry refers to headache that is maximum on Monday and decreases by:",
+   "opts": [
+    "End of the week",
+    "Tuesday morning only",
+    "After renal angiography",
+    "After digoxin"
+   ],
+   "ans": 0,
+   "exp": "The Monday disease note says headache maximum on Monday and decreases by end of week. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-070",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 85,
+   "q": "A side effect shared by nitrates with other venodilators is:",
+   "opts": [
+    "Postural hypotension",
+    "Floppy iris",
+    "Agranulocytosis",
+    "Xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The NTG side-effect list includes postural hypotension. (Book p85)"
+  },
+  {
+   "id": "PHARM-C22-071",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "page": 86,
+   "q": "NTG with sildenafil/tadalafil/riociguat/vericiguat can cause:",
+   "opts": [
+    "Hypotensive shock",
+    "Hypertensive crisis",
+    "Ventricular bigeminy only",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "The contraindication bracket says these drugs + NTG → hypotensive shock. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-072",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Oral isosorbide dinitrate undergoes first-pass metabolism by:",
+   "opts": [
+    "Denitration",
+    "Deamination",
+    "Glucuronidation only",
+    "Sulfation only"
+   ],
+   "ans": 0,
+   "exp": "The IDN pharmacokinetic flow says first pass metabolism (denitration). (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-073",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Isosorbide dinitrate is converted to which active form?",
+   "opts": [
+    "Isosorbide mononitrate",
+    "Nitroprusside",
+    "Riociguat",
+    "Thiocyanate"
+   ],
+   "ans": 0,
+   "exp": "The IDN flow says → isosorbide mononitrate: active form. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-074",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Oral isosorbide dinitrate is used for:",
+   "opts": [
+    "Angina prophylaxis",
+    "Torsades",
+    "BPH",
+    "Digoxin toxicity"
+   ],
+   "ans": 0,
+   "exp": "The IDN use list says oral route: angina prophylaxis. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-075",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Sublingual isosorbide dinitrate is used for:",
+   "opts": [
+    "Acute attacks of angina",
+    "Long-term CHF only",
+    "Insulinoma",
+    "Hyperreninemic hypertension"
+   ],
+   "ans": 0,
+   "exp": "The IDN use list says sublingual: Rx for acute attacks of angina. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-076",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Isosorbide mononitrate has what first-pass metabolism?",
+   "opts": [
+    "0%",
+    "High",
+    "Complete inactivation",
+    "Only renal first-pass"
+   ],
+   "ans": 0,
+   "exp": "The IMN pharmacokinetic line says 0% first pass metabolism. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-077",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Oral isosorbide mononitrate remains:",
+   "opts": [
+    "Unchanged active IMN",
+    "Inactive IDN",
+    "Cyanide",
+    "Thiocyanate"
+   ],
+   "ans": 0,
+   "exp": "The IMN flow says oral drug → 0% first pass metabolism → unchanged active IMN. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-078",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Isosorbide mononitrate is used orally for:",
+   "opts": [
+    "Long-term angina prophylaxis",
+    "Acute torsades",
+    "Scorpion bite",
+    "Digoxin toxicity"
+   ],
+   "ans": 0,
+   "exp": "The IMN use line says oral route: long term angina prophylaxis. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-079",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Isosorbide nitrates are contraindicated with PDE5 blockers such as:",
+   "opts": [
+    "Sildenafil and tadalafil",
+    "Milrinone and amrinone",
+    "Dofetilide and ibutilide",
+    "Prazosin and doxazosin"
+   ],
+   "ans": 0,
+   "exp": "The contraindication line says use with PDE5 blockers: sildenafil/tadalafil. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-080",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Sodium nitroprusside metabolism produces nitric oxide for:",
+   "opts": [
+    "Therapeutic purposes",
+    "Only toxicity",
+    "Renin release",
+    "Hair growth"
+   ],
+   "ans": 0,
+   "exp": "The SNP pharmacokinetic diagram shows metabolism to nitric oxide (therapeutic purposes). (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-081",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Sodium nitroprusside metabolism also produces cyanide, which becomes:",
+   "opts": [
+    "Thiocyanate",
+    "BNP",
+    "Angiotensin II",
+    "Digibind"
+   ],
+   "ans": 0,
+   "exp": "The diagram says cyanide → thiocyanate (side effect). (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-082",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Sodium nitroprusside is not preferred because of:",
+   "opts": [
+    "Side effects",
+    "Lack of vasodilation",
+    "No IV use",
+    "No NO production"
+   ],
+   "ans": 0,
+   "exp": "The uses line is marked not preferred due to side effects. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-083",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Sodium nitroprusside can be used in:",
+   "opts": [
+    "Hypertensive emergency",
+    "BPH",
+    "Atrial flutter only",
+    "Androgenic alopecia"
+   ],
+   "ans": 0,
+   "exp": "The use list includes hypertensive emergency. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-084",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "In aortic dissection, sodium nitroprusside is combined with:",
+   "opts": [
+    "β blockers",
+    "PDE5 inhibitors",
+    "Digoxin",
+    "Tamsulosin"
+   ],
+   "ans": 0,
+   "exp": "The use line says aortic dissection combined with β blockers. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-085",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "A major toxicity of sodium nitroprusside is:",
+   "opts": [
+    "Cyanide toxicity",
+    "Xanthopsia",
+    "Gynecomastia",
+    "Dry cough"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list includes cyanide toxicity. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-086",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "Thiocyanate can cause hypothyroidism by blocking the:",
+   "opts": [
+    "Na+-iodide symporter",
+    "Na+-K+ ATPase",
+    "PDE5 enzyme",
+    "β1 receptor"
+   ],
+   "ans": 0,
+   "exp": "The hypothyroidism note says thiocyanate blocks Na+-iodide symporter. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-087",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "page": 86,
+   "q": "The Na+-iodide symporter-blocking action of thiocyanate is used in:",
+   "opts": [
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "BPH",
+    "Atrial fibrillation"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says used in hyperthyroidism. (Book p86)"
+  },
+  {
+   "id": "PHARM-C22-088",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Angiotensinogen is produced by the:",
+   "opts": [
+    "Liver",
+    "Kidney",
+    "Lung",
+    "Adrenal"
+   ],
+   "ans": 0,
+   "exp": "The RAAS flow starts liver → angiotensinogen. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-089",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Renin from the kidney converts angiotensinogen to:",
+   "opts": [
+    "Angiotensin I",
+    "Angiotensin II",
+    "Angiotensin III",
+    "Angiotensin IV"
+   ],
+   "ans": 0,
+   "exp": "The flow shows angiotensinogen → renin from kidney → angiotensin I. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-090",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Direct renin inhibitors act at the step converting angiotensinogen to:",
+   "opts": [
+    "Angiotensin I",
+    "Angiotensin II",
+    "Angiotensin III",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The direct renin inhibitor symbol blocks the renin step before angiotensin I. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-091",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Angiotensin converting enzyme is located in the:",
+   "opts": [
+    "Lungs",
+    "Liver",
+    "Prostate",
+    "Iris"
+   ],
+   "ans": 0,
+   "exp": "The ACE step is labelled from lungs. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-092",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ACE converts angiotensin I to:",
+   "opts": [
+    "Angiotensin II",
+    "Angiotensin III",
+    "Angiotensin IV",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The flow says AT-I → ACE → Angiotensin II. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-093",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ACE inhibitors block conversion of:",
+   "opts": [
+    "Angiotensin I to angiotensin II",
+    "Angiotensin II to angiotensin III",
+    "Angiotensinogen to angiotensin I",
+    "Aldosterone to renin"
+   ],
+   "ans": 0,
+   "exp": "The ACE inhibitor symbol blocks the ACE step from AT-I to AT-II. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-094",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Angiotensin II is converted to angiotensin III by:",
+   "opts": [
+    "Aminopeptidase",
+    "ACE",
+    "Renin",
+    "PDE5"
+   ],
+   "ans": 0,
+   "exp": "The flow says angiotensin II → aminopeptidase → angiotensin III. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-095",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Angiotensin III is converted to angiotensin IV by:",
+   "opts": [
+    "Aminopeptidase",
+    "Renin",
+    "ACE",
+    "Neprilysin"
+   ],
+   "ans": 0,
+   "exp": "The next step is labelled aminopeptidase to angiotensin IV. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-096",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ACE has activity similar to:",
+   "opts": [
+    "Kininase",
+    "Neprilysin",
+    "PDE5",
+    "Na+-K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "The note says ACE has similar activity to kininase. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-097",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ACE inhibition increases bradykinin, prostaglandins and:",
+   "opts": [
+    "Substance P",
+    "Aldosterone",
+    "Uric acid",
+    "Thromboxane A2"
+   ],
+   "ans": 0,
+   "exp": "The note lists ↑ bradykinin, prostaglandin and ↑ substance P. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-098",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ACE inhibitor accumulation of bradykinin/prostaglandin/substance P causes:",
+   "opts": [
+    "Dry cough and angioedema",
+    "Xanthopsia and gynecomastia",
+    "Nystagmus and seizures",
+    "Hirsutism and shock"
+   ],
+   "ans": 0,
+   "exp": "The brace points to dry cough and angioedema. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-099",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "ARBs block the:",
+   "opts": [
+    "Angiotensin I receptor/AT1 receptor",
+    "Renin enzyme",
+    "ACE active site",
+    "PDE5 enzyme"
+   ],
+   "ans": 0,
+   "exp": "The diagram places ARBs at the angiotensin I receptor/AT1 receptor line. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-100",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "On blood vessels, AT1 receptor activation uses Gq to increase:",
+   "opts": [
+    "Ca2+",
+    "cGMP",
+    "BNP",
+    "Uric acid"
+   ],
+   "ans": 0,
+   "exp": "The blood vessel branch says Gq: ↑ Ca2+. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-101",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "The vascular effect of AT1 activation is:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilation",
+    "Venodilation only",
+    "No vascular action"
+   ],
+   "ans": 0,
+   "exp": "The blood-vessel branch ends in vasoconstriction. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-102",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Adrenal AT1 activation increases:",
+   "opts": [
+    "Aldosterone",
+    "BNP",
+    "cGMP",
+    "Renin only"
+   ],
+   "ans": 0,
+   "exp": "The adrenal branch says ↑ aldosterone. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-103",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Aldosterone causes Na+/H2O retention and loss of:",
+   "opts": [
+    "K+",
+    "Na+",
+    "Water",
+    "Calcium only"
+   ],
+   "ans": 0,
+   "exp": "The adrenal branch shows Na+/H2O retention and loss of K+. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-104",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "In the glomerulus, afferent arteriolar prostaglandin-induced vasodilation is greater than:",
+   "opts": [
+    "Vasoconstriction",
+    "Efferent dilation",
+    "Na+-K+ ATPase block",
+    "Aldosterone loss"
+   ],
+   "ans": 0,
+   "exp": "The afferent branch says prostaglandin-induced vasodilation >>> vasoconstriction. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-105",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "The net afferent arteriolar effect of angiotensin/prostaglandin balance is:",
+   "opts": [
+    "Net vasodilation",
+    "Net vasoconstriction",
+    "No tone",
+    "Only thrombosis"
+   ],
+   "ans": 0,
+   "exp": "The afferent branch ends in net vasodilation. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-106",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Angiotensin II constricts which glomerular arteriole?",
+   "opts": [
+    "Efferent arteriole",
+    "Afferent arteriole only",
+    "Both equally with no net effect",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "The right glomerular branch says efferent arterioles → vasoconstriction. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-107",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "The combined glomerular effects maintain/increase:",
+   "opts": [
+    "GFR",
+    "IOP",
+    "LDL",
+    "BNP breakdown"
+   ],
+   "ans": 0,
+   "exp": "Both afferent/efferent branches point to ↑ GFR. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-108",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "A listed side effect of RAAS inhibitors is:",
+   "opts": [
+    "Postural hypotension",
+    "Whorl corneal deposit",
+    "Floppy iris",
+    "Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "The side-effect section lists postural hypotension. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-109",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "Another listed side effect of RAAS inhibitors is:",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypercalcemia",
+    "Hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect section lists hyperkalemia. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-110",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "RAAS inhibitors in the first trimester of pregnancy can cause:",
+   "opts": [
+    "CNS defects",
+    "Renal defects",
+    "Floppy iris",
+    "Xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The pregnancy contraindication says 1st trimester: CNS defects. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-111",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "RAAS inhibitors in the second and third trimesters can cause:",
+   "opts": [
+    "Renal defects",
+    "CNS defects only",
+    "Alopecia only",
+    "Sweet syndrome"
+   ],
+   "ans": 0,
+   "exp": "The pregnancy contraindication says 2nd & 3rd trimester: renal defects. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-112",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "page": 87,
+   "q": "In bilateral renal artery stenosis, RAAS inhibitors can precipitate renal failure by decreasing:",
+   "opts": [
+    "GFR",
+    "LDL",
+    "Aqueous humour",
+    "BNP"
+   ],
+   "ans": 0,
+   "exp": "The contraindication says bilateral renal artery stenosis: ↓ GFR precipitates renal failure. (Book p87)"
+  },
+  {
+   "id": "PHARM-C22-113",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The short-acting oral ACE inhibitor listed is:",
+   "opts": [
+    "Captopril",
+    "Lisinopril",
+    "Fosinopril",
+    "Enalapril"
+   ],
+   "ans": 0,
+   "exp": "The ACE inhibitor drug list says captopril (short acting). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-114",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Which ACE inhibitor is given IV?",
+   "opts": [
+    "Enalaprilat",
+    "Enalapril",
+    "Captopril",
+    "Fosinopril"
+   ],
+   "ans": 0,
+   "exp": "The ACE inhibitor list says IV: enalaprilat. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-115",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Oral ACE inhibitors listed include lisinopril, fosinopril, enalapril and:",
+   "opts": [
+    "Captopril",
+    "Enalaprilat",
+    "Aliskiren",
+    "Losartan"
+   ],
+   "ans": 0,
+   "exp": "The oral ACE list contains captopril, lisinopril, fosinopril and enalapril. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-116",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Losartan acts as a PPARγ agonist to decrease:",
+   "opts": [
+    "Insulin resistance",
+    "Uric acid excretion",
+    "HDL",
+    "GFR"
+   ],
+   "ans": 0,
+   "exp": "The losartan bullet says PPARγ agonist: ↓ insulin resistance. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-117",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Losartan increases excretion of:",
+   "opts": [
+    "Uric acid",
+    "K+ only",
+    "BNP",
+    "Digoxin"
+   ],
+   "ans": 0,
+   "exp": "The losartan bullet says ↑ uric acid excretion. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-118",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Because of uric-acid excretion, losartan is useful in HTN with:",
+   "opts": [
+    "Gout",
+    "BPH",
+    "Atrial flutter",
+    "Scorpion bite"
+   ],
+   "ans": 0,
+   "exp": "The note after uric-acid excretion says HTN with gout. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-119",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Losartan blocks thromboxane A2, giving an:",
+   "opts": [
+    "Antiaggregant effect",
+    "Proaggregant effect",
+    "Anticholinergic effect",
+    "Antidigitalis effect"
+   ],
+   "ans": 0,
+   "exp": "The losartan bullet says blocks thromboxane A2: antiaggregant effect. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-120",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The ARB with maximum PPARγ agonist activity is:",
+   "opts": [
+    "Telmisartan",
+    "Losartan",
+    "Olmesartan",
+    "Irbesartan"
+   ],
+   "ans": 0,
+   "exp": "The telmisartan line says max PPARγ agonist. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-121",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Irbesartan is noted to cause:",
+   "opts": [
+    "AV nodal block",
+    "Direct renin inhibition",
+    "Cyanide toxicity",
+    "Floppy iris"
+   ],
+   "ans": 0,
+   "exp": "The irbesartan bullet says AV nodal block. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-122",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Irbesartan can be used for rate control in:",
+   "opts": [
+    "Atrial fibrillation",
+    "Ventricular fibrillation",
+    "HOCM",
+    "BPH"
+   ],
+   "ans": 0,
+   "exp": "The irbesartan bullet says rate control in atrial fibrillation. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-123",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The direct renin inhibitor listed is:",
+   "opts": [
+    "Aliskiren",
+    "Losartan",
+    "Captopril",
+    "Enalaprilat"
+   ],
+   "ans": 0,
+   "exp": "The DRI column lists aliskiren. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-124",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "ACE inhibitors/ARBs are first-line in:",
+   "opts": [
+    "Hyperreninemic hypertension",
+    "Low-renin normal BP",
+    "Insulinoma",
+    "Acute torsades"
+   ],
+   "ans": 0,
+   "exp": "The use row says hyperreninemic hypertension (first line). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-125",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "ACE inhibitors/ARBs are DOC for hypertension with DM and:",
+   "opts": [
+    "CKD",
+    "Glaucoma",
+    "WPW",
+    "Migraine only"
+   ],
+   "ans": 0,
+   "exp": "The DOC list includes DM and CKD. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-126",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "ACE inhibitors/ARBs are also DOC for HTN with nephrotic syndrome and:",
+   "opts": [
+    "Scleroderma",
+    "Raynaud only",
+    "Alopecia",
+    "Torsades"
+   ],
+   "ans": 0,
+   "exp": "The DOC list includes nephrotic syndrome and scleroderma. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-127",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Aliskiren is used in hypertension as a:",
+   "opts": [
+    "Second-line drug",
+    "First-line DOC always",
+    "Topical drug",
+    "Antiarrhythmic"
+   ],
+   "ans": 0,
+   "exp": "The direct renin inhibitor use column says hypertension (2nd line drug). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-128",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The most common ACE inhibitor side effect is:",
+   "opts": [
+    "Dry cough",
+    "Angioedema",
+    "Alopecia",
+    "Xanthopsia"
+   ],
+   "ans": 0,
+   "exp": "The ACE side-effect row lists dry cough (m/c). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-129",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The most severe ACE inhibitor side effect is:",
+   "opts": [
+    "Angioedema",
+    "Dry cough",
+    "Alopecia",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "The ACE side-effect row says angioedema (most severe). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-130",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The ARB side effect listed is:",
+   "opts": [
+    "Alopecia",
+    "Dry cough",
+    "Angioedema most severe",
+    "Cyanide toxicity"
+   ],
+   "ans": 0,
+   "exp": "The ARB side-effect cell says alopecia. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-131",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "The captopril test differentiates renovascular hypertension from:",
+   "opts": [
+    "Essential hypertension",
+    "Pulmonary hypertension",
+    "Portal hypertension",
+    "Intracranial hypertension"
+   ],
+   "ans": 0,
+   "exp": "The captopril test aim says differentiate renovascular hypertension from essential hypertension. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-132",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "A positive captopril test shows an increase in:",
+   "opts": [
+    "Renin level",
+    "Uric acid",
+    "BNP",
+    "Digoxin concentration"
+   ],
+   "ans": 0,
+   "exp": "The positive criterion says increase in renin level. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-133",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Renovascular cause is confirmed by renal angiography with short-acting:",
+   "opts": [
+    "Captopril",
+    "Losartan",
+    "Telmisartan",
+    "Aliskiren"
+   ],
+   "ans": 0,
+   "exp": "The confirmatory line says renal angiography with captopril (short acting). (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-134",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "ACE inhibitors compete with AT-I for ACE, causing compensatory rise in renin to increase:",
+   "opts": [
+    "AT-I",
+    "AT-II only without AT-I",
+    "Aldosterone only",
+    "BNP"
+   ],
+   "ans": 0,
+   "exp": "The note says compete with AT-I for ACE → compensatory ↑ renin to ↑ AT-I. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-135",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "Thiazides alone can decrease edema of cardiogenic or:",
+   "opts": [
+    "Nephrogenic cause",
+    "Psychogenic cause",
+    "Androgenic cause",
+    "Ocular cause"
+   ],
+   "ans": 0,
+   "exp": "The note says cardiogenic/nephrogenic cause. (Book p88)"
+  },
+  {
+   "id": "PHARM-C22-136",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "page": 88,
+   "q": "For other causes of edema, thiazides can be combined with low-dose:",
+   "opts": [
+    "Amlodipine",
+    "Digoxin",
+    "Adenosine",
+    "Flecainide"
+   ],
+   "ans": 0,
+   "exp": "The final note says thiazides can be combined with ↓ dose amlodipine for other causes. (Book p88)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U22-1",
+   "ch": 22,
+   "n": 1,
+   "title": "Vasodilator Classification and Calcium Channel Blocker Comparison",
+   "sec": "Vasodilator Classification and Calcium Channel Blocker Comparison · p83",
+   "qs": [
+    "PHARM-C22-001",
+    "PHARM-C22-002",
+    "PHARM-C22-003",
+    "PHARM-C22-004",
+    "PHARM-C22-005",
+    "PHARM-C22-006",
+    "PHARM-C22-007",
+    "PHARM-C22-008",
+    "PHARM-C22-009",
+    "PHARM-C22-010",
+    "PHARM-C22-011",
+    "PHARM-C22-012",
+    "PHARM-C22-013",
+    "PHARM-C22-014",
+    "PHARM-C22-015",
+    "PHARM-C22-016",
+    "PHARM-C22-017",
+    "PHARM-C22-018",
+    "PHARM-C22-019",
+    "PHARM-C22-020",
+    "PHARM-C22-021"
+   ],
+   "guide": "Vasodilators are classified by hemodynamic target: arterial dilators lower afterload, venodilators lower preload and sodium nitroprusside is mixed. Calcium channel blockers split into non-DHP diltiazem/verapamil and DHP agents. Non-DHP agents are weaker vasodilators but late AV/SA nodal blockers used in arrhythmia, whereas DHPs are potent vasodilators with significant reflex tachycardia and no AV nodal block."
+  },
+  {
+   "id": "PHARM-U22-2",
+   "ch": 22,
+   "n": 2,
+   "title": "Calcium Channel Blocker Adverse Effects and Uses",
+   "sec": "Calcium Channel Blocker Adverse Effects and Uses · p84",
+   "qs": [
+    "PHARM-C22-022",
+    "PHARM-C22-023",
+    "PHARM-C22-024",
+    "PHARM-C22-025",
+    "PHARM-C22-026",
+    "PHARM-C22-027",
+    "PHARM-C22-028",
+    "PHARM-C22-029",
+    "PHARM-C22-030",
+    "PHARM-C22-031",
+    "PHARM-C22-032",
+    "PHARM-C22-033"
+   ],
+   "guide": "Calcium channel blockers are first-line antihypertensives and DOC for Raynaud phenomenon; oral nimodipine prevents cerebral vasoconstriction after subarachnoid hemorrhage because it is lipid soluble and crosses the BBB. Their adverse effects reflect vasodilation and nodal block: headache is most common, amlodipine causes precapillary ankle edema prevented by low-dose amlodipine plus ACEI, verapamil causes constipation, and diltiazem/verapamil cannot be combined with β blockers."
+  },
+  {
+   "id": "PHARM-U22-3",
+   "ch": 22,
+   "n": 3,
+   "title": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam",
+   "sec": "Other Arterial Dilators: Hydralazine, Minoxidil, Diazoxide and Fenoldopam · p84",
+   "qs": [
+    "PHARM-C22-034",
+    "PHARM-C22-035",
+    "PHARM-C22-036",
+    "PHARM-C22-037",
+    "PHARM-C22-038",
+    "PHARM-C22-039",
+    "PHARM-C22-040",
+    "PHARM-C22-041",
+    "PHARM-C22-042",
+    "PHARM-C22-043",
+    "PHARM-C22-044",
+    "PHARM-C22-045",
+    "PHARM-C22-046",
+    "PHARM-C22-047",
+    "PHARM-C22-048",
+    "PHARM-C22-049"
+   ],
+   "guide": "Hydralazine blocks IP3-induced Ca2+ channels, opens K+ channels and increases NO; it is used for hypertensive emergency in pregnancy, though IV labetalol is the DOC, and can cause SLE/Sweet syndrome. Minoxidil is a potent K+ opener used orally as a second-line elderly antihypertensive and topically in androgenic alopecia; diazoxide is for insulinoma but can cause shock; fenoldopam is a D1 and α2 agonist."
+  },
+  {
+   "id": "PHARM-U22-4",
+   "ch": 22,
+   "n": 4,
+   "title": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications",
+   "sec": "Nitroglycerin Mechanism, Uses, Tolerance and Contraindications · p85",
+   "qs": [
+    "PHARM-C22-050",
+    "PHARM-C22-051",
+    "PHARM-C22-052",
+    "PHARM-C22-053",
+    "PHARM-C22-054",
+    "PHARM-C22-055",
+    "PHARM-C22-056",
+    "PHARM-C22-057",
+    "PHARM-C22-058",
+    "PHARM-C22-059",
+    "PHARM-C22-060",
+    "PHARM-C22-061",
+    "PHARM-C22-062",
+    "PHARM-C22-063",
+    "PHARM-C22-064",
+    "PHARM-C22-065",
+    "PHARM-C22-066",
+    "PHARM-C22-067",
+    "PHARM-C22-068",
+    "PHARM-C22-069",
+    "PHARM-C22-070",
+    "PHARM-C22-071"
+   ],
+   "guide": "Nitroglycerin is converted by aldehyde dehydrogenase to nitric oxide, which stimulates guanylate cyclase to raise cGMP and relax smooth muscle. cGMP is metabolized by PDE5, so sildenafil/tadalafil interact dangerously with nitrates. NTG is DOC sublingually for acute angina, patch/gel for prophylaxis, useful for MI pain and esophageal spasm, but causes tolerance prevented by an 8-hour nitrate-free nighttime interval and causes headache/Monday disease/postural hypotension."
+  },
+  {
+   "id": "PHARM-U22-5",
+   "ch": 22,
+   "n": 5,
+   "title": "Isosorbide Nitrates and Sodium Nitroprusside",
+   "sec": "Isosorbide Nitrates and Sodium Nitroprusside · p86",
+   "qs": [
+    "PHARM-C22-072",
+    "PHARM-C22-073",
+    "PHARM-C22-074",
+    "PHARM-C22-075",
+    "PHARM-C22-076",
+    "PHARM-C22-077",
+    "PHARM-C22-078",
+    "PHARM-C22-079",
+    "PHARM-C22-080",
+    "PHARM-C22-081",
+    "PHARM-C22-082",
+    "PHARM-C22-083",
+    "PHARM-C22-084",
+    "PHARM-C22-085",
+    "PHARM-C22-086",
+    "PHARM-C22-087"
+   ],
+   "guide": "Isosorbide dinitrate is an oral nitrate that undergoes first-pass denitration to active isosorbide mononitrate; IDN is used orally for angina prophylaxis and sublingually for acute angina. Isosorbide mononitrate has 0% first-pass metabolism and is used orally for long-term prophylaxis. Sodium nitroprusside is a mixed dilator metabolized to therapeutic NO and toxic cyanide/thiocyanate, so it is not preferred for hypertensive emergency/aortic dissection despite being effective."
+  },
+  {
+   "id": "PHARM-U22-6",
+   "ch": 22,
+   "n": 6,
+   "title": "RAAS Physiology, ACE Inhibition and Contraindications",
+   "sec": "RAAS Physiology, ACE Inhibition and Contraindications · p87",
+   "qs": [
+    "PHARM-C22-088",
+    "PHARM-C22-089",
+    "PHARM-C22-090",
+    "PHARM-C22-091",
+    "PHARM-C22-092",
+    "PHARM-C22-093",
+    "PHARM-C22-094",
+    "PHARM-C22-095",
+    "PHARM-C22-096",
+    "PHARM-C22-097",
+    "PHARM-C22-098",
+    "PHARM-C22-099",
+    "PHARM-C22-100",
+    "PHARM-C22-101",
+    "PHARM-C22-102",
+    "PHARM-C22-103",
+    "PHARM-C22-104",
+    "PHARM-C22-105",
+    "PHARM-C22-106",
+    "PHARM-C22-107",
+    "PHARM-C22-108",
+    "PHARM-C22-109",
+    "PHARM-C22-110",
+    "PHARM-C22-111",
+    "PHARM-C22-112"
+   ],
+   "guide": "The RAAS page maps liver angiotensinogen to angiotensin I through kidney renin, then lung ACE to angiotensin II, then aminopeptidases to angiotensin III and IV. ACE also behaves like kininase, so ACE inhibitors increase bradykinin, prostaglandins and substance P, causing dry cough and angioedema. Angiotensin II/III act through AT1 receptors on vessels, adrenals and glomeruli; RAAS blockers cause postural hypotension/hyperkalemia and are contraindicated in pregnancy and bilateral renal artery stenosis."
+  },
+  {
+   "id": "PHARM-U22-7",
+   "ch": 22,
+   "n": 7,
+   "title": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test",
+   "sec": "ACE Inhibitors, ARBs, Aliskiren and Captopril Test · p88",
+   "qs": [
+    "PHARM-C22-113",
+    "PHARM-C22-114",
+    "PHARM-C22-115",
+    "PHARM-C22-116",
+    "PHARM-C22-117",
+    "PHARM-C22-118",
+    "PHARM-C22-119",
+    "PHARM-C22-120",
+    "PHARM-C22-121",
+    "PHARM-C22-122",
+    "PHARM-C22-123",
+    "PHARM-C22-124",
+    "PHARM-C22-125",
+    "PHARM-C22-126",
+    "PHARM-C22-127",
+    "PHARM-C22-128",
+    "PHARM-C22-129",
+    "PHARM-C22-130",
+    "PHARM-C22-131",
+    "PHARM-C22-132",
+    "PHARM-C22-133",
+    "PHARM-C22-134",
+    "PHARM-C22-135",
+    "PHARM-C22-136"
+   ],
+   "guide": "The drug table gives ACE inhibitors, ARBs and direct renin inhibitors. ACE inhibitors include captopril, lisinopril, fosinopril, enalapril and IV enalaprilat; ARBs include losartan with PPARγ/uricosuric/TXA2 effects, telmisartan as the maximum PPARγ agonist, olmesartan and irbesartan with AV nodal AF rate control; aliskiren is the direct renin inhibitor. ACEI/ARBs are first-line for hyperreninemic HTN and DOC in HTN with DM, CKD, nephrotic syndrome and scleroderma; captopril testing differentiates renovascular from essential hypertension."
+  }
+ ]
+}
