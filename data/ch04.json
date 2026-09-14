@@ -1,56 +1,1276 @@
 {
 "questions": [
-{"id":"PHARM-C4-001","sec":"Apparent Volume of Distribution (AVd)","page":9,"q":"The apparent volume of distribution (AVd) is defined as the:","opts":["Hypothetical volume of plasma in litres necessary to account for the total amount of drug in the patient's body, intravascular and extravascular","True plasma volume measured by dye dilution","Volume of blood cleared of drug per unit time","Volume of drug solution administered"],"ans":0,"exp":"AVd is a hypothetical volume of plasma in litres necessary to account for the total amount of drug (intravascularly and extravascularly) in the patient's body - it is not a real anatomical space. (Book p9)"},
-{"id":"PHARM-C4-002","sec":"Apparent Volume of Distribution (AVd)","page":9,"q":"A drug with a HIGH apparent volume of distribution is distributed mostly in the:","opts":["Extravascular compartment/tissue","Intravascular compartment/systemic circulation","Plasma water","Blood cells"],"ans":0,"exp":"A drug with increased AVd is mostly in the extravascular compartment/tissue; one with a low AVd remains mostly intravascular/systemic. (Book p9)"},
-{"id":"PHARM-C4-003","sec":"Apparent Volume of Distribution (AVd)","page":9,"q":"A drug that is largely confined to the intravascular compartment has:","opts":["A low apparent volume of distribution","A high apparent volume of distribution","An AVd equal to total body water","An AVd independent of protein binding"],"ans":0,"exp":"Drug with low AVd - mostly in intravascular compartment/systemic; high AVd means extensive tissue distribution. (Book p9)"},
-{"id":"PHARM-C4-004","sec":"Calculation of AVd","page":9,"q":"The formula for apparent volume of distribution is:","opts":["AVd = Dose/C0 x f","AVd = C0/Dose x f","AVd = Dose x C0/f","AVd = Dose x f/C0"],"ans":0,"exp":"AVd = D(dose)/C0 x f, where C0 is the initial plasma concentration and f is bioavailability. (Book p9)"},
-{"id":"PHARM-C4-005","sec":"Calculation of AVd","page":9,"q":"In the AVd equation, C0 stands for:","opts":["Initial plasma concentration","Target plasma concentration","Steady state concentration","Maximum plasma concentration"],"ans":0,"exp":"C0 in the AVd formula is the initial plasma concentration measured after the dose; CT (used in the loading dose formula) is the target plasma concentration. (Book p9)"},
-{"id":"PHARM-C4-006","sec":"Calculation of AVd","page":9,"q":"For which route is bioavailability (f) equal to 1 while calculating AVd?","opts":["Intravenous","Intramuscular","Subcutaneous","Oral"],"ans":0,"exp":"f = 1 for the intravenous route, since the whole dose enters the systemic circulation - so AVd = dose/C0 for IV dosing. (Book p9)"},
-{"id":"PHARM-C4-007","sec":"Loading dose","page":9,"q":"The loading dose of a drug is calculated by the formula:","opts":["D = AVd x CT / f","D = AVd x f / CT","D = f x CT / AVd","D = AVd x CT x f"],"ans":0,"exp":"Loading dose D = AVd x CT / f, where CT is the target plasma concentration (a constant). (Book p9)"},
-{"id":"PHARM-C4-008","sec":"Loading dose","page":9,"q":"In the loading dose formula, CT denotes:","opts":["Target plasma concentration (constant)","Initial plasma concentration","Total dose administered","Clearance time"],"ans":0,"exp":"CT is the target plasma concentration and is treated as a constant, so the dose varies directly with AVd and inversely with f. (Book p9)"},
-{"id":"PHARM-C4-009","sec":"Loading dose","page":9,"q":"The relationship given for loading dose is:","opts":["D is directly proportional to AVd/f","D is directly proportional to f/AVd","D is directly proportional to AVd x f","D is independent of AVd"],"ans":0,"exp":"D is directly proportional to AVd/f, so a drug with a large AVd needs a larger loading dose to achieve the same target concentration. (Book p9)"},
-{"id":"PHARM-C4-010","sec":"Loading dose","page":9,"q":"If the apparent volume of distribution of a drug increases, then to maintain the target plasma concentration:","opts":["The dose must be increased","The dose must be decreased","The dose stays the same","The dose must be halved"],"ans":0,"exp":"Because D is proportional to AVd/f, if AVd increases the dose has to be increased to maintain the target concentration CT. (Book p9)"},
-{"id":"PHARM-C4-011","sec":"Factors determining AVd","page":9,"q":"How does obesity affect apparent volume of distribution?","opts":["Increases vd","Decreases vd","No effect on vd","Increases vd only for water-soluble drugs"],"ans":0,"exp":"Fat content determines vd: obesity increases vd, while athletes (with less fat) have a decreased vd. (Book p9)"},
-{"id":"PHARM-C4-012","sec":"Factors determining AVd","page":9,"q":"Athletes have a decreased volume of distribution because they have:","opts":["Lower fat content","Higher fat content","Higher plasma albumin","Greater tissue binding"],"ans":0,"exp":"Fat content is proportional to vd; athletes have a lower fat content and therefore a lower vd than an obese patient. (Book p9)"},
-{"id":"PHARM-C4-013","sec":"Factors determining AVd","page":9,"q":"Regarding sex differences in volume of distribution, the book states:","opts":["Females, having a higher fat content, have a greater vd","Males have a greater vd because of higher muscle mass","vd is identical in both sexes","vd is lower in females due to lower albumin"],"ans":0,"exp":"Sex affects vd through fat content: F (females) with higher fat content > M (males). (Book p9)"},
-{"id":"PHARM-C4-014","sec":"Factors determining AVd","page":9,"q":"Plasma protein binding (albumin binding) relates to apparent volume of distribution as:","opts":["Albumin binding is inversely proportional to vd","Albumin binding is directly proportional to vd","Albumin binding has no relation to vd","Albumin binding is proportional to vd squared"],"ans":0,"exp":"The book states albumin binding (plasma protein binding) is proportional to 1/vd - more binding keeps the drug intravascular and lowers vd. (Book p9)"},
-{"id":"PHARM-C4-015","sec":"Factors determining AVd","page":9,"q":"Which of the following is NOT listed among the factors determining apparent volume of distribution?","opts":["Renal clearance of the drug","Fat content of the body","Lipid solubility (pKa)","Tissue binding"],"ans":0,"exp":"The listed factors are fat content (obesity, athletes, sex), lipid solubility (pKa), albumin binding (inversely proportional) and tissue binding - renal clearance is not among them. (Book p9)"},
-{"id":"PHARM-C4-016","sec":"Factors determining AVd","page":9,"q":"Which property of a drug increases its apparent volume of distribution?","opts":["Lipid solubility","Extensive albumin binding","Small molecular size alone","Water solubility"],"ans":0,"exp":"Lipid solubility (pKa) favours tissue distribution and increases vd, whereas albumin binding holds drug intravascularly and decreases vd. (Book p9)"},
-{"id":"PHARM-C4-017","sec":"Factors determining AVd","page":9,"q":"Digoxin is distributed to skeletal muscle more than to the heart because:","opts":["Skeletal muscle has a greater mass","The heart lacks digoxin receptors","Skeletal muscle is more vascular","Digoxin is water soluble"],"ans":0,"exp":"Digoxin distributes to skeletal muscle > heart due to the greater mass of skeletal muscle - although the heart is the target organ. (Book p9)"},
-{"id":"PHARM-C4-018","sec":"Factors determining AVd","page":9,"q":"The loading dose of digoxin is determined by:","opts":["Lean body mass, not total body mass","Total body mass","Heart weight","Plasma albumin level"],"ans":0,"exp":"Because digoxin distributes to skeletal muscle by mass, its loading dose is calculated on lean body mass and not on total body mass - a practical point in obese patients. (Book p9)"},
-{"id":"PHARM-C4-019","sec":"Significance in toxicity","page":9,"q":"When a drug has a very high volume of distribution, dialysis is ineffective because:","opts":["Extravascular concentration is high and intravascular concentration is low","The drug is tightly bound to albumin","The drug is water soluble","The drug is not filtered by the glomerulus"],"ans":0,"exp":"A very high vd means most drug is extravascular with little in plasma, so dialysis cannot remove significant drug - dialysis is ineffective. (Book p9)"},
-{"id":"PHARM-C4-020","sec":"Significance in toxicity","page":9,"q":"In toxicity due to a drug with a very high volume of distribution, treatment relies on:","opts":["Antidotes","Haemodialysis","Forced alkaline diuresis","Plasmapheresis"],"ans":0,"exp":"Since dialysis is ineffective for drugs with a large vd, antidotes are given in toxicity. (Book p9)"},
-{"id":"PHARM-C4-021","sec":"Drugs with increased vd","page":10,"q":"The mnemonic BADDOC is used for:","opts":["Drugs with increased volume of distribution","Drugs undergoing zero order metabolism","Drugs with low bioavailability","Drugs bound to alpha-1 acid glycoprotein"],"ans":0,"exp":"BADDOC lists the drugs with increased vd - benzodiazepines, beta blockers, amphetamines, digoxin, opioids, organophosphates and calcium channel blockers. (Book p10)"},
-{"id":"PHARM-C4-022","sec":"Drugs with increased vd","page":10,"q":"Which mnemonic groups drugs that are NOT cleared by dialysis?","opts":["BADDOC","ORCHAD","LUNA","WIPE"],"ans":0,"exp":"BADDOC - benzodiazepines, beta blockers, amphetamines, digoxin, opioids, organophosphates, calcium channel blockers - are the drugs with a high vd, hence not cleared by dialysis. (Book p10)"},
-{"id":"PHARM-C4-023","sec":"Drugs with increased vd","page":10,"q":"The specific antidote for benzodiazepine poisoning is:","opts":["Flumazenil","Naloxone","Atropine","Glucagon"],"ans":0,"exp":"The table pairs benzodiazepines (not cleared by dialysis) with the antidote flumazenil. (Book p10)"},
-{"id":"PHARM-C4-024","sec":"Drugs with increased vd","page":10,"q":"Beta blocker overdose is treated with glucagon because glucagon:","opts":["Increases cAMP","Blocks beta receptors","Increases vagal tone","Chelates the beta blocker"],"ans":0,"exp":"The table pairs beta blockers (which block GPCR) with glucagon, whose antidotal action works by increasing cAMP. (Book p10)"},
-{"id":"PHARM-C4-025","sec":"Drugs with increased vd","page":10,"q":"The antidote for amphetamine poisoning is:","opts":["Ammonium chloride","Naloxone","Flumazenil","Calcium gluconate"],"ans":0,"exp":"Ammonium chloride is the antidote for amphetamines - it acidifies the urine and traps the basic drug for excretion. (Book p10)"},
-{"id":"PHARM-C4-026","sec":"Drugs with increased vd","page":10,"q":"The antidote for digoxin toxicity is:","opts":["Digibind","Naloxone","Atropine","Calcium gluconate"],"ans":0,"exp":"The book pairs digoxin (not cleared by dialysis) with the antidote Digibind (digoxin-specific antibody fragments). (Book p10)"},
-{"id":"PHARM-C4-027","sec":"Drugs with increased vd","page":10,"q":"The antidote for opioid poisoning is:","opts":["Naloxone","Flumazenil","Atropine","Glucagon"],"ans":0,"exp":"The table pairs opioids with naloxone as the antidote. (Book p10)"},
-{"id":"PHARM-C4-028","sec":"Drugs with increased vd","page":10,"q":"The antidote for organophosphate poisoning is:","opts":["Atropine","Naloxone","Flumazenil","Ammonium chloride"],"ans":0,"exp":"In the table organophosphates are paired with atropine as the antidote. (Book p10)"},
-{"id":"PHARM-C4-029","sec":"Drugs with increased vd","page":10,"q":"The antidote for calcium channel blocker poisoning is:","opts":["Calcium gluconate","Glucagon","Atropine","Flumazenil"],"ans":0,"exp":"Calcium channel blockers are paired with calcium gluconate as the antidote. (Book p10)"},
-{"id":"PHARM-C4-030","sec":"Drugs with increased vd","page":10,"q":"Which pair of poison and antidote is correctly matched as per the table?","opts":["Digoxin - Digibind","Amphetamine - naloxone","Opioids - ammonium chloride","Organophosphates - glucagon"],"ans":0,"exp":"Correct pairs are benzodiazepines-flumazenil, beta blockers-glucagon, amphetamines-ammonium chloride, digoxin-Digibind, opioids-naloxone, organophosphates-atropine and calcium channel blockers-calcium gluconate. (Book p10)"},
-{"id":"PHARM-C4-031","sec":"Plasma protein binding","page":10,"q":"Albumin binds predominantly to:","opts":["Acidic drugs (m/c)","Basic drugs","Neutral drugs only","Lipophilic drugs only"],"ans":0,"exp":"Albumin is the main plasma protein and binds acid drugs most commonly; basic drugs are bound by alpha-1 acid glycoprotein. (Book p10)"},
-{"id":"PHARM-C4-032","sec":"Plasma protein binding","page":10,"q":"Basic drugs are bound mainly to:","opts":["Alpha-1 acid glycoprotein","Albumin","Globulin","Fibrinogen"],"ans":0,"exp":"Alpha-1 acid glycoprotein is the plasma protein that binds basic drugs, whereas albumin binds acidic drugs. (Book p10)"},
-{"id":"PHARM-C4-033","sec":"Plasma protein binding","page":10,"q":"Which group of drugs is listed as bound to albumin?","opts":["Antipsychotics, antidepressants, antiepileptics","Tricyclic antidepressants, opioids, antiarrhythmics","Amphetamines, organophosphates, calcium channel blockers","Beta blockers, amiodarone, lidocaine"],"ans":0,"exp":"Albumin-bound drugs listed are antipsychotics, antidepressants, antiepileptics, sulfonamide antibiotics, warfarin and aspirin. (Book p10)"},
-{"id":"PHARM-C4-034","sec":"Plasma protein binding","page":10,"q":"Which group of drugs is listed as bound to alpha-1 acid glycoprotein?","opts":["Tricyclic antidepressants, opioids and antiarrhythmics (beta blockers, amiodarone, lidocaine)","Sulfonamides, warfarin, aspirin","Antipsychotics and antiepileptics","Amphetamines and organophosphates"],"ans":0,"exp":"Alpha-1 acid glycoprotein binds tricyclic antidepressants, opioids and antiarrhythmics - beta blockers, amiodarone and lidocaine. (Book p10)"},
-{"id":"PHARM-C4-035","sec":"Plasma protein binding","page":10,"q":"Warfarin and aspirin, both albumin bound, increase each other's plasma concentration when used together, leading to:","opts":["Increased bleeding","Decreased bleeding","Increased renal excretion","Reduced anticoagulant effect"],"ans":0,"exp":"The book notes that albumin-bound drugs increase each other's plasma concentration if used together, and with warfarin plus aspirin this raises the risk of bleeding. (Book p10)"},
-{"id":"PHARM-C4-036","sec":"Plasma protein binding","page":10,"q":"When albumin falls, the sequence of events for a bound drug is:","opts":["Decreased albumin - increased free drug - increased risk of toxicity","Decreased albumin - increased free drug - decreased effect","Increased albumin - increased free drug - increased toxicity","Decreased albumin - decreased free drug - decreased toxicity"],"ans":0,"exp":"Reduced albumin leaves more free (unbound) drug, and this raises the risk of toxicity - the classic example being phenytoin in nephrotic syndrome. (Book p10)"},
-{"id":"PHARM-C4-037","sec":"Plasma protein binding","page":10,"q":"When alpha-1 acid glycoprotein increases, the effect on drugs is:","opts":["Decreased free drug and decreased effect","Increased free drug and increased effect","No change in free drug","Decreased free drug but increased effect"],"ans":0,"exp":"An increase in alpha-1 glycoprotein binds more basic drug, so free drug falls and the effect falls. (Book p10)"},
-{"id":"PHARM-C4-038","sec":"Plasma protein binding","page":10,"q":"Which conditions are listed as causing a decreased albumin level?","opts":["Nephrotic syndrome, CKD, liver cirrhosis, diabetes mellitus","Rheumatoid arthritis, inflammatory bowel disease, myocardial infarction","Obesity, pregnancy, hyperthyroidism","Sepsis and trauma"],"ans":0,"exp":"The clinical application box lists decreased albumin in nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus. (Book p10)"},
-{"id":"PHARM-C4-039","sec":"Plasma protein binding","page":10,"q":"An increase in alpha-1 acid glycoprotein occurs in:","opts":["Inflammatory conditions (rheumatoid arthritis, inflammatory bowel disease) and myocardial infarction","Nephrotic syndrome and liver cirrhosis","Diabetes mellitus and CKD","Obesity and athlete states"],"ans":0,"exp":"Alpha-1 glycoprotein rises in inflammation - rheumatoid arthritis, inflammatory bowel disease - and after myocardial infarction. (Book p10)"},
-{"id":"PHARM-C4-040","sec":"Plasma protein binding","page":10,"q":"In a patient with nephrotic syndrome receiving a highly albumin-bound drug, you should expect:","opts":["A greater free fraction of drug and an increased risk of toxicity","A lower free fraction and a reduced effect","No change in free drug because binding is unchanged","Increased alpha-1 acid glycoprotein binding"],"ans":0,"exp":"Nephrotic syndrome lowers albumin, so more unbound acidic drug circulates and toxicity risk rises - the book's 'decreased albumin - increased free drug - increased risk of toxicity' chain. (Book p10)"},
-{"id":"PHARM-C4-041","sec":"Plasma protein binding","page":10,"q":"In a patient with rheumatoid arthritis on a basic drug, a rise in alpha-1 acid glycoprotein will produce:","opts":["A decreased free drug level and a decreased effect","An increased free drug level and an increased effect","An increased risk of toxicity","Unchanged free drug because albumin compensates"],"ans":0,"exp":"Inflammatory states raise alpha-1 acid glycoprotein, which binds more basic drug, lowering free drug and reducing the effect. (Book p10)"},
-{"id":"PHARM-C4-042","sec":"Plasma protein binding","page":10,"q":"Which two plasma protein-patient condition pairs are correctly matched?","opts":["Albumin - nephrotic syndrome (low); alpha-1 acid glycoprotein - myocardial infarction (high)","Albumin - rheumatoid arthritis (high); alpha-1 acid glycoprotein - cirrhosis (low)","Albumin - myocardial infarction (high); alpha-1 acid glycoprotein - CKD (low)","Albumin - diabetes mellitus (high); alpha-1 acid glycoprotein - nephrotic syndrome (high)"],"ans":0,"exp":"Albumin is reduced in nephrotic syndrome, CKD, cirrhosis and diabetes mellitus; alpha-1 acid glycoprotein is increased in inflammation and myocardial infarction. (Book p10)"}
+{
+"id": "PHARM-C4-001",
+"sec": "AVD definition",
+"page": 9,
+"q": "Apparent volume of distribution (AVD) is defined as the:",
+"opts": [
+"Hypothetical volume of plasma in litres necessary to account for the total amount of drug in the patient's body",
+"Actual volume of plasma in litres measured by dilution",
+"Volume of drug solution administered intravenously",
+"Volume of drug distributed to adipose tissue"
+],
+"ans": 0,
+"exp": "'Hypothetical volume of plasma in litres necessary to account for the total amount of drug (intravascularly and extravascularly) in the patient's body.' (Book p9)"
+},
+{
+"id": "PHARM-C4-002",
+"sec": "AVD definition",
+"page": 9,
+"q": "In the definition of AVD, the 'total amount of drug' refers to drug present:",
+"opts": [
+"Intravascularly and extravascularly",
+"In plasma only",
+"In the extravascular compartment only",
+"In the urine"
+],
+"ans": 0,
+"exp": "The definition specifies the total amount of drug, both intravascularly and extravascularly, in the patient's body. (Book p9)"
+},
+{
+"id": "PHARM-C4-003",
+"sec": "AVD definition",
+"page": 9,
+"q": "A drug with a high AVD is located mostly in the:",
+"opts": [
+"Extravascular compartment/tissue",
+"Intravascular compartment",
+"Plasma water",
+"Systemic circulation"
+],
+"ans": 0,
+"exp": "'Drug with ↑AVD → mostly in Extravascular compartment/Tissue.' (Book p9)"
+},
+{
+"id": "PHARM-C4-004",
+"sec": "AVD definition",
+"page": 9,
+"q": "A drug with a low AVD is located mostly in the:",
+"opts": [
+"Intravascular compartment/systemic circulation",
+"Extravascular compartment",
+"Adipose tissue",
+"Skeletal muscle"
+],
+"ans": 0,
+"exp": "'Drug with ↓AVD → mostly in Intravascular compartment/Systemic.' (Book p9)"
+},
+{
+"id": "PHARM-C4-005",
+"sec": "AVD definition",
+"page": 9,
+"q": "AVD is called 'apparent' because:",
+"opts": [
+"It is a hypothetical volume, not a real anatomical space",
+"It is measured directly in plasma",
+"It equals the plasma volume",
+"It is calculated only for IV drugs"
+],
+"ans": 0,
+"exp": "AVD is defined as a hypothetical volume of plasma in litres needed to account for the total drug in the body, not a real measured compartment. (Book p9)"
+},
+{
+"id": "PHARM-C4-006",
+"sec": "AVD calculation",
+"page": 9,
+"q": "The formula given for apparent volume of distribution is:",
+"opts": [
+"AVD = D(dose)/C0 × f",
+"AVD = C0 × f/D",
+"AVD = D × C0/f",
+"AVD = D × C0 × f"
+],
+"ans": 0,
+"exp": "AVD = D(dose)/C0 × f, where C0 is the initial plasma concentration and f is bioavailability. (Book p9)"
+},
+{
+"id": "PHARM-C4-007",
+"sec": "AVD calculation",
+"page": 9,
+"q": "In the AVD formula, C0 represents the:",
+"opts": [
+"Initial plasma concentration",
+"Target plasma concentration",
+"Clearance",
+"Concentration at time of elimination"
+],
+"ans": 0,
+"exp": "The arrow under the formula labels C0 as 'Initial plasma concentration' — the concentration extrapolated to zero time after IV dosing. (Book p9)"
+},
+{
+"id": "PHARM-C4-008",
+"sec": "AVD calculation",
+"page": 9,
+"q": "In the AVD formula, f stands for:",
+"opts": [
+"Bioavailability",
+"Fraction unbound",
+"Frequency of dosing",
+"Free drug concentration"
+],
+"ans": 0,
+"exp": "'f: Bioavailability' — and the text notes 'f = 1 in intravenous route'. (Book p9)"
+},
+{
+"id": "PHARM-C4-009",
+"sec": "AVD calculation",
+"page": 9,
+"q": "In which route is the value of f taken as 1?",
+"opts": [
+"Intravenous",
+"Oral",
+"Intramuscular",
+"Subcutaneous"
+],
+"ans": 0,
+"exp": "'f = 1 in intravenous route' — the IV route has 100% bioavailability, so f = 1. (Book p9)"
+},
+{
+"id": "PHARM-C4-010",
+"sec": "Loading dose",
+"page": 9,
+"q": "The formula given for loading dose is:",
+"opts": [
+"D = AVD × CT/f",
+"D = AVD/f × CT × 100",
+"D = CT × f/AVD",
+"D = AVD × f/CT"
+],
+"ans": 0,
+"exp": "Loading dose: D = AVD × CT/f, where CT is the target plasma concentration. (Book p9)"
+},
+{
+"id": "PHARM-C4-011",
+"sec": "Loading dose",
+"page": 9,
+"q": "In the loading dose formula, CT is the:",
+"opts": [
+"Target plasma concentration (constant)",
+"Initial plasma concentration",
+"Total clearance",
+"Trough concentration"
+],
+"ans": 0,
+"exp": "CT is labelled 'Target plasma concentration (constant)' — the concentration we wish to achieve and maintain. (Book p9)"
+},
+{
+"id": "PHARM-C4-012",
+"sec": "Loading dose",
+"page": 9,
+"q": "As shown in the box, the loading dose is:",
+"opts": [
+"Directly proportional to AVD/f",
+"Inversely proportional to AVD/f",
+"Independent of AVD",
+"Proportional to f only"
+],
+"ans": 0,
+"exp": "The text states 'D ∝ AVD/f': loading dose rises with a larger volume of distribution and falls with higher bioavailability. (Book p9)"
+},
+{
+"id": "PHARM-C4-013",
+"sec": "Loading dose",
+"page": 9,
+"q": "If the AVD of a drug is increased, the loading dose must be:",
+"opts": [
+"Increased to maintain CT",
+"Decreased to maintain CT",
+"Unchanged",
+"Given by a different route"
+],
+"ans": 0,
+"exp": "'If AVD of a drug is ↑, Dose is increased to maintain CT' — a bigger apparent volume needs a bigger loading dose. (Book p9)"
+},
+{
+"id": "PHARM-C4-014",
+"sec": "Loading dose",
+"page": 9,
+"q": "A drug has a large AVD and low bioavailability. Its loading dose will be:",
+"opts": [
+"Large, because D ∝ AVD/f",
+"Small, because D ∝ AVD/f",
+"Unrelated to AVD and f",
+"Equal to the maintenance dose"
+],
+"ans": 0,
+"exp": "Since D ∝ AVD/f, a big volume of distribution and a low f both increase the required loading dose to achieve the target concentration. (Book p9)"
+},
+{
+"id": "PHARM-C4-015",
+"sec": "AVD factors",
+"page": 9,
+"q": "Which of the following is a factor determining apparent volume of distribution?",
+"opts": [
+"Fat content",
+"Gastric pH",
+"Urine pH",
+"Intestinal surface area"
+],
+"ans": 0,
+"exp": "The factors listed are fat content, lipid solubility (pKa), albumin/plasma protein binding and tissue binding — gastric/urinary pH relate to ionisation, not distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-016",
+"sec": "AVD factors",
+"page": 9,
+"q": "In obese individuals, the volume of distribution of a drug:",
+"opts": [
+"Increases",
+"Decreases",
+"Remains unchanged",
+"Becomes equal to plasma volume"
+],
+"ans": 0,
+"exp": "'Obesity: ↑ volume of distribution (vd)' — excess fat increases the compartment available to lipid-soluble drug. (Book p9)"
+},
+{
+"id": "PHARM-C4-017",
+"sec": "AVD factors",
+"page": 9,
+"q": "In athletes, the volume of distribution of a drug:",
+"opts": [
+"Decreases",
+"Increases",
+"Is equal to that in obesity",
+"Is unrelated to body composition"
+],
+"ans": 0,
+"exp": "'Athletes: ↓ vd' — athletes have less fat and more lean tissue, lowering the apparent volume of distribution for fat-soluble drugs. (Book p9)"
+},
+{
+"id": "PHARM-C4-018",
+"sec": "AVD factors",
+"page": 9,
+"q": "Regarding sex, the volume of distribution is greater in:",
+"opts": [
+"Females, because of higher fat content",
+"Males, because of higher fat content",
+"Females, because of higher muscle mass",
+"Males, because of higher muscle mass"
+],
+"ans": 0,
+"exp": "'Sex: F(↑ Fat content) > M' — women have more fat, hence a higher volume of distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-019",
+"sec": "AVD factors",
+"page": 9,
+"q": "Which drug property is listed as a determinant of AVD?",
+"opts": [
+"Lipid solubility (pKa)",
+"Renal clearance",
+"Gastric emptying rate",
+"Intestinal Pgp efflux"
+],
+"ans": 0,
+"exp": "'Lipid Soluble (pKa)' is listed among the factors determining AVD — a more lipid-soluble drug partitions into tissues and has a larger volume of distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-020",
+"sec": "AVD factors",
+"page": 9,
+"q": "Plasma protein (albumin) binding is related to the volume of distribution as:",
+"opts": [
+"Binding ∝ 1/vd",
+"Binding ∝ vd",
+"Binding is independent of vd",
+"Binding ∝ vd²"
+],
+"ans": 0,
+"exp": "'Albumin binding (Plasma protein binding) ∝ 1/vd' — the more a drug is bound to plasma protein, the more it is retained intravascularly and the smaller its volume of distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-021",
+"sec": "AVD factors",
+"page": 9,
+"q": "Which factor tends to hold drug outside the plasma and thereby raise the AVD?",
+"opts": [
+"Tissue binding",
+"Albumin binding",
+"Low lipid solubility",
+"Small molecular size"
+],
+"ans": 0,
+"exp": "Tissue binding is listed as a factor; drug bound in tissues is not in plasma, so the apparent volume of distribution is large. (Book p9)"
+},
+{
+"id": "PHARM-C4-022",
+"sec": "AVD factors",
+"page": 9,
+"q": "A 20-year-old athlete and an obese diabetic man receive the same lipid-soluble drug. Compared with the obese man, the athlete will have:",
+"opts": [
+"A lower volume of distribution",
+"A higher volume of distribution",
+"The same volume of distribution",
+"A volume of distribution equal to plasma volume"
+],
+"ans": 0,
+"exp": "Obesity increases vd while athletes have a lower vd; the higher fat content of an obese individual expands the drug's apparent distribution volume. (Book p9)"
+},
+{
+"id": "PHARM-C4-023",
+"sec": "AVD factors",
+"page": 9,
+"q": "Which of the following factors would DECREASE the apparent volume of distribution of a drug?",
+"opts": [
+"High plasma albumin binding",
+"High tissue binding",
+"Increasing obesity",
+"High lipid solubility"
+],
+"ans": 0,
+"exp": "Albumin binding is inversely related to vd (binding ∝ 1/vd), whereas tissue binding, obesity and lipid solubility all raise vd. (Book p9)"
+},
+{
+"id": "PHARM-C4-024",
+"sec": "Digoxin distribution",
+"page": 9,
+"q": "The example given for pattern of distribution is that digoxin distributes to:",
+"opts": [
+"Skeletal muscle > heart",
+"Heart > skeletal muscle",
+"Adipose tissue > heart",
+"Liver > skeletal muscle"
+],
+"ans": 0,
+"exp": "'Distribution of Digoxin → Skeletal muscle > Heart' — the mass of skeletal muscle exceeds that of the heart. (Book p9)"
+},
+{
+"id": "PHARM-C4-025",
+"sec": "Digoxin distribution",
+"page": 9,
+"q": "Digoxin distributes to skeletal muscle more than to the heart because of the:",
+"opts": [
+"Greater mass of skeletal muscle",
+"Greater affinity of skeletal muscle receptors",
+"Higher blood flow to muscle",
+"Higher lipid content of muscle"
+],
+"ans": 0,
+"exp": "The diary attributes it to the greater mass ('d/t ↑ mass') of skeletal muscle compared with the heart, which is the target organ. (Book p9)"
+},
+{
+"id": "PHARM-C4-026",
+"sec": "Digoxin distribution",
+"page": 9,
+"q": "In the digoxin example, the heart is described as the:",
+"opts": [
+"Target organ",
+"Main storage site",
+"Excretory organ",
+"Site of metabolism"
+],
+"ans": 0,
+"exp": "The heart is labelled '(Target organ)' while skeletal muscle, being greater in mass, becomes the main distribution site. (Book p9)"
+},
+{
+"id": "PHARM-C4-027",
+"sec": "Digoxin distribution",
+"page": 9,
+"q": "The loading dose of digoxin is determined by:",
+"opts": [
+"Lean body mass and not total body mass",
+"Total body mass and not lean body mass",
+"Body surface area only",
+"Plasma albumin level"
+],
+"ans": 0,
+"exp": "'Hence loading dose is determined by lean body mass (not total body mass)' — fat contributes little to digoxin's distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-028",
+"sec": "Digoxin distribution",
+"page": 9,
+"q": "A morbidly obese patient requires a digoxin loading dose. Basing the dose on total body weight would:",
+"opts": [
+"Overdose the patient, because digoxin distributes to lean mass",
+"Underdose the patient, because fat stores digoxin",
+"Be correct, because fat binds digoxin",
+"Have no effect on the dose"
+],
+"ans": 0,
+"exp": "Because digoxin's loading dose is set by lean body mass and not total body mass, dosing a very obese patient on total weight would exceed the requirement. (Book p9)"
+},
+{
+"id": "PHARM-C4-029",
+"sec": "AVD & toxicity",
+"page": 9,
+"q": "A very high AVD leads to which pair of concentration changes?",
+"opts": [
+"↑ Extravascular concentration and ↓ intravascular concentration",
+"↓ Extravascular concentration and ↑ intravascular concentration",
+"↑ Both extravascular and intravascular concentration",
+"↓ Both extravascular and intravascular concentration"
+],
+"ans": 0,
+"exp": "'↑↑vd → ↑extravascular concentration; ↓intravascular concentration' — the drug is mostly outside the plasma. (Book p9)"
+},
+{
+"id": "PHARM-C4-030",
+"sec": "AVD & toxicity",
+"page": 9,
+"q": "Dialysis is ineffective in toxicity of drugs with a high AVD because:",
+"opts": [
+"The drug is largely outside the vascular compartment",
+"The drug is too large to be dialysed",
+"The drug is bound to dialyser membranes",
+"The drug is metabolised during dialysis"
+],
+"ans": 0,
+"exp": "With a high vd the extravascular concentration is high and the intravascular concentration low, so dialysis can remove only a negligible intravascular fraction — hence the note 'Dialysis is ineffective'. (Book p9)"
+},
+{
+"id": "PHARM-C4-031",
+"sec": "AVD & toxicity",
+"page": 9,
+"q": "In toxicity due to drugs that are not cleared by dialysis, treatment is with:",
+"opts": [
+"Antidotes",
+"Repeated dialysis",
+"Forced alkaline diuresis only",
+"Plasmapheresis"
+],
+"ans": 0,
+"exp": "The text states 'Antidotes are given in toxicity' — for high-vd drugs the antidote, not dialysis, is the treatment. (Book p9)"
+},
+{
+"id": "PHARM-C4-032",
+"sec": "AVD & toxicity",
+"page": 9,
+"q": "A patient with organophosphate poisoning has a drug with a very high vd. The appropriate management per the text is:",
+"opts": [
+"Give the antidote atropine, as dialysis is ineffective",
+"Start immediate haemodialysis",
+"Perform plasmapheresis",
+"Give activated charcoal only"
+],
+"ans": 0,
+"exp": "For high-vd drugs, dialysis is ineffective (low intravascular concentration) and antidotes are given — the table pairs organophosphates with atropine. (Book p9)"
+},
+{
+"id": "PHARM-C4-033",
+"sec": "BADDOC",
+"page": 10,
+"q": "The mnemonic BADDOC lists drugs with:",
+"opts": [
+"↑ Volume of distribution",
+"↓ Volume of distribution",
+"Zero bioavailability",
+"High plasma protein binding only"
+],
+"ans": 0,
+"exp": "The page is headed 'Drugs with ↑ vd: mnemonic: BADDOC.' — these are the drugs that are not cleared by dialysis. (Book p10)"
+},
+{
+"id": "PHARM-C4-034",
+"sec": "BADDOC",
+"page": 10,
+"q": "In the mnemonic BADDOC, the letter 'O' stands for:",
+"opts": [
+"Opioids",
+"Organophosphates",
+"Oral hypoglycaemics",
+"Organic nitrates"
+],
+"ans": 0,
+"exp": "BADDOC = Benzodiazepines, Beta blockers, Amphetamines, Digoxin, opiOids, Calcium channel blockers; organophosphates are also listed in the table but O stands for opioids. (Book p10)"
+},
+{
+"id": "PHARM-C4-035",
+"sec": "BADDOC",
+"page": 10,
+"q": "In the mnemonic BADDOC, the letter 'C' stands for:",
+"opts": [
+"Calcium channel blockers",
+"Cephalosporins",
+"Corticosteroids",
+"Clonidine"
+],
+"ans": 0,
+"exp": "BADDOC ends with Calcium channel blockers, which are treated with calcium gluconate. (Book p10)"
+},
+{
+"id": "PHARM-C4-036",
+"sec": "BADDOC",
+"page": 10,
+"q": "In BADDOC, the two groups beginning with the letter 'B' are:",
+"opts": [
+"Benzodiazepines and beta blockers",
+"Beta blockers and barbiturates",
+"Benzodiazepines and butyrophenones",
+"Barbiturates and benzodiazepines"
+],
+"ans": 0,
+"exp": "BADDOC = Benzodiazepines, Beta blockers, Amphetamines, Digoxin, Opioids, Calcium channel blockers. (Book p10)"
+},
+{
+"id": "PHARM-C4-037",
+"sec": "BADDOC",
+"page": 10,
+"q": "The table of drugs with ↑vd is titled 'Drugs not cleared by dialysis', and the second column lists their:",
+"opts": [
+"Antidotes",
+"Metabolites",
+"Elimination half-lives",
+"Volume of distribution values"
+],
+"ans": 0,
+"exp": "The two columns are 'Drugs not cleared by dialysis' and 'Antidotes' — for each high-vd drug the specific antidote is given. (Book p10)"
+},
+{
+"id": "PHARM-C4-038",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for benzodiazepine toxicity is:",
+"opts": [
+"Flumazenil",
+"Naloxone",
+"Glucagon",
+"Atropine"
+],
+"ans": 0,
+"exp": "Benzodiazepines → Flumazenil in the antidote table. (Book p10)"
+},
+{
+"id": "PHARM-C4-039",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for beta blocker toxicity is:",
+"opts": [
+"Glucagon, which increases cAMP",
+"Flumazenil",
+"Calcium gluconate",
+"Digibind"
+],
+"ans": 0,
+"exp": "Beta blockers (blocks GPCR) → Glucagon (↑cAMP): glucagon raises cAMP by a non-β-receptor route, bypassing the blocked receptor. (Book p10)"
+},
+{
+"id": "PHARM-C4-040",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for amphetamine toxicity is:",
+"opts": [
+"Ammonium chloride",
+"Atropine",
+"Naloxone",
+"Flumazenil"
+],
+"ans": 0,
+"exp": "Amphetamines → Ammonium chloride, the urine acidifier that traps the basic drug for excretion. (Book p10)"
+},
+{
+"id": "PHARM-C4-041",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for digoxin toxicity is:",
+"opts": [
+"Digibind",
+"Digoxin immune Fab only by dialysis",
+"Calcium gluconate",
+"Naloxone"
+],
+"ans": 0,
+"exp": "Digoxin → Digibind in the antidote table; because digoxin has a high vd, dialysis would not clear it. (Book p10)"
+},
+{
+"id": "PHARM-C4-042",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for opioid toxicity is:",
+"opts": [
+"Naloxone",
+"Flumazenil",
+"Atropine",
+"Glucagon"
+],
+"ans": 0,
+"exp": "Opioids → Naloxone, the opioid receptor antagonist. (Book p10)"
+},
+{
+"id": "PHARM-C4-043",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for organophosphate toxicity is:",
+"opts": [
+"Atropine",
+"Naloxone",
+"Calcium gluconate",
+"Ammonium chloride"
+],
+"ans": 0,
+"exp": "Organophosphates → Atropine, which reverses the muscarinic effects of the accumulated acetylcholine. (Book p10)"
+},
+{
+"id": "PHARM-C4-044",
+"sec": "Antidotes",
+"page": 10,
+"q": "As per the table, the antidote for calcium channel blocker toxicity is:",
+"opts": [
+"Calcium gluconate",
+"Glucagon",
+"Atropine",
+"Flumazenil"
+],
+"ans": 0,
+"exp": "Calcium channel blockers → Calcium gluconate, which supplies calcium to overcome the channel blockade. (Book p10)"
+},
+{
+"id": "PHARM-C4-045",
+"sec": "Antidotes",
+"page": 10,
+"q": "Which drug-antidote pair is INCORRECTLY matched?",
+"opts": [
+"Benzodiazepines — Flumazenil",
+"Beta blockers — Glucagon",
+"Digoxin — Digibind",
+"Calcium channel blockers — Naloxone"
+],
+"ans": 3,
+"exp": "Calcium channel blockers are treated with calcium gluconate; naloxone is the antidote for opioids. (Book p10)"
+},
+{
+"id": "PHARM-C4-046",
+"sec": "Antidotes",
+"page": 10,
+"q": "A patient with beta blocker overdose is unresponsive to atropine. Which agent from the antidote table should be given?",
+"opts": [
+"Glucagon",
+"Flumazenil",
+"Calcium gluconate",
+"Digibind"
+],
+"ans": 0,
+"exp": "The table lists beta blockers → glucagon (↑cAMP); glucagon bypasses the blocked β receptor by increasing cAMP directly. (Book p10)"
+},
+{
+"id": "PHARM-C4-047",
+"sec": "Antidotes",
+"page": 10,
+"q": "Why is haemodialysis NOT the treatment of choice in opioid overdose per this page?",
+"opts": [
+"Opioids have a high volume of distribution and are not cleared by dialysis",
+"Opioids are too tightly protein bound",
+"Naloxone is cheaper than dialysis",
+"Opioids are cleared by the lungs"
+],
+"ans": 0,
+"exp": "The table places opioids in the 'drugs not cleared by dialysis' group (BADDOC, high vd), so the antidote naloxone is used instead. (Book p10)"
+},
+{
+"id": "PHARM-C4-048",
+"sec": "AVD & dialysis",
+"page": 10,
+"q": "Which drug from BADDOC has a specific antibody fragment as its antidote?",
+"opts": [
+"Digoxin (Digibind)",
+"Amphetamine",
+"Organophosphate",
+"Beta blocker"
+],
+"ans": 0,
+"exp": "The table pairs digoxin with Digibind; digoxin's large volume of distribution is why dialysis cannot clear it. (Book p10)"
+},
+{
+"id": "PHARM-C4-049",
+"sec": "AVD & dialysis",
+"page": 10,
+"q": "A patient with benzodiazepine overdose and a high AVD is given flumazenil rather than dialysis because:",
+"opts": [
+"Drugs in BADDOC are not cleared by dialysis",
+"Flumazenil is cheaper",
+"Benzodiazepines are water soluble",
+"Dialysis removes protein-bound drug only"
+],
+"ans": 0,
+"exp": "The table's very heading is 'Drugs not cleared by dialysis', listing benzodiazepines with flumazenil as the antidote — a direct consequence of their high volume of distribution. (Book p10)"
+},
+{
+"id": "PHARM-C4-050",
+"sec": "BADDOC",
+"page": 10,
+"q": "Which of the following is NOT a member of the BADDOC group?",
+"opts": [
+"Phenytoin",
+"Benzodiazepines",
+"Digoxin",
+"Opioids"
+],
+"ans": 0,
+"exp": "BADDOC = Benzodiazepines, Beta blockers, Amphetamines, Digoxin, Opioids, Calcium channel blockers; phenytoin is not part of this high-vd group. (Book p10)"
+},
+{
+"id": "PHARM-C4-051",
+"sec": "Plasma proteins",
+"page": 10,
+"q": "The most important plasma protein binding acidic drugs, and the most common binding protein, is:",
+"opts": [
+"Albumin",
+"α1 acid glycoprotein",
+"Globulin",
+"Fibrinogen"
+],
+"ans": 0,
+"exp": "'Albumin → Binds to Acidic drugs (m/c)' — albumin is the commonest plasma protein that binds acidic drugs. (Book p10)"
+},
+{
+"id": "PHARM-C4-052",
+"sec": "Plasma proteins",
+"page": 10,
+"q": "α1 acid glycoprotein binds:",
+"opts": [
+"Basic drugs",
+"Acidic drugs",
+"Only neutral drugs",
+"Only water-soluble drugs"
+],
+"ans": 0,
+"exp": "'α1 acid glycoprotein: Basic drugs' — basic drugs such as lidocaine and opioids bind α1 acid glycoprotein. (Book p10)"
+},
+{
+"id": "PHARM-C4-053",
+"sec": "Drugs bound to albumin",
+"page": 10,
+"q": "Which of the following is listed as a drug bound to albumin?",
+"opts": [
+"Lidocaine",
+"Antipsychotics",
+"Tricyclic antidepressants",
+"Amiodarone"
+],
+"ans": 1,
+"exp": "Antipsychotics are in the albumin column; lidocaine, tricyclic antidepressants and amiodarone bind α1 acid glycoprotein. (Book p10)"
+},
+{
+"id": "PHARM-C4-054",
+"sec": "Drugs bound to albumin",
+"page": 10,
+"q": "The antibiotics listed in the albumin column are:",
+"opts": [
+"Sulfonamides",
+"Macrolides",
+"Aminoglycosides",
+"Penicillins"
+],
+"ans": 0,
+"exp": "The albumin list includes 'Antibiotics: sulfonamides'. (Book p10)"
+},
+{
+"id": "PHARM-C4-055",
+"sec": "Drugs bound to albumin",
+"page": 10,
+"q": "The anticoagulant listed as an albumin-bound drug is:",
+"opts": [
+"Warfarin",
+"Heparin",
+"Rivaroxaban",
+"Enoxaparin"
+],
+"ans": 0,
+"exp": "'Anticoagulant: warfarin' appears in the albumin column, together with aspirin. (Book p10)"
+},
+{
+"id": "PHARM-C4-056",
+"sec": "Drugs bound to albumin",
+"page": 10,
+"q": "Which set lists drugs bound to albumin as per the table?",
+"opts": [
+"Antipsychotics, antidepressants, antiepileptics, sulfonamides, warfarin and aspirin",
+"Tricyclic antidepressants, opioids and antiarrhythmics",
+"Amiodarone, lidocaine and beta blockers",
+"Digoxin, opioids and amphetamines"
+],
+"ans": 0,
+"exp": "The albumin column lists antipsychotics, antidepressants, antiepileptics, antibiotics (sulfonamides), warfarin and aspirin. (Book p10)"
+},
+{
+"id": "PHARM-C4-057",
+"sec": "Drugs bound to α1 AGP",
+"page": 10,
+"q": "Which set lists drugs bound to α1 acid glycoprotein?",
+"opts": [
+"Tricyclic antidepressants, opioids and antiarrhythmics (beta blocker, amiodarone, lidocaine)",
+"Antipsychotics, antidepressants and antiepileptics",
+"Warfarin, aspirin and sulfonamides",
+"Digoxin, amphetamines and opioids"
+],
+"ans": 0,
+"exp": "The α1 acid glycoprotein column lists tricyclic antidepressants, opioids and antiarrhythmics — beta blockers, amiodarone and lidocaine. (Book p10)"
+},
+{
+"id": "PHARM-C4-058",
+"sec": "Drugs bound to α1 AGP",
+"page": 10,
+"q": "Lidocaine, amiodarone and beta blockers are bound to:",
+"opts": [
+"α1 acid glycoprotein",
+"Albumin",
+"Both equally",
+"Neither protein"
+],
+"ans": 0,
+"exp": "These three antiarrhythmics are listed under α1 acid glycoprotein, the binding protein for basic drugs. (Book p10)"
+},
+{
+"id": "PHARM-C4-059",
+"sec": "Plasma proteins",
+"page": 10,
+"q": "A basic drug such as an opioid will bind mainly to:",
+"opts": [
+"α1 acid glycoprotein",
+"Albumin",
+"Globulin",
+"Transferrin"
+],
+"ans": 0,
+"exp": "α1 acid glycoprotein binds basic drugs such as opioids, tricyclic antidepressants and antiarrhythmics; albumin binds acidic drugs. (Book p10)"
+},
+{
+"id": "PHARM-C4-060",
+"sec": "Plasma proteins",
+"page": 10,
+"q": "Which pairing of drug and binding protein is correct?",
+"opts": [
+"Aspirin — albumin; lidocaine — α1 acid glycoprotein",
+"Aspirin — α1 acid glycoprotein; lidocaine — albumin",
+"Warfarin — α1 acid glycoprotein; opioids — albumin",
+"Sulfonamides — α1 acid glycoprotein; amiodarone — albumin"
+],
+"ans": 0,
+"exp": "Aspirin, warfarin, sulfonamides and antiepileptics are albumin bound (acidic drugs), while lidocaine, opioids, tricyclics and amiodarone bind α1 acid glycoprotein (basic drugs). (Book p10)"
+},
+{
+"id": "PHARM-C4-061",
+"sec": "Warfarin-aspirin interaction",
+"page": 10,
+"q": "Warfarin and aspirin used together increase each other's plasma concentration, leading to:",
+"opts": [
+"Increased bleeding",
+"Decreased bleeding",
+"Cholestatic jaundice",
+"Renal failure"
+],
+"ans": 0,
+"exp": "The bracket linking warfarin and aspirin reads 'Increase each others plasma conc. if used together ↓ ↑Bleeding'. (Book p10)"
+},
+{
+"id": "PHARM-C4-062",
+"sec": "Warfarin-aspirin interaction",
+"page": 10,
+"q": "Both warfarin and aspirin are bound to the same plasma protein. When given together, the result is:",
+"opts": [
+"Displacement increasing free drug concentration",
+"Reduced free drug concentration",
+"No change in free drug",
+"Increased renal excretion of the free drug"
+],
+"ans": 0,
+"exp": "Because both are albumin-bound, they compete for and displace each other, raising the free (unbound) concentration — hence the increased bleeding shown in the table. (Book p10)"
+},
+{
+"id": "PHARM-C4-063",
+"sec": "Effect on drugs",
+"page": 10,
+"q": "As per the table, a fall in albumin produces:",
+"opts": [
+"↑ Free drug and ↑ risk of toxicity",
+"↓ Free drug and ↓ effect",
+"↑ Free drug and ↓ risk of toxicity",
+"No change in free drug"
+],
+"ans": 0,
+"exp": "The albumin column reads: ↓Albumin → ↑Free drug → ↑Risk of toxicity. (Book p10)"
+},
+{
+"id": "PHARM-C4-064",
+"sec": "Effect on drugs",
+"page": 10,
+"q": "As per the table, an increase in α1 glycoprotein produces:",
+"opts": [
+"↓ Free drug and ↓ effect",
+"↑ Free drug and ↑ toxicity",
+"↓ Free drug and ↑ toxicity",
+"No change in free drug"
+],
+"ans": 0,
+"exp": "The α1 acid glycoprotein column reads: ↑α1 glycoprotein → ↓Free drug → ↓Effect. (Book p10)"
+},
+{
+"id": "PHARM-C4-065",
+"sec": "Effect on drugs",
+"page": 10,
+"q": "The two plasma-protein changes have opposite clinical consequences, which are:",
+"opts": [
+"↓Albumin → toxicity; ↑α1 glycoprotein → reduced effect",
+"↓Albumin → reduced effect; ↑α1 glycoprotein → toxicity",
+"Both produce toxicity",
+"Both reduce drug effect"
+],
+"ans": 0,
+"exp": "Less albumin leaves more free drug and risk of toxicity, whereas more α1 acid glycoprotein binds more drug, lowering free drug and effect. (Book p10)"
+},
+{
+"id": "PHARM-C4-066",
+"sec": "Effect on drugs",
+"page": 10,
+"q": "A drug is 90% bound to albumin. In a patient with hypoalbuminaemia, the fraction of free drug:",
+"opts": [
+"Increases, raising the risk of toxicity",
+"Decreases, reducing the effect",
+"Remains unchanged",
+"Becomes fully protein bound"
+],
+"ans": 0,
+"exp": "The table states that a fall in albumin raises the free drug concentration and therefore the risk of toxicity. (Book p10)"
+},
+{
+"id": "PHARM-C4-067",
+"sec": "AVD & plasma binding",
+"page": 9,
+"q": "The inverse relationship between albumin binding and volume of distribution explains why drugs that are highly albumin bound:",
+"opts": [
+"Have a low AVD as they stay intravascular",
+"Have a high AVD as they enter tissue",
+"Are not metabolised",
+"Are cleared by dialysis"
+],
+"ans": 0,
+"exp": "Albumin binding ∝ 1/vd, so a heavily albumin-bound drug remains largely in the intravascular compartment and has a low apparent volume of distribution. (Book p9)"
+},
+{
+"id": "PHARM-C4-068",
+"sec": "Effect on drugs",
+"page": 10,
+"q": "Which statement about plasma protein binding and drug effect is correct?",
+"opts": [
+"Only the free (unbound) drug is active, so ↓albumin raises toxicity while ↑α1 gp lowers effect",
+"Bound drug is the active form, so more binding means more effect",
+"Protein binding has no relation to drug effect",
+"↓Albumin and ↑α1 gp have the same clinical consequence"
+],
+"ans": 0,
+"exp": "The table's 'effect on drugs' row shows ↓albumin → ↑free drug → ↑toxicity, and ↑α1 gp → ↓free drug → ↓effect: free drug, not bound drug, produces the effect. (Book p10)"
+},
+{
+"id": "PHARM-C4-069",
+"sec": "Clinical application",
+"page": 10,
+"q": "Which condition is listed as a cause of decreased albumin?",
+"opts": [
+"Nephrotic syndrome",
+"Rheumatoid arthritis",
+"Myocardial infarction",
+"Inflammatory bowel disease"
+],
+"ans": 0,
+"exp": "Under ↓Albumin the text lists nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus; the inflammatory states and MI belong to the ↑α1 gp list. (Book p10)"
+},
+{
+"id": "PHARM-C4-070",
+"sec": "Clinical application",
+"page": 10,
+"q": "Which set lists the causes of decreased albumin given in the table?",
+"opts": [
+"Nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus",
+"Nephrotic syndrome only",
+"Rheumatoid arthritis, IBD and myocardial infarction",
+"Cirrhosis and myocardial infarction"
+],
+"ans": 0,
+"exp": "Nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus are listed as conditions with ↓Albumin. (Book p10)"
+},
+{
+"id": "PHARM-C4-071",
+"sec": "Clinical application",
+"page": 10,
+"q": "As per the table, α1 glycoprotein is increased in:",
+"opts": [
+"Inflammatory conditions and myocardial infarction",
+"Nephrotic syndrome and CKD",
+"Liver cirrhosis and diabetes mellitus",
+"Obesity and pregnancy"
+],
+"ans": 0,
+"exp": "'↑α1 gp: Inflammatory — rheumatoid arthritis, inflammatory bowel disease; myocardial infarction'. (Book p10)"
+},
+{
+"id": "PHARM-C4-072",
+"sec": "Clinical application",
+"page": 10,
+"q": "Which of the following is listed under inflammatory causes of increased α1 glycoprotein?",
+"opts": [
+"Rheumatoid arthritis and inflammatory bowel disease",
+"Nephrotic syndrome and cirrhosis",
+"Diabetes mellitus and CKD",
+"Asthma and COPD"
+],
+"ans": 0,
+"exp": "Rheumatoid arthritis and inflammatory bowel disease are listed, along with myocardial infarction, as conditions that raise α1 glycoprotein. (Book p10)"
+},
+{
+"id": "PHARM-C4-073",
+"sec": "Clinical application",
+"page": 10,
+"q": "A patient with nephrotic syndrome is prescribed an albumin-bound drug. Compared with a healthy adult, you should expect:",
+"opts": [
+"A higher free drug level and greater toxicity risk",
+"A lower free drug level and reduced effect",
+"No change in free drug level",
+"Increased protein binding of the drug"
+],
+"ans": 0,
+"exp": "Nephrotic syndrome causes ↓albumin; the table shows ↓Albumin → ↑Free drug → ↑Risk of toxicity. (Book p10)"
+},
+{
+"id": "PHARM-C4-074",
+"sec": "Clinical application",
+"page": 10,
+"q": "A patient with myocardial infarction receives lidocaine. Because α1 glycoprotein is raised in MI:",
+"opts": [
+"Free lidocaine falls and its effect is reduced",
+"Free lidocaine rises and toxicity occurs",
+"Lidocaine binds to albumin instead",
+"Lidocaine is excreted unchanged faster"
+],
+"ans": 0,
+"exp": "α1 acid glycoprotein (which binds lidocaine, a basic drug) rises in MI, so free drug falls and the effect is reduced. (Book p10)"
+},
+{
+"id": "PHARM-C4-075",
+"sec": "Clinical application",
+"page": 10,
+"q": "In a patient with rheumatoid arthritis, drugs bound to α1 acid glycoprotein will show:",
+"opts": [
+"Reduced free concentration and reduced effect",
+"Increased free concentration and toxicity",
+"Unchanged binding",
+"Complete displacement from albumin"
+],
+"ans": 0,
+"exp": "Rheumatoid arthritis raises α1 glycoprotein; the table shows ↑α1 gp → ↓free drug → ↓effect. (Book p10)"
+},
+{
+"id": "PHARM-C4-076",
+"sec": "Clinical application",
+"page": 10,
+"q": "Which condition is NOT associated with a fall in albumin as per the table?",
+"opts": [
+"Myocardial infarction",
+"Nephrotic syndrome",
+"Chronic kidney disease",
+"Liver cirrhosis"
+],
+"ans": 0,
+"exp": "Myocardial infarction belongs to the ↑α1 glycoprotein group, not the ↓albumin group, which comprises nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus. (Book p10)"
+},
+{
+"id": "PHARM-C4-077",
+"sec": "Clinical application",
+"page": 10,
+"q": "A patient with diabetes mellitus on a highly albumin-bound antiepileptic drug develops features of toxicity. The explanation is:",
+"opts": [
+"Low albumin raises the free drug fraction",
+"High α1 glycoprotein raises the free drug fraction",
+"Reduced hepatic metabolism only",
+"Reduced renal excretion only"
+],
+"ans": 0,
+"exp": "Diabetes mellitus is listed among the causes of ↓albumin; with less binding protein there is more free drug and hence a risk of toxicity. (Book p10)"
+},
+{
+"id": "PHARM-C4-078",
+"sec": "Clinical application",
+"page": 10,
+"q": "An elderly woman with liver cirrhosis is prescribed a warfarin-like albumin-bound drug. Which risk is increased?",
+"opts": [
+"Free drug toxicity due to low albumin",
+"Reduced effect due to high albumin",
+"Loss of the drug in urine",
+"Increased α1 glycoprotein binding"
+],
+"ans": 0,
+"exp": "Liver cirrhosis lowers albumin; the table shows ↓Albumin → ↑Free drug → ↑Risk of toxicity. (Book p10)"
+}
 ],
 "units": [
-{"id":"PHARM-U4-1","ch":4,"n":1,"title":"Apparent Volume of Distribution: The Concept","sec":"Apparent Volume of Distribution (AVd) · p9","qs":["PHARM-C4-001","PHARM-C4-002","PHARM-C4-003"],"guide":"Apparent volume of distribution is the hypothetical volume of plasma in litres required to account for the total drug in the body, intravascular plus extravascular. A drug with a high AVd hides in tissue, while a drug with a low AVd stays in the systemic circulation."},
-{"id":"PHARM-U4-2","ch":4,"n":2,"title":"Calculating AVd and Loading Dose","sec":"Calculation of AVd · p9","qs":["PHARM-C4-004","PHARM-C4-005","PHARM-C4-006","PHARM-C4-007","PHARM-C4-008","PHARM-C4-009","PHARM-C4-010"],"guide":"AVd = dose/C0 x f, with C0 the initial plasma concentration and f the bioavailability (f = 1 for IV). The loading dose needed to hit a target concentration CT is D = AVd x CT/f, so D is proportional to AVd/f - when AVd rises, the dose must rise with it to keep the target concentration."},
-{"id":"PHARM-U4-3","ch":4,"n":3,"title":"What Determines vd: Fat, pKa, Binding","sec":"Factors determining AVd · p9","qs":["PHARM-C4-011","PHARM-C4-012","PHARM-C4-013","PHARM-C4-014","PHARM-C4-015","PHARM-C4-016"],"guide":"Body fat content drives vd upwards in obesity and downwards in athletes, and females with more fat have a higher vd than males. Lipid solubility (pKa) and tissue binding increase vd, whereas plasma albumin binding is inversely proportional to vd because it keeps the drug inside the vessels."},
-{"id":"PHARM-U4-4","ch":4,"n":4,"title":"Digoxin: Muscle Mass and Lean Body Weight","sec":"Factors determining AVd · p9","qs":["PHARM-C4-017","PHARM-C4-018"],"guide":"Digoxin distributes to skeletal muscle far more than to the heart because skeletal muscle has the greater mass, even though the heart is the target organ. Consequently the loading dose of digoxin is calculated on lean body mass and not on total body mass."},
-{"id":"PHARM-U4-5","ch":4,"n":5,"title":"High vd: Why Dialysis Fails","sec":"Significance in toxicity · p9","qs":["PHARM-C4-019","PHARM-C4-020"],"guide":"When vd is very high, the drug concentrates in tissue, so intravascular levels are low and removal methods like dialysis clear almost nothing; this makes dialysis ineffective. Toxicity of such drugs is therefore managed with specific antidotes."},
-{"id":"PHARM-U4-6","ch":4,"n":6,"title":"BADDOC and the Antidote Table","sec":"Drugs with increased vd · p10","qs":["PHARM-C4-021","PHARM-C4-022","PHARM-C4-023","PHARM-C4-024","PHARM-C4-025","PHARM-C4-026","PHARM-C4-027","PHARM-C4-028","PHARM-C4-029","PHARM-C4-030"],"guide":"BADDOC - benzodiazepines, beta blockers, amphetamines, digoxin, opioids, organophosphates and calcium channel blockers - are the drugs with an increased vd that dialysis cannot clear, so each has an antidote: flumazenil, glucagon (which raises cAMP), ammonium chloride, Digibind, naloxone, atropine and calcium gluconate respectively."},
-{"id":"PHARM-U4-7","ch":4,"n":7,"title":"Albumin and Alpha-1 Acid Glycoprotein","sec":"Plasma protein binding · p10","qs":["PHARM-C4-031","PHARM-C4-032","PHARM-C4-033","PHARM-C4-034","PHARM-C4-035"],"guide":"Albumin, the commonest carrier, binds acidic drugs - antipsychotics, antidepressants, antiepileptics, sulfonamides, warfarin and aspirin - while alpha-1 acid glycoprotein binds basic drugs such as tricyclic antidepressants, opioids and the antiarrhythmics beta blockers, amiodarone and lidocaine. Two albumin-bound drugs used together, classically warfarin and aspirin, raise each other's plasma concentration and cause bleeding."},
-{"id":"PHARM-U4-8","ch":4,"n":8,"title":"Hypoalbuminaemia, Inflammation and Drug Effect","sec":"Plasma protein binding · p10","qs":["PHARM-C4-036","PHARM-C4-037","PHARM-C4-038","PHARM-C4-039","PHARM-C4-040","PHARM-C4-041","PHARM-C4-042"],"guide":"Falling albumin leaves more free drug and increases the risk of toxicity, and albumin is low in nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus. Conversely inflammation and myocardial infarction raise alpha-1 acid glycoprotein, which binds basic drugs more avidly, lowering free drug and the effect - the same disease state can therefore alter drug handling in opposite directions depending on which protein binds it."}
+{
+"id": "PHARM-U4-1",
+"ch": 4,
+"n": 1,
+"title": "Apparent Volume of Distribution: Definition",
+"sec": "Apparent Volume of Distribution (AVd) · p9",
+"qs": [
+"PHARM-C4-001",
+"PHARM-C4-002",
+"PHARM-C4-003",
+"PHARM-C4-004",
+"PHARM-C4-005"
+],
+"guide": "AVD is the hypothetical volume of plasma in litres needed to account for all the drug in the body, intravascular and extravascular. A drug with a high AVD sits mainly in tissue; one with a low AVD stays in the systemic circulation. That is why it is only an 'apparent' volume."
+},
+{
+"id": "PHARM-U4-2",
+"ch": 4,
+"n": 2,
+"title": "AVD and the Loading Dose Formulas",
+"sec": "Calculation · p9",
+"qs": [
+"PHARM-C4-006",
+"PHARM-C4-007",
+"PHARM-C4-008",
+"PHARM-C4-009",
+"PHARM-C4-010",
+"PHARM-C4-011",
+"PHARM-C4-012",
+"PHARM-C4-013",
+"PHARM-C4-014"
+],
+"guide": "AVD = D/C0 × f, where C0 is the initial plasma concentration and f is bioavailability (f = 1 for the IV route). Rearranged for practice, loading dose D = AVD × CT/f, so D ∝ AVD/f: a larger volume of distribution or lower bioavailability demands a bigger loading dose to hit the target concentration."
+},
+{
+"id": "PHARM-U4-3",
+"ch": 4,
+"n": 3,
+"title": "What Determines the Volume of Distribution?",
+"sec": "Factors determining AVd · p9",
+"qs": [
+"PHARM-C4-015",
+"PHARM-C4-016",
+"PHARM-C4-017",
+"PHARM-C4-018",
+"PHARM-C4-019",
+"PHARM-C4-020",
+"PHARM-C4-021",
+"PHARM-C4-022",
+"PHARM-C4-023"
+],
+"guide": "Fat content drives vd: obesity raises it, athletes lower it, and women have more than men because of higher fat content. Lipid solubility raises vd, albumin binding lowers it (binding ∝ 1/vd) and tissue binding raises it. The drug's own chemistry and the patient's body composition both matter."
+},
+{
+"id": "PHARM-U4-4",
+"ch": 4,
+"n": 4,
+"title": "Digoxin: Distributed to Muscle, Dosed on Lean Mass",
+"sec": "AVd — eg: Digoxin · p9",
+"qs": [
+"PHARM-C4-024",
+"PHARM-C4-025",
+"PHARM-C4-026",
+"PHARM-C4-027",
+"PHARM-C4-028"
+],
+"guide": "Digoxin leaves plasma for skeletal muscle, which outweighs the heart even though the heart is the target organ. Consequently digoxin's loading dose is calculated from lean body mass, not total body mass — dosing an obese patient on total weight overshoots."
+},
+{
+"id": "PHARM-U4-5",
+"ch": 4,
+"n": 5,
+"title": "High AVD = Dialysis Is a Waste of Time",
+"sec": "Significance in toxicity · p9",
+"qs": [
+"PHARM-C4-029",
+"PHARM-C4-030",
+"PHARM-C4-031",
+"PHARM-C4-032"
+],
+"guide": "With a very high vd the extravascular concentration is high and intravascular concentration is low, so dialysis can clear almost none of the drug — it is ineffective. Antidotes, not dialysis, are the treatment of poisoning by such drugs."
+},
+{
+"id": "PHARM-U4-6",
+"ch": 4,
+"n": 6,
+"title": "BADDOC: Drugs With High vd, and Their Antidotes",
+"sec": "Drugs with ↑ vd · p10",
+"qs": [
+"PHARM-C4-033",
+"PHARM-C4-034",
+"PHARM-C4-035",
+"PHARM-C4-036",
+"PHARM-C4-037",
+"PHARM-C4-038",
+"PHARM-C4-039",
+"PHARM-C4-040",
+"PHARM-C4-041",
+"PHARM-C4-042",
+"PHARM-C4-043",
+"PHARM-C4-044",
+"PHARM-C4-045",
+"PHARM-C4-046",
+"PHARM-C4-047",
+"PHARM-C4-048",
+"PHARM-C4-049",
+"PHARM-C4-050"
+],
+"guide": "Remember BADDOC — Benzodiazepines, Beta blockers, Amphetamines, Digoxin, Opioids, Calcium channel blockers (with organophosphates alongside). These are not cleared by dialysis, so each has a specific antidote: flumazenil, glucagon (raises cAMP), ammonium chloride, digibind, naloxone, calcium gluconate and atropine."
+},
+{
+"id": "PHARM-U4-7",
+"ch": 4,
+"n": 7,
+"title": "Albumin vs α1 Acid Glycoprotein: Who Binds What",
+"sec": "Plasma protein binding · p10",
+"qs": [
+"PHARM-C4-051",
+"PHARM-C4-052",
+"PHARM-C4-053",
+"PHARM-C4-054",
+"PHARM-C4-055",
+"PHARM-C4-056",
+"PHARM-C4-057",
+"PHARM-C4-058",
+"PHARM-C4-059",
+"PHARM-C4-060"
+],
+"guide": "Albumin is the commonest plasma protein and binds acidic drugs — antipsychotics, antidepressants, antiepileptics, sulfonamides, warfarin and aspirin. α1 acid glycoprotein binds basic drugs — tricyclic antidepressants, opioids and antiarrhythmics such as beta blockers, amiodarone and lidocaine."
+},
+{
+"id": "PHARM-U4-8",
+"ch": 4,
+"n": 8,
+"title": "Displacement: Why Warfarin Plus Aspirin Bleeds",
+"sec": "Plasma protein binding · p10",
+"qs": [
+"PHARM-C4-061",
+"PHARM-C4-062"
+],
+"guide": "Warfarin and aspirin are both albumin bound. Given together they displace each other, each raising the other's plasma concentration of free drug — and the clinical result written in the margin is increased bleeding."
+},
+{
+"id": "PHARM-U4-9",
+"ch": 4,
+"n": 9,
+"title": "Low Albumin Causes Toxicity, High AGP Causes Failure",
+"sec": "Effect on drugs · p10",
+"qs": [
+"PHARM-C4-063",
+"PHARM-C4-064",
+"PHARM-C4-065",
+"PHARM-C4-066",
+"PHARM-C4-067",
+"PHARM-C4-068"
+],
+"guide": "A fall in albumin leaves more free drug and so more toxicity; a rise in α1 acid glycoprotein binds more drug and so lowers free drug and effect. The same principle explains why heavily albumin-bound drugs have a low volume of distribution — they stay in the plasma."
+},
+{
+"id": "PHARM-U4-10",
+"ch": 4,
+"n": 10,
+"title": "Clinical Applications: Nephrotic, Cirrhotic, Inflamed, Infarcted",
+"sec": "Clinical Application · p10",
+"qs": [
+"PHARM-C4-069",
+"PHARM-C4-070",
+"PHARM-C4-071",
+"PHARM-C4-072",
+"PHARM-C4-073",
+"PHARM-C4-074",
+"PHARM-C4-075",
+"PHARM-C4-076",
+"PHARM-C4-077",
+"PHARM-C4-078"
+],
+"guide": "Albumin falls in nephrotic syndrome, CKD, liver cirrhosis and diabetes mellitus — predict toxicity of albumin-bound drugs. α1 glycoprotein rises in inflammation (rheumatoid arthritis, inflammatory bowel disease) and myocardial infarction — predict reduced free drug and reduced effect, as with lidocaine in MI."
+}
 ]
 }

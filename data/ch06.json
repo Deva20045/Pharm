@@ -1,60 +1,1151 @@
 {
-"questions": [
-{"id":"PHARM-C6-001","sec":"Excretion","page":15,"q":"For a drug to be excreted it must be:","opts":["Ionised, water soluble and polar","Unionised, lipid soluble and non-polar","Protein bound and lipid soluble","Non-polar and unionised"],"ans":0,"exp":"The page opens by stating that the drug excreted is ionised/water soluble/polar - the opposite of the requirements for absorption. (Book p15)"},
-{"id":"PHARM-C6-002","sec":"Excretion","page":15,"q":"The major organ of excretion is the ______, while the major organ involved in metabolism is the ______.","opts":["Kidney; liver","Liver; kidney","Kidney; kidney","Lung; liver"],"ans":0,"exp":"Kidneys are marked m/c organ for excretion and the note on the right says the liver is the m/c organ involved in metabolism. (Book p15)"},
-{"id":"PHARM-C6-003","sec":"Excretion","page":15,"q":"Of the drug excreted by the kidney, filtration accounts for _____ while tubular secretion accounts for _____.","opts":["20%; 80%","80%; 20%","50%; 50%","10%; 90%"],"ans":0,"exp":"The table headings give filtration 20% and tubular secretion 80% - secretion is the larger renal route. (Book p15)"},
-{"id":"PHARM-C6-004","sec":"Renal excretion table","page":15,"q":"Unbound drug is excreted by:","opts":["Filtration (+); it is not handled by tubular secretion (-)","Tubular secretion (+); it is not filtered (-)","Both filtration and tubular secretion equally","Neither filtration nor secretion"],"ans":0,"exp":"In the table's unbound drug row, filtration is marked + and tubular secretion marked -. (Book p15)"},
-{"id":"PHARM-C6-005","sec":"Renal excretion table","page":15,"q":"Plasma protein bound drug is NOT filtered because of the:","opts":["Negative charge of the basement membrane","Positive charge of the basement membrane","Large size of the drug molecule","Presence of P-glycoprotein in the glomerulus"],"ans":0,"exp":"Filtration is marked negative for plasma protein (negatively charged) bound drug, explained in the table as due to the -ve charge of the basement membrane which repels it. (Book p15)"},
-{"id":"PHARM-C6-006","sec":"Renal excretion table","page":15,"q":"Plasma protein bound drug is excreted by:","opts":["Tubular secretion (+), while filtration is negative (-)","Filtration (+), while tubular secretion is negative (-)","Neither filtration nor tubular secretion","Only by saliva and sweat"],"ans":0,"exp":"For plasma protein bound drug the table marks tubular secretion + and filtration -, so secretion is the route that clears protein-bound drug. (Book p15)"},
-{"id":"PHARM-C6-007","sec":"Renal excretion table","page":15,"q":"Which statement summarising the renal excretion table is correct?","opts":["Unbound drug is filtered; protein-bound drug is secreted","Unbound drug is secreted; protein-bound drug is filtered","Both unbound and protein-bound drug are filtered","Neither unbound nor protein-bound drug is secreted"],"ans":0,"exp":"The table splits the two: filtration handles unbound drug (+, secretion -), while protein-bound drug is handled by tubular secretion (+, filtration -). (Book p15)"},
-{"id":"PHARM-C6-008","sec":"Excretion","page":15,"q":"Apart from the kidneys and liver, some drugs are excreted through:","opts":["Saliva and sweat","Bile only","Tears and cerebrospinal fluid","Lymph and synovial fluid"],"ans":0,"exp":"The page notes that some drugs are excreted through saliva and sweat. (Book p15)"},
-{"id":"PHARM-C6-009","sec":"Excretion","page":15,"q":"Filtration, being dependent on GFR, results in:","opts":["A constant rate of excretion","A rate proportional to plasma concentration","A decreasing rate of excretion","An exponential rate of excretion"],"ans":0,"exp":"The note states filtration is dependent on GFR and therefore gives a constant rate of excretion - the basis of zero-order elimination. (Book p15)"},
-{"id":"PHARM-C6-010","sec":"Rate of drug elimination","page":15,"q":"The rate of drug elimination (RDE) is defined as the:","opts":["Amount of drug eliminated per hour from the body","Fraction of drug removed per half-life","Amount of plasma cleared of drug per hour","Total drug excreted in 24 hours"],"ans":0,"exp":"RDE = amount of drug eliminated per hour from the body - a rate, not a fraction. (Book p15)"},
-{"id":"PHARM-C6-011","sec":"Rate of drug elimination","page":15,"q":"Rate of drug elimination is calculated as:","opts":["Plasma concentration x Clearance","Plasma concentration / Clearance","Clearance / Plasma concentration","Volume of distribution x Clearance"],"ans":0,"exp":"RDE = plasma concentration x clearance, so the rate of elimination rises with either higher plasma levels or higher clearance. (Book p15)"},
-{"id":"PHARM-C6-012","sec":"Rate of drug elimination","page":15,"q":"In the units given for the RDE equation, plasma concentration is expressed as mg/ml and clearance as ml/hr, so RDE is expressed in:","opts":["mg/hr","mg/ml","ml/hr","mg"],"ans":0,"exp":"The page spells out the units: RDE (mg/hr) = plasma concentration (mg/ml) x clearance (ml/hr). (Book p15)"},
-{"id":"PHARM-C6-013","sec":"Rate of drug elimination","page":15,"q":"Plasma concentration, as described here, is:","opts":["Concentration of drug present in each ml of plasma, i.e. mg/ml","Total amount of drug in the body in mg","Amount of plasma cleared per hour","Amount of drug eliminated per hour"],"ans":0,"exp":"Plasma conc = conc of drug present in each ml of plasma, i.e. mg/ml. (Book p15)"},
-{"id":"PHARM-C6-014","sec":"Rate of drug elimination","page":15,"q":"Drug clearance is defined as the:","opts":["Amount of plasma being cleared of the drug per hour","Amount of drug eliminated per hour","Volume of distribution divided by half-life","Concentration of drug in each ml of plasma"],"ans":0,"exp":"Drug clearance = amount of plasma being cleared of the drugs per hour, expressed in ml/hr. (Book p15)"},
-{"id":"PHARM-C6-015","sec":"Drug dosing","page":15,"q":"The two modes of drug dosing described are:","opts":["Continuous IV infusion and intermittent dosing","Oral and intravenous dosing","Loading dose and maintenance dose","Bolus and depot injection"],"ans":0,"exp":"Under drug dosing the page lists a. continuous IV infusion and b. intermittent dosing. (Book p15)"},
-{"id":"PHARM-C6-016","sec":"Continuous IV infusion","page":16,"q":"On the concentration-time curve of a continuous IV infusion, phase I is:","opts":["The slowly rising state (infusion), when absorption exceeds excretion","Steady state, when infusion rate equals elimination rate","The declining state, when excretion exceeds absorption","The phase of zero drug in plasma"],"ans":0,"exp":"Phase I is the slowly rising state of infusion; during it absorption exceeds excretion. (Book p16)"},
-{"id":"PHARM-C6-017","sec":"Continuous IV infusion","page":16,"q":"On the infusion concentration-time curve, phase II is the steady state at which:","opts":["Infusion rate equals the rate of drug elimination","Absorption exceeds excretion","Excretion exceeds absorption","Plasma concentration is falling exponentially"],"ans":0,"exp":"Phase II is labelled steady state plasma concentration with 'infusion rate = rate of drug elimination'. (Book p16)"},
-{"id":"PHARM-C6-018","sec":"Continuous IV infusion","page":16,"q":"Phase III of the concentration-time curve of an infusion is characterised by:","opts":["A declining state (elimination) in which excretion exceeds absorption","A slowly rising state with absorption exceeding excretion","A steady state with equal infusion and elimination","A second absorption peak"],"ans":0,"exp":"Phase III is the declining state (elimination), during which excretion exceeds absorption. (Book p16)"},
-{"id":"PHARM-C6-019","sec":"Continuous IV infusion","page":16,"q":"The infusion rate (dosing rate) is calculated as:","opts":["Plasma concentration x Clearance","Plasma concentration / Clearance","Clearance / Plasma concentration","Volume of distribution x Plasma concentration"],"ans":0,"exp":"Infusion rate = plasma concentration x clearance - simply the RDE equation applied at steady state. (Book p16)"},
-{"id":"PHARM-C6-020","sec":"Continuous IV infusion","page":16,"q":"How many half-lives are required to attain the steady state plasma concentration during an infusion?","opts":["4-5","1-2","2-3","10"],"ans":0,"exp":"The page states that 4-5 T1/2 are required to attain steady state plasma concentration. (Book p16)"},
-{"id":"PHARM-C6-021","sec":"Continuous IV infusion","page":16,"q":"According to the page, attainment of steady state depends on:","opts":["Volume of distribution","Bioavailability alone","The infusion volume","Protein binding"],"ans":0,"exp":"For continuous IV infusion the page states that steady state depends on volume of distribution. (Book p16)"},
-{"id":"PHARM-C6-022","sec":"Continuous IV infusion","page":16,"q":"At steady state during a constant infusion, if clearance rises while the infusion rate is unchanged, the plasma concentration will:","opts":["Fall, because infusion rate = PC x CL","Rise, because clearance adds drug to plasma","Remain identical because steady state is fixed","First rise and then stay constant"],"ans":0,"exp":"Rearranging infusion rate = PC x CL gives PC = infusion rate/CL, so for a fixed infusion rate a higher clearance yields a lower steady state concentration. (Book p16)"},
-{"id":"PHARM-C6-023","sec":"Intermittent dosing","page":16,"q":"Intermittent dosing is also known as:","opts":["Maintenance dose","Loading dose","Infusion rate","Steady state dose"],"ans":0,"exp":"Under intermittent dosing the page writes 'AKA maintenance dose'. (Book p16)"},
-{"id":"PHARM-C6-024","sec":"Intermittent dosing","page":16,"q":"The purpose of intermittent (maintenance) dosing is to:","opts":["Give the dose after a certain period of time to maintain the plasma concentration in a steady state","Rapidly achieve the target plasma concentration at the outset","Avoid the need for any loading dose","Eliminate the influence of clearance on therapy"],"ans":0,"exp":"Dose is given after a certain period of time to maintain plasma concentration in steady state - that is the maintenance dose. (Book p16)"},
-{"id":"PHARM-C6-025","sec":"Intermittent dosing","page":16,"q":"The maintenance dose is calculated as:","opts":["PC x CL x Time / f","PC x CL / f x Time","PC x f x Time / CL","CL x f x Time / PC"],"ans":0,"exp":"Maintenance dose = PC x CL x Time / f, with f the bioavailability. (Book p16)"},
-{"id":"PHARM-C6-026","sec":"Intermittent dosing","page":16,"q":"Unlike the loading dose, the maintenance dose depends on:","opts":["Clearance","Volume of distribution","Lean body mass","Protein binding"],"ans":0,"exp":"The page states intermittent (maintenance) dosing depends on clearance, whereas the loading dose was determined by volume of distribution. (Book p16)"},
-{"id":"PHARM-C6-027","sec":"Intermittent dosing","page":16,"q":"In the maintenance dose formula, f stands for bioavailability and its value for IV routes is:","opts":["1","0.75","0.5","0.05"],"ans":0,"exp":"The page notes f = bioavailability and f = 1 in IV routes, so no correction is needed for intravenous dosing. (Book p16)"},
-{"id":"PHARM-C6-028","sec":"Half life (T1/2)","page":16,"q":"Half life (T1/2) is defined as the time taken by a drug to:","opts":["Decrease by 50% in plasma","Be completely eliminated from the body","Reach its peak plasma concentration","Reach steady state during an infusion"],"ans":0,"exp":"T1/2 = time taken by a drug to decrease by 50% in plasma. (Book p16)"},
-{"id":"PHARM-C6-029","sec":"Half life (T1/2)","page":16,"q":"Half life is calculated as:","opts":["0.693 x vd / CL","0.693 x CL / vd","CL x vd / 0.693","vd / (0.693 x CL)"],"ans":0,"exp":"T1/2 = 0.693 x vd/CL; equivalently T1/2 = 0.693/Kel. (Book p16)"},
-{"id":"PHARM-C6-030","sec":"Half life (T1/2)","page":16,"q":"Half life is proportional to:","opts":["Volume of distribution divided by clearance","Clearance divided by volume of distribution","Volume of distribution multiplied by clearance","Clearance alone"],"ans":0,"exp":"T1/2 is proportional to vd/CL - a drug with a large vd or a low clearance has a long half-life. (Book p16)"},
-{"id":"PHARM-C6-031","sec":"Half life (T1/2)","page":16,"q":"The elimination constant (Kel) is given by:","opts":["CL / vd","vd / CL","CL x vd","0.693 x vd / CL"],"ans":0,"exp":"Elimination constant (Kel) = CL/vd - the reciprocal of the relationship used for T1/2. (Book p16)"},
-{"id":"PHARM-C6-032","sec":"Half life (T1/2)","page":16,"q":"If the volume of distribution of a drug increases while clearance remains unchanged, the half-life will:","opts":["Increase, because T1/2 = 0.693 x vd/CL","Decrease, because more drug leaves the plasma","Remain unchanged, since T1/2 depends only on clearance","Become equal to the elimination constant"],"ans":0,"exp":"Since T1/2 = 0.693 x vd/CL, a larger volume of distribution with the same clearance lengthens the half-life. (Book p16)"},
-{"id":"PHARM-C6-033","sec":"Kinetics of drug elimination","page":17,"q":"Zero order kinetics means elimination of:","opts":["A constant amount of drug per hour","A constant proportion of drug per hour","An exponentially increasing amount per hour","An amount proportional to plasma concentration"],"ans":0,"exp":"Zero order kinetics = constant amount of drug eliminated per hour; first order = constant proportion of drug per hour. (Book p17)"},
-{"id":"PHARM-C6-034","sec":"Kinetics of drug elimination","page":17,"q":"In the equation RDE = (PC)^n x CL, the value of n for zero order and first order kinetics respectively is:","opts":["0 and 1","1 and 0","0 and 0","1 and 1"],"ans":0,"exp":"The table gives n = 0 for zero order kinetics and n = 1 for first order kinetics. (Book p17)"},
-{"id":"PHARM-C6-035","sec":"Kinetics of drug elimination","page":17,"q":"When the dose and clearance are constant, the rate of drug elimination is:","opts":["Constant in zero order kinetics and proportional to plasma concentration in first order kinetics","Proportional to plasma concentration in zero order and constant in first order","Constant in both zero and first order kinetics","Proportional to plasma concentration in both orders of kinetics"],"ans":0,"exp":"With a constant dose the table gives RDE = constant for zero order, while in first order RDE is proportional to plasma concentration. (Book p17)"},
-{"id":"PHARM-C6-036","sec":"Kinetics of drug elimination","page":17,"q":"If the dose is increased, the half-life in zero order kinetics and first order kinetics respectively:","opts":["Increases in zero order; remains constant in first order","Remains constant in zero order; increases in first order","Increases in both zero and first order kinetics","Decreases in zero order; remains constant in first order"],"ans":0,"exp":"The 'if dose increases' row shows T1/2 rising (upward arrow) for zero order but remaining constant in first order; clearance stays constant in both. (Book p17)"},
-{"id":"PHARM-C6-037","sec":"Kinetics of drug elimination","page":17,"q":"With increasing dose, the rise in plasma concentration is disproportionate with a risk of toxicity in zero order kinetics, whereas in first order kinetics the rise is:","opts":["Proportionate","Also disproportionate","Absent","Greater than in zero order"],"ans":0,"exp":"In zero order, an increase in plasma concentration is disproportionate (risk of toxicity); in first order it is proportionate. (Book p17)"},
-{"id":"PHARM-C6-038","sec":"Kinetics of drug elimination","page":17,"q":"Zero and first order kinetics are seen in drugs showing:","opts":["Early saturation of elimination and late saturation of elimination respectively","Late saturation of elimination and early saturation of elimination respectively","No saturation of elimination at all","Saturation of absorption only"],"ans":0,"exp":"The table links zero order kinetics to early saturation of elimination and first order kinetics to late saturation of elimination. (Book p17)"},
-{"id":"PHARM-C6-039","sec":"Kinetics of drug elimination","page":17,"q":"Zero order drugs at LOWER doses follow first order kinetics until saturation. This behaviour is therefore also called:","opts":["Pseudozero order","Pseudo-first order","Mixed order elimination","Zero order saturation"],"ans":0,"exp":"The exception row reads: at lower doses such drugs follow first order kinetics until saturation - hence aka pseudozero order. (Book p17)"},
-{"id":"PHARM-C6-040","sec":"Kinetics of drug elimination","page":17,"q":"Drugs that follow first order kinetics at HIGHER doses:","opts":["Follow zero order after saturation","Become pseudozero order at low doses","Show a disproportionate rise in plasma concentration","Show a rising half-life with increasing dose"],"ans":0,"exp":"The table's exception row for first order kinetics states that at higher doses the drug follows zero order after saturation. (Book p17)"},
-{"id":"PHARM-C6-041","sec":"Zero order drugs","page":17,"q":"Which of the following drugs are given as examples of zero order kinetics?","opts":["Alcohol, theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin","Paracetamol, digoxin, amoxicillin and metformin","Atropine, adrenaline, dopamine and dobutamine","Aspirin, ibuprofen, naproxen and diclofenac"],"ans":0,"exp":"The zero order example list is alcohol (true zero order), theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin. (Book p17)"},
-{"id":"PHARM-C6-042","sec":"First order drugs","page":17,"q":"Most drugs follow which kinetics?","opts":["First order","Zero order","Pseudozero order","Mixed order"],"ans":0,"exp":"The examples column for first order kinetics says simply 'most drugs'. (Book p17)"},
-{"id":"PHARM-C6-043","sec":"Zero order drugs","page":17,"q":"A patient on phenytoin has the dose increased slightly and develops toxicity with a very high plasma level. This is because phenytoin follows:","opts":["Zero order kinetics, so elimination is already saturated and plasma concentration rises disproportionately","First order kinetics, so plasma concentration rises proportionately","First order kinetics with a shortened half-life","Renal excretion dependent on GFR"],"ans":0,"exp":"Phenytoin is listed among zero order drugs (early saturation of elimination), so a small dose increment produces a disproportionate rise in plasma concentration with risk of toxicity. (Book p17)"},
-{"id":"PHARM-C6-044","sec":"Zero order drugs","page":17,"q":"Which drug is specifically labelled as 'true zero order' in the examples list?","opts":["Alcohol","Phenytoin","Warfarin","Heparin"],"ans":0,"exp":"The example list annotates alcohol as true zero order; phenytoin, theophylline, tolbutamide, heparin, methanol and warfarin are also in the zero order list. (Book p17)"},
-{"id":"PHARM-C6-045","sec":"Zero order drugs","page":17,"q":"Which anticoagulants appear in the zero order kinetics list?","opts":["Heparin and warfarin","Heparin and enoxaparin","Warfarin and dabigatran","Only heparin"],"ans":0,"exp":"Both heparin and warfarin are listed among zero order drugs, unlike most drugs which follow first order kinetics. (Book p17)"}
-],
-"units": [
-{"id":"PHARM-U6-1","ch":6,"n":1,"title":"The Rules of Excretion","sec":"Excretion · p15","qs":["PHARM-C6-001","PHARM-C6-002"],"guide":"A drug can only leave the body when it is ionised, water soluble and polar - the mirror image of the rules for absorption. The kidney is the commonest organ of excretion and the liver the commonest organ of metabolism."},
-{"id":"PHARM-U6-2","ch":6,"n":2,"title":"Filtration vs Tubular Secretion","sec":"Renal excretion · p15","qs":["PHARM-C6-003","PHARM-C6-004","PHARM-C6-005","PHARM-C6-006","PHARM-C6-007","PHARM-C6-008","PHARM-C6-009"],"guide":"Renal excretion splits into filtration (20%) and tubular secretion (80%). Filtration only handles unbound drug and fails for protein-bound drug because the negatively charged basement membrane repels it - such drug is instead cleared by tubular secretion. Minor routes include saliva and sweat, and because filtration depends on GFR it proceeds at a constant rate."},
-{"id":"PHARM-U6-3","ch":6,"n":3,"title":"Rate of Drug Elimination and Clearance","sec":"Rate of drug elimination · p15","qs":["PHARM-C6-010","PHARM-C6-011","PHARM-C6-012","PHARM-C6-013","PHARM-C6-014","PHARM-C6-015"],"guide":"RDE is the amount of drug eliminated per hour and equals plasma concentration x clearance, in units mg/hr = mg/ml x ml/hr. Plasma concentration is the drug per ml of plasma, while clearance is the volume of plasma cleared of drug each hour. Dosing is achieved either by continuous IV infusion or intermittent dosing."},
-{"id":"PHARM-U6-4","ch":6,"n":4,"title":"The Three Phases of an Infusion Curve","sec":"Continuous IV infusion · p16","qs":["PHARM-C6-016","PHARM-C6-017","PHARM-C6-018"],"guide":"An infusion curve has three phases: phase I, the slowly rising state in which absorption exceeds excretion; phase II, the steady state in which infusion rate exactly equals the rate of drug elimination; and phase III, the declining state of elimination in which excretion exceeds absorption."},
-{"id":"PHARM-U6-5","ch":6,"n":5,"title":"Infusion Rate, Steady State and 4-5 Half-Lives","sec":"Continuous IV infusion · p16","qs":["PHARM-C6-019","PHARM-C6-020","PHARM-C6-021","PHARM-C6-022"],"guide":"Infusion rate (the dosing rate) equals plasma concentration x clearance, which rearranges so that steady state concentration falls when clearance rises. Steady state takes 4-5 half-lives to be attained, and the book adds that it depends on the volume of distribution."},
-{"id":"PHARM-U6-6","ch":6,"n":6,"title":"Maintenance Dose and Its Formula","sec":"Intermittent dosing · p16","qs":["PHARM-C6-023","PHARM-C6-024","PHARM-C6-025","PHARM-C6-026","PHARM-C6-027"],"guide":"Intermittent dosing is the maintenance dose: it is repeated at fixed intervals to hold the plasma concentration in steady state and depends on clearance, being calculated as PC x CL x Time/f. Here f is bioavailability and equals 1 for intravenous routes."},
-{"id":"PHARM-U6-7","ch":6,"n":7,"title":"Half Life and the Elimination Constant","sec":"Half life (T1/2) · p16","qs":["PHARM-C6-028","PHARM-C6-029","PHARM-C6-030","PHARM-C6-031","PHARM-C6-032"],"guide":"Half life is the time for plasma drug to fall by 50% and is calculated as 0.693 x vd/CL, so it is proportional to volume of distribution and inversely related to clearance - a bigger vd with the same clearance means a longer half-life. The elimination constant Kel is the reciprocal idea, CL/vd."},
-{"id":"PHARM-U6-8","ch":6,"n":8,"title":"Zero vs First Order: Reading the Table","sec":"Kinetics of drug elimination · p17","qs":["PHARM-C6-033","PHARM-C6-034","PHARM-C6-035","PHARM-C6-036","PHARM-C6-037","PHARM-C6-038","PHARM-C6-039","PHARM-C6-040"],"guide":"Zero order elimination removes a constant amount per hour and first order a constant proportion per hour, expressed as n = 0 and n = 1 in RDE = (PC)^n x CL. Doubling the dose in zero order lengthens the half-life and raises plasma concentration disproportionately - hence toxicity - while first order kinetics stay proportionate. Zero order reflects early saturation of elimination and first order late saturation; zero order drugs behave as first order at low doses (pseudozero order), and first order drugs become zero order once saturated at high doses."},
-{"id":"PHARM-U6-9","ch":6,"n":9,"title":"Zero-Order Drugs: Examples and Danger","sec":"Examples · p17","qs":["PHARM-C6-041","PHARM-C6-042","PHARM-C6-043","PHARM-C6-044","PHARM-C6-045"],"guide":"The zero order list is alcohol (true zero order), theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin, while most other drugs are first order. The danger is clinical: a small increment of phenytoin can push a saturated enzyme system and cause a disproportionate rise in plasma level with toxicity."}
-]
+ "questions": [
+  {
+   "id": "PHARM-C6-001",
+   "sec": "Excretion basics",
+   "page": 15,
+   "q": "Which type of drug is excreted from the body?",
+   "opts": [
+    "Ionised / water soluble / polar drug",
+    "Non-polar / lipid soluble drug",
+    "Plasma protein bound drug",
+    "Unionised neutral drug"
+   ],
+   "ans": 0,
+   "exp": "The chapter opens with 'Ionised / water soluble / polar drug' — only the water-soluble, polar form of a drug is available for excretion. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-002",
+   "sec": "Excretion basics",
+   "page": 15,
+   "q": "The two major organs of excretion are:",
+   "opts": [
+    "Kidney and liver",
+    "Lung and skin",
+    "Spleen and gut",
+    "Salivary gland and sweat gland"
+   ],
+   "ans": 0,
+   "exp": "The major organs of excretion are kidneys and liver; minor routes (saliva, sweat) are mentioned separately. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-003",
+   "sec": "Excretion basics",
+   "page": 15,
+   "q": "The most common (m/c) organ for excretion is the kidney; the most common organ involved in metabolism is the:",
+   "opts": [
+    "Liver",
+    "Kidney",
+    "Lung",
+    "Intestine"
+   ],
+   "ans": 0,
+   "exp": "The flowchart marks kidneys as the m/c organ for excretion, and the note states 'm/c organ involved in metabolism → Liver'. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-004",
+   "sec": "Excretion basics",
+   "page": 15,
+   "q": "Besides the major organs of excretion, some drugs are excreted through:",
+   "opts": [
+    "Saliva and sweat",
+    "Bone and cartilage",
+    "CSF and vitreous",
+    "Lymph and synovial fluid"
+   ],
+   "ans": 0,
+   "exp": "'Some drugs are excreted through saliva & sweat' — minor routes that can matter for drug detection and for side effects. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-005",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "According to the table of excretory mechanisms, filtration accounts for what percentage of drug excretion?",
+   "opts": [
+    "20%",
+    "50%",
+    "80%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "The table columns are headed 'Filtration (20%)' and 'Tubular secretion (80%)'. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-006",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Which mechanism accounts for the majority (80%) of drug excretion?",
+   "opts": [
+    "Tubular secretion",
+    "Glomerular filtration",
+    "Biliary excretion",
+    "Salivary excretion"
+   ],
+   "ans": 0,
+   "exp": "Tubular secretion is labelled 80% while filtration is 20% — active tubular secretion is the dominant renal excretory mechanism. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-007",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Unbound drug is excreted by:",
+   "opts": [
+    "Filtration but not tubular secretion",
+    "Tubular secretion but not filtration",
+    "Both filtration and tubular secretion",
+    "Neither filtration nor tubular secretion"
+   ],
+   "ans": 0,
+   "exp": "Table row 'unbound drug': filtration (+) but tubular secretion (−); only the free, unbound fraction is filtered at the glomerulus. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-008",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Plasma protein (negative charge) bound drug is excreted by:",
+   "opts": [
+    "Tubular secretion but not filtration",
+    "Filtration but not tubular secretion",
+    "Both filtration and tubular secretion",
+    "Neither filtration nor tubular secretion"
+   ],
+   "ans": 0,
+   "exp": "Table row 'Plasma protein (negative charge) bound drug': filtration (−) but tubular secretion (+); tubular secretion is the route by which protein-bound drug is still excreted. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-009",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Protein-bound drug is not filtered because of the:",
+   "opts": [
+    "Negative charge of the basement membrane",
+    "Positive charge of the basement membrane",
+    "Large size of the drug molecule alone",
+    "Absence of porins in the glomerulus"
+   ],
+   "ans": 0,
+   "exp": "The table annotates filtration (−) for protein-bound drug as 'd/t −ve charge of basement membrane' — the negatively charged glomerular barrier repels the anionic protein-drug complex. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-010",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Plasma proteins carry which charge?",
+   "opts": [
+    "Negative charge",
+    "Positive charge",
+    "Neutral charge",
+    "Variable charge, depending on the drug"
+   ],
+   "ans": 0,
+   "exp": "The table specifies 'Plasma protein (negative charge) bound drug' — albumin and other plasma proteins are negatively charged. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-011",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "A patient with hypoalbuminaemia has more unbound drug in plasma. For a drug cleared mainly by filtration, the effect is:",
+   "opts": [
+    "Increased filtration and greater excretion of the drug",
+    "Decreased filtration and drug accumulation",
+    "No change, since filtration depends only on GFR",
+    "Increased tubular secretion only"
+   ],
+   "ans": 0,
+   "exp": "It is the unbound fraction that is filtered (+); when plasma protein is low, more drug is unbound, so more is filtered and excreted — the basis for altered dosing in nephrotic syndrome. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-012",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "Filtration as a mechanism of drug excretion is dependent on:",
+   "opts": [
+    "GFR, giving a constant rate of excretion",
+    "Plasma protein binding, giving a variable rate",
+    "Tubular reabsorption, giving a zero-order rate",
+    "Hepatic blood flow, giving a first-order rate"
+   ],
+   "ans": 0,
+   "exp": "Note: 'Filtration is dependent on GFR → Constant rate of excretion' — as long as GFR is stable, the filtered amount per unit time stays constant. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-013",
+   "sec": "Filtration vs tubular secretion",
+   "page": 15,
+   "q": "A patient with chronic kidney disease has a markedly reduced GFR. Which mechanism of drug excretion is most affected?",
+   "opts": [
+    "Filtration",
+    "Tubular secretion",
+    "Biliary excretion",
+    "Salivary excretion"
+   ],
+   "ans": 0,
+   "exp": "Filtration is dependent on GFR, so a fall in GFR directly lowers filtration-based excretion — the reason doses of renally excreted drugs must be reduced. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-014",
+   "sec": "Rate of drug elimination",
+   "page": 15,
+   "q": "Rate of drug elimination (RDE) is defined as the:",
+   "opts": [
+    "Amount of drug eliminated per hour from the body",
+    "Time taken for the drug to fall by half",
+    "Fraction of the dose reaching systemic circulation",
+    "Volume of plasma cleared of drug per hour"
+   ],
+   "ans": 0,
+   "exp": "'Amount of drug eliminated per hour from the body' — RDE is expressed in mg/hr. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-015",
+   "sec": "Rate of drug elimination",
+   "page": 15,
+   "q": "RDE is calculated as:",
+   "opts": [
+    "Plasma concentration × Clearance",
+    "Clearance ÷ Plasma concentration",
+    "Volume of distribution × Clearance",
+    "Plasma concentration ÷ Volume of distribution"
+   ],
+   "ans": 0,
+   "exp": "RDE = plasma concentration × Clearance, with the units (mg/hr) = (mg/ml) × (ml/hr). (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-016",
+   "sec": "Rate of drug elimination",
+   "page": 15,
+   "q": "The units of plasma concentration, clearance and RDE respectively are:",
+   "opts": [
+    "mg/ml, ml/hr and mg/hr",
+    "mg/hr, mg/ml and ml/hr",
+    "ml/hr, mg/hr and mg/ml",
+    "mg, ml and mg/hr"
+   ],
+   "ans": 0,
+   "exp": "The book writes (mg/hr) under RDE, (mg/ml) under plasma concentration and (ml/hr) under clearance — these units are how the three quantities fit together. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-017",
+   "sec": "Rate of drug elimination",
+   "page": 15,
+   "q": "Plasma concentration is defined as the:",
+   "opts": [
+    "Concentration of drug present in each ml of plasma, in mg/ml",
+    "Total amount of drug in the body in mg",
+    "Volume of plasma containing 1 mg of drug",
+    "Amount of drug bound to plasma proteins"
+   ],
+   "ans": 0,
+   "exp": "'Plasma conc: Conc of drug present in each ml of plasma → mg/ml.' (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-018",
+   "sec": "Rate of drug elimination",
+   "page": 15,
+   "q": "Drug clearance is defined as the:",
+   "opts": [
+    "Amount of plasma being cleared of the drug per hour",
+    "Amount of drug eliminated per hour from the body",
+    "Volume of distribution of the drug",
+    "Rate of glomerular filtration"
+   ],
+   "ans": 0,
+   "exp": "'Drug clearance: Amount of plasma being cleared of the drugs per hour' — clearance is a volume per unit time, not an amount of drug. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-019",
+   "sec": "Drug dosing modes",
+   "page": 15,
+   "q": "The two modes of drug dosing described are:",
+   "opts": [
+    "Continuous IV infusion and intermittent dosing",
+    "Oral and rectal dosing",
+    "Loading and rescue dosing",
+    "Intramuscular and subcutaneous dosing"
+   ],
+   "ans": 0,
+   "exp": "Under DRUG DOSING the two headings are (a) continuous IV infusion and (b) intermittent dosing. (Book p15)"
+  },
+  {
+   "id": "PHARM-C6-020",
+   "sec": "Drug dosing modes",
+   "page": 16,
+   "q": "Infusion rate / dosing rate is also known as the:",
+   "opts": [
+    "Loading dose",
+    "Maintenance dose",
+    "Therapeutic index",
+    "Steady state dose"
+   ],
+   "ans": 0,
+   "exp": "'Infusion rate / dosing rate: AKA loading dose' — a continuous infusion sets up the desired plasma level, whereas the repeated dose that sustains it is the maintenance dose. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-021",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "In the concentration-time curve of an IV infusion, phase I represents:",
+   "opts": [
+    "Slowly rising state (infusion), where absorption > excretion",
+    "Steady state plasma concentration",
+    "Declining state (elimination)",
+    "A loading dose given as a bolus"
+   ],
+   "ans": 0,
+   "exp": "Phase I is the slowly rising state of infusion, during which absorption exceeds excretion so plasma concentration climbs. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-022",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "Phase II of the concentration-time curve represents:",
+   "opts": [
+    "Steady state plasma concentration",
+    "Slowly rising concentration during infusion",
+    "Declining state after stopping infusion",
+    "Peak concentration after a bolus dose"
+   ],
+   "ans": 0,
+   "exp": "Phase II is the flat plateau — steady state plasma concentration, where infusion rate equals the rate of drug elimination. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-023",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "At the plateau of the infusion curve, the relationship between infusion and elimination is:",
+   "opts": [
+    "Infusion rate = rate of drug elimination",
+    "Infusion rate > rate of drug elimination",
+    "Infusion rate < rate of drug elimination",
+    "Both rates become zero"
+   ],
+   "ans": 0,
+   "exp": "The plateau is labelled 'Infusion rate = Rate of drug elimination' — the amount entering the body each hour equals the amount leaving, so the concentration stays steady. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-024",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "Phase III of the curve is the declining state because:",
+   "opts": [
+    "Excretion > Absorption",
+    "Absorption > Excretion",
+    "Absorption equals Excretion",
+    "The drug is redistributed to fat"
+   ],
+   "ans": 0,
+   "exp": "Phase III is labelled 'Excretion > Absorption' — elimination now exceeds input, so plasma concentration falls. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-025",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "The infusion rate required to maintain a desired plasma concentration is calculated as:",
+   "opts": [
+    "Plasma concentration × clearance",
+    "Plasma concentration ÷ clearance",
+    "Clearance ÷ plasma concentration",
+    "Volume of distribution × plasma concentration"
+   ],
+   "ans": 0,
+   "exp": "'Infusion rate = Plasma concentration × clearance' — the same relationship as RDE, since at steady state infusion must match elimination. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-026",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "How many half-lives are required to attain steady state plasma concentration?",
+   "opts": [
+    "4–5 T1/2",
+    "1–2 T1/2",
+    "10 T1/2",
+    "Half of one T1/2"
+   ],
+   "ans": 0,
+   "exp": "'4–5 T1/2 are required to attain steady state plasma concentration' — this is why a loading dose is given when an immediate effect is needed. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-027",
+   "sec": "Concentration-time curve",
+   "page": 16,
+   "q": "Continuous infusion dosing is stated to depend on:",
+   "opts": [
+    "Volume of distribution",
+    "Clearance alone",
+    "Bioavailability alone",
+    "Plasma protein binding"
+   ],
+   "ans": 0,
+   "exp": "Under the infusion curve, the bullet 'Depends on volume of distribution' applies to the infusion/loading dose, while the maintenance dose depends on clearance. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-028",
+   "sec": "Continuous IV infusion",
+   "page": 16,
+   "q": "According to the page, attainment of steady state depends on:",
+   "opts": [
+    "Volume of distribution",
+    "Bioavailability alone",
+    "The infusion volume",
+    "Protein binding"
+   ],
+   "ans": 0,
+   "exp": "For continuous IV infusion the page states that steady state depends on volume of distribution. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-029",
+   "sec": "Intermittent dosing",
+   "page": 16,
+   "q": "Intermittent dosing is also known as:",
+   "opts": [
+    "Maintenance dose",
+    "Loading dose",
+    "Infusion rate",
+    "Elimination dose"
+   ],
+   "ans": 0,
+   "exp": "'Intermittent dosing: AKA maintenance dose' — the dose is repeated at intervals to hold the plasma concentration steady. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-030",
+   "sec": "Intermittent dosing",
+   "page": 16,
+   "q": "The purpose of the intermittent (maintenance) dose is to:",
+   "opts": [
+    "Maintain plasma concentration in steady state",
+    "Achieve a rapid therapeutic concentration",
+    "Saturate plasma protein binding sites",
+    "Increase the volume of distribution"
+   ],
+   "ans": 0,
+   "exp": "'Dose given after a certain period of time to maintain plasma concentration in steady state' — maintenance dosing sustains, rather than establishes, the level. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-031",
+   "sec": "Intermittent dosing",
+   "page": 16,
+   "q": "The maintenance dose depends on:",
+   "opts": [
+    "Clearance",
+    "Volume of distribution",
+    "Half-life alone",
+    "Plasma protein binding"
+   ],
+   "ans": 0,
+   "exp": "'Depends on Clearance' — clearance governs how much drug must be replaced per unit time, whereas volume of distribution governs the loading dose. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-032",
+   "sec": "Maintenance dose formula",
+   "page": 16,
+   "q": "The maintenance dose is calculated by the formula:",
+   "opts": [
+    "PC × CL × Time ÷ f",
+    "PC × CL × Time × f",
+    "PC × vd × Time ÷ f",
+    "CL ÷ (PC × Time)"
+   ],
+   "ans": 0,
+   "exp": "Boxed formula: maintenance dose = PC × CL × Time / f, where f is bioavailability. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-033",
+   "sec": "Maintenance dose formula",
+   "page": 16,
+   "q": "In the maintenance dose formula, 'f' denotes:",
+   "opts": [
+    "Bioavailability",
+    "Elimination constant",
+    "Fraction bound to protein",
+    "Frequency of dosing"
+   ],
+   "ans": 0,
+   "exp": "[f: Bioavailability] — the fraction of the administered dose that reaches the systemic circulation. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-034",
+   "sec": "Maintenance dose formula",
+   "page": 16,
+   "q": "For intravenous routes, the value of f is:",
+   "opts": [
+    "1",
+    "0",
+    "0.5",
+    "It varies with each drug"
+   ],
+   "ans": 0,
+   "exp": "'f = 1 in IV routes' — intravenous administration bypasses absorption barriers, so the entire dose reaches the systemic circulation. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-035",
+   "sec": "Maintenance dose formula",
+   "page": 16,
+   "q": "A drug with a bioavailability of 0.5 is to be given orally instead of intravenously. To maintain the same plasma concentration, the oral dose must be:",
+   "opts": [
+    "Doubled",
+    "Halved",
+    "Unchanged",
+    "Quadrupled"
+   ],
+   "ans": 0,
+   "exp": "Since dose = PC × CL × Time / f and f falls from 1 to 0.5, the required dose doubles — oral doses are higher than IV doses for this reason. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-036",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "Half-life (T1/2) is defined as the time taken by a drug to:",
+   "opts": [
+    "Decrease by 50% in plasma",
+    "Increase by 50% in plasma",
+    "Be completely eliminated from the body",
+    "Reach steady state plasma concentration"
+   ],
+   "ans": 0,
+   "exp": "'Time taken by a drug to decrease by 50% in plasma.' (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-037",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "Half-life is directly proportional to:",
+   "opts": [
+    "Volume of distribution and inversely proportional to clearance",
+    "Clearance and inversely proportional to volume of distribution",
+    "Both volume of distribution and clearance",
+    "Neither volume of distribution nor clearance"
+   ],
+   "ans": 0,
+   "exp": "T1/2 ∝ volume of distribution (vd) / Clearance (Cl) — a larger distribution volume prolongs half-life; a higher clearance shortens it. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-038",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "The formula relating half-life to volume of distribution and clearance is:",
+   "opts": [
+    "T1/2 = 0.693 × vd / Cl",
+    "T1/2 = vd / (0.693 × Cl)",
+    "T1/2 = 0.693 × Cl / vd",
+    "T1/2 = vd × Cl / 0.693"
+   ],
+   "ans": 0,
+   "exp": "T1/2 = 0.693 × vd/Cl — the constant 0.693 (ln 2) converts the first-order rate constant into half-life. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-039",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "Half-life equals 0.693 divided by:",
+   "opts": [
+    "The elimination constant (kel)",
+    "The volume of distribution",
+    "The clearance",
+    "The plasma concentration"
+   ],
+   "ans": 0,
+   "exp": "T1/2 = 0.693 / kel — half-life and the elimination rate constant are reciprocally related. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-040",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "The elimination constant (kel) is equal to:",
+   "opts": [
+    "Cl / vd",
+    "vd / Cl",
+    "Cl × vd",
+    "0.693 × Cl / vd"
+   ],
+   "ans": 0,
+   "exp": "'Elimination constant (kel) = Cl / vd' — the fraction of the distribution volume cleared per unit time. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-041",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "If the volume of distribution of a drug increases while clearance remains unchanged, the half-life will:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "Remain unchanged",
+    "Become zero"
+   ],
+   "ans": 0,
+   "exp": "Since T1/2 = 0.693 × vd/Cl, a rise in vd with constant Cl lengthens the half-life — the drug is spread over a larger volume and cleared more slowly relative to its load. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-042",
+   "sec": "Half-life",
+   "page": 16,
+   "q": "In a patient with renal failure, clearance of a renally excreted drug falls. The expected effect on the drug is:",
+   "opts": [
+    "Prolonged half-life, requiring dose adjustment",
+    "Shortened half-life with loss of effect",
+    "No change in half-life",
+    "Reduced volume of distribution only"
+   ],
+   "ans": 0,
+   "exp": "Because T1/2 ∝ vd/Cl, a fall in clearance prolongs T1/2; the drug stays in the body longer, so dose or interval must be adjusted. (Book p16)"
+  },
+  {
+   "id": "PHARM-C6-043",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "Zero order kinetics means elimination of a:",
+   "opts": [
+    "Constant amount of drug per hour",
+    "Constant proportion of drug per hour",
+    "Increasing amount of drug per hour",
+    "Constant proportion of the dose per half-life"
+   ],
+   "ans": 0,
+   "exp": "Table row 'elimination of': zero order = constant amount of drug per hour; first order = constant proportion of drug per hour. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-044",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "First order kinetics means elimination of a:",
+   "opts": [
+    "Constant proportion of drug per hour",
+    "Constant amount of drug per hour",
+    "Amount independent of plasma concentration",
+    "Saturating amount of drug per hour"
+   ],
+   "ans": 0,
+   "exp": "First order: a constant proportion (fraction) of the drug present is eliminated per unit time, so the rate falls as concentration falls. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-045",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "In the equation RDE = (PC)^n × Cl, the value of n for zero order kinetics is:",
+   "opts": [
+    "n = 0",
+    "n = 1",
+    "n = 2",
+    "n = 0.5"
+   ],
+   "ans": 0,
+   "exp": "For zero order kinetics the table gives n = 0, so RDE becomes independent of plasma concentration (PC^0 = 1). (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-046",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "In the equation RDE = (PC)^n × Cl, the value of n for first order kinetics is:",
+   "opts": [
+    "n = 1",
+    "n = 0",
+    "n = 2",
+    "n = −1"
+   ],
+   "ans": 0,
+   "exp": "For first order kinetics n = 1, so RDE ∝ PC — the rate of elimination is directly proportional to the plasma concentration. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-047",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "When the dose is constant (Cl constant), zero order kinetics gives:",
+   "opts": [
+    "RDE = constant",
+    "RDE ∝ PC",
+    "RDE ∝ PC²",
+    "RDE = zero"
+   ],
+   "ans": 0,
+   "exp": "With constant dose and clearance: zero order → RDE = constant, because a fixed amount is eliminated per hour irrespective of concentration. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-048",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "When the dose is constant (Cl constant), first order kinetics gives:",
+   "opts": [
+    "RDE ∝ PC",
+    "RDE = constant",
+    "RDE ∝ 1/PC",
+    "RDE is independent of PC"
+   ],
+   "ans": 0,
+   "exp": "For first order kinetics RDE ∝ PC — elimination rate changes with concentration, unlike zero order where RDE stays constant. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-049",
+   "sec": "Clinical kinetics",
+   "page": 17,
+   "q": "Which statement comparing zero order and first order kinetics is correct?",
+   "opts": [
+    "Zero order eliminates a constant amount per hour; first order a constant proportion per hour",
+    "Zero order eliminates a constant proportion per hour; first order a constant amount per hour",
+    "Both eliminate a constant proportion per hour",
+    "Both eliminate a constant amount per hour"
+   ],
+   "ans": 0,
+   "exp": "The first row of the table contrasts exactly this: zero order = constant amount per hour; first order = constant proportion per hour. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-050",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "If the dose is increased, the half-life in zero order kinetics:",
+   "opts": [
+    "Increases",
+    "Remains constant",
+    "Decreases",
+    "Becomes zero"
+   ],
+   "ans": 0,
+   "exp": "In the zero order column of the 'if dose increases' row, T1/2 shows an upward arrow — with a fixed amount eliminated per hour, a bigger dose takes longer to fall by half. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-051",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "If the dose is increased, the half-life in first order kinetics:",
+   "opts": [
+    "Remains constant",
+    "Increases",
+    "Decreases",
+    "Doubles"
+   ],
+   "ans": 0,
+   "exp": "In first order kinetics T1/2 is constant — half-life does not change with dose or concentration, which is why it is a characteristic value for the drug. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-052",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "If the dose is increased, clearance in zero order kinetics:",
+   "opts": [
+    "Decreases",
+    "Remains constant",
+    "Increases proportionately",
+    "Increases disproportionately"
+   ],
+   "ans": 0,
+   "exp": "The zero order column of the 'if dose increases' row shows CL with a downward arrow — because the eliminating system is saturated, clearance falls as the dose rises. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-053",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "If the dose is increased, clearance in first order kinetics:",
+   "opts": [
+    "Remains constant",
+    "Decreases",
+    "Increases",
+    "Becomes zero"
+   ],
+   "ans": 0,
+   "exp": "In first order kinetics CL is constant; clearance is a fixed volume of plasma cleared per hour regardless of dose. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-054",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "With increasing dose, the rise in plasma concentration in zero order kinetics is:",
+   "opts": [
+    "Disproportionate, with risk of toxicity",
+    "Proportionate to the dose",
+    "Less than proportionate to the dose",
+    "Unrelated to the dose"
+   ],
+   "ans": 0,
+   "exp": "Zero order: ↑ in PC is disproportionate (risk of toxicity) — because clearance falls with dose, a small dose increment can cause a large, dangerous rise in plasma level. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-055",
+   "sec": "Effect of increasing dose",
+   "page": 17,
+   "q": "With increasing dose, the rise in plasma concentration in first order kinetics is:",
+   "opts": [
+    "Proportionate",
+    "Disproportionate with risk of toxicity",
+    "Independent of the dose",
+    "Exponential"
+   ],
+   "ans": 0,
+   "exp": "First order: ↑ in PC is proportionate — doubling the dose doubles the plasma concentration, so toxicity risk is predictable. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-056",
+   "sec": "Clinical kinetics",
+   "page": 17,
+   "q": "In first order kinetics, if the dose is doubled the plasma concentration roughly:",
+   "opts": [
+    "Doubles, in proportion to the dose",
+    "Increases disproportionately, risking toxicity",
+    "Remains the same",
+    "Falls by half"
+   ],
+   "ans": 0,
+   "exp": "First order gives a proportionate rise in PC with dose; the disproportionate, toxicity-prone rise belongs to zero order drugs. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-057",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "Which variable is CONSTANT with increasing dose in first order but CHANGES (↑ T1/2, ↓ CL) in zero order kinetics?",
+   "opts": [
+    "Both half-life and clearance",
+    "Only the rate of drug elimination",
+    "Only the plasma concentration",
+    "Volume of distribution"
+   ],
+   "ans": 0,
+   "exp": "In the 'if dose increases' row, first order keeps T1/2 and CL constant, whereas zero order shows T1/2 rising and clearance falling with dose. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-058",
+   "sec": "Saturation of elimination",
+   "page": 17,
+   "q": "Zero order kinetics is seen in drugs with:",
+   "opts": [
+    "Early saturation of elimination",
+    "Late saturation of elimination",
+    "No saturation of elimination",
+    "Renal excretion only"
+   ],
+   "ans": 0,
+   "exp": "Table row 'seen in drugs with': zero order — early saturation of elimination; the eliminating enzymes/transporters are overwhelmed even at ordinary doses. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-059",
+   "sec": "Saturation of elimination",
+   "page": 17,
+   "q": "First order kinetics is seen in drugs with:",
+   "opts": [
+    "Late saturation of elimination",
+    "Early saturation of elimination",
+    "Saturation at all doses",
+    "Zero clearance"
+   ],
+   "ans": 0,
+   "exp": "First order kinetics is seen in drugs with late saturation of elimination — the eliminating systems have ample capacity at usual doses. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-060",
+   "sec": "Saturation of elimination",
+   "page": 17,
+   "q": "For a drug following zero order kinetics, the 'exception to the rule' occurs at:",
+   "opts": [
+    "Lower doses, where it follows first order kinetics until saturation — hence a.k.a. pseudozero order",
+    "Higher doses, where it follows first order kinetics after saturation",
+    "Lower doses, where it becomes truly zero order",
+    "All doses equally, as no exception exists"
+   ],
+   "ans": 0,
+   "exp": "Zero order column, exception row: at lower doses these drugs follow first order kinetics until saturation, and are hence also called pseudozero order. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-061",
+   "sec": "Saturation of elimination",
+   "page": 17,
+   "q": "For a drug following first order kinetics, the 'exception to the rule' occurs at:",
+   "opts": [
+    "Higher doses, where it follows zero order after saturation",
+    "Lower doses, where it follows zero order before saturation",
+    "Higher doses, where it becomes pseudozero order before saturation",
+    "No dose, since first order never changes"
+   ],
+   "ans": 0,
+   "exp": "First order column, exception row: at higher doses it follows zero order after saturation — once the enzymes saturate, elimination becomes a fixed amount per hour. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-062",
+   "sec": "Saturation of elimination",
+   "page": 17,
+   "q": "'Pseudozero order' is the term applied to drugs that:",
+   "opts": [
+    "Follow first order kinetics at lower doses until saturation",
+    "Follow zero order kinetics at all doses",
+    "Never reach saturation",
+    "Are excreted unchanged by the kidney"
+   ],
+   "ans": 0,
+   "exp": "Zero order column: at lower doses they follow first order kinetics until saturation — hence aka pseudozero order; true zero order over the whole dose range is rare. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-063",
+   "sec": "Clinical kinetics",
+   "page": 17,
+   "q": "Elimination kinetics of a drug whose eliminating system is saturated even at therapeutic doses is best described as:",
+   "opts": [
+    "Zero order, because a constant amount is eliminated per hour",
+    "First order, because a constant proportion is eliminated per hour",
+    "Zero order only after a further rise in dose",
+    "Independent of dose and concentration"
+   ],
+   "ans": 0,
+   "exp": "Early saturation of elimination produces zero order kinetics — a constant amount per hour — with a disproportionate rise in plasma concentration as the dose increases. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-064",
+   "sec": "Zero order drugs",
+   "page": 17,
+   "q": "Which drug is specified as following TRUE zero order kinetics?",
+   "opts": [
+    "Alcohol",
+    "Phenytoin",
+    "Warfarin",
+    "Heparin"
+   ],
+   "ans": 0,
+   "exp": "The zero order example list writes 'Alcohol (true zero order)' — alcohol is eliminated at a fixed amount per hour at all relevant doses. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-065",
+   "sec": "Zero order drugs",
+   "page": 17,
+   "q": "Which of the following sets are examples of zero order kinetics?",
+   "opts": [
+    "Alcohol, theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin",
+    "Paracetamol, digoxin, ramipril and loperamide",
+    "Most drugs used in clinical practice",
+    "Only alcohol and methanol"
+   ],
+   "ans": 0,
+   "exp": "Zero order examples: alcohol (true zero order), theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-066",
+   "sec": "First order drugs",
+   "page": 17,
+   "q": "The examples given for first order kinetics are:",
+   "opts": [
+    "Most drugs",
+    "Alcohol, phenytoin and heparin",
+    "Theophylline and tolbutamide only",
+    "Warfarin and methanol only"
+   ],
+   "ans": 0,
+   "exp": "First order column, examples row: 'most drugs' — the great majority of drugs are eliminated by first order kinetics. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-067",
+   "sec": "Clinical kinetics",
+   "page": 17,
+   "q": "A patient on phenytoin has the dose increased and develops nystagmus and ataxia. The likely explanation is:",
+   "opts": [
+    "Zero order kinetics giving a disproportionate rise in plasma concentration",
+    "First order kinetics with a proportionate rise in concentration",
+    "Reduced bioavailability of phenytoin",
+    "Induction of phenytoin metabolism"
+   ],
+   "ans": 0,
+   "exp": "Phenytoin is listed among zero order drugs; here an increase in dose raises PC disproportionately (risk of toxicity) — the classic reason phenytoin needs careful, small dose increments. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-068",
+   "sec": "Clinical kinetics",
+   "page": 17,
+   "q": "In a patient with a very high blood alcohol level, the rate of fall of alcohol concentration is:",
+   "opts": [
+    "Constant per hour, regardless of concentration",
+    "Proportional to the concentration",
+    "Faster at higher concentrations",
+    "Zero until the liver is saturated"
+   ],
+   "ans": 0,
+   "exp": "Alcohol follows true zero order kinetics — a constant amount is eliminated per hour, so concentration falls linearly rather than exponentially. (Book p17)"
+  },
+  {
+   "id": "PHARM-C6-069",
+   "sec": "Kinetics of elimination",
+   "page": 17,
+   "q": "The zero order examples theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin are grouped because their elimination shows:",
+   "opts": [
+    "Early saturation of elimination",
+    "Late saturation of elimination",
+    "No saturation of elimination",
+    "Renal tubular secretion only"
+   ],
+   "ans": 0,
+   "exp": "The table lists these drugs under zero order kinetics, which is seen in drugs with early saturation of elimination. (Book p17)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U6-1",
+   "ch": 6,
+   "n": 1,
+   "title": "Excretion: The Drug That Leaves the Body",
+   "sec": "PHARMACOKINETICS: EXCRETION · p15",
+   "qs": [
+    "PHARM-C6-001",
+    "PHARM-C6-002",
+    "PHARM-C6-003",
+    "PHARM-C6-004"
+   ],
+   "guide": "Only the ionised, water-soluble, polar drug is excreted. The major organs are the kidneys — the most common organ of excretion — and the liver, which is the most common organ of metabolism, while saliva and sweat handle small amounts."
+  },
+  {
+   "id": "PHARM-U6-2",
+   "ch": 6,
+   "n": 2,
+   "title": "Filtration (20%) vs Tubular Secretion (80%)",
+   "sec": "Filtration vs tubular secretion · p15",
+   "qs": [
+    "PHARM-C6-005",
+    "PHARM-C6-006",
+    "PHARM-C6-007",
+    "PHARM-C6-008",
+    "PHARM-C6-009",
+    "PHARM-C6-010",
+    "PHARM-C6-011",
+    "PHARM-C6-012",
+    "PHARM-C6-013"
+   ],
+   "guide": "Tubular secretion (80%) dominates over filtration (20%). Only unbound drug is filtered; protein-bound drug, because of the negative charge of the basement membrane, is not filtered but is still secreted. Filtration depends on GFR and therefore gives a constant rate of excretion, so kidney disease directly reduces it."
+  },
+  {
+   "id": "PHARM-U6-3",
+   "ch": 6,
+   "n": 3,
+   "title": "Rate of Drug Elimination and Clearance",
+   "sec": "Rate of drug elimination · p15",
+   "qs": [
+    "PHARM-C6-014",
+    "PHARM-C6-015",
+    "PHARM-C6-016",
+    "PHARM-C6-017",
+    "PHARM-C6-018"
+   ],
+   "guide": "Rate of drug elimination is the amount of drug eliminated per hour (mg/hr) and equals plasma concentration (mg/ml) × clearance (ml/hr). Clearance is the volume of plasma cleared of drug per hour, not an amount of drug."
+  },
+  {
+   "id": "PHARM-U6-4",
+   "ch": 6,
+   "n": 4,
+   "title": "Two Ways to Dose: Infusion and Intermittent",
+   "sec": "Drug dosing · p15",
+   "qs": [
+    "PHARM-C6-019",
+    "PHARM-C6-020"
+   ],
+   "guide": "Drugs are dosed either by continuous IV infusion or intermittently. The infusion (dosing) rate is also called the loading dose, while the repeated intermittent dose is the maintenance dose."
+  },
+  {
+   "id": "PHARM-U6-5",
+   "ch": 6,
+   "n": 5,
+   "title": "The Concentration-Time Curve of an Infusion",
+   "sec": "Concentration-time curve · p16",
+   "qs": [
+    "PHARM-C6-021",
+    "PHARM-C6-022",
+    "PHARM-C6-023",
+    "PHARM-C6-024",
+    "PHARM-C6-025",
+    "PHARM-C6-026",
+    "PHARM-C6-027",
+    "PHARM-C6-028"
+   ],
+   "guide": "The curve has three phases: I the slowly rising state where absorption exceeds excretion, II the steady state plateau where infusion rate equals the rate of drug elimination, and III the declining state where excretion exceeds absorption. Infusion rate = plasma concentration × clearance, 4–5 half-lives are needed to reach steady state, and the dose depends on volume of distribution."
+  },
+  {
+   "id": "PHARM-U6-6",
+   "ch": 6,
+   "n": 6,
+   "title": "Maintenance Dose and the Bioavailability Factor",
+   "sec": "Intermittent dosing · p16",
+   "qs": [
+    "PHARM-C6-029",
+    "PHARM-C6-030",
+    "PHARM-C6-031",
+    "PHARM-C6-032",
+    "PHARM-C6-033",
+    "PHARM-C6-034",
+    "PHARM-C6-035"
+   ],
+   "guide": "The intermittent dose, a.k.a. maintenance dose, is given at intervals to hold plasma concentration in steady state and depends on clearance. Maintenance dose = PC × CL × Time / f, where f is bioavailability (f = 1 for IV routes), so oral doses must be larger when bioavailability is incomplete."
+  },
+  {
+   "id": "PHARM-U6-7",
+   "ch": 6,
+   "n": 7,
+   "title": "Half-Life, Volume of Distribution and Clearance",
+   "sec": "Half-life · p16",
+   "qs": [
+    "PHARM-C6-036",
+    "PHARM-C6-037",
+    "PHARM-C6-038",
+    "PHARM-C6-039",
+    "PHARM-C6-040",
+    "PHARM-C6-041",
+    "PHARM-C6-042"
+   ],
+   "guide": "Half-life is the time taken for the plasma level to fall by 50% and is proportional to volume of distribution ÷ clearance: T1/2 = 0.693 × vd/Cl = 0.693/kel, while kel = Cl/vd. Rising vd or falling clearance (as in renal failure) prolongs the half-life."
+  },
+  {
+   "id": "PHARM-U6-8",
+   "ch": 6,
+   "n": 8,
+   "title": "Zero Order vs First Order Kinetics (Table)",
+   "sec": "Kinetics of drug elimination · p17",
+   "qs": [
+    "PHARM-C6-043",
+    "PHARM-C6-044",
+    "PHARM-C6-045",
+    "PHARM-C6-046",
+    "PHARM-C6-047",
+    "PHARM-C6-048",
+    "PHARM-C6-049"
+   ],
+   "guide": "Zero order eliminates a constant amount of drug per hour (n = 0, RDE = constant); first order eliminates a constant proportion per hour (n = 1, RDE ∝ PC) as expressed in RDE = (PC)^n × Cl. Most drugs follow first order."
+  },
+  {
+   "id": "PHARM-U6-9",
+   "ch": 6,
+   "n": 9,
+   "title": "What Happens When the Dose Is Increased",
+   "sec": "Effect of increasing dose · p17",
+   "qs": [
+    "PHARM-C6-050",
+    "PHARM-C6-051",
+    "PHARM-C6-052",
+    "PHARM-C6-053",
+    "PHARM-C6-054",
+    "PHARM-C6-055",
+    "PHARM-C6-056",
+    "PHARM-C6-057"
+   ],
+   "guide": "With increasing dose, zero order shows rising T1/2, falling clearance and a disproportionate rise in plasma concentration with risk of toxicity; first order keeps T1/2 and clearance constant and the plasma concentration rises proportionately."
+  },
+  {
+   "id": "PHARM-U6-10",
+   "ch": 6,
+   "n": 10,
+   "title": "Saturation of Elimination and Pseudozero Order",
+   "sec": "Saturation of elimination · p17",
+   "qs": [
+    "PHARM-C6-058",
+    "PHARM-C6-059",
+    "PHARM-C6-060",
+    "PHARM-C6-061",
+    "PHARM-C6-062",
+    "PHARM-C6-063"
+   ],
+   "guide": "Zero order kinetics reflects early saturation of elimination, first order reflects late saturation. The exceptions are the key exam points: zero order drugs follow first order at lower doses until saturation and are hence called pseudozero order, while first order drugs switch to zero order at higher doses after saturation."
+  },
+  {
+   "id": "PHARM-U6-11",
+   "ch": 6,
+   "n": 11,
+   "title": "The Example List: Alcohol, Phenytoin and the Rest",
+   "sec": "Examples of elimination kinetics · p17",
+   "qs": [
+    "PHARM-C6-064",
+    "PHARM-C6-065",
+    "PHARM-C6-066",
+    "PHARM-C6-067",
+    "PHARM-C6-068",
+    "PHARM-C6-069"
+   ],
+   "guide": "Zero order drugs are alcohol (true zero order), theophylline, tolbutamide, phenytoin, heparin, methanol and warfarin; first order kinetics applies to most drugs. This is why a small phenytoin increment can cause toxicity and why alcohol levels fall linearly at a fixed amount per hour."
+  }
+ ]
 }

@@ -4,452 +4,228 @@
    "id": "PHARM-C3-001",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "As per the criteria table, drugs are best absorbed when their solubility is:",
+   "q": "The criteria table on this page compares the ideal properties of a drug for which two processes?",
    "opts": [
-    "Lipid",
-    "Water",
-    "Lipid and water equally",
-    "Independent of solubility"
+    "Absorption and excretion",
+    "Distribution and metabolism",
+    "Absorption and metabolism",
+    "Distribution and excretion"
    ],
    "ans": 0,
-   "exp": "The absorption column of the criteria table requires lipid solubility, whereas the excretion column requires water solubility. (Book p5)"
+   "exp": "The table is headed with two columns, 'Absorption' and 'Excretion', and lists the solubility, ionization, pH relation and polarity required for each. (Book p5)"
   },
   {
    "id": "PHARM-C3-002",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "For a drug to be excreted, the criteria table requires it to be:",
+   "q": "As per the criteria table, a drug should be lipid soluble for absorption and ________ for excretion.",
    "opts": [
-    "Water soluble and ionised",
-    "Lipid soluble and unionised",
-    "Non-polar and unionised",
-    "Lipid soluble and ionised"
+    "Water soluble",
+    "Lipid soluble",
+    "Protein bound",
+    "Non polar"
    ],
    "ans": 0,
-   "exp": "Excretion needs water solubility and ionization - the water-soluble ionised form cannot be reabsorbed and is excreted. (Book p5)"
+   "exp": "Solubility row: absorption requires lipid solubility, excretion requires water solubility — the basis of the WIPE mnemonic. (Book p5)"
   },
   {
    "id": "PHARM-C3-003",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "According to the criteria table, absorption of a drug requires it to be:",
+   "q": "For absorption to occur, the drug must be present in which form?",
    "opts": [
-    "Unionised with pH of medium equal to that of the drug",
-    "Ionised with pH of medium unequal to that of the drug",
-    "Polar and water soluble",
-    "Ionised and non-polar"
+    "Unionised",
+    "Ionised",
+    "Protein bound",
+    "Charged"
    ],
    "ans": 0,
-   "exp": "Absorption: lipid soluble, unionised, pH of medium equal to that of drug (relation of pH 'equal') and non-polar. (Book p5)"
+   "exp": "Ionization row: absorption needs the unionised form; the ionised form is required for excretion. (Book p5)"
   },
   {
    "id": "PHARM-C3-004",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "In the criteria table, the 'relation of pH of medium' for EXCRETION is:",
+   "q": "For excretion of a drug into urine, the drug must be:",
    "opts": [
-    "Unequal",
-    "Equal",
-    "Equal for acidic drugs and unequal for basic drugs",
-    "Not applicable"
+    "Unionised",
+    "Non polar",
+    "Ionised",
+    "Lipid soluble"
    ],
-   "ans": 0,
-   "exp": "Excretion occurs when the pH of the drug and the pH of the medium are unequal, so the drug is ionised and trapped in urine. (Book p5)"
+   "ans": 2,
+   "exp": "The excretion column requires the ionised, polar, water-soluble form — an ionised drug is not reabsorbed and is excreted. (Book p5)"
   },
   {
    "id": "PHARM-C3-005",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "Which polarity favours absorption of a drug?",
+   "q": "The table states that for absorption, the relation of the pH of the medium to the pH of the drug is:",
    "opts": [
-    "Non polar",
-    "Polar",
-    "Polar and ionised",
-    "Polarity is irrelevant"
+    "Equal",
+    "Unequal",
+    "Always higher",
+    "Always lower"
    ],
    "ans": 0,
-   "exp": "Non-polar drugs are absorbed; polar (ionised) drugs are excreted. (Book p5)"
+   "exp": "Row 'Relation of pH of medium': absorption 'Equal', excretion 'Unequal' — for absorption the pH of the medium equals the pH of the drug (its pKa). (Book p5)"
   },
   {
    "id": "PHARM-C3-006",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "The mnemonic LUNA stands for the criteria of:",
+   "q": "For excretion, the relation of the pH of the drug to the pH of the medium is:",
    "opts": [
-    "Absorption - Lipid, Unionised, pH relation equal, Non-polar",
-    "Excretion - Lipid, Unionised, Non-polar, Acidic",
-    "Absorption - Lipid, Unchanged, Neutral, Available",
-    "Excretion - Lipid, Unionised, Neutral, Acidic"
+    "Equal",
+    "Unequal (different)",
+    "Non polar",
+    "Not relevant"
    ],
-   "ans": 0,
-   "exp": "LUNA summarises absorption: Lipid, Unionised, Non-polar with pH of medium equal to that of the drug; its counterpart WIPE summarises excretion. (Book p5)"
+   "ans": 1,
+   "exp": "The excretion column reads 'Unequal' — the pH of the drug and the pH of the medium are different, so the drug stays ionised in urine and is excreted. (Book p5)"
   },
   {
    "id": "PHARM-C3-007",
    "sec": "Ionization of drugs",
    "page": 5,
-   "q": "The mnemonic WIPE stands for the criteria of:",
+   "q": "As per the criteria table, the polarity required for absorption is:",
    "opts": [
-    "Excretion - Water soluble, Ionised, Polar, pH relation unequal",
-    "Absorption - Water soluble, Ionised, Polar, Absorption equal",
-    "Excretion - Water soluble, Ionised, Protein bound, Equal pH",
-    "Excretion - Water insoluble, Ionised, Polar, pH equal"
+    "Polar",
+    "Non polar",
+    "Charged",
+    "Both polar and charged"
    ],
-   "ans": 0,
-   "exp": "WIPE denotes excretion: Water soluble, Ionised, Polar, with unequal pH of drug and medium. (Book p5)"
+   "ans": 1,
+   "exp": "Absorption requires a non-polar molecule (lipid soluble); excretion requires a polar (water-soluble) molecule. (Book p5)"
   },
   {
    "id": "PHARM-C3-008",
-   "sec": "Unionization",
+   "sec": "Ionization of drugs",
    "page": 5,
-   "q": "An acidic drug remains unionised in an acidic medium such as the:",
+   "q": "The mnemonic 'LUNA' stands for the properties favouring:",
    "opts": [
-    "Stomach",
-    "Small intestine",
-    "Renal tubule",
-    "Colon"
+    "Absorption",
+    "Excretion",
+    "Metabolism",
+    "Distribution"
    ],
    "ans": 0,
-   "exp": "Acidic drug in an acidic medium (stomach) stays unionised and lipid soluble, which is why aspirin is unionised in the stomach. (Book p5)"
+   "exp": "LUNA is written under the absorption column of the criteria table, standing for the properties that favour absorption (lipid soluble, unionised, non-polar, pH of medium equal to that of the drug). (Book p5)"
   },
   {
    "id": "PHARM-C3-009",
-   "sec": "Unionization",
+   "sec": "Ionization of drugs",
    "page": 5,
-   "q": "A basic drug stays unionised in a basic medium such as the:",
+   "q": "The mnemonic 'WIPE' describes the properties favouring:",
    "opts": [
-    "Small intestine",
-    "Stomach",
-    "Gastric juice",
-    "Oesophagus"
+    "Absorption",
+    "Excretion",
+    "Redistribution",
+    "First pass metabolism"
    ],
-   "ans": 0,
-   "exp": "Basic drug in a basic medium (small intestine) remains unionised; the pair is stated as 'acidic drug - acidic medium: stomach; basic drug - basic medium: small intestine'. (Book p5)"
+   "ans": 1,
+   "exp": "WIPE is written under the excretion column — Water soluble, Ionised, pH of drug and medium unequal/different, Polar. (Book p5)"
   },
   {
    "id": "PHARM-C3-010",
-   "sec": "Unionization",
+   "sec": "Ionization of drugs",
    "page": 5,
-   "q": "Aspirin, an acidic drug, is unionised in the stomach. This follows the rule that:",
+   "q": "In the mnemonic WIPE, the letter 'W' stands for:",
    "opts": [
-    "An acidic drug stays unionised in an acidic medium",
-    "A basic drug stays unionised in an acidic medium",
-    "All drugs are unionised in the stomach",
-    "Unionisation is independent of pH"
+    "Water soluble",
+    "Weakly ionised",
+    "Widely distributed",
+    "Water insoluble"
    ],
    "ans": 0,
-   "exp": "Aspirin (acidic) is unionised in the stomach because an acidic drug is unionised in an acidic medium - the same principle used for its absorption. (Book p5)"
+   "exp": "WIPE = Water soluble, Ionised, pH unequal (different), Polar — the profile that ensures the drug is excreted. (Book p5)"
   },
   {
    "id": "PHARM-C3-011",
    "sec": "Unionization",
    "page": 5,
-   "q": "Maximum absorption of unionised drug - whether acidic or basic - occurs in the:",
+   "q": "An acidic drug is unionized in an:",
    "opts": [
-    "Small intestine (duodenum) because of its large surface area",
-    "Stomach because of its acidic pH",
-    "Colon because of slow transit",
-    "Oesophagus because of rapid transit"
+    "Acidic medium such as the stomach",
+    "Basic medium such as the small intestine",
+    "Neutral medium only",
+    "Alkaline urine"
    ],
    "ans": 0,
-   "exp": "Although both acidic and basic drugs can be unionised in their corresponding media, maximum absorption takes place in the small intestine (duodenum) because of its large surface area. (Book p5)"
+   "exp": "'Acidic drug – Acidic medium: Stomach' — an acidic drug stays unionised in the acidic gastric medium. (Book p5)"
   },
   {
    "id": "PHARM-C3-012",
    "sec": "Unionization",
    "page": 5,
-   "q": "The dominant reason maximum unionised drug absorption occurs in the duodenum rather than the stomach is:",
+   "q": "A basic drug is unionized in a:",
    "opts": [
-    "There is a much larger surface area",
-    "The stomach contains more P-gp pumps",
-    "The stomach has a higher pH",
-    "Bile salts inactivate drug in the stomach"
+    "Basic medium such as the small intestine",
+    "Acidic medium such as the stomach",
+    "Strongly acidic medium",
+    "Neutral medium only"
    ],
    "ans": 0,
-   "exp": "The book attributes maximum absorption of unionised drug in the small intestine/duodenum to its large surface area. (Book p5)"
+   "exp": "'Basic drug – Basic medium: Small Intestine' — the basic drug remains unionised in the alkaline medium of the small intestine. (Book p5)"
   },
   {
    "id": "PHARM-C3-013",
    "sec": "Unionization",
    "page": 5,
-   "q": "Resection of the small intestine (short bowel syndrome) results in:",
+   "q": "The example given for an acidic drug that is unionized in the stomach is:",
    "opts": [
-    "Decreased absorption of the drug, managed by increasing the dose or changing the route",
-    "Increased absorption of the drug, requiring dose reduction",
-    "Unchanged absorption but delayed onset",
-    "Increased first pass metabolism"
+    "Aspirin",
+    "Amphetamine",
+    "Phenobarbital",
+    "Methotrexate"
    ],
    "ans": 0,
-   "exp": "Short bowel syndrome reduces drug absorption; management is to increase the dosage of the drug or change the route of administration. (Book p5)"
+   "exp": "'Eg: Aspirin (Acidic drug) is unionized in stomach' — aspirin is the cited acidic drug of unionization. (Book p5)"
   },
   {
    "id": "PHARM-C3-014",
-   "sec": "Ionization (excretion)",
+   "sec": "Unionization",
    "page": 5,
-   "q": "For ionization to promote excretion of a drug, the pH of the drug and the pH of the medium must be:",
+   "q": "Although aspirin is unionized in the stomach, its maximum absorption occurs in the:",
    "opts": [
-    "Different (unequal)",
-    "Equal",
-    "Both acidic",
-    "Both neutral"
+    "Small intestine (duodenum)",
+    "Stomach",
+    "Large intestine",
+    "Rectum"
    ],
    "ans": 0,
-   "exp": "Excretion depends on the pH of the drug and pH of the medium being different, which ionises the drug and prevents reabsorption. (Book p5)"
+   "exp": "Maximum absorption of the unionized drug (both acidic and basic drugs) happens in the small intestine, chiefly the duodenum. (Book p5)"
   },
   {
    "id": "PHARM-C3-015",
-   "sec": "Ionization (excretion)",
+   "sec": "Unionization",
    "page": 5,
-   "q": "Acidic drug toxicity is treated by making the urine:",
+   "q": "The reason maximum absorption of unionized drug occurs in the small intestine rather than the stomach is the:",
    "opts": [
-    "Basic, using bicarbonate as a urine alkalinizer",
-    "Acidic, using ammonium chloride",
-    "Neutral, using water loading",
-    "Basic, using ammonium chloride"
+    "Large surface area",
+    "Acidic pH",
+    "Absence of Pgp pumps",
+    "High lipid content of the medium"
    ],
    "ans": 0,
-   "exp": "Alkalinizing the urine with bicarbonate ionises acidic drugs and traps them for excretion - the standard treatment of acidic drug toxicity. (Book p5)"
+   "exp": "The text attributes it to the duodenum's large surface area, which outweighs the stomach's favourable acidity. (Book p5)"
   },
   {
    "id": "PHARM-C3-016",
-   "sec": "Ionization (excretion)",
+   "sec": "Unionization",
    "page": 5,
-   "q": "Which drugs are listed as examples of acidic drug toxicity in which urine alkalinization is used?",
+   "q": "Which statement about absorption of unionized drug is correct as per the text?",
    "opts": [
-    "Aspirin, phenobarbital, methotrexate",
-    "Amphetamine, ephedrine, nicotine",
-    "Digoxin, loperamide, verapamil",
-    "Morphine, codeine, caffeine"
+    "Only acidic unionized drugs are absorbed in the small intestine",
+    "Only basic unionized drugs are absorbed in the small intestine",
+    "Both acidic and basic unionized drugs are maximally absorbed in the small intestine",
+    "Acidic drugs are maximally absorbed in the stomach"
    ],
-   "ans": 0,
-   "exp": "Aspirin, phenobarbital and methotrexate are the acidic drugs whose toxicity is managed by alkalinizing urine with bicarbonate. (Book p5)"
+   "ans": 2,
+   "exp": "'But max absorption of unionized drug (Both Acidic & Basic) happens in Small intestine: Duodenum (D/t large surface area)'. (Book p5)"
   },
   {
    "id": "PHARM-C3-017",
-   "sec": "Ionization (excretion)",
-   "page": 5,
-   "q": "Basic drug toxicity, as with amphetamine, is managed by:",
-   "opts": [
-    "Making the urine acidic with ammonium chloride",
-    "Making the urine basic with bicarbonate",
-    "Alkalinizing plasma with sodium lactate",
-    "Instituting haemodialysis"
-   ],
-   "ans": 0,
-   "exp": "For basic drug toxicity the urine is made acidic with ammonium chloride (a urine acidifier), which ionises and traps the basic drug. (Book p5)"
-  },
-  {
-   "id": "PHARM-C3-018",
-   "sec": "Ionization (excretion)",
-   "page": 5,
-   "q": "Ammonium chloride is used as a:",
-   "opts": [
-    "Urine acidifier",
-    "Urine alkalinizer",
-    "P-gp inhibitor",
-    "Gastric acid suppressant"
-   ],
-   "ans": 0,
-   "exp": "Ammonium chloride is the urine acidifier used for basic drug toxicity such as amphetamine. (Book p5)"
-  },
-  {
-   "id": "PHARM-C3-019",
-   "sec": "Ionization (excretion)",
-   "page": 5,
-   "q": "Which of the following are also given as examples of urine acidifiers?",
-   "opts": [
-    "Vitamin C and cranberry juice",
-    "Sodium bicarbonate and acetazolamide",
-    "Citrate and lactate",
-    "Magnesium hydroxide and aluminium hydroxide"
-   ],
-   "ans": 0,
-   "exp": "A note states that other examples of urine acidifiers are vitamin C and cranberry juice. (Book p5)"
-  },
-  {
-   "id": "PHARM-C3-020",
-   "sec": "Henderson-Hasselbalch Equation",
-   "page": 6,
-   "q": "The Henderson-Hasselbalch equation for an acidic drug is:",
-   "opts": [
-    "log [unionized]/[ionized] = pKa - pH of medium",
-    "log [ionized]/[unionized] = pKa - pH of medium",
-    "log [unionized]/[ionized] = pH - pKa of drug",
-    "log [ionized]/[unionized] = pH + pKa"
-   ],
-   "ans": 0,
-   "exp": "For an acidic drug the equation is log [unionized]/[ionized] = pKa - pH of the medium. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-021",
-   "sec": "Henderson-Hasselbalch Equation",
-   "page": 6,
-   "q": "The Henderson-Hasselbalch equation for a basic drug is:",
-   "opts": [
-    "log [ionized]/[unionized] = pKa - pH",
-    "log [unionized]/[ionized] = pKa - pH",
-    "log [ionized]/[unionized] = pH - pKa",
-    "log [unionized]/[ionized] = pH + pKa"
-   ],
-   "ans": 0,
-   "exp": "For a basic drug the ratio is inverted - log [ionized]/[unionized] = pKa - pH. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-022",
-   "sec": "Henderson-Hasselbalch Equation",
-   "page": 6,
-   "q": "An acidic drug with pKa = 4 is placed in the stomach at pH = 2. The unionized:ionized ratio will be:",
-   "opts": [
-    "100:1",
-    "1:100",
-    "10:1",
-    "1:10"
-   ],
-   "ans": 0,
-   "exp": "log[U]/[I] = pKa - pH = 4 - 2 = 2, so [U]/[I] = 10^2 = 100, i.e. 100:1. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-023",
-   "sec": "Henderson-Hasselbalch Equation",
-   "page": 6,
-   "q": "For an acidic drug with pKa = 4 in the stomach (pH 2), the percentage of drug in the unionized form is:",
-   "opts": [
-    "99%",
-    "1%",
-    "50%",
-    "91%"
-   ],
-   "ans": 0,
-   "exp": "Unionized:ionized = 100:1 gives 99% unionized and only 1% ionized - which is why such drugs are absorbed from the stomach. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-024",
-   "sec": "Henderson-Hasselbalch Equation",
-   "page": 6,
-   "q": "pKa is defined as the pH of the medium at which:",
-   "opts": [
-    "50% of the drug is ionized and 50% is unionized",
-    "100% of the drug is ionized",
-    "100% of the drug is unionized",
-    "The drug is maximally absorbed"
-   ],
-   "ans": 0,
-   "exp": "pKa is the pH of the medium at which 50% of the drug is ionized and 50% is unionized. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-025",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Immediate release (IR) oral formulations are characterised by:",
-   "opts": [
-    "Frequent dosing and decreased compliance",
-    "A prolonged plateau of plasma concentration",
-    "Zero order release kinetics",
-    "Better compliance than SR forms"
-   ],
-   "ans": 0,
-   "exp": "The IR graph shows repeated peaks with each dose; the mechanism is frequent dosing, which decreases compliance - the example given is indomethacin TID. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-026",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Which formulation is given as an example of immediate release dosing three times a day?",
-   "opts": [
-    "Indomethacin TID",
-    "Zolpidem OD",
-    "Sulfasalazine OD",
-    "Omeprazole OD"
-   ],
-   "ans": 0,
-   "exp": "Indomethacin TID is the example of an IR formulation requiring frequent dosing. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-027",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Compared with IR preparations, sustained release (SR) preparations show:",
-   "opts": [
-    "A shorter peak and an increased duration of action",
-    "A taller peak and a shorter duration of action",
-    "An identical concentration-time curve",
-    "A zero order plateau"
-   ],
-   "ans": 0,
-   "exp": "The SR graph is labelled 'shorter peak' with increased duration of action, which is why compliance improves. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-028",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Extended release (ER) oral formulations are sub-classified into:",
-   "opts": [
-    "Sustained release (SR) and controlled release (CR)",
-    "Immediate release and delayed release",
-    "Enteric coated and film coated",
-    "Buccal and sublingual"
-   ],
-   "ans": 0,
-   "exp": "The flowchart shows tablet/capsule branching into IR, and 'ER: extended release' branching into SR (sustained release) and CR (controlled release). (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-029",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Controlled release (CR) preparations are also known as:",
-   "opts": [
-    "Zero order CR",
-    "First order CR",
-    "Immediate release",
-    "Delayed release"
-   ],
-   "ans": 0,
-   "exp": "The book writes 'CR: controlled release AKA zero order CR' - a constant amount of drug is released per unit time, giving a flat plateau. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-030",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "The mechanism underlying controlled release formulations is:",
-   "opts": [
-    "Polymer coating of pores",
-    "Rapid disintegration of the tablet",
-    "Enteric coating sensitive to gastric acid",
-    "Simple compression with a disintegrant"
-   ],
-   "ans": 0,
-   "exp": "CR tablets use polymer coating of pores so that drug is released slowly and steadily; the example is CR zolpidem. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-031",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "Which formulation is given as the example of a controlled release preparation?",
-   "opts": [
-    "CR zolpidem",
-    "SR indomethacin",
-    "Enteric coated PPI",
-    "Indomethacin TID"
-   ],
-   "ans": 0,
-   "exp": "CR zolpidem is the stated example of a controlled release preparation. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-032",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "SR indomethacin is described as having:",
-   "opts": [
-    "Better compliance with polymer coating present",
-    "Worse compliance requiring frequent dosing",
-    "Immediate release with two peaks",
-    "Zero order release with pore coating"
-   ],
-   "ans": 0,
-   "exp": "For SR the book lists better compliance, polymer coating present, and the example SR indomethacin. (Book p6)"
-  },
-  {
-   "id": "PHARM-C3-033",
    "sec": "Absorption of oral drugs",
    "page": 6,
    "q": "On a plasma concentration-time graph, a preparation showing two successive peaks is:",
@@ -463,326 +239,1068 @@
    "exp": "The IR graph shows one peak per dose, so two doses produce two peaks; SR shows a flatter shorter peak and CR a plateau from a single dose. (Book p6)"
   },
   {
-   "id": "PHARM-C3-034",
-   "sec": "Absorption of oral drugs",
-   "page": 6,
-   "q": "The plasma concentration-time curve of a controlled release preparation is distinctive because it:",
+   "id": "PHARM-C3-018",
+   "sec": "Short bowel syndrome",
+   "page": 5,
+   "q": "In short bowel syndrome, resection of the small intestine leads to:",
    "opts": [
-    "Rises and then stays flat (zero order plateau)",
-    "Shows a single tall peak",
-    "Shows two separate peaks",
-    "Never reaches the therapeutic range"
+    "Decreased absorption of drug",
+    "Increased absorption of drug",
+    "Unchanged absorption of drug",
+    "Increased bioavailability"
    ],
    "ans": 0,
-   "exp": "The CR graph rises and flattens into a plateau, reflecting zero order release; SR instead shows a shorter peak with prolonged duration. (Book p6)"
+   "exp": "'Resection of small intestine → ↓ Absorption of drug' — loss of absorptive surface reduces drug absorption. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-019",
+   "sec": "Short bowel syndrome",
+   "page": 5,
+   "q": "The management of drug therapy in short bowel syndrome is to:",
+   "opts": [
+    "Increase the dosage of drug or change the route",
+    "Decrease the dosage of drug",
+    "Shift to a lipid-soluble drug",
+    "Add a Pgp inhibitor"
+   ],
+   "ans": 0,
+   "exp": "'mx: ↑ Dosage of drug or change route' — since absorption is reduced, dose is increased or the route is changed (e.g., parenteral). (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-020",
+   "sec": "Short bowel syndrome",
+   "page": 5,
+   "q": "A patient with short bowel syndrome on an oral drug fails to respond. The dose-independent explanation is:",
+   "opts": [
+    "Loss of small intestinal surface area reduces absorption",
+    "Enhanced first pass metabolism",
+    "Increased gastric unionization",
+    "Renal tubular secretion of the drug"
+   ],
+   "ans": 0,
+   "exp": "Resection of the small intestine decreases drug absorption in short bowel syndrome; the book's management is to increase dosage or change the route. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-021",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "Ionization for the purpose of excretion occurs when the pH of the drug and the pH of the medium are:",
+   "opts": [
+    "Different",
+    "Equal",
+    "Both acidic",
+    "Both basic"
+   ],
+   "ans": 0,
+   "exp": "'IONIZATION (EXCRETION): pH of drug and pH of medium are different' — an un-ionisable match is required for absorption, a difference for excretion. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-022",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "In acidic drug toxicity, urine is made:",
+   "opts": [
+    "Basic",
+    "Acidic",
+    "Neutral",
+    "Isotonic"
+   ],
+   "ans": 0,
+   "exp": "'Acidic drug toxicity → make urine Basic' — alkalinising urine ionizes the acidic drug and traps it for excretion. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-023",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "Which of the following are cited as examples of acidic drugs causing toxicity?",
+   "opts": [
+    "Aspirin, phenobarbital and methotrexate",
+    "Amphetamine and vitamin C",
+    "Digoxin and cyclosporine",
+    "Rifampicin and phenytoin"
+   ],
+   "ans": 0,
+   "exp": "Under 'Acidic drug toxicity' the text lists aspirin, phenobarbital and methotrexate as the acidic drugs treated by alkalinising the urine. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-024",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "The urine alkalinizer used in acidic drug toxicity is:",
+   "opts": [
+    "Bicarbonate",
+    "Ammonium chloride",
+    "Vitamin C",
+    "Cranberry juice"
+   ],
+   "ans": 0,
+   "exp": "'By bicarbonate: urine Alkalinizer' — sodium bicarbonate is used to alkalinise urine in aspirin/phenobarbital/methotrexate toxicity. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-025",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "In basic drug toxicity, the urine is made:",
+   "opts": [
+    "Acidic",
+    "Basic",
+    "Alkaline",
+    "Neutral"
+   ],
+   "ans": 0,
+   "exp": "'Basic drug toxicity → make urine Acidic' — acidifying urine ionizes the basic drug, trapping it in the tubular fluid for excretion. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-026",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "The basic drug listed as an example of drug toxicity treated by acidifying urine is:",
+   "opts": [
+    "Amphetamine",
+    "Aspirin",
+    "Methotrexate",
+    "Phenobarbital"
+   ],
+   "ans": 0,
+   "exp": "Amphetamine is the example under basic drug toxicity; aspirin, phenobarbital and methotrexate are the acidic drugs. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-027",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "The urine acidifier used in basic drug toxicity is:",
+   "opts": [
+    "Ammonium chloride",
+    "Bicarbonate",
+    "Sodium citrate",
+    "Acetazolamide"
+   ],
+   "ans": 0,
+   "exp": "'By Ammonium chloride: urine Acidifier' — ammonium chloride acidifies urine to excrete basic drugs such as amphetamine. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-028",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "Which two agents are listed as other examples of urine acidifiers?",
+   "opts": [
+    "Vitamin C and cranberry juice",
+    "Bicarbonate and citrate",
+    "Ammonium chloride and bicarbonate",
+    "Vitamin D and cranberry juice"
+   ],
+   "ans": 0,
+   "exp": "'Note: Other examples for urine acidifiers are Vit C, Cranberry juice.' (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-029",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "A patient presents with salicylate (acidic drug) overdose. The most appropriate urinary measure is:",
+   "opts": [
+    "Alkalinise the urine with bicarbonate",
+    "Acidify the urine with ammonium chloride",
+    "Give vitamin C to acidify urine",
+    "Give cranberry juice"
+   ],
+   "ans": 0,
+   "exp": "Aspirin is an acidic drug; the text advises making the urine basic with bicarbonate so the ionised drug is trapped and excreted. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-030",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "The rationale for alkalinising urine in acidic drug toxicity is that the drug becomes:",
+   "opts": [
+    "Ionised and is not reabsorbed",
+    "Unionised and reabsorbed",
+    "Lipid soluble and reabsorbed",
+    "Protein bound and filtered"
+   ],
+   "ans": 0,
+   "exp": "In an alkaline urine an acidic drug is ionised; an ionised, polar drug is excreted rather than reabsorbed — the ionization criterion for excretion. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-031",
+   "sec": "Ionization & excretion",
+   "page": 5,
+   "q": "In amphetamine poisoning, acidifying the urine works because in an acidic medium a basic drug is:",
+   "opts": [
+    "Ionised and rapidly excreted",
+    "Unionised and reabsorbed",
+    "Metabolised faster",
+    "Bound to plasma proteins"
+   ],
+   "ans": 0,
+   "exp": "A basic drug placed in acidic urine becomes ionised (pH of drug and medium differ), so it is trapped and excreted — the basis of giving ammonium chloride. (Book p5)"
+  },
+  {
+   "id": "PHARM-C3-032",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "For an acidic drug, the Henderson-Hasselbalch equation as given is:",
+   "opts": [
+    "log [Unionized]/[Ionized] = pKa − pH",
+    "log [Ionized]/[Unionized] = pKa − pH",
+    "log [Ionized]/[Unionized] = pH − pKa",
+    "log [Unionized]/[Ionized] = pH + pKa"
+   ],
+   "ans": 0,
+   "exp": "'Acidic drug → log [Unionized]/[Ionized] = pKa − pH (of medium)'. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-033",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "For a basic drug, the Henderson-Hasselbalch equation as given is:",
+   "opts": [
+    "log [Ionized]/[Unionized] = pKa − pH",
+    "log [Unionized]/[Ionized] = pKa − pH",
+    "log [Ionized]/[Unionized] = pH − pKa",
+    "log [Unionized]/[Ionized] = pH + pKa"
+   ],
+   "ans": 0,
+   "exp": "'Basic drug → log [Ionized]/[Unionized] = pKa − pH' — note the ratio is inverted compared with an acidic drug. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-034",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "In the two equations, which component is measured 'of medium'?",
+   "opts": [
+    "pH",
+    "pKa",
+    "Unionized fraction",
+    "Ionized fraction"
+   ],
+   "ans": 0,
+   "exp": "The equations are written as pKa − pH, with the parenthetical note '(of medium)' attached to pH — pKa belongs to the drug, pH to the medium. (Book p6)"
   },
   {
    "id": "PHARM-C3-035",
-   "sec": "Drugs bypassing the stomach",
-   "page": 7,
-   "q": "Delayed release preparations are designed to:",
+   "sec": "pKa",
+   "page": 6,
+   "q": "pKa is defined in the text as the pH of the medium at which:",
    "opts": [
-    "Release the drug in the small intestine instead of the stomach",
-    "Release the drug immediately in the stomach",
-    "Release the drug only in the colon",
-    "Bypass the liver completely"
+    "50% drug is ionized and 50% is unionized",
+    "100% drug is ionized",
+    "100% drug is unionized",
+    "The drug is maximally lipid soluble"
    ],
    "ans": 0,
-   "exp": "Delayed release means release of the drug in the small intestine instead of in the stomach - the example given is sulfasalazine. (Book p7)"
+   "exp": "'pKa: pH of the medium at which 50% drug is ionized & 50 is unionized'. (Book p6)"
   },
   {
    "id": "PHARM-C3-036",
-   "sec": "Drugs bypassing the stomach",
-   "page": 7,
-   "q": "Sulfasalazine is given as an example of a delayed release drug used for:",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "For an acidic drug with pKa 4 in the stomach (pH 2), log [Unionized]/[Ionized] equals:",
    "opts": [
-    "Ulcerative colitis",
-    "Peptic ulcer",
-    "Rheumatoid arthritis",
-    "Crohn's disease of the ileum"
-   ],
-   "ans": 0,
-   "exp": "Sulfasalazine is the delayed release drug released in the small intestine, used for ulcerative colitis. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-037",
-   "sec": "Drugs bypassing the stomach",
-   "page": 7,
-   "q": "Enteric coated preparations, such as proton pump inhibitors, are used to:",
-   "opts": [
-    "Protect the drug from gastric HCl",
-    "Protect the stomach from the drug's irritant effect only",
-    "Delay gastric emptying",
-    "Increase gastric acid secretion"
-   ],
-   "ans": 0,
-   "exp": "The book's example of enteric coating is a PPI, which is protected from gastric HCl so that it is released in the intestine. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-038",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "Bioavailability (f) is defined as the:",
-   "opts": [
-    "Fraction of drug that reaches the systemic circulation unchanged",
-    "Total amount of drug absorbed from the gut",
-    "Rate at which the drug is absorbed",
-    "Fraction of drug excreted unchanged in urine"
-   ],
-   "ans": 0,
-   "exp": "Bioavailability = the fraction of drug that reaches the systemic circulation unchanged. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-039",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "In the flowchart of factors determining f, the fraction of absorbed drug that is lost on its first passage through the liver is called:",
-   "opts": [
-    "Fraction undergoing first pass metabolism",
-    "Fraction excreted unchanged",
-    "Fraction reaching systemic circulation",
-    "Fraction bound to plasma protein"
-   ],
-   "ans": 0,
-   "exp": "The flowchart shows that of 100% drug given, after intestinal absorption (with excretion of a fraction) the liver leaves a fraction reaching systemic circulation while a fraction undergoes first pass metabolism. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-040",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "Bioavailability (f) is increased when:",
-   "opts": [
-    "The drug bypasses the liver and absorption is increased",
-    "The drug undergoes extensive first pass metabolism",
-    "A fraction of the drug is excreted in the gut",
-    "The drug is heavily protein bound"
-   ],
-   "ans": 0,
-   "exp": "The book states f increases if the drug bypasses the liver and if absorption occurs to a greater extent. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-041",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "Bioavailability from a concentration-time curve is calculated as:",
-   "opts": [
-    "AUC oral / AUC IV x 100",
-    "AUC IV / AUC oral x 100",
-    "Cmax oral / Cmax IV x 100",
-    "Tmax oral / Tmax IV x 100"
-   ],
-   "ans": 0,
-   "exp": "The boxed formula is Bioavailability = AUC oral / AUC IV x 100. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-042",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "Which route has 100% bioavailability?",
-   "opts": [
-    "Intravenous",
-    "Intramuscular",
-    "Subcutaneous",
-    "Oral"
-   ],
-   "ans": 0,
-   "exp": "IV is the only route with 100% bioavailability because the entire dose enters the systemic circulation directly. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-043",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "The area under the concentration-time curve (AUC) of a drug reflects:",
-   "opts": [
-    "The extent of drug absorption",
-    "The rate of drug absorption",
-    "The rate of drug elimination only",
-    "The degree of protein binding"
-   ],
-   "ans": 0,
-   "exp": "The book relates AUC to the extent of drug absorption, while Tmax reflects the rate of absorption. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-044",
-   "sec": "Rate and Extent of Absorption",
-   "page": 7,
-   "q": "In the plasma concentration-time curve comparing routes, the hatched larger area under the curve belongs to the:",
-   "opts": [
-    "IV route (AUC IV)",
-    "Oral route (AUC oral)",
-    "IM route",
-    "Sublingual route"
-   ],
-   "ans": 0,
-   "exp": "The graph shows AUC IV (hatched, larger) versus AUC oral (smaller); oral bioavailability is the ratio of the two. (Book p7)"
-  },
-  {
-   "id": "PHARM-C3-045",
-   "sec": "Bioavailability by route",
-   "page": 8,
-   "q": "As per the table, the bioavailability of the intravenous route is:",
-   "opts": [
-    "1",
-    "0.75-1.0",
-    "0.05-1.0",
+    "2",
+    "−2",
+    "4",
     "0.5"
    ],
    "ans": 0,
-   "exp": "The route-bioavailability table gives IV = 1, IM/SC = 0.75-1.0 and oral = 0.05-1.0. (Book p8)"
+   "exp": "log [U]/[I] = pKa − pH = 4 − 2 = 2. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-037",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "Continuing the same calculation, [Unionized]/[Ionized] equals:",
+   "opts": [
+    "100",
+    "10",
+    "2",
+    "1000"
+   ],
+   "ans": 0,
+   "exp": "log [U]/[I] = 2 → [U]/[I] = 10² = 100. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-038",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "For an acidic drug of pKa 4 in gastric pH 2, the percentage of drug unionized and ionized is:",
+   "opts": [
+    "99% unionized and 1% ionized",
+    "50% unionized and 50% ionized",
+    "1% unionized and 99% ionized",
+    "100% unionized"
+   ],
+   "ans": 0,
+   "exp": "A ratio of [U]/[I] = 100 means 99% of the acidic drug is unionized and only 1% ionized — hence it can be absorbed from the stomach. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-039",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "An acidic drug has pKa 4. At a medium pH of 4, the drug will be:",
+   "opts": [
+    "50% ionized and 50% unionized",
+    "99% ionized",
+    "100% unionized",
+    "Completely ionized"
+   ],
+   "ans": 0,
+   "exp": "When pH equals pKa, log [U]/[I] = 0, so the ratio is 1:1 — this is the defining situation of pKa (50% ionized, 50% unionized). (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-040",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "An acidic drug of pKa 4 is placed in a medium of pH 6. It will be predominantly:",
+   "opts": [
+    "Ionized",
+    "Unionized",
+    "Non polar",
+    "Absorbed"
+   ],
+   "ans": 0,
+   "exp": "log [U]/[I] = 4 − 6 = −2, so [U]/[I] = 1/100 — the acidic drug is largely ionized in the more alkaline medium and is therefore poorly absorbed. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-041",
+   "sec": "Henderson-Hasselbalch equation",
+   "page": 6,
+   "q": "A basic drug of pKa 8 is in the stomach (pH 2). Using log [I]/[U] = pKa − pH, the drug will be:",
+   "opts": [
+    "Almost entirely ionized",
+    "Almost entirely unionized",
+    "50% unionized",
+    "Well absorbed from the stomach"
+   ],
+   "ans": 0,
+   "exp": "log [I]/[U] = 8 − 2 = 6, i.e., [I]/[U] = 10⁶ — a basic drug is overwhelmingly ionized in the acidic stomach and is not absorbed there. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-042",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "In the oral drug flowchart, tablet/capsule is first divided into:",
+   "opts": [
+    "IR (immediate release) and ER (extended release)",
+    "SR (sustained release) and CR (controlled release)",
+    "Delayed release and enteric coated",
+    "Oral and parenteral"
+   ],
+   "ans": 0,
+   "exp": "The flowchart splits tablet/capsule into IR (Immediate release) and ER (Extended Release); ER then further branches. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-043",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "'IR' in the oral drug flowchart stands for:",
+   "opts": [
+    "Immediate release",
+    "Immediate response",
+    "Initial release",
+    "Increased release"
+   ],
+   "ans": 0,
+   "exp": "IR = Immediate release, the conventional formulation requiring frequent dosing. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-044",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "'ER' in the flowchart stands for:",
+   "opts": [
+    "Extended release",
+    "Enhanced release",
+    "Enteric release",
+    "Early release"
+   ],
+   "ans": 0,
+   "exp": "ER = Extended release, which is further divided into SR (sustained release) and CR (controlled release). (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-045",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "Under extended release, the two sub-types shown are:",
+   "opts": [
+    "SR: Sustained Release and CR: Controlled Release",
+    "IR: Immediate Release and SR: Sustained Release",
+    "DR: Delayed Release and ER: Extended Release",
+    "CR: Controlled Release and DR: Delayed Release"
+   ],
+   "ans": 0,
+   "exp": "The flowchart branches ER into 'SR: Sustained Release' and 'CR: Controlled Release'. (Book p6)"
   },
   {
    "id": "PHARM-C3-046",
-   "sec": "Bioavailability by route",
-   "page": 8,
-   "q": "The bioavailability of intramuscular/subcutaneous administration is:",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "Which formulation is described as 'AKA zero order CR'?",
    "opts": [
-    "0.75-1.0",
-    "0.05-1.0",
-    "1.0 exactly",
-    "0.25-0.5"
+    "Controlled release",
+    "Sustained release",
+    "Immediate release",
+    "Enteric coated"
    ],
    "ans": 0,
-   "exp": "IM/SC bioavailability is 0.75-1.0, higher than oral (0.05-1.0) because these routes avoid first pass metabolism. (Book p8)"
+   "exp": "'CR: Controlled Release — AKA zero order CR': the controlled release preparation delivers drug at a constant (zero order) rate. (Book p6)"
   },
   {
    "id": "PHARM-C3-047",
-   "sec": "Bioavailability by route",
-   "page": 8,
-   "q": "The oral route shows a bioavailability of:",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The plasma concentration-time curve of an IR preparation with frequent dosing shows:",
    "opts": [
-    "0.05-1.0",
-    "0.75-1.0",
-    "1.0",
-    "0.5-0.75"
+    "Repeated sharp peaks",
+    "A single flat plateau",
+    "A steadily rising line",
+    "A shorter peak with prolonged duration"
    ],
    "ans": 0,
-   "exp": "Oral bioavailability ranges widely, 0.05-1.0, because of variable absorption and first pass metabolism. (Book p8)"
+   "exp": "The IR graph shows two successive sharp peaks corresponding to two doses, in contrast to the flat plateau of CR. (Book p6)"
   },
   {
    "id": "PHARM-C3-048",
-   "sec": "Bioavailability by route",
-   "page": 8,
-   "q": "Which statement about bioavailability (f) is correct?",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The mechanism of an IR preparation and its consequence, as given in the flowchart, is:",
    "opts": [
-    "f does not indicate the rate of drug absorption",
-    "f is the same as the rate of absorption",
-    "f equals Tmax of the drug",
-    "f is maximal for the oral route"
+    "Frequent dosing leading to decreased compliance",
+    "Polymer coating leading to better compliance",
+    "Zero order release leading to a plateau",
+    "Gastric protection leading to better absorption"
    ],
    "ans": 0,
-   "exp": "The book notes that f does not indicate the rate of drug absorption - f is a measure of extent only. (Book p8)"
+   "exp": "Under the IR curve the text reads 'mechanism: Frequent dosing: ↓Compliance'. (Book p6)"
   },
   {
    "id": "PHARM-C3-049",
-   "sec": "Rate of drug absorption",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The example given for an IR preparation dosed TID is:",
+   "opts": [
+    "Indomethacin",
+    "Zolpidem",
+    "Sulfasalazine",
+    "Omeprazole"
+   ],
+   "ans": 0,
+   "exp": "'Example: Indomethacin TID' is written under the IR curve; indomethacin IR must be taken three times a day. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-050",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The SR plasma concentration curve, compared with IR, is described as showing:",
+   "opts": [
+    "Shorter peak and increased duration of action",
+    "Taller peak and shorter duration",
+    "Two separate peaks",
+    "A zero order plateau"
+   ],
+   "ans": 0,
+   "exp": "The SR graph is annotated 'Shorter peak' and '↑Duration of action' — the peak is blunted but drug action lasts longer. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-051",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "Which advantage of SR preparations is stated in the text?",
+   "opts": [
+    "Better compliance",
+    "100% bioavailability",
+    "Rapid onset",
+    "Zero order release"
+   ],
+   "ans": 0,
+   "exp": "Under SR the text lists 'Better compliance' and 'Polymer coating present', with SR indomethacin as the example. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-052",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The SR formulation's release is achieved by:",
+   "opts": [
+    "A polymer coating",
+    "Frequent dosing",
+    "Gastric acid protection",
+    "Efflux pump inhibition"
+   ],
+   "ans": 0,
+   "exp": "'Polymer coating present' — SR indomethacin uses a polymer coating to slow drug release. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-053",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The example given for a sustained release preparation is:",
+   "opts": [
+    "SR indomethacin",
+    "CR zolpidem",
+    "Enteric coated PPI",
+    "Sulfasalazine"
+   ],
+   "ans": 0,
+   "exp": "'SR Indomethacin' is listed under the SR column, just as 'CR Zolpidem' is listed under CR. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-054",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The CR preparation achieves its profile by:",
+   "opts": [
+    "Polymer coating of pores",
+    "Frequent dosing",
+    "Enteric coating",
+    "Increased surface area"
+   ],
+   "ans": 0,
+   "exp": "Under the CR curve the text reads 'Polymer coating of pores' — the drug diffuses out through polymer-coated pores giving zero order release. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-055",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "The example given for a controlled release preparation is:",
+   "opts": [
+    "CR zolpidem",
+    "SR indomethacin",
+    "IR indomethacin",
+    "Enteric coated PPI"
+   ],
+   "ans": 0,
+   "exp": "'CR Zolpidem' is the example written beside the CR plasma concentration graph. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-056",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "Which formulation's plasma concentration-time curve shows a flat plateau with no peaks?",
+   "opts": [
+    "CR",
+    "IR",
+    "SR",
+    "Tablet given TID"
+   ],
+   "ans": 0,
+   "exp": "The CR graph rises to a plateau and stays flat — zero order release maintains a steady plasma concentration. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-057",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "A patient on indomethacin TID three times daily keeps forgetting doses. Which formulation change would best improve compliance?",
+   "opts": [
+    "Sustained release indomethacin",
+    "Subcutaneous insulin",
+    "Enteric coated preparation",
+    "A larger immediate release dose"
+   ],
+   "ans": 0,
+   "exp": "The book contrasts IR indomethacin TID (frequent dosing, ↓compliance) with SR indomethacin, which has a polymer coating, better compliance, shorter peak and longer duration. (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-058",
+   "sec": "Delayed absorption of oral drugs",
+   "page": 6,
+   "q": "Which sequence correctly orders the oral formulation flowchart?",
+   "opts": [
+    "Tablet/Capsule → IR & ER; ER → SR & CR",
+    "Tablet/Capsule → SR & CR; SR → IR & ER",
+    "Tablet/Capsule → ER & DR; DR → IR & CR",
+    "Tablet/Capsule → IR & SR; IR → ER & CR"
+   ],
+   "ans": 0,
+   "exp": "The flowchart divides tablet/capsule into IR and ER, and divides ER further into SR (sustained release) and CR (controlled release). (Book p6)"
+  },
+  {
+   "id": "PHARM-C3-059",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "The two categories of drugs shown bypassing the stomach are:",
+   "opts": [
+    "Delayed release and enteric coated",
+    "Sustained release and controlled release",
+    "Immediate release and extended release",
+    "Oral and sublingual"
+   ],
+   "ans": 0,
+   "exp": "The page branches 'a. Drugs bypassing the stomach' into 'Delayed release' and 'Enteric coated'. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-060",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "Delayed release preparations are designed to release the drug in the:",
+   "opts": [
+    "Small intestine instead of the stomach",
+    "Stomach instead of the small intestine",
+    "Mouth",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "'Delayed release: Release of drug in SI instead in stomach.' (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-061",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "The example given for a delayed release preparation is:",
+   "opts": [
+    "Sulfasalazine",
+    "Zolpidem",
+    "Indomethacin",
+    "Omeprazole"
+   ],
+   "ans": 0,
+   "exp": "'Eg: Sulfasalazine → For ulcerative colitis' — sulfasalazine is formulated for release in the small intestine/colon. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-062",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "Sulfasalazine is given as a delayed release preparation for the treatment of:",
+   "opts": [
+    "Ulcerative colitis",
+    "Rheumatoid arthritis",
+    "Peptic ulcer",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "The text specifies sulfasalazine for ulcerative colitis, delivered beyond the stomach. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-063",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "The example given for an enteric coated preparation is:",
+   "opts": [
+    "PPI",
+    "Sulfasalazine",
+    "Zolpidem",
+    "Indomethacin"
+   ],
+   "ans": 0,
+   "exp": "'Enteric coated: Eg: PPI → Protect from gastric HCl' — the proton pump inhibitor is coated to survive gastric acid. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-064",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "The purpose of enteric coating a PPI is to:",
+   "opts": [
+    "Protect the drug from gastric HCl",
+    "Aid absorption in the stomach",
+    "Delay gastric emptying",
+    "Protect the stomach from the drug"
+   ],
+   "ans": 0,
+   "exp": "The diary states 'Protect from gastric HCl' — the coating shields the acid-labile drug as it passes through the stomach. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-065",
+   "sec": "Drugs bypassing the stomach",
+   "page": 7,
+   "q": "Which pair correctly matches the preparation with its purpose?",
+   "opts": [
+    "Delayed release → release drug in the small intestine",
+    "Enteric coated → release drug in the stomach",
+    "Enteric coated → slow release over 24 hours",
+    "Delayed release → protect drug from gastric HCl"
+   ],
+   "ans": 0,
+   "exp": "Delayed release shifts release to the small intestine (e.g., sulfasalazine in ulcerative colitis); enteric coating's purpose is to protect the drug from gastric HCl (e.g., PPI). (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-066",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "Bioavailability (F) is defined as the fraction of drug that:",
+   "opts": [
+    "Reaches the systemic circulation unchanged",
+    "Is absorbed from the small intestine",
+    "Escape first pass metabolism in the gut",
+    "Binds to plasma proteins"
+   ],
+   "ans": 0,
+   "exp": "'BIOAVAILABILITY (F): Fraction of drug reaches systemic circulation unchanged.' (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-067",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "According to the flowchart for factors determining F, the drug reaching the liver after 100% intestinal absorption may undergo:",
+   "opts": [
+    "First pass metabolism",
+    "Redistribution",
+    "Renal tubular secretion",
+    "Zero order release"
+   ],
+   "ans": 0,
+   "exp": "The flowchart traces: 100% of drug → intestinal absorption → liver → fraction that reaches systemic circulation, while a fraction undergoes first pass metabolism (and a fraction is excreted). (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-068",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "Which two situations increase bioavailability (F), as listed in the text?",
+   "opts": [
+    "The drug bypasses the liver, and absorption increases",
+    "The drug undergoes first pass metabolism, and absorption decreases",
+    "The drug is ionised, and urine is acidified",
+    "The drug is water soluble, and Pgp efflux increases"
+   ],
+   "ans": 0,
+   "exp": "'↑F if → Drug bypasses liver; ↑Absorption occurs' — both raise the fraction reaching the systemic circulation. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-069",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "In the flowchart of factors determining F, the fraction of drug lost on its way to the systemic circulation includes:",
+   "opts": [
+    "Excretion of a fraction and first pass metabolism of a fraction",
+    "Only renal excretion",
+    "Only biliary excretion",
+    "Redistribution into fat"
+   ],
+   "ans": 0,
+   "exp": "The flowchart shows that after absorption a fraction is excreted and a fraction undergoes hepatic first pass metabolism, so only the remainder reaches the systemic circulation. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-070",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "The formula for bioavailability given in the box is:",
+   "opts": [
+    "AUCoral / AUCiv × 100",
+    "AUCiv / AUCoral × 100",
+    "Cmax / Tmax × 100",
+    "Tmaxoral / Tmaxiv × 100"
+   ],
+   "ans": 0,
+   "exp": "The box reads 'Bioavailability: AUCoral / AUCiv × 100'. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-071",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "In the concentration-time curve, the area under the curve (AUC) represents the:",
+   "opts": [
+    "Extent of drug absorption",
+    "Rate of drug absorption",
+    "Peak plasma concentration",
+    "Time to peak concentration"
+   ],
+   "ans": 0,
+   "exp": "The text links the AUC to the 'Extent of Drug Absorption' — extent is measured by AUC, whereas rate is measured by Tmax. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-072",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "The only route of administration with 100% bioavailability is:",
+   "opts": [
+    "IV",
+    "Oral",
+    "IM",
+    "SC"
+   ],
+   "ans": 0,
+   "exp": "'Only route with 100% B.V: I/V' — intravenous administration bypasses absorption and first pass metabolism. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-073",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "On the concentration-time curve, which route gives the immediately maximal plasma concentration at time zero?",
+   "opts": [
+    "IV",
+    "Oral",
+    "IM",
+    "SC"
+   ],
+   "ans": 0,
+   "exp": "The curve is labelled 'IV max' at the highest point at zero time, while the oral curve rises later and shows a smaller AUC. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-074",
+   "sec": "Bioavailability",
+   "page": 7,
+   "q": "The oral curve in the concentration-time graph lies below the IV curve because of:",
+   "opts": [
+    "First pass metabolism and incomplete absorption",
+    "Zero order release",
+    "Enteric coating",
+    "Pgp inhibition"
+   ],
+   "ans": 0,
+   "exp": "The smaller (oral) AUC compared with IV reflects the fractions lost to excretion and first pass metabolism before the drug reaches the systemic circulation, giving F < 1. (Book p7)"
+  },
+  {
+   "id": "PHARM-C3-075",
+   "sec": "Route & bioavailability",
+   "page": 8,
+   "q": "As per the table, the bioavailability of the IV route is:",
+   "opts": [
+    "1",
+    "0.75–1.0",
+    "0.05–1.0",
+    "0.3"
+   ],
+   "ans": 0,
+   "exp": "The table lists IV → bioavailability '1', i.e., 100%. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-076",
+   "sec": "Route & bioavailability",
+   "page": 8,
+   "q": "As per the table, the bioavailability of the IM/SC route is:",
+   "opts": [
+    "0.75–1.0",
+    "1",
+    "0.05–1.0",
+    "0.5"
+   ],
+   "ans": 0,
+   "exp": "The table lists im/sc → 0.75–1.0, slightly less than the intravenous route but still high. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-077",
+   "sec": "Route & bioavailability",
+   "page": 8,
+   "q": "As per the table, the bioavailability of the oral route is:",
+   "opts": [
+    "0.05–1.0",
+    "0.75–1.0",
+    "1",
+    "0.05–0.75"
+   ],
+   "ans": 0,
+   "exp": "The table lists oral → 0.05–1.0, the widest range of all routes because first pass metabolism differs from drug to drug. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-078",
+   "sec": "Route & bioavailability",
+   "page": 8,
+   "q": "Which route shows the widest range of bioavailability in the table?",
+   "opts": [
+    "Oral",
+    "IV",
+    "IM",
+    "SC"
+   ],
+   "ans": 0,
+   "exp": "Oral spans 0.05–1.0, i.e., from 5% to complete bioavailability, whereas IV is fixed at 1 and im/sc at 0.75–1.0. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-079",
+   "sec": "Route & bioavailability",
+   "page": 8,
+   "q": "The note following the route table states that bioavailability does NOT indicate:",
+   "opts": [
+    "Rate of drug absorption",
+    "Extent of drug absorption",
+    "Fraction reaching systemic circulation",
+    "Route of administration"
+   ],
+   "ans": 0,
+   "exp": "'Note: F does not indicate rate of drug absorption' — F measures the extent (AUC), not the speed, of absorption. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-080",
+   "sec": "Rate of absorption",
    "page": 8,
    "q": "Cmax is defined as the:",
    "opts": [
     "Maximum plasma concentration achieved by a drug",
-    "Time at which peak concentration occurs",
-    "Area under the concentration-time curve",
-    "Minimum effective concentration"
+    "Time to reach the maximum concentration",
+    "Area under the curve",
+    "Rate constant of absorption"
    ],
    "ans": 0,
-   "exp": "Cmax is the maximum plasma concentration achieved by the drug, read off the peak of the concentration-time curve. (Book p8)"
+   "exp": "'Cmax: maximum plasma conc achieved by a drug' — it is the peak of the plasma concentration-time curve. (Book p8)"
   },
   {
-   "id": "PHARM-C3-050",
-   "sec": "Rate of drug absorption",
+   "id": "PHARM-C3-081",
+   "sec": "Rate of absorption",
    "page": 8,
    "q": "Tmax is a marker of the:",
    "opts": [
     "Rate of drug absorption",
     "Extent of drug absorption",
-    "Rate of drug elimination",
+    "Bioavailability of the drug",
+    "Elimination half-life"
+   ],
+   "ans": 0,
+   "exp": "'Tmax: marker of rate of drug absorption' — the sooner the peak occurs, the faster the absorption. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-082",
+   "sec": "Rate of absorption",
+   "page": 8,
+   "q": "Two formulations of the same drug show Tmax of 1 hour and 4 hours respectively. This indicates a difference in:",
+   "opts": [
+    "Rate of absorption",
+    "Extent of absorption",
+    "Bioavailability",
     "Volume of distribution"
    ],
    "ans": 0,
-   "exp": "Tmax - the time to reach peak plasma concentration - is the marker of the rate of drug absorption; AUC indicates extent. (Book p8)"
+   "exp": "Tmax is the marker of the rate of drug absorption; extent would instead be compared using AUC. (Book p8)"
   },
   {
-   "id": "PHARM-C3-051",
-   "sec": "Bioequivalence",
+   "id": "PHARM-C3-083",
+   "sec": "Rate of absorption",
    "page": 8,
-   "q": "Which parameter pair tells you the RATE and the EXTENT of absorption respectively?",
+   "q": "Which parameter reflects the extent, and which reflects the rate, of drug absorption?",
    "opts": [
-    "Tmax and AUC",
-    "AUC and Tmax",
-    "Cmax and Tmax",
-    "AUC and Cmax"
+    "AUC = extent; Tmax = rate",
+    "Tmax = extent; AUC = rate",
+    "Cmax = extent; AUC = rate",
+    "AUC = rate; Cmax = extent"
    ],
    "ans": 0,
-   "exp": "Tmax is the marker of rate of absorption and AUC indicates the extent of absorption - the basis of bioequivalence assessment. (Book p8)"
+   "exp": "The AUC measures the extent of absorption (and hence bioavailability), while Tmax is the marker of the rate of absorption. (Book p8)"
   },
   {
-   "id": "PHARM-C3-052",
+   "id": "PHARM-C3-084",
+   "sec": "Rate of absorption",
+   "page": 8,
+   "q": "On the rate-of-absorption graph, the peak of the plasma concentration (PC) curve corresponds to:",
+   "opts": [
+    "Cmax at Tmax",
+    "Cmax at time zero",
+    "AUC at Tmax",
+    "Tmax at zero concentration"
+   ],
+   "ans": 0,
+   "exp": "The graph marks Cmax at the top of the curve and Tmax on the time axis directly below it. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-085",
    "sec": "Bioequivalence",
    "page": 8,
-   "q": "Two pharmaceutically equivalent compounds are said to be bioequivalent when they have similar:",
+   "q": "Bioequivalence is defined as two pharmaceutically equivalent compounds with similar:",
    "opts": [
     "Rate (Tmax) and extent (AUC) of absorption",
-    "Extent of absorption only",
-    "Rate of absorption only",
-    "Plasma protein binding"
+    "Colour and shape",
+    "Protein binding and half-life",
+    "Cmax and volume of distribution"
    ],
    "ans": 0,
-   "exp": "Bioequivalence means two pharmaceutically equivalent compounds with similar rate (Tmax) and extent (AUC) of absorption. (Book p8)"
+   "exp": "'Bioequivalence: Two pharmaceutically equivalent compound with similar rate (Tmax) and extent (AUC) of absorption.' (Book p8)"
   },
   {
-   "id": "PHARM-C3-053",
+   "id": "PHARM-C3-086",
    "sec": "Bioequivalence",
    "page": 8,
-   "q": "A branded drug is one which is:",
+   "q": "A branded drug is defined in the text as one which is:",
    "opts": [
     "Invented and patented for 20 years",
     "A legal copy made after patent expiry",
-    "Always cheaper than the generic",
-    "Never subjected to bioavailability studies"
+    "Cheaper than the generic",
+    "Approved by ANDA"
    ],
    "ans": 0,
-   "exp": "The branded drug is the invented, patented molecule, protected for 20 years. (Book p8)"
+   "exp": "'Branded drug: One which is invented, patented for 20 years' — during this period no generic copy can be marketed. (Book p8)"
   },
   {
-   "id": "PHARM-C3-054",
+   "id": "PHARM-C3-087",
    "sec": "Bioequivalence",
    "page": 8,
-   "q": "A generic drug is:",
+   "q": "A generic drug is defined as:",
    "opts": [
-    "A legal copy of a new drug, made after the patent expires",
+    "A legal copy of a new drug made after the patent expires",
     "A drug invented and patented for 20 years",
-    "A drug available only as an injectable",
-    "A drug with a different active moiety"
+    "A drug with a different active moiety",
+    "A controlled release formulation"
    ],
    "ans": 0,
-   "exp": "The generic drug is a legal copy of a new drug prepared after the patent expires, and its benefit is that it is cheaper. (Book p8)"
+   "exp": "'Generic drug: Legal copy of a new drug (Done after patent expires).' (Book p8)"
   },
   {
-   "id": "PHARM-C3-055",
+   "id": "PHARM-C3-088",
    "sec": "Bioequivalence",
    "page": 8,
-   "q": "Generic drugs are approved through:",
+   "q": "The stated benefit of a generic drug is that it is:",
+   "opts": [
+    "Cheaper",
+    "More bioavailable",
+    "Longer acting",
+    "Free of side effects"
+   ],
+   "ans": 0,
+   "exp": "'Benefit of a generic drug: Cheaper' — the generic contains the same drug but costs less. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-089",
+   "sec": "Bioequivalence",
+   "page": 8,
+   "q": "For approval of a generic drug, the required application is:",
    "opts": [
     "ANDA (Abbreviated New Drug Application)",
     "NDA (New Drug Application)",
     "IND (Investigational New Drug)",
-    "Orphan drug designation"
+    "BLA (Biologics License Application)"
    ],
    "ans": 0,
-   "exp": "The book states that for generic drug approval an ANDA - Abbreviated New Drug Application - is filed. (Book p8)"
+   "exp": "'For generic drug approval: ANDA (Abbreviated New Drug Application)' — the abbreviated filing relies on bioequivalence rather than full clinical data. (Book p8)"
   },
   {
-   "id": "PHARM-C3-056",
+   "id": "PHARM-C3-090",
    "sec": "Bioequivalence",
    "page": 8,
-   "q": "For a generic drug to be approved, it must be bioequivalent to the branded drug within:",
+   "q": "The criteria for approving a generic drug is that it is bioequivalent to the branded drug within:",
    "opts": [
-    "+/- 20%",
-    "+/- 5%",
-    "+/- 50%",
-    "+/- 2%"
+    "±20%",
+    "±5%",
+    "±10%",
+    "±50%"
    ],
    "ans": 0,
-   "exp": "The criterion for approval is that the generic drug is bioequivalent to the branded drug to within +/- 20%. (Book p8)"
+   "exp": "'Generic drug = Bioequivalent to Branded drug ±20%' — the generic must fall within ±20% of the branded product. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-091",
+   "sec": "Bioequivalence",
+   "page": 8,
+   "q": "A generic formulation of a drug has an AUC 20% lower than the branded product, with a similar Tmax. It will be:",
+   "opts": [
+    "Approved, since it is within ±20%",
+    "Rejected, since any difference is unacceptable",
+    "Approved only if Tmax is identical",
+    "Rejected, because AUC must be equal"
+   ],
+   "ans": 0,
+   "exp": "The approval criterion is bioequivalence to the branded drug within ±20%; a 20% difference in AUC with similar rate falls within this limit. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-092",
+   "sec": "Bioequivalence",
+   "page": 8,
+   "q": "Two generic products of the same drug are compared. Bioequivalence between them is judged by similarity of:",
+   "opts": [
+    "Tmax and AUC",
+    "Cmax and volume of distribution",
+    "Half-life and clearance",
+    "Protein binding and pKa"
+   ],
+   "ans": 0,
+   "exp": "Bioequivalence means similar rate (Tmax) and extent (AUC) of absorption; the approval limit against the branded drug is ±20%. (Book p8)"
+  },
+  {
+   "id": "PHARM-C3-093",
+   "sec": "Bioequivalence",
+   "page": 8,
+   "q": "Which of the following is TRUE regarding F and Tmax?",
+   "opts": [
+    "F reflects the extent of absorption while Tmax reflects its rate",
+    "Both F and Tmax reflect the rate of absorption",
+    "Both F and Tmax reflect the extent of absorption",
+    "F reflects the rate of absorption while Tmax reflects its extent"
+   ],
+   "ans": 0,
+   "exp": "F is derived from AUC and denotes the extent of absorption (and does not indicate rate), whereas Tmax is the marker of the rate of drug absorption. (Book p8)"
   }
  ],
  "units": [
@@ -790,7 +1308,7 @@
    "id": "PHARM-U3-1",
    "ch": 3,
    "n": 1,
-   "title": "The Criteria Table: LUNA vs WIPE",
+   "title": "The Criteria Table: LUNA for Absorption, WIPE for Excretion",
    "sec": "Ionization of drugs · p5",
    "qs": [
     "PHARM-C3-001",
@@ -799,138 +1317,195 @@
     "PHARM-C3-004",
     "PHARM-C3-005",
     "PHARM-C3-006",
-    "PHARM-C3-007"
+    "PHARM-C3-007",
+    "PHARM-C3-008",
+    "PHARM-C3-009",
+    "PHARM-C3-010"
    ],
-   "guide": "A single table decides whether a drug is absorbed or excreted. Absorption demands lipid solubility, the unionised form, a pH of medium equal to that of the drug and non-polar character - the mnemonic LUNA; excretion demands water solubility, the ionised form, unequal pH and polar character - WIPE."
+   "guide": "One table decides everything: to be absorbed a drug must be lipid soluble, unionised, non-polar with the medium's pH equal to the drug's, and to be excreted it must be water soluble, ionised, polar with the pH of drug and medium unequal. The mnemonics are LUNA for absorption and WIPE for excretion."
   },
   {
    "id": "PHARM-U3-2",
    "ch": 3,
    "n": 2,
-   "title": "Unionization: Stomach vs Small Intestine",
+   "title": "Acidic in Acid, Basic in Base — and the Duodenum Rule",
    "sec": "Unionization · p5",
    "qs": [
-    "PHARM-C3-008",
-    "PHARM-C3-009",
-    "PHARM-C3-010",
     "PHARM-C3-011",
     "PHARM-C3-012",
-    "PHARM-C3-013"
+    "PHARM-C3-013",
+    "PHARM-C3-014",
+    "PHARM-C3-015",
+    "PHARM-C3-016",
+    "PHARM-C3-017"
    ],
-   "guide": "An acidic drug is unionised in the acidic stomach and a basic drug in the basic small intestine, so aspirin is unionised in gastric acid. Despite this, maximum absorption of any unionised drug occurs in the duodenum because of its enormous surface area - and when the small intestine is resected, as in short bowel syndrome, absorption falls and the dose must be raised or the route changed."
+   "guide": "An acidic drug (aspirin) is unionised in the acidic stomach and a basic drug in the basic small intestine. Yet the unionised drug is maximally absorbed in the small intestine — duodenum — simply because of its enormous surface area, which beats the stomach's favourable pH."
   },
   {
    "id": "PHARM-U3-3",
    "ch": 3,
    "n": 3,
-   "title": "Ionization for Excretion: Urine pH Manipulation",
-   "sec": "Ionization (excretion) · p5",
+   "title": "Short Bowel Syndrome: Lose the Gut, Lose the Drug",
+   "sec": "Short bowel syndrome · p5",
    "qs": [
-    "PHARM-C3-014",
-    "PHARM-C3-015",
-    "PHARM-C3-016",
-    "PHARM-C3-017",
     "PHARM-C3-018",
-    "PHARM-C3-019"
+    "PHARM-C3-019",
+    "PHARM-C3-020"
    ],
-   "guide": "When the pH of the drug differs from that of the medium the drug is ionised and excreted. Acidic drug toxicity - aspirin, phenobarbital, methotrexate - is treated by alkalinizing urine with bicarbonate, while basic drug toxicity - amphetamine - is treated by acidifying urine with ammonium chloride; vitamin C and cranberry juice are other urine acidifiers."
+   "guide": "Resection of the small intestine reduces drug absorption, so an oral drug may fail. Management is to increase the dose or change the route — a direct clinical application of surface-area-driven absorption."
   },
   {
    "id": "PHARM-U3-4",
    "ch": 3,
    "n": 4,
-   "title": "Henderson-Hasselbalch: Quantifying Ionization",
-   "sec": "Henderson - Hasselbach Equation · p6",
+   "title": "Ion Trapping: Alkalinise for Acid, Acidify for Base",
+   "sec": "Ionization (excretion) · p5",
    "qs": [
-    "PHARM-C3-020",
     "PHARM-C3-021",
     "PHARM-C3-022",
     "PHARM-C3-023",
-    "PHARM-C3-024"
-   ],
-   "guide": "For an acidic drug log [unionized]/[ionized] = pKa - pH, and for a basic drug log [ionized]/[unionized] = pKa - pH. An acidic drug of pKa 4 in gastric pH 2 gives a ratio of 100, i.e. 99% unionised and 1% ionised. pKa itself is the pH at which half the drug is ionised and half unionised."
-  },
-  {
-   "id": "PHARM-U3-5",
-   "ch": 3,
-   "n": 5,
-   "title": "IR, SR and CR Oral Formulations",
-   "sec": "Absorption of oral drugs · p6",
-   "qs": [
+    "PHARM-C3-024",
     "PHARM-C3-025",
     "PHARM-C3-026",
     "PHARM-C3-027",
     "PHARM-C3-028",
     "PHARM-C3-029",
     "PHARM-C3-030",
-    "PHARM-C3-031",
+    "PHARM-C3-031"
+   ],
+   "guide": "Excretion needs the drug ionised, hence the pH of drug and medium must differ. Acidic drug toxicity (aspirin, phenobarbital, methotrexate) is treated by alkalinising urine with bicarbonate; basic drug toxicity (amphetamine) by acidifying urine with ammonium chloride — vitamin C and cranberry juice are other urine acidifiers. Ionised drug is trapped and excreted."
+  },
+  {
+   "id": "PHARM-U3-5",
+   "ch": 3,
+   "n": 5,
+   "title": "Henderson-Hasselbalch: Quantifying Ionization",
+   "sec": "Henderson - Hasselbach Equation · p6",
+   "qs": [
     "PHARM-C3-032",
     "PHARM-C3-033",
-    "PHARM-C3-034"
+    "PHARM-C3-034",
+    "PHARM-C3-035",
+    "PHARM-C3-036",
+    "PHARM-C3-037",
+    "PHARM-C3-038",
+    "PHARM-C3-039",
+    "PHARM-C3-040",
+    "PHARM-C3-041"
    ],
-   "guide": "Tablets and capsules come as immediate release, which needs frequent dosing (indomethacin TID), or extended release, which splits into sustained release and controlled release. SR gives a shorter peak with longer duration of action, better compliance and a polymer coat (SR indomethacin); CR is zero order release from polymer-coated pores (CR zolpidem), drawn as a flat plateau on the concentration-time curve."
+   "guide": "For an acidic drug log [U]/[I] = pKa − pH; for a basic drug the ratio is inverted as log [I]/[U] = pKa − pH. pKa is the pH at which half the drug is ionised. An acidic drug of pKa 4 in gastric pH 2 gives a ratio of 100 — 99% unionised and 1% ionised, which is why absorption can occur."
   },
   {
    "id": "PHARM-U3-6",
    "ch": 3,
    "n": 6,
-   "title": "Drugs Bypassing the Stomach",
-   "sec": "Drugs bypassing the stomach · p7",
+   "title": "IR, SR and CR: Three Shapes of a Release Curve",
+   "sec": "Absorption of oral drugs · p6",
    "qs": [
-    "PHARM-C3-035",
-    "PHARM-C3-036",
-    "PHARM-C3-037"
-   ],
-   "guide": "Delayed release formulations liberate the drug in the small intestine rather than the stomach - sulfasalazine for ulcerative colitis - while enteric coating is used to protect acid-labile drugs such as proton pump inhibitors from gastric HCl."
-  },
-  {
-   "id": "PHARM-U3-7",
-   "ch": 3,
-   "n": 7,
-   "title": "Bioavailability: Definition and Formula",
-   "sec": "Rate and Extent of Absorption · p7",
-   "qs": [
-    "PHARM-C3-038",
-    "PHARM-C3-039",
-    "PHARM-C3-040",
-    "PHARM-C3-041",
     "PHARM-C3-042",
     "PHARM-C3-043",
-    "PHARM-C3-044"
-   ],
-   "guide": "Bioavailability (f) is the fraction of drug reaching the systemic circulation unchanged. Of 100% drug absorbed, a fraction is excreted and a fraction is lost to first pass metabolism in the liver; f rises if the drug bypasses the liver or absorption increases. It is calculated as AUC oral/AUC IV x 100, reflects the extent of absorption, and is 100% only for the intravenous route."
-  },
-  {
-   "id": "PHARM-U3-8",
-   "ch": 3,
-   "n": 8,
-   "title": "f by Route, Cmax and Tmax",
-   "sec": "Bioavailability by route · p8",
-   "qs": [
+    "PHARM-C3-044",
     "PHARM-C3-045",
     "PHARM-C3-046",
     "PHARM-C3-047",
     "PHARM-C3-048",
     "PHARM-C3-049",
     "PHARM-C3-050",
-    "PHARM-C3-051"
+    "PHARM-C3-051",
+    "PHARM-C3-052",
+    "PHARM-C3-053",
+    "PHARM-C3-054",
+    "PHARM-C3-055",
+    "PHARM-C3-056",
+    "PHARM-C3-057",
+    "PHARM-C3-058"
    ],
-   "guide": "The route table gives IV bioavailability 1, IM/SC 0.75-1.0 and oral 0.05-1.0. Crucially f tells only the extent, not the rate of absorption; the rate is judged from Tmax and the height of the curve by Cmax, the maximum plasma concentration achieved."
+   "guide": "A tablet is either immediate release (IR) or extended release (ER), and ER splits into sustained release (SR) and controlled release (CR), the latter also called zero order CR. IR gives repeated sharp peaks with frequent dosing (indomethacin TID) and poor compliance; SR uses a polymer coating for a shorter peak and longer duration; CR coats the pores to give a flat plateau."
+  },
+  {
+   "id": "PHARM-U3-7",
+   "ch": 3,
+   "n": 7,
+   "title": "Bypassing the Stomach: Delayed Release & Enteric Coating",
+   "sec": "a. Drugs bypassing the stomach · p7",
+   "qs": [
+    "PHARM-C3-059",
+    "PHARM-C3-060",
+    "PHARM-C3-061",
+    "PHARM-C3-062",
+    "PHARM-C3-063",
+    "PHARM-C3-064",
+    "PHARM-C3-065"
+   ],
+   "guide": "Two tricks avoid the stomach: delayed release, which delivers the drug to the small intestine (sulfasalazine for ulcerative colitis), and enteric coating, which shields an acid-labile drug from gastric HCl (PPIs). One moves the release site, the other protects the drug."
+  },
+  {
+   "id": "PHARM-U3-8",
+   "ch": 3,
+   "n": 8,
+   "title": "Bioavailability: Definition, Factors and the AUC Formula",
+   "sec": "BIOAVAILABILITY (F) · p7",
+   "qs": [
+    "PHARM-C3-066",
+    "PHARM-C3-067",
+    "PHARM-C3-068",
+    "PHARM-C3-069",
+    "PHARM-C3-070",
+    "PHARM-C3-071",
+    "PHARM-C3-072",
+    "PHARM-C3-073",
+    "PHARM-C3-074"
+   ],
+   "guide": "Bioavailability is the fraction of drug reaching the systemic circulation unchanged. From 100% intestinal absorption, a fraction is excreted and a fraction undergoes hepatic first pass metabolism, leaving only the rest in circulation. F = AUCoral/AUCiv × 100; AUC is the extent of absorption, and IV is the only route with 100% bioavailability."
   },
   {
    "id": "PHARM-U3-9",
    "ch": 3,
    "n": 9,
-   "title": "Branded, Generic and Bioequivalence",
-   "sec": "Bioequivalence · p8",
+   "title": "Route by Route: Bioavailability Table",
+   "sec": "Route of administration · p8",
    "qs": [
-    "PHARM-C3-052",
-    "PHARM-C3-053",
-    "PHARM-C3-054",
-    "PHARM-C3-055",
-    "PHARM-C3-056"
+    "PHARM-C3-075",
+    "PHARM-C3-076",
+    "PHARM-C3-077",
+    "PHARM-C3-078",
+    "PHARM-C3-079"
    ],
-   "guide": "Bioequivalence means two pharmaceutically equivalent products share a similar rate (Tmax) and extent (AUC) of absorption. A branded drug is the invented molecule patented for 20 years; a generic is a legal, cheaper copy made after patent expiry and approved through an ANDA, provided it is bioequivalent to the branded drug within +/- 20%."
+   "guide": "IV bioavailability is 1, im/sc 0.75–1.0, and oral the widest range of 0.05–1.0 because first pass metabolism varies by drug. Remember the note: F tells you the extent, never the rate, of absorption."
+  },
+  {
+   "id": "PHARM-U3-10",
+   "ch": 3,
+   "n": 10,
+   "title": "Cmax & Tmax: Rate Versus Extent",
+   "sec": "RATE OF DRUG ABSORPTION · p8",
+   "qs": [
+    "PHARM-C3-080",
+    "PHARM-C3-081",
+    "PHARM-C3-082",
+    "PHARM-C3-083",
+    "PHARM-C3-084"
+   ],
+   "guide": "On a plasma concentration-time curve, Cmax is the highest concentration achieved and Tmax is the time at which it occurs. Tmax is the marker of the rate of absorption, while AUC gives the extent — two different questions answered by two different parameters."
+  },
+  {
+   "id": "PHARM-U3-11",
+   "ch": 3,
+   "n": 11,
+   "title": "Bioequivalence: Branded, Generic, ANDA & the ±20% Rule",
+   "sec": "Bioequivalence in drug industry · p8",
+   "qs": [
+    "PHARM-C3-085",
+    "PHARM-C3-086",
+    "PHARM-C3-087",
+    "PHARM-C3-088",
+    "PHARM-C3-089",
+    "PHARM-C3-090",
+    "PHARM-C3-091",
+    "PHARM-C3-092",
+    "PHARM-C3-093"
+   ],
+   "guide": "Bioequivalence means two pharmaceutically equivalent products with similar rate (Tmax) and extent (AUC) of absorption. The branded drug is invented and patented for 20 years; the generic is a legal copy marketed after patent expiry, cheaper, approved through ANDA provided it is bioequivalent to the branded drug within ±20%."
   }
  ]
 }
