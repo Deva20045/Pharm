@@ -1,0 +1,2451 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C36-001",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The cause common to neurodegenerative disorders given at the top of the chapter is:",
+   "opts": [
+    "Free radical damage to cells",
+    "Autoantibody mediated demyelination",
+    "Prion protein deposition",
+    "Mitochondrial DNA deletion"
+   ],
+   "ans": 0,
+   "exp": "The page opens with the cause: free radical damage to cells. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-002",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The free radical damage of neurodegeneration is said to be increased by:",
+   "opts": [
+    "Excitatory neurotransmitters",
+    "Inhibitory neurotransmitters",
+    "Acetylcholinesterase",
+    "Dopamine reuptake"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis after the cause reads that it is increased by excitatory neurotransmitters. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-003",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The three neurodegenerative disorders listed are Alzheimer's disease, amyotrophic lateral sclerosis and:",
+   "opts": [
+    "Parkinson's disease",
+    "Huntington's chorea",
+    "Multiple sclerosis",
+    "Creutzfeldt-Jakob disease"
+   ],
+   "ans": 0,
+   "exp": "The three headings are Alzheimer's disease, ALS and Parkinson's disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-004",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The neurotransmitter described as deficient in Alzheimer's disease is:",
+   "opts": [
+    "Acetylcholine",
+    "Dopamine",
+    "GABA",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "Alzheimer's disease is listed with a decrease of acetylcholine. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-005",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The clinical feature linked to the acetylcholine deficit in Alzheimer's disease is:",
+   "opts": [
+    "Memory loss",
+    "Tremors",
+    "Muscle spasticity",
+    "Bradykinesia"
+   ],
+   "ans": 0,
+   "exp": "Memory loss is the feature noted under Alzheimer's disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-006",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The pathological basis of amyotrophic lateral sclerosis is death of:",
+   "opts": [
+    "Motor neurons",
+    "Dopaminergic neurons",
+    "Cholinergic neurons",
+    "Purkinje cells"
+   ],
+   "ans": 0,
+   "exp": "ALS is described as motor neuron death. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-007",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The manifestation of motor neuron death in ALS noted here is:",
+   "opts": [
+    "Muscle spasticity",
+    "Memory loss",
+    "Bradykinesia",
+    "Tremors"
+   ],
+   "ans": 0,
+   "exp": "Muscle spasticity is the feature listed under ALS. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-008",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "In Parkinson's disease the neurons that die are the:",
+   "opts": [
+    "Dopaminergic neurons of the corpus striatum",
+    "Cholinergic neurons of the nucleus basalis",
+    "Motor neurons of the anterior horn",
+    "GABAergic neurons of the striatum"
+   ],
+   "ans": 0,
+   "exp": "Parkinson's disease is described as death of dopaminergic neurons in the corpus striatum. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-009",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "The two clinical features listed for Parkinson's disease are tremors and:",
+   "opts": [
+    "Bradykinesia",
+    "Memory loss",
+    "Spasticity",
+    "Ataxia"
+   ],
+   "ans": 0,
+   "exp": "The page lists tremors and bradykinesia under Parkinson's disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-010",
+   "sec": "Neurodegenerative Disorders: Overview",
+   "page": 145,
+   "q": "A 70 year old with memory loss and a 60 year old with tremor and bradykinesia illustrate the two ends of this page, the neurotransmitter deficits being respectively:",
+   "opts": [
+    "Low acetylcholine and low dopamine",
+    "Low dopamine and low acetylcholine",
+    "Low GABA in both",
+    "Low serotonin in both"
+   ],
+   "ans": 0,
+   "exp": "Alzheimer's disease is the low acetylcholine memory loss state and Parkinson's disease is the low dopamine tremor bradykinesia state. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-011",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The heading under which the Alzheimer's drugs are grouped first is:",
+   "opts": [
+    "Cholinergics",
+    "Anti-beta amyloid monoclonal antibodies",
+    "Nootropic drugs",
+    "NMDA blockers"
+   ],
+   "ans": 0,
+   "exp": "The first group listed under drugs for Alzheimer's disease is cholinergics. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-012",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "Cholinergics are described as:",
+   "opts": [
+    "Most preferred drugs",
+    "Least preferred drugs",
+    "Not preferred",
+    "Add-on drugs only"
+   ],
+   "ans": 0,
+   "exp": "The word most preferred is written against cholinergics. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-013",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The mechanism of action of the cholinergics in Alzheimer's disease is:",
+   "opts": [
+    "Block acetylcholinesterase so that acetylcholine increases",
+    "Block NMDA receptors",
+    "Stimulate nicotinic receptors directly",
+    "Increase acetylcholine release from vesicles"
+   ],
+   "ans": 0,
+   "exp": "The mechanism given is block of acetylcholinesterase leading to raised acetylcholine. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-014",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "Which cholinesterase inhibitor is described as not preferred?",
+   "opts": [
+    "Tacrine",
+    "Donepezil",
+    "Rivastigmine",
+    "Galantamine"
+   ],
+   "ans": 0,
+   "exp": "Tacrine is the drug labelled not preferred. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-015",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The side effect that makes tacrine an unfavoured drug is:",
+   "opts": [
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Ototoxicity",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Hepatotoxicity is the side effect listed for tacrine. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-016",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The cholinesterase inhibitor indicated for mild to moderate disease is:",
+   "opts": [
+    "Rivastigmine",
+    "Donepezil",
+    "Tacrine",
+    "Galantamine"
+   ],
+   "ans": 0,
+   "exp": "Rivastigmine carries the indication mild to moderate disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-017",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The drug of choice among the cholinergics for Alzheimer's disease is:",
+   "opts": [
+    "Donepezil",
+    "Tacrine",
+    "Rivastigmine",
+    "Galantamine"
+   ],
+   "ans": 0,
+   "exp": "Donepezil is marked as the drug of choice. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-018",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "Donepezil can be used in which stages of Alzheimer's disease?",
+   "opts": [
+    "Mild, moderate and severe disease",
+    "Mild disease only",
+    "Severe disease only",
+    "Moderate disease only"
+   ],
+   "ans": 0,
+   "exp": "Donepezil is stated to be useful in mild, moderate and severe disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-019",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "Which cholinesterase inhibitor is listed without any restriction of stage or preference?",
+   "opts": [
+    "Galantamine",
+    "Tacrine",
+    "Rivastigmine",
+    "Donepezil"
+   ],
+   "ans": 0,
+   "exp": "Galantamine is listed third, with no stage restriction or preference note attached. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-020",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "A patient with severe Alzheimer's disease should receive:",
+   "opts": [
+    "Donepezil",
+    "Rivastigmine",
+    "Tacrine",
+    "No cholinesterase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Only donepezil is documented for use in severe disease; rivastigmine is restricted to mild to moderate disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-021",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "A patient on tacrine is found to have rising transaminases. The most appropriate change is to:",
+   "opts": [
+    "Stop tacrine and use another cholinergic such as donepezil",
+    "Continue tacrine and add a hepatoprotective",
+    "Increase the dose of tacrine",
+    "Switch to an anti-beta amyloid antibody"
+   ],
+   "ans": 0,
+   "exp": "Tacrine is not preferred because of hepatotoxicity, so another cholinergic, preferably donepezil, replaces it. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-022",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "The biochemical aim shared by all four drugs in this group is to:",
+   "opts": [
+    "Raise central acetylcholine",
+    "Lower central glutamate",
+    "Raise central dopamine",
+    "Raise central GABA"
+   ],
+   "ans": 0,
+   "exp": "All act by blocking acetylcholinesterase and raising acetylcholine. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-023",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics",
+   "page": 145,
+   "q": "Which statement about cholinergics in Alzheimer's disease is correct?",
+   "opts": [
+    "They are most preferred and act by blocking acetylcholinesterase",
+    "They are add-on drugs that block NMDA receptors",
+    "They are not FDA approved for Alzheimer's disease",
+    "Their mechanism of action is well established as free radical scavenging"
+   ],
+   "ans": 0,
+   "exp": "Cholinergics are the most preferred group and block acetylcholinesterase; it is the nootropics that are not FDA approved with unknown mechanism. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-024",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "Memantine is listed in the Alzheimer's section as:",
+   "opts": [
+    "An add-on drug",
+    "The most preferred drug",
+    "A drug not preferred",
+    "A drug for muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "Memantine is described as an add-on drug. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-025",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "The mechanism of action of memantine is:",
+   "opts": [
+    "Blocks NMDA receptors",
+    "Blocks acetylcholinesterase",
+    "Blocks beta amyloid fibrils",
+    "Blocks histone deacetylase"
+   ],
+   "ans": 0,
+   "exp": "The mechanism given is blockade of NMDA receptors. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-026",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "Memantine is reached in the Alzheimer's algorithm after:",
+   "opts": [
+    "No response to cholinergics",
+    "A hepatotoxic reaction to tacrine",
+    "MRI confirmation of beta amyloid deposition",
+    "Development of muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "The note no response appears just before memantine in the sequence. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-027",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "Unlike the cholinergics, memantine acts on the:",
+   "opts": [
+    "Glutamate system",
+    "Cholinergic system",
+    "Dopaminergic system",
+    "GABA system"
+   ],
+   "ans": 0,
+   "exp": "NMDA receptor blockade places memantine in the glutamate system rather than the cholinergic system. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-028",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "A patient with moderate Alzheimer's disease on donepezil continues to deteriorate. According to this page the next step is to:",
+   "opts": [
+    "Add memantine",
+    "Switch to tacrine",
+    "Add a nootropic drug",
+    "Stop all drugs"
+   ],
+   "ans": 0,
+   "exp": "Memantine is the add-on drug used when there is no response to cholinergics. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-029",
+   "sec": "Memantine",
+   "page": 145,
+   "q": "Which pair correctly matches drug and mechanism?",
+   "opts": [
+    "Donepezil blocks acetylcholinesterase, memantine blocks NMDA",
+    "Donepezil blocks NMDA, memantine blocks acetylcholinesterase",
+    "Both block acetylcholinesterase",
+    "Both block NMDA receptors"
+   ],
+   "ans": 0,
+   "exp": "The cholinergics block acetylcholinesterase and memantine blocks NMDA receptors. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-030",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "The second group of drugs listed for Alzheimer's disease is:",
+   "opts": [
+    "Anti-beta amyloid monoclonal antibodies",
+    "Cholinergics",
+    "Nootropic drugs",
+    "NMDA antagonists"
+   ],
+   "ans": 0,
+   "exp": "The second heading is anti-beta amyloid monoclonal antibodies. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-031",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "Anti-beta amyloid monoclonal antibodies may be used only after:",
+   "opts": [
+    "MRI confirmed beta amyloid deposition in brain",
+    "CT confirmed cerebral atrophy",
+    "PET showing reduced glucose uptake",
+    "CSF showing raised tau protein"
+   ],
+   "ans": 0,
+   "exp": "Their use requires MRI confirmed beta amyloid deposition in the brain. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-032",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "The stage of disease in which anti-beta amyloid antibodies are used is:",
+   "opts": [
+    "Mild disease",
+    "Severe disease",
+    "Any stage",
+    "End stage disease only"
+   ],
+   "ans": 0,
+   "exp": "The indication is mild disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-033",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "The monoclonal antibody that blocks fibrils is:",
+   "opts": [
+    "Aducanumab",
+    "Lecanemab",
+    "Donepezil",
+    "Memantine"
+   ],
+   "ans": 0,
+   "exp": "Aducanumab blocks fibrils. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-034",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "The monoclonal antibody that blocks protofibrils is:",
+   "opts": [
+    "Lecanemab",
+    "Aducanumab",
+    "Tacrine",
+    "Rivastigmine"
+   ],
+   "ans": 0,
+   "exp": "Lecanemab blocks protofibrils. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-035",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "A patient with severe Alzheimer's disease asks about aducanumab. The correct response is that it is:",
+   "opts": [
+    "Not indicated, since these antibodies are used only in mild disease",
+    "Indicated at any stage",
+    "Indicated only after memantine fails",
+    "Indicated as the drug of choice in severe disease"
+   ],
+   "ans": 0,
+   "exp": "Anti-beta amyloid antibodies are restricted to mild disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-036",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies",
+   "page": 145,
+   "q": "Which is correctly paired?",
+   "opts": [
+    "Aducanumab fibrils, lecanemab protofibrils",
+    "Aducanumab protofibrils, lecanemab fibrils",
+    "Both block fibrils",
+    "Both block protofibrils"
+   ],
+   "ans": 0,
+   "exp": "Aducanumab blocks fibrils and lecanemab blocks protofibrils. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-037",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "The third group of drugs for Alzheimer's disease is:",
+   "opts": [
+    "Nootropic drugs",
+    "Anti-beta amyloid monoclonal antibodies",
+    "Cholinergics",
+    "NMDA blockers"
+   ],
+   "ans": 0,
+   "exp": "The third heading is nootropic drugs. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-038",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "Nootropic drugs are described as:",
+   "opts": [
+    "Memory enhancers",
+    "Muscle relaxants",
+    "Free radical scavengers",
+    "Antipsychotics"
+   ],
+   "ans": 0,
+   "exp": "Nootropics are labelled memory enhancers. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-039",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "The regulatory status of nootropic drugs in Alzheimer's disease is that they:",
+   "opts": [
+    "Are not FDA approved for Alzheimer's disease",
+    "Are the FDA approved drugs of choice",
+    "Are approved only for severe disease",
+    "Are approved only as add-on to memantine"
+   ],
+   "ans": 0,
+   "exp": "The page states they are not FDA approved for Alzheimer's disease. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-040",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "The mechanism of action of the nootropic drugs is stated to be:",
+   "opts": [
+    "Unknown",
+    "Acetylcholinesterase blockade",
+    "NMDA blockade",
+    "Beta amyloid binding"
+   ],
+   "ans": 0,
+   "exp": "The mechanism of action of nootropics is given as unknown. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-041",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "Which of the following is named as a nootropic drug?",
+   "opts": [
+    "Citicoline",
+    "Donepezil",
+    "Memantine",
+    "Aducanumab"
+   ],
+   "ans": 0,
+   "exp": "Citicoline is one of the drugs listed under nootropics. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-042",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "Which of the following is named as a nootropic drug?",
+   "opts": [
+    "Cerebrolysin",
+    "Lecanemab",
+    "Galantamine",
+    "Tacrine"
+   ],
+   "ans": 0,
+   "exp": "Cerebrolysin is listed among the nootropic drugs. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-043",
+   "sec": "Nootropic Drugs",
+   "page": 145,
+   "q": "A patient with Alzheimer's disease is already on a nootropic drug alone. The most appropriate comment is that:",
+   "opts": [
+    "Nootropics are not FDA approved for Alzheimer's disease and their mechanism is unknown, so a cholinesterase inhibitor such as donepezil is preferred",
+    "Nootropics are the most preferred drugs",
+    "Nootropics block NMDA receptors and are curative",
+    "Nootropics are the drugs of choice in mild disease with MRI confirmed amyloid"
+   ],
+   "ans": 0,
+   "exp": "Cholinergics are the most preferred drugs, whereas nootropics are not FDA approved with unknown mechanism. (Book p145)"
+  },
+  {
+   "id": "PHARM-C36-044",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The two headings under drugs for ALS are drugs to prevent neurodegeneration and drugs to treat:",
+   "opts": [
+    "Muscle spasticity",
+    "Memory loss",
+    "Tremors",
+    "Sialorrhoea"
+   ],
+   "ans": 0,
+   "exp": "The two groups are drugs to prevent neurodegeneration and drugs to treat muscle spasticity. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-045",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The drug of choice for amyotrophic lateral sclerosis is:",
+   "opts": [
+    "Riluzole",
+    "Edaravone",
+    "Tofersen",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "Riluzole is listed first and marked DOC. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-046",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The mechanism of action of riluzole is to block:",
+   "opts": [
+    "Sodium channels and thereby reduce glutamate",
+    "Calcium channels",
+    "NMDA receptors directly",
+    "Histone deacetylase"
+   ],
+   "ans": 0,
+   "exp": "Riluzole blocks sodium channels, which reduces glutamate. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-047",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Edaravone is used in ALS as:",
+   "opts": [
+    "An add-on drug",
+    "The drug of choice",
+    "Rescue therapy",
+    "A muscle relaxant"
+   ],
+   "ans": 0,
+   "exp": "Edaravone is labelled an add-on drug. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-048",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The mechanism of action of edaravone is:",
+   "opts": [
+    "Free radical scavenger",
+    "Histone deacetylase inhibitor",
+    "Antisense oligonucleotide",
+    "GABA receptor agonist"
+   ],
+   "ans": 0,
+   "exp": "Edaravone is a free radical scavenger. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-049",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The free radical scavenging action of edaravone is logical in ALS because the chapter's stated cause of neurodegeneration is:",
+   "opts": [
+    "Free radical damage to cells",
+    "Prion deposition",
+    "Autoimmune demyelination",
+    "Acetylcholine deficiency"
+   ],
+   "ans": 0,
+   "exp": "The chapter opened with free radical damage to cells as the common cause, which is what edaravone targets. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-050",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Sodium phenylbutyrate is combined with:",
+   "opts": [
+    "Taurursodiol",
+    "Edaravone",
+    "Riluzole",
+    "Trofinetide"
+   ],
+   "ans": 0,
+   "exp": "Sodium phenylbutyrate is given with taurursodiol. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-051",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Taurursodiol is described as:",
+   "opts": [
+    "Anti-apoptotic",
+    "A free radical scavenger",
+    "A histone deacetylase inhibitor",
+    "A GABA agonist"
+   ],
+   "ans": 0,
+   "exp": "The bracket after taurursodiol reads anti-apoptotic. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-052",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "The mechanism of action of sodium phenylbutyrate is:",
+   "opts": [
+    "Inhibits histone deacetylase",
+    "Blocks sodium channels",
+    "Scavenges free radicals",
+    "Blocks mRNA of SOD1"
+   ],
+   "ans": 0,
+   "exp": "Sodium phenylbutyrate inhibits histone deacetylase. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-053",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Tofersen is described as:",
+   "opts": [
+    "A new drug that is an antisense oligonucleotide",
+    "A free radical scavenger",
+    "A muscle relaxant",
+    "A histone deacetylase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Tofersen is the new drug described as an antisense oligonucleotide. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-054",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Tofersen blocks the messenger RNA of:",
+   "opts": [
+    "Superoxide dismutase 1",
+    "Superoxide dismutase 2",
+    "Histone deacetylase",
+    "Glutamate transporter"
+   ],
+   "ans": 0,
+   "exp": "The target given is the mRNA of SOD1, superoxide dismutase 1. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-055",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Tofersen is used specifically in:",
+   "opts": [
+    "ALS with SOD1 gene mutation",
+    "All cases of ALS",
+    "Rett syndrome",
+    "Friedreich's ataxia"
+   ],
+   "ans": 0,
+   "exp": "The use is ALS with SOD1 gene mutation. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-056",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "Which drug is matched correctly with its indication?",
+   "opts": [
+    "Tofersen - ALS with SOD1 gene mutation",
+    "Trofinetide - Friedreich's ataxia",
+    "Omaveloxolone - Rett syndrome",
+    "Edaravone - muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "Tofersen is for ALS with SOD1 mutation; trofinetide is for Rett syndrome and omaveloxolone for Friedreich's ataxia. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-057",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration",
+   "page": 146,
+   "q": "A patient with ALS and a documented SOD1 mutation is best treated with:",
+   "opts": [
+    "Tofersen",
+    "Riluzole only",
+    "Baclofen",
+    "Edaravone only"
+   ],
+   "ans": 0,
+   "exp": "Tofersen blocks SOD1 mRNA and is used in ALS with SOD1 gene mutation. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-058",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "The drug used to treat muscle spasticity in ALS is:",
+   "opts": [
+    "Baclofen",
+    "Riluzole",
+    "Edaravone",
+    "Tofersen"
+   ],
+   "ans": 0,
+   "exp": "Baclofen is the drug listed to treat muscle spasticity. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-059",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "Baclofen is described as a:",
+   "opts": [
+    "Muscle relaxant",
+    "Free radical scavenger",
+    "Antisense oligonucleotide",
+    "Cholinesterase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Baclofen is labelled a muscle relaxant. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-060",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "The mechanism of action of baclofen is:",
+   "opts": [
+    "GABA receptor agonist",
+    "NMDA receptor blocker",
+    "Sodium channel blocker",
+    "Histone deacetylase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Baclofen acts as a GABA receptor agonist. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-061",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "The only drug for Rett syndrome is:",
+   "opts": [
+    "Trofinetide",
+    "Omaveloxolone",
+    "Tofersen",
+    "Riluzole"
+   ],
+   "ans": 0,
+   "exp": "The note states trofinetide is the only drug for Rett syndrome. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-062",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "The only drug for Friedreich's ataxia is:",
+   "opts": [
+    "Omaveloxolone",
+    "Trofinetide",
+    "Edaravone",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "Omaveloxolone is noted as the only drug for Friedreich's ataxia. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-063",
+   "sec": "Muscle Spasticity in ALS and Related Notes",
+   "page": 146,
+   "q": "Which pairing of drug and unique indication is correct?",
+   "opts": [
+    "Trofinetide Rett syndrome, omaveloxolone Friedreich's ataxia",
+    "Trofinetide Friedreich's ataxia, omaveloxolone Rett syndrome",
+    "Both are used for ALS",
+    "Both are used for Alzheimer's disease"
+   ],
+   "ans": 0,
+   "exp": "Trofinetide is for Rett syndrome and omaveloxolone for Friedreich's ataxia. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-064",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "The amino acid from which dopamine synthesis begins is:",
+   "opts": [
+    "Tyrosine",
+    "Tryptophan",
+    "Phenylalanine only",
+    "Glutamate"
+   ],
+   "ans": 0,
+   "exp": "The synthesis scheme starts from tyrosine. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-065",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "Tyrosine is converted to:",
+   "opts": [
+    "Dopa",
+    "Dopamine directly",
+    "Noradrenaline",
+    "Homovanillic acid"
+   ],
+   "ans": 0,
+   "exp": "The scheme shows tyrosine going to dopa. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-066",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "The cofactor shown at the tyrosine to dopa step is:",
+   "opts": [
+    "Vitamin B",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ],
+   "ans": 0,
+   "exp": "A vitamin B cofactor is noted at the tyrosine to dopa step. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-067",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "Dopa is converted to dopamine by:",
+   "opts": [
+    "Dopa decarboxylase",
+    "Tyrosine hydroxylase",
+    "Monoamine oxidase B",
+    "Catechol-O-methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Dopa decarboxylase converts dopa to dopamine. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-068",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "Dopamine is pumped into the synaptic vesicle by:",
+   "opts": [
+    "VMAT-2",
+    "DAT",
+    "MAO-B",
+    "COMT"
+   ],
+   "ans": 0,
+   "exp": "The vesicular transporter shown is VMAT-2. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-069",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "After release, dopamine acts on:",
+   "opts": [
+    "The post-synaptic neuron",
+    "The pre-synaptic neuron only",
+    "The muscle end plate",
+    "The dorsal root ganglion"
+   ],
+   "ans": 0,
+   "exp": "The released dopamine is shown acting on the post-synaptic neuron. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-070",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "The two enzymes shown metabolising dopamine are:",
+   "opts": [
+    "MAO-B and COMT",
+    "MAO-A and COMT",
+    "MAO-B and acetylcholinesterase",
+    "Dopa decarboxylase and COMT"
+   ],
+   "ans": 0,
+   "exp": "Dopamine is metabolised by MAO-B and COMT. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-071",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "MAO-B stands for:",
+   "opts": [
+    "Monoamine oxidase B",
+    "Monoamine oxidase brain",
+    "Methyl amine oxidase B",
+    "Monoacetyl oxidase B"
+   ],
+   "ans": 0,
+   "exp": "The index expands MAO-B as monoamine oxidase B. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-072",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "COMT stands for:",
+   "opts": [
+    "Catechol-O-methyl transferase",
+    "Catechol-O-methyl transferase A",
+    "Catechol monoamine transporter",
+    "Cytochrome O methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "COMT is expanded as catechol-O-methyl transferase. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-073",
+   "sec": "Synthesis and Metabolism of Dopamine",
+   "page": 146,
+   "q": "A drug that blocks both MAO-B and the peripheral decarboxylation of levodopa is acting on:",
+   "opts": [
+    "The metabolism and activation of dopamine",
+    "The vesicular storage of dopamine only",
+    "Dopamine receptors directly",
+    "Acetylcholine synthesis"
+   ],
+   "ans": 0,
+   "exp": "MAO-B metabolises dopamine and dopa decarboxylase forms it, so blocking both alters dopamine metabolism and formation. (Book p146)"
+  },
+  {
+   "id": "PHARM-C36-074",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Levodopa is described as the:",
+   "opts": [
+    "Best drug for Parkinson's disease",
+    "Worst drug for Parkinson's disease",
+    "Drug used only for tremors",
+    "Drug used only in young patients"
+   ],
+   "ans": 0,
+   "exp": "Levodopa is labelled the best drug for Parkinson's disease. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-075",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Levodopa is the drug of choice in patients with Parkinson's disease aged:",
+   "opts": [
+    "Above 65 years",
+    "Below 65 years",
+    "Below 40 years",
+    "Between 40 and 50 years"
+   ],
+   "ans": 0,
+   "exp": "Levodopa is the DOC in patients above 65 years. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-076",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Levodopa is the:",
+   "opts": [
+    "Levo-isomer of dopa and a prodrug of dopamine",
+    "Dextro-isomer of dopa",
+    "Active form of dopamine already",
+    "Dopamine receptor agonist"
+   ],
+   "ans": 0,
+   "exp": "It is the levo-isomer of dopa and a prodrug of dopamine. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-077",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Levodopa is converted to dopamine by:",
+   "opts": [
+    "Dopa decarboxylase",
+    "Tyrosine hydroxylase",
+    "Catechol-O-methyl transferase",
+    "Monoamine oxidase B"
+   ],
+   "ans": 0,
+   "exp": "The scheme shows levodopa becoming dopamine through dopa decarboxylase. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-078",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Carbidopa is an analogue of:",
+   "opts": [
+    "Dopa",
+    "Dopamine",
+    "Tyrosine",
+    "Catecholamine"
+   ],
+   "ans": 0,
+   "exp": "Carbidopa is described as an analogue of dopa. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-079",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Carbidopa is lipid insoluble and therefore:",
+   "opts": [
+    "Does not cross the blood brain barrier",
+    "Enters the brain freely",
+    "Is given intrathecally",
+    "Is excreted unchanged by the kidney"
+   ],
+   "ans": 0,
+   "exp": "The page notes it is lipid insoluble and does not cross the blood brain barrier. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-080",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The mechanism by which carbidopa improves levodopa therapy is:",
+   "opts": [
+    "It reduces levodopa metabolism in the periphery and increases availability in brain",
+    "It stimulates dopamine receptors directly",
+    "It blocks COMT in the brain",
+    "It increases dopa decarboxylase activity"
+   ],
+   "ans": 0,
+   "exp": "Carbidopa lowers peripheral metabolism of levodopa and raises its availability in the brain. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-081",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The COMT inhibitor listed among drugs that increase levodopa efficacy is:",
+   "opts": [
+    "Entacapone",
+    "Carbidopa",
+    "Vitamin B6",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "Entacapone is the COMT inhibitor listed with carbidopa. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-082",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Entacapone increases levodopa efficacy by:",
+   "opts": [
+    "Blocking first pass metabolism and increasing oral bioavailability",
+    "Blocking renal excretion",
+    "Stimulating dopamine release",
+    "Blocking dopa decarboxylase centrally"
+   ],
+   "ans": 0,
+   "exp": "Entacapone blocks first pass metabolism of levodopa and increases oral bioavailability. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-083",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The agent listed under drugs that decrease levodopa efficacy is:",
+   "opts": [
+    "Vitamin B6",
+    "Carbidopa",
+    "Entacapone",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "Vitamin B6 is the drug listed as decreasing efficacy. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-084",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "Vitamin B6 reduces levodopa efficacy because it:",
+   "opts": [
+    "Increases the activity of dopa decarboxylase",
+    "Blocks dopa decarboxylase",
+    "Blocks COMT",
+    "Blocks dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "Vitamin B6 increases the activity of dopa decarboxylase, so more levodopa is converted outside the brain. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-085",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The mnemonic used for the side effects of levodopa is:",
+   "opts": [
+    "DOPA",
+    "CHOP",
+    "PADA",
+    "MAD"
+   ],
+   "ans": 0,
+   "exp": "The side effects are remembered with the mnemonic DOPA. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-086",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "In the DOPA mnemonic, D stands for:",
+   "opts": [
+    "Dyskinesia",
+    "Drowsiness",
+    "Diarrhoea",
+    "Depression"
+   ],
+   "ans": 0,
+   "exp": "D stands for dyskinesia, due to increased dopamine. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-087",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The drug of choice for levodopa induced dyskinesia is:",
+   "opts": [
+    "Amantadine",
+    "Baclofen",
+    "Trihexyphenidyl",
+    "Propranolol"
+   ],
+   "ans": 0,
+   "exp": "Amantadine is the DOC for dyskinesia caused by levodopa. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-088",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "In the DOPA mnemonic, O stands for:",
+   "opts": [
+    "Orthostatic hypotension",
+    "Oedema",
+    "Oliguria",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "O stands for orthostatic hypotension. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-089",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "In the DOPA mnemonic, P for psychosis is attributed to:",
+   "opts": [
+    "D2 stimulation",
+    "D1 stimulation",
+    "Muscarinic blockade",
+    "NMDA blockade"
+   ],
+   "ans": 0,
+   "exp": "Psychosis is stated to be due to D2 stimulation. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-090",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The nausea and vomiting of levodopa are grouped in the mnemonic under:",
+   "opts": [
+    "P for psychosis, since they also result from dopamine stimulation",
+    "O for orthostatic hypotension",
+    "A for angle closure glaucoma",
+    "D for dyskinesia"
+   ],
+   "ans": 0,
+   "exp": "The page adds that the D2 stimulation causing psychosis also causes nausea and vomiting. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-091",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "In the DOPA mnemonic, A stands for:",
+   "opts": [
+    "Angle closure glaucoma from mydriasis",
+    "Alopecia",
+    "Agranulocytosis",
+    "Akathisia"
+   ],
+   "ans": 0,
+   "exp": "A stands for angle closure glaucoma, due to mydriasis. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-092",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The absolute contraindication to levodopa listed here is:",
+   "opts": [
+    "Psychosis",
+    "Peptic ulcer disease",
+    "Melanoma",
+    "Angle closure glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Psychosis is the absolute contraindication. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-093",
+   "sec": "Levodopa",
+   "page": 147,
+   "q": "The relative contraindications to levodopa listed here include:",
+   "opts": [
+    "Angle closure glaucoma, peptic ulcer disease and melanoma",
+    "Psychosis and schizophrenia",
+    "Renal failure and hepatic failure",
+    "Myasthenia gravis and epilepsy"
+   ],
+   "ans": 0,
+   "exp": "The relative column lists angle closure glaucoma, peptic ulcer disease and melanoma. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-094",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The group of drugs listed after levodopa is:",
+   "opts": [
+    "Dopamine agonists",
+    "MAO-B inhibitors",
+    "COMT inhibitors",
+    "Anticholinergics"
+   ],
+   "ans": 0,
+   "exp": "The next heading after levodopa is DA agonists. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-095",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The dopamine agonist given by the oral route only among the three named is/are:",
+   "opts": [
+    "Pramipexole and ropinirole",
+    "Rotigotine only",
+    "Apomorphine only",
+    "Rotigotine and apomorphine"
+   ],
+   "ans": 0,
+   "exp": "Pramipexole and ropinirole are both labelled oral. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-096",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The dopamine agonist available as a transdermal patch is:",
+   "opts": [
+    "Rotigotine",
+    "Pramipexole",
+    "Ropinirole",
+    "Apomorphine"
+   ],
+   "ans": 0,
+   "exp": "Rotigotine is available as an oral or transdermal patch formulation. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-097",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The dopamine agonists are the drugs of choice in patients with Parkinson's disease aged:",
+   "opts": [
+    "Below 65 years",
+    "Above 65 years",
+    "Below 40 years only",
+    "Any age equally"
+   ],
+   "ans": 0,
+   "exp": "They are the DOC for patients below 65 years. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-098",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "Dopamine agonists are described as not preferred in patients aged:",
+   "opts": [
+    "Above 65 years",
+    "Below 65 years",
+    "Below 30 years",
+    "Between 50 and 60 years"
+   ],
+   "ans": 0,
+   "exp": "The side effect note says they are not preferred above 65 years. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-099",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The other use of dopamine agonists listed on this page is:",
+   "opts": [
+    "Restless leg syndrome",
+    "Alzheimer's disease",
+    "Amyotrophic lateral sclerosis",
+    "Muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "Restless leg syndrome is listed as another use. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-100",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The drugs of choice for restless leg syndrome as given here are:",
+   "opts": [
+    "Pregabalin or gabapentin",
+    "Levodopa or carbidopa",
+    "Baclofen or tizanidine",
+    "Trihexyphenidyl or benzhexol"
+   ],
+   "ans": 0,
+   "exp": "Pregabalin and gabapentin are named as the drugs of choice for restless leg syndrome. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-101",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The psychiatric side effect peculiar to dopamine agonists is:",
+   "opts": [
+    "Compulsive sexual activity and gambling",
+    "Obsessive washing",
+    "Delirium tremens",
+    "Kleptomania only"
+   ],
+   "ans": 0,
+   "exp": "Compulsive sexual activity and gambling are listed as side effects. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-102",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The non-psychiatric side effect of dopamine agonists listed here is:",
+   "opts": [
+    "Fatigue",
+    "Ankle oedema",
+    "Livedo reticularis",
+    "Hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Fatigue is the side effect listed for dopamine agonists. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-103",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "Apomorphine is given by the:",
+   "opts": [
+    "Subcutaneous route",
+    "Oral route",
+    "Transdermal patch",
+    "Intrathecal route"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine is noted as being given by the SC route. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-104",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "Apomorphine is used as:",
+   "opts": [
+    "Rescue therapy for the on-off phenomenon",
+    "First line therapy in young patients",
+    "Treatment of restless leg syndrome",
+    "Treatment of levodopa induced psychosis"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine is the rescue therapy for the on-off phenomenon. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-105",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The troublesome side effect of apomorphine is:",
+   "opts": [
+    "Severe nausea and vomiting",
+    "Severe constipation",
+    "Marked bradycardia",
+    "Agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Severe nausea and vomiting are listed as the side effect of apomorphine. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-106",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "The drug of choice for the nausea and vomiting of apomorphine is:",
+   "opts": [
+    "Trimethobenzamide",
+    "Ondansetron",
+    "Metoclopramide",
+    "Domperidone"
+   ],
+   "ans": 0,
+   "exp": "Trimethobenzamide is the DOC for this nausea and vomiting. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-107",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "Trimethobenzamide is started how long before apomorphine?",
+   "opts": [
+    "Three hours before",
+    "Three minutes before",
+    "One hour after",
+    "Immediately with the dose"
+   ],
+   "ans": 0,
+   "exp": "It is started three hours before apomorphine. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-108",
+   "sec": "Dopamine Agonists",
+   "page": 147,
+   "q": "Why is ondansetron contraindicated with apomorphine?",
+   "opts": [
+    "It increases the risk of hypotension",
+    "It causes severe dystonia",
+    "It blocks the anti-parkinsonian effect",
+    "It causes agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Ondansetron is contraindicated because of an increased risk of hypotension. (Book p147)"
+  },
+  {
+   "id": "PHARM-C36-109",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The MAO-B inhibitors are classified as:",
+   "opts": [
+    "Irreversible and reversible",
+    "Selective and non-selective",
+    "Short and long acting only",
+    "Peripheral and central only"
+   ],
+   "ans": 0,
+   "exp": "The classification given is irreversible and reversible. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-110",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The irreversible MAO-B inhibitors named are:",
+   "opts": [
+    "Rasagiline and selegiline",
+    "Safinamide and rasagiline",
+    "Selegiline and safinamide",
+    "Entacapone and tolcapone"
+   ],
+   "ans": 0,
+   "exp": "Rasagiline and selegiline are listed under irreversible. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-111",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The reversible MAO-B inhibitor is:",
+   "opts": [
+    "Safinamide",
+    "Selegiline",
+    "Rasagiline",
+    "Tolcapone"
+   ],
+   "ans": 0,
+   "exp": "Safinamide is the reversible agent. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-112",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The MAO-B inhibitor stated to prevent neurodegeneration is:",
+   "opts": [
+    "Selegiline",
+    "Rasagiline",
+    "Safinamide",
+    "Entacapone"
+   ],
+   "ans": 0,
+   "exp": "Selegiline carries the note that it can prevent neurodegeneration. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-113",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "Selegiline is metabolised to:",
+   "opts": [
+    "Amphetamine",
+    "Dopamine",
+    "Noradrenaline",
+    "L-dopa"
+   ],
+   "ans": 0,
+   "exp": "The scheme notes selegiline is metabolised to amphetamine. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-114",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The amphetamine metabolite of selegiline produces:",
+   "opts": [
+    "Anxiety and insomnia",
+    "Sedation and hypotension",
+    "Bradykinesia",
+    "Confusion and hallucinations only"
+   ],
+   "ans": 0,
+   "exp": "Anxiety and insomnia are the effects noted for the amphetamine metabolite. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-115",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "The reversible MAO-B inhibitor safinamide is used for:",
+   "opts": [
+    "On-off phenomena",
+    "Acute dystonia",
+    "Restless leg syndrome",
+    "Muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "Safinamide's use is given as on-off phenomena. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-116",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "MAO-B inhibitors are used in:",
+   "opts": [
+    "Initial treatment and young onset of Parkinson's disease",
+    "Only end stage disease",
+    "Only in patients above 65 years",
+    "Only as rescue therapy"
+   ],
+   "ans": 0,
+   "exp": "The use listed is initial treatment and young onset of Parkinson's disease. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-117",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "A young patient with newly diagnosed Parkinson's disease and mild symptoms could be started on:",
+   "opts": [
+    "Selegiline",
+    "Apomorphine",
+    "Levodopa",
+    "Amantadine only as rescue therapy"
+   ],
+   "ans": 0,
+   "exp": "MAO-B inhibitors such as selegiline are used as initial treatment in young onset disease. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-118",
+   "sec": "MAO-B Inhibitors",
+   "page": 148,
+   "q": "Which statement about MAO-B inhibitors is correct?",
+   "opts": [
+    "Selegiline is irreversible, prevents neurodegeneration and is metabolised to amphetamine",
+    "Selegiline is reversible and free of metabolites",
+    "Safinamide is irreversible and used only in elderly patients",
+    "Rasagiline is reversible and used as rescue therapy"
+   ],
+   "ans": 0,
+   "exp": "Selegiline is grouped with the irreversible agents, can prevent neurodegeneration and is metabolised to amphetamine. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-119",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "COMT inhibitors are described as:",
+   "opts": [
+    "Reversible",
+    "Irreversible",
+    "Non-selective",
+    "Peripheral only"
+   ],
+   "ans": 0,
+   "exp": "The word reversible is written against COMT inhibitors. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-120",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "COMT inhibitors are the drugs of choice for:",
+   "opts": [
+    "On-off phenomena",
+    "Acute dystonia",
+    "Restless leg syndrome",
+    "Alzheimer's disease"
+   ],
+   "ans": 0,
+   "exp": "They are the DOC for on-off phenomena. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-121",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "The COMT inhibitor noted for increased potency is:",
+   "opts": [
+    "Tolcapone",
+    "Entacapone",
+    "Opicapone",
+    "Safinamide"
+   ],
+   "ans": 0,
+   "exp": "Tolcapone is noted for increased potency. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-122",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "The disadvantage of tolcapone is that it is:",
+   "opts": [
+    "Hepatotoxic",
+    "Nephrotoxic",
+    "Ototoxic",
+    "Cardiotoxic"
+   ],
+   "ans": 0,
+   "exp": "Hepatotoxicity is the bracketed note against tolcapone. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-123",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "Which of the following is a COMT inhibitor named on this page?",
+   "opts": [
+    "Opicapone",
+    "Rasagiline",
+    "Safinamide",
+    "Pramipexole"
+   ],
+   "ans": 0,
+   "exp": "Opicapone is listed among the COMT inhibitors. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-124",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "The COMT inhibitor that also appears under drugs increasing levodopa efficacy is:",
+   "opts": [
+    "Entacapone",
+    "Tolcapone",
+    "Opicapone",
+    "Rasagiline"
+   ],
+   "ans": 0,
+   "exp": "Entacapone is listed both as a COMT inhibitor and as a drug increasing levodopa efficacy by blocking first pass metabolism. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-125",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "Which drug class is common to both the on-off phenomenon indication and hepatotoxicity?",
+   "opts": [
+    "COMT inhibitors",
+    "MAO-B inhibitors",
+    "Dopamine agonists",
+    "Anti-beta amyloid antibodies"
+   ],
+   "ans": 0,
+   "exp": "COMT inhibitors are the DOC for on-off phenomena, and tolcapone among them is hepatotoxic. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-126",
+   "sec": "COMT Inhibitors",
+   "page": 148,
+   "q": "A patient develops abnormal liver function tests on tolcapone. The best alternative COMT inhibitor is:",
+   "opts": [
+    "Entacapone or opicapone",
+    "Selegiline",
+    "Safinamide",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "Entacapone and opicapone are the COMT inhibitors listed without the hepatotoxicity note. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-127",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "The two mechanisms of amantadine given here are anticholinergic action and:",
+   "opts": [
+    "NMDA receptor blockade",
+    "MAO-B inhibition",
+    "COMT inhibition",
+    "Dopamine reuptake inhibition"
+   ],
+   "ans": 0,
+   "exp": "Amantadine is described as anticholinergic and an NMDA blocker. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-128",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "Besides blocking NMDA receptors amantadine:",
+   "opts": [
+    "Augments dopamine",
+    "Depletes dopamine",
+    "Blocks dopamine receptors",
+    "Blocks dopa decarboxylase"
+   ],
+   "ans": 0,
+   "exp": "The note states that amantadine augments dopamine. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-129",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "Amantadine is the drug of choice for:",
+   "opts": [
+    "Levodopa induced dyskinesia",
+    "On-off phenomena",
+    "Restless leg syndrome",
+    "Muscle spasticity"
+   ],
+   "ans": 0,
+   "exp": "It is the DOC for levodopa induced dyskinesia. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-130",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "Amantadine is also used as:",
+   "opts": [
+    "Initial treatment for Parkinson's disease",
+    "Rescue therapy",
+    "Only in end stage disease",
+    "Only in patients above 65 years"
+   ],
+   "ans": 0,
+   "exp": "The second use listed is initial treatment for Parkinson's disease. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-131",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "The oedema producing side effect of amantadine is:",
+   "opts": [
+    "Ankle oedema",
+    "Facial oedema",
+    "Pulmonary oedema",
+    "Periorbital oedema"
+   ],
+   "ans": 0,
+   "exp": "Ankle oedema is the first side effect listed. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-132",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "Livedo reticularis due to amantadine is described as:",
+   "opts": [
+    "Purple pigmentation",
+    "Brown pigmentation",
+    "Yellow discolouration",
+    "Blue discolouration"
+   ],
+   "ans": 0,
+   "exp": "Livedo reticularis is explained in brackets as purple pigmentation. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-133",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "The note about purple toe syndrome concerns:",
+   "opts": [
+    "Warfarin, in which only the foot is involved",
+    "Amantadine, in which only the foot is involved",
+    "Amlodipine, which causes livedo reticularis",
+    "Apomorphine, which causes purple pigmentation"
+   ],
+   "ans": 0,
+   "exp": "The note attributes purple toe syndrome to warfarin, with only the foot involved. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-134",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "The drug noted in the same context as causing ankle oedema is:",
+   "opts": [
+    "Amlodipine",
+    "Warfarin",
+    "Apomorphine",
+    "Selegiline"
+   ],
+   "ans": 0,
+   "exp": "Amlodipine is noted as causing ankle oedema. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-135",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "A patient on levodopa develops dyskinesias. The drug of choice to control them is:",
+   "opts": [
+    "Amantadine",
+    "Trihexyphenidyl",
+    "Propranolol",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "Amantadine is the DOC for levodopa induced dyskinesia. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-136",
+   "sec": "Amantadine",
+   "page": 148,
+   "q": "Which statement about amantadine is correct?",
+   "opts": [
+    "It augments dopamine, blocks NMDA receptors and causes ankle oedema and livedo reticularis",
+    "It blocks MAO-B and causes purple toe syndrome",
+    "It is a COMT inhibitor used for on-off phenomena",
+    "It is the rescue therapy given subcutaneously"
+   ],
+   "ans": 0,
+   "exp": "The page gives its dopamine augmenting and NMDA blocking actions with ankle oedema and livedo reticularis as side effects. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-137",
+   "sec": "On-Off Phenomena",
+   "page": 148,
+   "q": "The on-off phenomenon is seen with:",
+   "opts": [
+    "Levodopa",
+    "Baclofen",
+    "Apomorphine as initial therapy",
+    "Anti-beta amyloid antibodies"
+   ],
+   "ans": 0,
+   "exp": "The note states the on-off phenomenon is seen with levodopa. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-138",
+   "sec": "On-Off Phenomena",
+   "page": 148,
+   "q": "The on-off phenomenon is related to deficiency developing:",
+   "opts": [
+    "As the disease progresses",
+    "At the start of treatment",
+    "Only after stopping levodopa",
+    "Only in young patients"
+   ],
+   "ans": 0,
+   "exp": "The note adds that deficiency appears as the disease progresses. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-139",
+   "sec": "On-Off Phenomena",
+   "page": 148,
+   "q": "The drugs of choice for the on-off phenomenon are:",
+   "opts": [
+    "COMT inhibitors",
+    "Dopamine agonists",
+    "Anticholinergics",
+    "Nootropics"
+   ],
+   "ans": 0,
+   "exp": "COMT inhibitors are labelled DOC for on-off phenomena. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-140",
+   "sec": "On-Off Phenomena",
+   "page": 148,
+   "q": "The reversible MAO-B inhibitor used for the on-off phenomenon is:",
+   "opts": [
+    "Safinamide",
+    "Selegiline",
+    "Rasagiline",
+    "Tolcapone"
+   ],
+   "ans": 0,
+   "exp": "Safinamide is the reversible MAO-B inhibitor used for on-off phenomena. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-141",
+   "sec": "On-Off Phenomena",
+   "page": 148,
+   "q": "The rescue therapy for the on-off phenomenon is:",
+   "opts": [
+    "Apomorphine",
+    "Amantadine",
+    "Entacapone",
+    "Selegiline"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine is the rescue therapy for the on-off phenomenon. (Book p148)"
+  },
+  {
+   "id": "PHARM-C36-142",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "The management table at the top of the page begins with the drug of choice:",
+   "opts": [
+    "Entacapone",
+    "Selegiline",
+    "Pramipexole",
+    "Apomorphine"
+   ],
+   "ans": 0,
+   "exp": "Entacapone is placed under DOC in the management row. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-143",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "When there is no response, the drugs listed as alternatives are:",
+   "opts": [
+    "A dopamine agonist and an MAO-B inhibitor",
+    "Levodopa and carbidopa",
+    "Amantadine and apomorphine",
+    "Baclofen and tizanidine"
+   ],
+   "ans": 0,
+   "exp": "The alternatives column lists a dopamine agonist and an MAO-B inhibitor. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-144",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "The rescue therapy in the management algorithm is:",
+   "opts": [
+    "Apomorphine",
+    "Amantadine",
+    "Entacapone",
+    "Rotigotine"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine is placed under rescue therapy. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-145",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "The treatment protocol starts by assessing:",
+   "opts": [
+    "The effect of symptoms on daily life",
+    "The age of the patient",
+    "The dopamine level in blood",
+    "The presence of tremors"
+   ],
+   "ans": 0,
+   "exp": "The first decision box is the effect of symptoms on daily life. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-146",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "When the effect of symptoms on daily life is minimal, the protocol advises:",
+   "opts": [
+    "No drug is prescribed",
+    "Immediate levodopa",
+    "Immediate dopamine agonist",
+    "Immediate apomorphine"
+   ],
+   "ans": 0,
+   "exp": "The minimal branch leads to no drug being prescribed. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-147",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "If a drug is to be given to a patient with minimal symptoms, it is given:",
+   "opts": [
+    "On patient request",
+    "Compulsorily",
+    "Only after admission",
+    "Only after MRI confirmation"
+   ],
+   "ans": 0,
+   "exp": "The bracket notes that the drug is given on patient request. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-148",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "The drug of choice for a patient with minimal symptoms who requests treatment is:",
+   "opts": [
+    "An MAO-B inhibitor such as selegiline",
+    "Levodopa",
+    "A dopamine agonist",
+    "Apomorphine"
+   ],
+   "ans": 0,
+   "exp": "The DOC in this branch is an MAO-B inhibitor, selegiline. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-149",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "The alternative to an MAO-B inhibitor in minimal disease is:",
+   "opts": [
+    "Amantadine",
+    "Apomorphine",
+    "Entacapone",
+    "Ropinirole"
+   ],
+   "ans": 0,
+   "exp": "Amantadine is listed as the alternative. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-150",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "When the effect of symptoms on daily life is significant, the next branch is based on:",
+   "opts": [
+    "Age, below or above 65 years",
+    "Sex of the patient",
+    "Presence of tremors",
+    "Response to apomorphine"
+   ],
+   "ans": 0,
+   "exp": "The significant branch splits at 65 years of age. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-151",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "A patient aged 50 years with significant limitation of daily activities should receive:",
+   "opts": [
+    "A dopamine agonist such as pramipexole",
+    "Levodopa",
+    "Apomorphine",
+    "No drug"
+   ],
+   "ans": 0,
+   "exp": "Below 65 years the drug listed is a dopamine agonist, pramipexole. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-152",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "A patient aged 72 years with significant limitation of daily activities should receive:",
+   "opts": [
+    "Levodopa",
+    "A dopamine agonist",
+    "Selegiline",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "Above 65 years the drug listed is levodopa. (Book p149)"
+  },
+  {
+   "id": "PHARM-C36-153",
+   "sec": "Protocol for Treatment of Parkinson's Disease",
+   "page": 149,
+   "q": "Which statement summarises the protocol correctly?",
+   "opts": [
+    "Minimal effect needs no drug or an MAO-B inhibitor, significant effect needs a dopamine agonist below 65 years and levodopa above 65 years",
+    "All patients should receive levodopa regardless of age",
+    "All patients should receive a dopamine agonist regardless of age",
+    "Apomorphine is the initial drug in every patient"
+   ],
+   "ans": 0,
+   "exp": "The protocol branches on the effect on daily life and then on age at 65 years. (Book p149)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U36-1",
+   "ch": 36,
+   "n": 1,
+   "title": "Neurodegenerative Disorders: Overview",
+   "sec": "Neurodegenerative Disorders: Overview · p145",
+   "qs": [
+    "PHARM-C36-001",
+    "PHARM-C36-002",
+    "PHARM-C36-003",
+    "PHARM-C36-004",
+    "PHARM-C36-005",
+    "PHARM-C36-006",
+    "PHARM-C36-007",
+    "PHARM-C36-008",
+    "PHARM-C36-009",
+    "PHARM-C36-010"
+   ],
+   "guide": "The neurodegenerative chapter opens with the common cause of these disorders: free radical damage to cells, which is increased by excitatory neurotransmitters. Three diseases are then set out side by side. Alzheimer's disease is a state of reduced acetylcholine and presents with memory loss. Amyotrophic lateral sclerosis is death of motor neurons and presents with muscle spasticity. Parkinson's disease is death of dopaminergic neurons in the corpus striatum with a fall in dopamine levels, presenting with tremors and bradykinesia."
+  },
+  {
+   "id": "PHARM-U36-2",
+   "ch": 36,
+   "n": 2,
+   "title": "Drugs for Alzheimer's Disease: Cholinergics",
+   "sec": "Drugs for Alzheimer's Disease: Cholinergics · p145",
+   "qs": [
+    "PHARM-C36-011",
+    "PHARM-C36-012",
+    "PHARM-C36-013",
+    "PHARM-C36-014",
+    "PHARM-C36-015",
+    "PHARM-C36-016",
+    "PHARM-C36-017",
+    "PHARM-C36-018",
+    "PHARM-C36-019",
+    "PHARM-C36-020",
+    "PHARM-C36-021",
+    "PHARM-C36-022",
+    "PHARM-C36-023"
+   ],
+   "guide": "Cholinergics are the most preferred drugs for Alzheimer's disease. They act by blocking acetylcholinesterase so that acetylcholine levels rise. Four drugs are named in order. Tacrine is not preferred because of hepatotoxicity. Rivastigmine is used in mild to moderate disease. Galantamine is listed third. Donepezil is the drug of choice and can be used in mild, moderate or severe disease."
+  },
+  {
+   "id": "PHARM-U36-3",
+   "ch": 36,
+   "n": 3,
+   "title": "Memantine",
+   "sec": "Memantine · p145",
+   "qs": [
+    "PHARM-C36-024",
+    "PHARM-C36-025",
+    "PHARM-C36-026",
+    "PHARM-C36-027",
+    "PHARM-C36-028",
+    "PHARM-C36-029"
+   ],
+   "guide": "Memantine appears after the cholinergics as the option when there is no response. It is an add-on drug whose mechanism is blockade of NMDA receptors, so it complements rather than replaces the cholinergic approach."
+  },
+  {
+   "id": "PHARM-U36-4",
+   "ch": 36,
+   "n": 4,
+   "title": "Anti-beta Amyloid Monoclonal Antibodies",
+   "sec": "Anti-beta Amyloid Monoclonal Antibodies · p145",
+   "qs": [
+    "PHARM-C36-030",
+    "PHARM-C36-031",
+    "PHARM-C36-032",
+    "PHARM-C36-033",
+    "PHARM-C36-034",
+    "PHARM-C36-035",
+    "PHARM-C36-036"
+   ],
+   "guide": "The second group of Alzheimer's drugs is the anti-beta amyloid monoclonal antibodies. Their use is restricted to mild disease and to patients in whom MRI has confirmed beta amyloid deposition in the brain. Aducanumab blocks fibrils while lecanemab blocks protofibrils."
+  },
+  {
+   "id": "PHARM-U36-5",
+   "ch": 36,
+   "n": 5,
+   "title": "Nootropic Drugs",
+   "sec": "Nootropic Drugs · p145",
+   "qs": [
+    "PHARM-C36-037",
+    "PHARM-C36-038",
+    "PHARM-C36-039",
+    "PHARM-C36-040",
+    "PHARM-C36-041",
+    "PHARM-C36-042",
+    "PHARM-C36-043"
+   ],
+   "guide": "The third group is the nootropic drugs, described as memory enhancers. They are not FDA approved for Alzheimer's disease and their mechanism of action is unknown. The drugs named are piribedil, piracetam, citicoline and cerebrolysin."
+  },
+  {
+   "id": "PHARM-U36-6",
+   "ch": 36,
+   "n": 6,
+   "title": "Drugs for ALS: Preventing Neurodegeneration",
+   "sec": "Drugs for ALS: Preventing Neurodegeneration · p146",
+   "qs": [
+    "PHARM-C36-044",
+    "PHARM-C36-045",
+    "PHARM-C36-046",
+    "PHARM-C36-047",
+    "PHARM-C36-048",
+    "PHARM-C36-049",
+    "PHARM-C36-050",
+    "PHARM-C36-051",
+    "PHARM-C36-052",
+    "PHARM-C36-053",
+    "PHARM-C36-054",
+    "PHARM-C36-055",
+    "PHARM-C36-056",
+    "PHARM-C36-057"
+   ],
+   "guide": "Drugs for amyotrophic lateral sclerosis are divided into those that prevent neurodegeneration and those that treat muscle spasticity. Under prevention, riluzole is the drug of choice and blocks sodium channels to reduce glutamate. Edaravone is an add-on drug acting as a free radical scavenger. Sodium phenylbutyrate is combined with taurursodiol, which is anti-apoptotic, and inhibits histone deacetylase. Tofersen is a new antisense oligonucleotide that blocks the messenger RNA of superoxide dismutase 1 and is used in ALS with an SOD1 gene mutation."
+  },
+  {
+   "id": "PHARM-U36-7",
+   "ch": 36,
+   "n": 7,
+   "title": "Muscle Spasticity in ALS and Related Notes",
+   "sec": "Muscle Spasticity in ALS and Related Notes · p146",
+   "qs": [
+    "PHARM-C36-058",
+    "PHARM-C36-059",
+    "PHARM-C36-060",
+    "PHARM-C36-061",
+    "PHARM-C36-062",
+    "PHARM-C36-063"
+   ],
+   "guide": "Muscle spasticity in ALS is treated with baclofen, a muscle relaxant acting as a GABA receptor agonist. Two notes close the ALS section: trofinetide is the only drug for Rett syndrome and omaveloxolone is the only drug for Friedreich's ataxia."
+  },
+  {
+   "id": "PHARM-U36-8",
+   "ch": 36,
+   "n": 8,
+   "title": "Synthesis and Metabolism of Dopamine",
+   "sec": "Synthesis and Metabolism of Dopamine · p146",
+   "qs": [
+    "PHARM-C36-064",
+    "PHARM-C36-065",
+    "PHARM-C36-066",
+    "PHARM-C36-067",
+    "PHARM-C36-068",
+    "PHARM-C36-069",
+    "PHARM-C36-070",
+    "PHARM-C36-071",
+    "PHARM-C36-072",
+    "PHARM-C36-073"
+   ],
+   "guide": "The Parkinson's section begins with the dopamine synapse. Tyrosine is converted to dopa with vitamin B as cofactor, dopa is converted to dopamine by dopa decarboxylase, dopamine is taken into the synaptic vesicle by VMAT-2 and released to act on the post-synaptic neuron. Dopamine is then metabolised by MAO-B and COMT. MAO-B stands for monoamine oxidase B in brain and COMT for catechol-O-methyl transferase."
+  },
+  {
+   "id": "PHARM-U36-9",
+   "ch": 36,
+   "n": 9,
+   "title": "Levodopa",
+   "sec": "Levodopa · p147",
+   "qs": [
+    "PHARM-C36-074",
+    "PHARM-C36-075",
+    "PHARM-C36-076",
+    "PHARM-C36-077",
+    "PHARM-C36-078",
+    "PHARM-C36-079",
+    "PHARM-C36-080",
+    "PHARM-C36-081",
+    "PHARM-C36-082",
+    "PHARM-C36-083",
+    "PHARM-C36-084",
+    "PHARM-C36-085",
+    "PHARM-C36-086",
+    "PHARM-C36-087",
+    "PHARM-C36-088",
+    "PHARM-C36-089",
+    "PHARM-C36-090",
+    "PHARM-C36-091",
+    "PHARM-C36-092",
+    "PHARM-C36-093"
+   ],
+   "guide": "Levodopa is the best drug for Parkinson's disease and the drug of choice in patients above 65 years. It is the levo-isomer of dopa and a prodrug of dopamine, converted by dopa decarboxylase. Efficacy is increased by carbidopa, a lipid insoluble dopa analogue that does not cross the blood brain barrier and reduces peripheral metabolism of levodopa, and by entacapone, a COMT inhibitor that blocks first pass metabolism and raises oral bioavailability. Efficacy is reduced by vitamin B6, which increases the activity of dopa decarboxylase. Side effects are recalled by the mnemonic DOPA: dyskinesia from excess dopamine, treated with amantadine; orthostatic hypotension; psychosis from D2 stimulation, which also causes nausea and vomiting; and angle closure glaucoma from mydriasis. Psychosis is an absolute contraindication, while angle closure glaucoma, peptic ulcer disease and melanoma are relative contraindications."
+  },
+  {
+   "id": "PHARM-U36-10",
+   "ch": 36,
+   "n": 10,
+   "title": "Dopamine Agonists",
+   "sec": "Dopamine Agonists · p147",
+   "qs": [
+    "PHARM-C36-094",
+    "PHARM-C36-095",
+    "PHARM-C36-096",
+    "PHARM-C36-097",
+    "PHARM-C36-098",
+    "PHARM-C36-099",
+    "PHARM-C36-100",
+    "PHARM-C36-101",
+    "PHARM-C36-102",
+    "PHARM-C36-103",
+    "PHARM-C36-104",
+    "PHARM-C36-105",
+    "PHARM-C36-106",
+    "PHARM-C36-107",
+    "PHARM-C36-108"
+   ],
+   "guide": "The dopamine agonists are pramipexole and ropinirole, both oral, and rotigotine which is given orally or as a transdermal patch. They are the drugs of choice in patients below 65 years and are not preferred above 65 years. They are also used in restless leg syndrome. Their side effects are fatigue and compulsive behaviours such as compulsive sexual activity and gambling. Apomorphine is given subcutaneously as rescue therapy for the on-off phenomenon; it causes severe nausea and vomiting for which trimethobenzamide is the drug of choice, started three hours before apomorphine and continued for a few months, while ondansetron is contraindicated because of the risk of hypotension."
+  },
+  {
+   "id": "PHARM-U36-11",
+   "ch": 36,
+   "n": 11,
+   "title": "MAO-B Inhibitors",
+   "sec": "MAO-B Inhibitors · p148",
+   "qs": [
+    "PHARM-C36-109",
+    "PHARM-C36-110",
+    "PHARM-C36-111",
+    "PHARM-C36-112",
+    "PHARM-C36-113",
+    "PHARM-C36-114",
+    "PHARM-C36-115",
+    "PHARM-C36-116",
+    "PHARM-C36-117",
+    "PHARM-C36-118"
+   ],
+   "guide": "The MAO-B inhibitors are classified as irreversible and reversible. Rasagiline and selegiline are irreversible, and selegiline is additionally said to prevent neurodegeneration; selegiline is metabolised to amphetamine, which causes anxiety and insomnia. Safinamide is the reversible agent. These drugs are used for the on-off phenomenon and as initial treatment in young onset Parkinson's disease."
+  },
+  {
+   "id": "PHARM-U36-12",
+   "ch": 36,
+   "n": 12,
+   "title": "COMT Inhibitors",
+   "sec": "COMT Inhibitors · p148",
+   "qs": [
+    "PHARM-C36-119",
+    "PHARM-C36-120",
+    "PHARM-C36-121",
+    "PHARM-C36-122",
+    "PHARM-C36-123",
+    "PHARM-C36-124",
+    "PHARM-C36-125",
+    "PHARM-C36-126"
+   ],
+   "guide": "The COMT inhibitors are reversible and are the drugs of choice for the on-off phenomenon. Entacapone and opicapone are named, and tolcapone is noted for its greater potency but is hepatotoxic."
+  },
+  {
+   "id": "PHARM-U36-13",
+   "ch": 36,
+   "n": 13,
+   "title": "Amantadine",
+   "sec": "Amantadine · p148",
+   "qs": [
+    "PHARM-C36-127",
+    "PHARM-C36-128",
+    "PHARM-C36-129",
+    "PHARM-C36-130",
+    "PHARM-C36-131",
+    "PHARM-C36-132",
+    "PHARM-C36-133",
+    "PHARM-C36-134",
+    "PHARM-C36-135",
+    "PHARM-C36-136"
+   ],
+   "guide": "Amantadine has a dual mechanism: it is anticholinergic and blocks NMDA receptors, and it augments dopamine. It is the drug of choice for levodopa induced dyskinesia and can be used as initial treatment for Parkinson's disease. Its side effects are ankle oedema and livedo reticularis, a purple pigmentation. The note reminds that purple toe syndrome from warfarin involves only the foot and that amlodipine causes ankle oedema."
+  },
+  {
+   "id": "PHARM-U36-14",
+   "ch": 36,
+   "n": 14,
+   "title": "On-Off Phenomena",
+   "sec": "On-Off Phenomena · p148",
+   "qs": [
+    "PHARM-C36-137",
+    "PHARM-C36-138",
+    "PHARM-C36-139",
+    "PHARM-C36-140",
+    "PHARM-C36-141"
+   ],
+   "guide": "The on-off phenomenon is a complication seen with levodopa, and the page relates it to deficiency that becomes apparent as the disease progresses. It is the indication for COMT inhibitors, for the reversible MAO-B inhibitor safinamide and for apomorphine as rescue therapy."
+  },
+  {
+   "id": "PHARM-U36-15",
+   "ch": 36,
+   "n": 15,
+   "title": "Protocol for Treatment of Parkinson's Disease",
+   "sec": "Protocol for Treatment of Parkinson's Disease · p149",
+   "qs": [
+    "PHARM-C36-142",
+    "PHARM-C36-143",
+    "PHARM-C36-144",
+    "PHARM-C36-145",
+    "PHARM-C36-146",
+    "PHARM-C36-147",
+    "PHARM-C36-148",
+    "PHARM-C36-149",
+    "PHARM-C36-150",
+    "PHARM-C36-151",
+    "PHARM-C36-152",
+    "PHARM-C36-153"
+   ],
+   "guide": "The management table gives a sequence: entacapone is the drug of choice, with a dopamine agonist or an MAO-B inhibitor as alternatives when there is no response, and apomorphine as rescue therapy. The treatment protocol begins with the effect of symptoms on daily life. If the effect is minimal, no drug is prescribed unless the patient requests one, in which case an MAO-B inhibitor such as selegiline is the drug of choice and amantadine the alternative. If the effect is significant, patients below 65 years receive a dopamine agonist such as pramipexole while patients above 65 years receive levodopa."
+  }
+ ]
+}
