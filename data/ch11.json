@@ -1,0 +1,1366 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C11-001",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Pharmacology is best defined as the study of:",
+   "opts": [
+    "Structure, effect (MOA), side effects and contraindications of drugs",
+    "Drugs derived from plants",
+    "Compounding and dispensing of drugs",
+    "Use of drugs in cancer and infection"
+   ],
+   "ans": 0,
+   "exp": "The definition on the page: 'Pharmacology : Study of structure, effect (MOA), side effects, contraindication of drugs'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-002",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Pharmacotherapeutics is the study of:",
+   "opts": [
+    "A drug in service of disease (dose, route and response)",
+    "Drugs derived from plants",
+    "The structure of a drug molecule",
+    "Compounding and dispensing of drugs"
+   ],
+   "ans": 0,
+   "exp": "The page defines pharmacotherapeutics as 'Study of a drug in service of disease (dose, route & response)'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-003",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Pharmacognosy is the study of:",
+   "opts": [
+    "Drugs derived from plants",
+    "Drugs derived from animals",
+    "Synthetic drug design",
+    "Drug dispensing"
+   ],
+   "ans": 0,
+   "exp": "The definition reads 'Pharmacognosy : Study of drugs derived from plants'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-004",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Chemotherapy is the use of drugs in the treatment of:",
+   "opts": [
+    "Cancer and infection",
+    "Hypertension and diabetes",
+    "Pain and inflammation",
+    "Psychiatric disorders"
+   ],
+   "ans": 0,
+   "exp": "The page writes 'Chemotherapy : use of drugs in treatment of cancer and infection'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-005",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Pharmacy is the branch that deals with:",
+   "opts": [
+    "Compounding and dispensing of drugs",
+    "The study of plant drugs",
+    "The mechanism of action of drugs",
+    "Drug regulatory affairs"
+   ],
+   "ans": 0,
+   "exp": "Pharmacy is defined as the branch dealing with compounding and dispensing of drugs. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-006",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "The term 'compounding' in pharmacy is bracketed on the page with:",
+   "opts": [
+    "Mixing of drugs (obsolete)",
+    "Dispensing of drugs",
+    "Storage of drugs",
+    "Barcoding"
+   ],
+   "ans": 0,
+   "exp": "A bracket under 'compounding' explains it as 'mixing of drugs (obsolete)'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-007",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "Barcoding in pharmacy is described as:",
+   "opts": [
+    "Technology for dispensing the right drug to avoid errors",
+    "A method of mixing drugs",
+    "A technique of drug storage",
+    "A method of drug pricing"
+   ],
+   "ans": 0,
+   "exp": "The page notes 'Barcoding - Technology for dispensing right drug to avoid errors'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-008",
+   "sec": "Definitions",
+   "page": 33,
+   "q": "A drug is defined as a chemical with:",
+   "opts": [
+    "A known structure that alters the pathophysiology for therapeutic gain",
+    "An unknown structure that alters physiology",
+    "Any natural product used in disease",
+    "A chemical that only prevents disease"
+   ],
+   "ans": 0,
+   "exp": "The definition reads 'Drug : Chemical with a known structure that alters the pathophysiology for therapeutic gain'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-009",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "The four sources of drugs listed are:",
+   "opts": [
+    "Natural, semisynthetic, synthetic and genetic engineering",
+    "Plant, animal, mineral and marine",
+    "Natural, herbal, chemical and biological",
+    "Plant, microbial, synthetic and recombinant"
+   ],
+   "ans": 0,
+   "exp": "The drug sources flow chart branches into natural, semisynthetic (modified natural chemical), synthetic (rational drug designing) and genetic engineering. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-010",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Which plant sources of drugs are listed?",
+   "opts": [
+    "Quinine, digoxin and morphine (poppy plant)",
+    "Quinine, insulin and heparin",
+    "Digoxin, atropine and reserpine",
+    "Morphine, codeine and papaverine"
+   ],
+   "ans": 0,
+   "exp": "The plants branch lists quinine, digoxin and morphine (poppy plant). (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-011",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Which animal peptides are given as drug sources?",
+   "opts": [
+    "Insulin and heparin (porcine mucosa)",
+    "Insulin and glucagon",
+    "Heparin and streptokinase",
+    "Vasopressin and oxytocin"
+   ],
+   "ans": 0,
+   "exp": "The animal peptides listed are insulin and heparin (porcine mucosa). (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-012",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Antibiotics are obtained from:",
+   "opts": [
+    "Microorganisms",
+    "Plants",
+    "Animals",
+    "Genetic engineering"
+   ],
+   "ans": 0,
+   "exp": "Under natural sources the third branch is 'microorganisms : Antibiotics'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-013",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Apomorphine, a dopamine agonist used in Parkinson's disease, is an example of a:",
+   "opts": [
+    "Semisynthetic (modified natural chemical)",
+    "Synthetic drug",
+    "Natural plant drug",
+    "Genetically engineered product"
+   ],
+   "ans": 0,
+   "exp": "Apomorphine (Da agonist used in parkinsonism) is the example under semisynthetic - a modified natural chemical. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-014",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Synthetic drugs are designed by:",
+   "opts": [
+    "Rational drug designing",
+    "Random screening of plants",
+    "Gene transfer",
+    "Fermentation of microbes"
+   ],
+   "ans": 0,
+   "exp": "The synthetic branch reads 'Rational drug designing'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-015",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "In rational drug designing, the drug is designed:",
+   "opts": [
+    "Complementary to a receptor, binding and inhibiting, resulting in modification of the disease",
+    "To mimic a plant alkaloid exactly",
+    "By introducing a gene into a cell line",
+    "By extracting the active principle from animal tissue"
+   ],
+   "ans": 0,
+   "exp": "The page describes the synthetic group as designed complementary to a receptor, binding and inhibiting, resulting in modification of the disease. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-016",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "Genetic engineering is defined in the drug sources chart as:",
+   "opts": [
+    "The process of introducing a gene in a cell line to obtain a product",
+    "The process of modifying a natural chemical",
+    "The process of chemical synthesis",
+    "Extraction of drugs from plants"
+   ],
+   "ans": 0,
+   "exp": "The chart reads 'Genetic Engineering : process of introducing a gene in a cell line in outcome of a product'. (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-017",
+   "sec": "Drug Sources",
+   "page": 33,
+   "q": "The example given for a genetically engineered drug product is:",
+   "opts": [
+    "Human insulin (gene) giving regular insulin (peptide)",
+    "Porcine insulin",
+    "Apomorphine",
+    "Heparin from porcine mucosa"
+   ],
+   "ans": 0,
+   "exp": "The chart gives human insulin (gene) → regular insulin (peptide). (Book p33)"
+  },
+  {
+   "id": "PHARM-C11-018",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The three types of drug nomenclature are:",
+   "opts": [
+    "Chemical, generic/non proprietary and branded/proprietary",
+    "Chemical, biological and trade",
+    "Official, generic and patented",
+    "Code, generic and brand"
+   ],
+   "ans": 0,
+   "exp": "The nomenclature flow chart branches into chemical, generic/non proprietary and branded/proprietary names. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-019",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "A chemical name of a drug is:",
+   "opts": [
+    "A long name based on structure",
+    "An abbreviated name",
+    "The manufacturer's name",
+    "The name in the pharmacopoeia"
+   ],
+   "ans": 0,
+   "exp": "The chemical branch reads 'Long names based on structure'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-020",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "Generic/non proprietary names are:",
+   "opts": [
+    "Abbreviated names, e.g. propranolol",
+    "Long names based on structure",
+    "Names given by the manufacturer",
+    "Trade names"
+   ],
+   "ans": 0,
+   "exp": "The generic/non proprietary branch lists abbreviated names with propranolol as the example. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-021",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The suffix '-lol' indicates:",
+   "opts": [
+    "β blockers",
+    "ACE inhibitors",
+    "Proton pump inhibitors",
+    "Calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "The suffix list reads 'lol → β blockers'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-022",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The suffix '-pril' indicates:",
+   "opts": [
+    "ACE inhibitors",
+    "β blockers",
+    "Proton pump inhibitors",
+    "Statins"
+   ],
+   "ans": 0,
+   "exp": "The suffix list reads 'Pril → ACE inhibitor'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-023",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The suffix '-prazole' indicates:",
+   "opts": [
+    "Proton pump inhibitors",
+    "ACE inhibitors",
+    "β blockers",
+    "Antifungals"
+   ],
+   "ans": 0,
+   "exp": "The suffix list reads 'Prazole → PPI'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-024",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "Branded/proprietary names are:",
+   "opts": [
+    "Drug names given by the manufacturer",
+    "Abbreviated generic names",
+    "Names based on chemical structure",
+    "Official pharmacopoeial names"
+   ],
+   "ans": 0,
+   "exp": "The branded/proprietary branch reads 'Drug names by the manufacturer'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-025",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "A drug compendium is:",
+   "opts": [
+    "A book containing comprehensive and organised information about drugs",
+    "A list of drug prices",
+    "A formulary of hospital drugs only",
+    "A catalogue of clinical trials"
+   ],
+   "ans": 0,
+   "exp": "The definition given is 'Book containing comprehensive and organised information about drugs'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-026",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The Indian Pharmacopoeia is prepared by:",
+   "opts": [
+    "Pharmacists",
+    "Doctors",
+    "Nurses",
+    "Drug manufacturers"
+   ],
+   "ans": 0,
+   "exp": "The 'made by' row of the Indian compendia table gives pharmacists for IP and doctors for the drug formulary. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-027",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The drug formulary is made by:",
+   "opts": [
+    "Doctors",
+    "Pharmacists",
+    "Regulatory authorities",
+    "Manufacturers"
+   ],
+   "ans": 0,
+   "exp": "The 'made by' row for drug formulary is doctors, in contrast to pharmacists for the Indian Pharmacopoeia. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-028",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The Indian Pharmacopoeia gives information about:",
+   "opts": [
+    "Structure, storage and purity of drugs",
+    "Usage, mechanism of action, side-effects and contraindications",
+    "Only the cost of drugs",
+    "Only drug interactions"
+   ],
+   "ans": 0,
+   "exp": "The IP column of the information row lists structure, storage and purity. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-029",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The drug formulary gives information about:",
+   "opts": [
+    "Usage, mechanism of action, side-effects and contraindications",
+    "Structure, storage and purity",
+    "Bioavailability and half-life",
+    "The manufacturing process"
+   ],
+   "ans": 0,
+   "exp": "The drug formulary column lists usage, mechanism of action, side effects and contraindications. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-030",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The Indian Pharmacopoeia is used by:",
+   "opts": [
+    "Drug manufacturers and drug regulatory authorities",
+    "Doctors for prescribing drugs",
+    "Patients only",
+    "Nurses only"
+   ],
+   "ans": 0,
+   "exp": "The 'used by' row of the IP column gives drug manufacturers and drug regulatory authorities. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-031",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The drug formulary is used by:",
+   "opts": [
+    "Doctors, for prescribing drugs",
+    "Drug manufacturers",
+    "Regulatory authorities",
+    "Pharmacists for compounding"
+   ],
+   "ans": 0,
+   "exp": "The 'used by' row for the drug formulary reads 'Doctors : For prescribing drugs'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-032",
+   "sec": "Drug Nomenclature and Compendia",
+   "page": 34,
+   "q": "The note at the end of the drug compendia section says:",
+   "opts": [
+    "A prescription must contain generic names",
+    "A prescription must contain brand names",
+    "A prescription must contain chemical names",
+    "Only doctors may read the formulary"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'Prescription must contain generic names'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-033",
+   "sec": "Routes of Drug Administration: Local Drugs",
+   "page": 34,
+   "q": "Local drugs act:",
+   "opts": [
+    "At the site of application",
+    "Only after reaching the systemic circulation",
+    "Only after hepatic metabolism",
+    "Only on the central nervous system"
+   ],
+   "ans": 0,
+   "exp": "The first bullet under local drugs says 'Drugs act at the site of application'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-034",
+   "sec": "Routes of Drug Administration: Local Drugs",
+   "page": 34,
+   "q": "Which of these is an advantage of local drug administration?",
+   "opts": [
+    "It increases the effect of drugs and decreases systemic side effects",
+    "It increases systemic side effects",
+    "It increases first pass metabolism",
+    "It never works at the site of application"
+   ],
+   "ans": 0,
+   "exp": "The bullets state local drugs increase the effect of drugs and decrease the systemic side effects. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-035",
+   "sec": "Routes of Drug Administration: Local Drugs",
+   "page": 34,
+   "q": "Topical drugs applied on the skin include:",
+   "opts": [
+    "Steroid antibiotics",
+    "Bladder cancer drugs",
+    "Antiglaucoma drugs",
+    "Nitroglycerin"
+   ],
+   "ans": 0,
+   "exp": "The topical flow reads 'Site → Skin (Steroid Antibiotics)'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-036",
+   "sec": "Routes of Drug Administration: Local Drugs",
+   "page": 34,
+   "q": "Bladder cancer drugs are given topically on the:",
+   "opts": [
+    "Mucous membrane",
+    "Skin",
+    "Eye",
+    "Nasal mucosa"
+   ],
+   "ans": 0,
+   "exp": "The topical branch reads 'mucous membrane (bladder cancer drugs)'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-037",
+   "sec": "Routes of Drug Administration: Local Drugs",
+   "page": 34,
+   "q": "Which class of drugs is applied topically to the eye?",
+   "opts": [
+    "Drugs used in cases of glaucoma",
+    "Steroid antibiotics",
+    "Bladder cancer drugs",
+    "Tocolytic drugs"
+   ],
+   "ans": 0,
+   "exp": "The topical branch reads 'eye (drugs used in cases of glaucoma)'. (Book p34)"
+  },
+  {
+   "id": "PHARM-C11-038",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Intrathecal injection means injection:",
+   "opts": [
+    "Into CSF via the subarachnoid space by lumbar puncture",
+    "Into a joint cavity",
+    "Directly into an artery",
+    "Into the skin"
+   ],
+   "ans": 0,
+   "exp": "The site of the intrathecal route is 'into CSF by injection into subarachnoid space by means of lumbar puncture'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-039",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "The main purpose of the intrathecal route is to:",
+   "opts": [
+    "Bypass the blood-brain barrier",
+    "Avoid first pass metabolism",
+    "Give a large volume of drug",
+    "Produce a local effect on skin"
+   ],
+   "ans": 0,
+   "exp": "The first use given is 'Bypass blood-brain barrier (Aminoglycosides in case of meningitis)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-040",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Which drug is given intrathecally in meningitis?",
+   "opts": [
+    "Aminoglycosides",
+    "Baclofen",
+    "Methotrexate",
+    "Lidocaine"
+   ],
+   "ans": 0,
+   "exp": "The example for bypassing the blood-brain barrier is aminoglycosides in case of meningitis. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-041",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Lidocaine and bupivacaine given intrathecally are used for:",
+   "opts": [
+    "Lumbosacral anesthesia",
+    "CNS leukemia",
+    "Amyotrophic lateral sclerosis",
+    "Meningitis"
+   ],
+   "ans": 0,
+   "exp": "The bullet reads 'Lidocaine, Bupivacaine (Lumbosacral anesthesia)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-042",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Methotrexate is given by the intrathecal route in:",
+   "opts": [
+    "CNS leukemia",
+    "Lumbosacral anesthesia",
+    "Meningitis",
+    "Rheumatoid arthritis"
+   ],
+   "ans": 0,
+   "exp": "The page lists 'methotrexate in CNS leukemia' under intrathecal use. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-043",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Baclofen is given intrathecally in amyotrophic lateral sclerosis because:",
+   "opts": [
+    "Being planted in the subarachnoid space it releases muscle relaxant periodically",
+    "It bypasses the blood-brain barrier only once",
+    "It is too irritant for oral use",
+    "It has no oral absorption at all"
+   ],
+   "ans": 0,
+   "exp": "The page explains that baclofen in ALS is planted in the subarachnoid space and releases muscle relaxant periodically. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-044",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Steroids injected into a joint in rheumatoid arthritis represent which route?",
+   "opts": [
+    "Intraarticular",
+    "Intrathecal",
+    "Intraarterial",
+    "Subcutaneous"
+   ],
+   "ans": 0,
+   "exp": "The line 'Intraarticular : Eg → Steroids in rheumatoid arthritis' defines this route. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-045",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "The intraarterial route means injecting:",
+   "opts": [
+    "Directly into the artery supplying the organ, avoiding systemic circulation",
+    "Into the subarachnoid space",
+    "Into a joint space",
+    "Into the subcutaneous fat"
+   ],
+   "ans": 0,
+   "exp": "The definition given is 'Directly into the artery supplying organ (Avoids system circulation)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-046",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "page": 35,
+   "q": "Which cancers are treated by the intraarterial route?",
+   "opts": [
+    "Head & neck cancer and hepatocellular cancer",
+    "CNS leukemia and bladder cancer",
+    "Lung cancer and breast cancer",
+    "Melanoma and sarcoma"
+   ],
+   "ans": 0,
+   "exp": "The uses listed for the intraarterial route are head & neck cancer and hepatocellular cancer. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-047",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The most common route of drug administration is:",
+   "opts": [
+    "Oral",
+    "Rectal",
+    "Sublingual",
+    "Intravenous"
+   ],
+   "ans": 0,
+   "exp": "The oral row of the enteral table begins 'm/c route'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-048",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The advantages of the oral route include:",
+   "opts": [
+    "Cost effective, convenient and safest",
+    "Fastest onset with 100% bioavailability",
+    "No first pass metabolism",
+    "Useful in unconscious patients"
+   ],
+   "ans": 0,
+   "exp": "The oral advantages are cost effective, convenient and safest. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-049",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The oral route has maximum first pass metabolism because:",
+   "opts": [
+    "100% of the drug reaches the portal vein",
+    "50% reaches the portal vein",
+    "It is absorbed into the inferior vena cava",
+    "It is absorbed from the rectum"
+   ],
+   "ans": 0,
+   "exp": "The disadvantage reads 'maximum first pass metabolism (100% → Portal vein)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-050",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Absorption after oral administration is described as the most variable because of:",
+   "opts": [
+    "Differences in lipid solubility, food intake and HCl",
+    "Differences in renal function only",
+    "Differences in plasma protein binding",
+    "Differences in cardiac output"
+   ],
+   "ans": 0,
+   "exp": "The second oral disadvantage is most variable absorption due to difference in lipid solubility, food, intake and HCl. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-051",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Large molecular drugs like proteins have:",
+   "opts": [
+    "Poor oral absorption",
+    "Excellent oral absorption",
+    "No first pass metabolism",
+    "100% oral bioavailability"
+   ],
+   "ans": 0,
+   "exp": "The oral disadvantage notes 'Large molecular drugs have poor oral absorption (like proteins)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-052",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Which drugs are listed as used by the oral route?",
+   "opts": [
+    "Lipid soluble drugs and small molecule drugs",
+    "Peptides and proteins",
+    "Nitroglycerin and ergotamine",
+    "Aminoglycosides and baclofen"
+   ],
+   "ans": 0,
+   "exp": "The oral 'drugs used' cell gives lipid soluble drugs and small molecule drugs. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-053",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The advantage of the rectal route over oral is:",
+   "opts": [
+    "Faster effect with 50% less first pass metabolism",
+    "100% bioavailability",
+    "No first pass metabolism at all",
+    "It is the safest route"
+   ],
+   "ans": 0,
+   "exp": "The rectal advantages are a faster effect and 50% less first pass metabolism than the oral route. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-054",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "In the rectal route, the drug absorbed enters:",
+   "opts": [
+    "50% portal vein and 50% IVC (systemic circulation)",
+    "100% portal vein",
+    "100% inferior vena cava",
+    "Lymphatics only"
+   ],
+   "ans": 0,
+   "exp": "The bracket reads '(50% : Portal vein) (50% : IVC Systemic circulation)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-055",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The disadvantage of the rectal route is that it is:",
+   "opts": [
+    "Inconvenient",
+    "Costly",
+    "Unsafe",
+    "Slow in onset"
+   ],
+   "ans": 0,
+   "exp": "The only disadvantage listed for the rectal route is 'Inconvenient'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-056",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Diazepam by the rectal route is used in children for:",
+   "opts": [
+    "Febrile seizures",
+    "Meningitis",
+    "Glaucoma",
+    "Status asthmaticus"
+   ],
+   "ans": 0,
+   "exp": "The rectal drugs cell gives 'Diazepam in children for febrile seizures'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-057",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "In febrile seizures of children, which drug is preferred over diazepam rectally?",
+   "opts": [
+    "Midazolam",
+    "Lorazepam",
+    "Phenobarbitone",
+    "Nitroglycerin"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis reads '(midazolam preferred)'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-058",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "In the sublingual route, the drug is absorbed into the:",
+   "opts": [
+    "SVC and then the heart",
+    "Portal vein and then the liver",
+    "IVC directly",
+    "Lymphatics"
+   ],
+   "ans": 0,
+   "exp": "The sublingual flow chart reads 'under the tongue → SVC → Heart'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-059",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The sublingual route has:",
+   "opts": [
+    "No first pass metabolism and fast cardiac effects",
+    "Maximum first pass metabolism",
+    "Slow onset of action",
+    "Poor bioavailability"
+   ],
+   "ans": 0,
+   "exp": "The sublingual advantages are no first pass metabolism and fast cardiac effects. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-060",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Nitroglycerin (NTG) is spat out after the desired result because:",
+   "opts": [
+    "Absorption of NTG after the desired effect causes postural hypotension",
+    "It stains the teeth",
+    "It causes tachycardia",
+    "It is bitter in taste"
+   ],
+   "ans": 0,
+   "exp": "The sublingual advantage cell explains that NTG is spat out after the desired result since further absorption causes postural hypotension. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-061",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "The disadvantages of the sublingual route are:",
+   "opts": [
+    "Cardiac side effects and teeth discolouration",
+    "Inconvenience and cost",
+    "Postural hypotension only",
+    "Infection and pain"
+   ],
+   "ans": 0,
+   "exp": "The sublingual disadvantages listed are cardiac side effects and teeth discolouration. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-062",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Which drugs are listed as used by the sublingual route?",
+   "opts": [
+    "Nitroglycerin, ergotamine, nifedipine and buprenorphine",
+    "Lipid soluble and small molecule drugs",
+    "Insulin and peptides",
+    "Salbutamol and ipratropium"
+   ],
+   "ans": 0,
+   "exp": "The sublingual drug list is nitroglycerin (angina/MI), ergotamine, nifedipine and buprenorphine. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-063",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Sublingual nifedipine is used because it:",
+   "opts": [
+    "Rapidly lowers BP compared to oral",
+    "Has no cardiac side effects",
+    "Avoids teeth discolouration",
+    "Has a long duration of action"
+   ],
+   "ans": 0,
+   "exp": "The sublingual drug cell notes 'Nifedipine : Rapidly ↓ BP compared to oral'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-064",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual",
+   "page": 35,
+   "q": "Drugs ending with 'tide', 'mab' or 'ase' are identified as:",
+   "opts": [
+    "Proteins",
+    "Lipid soluble drugs",
+    "Small molecule drugs",
+    "Prodrugs"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'Identification of proteins → Drugs ending with tide, mab, ase'. (Book p35)"
+  },
+  {
+   "id": "PHARM-C11-065",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The advantage of the intravenous route is that it is:",
+   "opts": [
+    "Fastest, used in emergency, allows large volume and gives 100% bioavailability",
+    "Self injectable",
+    "Long acting",
+    "Free of all toxicity"
+   ],
+   "ans": 0,
+   "exp": "The IV advantages are fastest (used in emergency), large volume can be given and 100% bioavailability. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-066",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "A drug in an oily medium given intravenously can cause:",
+   "opts": [
+    "Hemolysis",
+    "Skin necrosis",
+    "Cough",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "The IV disadvantage reads 'Drug in oily medium : Hemolysis'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-067",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Epinephrine given intramuscularly is preferred over the intravenous route because IV use causes:",
+   "opts": [
+    "Ventricular tachycardia and cardiac arrest",
+    "Severe hemolysis",
+    "Skin necrosis",
+    "Bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "The example in the IV disadvantage cell is 'Epinephrine i/m > i/v (i/v causes ventricular tachycardia and cardiac arrest)'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-068",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Which drug is given intravenously in hypertensive emergency?",
+   "opts": [
+    "Nicardipine",
+    "Furosemide",
+    "Sumatriptan",
+    "Salbutamol"
+   ],
+   "ans": 0,
+   "exp": "The IV drugs cell lists nicardipine for hypertensive emergency. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-069",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Furosemide is given by which route in pulmonary edema?",
+   "opts": [
+    "Intravenous",
+    "Subcutaneous",
+    "Intranasal",
+    "Inhalational"
+   ],
+   "ans": 0,
+   "exp": "The IV drugs cell lists 'Furosemide in Pulmonary edema'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-070",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Peptides are listed as drugs used by which parenteral routes?",
+   "opts": [
+    "Intravenous, intramuscular and subcutaneous",
+    "Only intravenous",
+    "Only intranasal",
+    "Only subcutaneous"
+   ],
+   "ans": 0,
+   "exp": "Peptides appear in the drugs-used cells of IV, IM and SC routes. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-071",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The advantage of the intramuscular route is that it is:",
+   "opts": [
+    "Self injectable, with right expertise",
+    "The fastest route",
+    "Free of infection risk",
+    "Gives 100% bioavailability"
+   ],
+   "ans": 0,
+   "exp": "The IM advantage reads 'Self injectable, (with right expertise)'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-072",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Infections with the intramuscular route occur due to:",
+   "opts": [
+    "Unsanitary or faulty techniques",
+    "Oily vehicles",
+    "Large volume injection",
+    "Rapid absorption"
+   ],
+   "ans": 0,
+   "exp": "The IM disadvantage reads 'Infections - D/t unsanitary / faulty techniques'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-073",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Which drugs are given intramuscularly and can cause pain as a side effect?",
+   "opts": [
+    "Drugs in oily medium",
+    "Nitroglycerin",
+    "Insulin",
+    "Sumatriptan"
+   ],
+   "ans": 0,
+   "exp": "The IM drugs cell lists peptides, irritants and drugs in oily medium - S/E pain. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-074",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The subcutaneous route gives a long duration of action because:",
+   "opts": [
+    "Of slow absorbing from S.C. fat",
+    "The drug is given in a large volume",
+    "It bypasses the liver",
+    "The drug is highly protein bound"
+   ],
+   "ans": 0,
+   "exp": "The SC advantage is long duration of action due to slow absorbing from S.C. fat. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-075",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The subcutaneous route is contraindicated with irritants because it causes:",
+   "opts": [
+    "Skin necrosis",
+    "Abscess formation only",
+    "Hemolysis",
+    "Cough"
+   ],
+   "ans": 0,
+   "exp": "The SC disadvantage reads 'Skin necrosis with irritants (C/I)'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-076",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Long acting insulin is given by which route?",
+   "opts": [
+    "Subcutaneous",
+    "Intravenous",
+    "Intranasal",
+    "Inhalational"
+   ],
+   "ans": 0,
+   "exp": "The SC drugs cell lists long acting insulin under peptides. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-077",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The intranasal (spray) route has the advantages of:",
+   "opts": [
+    "Rapid effect and bypassing the blood-brain barrier",
+    "100% bioavailability only",
+    "No limit on the dose",
+    "Use in emergency only"
+   ],
+   "ans": 0,
+   "exp": "The intranasal advantages are rapid effect and bypassing the BBB. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-078",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "For the intranasal route:",
+   "opts": [
+    "Only a limited dose can be given and only potent drugs are used",
+    "Large volumes can be given",
+    "Only lipid soluble drugs are used",
+    "It is unsuitable for peptides"
+   ],
+   "ans": 0,
+   "exp": "The intranasal disadvantages are that a limited dose can be administered and only potent drugs are used. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-079",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Which drugs are given by the intranasal spray?",
+   "opts": [
+    "GnRH agonist, sumatriptan and nicotine",
+    "Salbutamol, ipratropium and tobramycin",
+    "Insulin and heparin",
+    "Nicardipine and furosemide"
+   ],
+   "ans": 0,
+   "exp": "The intranasal drugs cell lists peptides like GnRH agonist, sumatriptan and nicotine (in case of headache). (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-080",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The inhalational route has the fastest effect because the lung is:",
+   "opts": [
+    "A highly vascularized organ",
+    "A large organ",
+    "A peripheral organ",
+    "Protected by surfactant"
+   ],
+   "ans": 0,
+   "exp": "The inhalational advantage reads 'Fastest effect - Lung : Highly vascularized organ'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-081",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "The disadvantage of the inhalational route is:",
+   "opts": [
+    "Irritants cause cough",
+    "Skin necrosis",
+    "Hemolysis",
+    "Limited dose only"
+   ],
+   "ans": 0,
+   "exp": "The inhalational disadvantage reads 'Irritants → Cough'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-082",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Afrezza is:",
+   "opts": [
+    "The fastest and shortest acting insulin",
+    "A long acting insulin",
+    "An inhaled anticholinergic",
+    "An inhaled antibiotic"
+   ],
+   "ans": 0,
+   "exp": "The note at the foot of the page reads 'Afrezza → Fastest and Shortest acting insulin'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-083",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Afrezza is given by which route?",
+   "opts": [
+    "Inhalational (systemic)",
+    "Subcutaneous",
+    "Intravenous",
+    "Intranasal"
+   ],
+   "ans": 0,
+   "exp": "Afrezza (insulin) is listed under the systemic drugs of the inhalational route. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-084",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Inhaled gases are grouped under the inhalational route with:",
+   "opts": [
+    "100% bioavailability",
+    "50% bioavailability",
+    "No systemic absorption",
+    "First pass metabolism"
+   ],
+   "ans": 0,
+   "exp": "The inhalational systemic drug list writes 'Inhalational gases (100% bio availability)'. (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-085",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Which drugs are given by the inhalational route for a local effect?",
+   "opts": [
+    "Salbutamol, ipratropium and tobramycin",
+    "Afrezza and inhaled gases",
+    "Sumatriptan and nicotine",
+    "Nicardipine and furosemide"
+   ],
+   "ans": 0,
+   "exp": "The local inhalational list is salbutamol, ipratropium and tobramycin (pseudomonas pneumonia). (Book p36)"
+  },
+  {
+   "id": "PHARM-C11-086",
+   "sec": "Parenteral Routes",
+   "page": 36,
+   "q": "Tobramycin by inhalation is used for:",
+   "opts": [
+    "Pseudomonas pneumonia",
+    "Asthma",
+    "Pulmonary edema",
+    "Tuberculosis"
+   ],
+   "ans": 0,
+   "exp": "The inhalational local drug list gives 'Tobramycin (Pseudomonas pneumonia)'. (Book p36)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U11-1",
+   "ch": 11,
+   "n": 1,
+   "title": "Definitions",
+   "sec": "Definitions · p33",
+   "qs": [
+    "PHARM-C11-001",
+    "PHARM-C11-002",
+    "PHARM-C11-003",
+    "PHARM-C11-004",
+    "PHARM-C11-005",
+    "PHARM-C11-006",
+    "PHARM-C11-007",
+    "PHARM-C11-008"
+   ],
+   "guide": "The chapter opens with definitions. Pharmacology is the study of structure, effect (MOA), side effects and contraindications of drugs; pharmacotherapeutics is the study of a drug in service of disease (dose, route and response); pharmacognosy is the study of drugs derived from plants; chemotherapy is the use of drugs in cancer and infection; and pharmacy deals with compounding - mixing of drugs, now obsolete - and dispensing of drugs, with barcoding used to dispense the right drug and avoid errors. A drug is a chemical with a known structure that alters the pathophysiology for therapeutic gain."
+  },
+  {
+   "id": "PHARM-U11-2",
+   "ch": 11,
+   "n": 2,
+   "title": "Drug Sources",
+   "sec": "Drug Sources · p33",
+   "qs": [
+    "PHARM-C11-009",
+    "PHARM-C11-010",
+    "PHARM-C11-011",
+    "PHARM-C11-012",
+    "PHARM-C11-013",
+    "PHARM-C11-014",
+    "PHARM-C11-015",
+    "PHARM-C11-016",
+    "PHARM-C11-017"
+   ],
+   "guide": "Drugs come from four sources: natural (plants - quinine, digoxin, morphine from the poppy plant; animal peptides - insulin and heparin from porcine mucosa; microorganisms - antibiotics), semisynthetic or modified natural chemicals (apomorphine, a dopamine agonist used in parkinsonism), synthetic drugs made by rational drug designing - designed complementary to a receptor, binding and inhibiting, resulting in modification of the disease - and genetic engineering, the process of introducing a gene in a cell line to obtain a product, e.g. human insulin (gene) giving regular insulin (peptide)."
+  },
+  {
+   "id": "PHARM-U11-3",
+   "ch": 11,
+   "n": 3,
+   "title": "Drug Nomenclature and Compendia",
+   "sec": "Drug Nomenclature and Compendia · p34",
+   "qs": [
+    "PHARM-C11-018",
+    "PHARM-C11-019",
+    "PHARM-C11-020",
+    "PHARM-C11-021",
+    "PHARM-C11-022",
+    "PHARM-C11-023",
+    "PHARM-C11-024",
+    "PHARM-C11-025",
+    "PHARM-C11-026",
+    "PHARM-C11-027",
+    "PHARM-C11-028",
+    "PHARM-C11-029",
+    "PHARM-C11-030",
+    "PHARM-C11-031",
+    "PHARM-C11-032"
+   ],
+   "guide": "Drugs carry a chemical name (long, based on structure), a generic/non proprietary name (abbreviated, e.g. propranolol, with tell-tale suffixes: -lol for β blockers, -pril for ACE inhibitors, -prazole for PPIs) and a branded/proprietary name given by the manufacturer. A compendium is a book of comprehensive organised drug information: the Indian Pharmacopoeia is made by pharmacists, covers structure, storage and purity, and is used by drug manufacturers and regulatory authorities, whereas the drug formulary is made by doctors, covers usage, mechanism of action, side effects and contraindications, and is used by doctors for prescribing. The note to remember is that a prescription must contain generic names."
+  },
+  {
+   "id": "PHARM-U11-4",
+   "ch": 11,
+   "n": 4,
+   "title": "Routes of Drug Administration: Local Drugs",
+   "sec": "Routes of Drug Administration: Local Drugs · p34",
+   "qs": [
+    "PHARM-C11-033",
+    "PHARM-C11-034",
+    "PHARM-C11-035",
+    "PHARM-C11-036",
+    "PHARM-C11-037"
+   ],
+   "guide": "Local drugs act at the site of application, increasing the effect of the drug while decreasing systemic side effects. Topically they are applied to skin (steroid antibiotics), mucous membrane (bladder cancer drugs) and eye (drugs used in glaucoma)."
+  },
+  {
+   "id": "PHARM-U11-5",
+   "ch": 11,
+   "n": 5,
+   "title": "Intrathecal, Intra-articular and Intra-arterial Routes",
+   "sec": "Intrathecal, Intra-articular and Intra-arterial Routes · p35",
+   "qs": [
+    "PHARM-C11-038",
+    "PHARM-C11-039",
+    "PHARM-C11-040",
+    "PHARM-C11-041",
+    "PHARM-C11-042",
+    "PHARM-C11-043",
+    "PHARM-C11-044",
+    "PHARM-C11-045",
+    "PHARM-C11-046"
+   ],
+   "guide": "Intrathecal injection puts the drug into CSF by injection into the subarachnoid space by lumbar puncture; its uses are to bypass the blood-brain barrier (aminoglycosides in meningitis), and to give a local effect on brain/spinal cord with lidocaine and bupivacaine for lumbosacral anesthesia, methotrexate in CNS leukemia, and baclofen in amyotrophic lateral sclerosis - planted in the subarachnoid space, it releases muscle relaxant periodically. Intraarticular injection is exemplified by steroids in rheumatoid arthritis, while the intraarterial route goes directly into the artery supplying the organ, avoiding systemic circulation, and is used for head & neck cancer and hepatocellular cancer."
+  },
+  {
+   "id": "PHARM-U11-6",
+   "ch": 11,
+   "n": 6,
+   "title": "Enteral Routes: Oral, Rectal and Sublingual",
+   "sec": "Enteral Routes: Oral, Rectal and Sublingual · p35",
+   "qs": [
+    "PHARM-C11-047",
+    "PHARM-C11-048",
+    "PHARM-C11-049",
+    "PHARM-C11-050",
+    "PHARM-C11-051",
+    "PHARM-C11-052",
+    "PHARM-C11-053",
+    "PHARM-C11-054",
+    "PHARM-C11-055",
+    "PHARM-C11-056",
+    "PHARM-C11-057",
+    "PHARM-C11-058",
+    "PHARM-C11-059",
+    "PHARM-C11-060",
+    "PHARM-C11-061",
+    "PHARM-C11-062",
+    "PHARM-C11-063",
+    "PHARM-C11-064"
+   ],
+   "guide": "Among enteral routes the oral route is the most common, being cost effective, convenient and safest, but it has maximum first pass metabolism (100% to the portal vein), the most variable absorption (difference in lipid solubility, food, intake, HCl) and poor absorption of large molecules like proteins; lipid soluble and small molecule drugs are used orally. The rectal route acts faster with 50% less first pass metabolism (50% portal vein, 50% IVC) but is inconvenient - diazepam is given rectally in children for febrile seizures, with midazolam preferred. Sublingual drugs are absorbed under the tongue into the SVC and then the heart, giving no first pass metabolism and fast cardiac effects (NTG is spat out after the desired result, since further absorption causes postural hypotension); disadvantages are cardiac side effects and teeth discolouration, and the drugs used are nitroglycerin, ergotamine, nifedipine (rapidly lowers BP compared with oral) and buprenorphine. Proteins are recognised by names ending in 'tide', 'mab' or 'ase'."
+  },
+  {
+   "id": "PHARM-U11-7",
+   "ch": 11,
+   "n": 7,
+   "title": "Parenteral Routes",
+   "sec": "Parenteral Routes · p36",
+   "qs": [
+    "PHARM-C11-065",
+    "PHARM-C11-066",
+    "PHARM-C11-067",
+    "PHARM-C11-068",
+    "PHARM-C11-069",
+    "PHARM-C11-070",
+    "PHARM-C11-071",
+    "PHARM-C11-072",
+    "PHARM-C11-073",
+    "PHARM-C11-074",
+    "PHARM-C11-075",
+    "PHARM-C11-076",
+    "PHARM-C11-077",
+    "PHARM-C11-078",
+    "PHARM-C11-079",
+    "PHARM-C11-080",
+    "PHARM-C11-081",
+    "PHARM-C11-082",
+    "PHARM-C11-083",
+    "PHARM-C11-084",
+    "PHARM-C11-085",
+    "PHARM-C11-086"
+   ],
+   "guide": "Parenteral routes: intravenous is the fastest, used in emergency, allows large volume and gives 100% bioavailability, but oily medium causes hemolysis and epinephrine is better intramuscular (IV causes ventricular tachycardia and cardiac arrest) - nicardipine is used in hypertensive emergency and furosemide in pulmonary edema. Intramuscular is self injectable with right expertise, risks infection through unsanitary or faulty techniques, and suits peptides, irritants and oily drugs (pain). Subcutaneous gives long duration of action from slow absorption from S.C. fat and is self injectable, but irritants cause skin necrosis; long acting insulin is given this way. Intranasal spray gives rapid effect and bypasses the BBB but only a limited dose of potent drugs can be given (GnRH agonist, sumatriptan, nicotine). The inhalational route has the fastest effect because the lung is highly vascularized; irritants cause cough. Afrezza is the fastest and shortest acting insulin, and inhalational gases have 100% bioavailability, while salbutamol, ipratropium and tobramycin (pseudomonas pneumonia) are given for a local effect."
+  }
+ ]
+}
