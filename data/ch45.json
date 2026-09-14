@@ -1,0 +1,1116 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C45-001",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "In the fungal cell diagram squalene sits in the:",
+   "opts": [
+    "Cytoplasm",
+    "Cell wall",
+    "Cell membrane",
+    "Nucleus"
+   ],
+   "ans": 0,
+   "exp": "Squalene (in cytoplasm). (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-002",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Squalene is converted to squalene epoxide by:",
+   "opts": [
+    "Squalene epoxidase",
+    "Squalene synthase",
+    "Lanosterol synthase",
+    "14-alpha-sterol demethylase"
+   ],
+   "ans": 0,
+   "exp": "Squalene -> squalene epoxidase -> squalene epoxide. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-003",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Squalene epoxidase is blocked by:",
+   "opts": [
+    "Terbinafine",
+    "Azoles",
+    "Amphotericin B",
+    "Echinocandins"
+   ],
+   "ans": 0,
+   "exp": "Terbinafine blocks squalene epoxidase. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-004",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Lanosterol is converted towards ergosterol by:",
+   "opts": [
+    "14-alpha-sterol demethylase",
+    "Squalene epoxidase",
+    "Ergosterol synthase",
+    "Chitin synthase"
+   ],
+   "ans": 0,
+   "exp": "Lanosterol -> 14-alpha-sterol demethylase -> ergosterol. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-005",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "14-alpha-sterol demethylase is blocked by:",
+   "opts": [
+    "Azoles",
+    "Terbinafine",
+    "Griseofulvin",
+    "Flucytosine"
+   ],
+   "ans": 0,
+   "exp": "Azoles block 14-alpha-sterol demethylase. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-006",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "The drug shown blocking fungal nuclear DNA is:",
+   "opts": [
+    "Flucytosine",
+    "Griseofulvin",
+    "Azoles",
+    "Echinocandins"
+   ],
+   "ans": 0,
+   "exp": "Flucytosine blocks DNA in the nucleus. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-007",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "The drug shown targeting fungal microtubules is:",
+   "opts": [
+    "Griseofulvin",
+    "Flucytosine",
+    "Terbinafine",
+    "Amphotericin B"
+   ],
+   "ans": 0,
+   "exp": "Griseofulvin blocks microtubules. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-008",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Beta glucan synthase is required for synthesis of:",
+   "opts": [
+    "Beta glucans",
+    "Chitins",
+    "Proteins",
+    "Ergosterol"
+   ],
+   "ans": 0,
+   "exp": "Beta glucan synthase is for synthesis of beta glucans. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-009",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Beta glucan synthase is blocked by:",
+   "opts": [
+    "Echinocandins class and ibrexafungerp",
+    "Azoles",
+    "Polyenes",
+    "Allylamines"
+   ],
+   "ans": 0,
+   "exp": "Echinocandins class and ibrexafungerp block beta glucan synthase. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-010",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "The fungal cell wall is made of:",
+   "opts": [
+    "Proteins, chitins and beta glucans",
+    "Ergosterol and chitin only",
+    "Cellulose and pectin",
+    "Peptidoglycan and teichoic acid"
+   ],
+   "ans": 0,
+   "exp": "Cell wall made of: proteins, chitins, beta glucans. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-011",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Amphotericin B acts on the:",
+   "opts": [
+    "Cell membrane",
+    "Cell wall",
+    "Microtubules",
+    "Nucleus"
+   ],
+   "ans": 0,
+   "exp": "Cell membrane: acts on - amphotericin B. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-012",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "The MOA of amphotericin B is:",
+   "opts": [
+    "Sequestration of ergosterol from the cell membrane",
+    "Blocking ergosterol synthesis",
+    "Blocking beta glucan synthase",
+    "Binding chitin"
+   ],
+   "ans": 0,
+   "exp": "MOA: sequestration of ergosterol from CM. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-013",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "In the target-based classification, ergosterol sequestration is done by:",
+   "opts": [
+    "Amphotericin B",
+    "Terbinafine",
+    "Azoles",
+    "Echinocandins"
+   ],
+   "ans": 0,
+   "exp": "Ergosterol: sequestration - amphotericin B. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-014",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Ergosterol synthesis is blocked by:",
+   "opts": [
+    "Terbinafine and azoles",
+    "Amphotericin B",
+    "Echinocandins",
+    "Griseofulvin"
+   ],
+   "ans": 0,
+   "exp": "Ergosterol: block synthesis - terbinafine, azoles. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-015",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "Cell-wall beta-glucan synthase is blocked by:",
+   "opts": [
+    "Echinocandins and ibrexafungerp",
+    "Amphotericin B",
+    "Azoles",
+    "Flucytosine"
+   ],
+   "ans": 0,
+   "exp": "Cell wall: block beta-glucan synthase - echinocandins, ibrexafungerp. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-016",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "In the target-based tree, microtubules are targeted by:",
+   "opts": [
+    "Griseofulvin",
+    "Flucytosine",
+    "Terbinafine",
+    "Ibrexafungerp"
+   ],
+   "ans": 0,
+   "exp": "Microtubules: griseofulvin. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-017",
+   "sec": "Fungal Microbiology and Target-based Classification",
+   "page": 180,
+   "q": "In the target-based tree, fungal DNA is targeted by:",
+   "opts": [
+    "Flucytosine",
+    "Griseofulvin",
+    "Azoles",
+    "Polyenes"
+   ],
+   "ans": 0,
+   "exp": "DNA: flucytosine. (Book p180)"
+  },
+  {
+   "id": "PHARM-C45-018",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The route of amphotericin B is:",
+   "opts": [
+    "IV with carrier (5% dextrose)",
+    "Oral",
+    "IM",
+    "IV in normal saline only"
+   ],
+   "ans": 0,
+   "exp": "Route: IV with carrier (5% dextrose). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-019",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Amphotericin B is DOC in which broad category?",
+   "opts": [
+    "Systemic fungal infections",
+    "Superficial dermatophytosis",
+    "Oral candidiasis only",
+    "Fungal keratitis"
+   ],
+   "ans": 0,
+   "exp": "Uses: DOC in systemic fungal infections. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-020",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Among fungal-parasitic overlaps, amphotericin B is DOC in:",
+   "opts": [
+    "Kala azar",
+    "Mucormycosis",
+    "Sporotrichosis",
+    "Histoplasmosis"
+   ],
+   "ans": 0,
+   "exp": "DOC in kala azar. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-021",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Amphotericin B is DOC in which zygomycete (mucor) infection?",
+   "opts": [
+    "Mucormycosis",
+    "Aspergillosis",
+    "Candidiasis",
+    "Blastomycosis"
+   ],
+   "ans": 0,
+   "exp": "DOC in mucormycosis. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-022",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Amphotericin B is DOC in which fungal meningitis?",
+   "opts": [
+    "Cryptococcal meningitis",
+    "Coccidioidal meningitis",
+    "Bacterial meningitis",
+    "TB meningitis"
+   ],
+   "ans": 0,
+   "exp": "DOC in cryptococcal meningitis. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-023",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The amphotericin B infusion reaction is nicknamed:",
+   "opts": [
+    "Shake & bake reaction",
+    "Red-man syndrome",
+    "Cheese reaction",
+    "Flushing syndrome"
+   ],
+   "ans": 0,
+   "exp": "Infusion reaction: shake & bake reaction. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-024",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The shake & bake infusion reaction consists of:",
+   "opts": [
+    "Fever + chills",
+    "Rigors with hypotension only",
+    "Rash and wheeze",
+    "Headache and vomiting"
+   ],
+   "ans": 0,
+   "exp": "Fever + chills. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-025",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The infusion reaction of amphotericin B is treated with:",
+   "opts": [
+    "Pethidine",
+    "Paracetamol always",
+    "Hydrocortisone",
+    "Adrenaline"
+   ],
+   "ans": 0,
+   "exp": "Treated with pethidine. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-026",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Nephrotoxicity of amphotericin B is prevented by preloading with:",
+   "opts": [
+    "1-2 L of NaCl (nephroprotective)",
+    "1-2 L of dextrose",
+    "Mannitol",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "Preload 1-2 L of NaCl (nephroprotective). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-027",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The formulation that reduces amphotericin B nephrotoxicity is:",
+   "opts": [
+    "Liposomal Am-B (LAmB)",
+    "Lipid emulsion",
+    "Albumin-bound form",
+    "Nebulised form"
+   ],
+   "ans": 0,
+   "exp": "Combine with liposomes -> liposomal Am-B (LAmB). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-028",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The incidence of amphotericin B hypokalemia is about:",
+   "opts": [
+    "1/3rd of patients",
+    "1/10th of patients",
+    "Half of patients",
+    "Nearly all patients"
+   ],
+   "ans": 0,
+   "exp": "Hypokalemia incidence: ~1/3rd patients. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-029",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "Amphotericin B hypokalemia is treated with:",
+   "opts": [
+    "KCl",
+    "NaCl",
+    "Calcium gluconate",
+    "Magnesium only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: KCl. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-030",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The other electrolyte and vascular side effects of amphotericin B are:",
+   "opts": [
+    "Hypomagnesemia and hypotension",
+    "Hyperkalemia and hypertension",
+    "Hyponatremia and bradycardia",
+    "Hypercalcemia and tachycardia"
+   ],
+   "ans": 0,
+   "exp": "Hypomagnesemia; hypotension. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-031",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The TOC of cryptococcal meningitis is:",
+   "opts": [
+    "IV amphotericin B + IV flucytosine",
+    "IV fluconazole alone",
+    "Oral itraconazole",
+    "IV voriconazole"
+   ],
+   "ans": 0,
+   "exp": "TOC of cryptococcal meningitis: IV amphotericin B + IV flucytosine. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-032",
+   "sec": "Amphotericin B",
+   "page": 181,
+   "q": "The alternative drug for cryptococcal meningitis is:",
+   "opts": [
+    "Fluconazole",
+    "Itraconazole",
+    "Voriconazole",
+    "Posaconazole"
+   ],
+   "ans": 0,
+   "exp": "Alternative: fluconazole. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-033",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "The routes of terbinafine are:",
+   "opts": [
+    "Topical and oral",
+    "IV only",
+    "Topical only",
+    "Oral only"
+   ],
+   "ans": 0,
+   "exp": "Terbinafine route: topical, oral. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-034",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Terbinafine works well on dermatophytes because of:",
+   "opts": [
+    "Good concentration in hair, skin and nails",
+    "Good CSF penetration",
+    "Renal excretion",
+    "Biliary concentration"
+   ],
+   "ans": 0,
+   "exp": "Dermatophytes (d/t good concentration in hair, skin, nails etc). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-035",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Terbinafine is DOC for:",
+   "opts": [
+    "Onychomycosis",
+    "Tinea versicolor",
+    "Oral candidiasis",
+    "Fungal keratitis"
+   ],
+   "ans": 0,
+   "exp": "DOC for onychomycosis. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-036",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Fluconazole is DOC in which meningitis?",
+   "opts": [
+    "Coccidioidal meningitis",
+    "Cryptococcal meningitis",
+    "Bacterial meningitis",
+    "TB meningitis"
+   ],
+   "ans": 0,
+   "exp": "Fluconazole DOC in coccidioidal meningitis. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-037",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Fluconazole is DOC for Candida albicans limited to:",
+   "opts": [
+    "Mucocutaneous sites (e.g. vaginal, esophagitis)",
+    "Systemic candidiasis",
+    "Candida endocarditis",
+    "Candida meningitis"
+   ],
+   "ans": 0,
+   "exp": "Candida albicans (only mucocutaneous, e.g. vaginal, esophagitis). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-038",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "The exception where fluconazole is NOT DOC for candidiasis is oral candidiasis, whose DOC is:",
+   "opts": [
+    "Clotrimazole lozenges",
+    "Nystatin swish",
+    "Oral fluconazole",
+    "IV echinocandin"
+   ],
+   "ans": 0,
+   "exp": "Exception: oral candidiasis (DOC: clotrimazole lozenges). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-039",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Itraconazole is a derivative of:",
+   "opts": [
+    "Ketoconazole",
+    "Fluconazole",
+    "Voriconazole",
+    "Posaconazole"
+   ],
+   "ans": 0,
+   "exp": "Itraconazole (derivative of ketoconazole). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-040",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Itraconazole is DOC in dermatophytes; the TOC branded ointment combines:",
+   "opts": [
+    "Topical terbinafine + itraconazole (Itomed)",
+    "Topical clotrimazole + ketoconazole",
+    "Oral griseofulvin alone",
+    "Topical nystatin"
+   ],
+   "ans": 0,
+   "exp": "Dermatophytes (TOC: Itomed -> topical ointment of terbinafine + itraconazole). (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-041",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Itraconazole is DOC in which deep mycoses group?",
+   "opts": [
+    "Endemic mycoses",
+    "Mucormycosis",
+    "Candidiasis",
+    "Cryptococcosis"
+   ],
+   "ans": 0,
+   "exp": "DOC in endemic mycoses. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-042",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 181,
+   "q": "Itraconazole is DOC in which lymphocutaneous mycosis?",
+   "opts": [
+    "Sporotrichosis",
+    "Chromoblastomycosis",
+    "Mycetoma",
+    "Paracoccidioidomycosis"
+   ],
+   "ans": 0,
+   "exp": "DOC in sporotrichosis. (Book p181)"
+  },
+  {
+   "id": "PHARM-C45-043",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "page": 182,
+   "q": "In allergic bronchopulmonary aspergillosis (ABPA) the DOC is steroids, and itraconazole is added as a:",
+   "opts": [
+    "Steroid-sparing agent (lower steroid dose required)",
+    "Primary therapy",
+    "Rescue therapy",
+    "Prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "ABPA (DOC: steroids) - as a steroid-sparing agent (decreased dose of steroid required). (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-044",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "Ketoconazole use has decreased in preference to:",
+   "opts": [
+    "Itraconazole",
+    "Fluconazole",
+    "Voriconazole",
+    "Posaconazole"
+   ],
+   "ans": 0,
+   "exp": "Ketoconazole: use of drug decreased in preference to itraconazole. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-045",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "The side effects of ketoconazole in males are:",
+   "opts": [
+    "Gynecomastia and impotence",
+    "Galactorrhoea only",
+    "Hirsutism",
+    "Precocious puberty"
+   ],
+   "ans": 0,
+   "exp": "In males: gynecomastia, impotence. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-046",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "The side effect of ketoconazole in females is:",
+   "opts": [
+    "Menstrual irregularities",
+    "Amenorrhoea only",
+    "Hirsutism",
+    "Infertility only"
+   ],
+   "ans": 0,
+   "exp": "In females: menstrual irregularities. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-047",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "Ketoconazole blocks steroid synthesis, giving the secondary use in:",
+   "opts": [
+    "Cushing syndrome",
+    "Addison disease",
+    "Congenital adrenal hyperplasia",
+    "Pheochromocytoma"
+   ],
+   "ans": 0,
+   "exp": "Block steroid synthesis (secondary use: Cushing syndrome). (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-048",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "Voriconazole is DOC in:",
+   "opts": [
+    "Invasive aspergillosis",
+    "Mucormycosis",
+    "Candidiasis",
+    "Cryptococcosis"
+   ],
+   "ans": 0,
+   "exp": "Voriconazole: DOC in invasive aspergillosis. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-049",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "The side effect of voriconazole is:",
+   "opts": [
+    "Visual problems",
+    "Hearing loss",
+    "Taste disturbance",
+    "Photosensitivity only"
+   ],
+   "ans": 0,
+   "exp": "Side effects: visual problems. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-050",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "Posaconazole and isavuconazole share the common uses of:",
+   "opts": [
+    "Invasive aspergillosis (if voriconazole C/I) and mucormycosis",
+    "Candidiasis and cryptococcosis",
+    "Dermatophytosis and onychomycosis",
+    "ABPA and asthma"
+   ],
+   "ans": 0,
+   "exp": "Common uses: invasive aspergillosis (if voriconazole C/I); mucormycosis. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-051",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "page": 182,
+   "q": "The specific use of posaconazole/isavuconazole is to prevent fungal infection in:",
+   "opts": [
+    "Graft vs host disease (GVHD) in immunosuppressed patients",
+    "HIV patients",
+    "Neutropenic induction",
+    "Transplant rejection treatment"
+   ],
+   "ans": 0,
+   "exp": "Specific use: graft vs host disease (GVHD) - to prevent fungal infection in immunosuppressed patients. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-052",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "Echinocandins are used in:",
+   "opts": [
+    "Invasive aspergillosis",
+    "Mucormycosis",
+    "Dermatophytosis",
+    "Fungal keratitis"
+   ],
+   "ans": 0,
+   "exp": "Echinocandins uses: invasive aspergillosis. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-053",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "In candida, echinocandins are DOC for:",
+   "opts": [
+    "Species other than Candida albicans",
+    "Candida albicans only",
+    "All species equally",
+    "Only C. krusei"
+   ],
+   "ans": 0,
+   "exp": "DOC for species other than Candida albicans. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-054",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "Echinocandins are DOC for:",
+   "opts": [
+    "Invasive candidiasis",
+    "Mucocutaneous candidiasis",
+    "Oral thrush",
+    "Vaginal candidiasis"
+   ],
+   "ans": 0,
+   "exp": "DOC for invasive candidiasis. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-055",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "The echinocandin drugs listed are:",
+   "opts": [
+    "Caspofungin, micafungin, anidulafungin and rezafungin",
+    "Fluconazole and itraconazole",
+    "Amphotericin and nystatin",
+    "Terbinafine and griseofulvin"
+   ],
+   "ans": 0,
+   "exp": "Drugs: caspofungin, micafungin, anidulafungin, rezafungin. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-056",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "The route of ibrexafungerp is:",
+   "opts": [
+    "Oral",
+    "IV",
+    "Topical",
+    "Nasal"
+   ],
+   "ans": 0,
+   "exp": "Ibrexafungerp route: oral. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-057",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "Ibrexafungerp is used for:",
+   "opts": [
+    "Recurrent vaginal candidiasis",
+    "Invasive candidiasis",
+    "Oral thrush",
+    "Onychomycosis"
+   ],
+   "ans": 0,
+   "exp": "Uses: recurrent vaginal candidiasis. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-058",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "page": 182,
+   "q": "The alternative to ibrexafungerp in recurrent vaginal candidiasis is:",
+   "opts": [
+    "Oral oteseconazole",
+    "Oral fluconazole",
+    "IV micafungin",
+    "Topical clotrimazole"
+   ],
+   "ans": 0,
+   "exp": "Alternative: oral oteseconazole. (Book p182)"
+  },
+  {
+   "id": "PHARM-C45-059",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Griseofulvin is a:",
+   "opts": [
+    "Static drug targeting microtubules",
+    "Cidal drug targeting ergosterol",
+    "Static drug targeting DNA",
+    "Cidal drug targeting cell wall"
+   ],
+   "ans": 0,
+   "exp": "Static drug -> targets microtubules. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-060",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "The route of griseofulvin is:",
+   "opts": [
+    "Oral (concentrated in stratum corneum)",
+    "Topical",
+    "IV",
+    "Nasal"
+   ],
+   "ans": 0,
+   "exp": "Route: oral (concentrated in stratum corneum). (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-061",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Griseofulvin should be taken with fatty foods to:",
+   "opts": [
+    "Increase absorption",
+    "Decrease gastric irritation",
+    "Delay excretion",
+    "Prefer hepatic uptake"
+   ],
+   "ans": 0,
+   "exp": "To be taken with fatty foods (for increased absorption). (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-062",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Griseofulvin is used for:",
+   "opts": [
+    "Dermatophytes (now with increased resistance)",
+    "Candidiasis",
+    "Cryptococcosis",
+    "Mucormycosis"
+   ],
+   "ans": 0,
+   "exp": "Use: dermatophytes (now increased resistance). (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-063",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Griseofulvin is DOC for which paediatric condition?",
+   "opts": [
+    "Tinea capitis (kerion) in children",
+    "Tinea corporis in adults",
+    "Onychomycosis",
+    "Tinea versicolor"
+   ],
+   "ans": 0,
+   "exp": "DOC for tinea capitis (kerion) in children. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-064",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Flucytosine is a prodrug of:",
+   "opts": [
+    "5-Fluoro-uracil",
+    "5-Fluoro-cytosine",
+    "Cytarabine",
+    "Uracil"
+   ],
+   "ans": 0,
+   "exp": "Prodrug of 5-fluoro-uracil. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-065",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Flucytosine ultimately inhibits:",
+   "opts": [
+    "DNA synthesis",
+    "RNA polymerase",
+    "Protein synthesis",
+    "Ergosterol synthesis"
+   ],
+   "ans": 0,
+   "exp": "Inhibits DNA synthesis. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-066",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Flucytosine is used for:",
+   "opts": [
+    "Cryptococcal meningitis (IV route)",
+    "Candidiasis (oral)",
+    "Aspergillosis",
+    "Dermatophytosis"
+   ],
+   "ans": 0,
+   "exp": "Uses: cryptococcal meningitis (IV route). (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-067",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "The side effects of flucytosine are:",
+   "opts": [
+    "Bone marrow suppression and colitis",
+    "Hepatotoxicity and rash",
+    "Nephrotoxicity and ototoxicity",
+    "QT prolongation"
+   ],
+   "ans": 0,
+   "exp": "Side effects: bone marrow suppression; colitis. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-068",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "The maximum duration of flucytosine use is:",
+   "opts": [
+    "2 weeks",
+    "1 week",
+    "4 weeks",
+    "6 weeks"
+   ],
+   "ans": 0,
+   "exp": "Maximum duration of use: 2 weeks. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-069",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "Natamycin is DOC for:",
+   "opts": [
+    "Fungal corneal ulcer",
+    "Fungal keratitis",
+    "Endophthalmitis",
+    "Orbital cellulitis"
+   ],
+   "ans": 0,
+   "exp": "Natamycin: DOC for fungal corneal ulcer. (Book p183)"
+  },
+  {
+   "id": "PHARM-C45-070",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "page": 183,
+   "q": "The add-on drug with natamycin in fungal corneal ulcer is:",
+   "opts": [
+    "Atropine (to prevent synechiae between iris and lens)",
+    "Pilocarpine",
+    "Timolol",
+    "Phenylephrine"
+   ],
+   "ans": 0,
+   "exp": "Add-on drug: atropine (to prevent synechiae formation b/w iris & lens). (Book p183)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U45-1",
+   "ch": 45,
+   "n": 1,
+   "title": "Fungal Microbiology and Target-based Classification",
+   "sec": "Fungal Microbiology and Target-based Classification · p180",
+   "qs": [
+    "PHARM-C45-001",
+    "PHARM-C45-002",
+    "PHARM-C45-003",
+    "PHARM-C45-004",
+    "PHARM-C45-005",
+    "PHARM-C45-006",
+    "PHARM-C45-007",
+    "PHARM-C45-008",
+    "PHARM-C45-009",
+    "PHARM-C45-010",
+    "PHARM-C45-011",
+    "PHARM-C45-012",
+    "PHARM-C45-013",
+    "PHARM-C45-014",
+    "PHARM-C45-015",
+    "PHARM-C45-016",
+    "PHARM-C45-017"
+   ],
+   "guide": "The fungal cell diagram runs squalene (cytoplasm) -> squalene epoxidase (terbinafine block) -> squalene epoxide -> lanosterol -> 14-alpha-sterol demethylase (azole block) -> ergosterol, with flucytosine on nuclear DNA and griseofulvin on microtubules. The wall - proteins, chitins and beta glucans - needs beta glucan synthase, blocked by echinocandins and ibrexafungerp, while amphotericin B sequesters ergosterol from the cell membrane. Target-wise: sequestration (amphotericin B), synthesis block (terbinafine, azoles), wall beta-glucan synthase block (echinocandins, ibrexafungerp), microtubules (griseofulvin) and DNA (flucytosine)."
+  },
+  {
+   "id": "PHARM-U45-2",
+   "ch": 45,
+   "n": 2,
+   "title": "Amphotericin B",
+   "sec": "Amphotericin B · p181",
+   "qs": [
+    "PHARM-C45-018",
+    "PHARM-C45-019",
+    "PHARM-C45-020",
+    "PHARM-C45-021",
+    "PHARM-C45-022",
+    "PHARM-C45-023",
+    "PHARM-C45-024",
+    "PHARM-C45-025",
+    "PHARM-C45-026",
+    "PHARM-C45-027",
+    "PHARM-C45-028",
+    "PHARM-C45-029",
+    "PHARM-C45-030",
+    "PHARM-C45-031",
+    "PHARM-C45-032"
+   ],
+   "guide": "Amphotericin B is given IV with a 5% dextrose carrier and is DOC for systemic fungal infections, kala azar, mucormycosis and cryptococcal meningitis. Its infusion reaction - the \"shake & bake\" of fever and chills - is treated with pethidine; nephrotoxicity is prevented by preloading 1-2 L of NaCl or by liposomal Am-B (LAmB); hypokalemia (~1/3 of patients, treated with KCl), hypomagnesemia and hypotension complete the picture. The TOC for cryptococcal meningitis is IV amphotericin B plus IV flucytosine, with fluconazole as alternative."
+  },
+  {
+   "id": "PHARM-U45-3",
+   "ch": 45,
+   "n": 3,
+   "title": "Terbinafine and Azoles: Fluconazole and Itraconazole",
+   "sec": "Terbinafine and Azoles: Fluconazole and Itraconazole · p181",
+   "qs": [
+    "PHARM-C45-033",
+    "PHARM-C45-034",
+    "PHARM-C45-035",
+    "PHARM-C45-036",
+    "PHARM-C45-037",
+    "PHARM-C45-038",
+    "PHARM-C45-039",
+    "PHARM-C45-040",
+    "PHARM-C45-041",
+    "PHARM-C45-042",
+    "PHARM-C45-043"
+   ],
+   "guide": "Terbinafine (topical or oral) concentrates in hair, skin and nails, treating dermatophytes and standing as DOC for onychomycosis. Fluconazole is DOC for coccidioidal meningitis and for mucocutaneous Candida albicans (vaginal, esophagitis) but not oral candidiasis, where clotrimazole lozenges win. Itraconazole, a ketoconazole derivative, is DOC for dermatophytes (the Itomed ointment pairs terbinafine with itraconazole), endemic mycoses and sporotrichosis, and serves in ABPA as a steroid-sparing agent."
+  },
+  {
+   "id": "PHARM-U45-4",
+   "ch": 45,
+   "n": 4,
+   "title": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole",
+   "sec": "Ketoconazole, Voriconazole, Posaconazole and Isavuconazole · p182",
+   "qs": [
+    "PHARM-C45-044",
+    "PHARM-C45-045",
+    "PHARM-C45-046",
+    "PHARM-C45-047",
+    "PHARM-C45-048",
+    "PHARM-C45-049",
+    "PHARM-C45-050",
+    "PHARM-C45-051"
+   ],
+   "guide": "Ketoconazole use has fallen in preference to itraconazole; it causes gynecomastia and impotence in males, menstrual irregularities in females and blocks steroid synthesis - hence the secondary use in Cushing syndrome. Voriconazole is DOC in invasive aspergillosis but disturbs vision. Posaconazole and isavuconazole share invasive aspergillosis (when voriconazole is contraindicated) and mucormycosis, and specifically prevent fungal infection in graft vs host disease."
+  },
+  {
+   "id": "PHARM-U45-5",
+   "ch": 45,
+   "n": 5,
+   "title": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp",
+   "sec": "Cell Wall Targeting Drugs: Echinocandins and Ibrexafungerp · p182",
+   "qs": [
+    "PHARM-C45-052",
+    "PHARM-C45-053",
+    "PHARM-C45-054",
+    "PHARM-C45-055",
+    "PHARM-C45-056",
+    "PHARM-C45-057",
+    "PHARM-C45-058"
+   ],
+   "guide": "Echinocandins treat invasive aspergillosis and candida - DOC both for species other than Candida albicans and for invasive candidiasis - and the group is caspofungin, micafungin, anidulafungin and rezafungin. Ibrexafungerp is the oral beta-glucan synthase blocker used for recurrent vaginal candidiasis, with oral oteseconazole as alternative."
+  },
+  {
+   "id": "PHARM-U45-6",
+   "ch": 45,
+   "n": 6,
+   "title": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin",
+   "sec": "Organelle Targeting Drugs: Griseofulvin, Flucytosine and Natamycin · p183",
+   "qs": [
+    "PHARM-C45-059",
+    "PHARM-C45-060",
+    "PHARM-C45-061",
+    "PHARM-C45-062",
+    "PHARM-C45-063",
+    "PHARM-C45-064",
+    "PHARM-C45-065",
+    "PHARM-C45-066",
+    "PHARM-C45-067",
+    "PHARM-C45-068",
+    "PHARM-C45-069",
+    "PHARM-C45-070"
+   ],
+   "guide": "Griseofulvin is a static microtubule drug given orally, concentrated in stratum corneum and taken with fatty foods for absorption; it covers dermatophytes (now with rising resistance) and is DOC for tinea capitis (kerion) in children. Flucytosine, a prodrug of 5-fluoro-uracil, inhibits DNA synthesis and treats cryptococcal meningitis IV for a maximum of 2 weeks before bone-marrow suppression and colitis dominate. Natamycin is DOC for fungal corneal ulcer, with atropine added to prevent synechiae between iris and lens."
+  }
+ ]
+}

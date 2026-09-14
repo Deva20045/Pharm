@@ -1,0 +1,1651 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C46-001",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "The three groups of non-retroviral antivirals are:",
+   "opts": [
+    "Antiherpes, anti-influenza and anti-hepatitis",
+    "Anti-herpes, anti-fungal and anti-hepatitis",
+    "Anti-influenza, anti-RSV and anti-HIV",
+    "Anti-hepatitis, anti-HIV and anti-herpes"
+   ],
+   "ans": 0,
+   "exp": "Non-retroviral antivirals: antiherpes, anti-influenza, anti-hepatitis. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-002",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Herpes virus is a:",
+   "opts": [
+    "DNA virus",
+    "RNA virus",
+    "Retrovirus",
+    "Prion"
+   ],
+   "ans": 0,
+   "exp": "Herpes virus replication: DNA virus. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-003",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Herpes virus shows tropism for:",
+   "opts": [
+    "Epithelial cells",
+    "Neurones only",
+    "Lymphocytes",
+    "Hepatocytes"
+   ],
+   "ans": 0,
+   "exp": "Tropism for epithelial cells. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-004",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "The replication step blocked by docosanol and fomivirsen is:",
+   "opts": [
+    "Attachment of virus to cell",
+    "Uncoating",
+    "Translation",
+    "Chain elongation"
+   ],
+   "ans": 0,
+   "exp": "Docosanol and fomivirsen inhibit attachment of virus to cell. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-005",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "In the herpes cycle, viral RNA polymerase produces:",
+   "opts": [
+    "RNA",
+    "DNA primer",
+    "Nucleotide",
+    "Protein directly"
+   ],
+   "ans": 0,
+   "exp": "RNA polymerase -> RNA. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-006",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Translation of viral RNA produces:",
+   "opts": [
+    "Viral kinase (VK)",
+    "Cytoplasmic kinase",
+    "DNA polymerase",
+    "Neuraminidase"
+   ],
+   "ans": 0,
+   "exp": "Translation -> viral kinase (VK). (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-007",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "A nucleoside is converted to a nucleotide by:",
+   "opts": [
+    "Cytoplasmic kinase (CK)",
+    "Viral kinase",
+    "DNA polymerase",
+    "Thymidine kinase only"
+   ],
+   "ans": 0,
+   "exp": "Nucleoside -> cytoplasmic kinase (CK) -> nucleotide. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-008",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Foscarnet blocks which part of the herpes cycle?",
+   "opts": [
+    "The DNA primer (pyrophosphate) site",
+    "Viral kinase",
+    "Attachment",
+    "Translation"
+   ],
+   "ans": 0,
+   "exp": "Foscarnet blocks the DNA primer (X-P-P-P) step. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-009",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Acyclovir and ganciclovir block:",
+   "opts": [
+    "DNA polymerase",
+    "RNA polymerase",
+    "Viral kinase",
+    "Attachment"
+   ],
+   "ans": 0,
+   "exp": "Acyclovir and ganciclovir block DNA polymerase. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-010",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "During chain elongation DNA polymerase releases:",
+   "opts": [
+    "P-P (pyrophosphate)",
+    "ATP",
+    "A water molecule only",
+    "Inorganic phosphate single unit"
+   ],
+   "ans": 0,
+   "exp": "DNA polymerase adds -P-nucleotide and releases P-P (pyrophosphate). (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-011",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Acyclovir and ganciclovir are activated to triphosphates (AC-TP, GC-TP) by:",
+   "opts": [
+    "VK and CK",
+    "CK only",
+    "VK only",
+    "Host thymidylate synthase"
+   ],
+   "ans": 0,
+   "exp": "Acyclovir/ganciclovir -> VK/CK -> AC-TP/GC-TP (triphosphates). (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-012",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "AC-TP and GC-TP act by:",
+   "opts": [
+    "Competitively inhibiting DNA polymerase and blocking viral DNA chain elongation",
+    "Inhibiting RNA polymerase",
+    "Blocking attachment",
+    "Inhibiting cytoplasmic kinase"
+   ],
+   "ans": 0,
+   "exp": "They competitively inhibit DNA polymerase and block viral DNA chain elongation. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-013",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Cidofovir belongs to which analogue class?",
+   "opts": [
+    "Cytosine analogue",
+    "Guanosine analogue",
+    "Adenosine analogue",
+    "Thymidine analogue"
+   ],
+   "ans": 0,
+   "exp": "Cytosine analogue: cidofovir. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-014",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Cidofovir is phosphorylated to diphosphates by:",
+   "opts": [
+    "CK",
+    "VK",
+    "DNA polymerase",
+    "Host dihydrofolate reductase"
+   ],
+   "ans": 0,
+   "exp": "Cidofovir -> CK -> diphosphates. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-015",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "page": 184,
+   "q": "Cidofovir diphosphates act by:",
+   "opts": [
+    "Competitively inhibiting DNA polymerase and blocking viral DNA chain elongation",
+    "Inhibiting pyrophosphate binding",
+    "Blocking uncoating",
+    "Inhibiting neuraminidase"
+   ],
+   "ans": 0,
+   "exp": "Same end effect: competitively inhibits DNA polymerase, blocks chain elongation. (Book p184)"
+  },
+  {
+   "id": "PHARM-C46-016",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "Foscarnet inhibits which site?",
+   "opts": [
+    "Pyrophosphate binding site",
+    "Nucleoside binding site",
+    "Triphosphate site",
+    "Primer site"
+   ],
+   "ans": 0,
+   "exp": "Foscarnet: inhibits pyrophosphate binding site. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-017",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The viral kinase in HSV/VZV is:",
+   "opts": [
+    "Thymidine kinase",
+    "UL-97",
+    "Protein kinase R",
+    "Cytoplasmic kinase"
+   ],
+   "ans": 0,
+   "exp": "Viral kinase in HSV/VZV: thymidine kinase. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-018",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The viral kinase in CMV is:",
+   "opts": [
+    "UL-97",
+    "Thymidine kinase",
+    "DNA polymerase",
+    "Integrase"
+   ],
+   "ans": 0,
+   "exp": "Viral kinase in CMV: UL-97. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-019",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "Maribavir inhibits:",
+   "opts": [
+    "UL-97",
+    "Thymidine kinase",
+    "DNA polymerase",
+    "Neuraminidase"
+   ],
+   "ans": 0,
+   "exp": "Maribavir inhibits UL-97. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-020",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "By inhibiting UL-97, maribavir causes:",
+   "opts": [
+    "Decreased ganciclovir effect",
+    "Increased ganciclovir effect",
+    "Increased acyclovir effect",
+    "No effect on ganciclovir"
+   ],
+   "ans": 0,
+   "exp": "Maribavir inhibits UL-97 -> decreased ganciclovir effect. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-021",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The most common mechanism of acyclovir/ganciclovir resistance is:",
+   "opts": [
+    "Absent/altered viral kinase",
+    "DNA polymerase mutation",
+    "Efflux pumps",
+    "Thymidylate synthase upregulation"
+   ],
+   "ans": 0,
+   "exp": "Resistance: absent/altered viral kinase (m/c). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-022",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The second resistance mechanism to acyclovir/ganciclovir is:",
+   "opts": [
+    "DNA polymerase mutation",
+    "Altered attachment protein",
+    "Cytoplasmic kinase loss",
+    "Membrane change"
+   ],
+   "ans": 0,
+   "exp": "DNA polymerase mutation. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-023",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The alternative drugs in acyclovir/ganciclovir resistance are:",
+   "opts": [
+    "Cidofovir and foscarnet",
+    "Valacyclovir and valganciclovir",
+    "Famciclovir and penciclovir",
+    "Docosanol and fomivirsen"
+   ],
+   "ans": 0,
+   "exp": "Alternative drugs: cidofovir; foscarnet. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-024",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "page": 185,
+   "q": "The DOC in resistance due to lower toxicity is:",
+   "opts": [
+    "Foscarnet",
+    "Cidofovir",
+    "Ganciclovir",
+    "Acyclovir high dose"
+   ],
+   "ans": 0,
+   "exp": "Foscarnet: DOC in resistance d/t decreased toxicity. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-025",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "The most important anti-herpes drug on the page is:",
+   "opts": [
+    "Acyclovir",
+    "Ganciclovir",
+    "Foscarnet",
+    "Cidofovir"
+   ],
+   "ans": 0,
+   "exp": "Acyclovir (most important). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-026",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "Topical acyclovir is not preferred because of:",
+   "opts": [
+    "Low absorption",
+    "Local irritation",
+    "Rapid inactivation",
+    "Poor patient compliance"
+   ],
+   "ans": 0,
+   "exp": "Topical: not preferred (d/t low absorption). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-027",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "IV acyclovir is DOC for severe infections including:",
+   "opts": [
+    "Herpes encephalitis, neonatal HSV and HSV in immunocompromised patients",
+    "Genital herpes first episode",
+    "Cold sores",
+    "Herpes keratitis"
+   ],
+   "ans": 0,
+   "exp": "IV DOC for severe infections: herpes encephalitis, neonatal HSV, HSV in immunocompromised patients. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-028",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "Oral acyclovir is not preferred because of:",
+   "opts": [
+    "Poor oral absorption",
+    "First-pass metabolism",
+    "Food interactions",
+    "Gastric degradation"
+   ],
+   "ans": 0,
+   "exp": "Oral: not preferred (d/t poor oral absorption). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-029",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "The preferred oral prodrug of acyclovir, DOC for HSV/VZV, is:",
+   "opts": [
+    "Valacyclovir",
+    "Famciclovir",
+    "Penciclovir",
+    "Ganciclovir"
+   ],
+   "ans": 0,
+   "exp": "Pro-drug valacyclovir preferred: DOC for HSV/VZV. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-030",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "Prevention of perinatal HSV transmission uses valacyclovir started at:",
+   "opts": [
+    "36 weeks of gestation",
+    "28 weeks of gestation",
+    "32 weeks of gestation",
+    "Term only"
+   ],
+   "ans": 0,
+   "exp": "DOC for prevention of perinatal HSV transmission: started at 36 weeks of gestation. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-031",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "The common side effect of oral acyclovir is:",
+   "opts": [
+    "GI upsets",
+    "Rash",
+    "Headache only",
+    "Hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Side effects: GI upsets. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-032",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "High-dose IV acyclovir causes nephrotoxicity through:",
+   "opts": [
+    "Crystalluria -> renal stones -> obstructive renal failure",
+    "Direct tubular necrosis",
+    "Interstitial nephritis",
+    "Glomerulonephritis"
+   ],
+   "ans": 0,
+   "exp": "If IV route (high doses): nephrotoxicity d/t crystalluria -> renal stones -> obstructive renal failure. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-033",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "High-dose IV acyclovir also causes:",
+   "opts": [
+    "Neurotoxicity",
+    "Ototoxicity",
+    "Cardiotoxicity",
+    "Ocular toxicity"
+   ],
+   "ans": 0,
+   "exp": "IV high doses also cause neurotoxicity. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-034",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "IV ganciclovir is used for:",
+   "opts": [
+    "Systemic CMV infections (e.g. lungs, brain, GIT)",
+    "HSV encephalitis",
+    "VZV disseminated disease",
+    "EBV mononucleosis"
+   ],
+   "ans": 0,
+   "exp": "IV: used for systemic CMV infections (e.g. lungs, brain, GIT etc). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-035",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "The oral prodrug preferred for CMV, DOC for CMV retinitis, is:",
+   "opts": [
+    "Valganciclovir",
+    "Valacyclovir",
+    "Famciclovir",
+    "Cidofovir"
+   ],
+   "ans": 0,
+   "exp": "Oral: pro-drug valganciclovir preferred d/t increased oral absorption (DOC for CMV retinitis). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-036",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "Intravitreal injection or implant of ganciclovir is used when:",
+   "opts": [
+    "There is increased risk of blindness in CMV retinitis (increased local effect)",
+    "Systemic disease is present",
+    "The patient is pregnant",
+    "Oral therapy fails only"
+   ],
+   "ans": 0,
+   "exp": "Intravitreal injection/implant: if increased risk of blindness in CMV retinitis (d/t increased local effect). (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-037",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "The major side effect of ganciclovir is:",
+   "opts": [
+    "Bone marrow suppression",
+    "Nephrotoxicity",
+    "Hepatotoxicity",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Side effects: bone marrow suppression. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-038",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "page": 185,
+   "q": "If neutropenia develops on ganciclovir, the page advises:",
+   "opts": [
+    "Continue treatment + filgrastim to treat neutropenia",
+    "Stop ganciclovir immediately",
+    "Switch to acyclovir",
+    "Add steroids"
+   ],
+   "ans": 0,
+   "exp": "If neutropenia: continue treatment + filgrastim to treat neutropenia. (Book p185)"
+  },
+  {
+   "id": "PHARM-C46-039",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "The routes of penciclovir for HSV/VZV are:",
+   "opts": [
+    "IV and topical",
+    "Oral and IV",
+    "Topical only",
+    "IM"
+   ],
+   "ans": 0,
+   "exp": "Penciclovir route: I/v and topical for HSV/VZV. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-040",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Oral penciclovir is limited by:",
+   "opts": [
+    "Poor oral absorption",
+    "Rapid metabolism",
+    "Food effects",
+    "Gastric acid degradation"
+   ],
+   "ans": 0,
+   "exp": "Oral: poor oral absorption. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-041",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Foscarnet is given IV as DOC for:",
+   "opts": [
+    "Resistant herpes",
+    "Sensitive HSV",
+    "CMV retinitis",
+    "VZV keratitis"
+   ],
+   "ans": 0,
+   "exp": "Foscarnet route: IV - DOC for resistant herpes. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-042",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "The side effects of foscarnet are:",
+   "opts": [
+    "Nephrotoxicity and electrolyte imbalance",
+    "Hepatotoxicity and rash",
+    "BM suppression",
+    "Neurotoxicity only"
+   ],
+   "ans": 0,
+   "exp": "Side effects: nephrotoxicity; electrolyte imbalance. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-043",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "The electrolyte disturbances of foscarnet include:",
+   "opts": [
+    "Increase/decrease of Ca++ and PO4 3-, and decrease of Mg++ and K+",
+    "Only hypokalemia",
+    "Only hypercalcemia",
+    "Only hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "Electrolyte imbalance: up/down of Ca++, PO4 3-; down of Mg++, K+. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-044",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Famciclovir is the:",
+   "opts": [
+    "Oral prodrug of penciclovir",
+    "Oral prodrug of ganciclovir",
+    "Topical form of acyclovir",
+    "IV form of cidofovir"
+   ],
+   "ans": 0,
+   "exp": "Famciclovir: oral prodrug of penciclovir. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-045",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "IV cidofovir treats:",
+   "opts": [
+    "AC/GC resistant herpes, BK virus (transplant patients) and adenovirus",
+    "Sensitive HSV only",
+    "CMV retinitis only",
+    "Influenza"
+   ],
+   "ans": 0,
+   "exp": "IV: to treat AC/GC resistant herpes, BK virus (in transplant patients), adenovirus. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-046",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Topical cidofovir treats:",
+   "opts": [
+    "Ano-genital warts and cervical intraepithelial neoplasia (CIN)",
+    "Recurrent laryngeal papillomatosis",
+    "CMV retinitis",
+    "HSV keratitis"
+   ],
+   "ans": 0,
+   "exp": "Topical: to treat ano genital warts, cervical intraepithelial neoplasia (CIN). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-047",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Intralesional cidofovir is DOC for:",
+   "opts": [
+    "Recurrent laryngeal papillomatosis",
+    "Ano-genital warts",
+    "CIN",
+    "Adenovirus pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Intralesional: DOC for recurrent laryngeal papillomatosis. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-048",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Fomivirsen is given intraocularly for:",
+   "opts": [
+    "CMV retinitis resistant to ganciclovir",
+    "HSV keratitis",
+    "VZV retinitis",
+    "Sensitive CMV retinitis"
+   ],
+   "ans": 0,
+   "exp": "Route: intraocular for CMV retinitis resistant to ganciclovir. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-049",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "The side effects of fomivirsen are:",
+   "opts": [
+    "Ocular (iritis, uveitis, cataract, macular edema)",
+    "Systemic nephrotoxicity",
+    "BM suppression",
+    "Hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Side effects: ocular (e.g. iritis, uveitis, cataract, macular edema). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-050",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Docosanol is a topical-only drug used for:",
+   "opts": [
+    "Orolabial herpes",
+    "Genital herpes",
+    "HSV keratitis",
+    "CMV retinitis"
+   ],
+   "ans": 0,
+   "exp": "Docosanol: orolabial herpes (topical-only group). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-051",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Idoxuridine is a topical-only drug used for:",
+   "opts": [
+    "Orolabial and genital herpes",
+    "HSV keratitis",
+    "Orolabial herpes only",
+    "CMV retinitis"
+   ],
+   "ans": 0,
+   "exp": "Idoxuridine: orolabial & genital herpes (topical-only group). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-052",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "page": 186,
+   "q": "Trifluridine is a topical-only drug used for:",
+   "opts": [
+    "HSV keratitis",
+    "Orolabial herpes",
+    "Genital herpes",
+    "CMV retinitis"
+   ],
+   "ans": 0,
+   "exp": "Trifluridine: HSV keratitis (topical-only group). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-053",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "Influenza virus is a:",
+   "opts": [
+    "RNA virus",
+    "DNA virus",
+    "Retrovirus",
+    "Defective virus"
+   ],
+   "ans": 0,
+   "exp": "Influenza virus replication: RNA virus. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-054",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "Influenza shows tropism for:",
+   "opts": [
+    "Respiratory epithelial cells",
+    "Gut epithelial cells",
+    "Hepatocytes",
+    "Neurones"
+   ],
+   "ans": 0,
+   "exp": "Tropism for respiratory epithelial cells. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-055",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "The influenza surface protein that binds the host sialic acid receptor is:",
+   "opts": [
+    "Hemagglutinin",
+    "Neuraminidase",
+    "m-protein",
+    "RNA polymerase"
+   ],
+   "ans": 0,
+   "exp": "Hemagglutinin binds to sialic acid receptor. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-056",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "The m-protein of influenza acts as a:",
+   "opts": [
+    "Proton pump",
+    "Ion channel for K+",
+    "Fusion protein",
+    "Capsid protein"
+   ],
+   "ans": 0,
+   "exp": "m-protein (proton pump). (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-057",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "Uncoating of influenza is blocked by:",
+   "opts": [
+    "Amantadine and rimantadine",
+    "Oseltamivir and zanamivir",
+    "Baloxavir",
+    "Peramivir"
+   ],
+   "ans": 0,
+   "exp": "Uncoating step is blocked by amantadine/rimantadine. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-058",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "Baloxavir blocks which influenza enzyme activity?",
+   "opts": [
+    "Endonuclease activity of RNA polymerase",
+    "Neuraminidase",
+    "m-protein pump",
+    "Hemagglutinin"
+   ],
+   "ans": 0,
+   "exp": "Baloxavir blocks endonuclease activity. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-059",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 186,
+   "q": "Oseltamivir and zanamivir block the influenza step of:",
+   "opts": [
+    "Neuraminidase-mediated release (break down/assembly)",
+    "Attachment",
+    "Uncoating",
+    "Translation"
+   ],
+   "ans": 0,
+   "exp": "Oseltamivir (DOC)/zanamivir act at the neuraminidase break-down step. (Book p186)"
+  },
+  {
+   "id": "PHARM-C46-060",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The MOA of m-protein inhibitors is:",
+   "opts": [
+    "Block uncoating",
+    "Block attachment",
+    "Block neuraminidase",
+    "Block endonuclease"
+   ],
+   "ans": 0,
+   "exp": "m-protein inhibitors MOA: block uncoating. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-061",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "Amantadine and rimantadine are not used because of:",
+   "opts": [
+    "Increased level of resistance",
+    "High toxicity",
+    "Poor absorption",
+    "Narrow spectrum"
+   ],
+   "ans": 0,
+   "exp": "Not used d/t increased level of resistance. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-062",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The route of oseltamivir and its DOC status cover:",
+   "opts": [
+    "Oral route; DOC for influenza A, influenza B and bird flu",
+    "IV route; DOC for resistant flu",
+    "Inhalational; DOC for bird flu only",
+    "Oral; DOC only for influenza A"
+   ],
+   "ans": 0,
+   "exp": "Oseltamivir: oral route - DOC for influenza A, influenza B, bird flu. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-063",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The treatment dosage of oseltamivir is:",
+   "opts": [
+    "75 mg BID x5d",
+    "75 mg OD x7d",
+    "150 mg BID x5d",
+    "30 mg BID x5d"
+   ],
+   "ans": 0,
+   "exp": "Treatment: 75 mg BID x5d. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-064",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The prophylaxis dosage of oseltamivir is:",
+   "opts": [
+    "75 mg OD x7d",
+    "75 mg BID x5d",
+    "150 mg OD x7d",
+    "40 mg once"
+   ],
+   "ans": 0,
+   "exp": "Prophylaxis: 75 mg OD x7d. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-065",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The route preference for zanamivir is:",
+   "opts": [
+    "Inhalational > IV",
+    "Oral > IV",
+    "IV > inhalational",
+    "Oral only"
+   ],
+   "ans": 0,
+   "exp": "Zanamivir route: inhalational > I/v. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-066",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "Zanamivir is DOC for:",
+   "opts": [
+    "Oseltamivir resistant influenza",
+    "Sensitive influenza A",
+    "Bird flu first line",
+    "Influenza B only"
+   ],
+   "ans": 0,
+   "exp": "DOC: oseltamivir resistant influenza. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-067",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The treatment dosage of zanamivir is:",
+   "opts": [
+    "10 mg BID x 5d",
+    "10 mg OD x 7d",
+    "40 mg once",
+    "600 mg once"
+   ],
+   "ans": 0,
+   "exp": "Zanamivir treatment: 10 mg BID x 5d. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-068",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "The prophylaxis dosage of zanamivir is:",
+   "opts": [
+    "10 mg OD x 7d",
+    "10 mg BID x 5d",
+    "75 mg OD x7d",
+    "40 mg once"
+   ],
+   "ans": 0,
+   "exp": "Zanamivir prophylaxis: 10 mg OD x 7d. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-069",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "Peramivir is given:",
+   "opts": [
+    "IV, 600 mg once, for oseltamivir sensitive cases",
+    "Inhaled 40 mg once for resistant cases",
+    "Orally 75 mg BID",
+    "IV for resistant cases"
+   ],
+   "ans": 0,
+   "exp": "Peramivir: route I/v, dosage 600 mg once, use oseltamivir sensitive cases. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-070",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "page": 187,
+   "q": "Laninamivir is given:",
+   "opts": [
+    "Inhalational, 40 mg once, for oseltamivir resistant cases",
+    "IV 600 mg once for sensitive cases",
+    "Orally 10 mg BID",
+    "Inhaled 10 mg OD x7d"
+   ],
+   "ans": 0,
+   "exp": "Laninamivir: route inhalational, dosage 40 mg once, use oseltamivir resistant cases. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-071",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 187,
+   "q": "The MOA of the RNA polymerase inhibitor baloxavir is:",
+   "opts": [
+    "Blocks endonuclease activity",
+    "Blocks neuraminidase",
+    "Blocks uncoating",
+    "Blocks attachment"
+   ],
+   "ans": 0,
+   "exp": "RNA polymerase inhibitor MOA: blocks endonuclease activity. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-072",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 187,
+   "q": "The route of baloxavir is:",
+   "opts": [
+    "Oral single dose",
+    "Oral x5 days",
+    "IV single dose",
+    "Inhalational"
+   ],
+   "ans": 0,
+   "exp": "Baloxavir route: oral single dose. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-073",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 187,
+   "q": "Baloxavir is used for:",
+   "opts": [
+    "Resistant cases of influenza A, influenza B and bird flu",
+    "Sensitive influenza only",
+    "Prophylaxis only",
+    "RSV"
+   ],
+   "ans": 0,
+   "exp": "Use: resistant cases of influenza A, influenza B, bird flu. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-074",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 187,
+   "q": "The dosage of baloxavir is:",
+   "opts": [
+    "40-80 mg single dose",
+    "75 mg BID x5d",
+    "10 mg OD x7d",
+    "600 mg once"
+   ],
+   "ans": 0,
+   "exp": "Dosage: 40-80 mg single dose. (Book p187)"
+  },
+  {
+   "id": "PHARM-C46-075",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Hepatitis B is treated only in chronic cases in active state, defined by:",
+   "opts": [
+    "Raised ALT/AST and histological signs of inflammation",
+    "HBsAg positivity alone",
+    "Any ALT rise",
+    "Family history of HCC"
+   ],
+   "ans": 0,
+   "exp": "Only treat chronic cases in active state with ALT/AST up and histological signs of inflammation. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-076",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "The specific hepatitis B drugs act by:",
+   "opts": [
+    "Blocking DNA polymerase, with no finite treatment duration",
+    "Blocking reverse transcriptase with finite duration",
+    "Blocking RNA polymerase",
+    "Blocking entry"
+   ],
+   "ans": 0,
+   "exp": "Specific drugs: block DNA polymerase; no finite treatment duration. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-077",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Entecavir (1st line) is DOC for:",
+   "opts": [
+    "Hep-B with hepatic decompensation",
+    "Hep-B without decompensation",
+    "Hep-B with Hep D",
+    "Hep-B in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Entecavir: DOC for Hep-B with hepatic decompensation. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-078",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "If lamivudine resistance is present, what happens to entecavir?",
+   "opts": [
+    "Entecavir resistance develops",
+    "Entecavir becomes more effective",
+    "No change",
+    "Entecavir is contraindicated by toxicity"
+   ],
+   "ans": 0,
+   "exp": "If lamivudine resistance (+) -> entecavir resistance develops. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-079",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Adefovir is limited by poor oral absorption, so the prodrug used is:",
+   "opts": [
+    "Adefovir dipivoxal",
+    "Adefovir pivoxil free base",
+    "Tenofovir alafenamide",
+    "Entecavir"
+   ],
+   "ans": 0,
+   "exp": "Pro-drug adefovir dipivoxal used instead. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-080",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "The non-specific hepatitis B drugs are:",
+   "opts": [
+    "Anti-HIV drugs that block reverse transcriptase",
+    "Interferons",
+    "DNA polymerase blockers",
+    "Entry inhibitors"
+   ],
+   "ans": 0,
+   "exp": "Non-specific drugs: anti-HIV drugs (block reverse transcriptase). (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-081",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Tenofovir is DOC for:",
+   "opts": [
+    "Hep-B",
+    "Hep-C",
+    "Hep-D",
+    "Hep-A"
+   ],
+   "ans": 0,
+   "exp": "Tenofovir: DOC for Hep-B. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-082",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "The side effect of tenofovir is:",
+   "opts": [
+    "Nephrotoxic",
+    "Hepatotoxic",
+    "Pancreatitis",
+    "Lactic acidosis only"
+   ],
+   "ans": 0,
+   "exp": "Side effect: nephrotoxic. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-083",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Tenofovir is contraindicated in:",
+   "opts": [
+    "Hep-B with hepatic decompensation (risk of hepatic renal syndrome)",
+    "Hep-B with normal liver",
+    "HIV coinfection",
+    "Pregnancy always"
+   ],
+   "ans": 0,
+   "exp": "C/I: Hep-B with hepatic decompensation (d/t risk of hepatic renal syndrome). (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-084",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Lamivudine is converted into:",
+   "opts": [
+    "Emtricitabine, clavudine and telbivudine",
+    "Tenofovir and adefovir",
+    "Entecavir",
+    "Zidovudine"
+   ],
+   "ans": 0,
+   "exp": "Lamivudine converted into emtricitabine, clavudine, telbivudine. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-085",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Lamivudine and its converts should not be:",
+   "opts": [
+    "Given together",
+    "Given with tenofovir",
+    "Given with entecavir",
+    "Given in decompensation"
+   ],
+   "ans": 0,
+   "exp": "They should not be given together. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-086",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "IFN-alpha2b therapy in hepatitis B has a finite duration of:",
+   "opts": [
+    "1 year",
+    "6 months",
+    "2 years",
+    "Indefinite"
+   ],
+   "ans": 0,
+   "exp": "Finite duration of treatment: 1 yr. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-087",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Chronic interferon use causes toxicity as:",
+   "opts": [
+    "BM suppression",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Cardiotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Chronic use -> toxicity (BM suppression). (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-088",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Interferon is contraindicated in:",
+   "opts": [
+    "Hepatic decompensation",
+    "Chronic active hepatitis",
+    "Hep D coinfection",
+    "Compensated cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "C/I: hepatic decompensation. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-089",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs",
+   "page": 188,
+   "q": "Interferon is DOC in:",
+   "opts": [
+    "Hep B with Hep D",
+    "Hep B alone",
+    "Hep C alone",
+    "Hep A"
+   ],
+   "ans": 0,
+   "exp": "DOC: Hep B with Hep D. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-090",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The MOA of IFN alpha-2a/2b in hepatitis C is:",
+   "opts": [
+    "Increased viral RNA degrading enzymes",
+    "Blocking RNA polymerase",
+    "Blocking reverse transcriptase",
+    "Increasing NK cells only"
+   ],
+   "ans": 0,
+   "exp": "MOA: increased viral RNA degrading enzymes. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-091",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The side effect of interferon in HCV therapy is:",
+   "opts": [
+    "BM suppression",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Hypothyroidism only"
+   ],
+   "ans": 0,
+   "exp": "Side effect: BM suppression. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-092",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The MOA of ribavirin is:",
+   "opts": [
+    "Blocks RNA polymerase",
+    "Blocks DNA polymerase",
+    "Blocks protease",
+    "Blocks entry"
+   ],
+   "ans": 0,
+   "exp": "Ribavirin MOA: blocks RNA polymerase. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-093",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "IV ribavirin is also given in:",
+   "opts": [
+    "Severe influenza and hemorrhagic fever",
+    "RSV only",
+    "Hepatitis B",
+    "Lassa fever only"
+   ],
+   "ans": 0,
+   "exp": "I/V also given in severe influenza & hemorrhagic fever. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-094",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "Inhalational ribavirin is DOC in:",
+   "opts": [
+    "Respiratory syncytial virus (RSV)",
+    "Influenza",
+    "Parainfluenza",
+    "Adenovirus"
+   ],
+   "ans": 0,
+   "exp": "Inhalational: DOC in respiratory syncytial virus (RSV). (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-095",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The route of direct acting antivirals (DAAs) is:",
+   "opts": [
+    "Oral",
+    "IV",
+    "Topical",
+    "IM"
+   ],
+   "ans": 0,
+   "exp": "DAAs route: oral. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-096",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "DAAs are the treatment of choice in HCV as a:",
+   "opts": [
+    "2/3 drug regimen",
+    "Monotherapy",
+    "4 drug regimen",
+    "Sequential monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Treatment of choice (2/3 drug regimen). (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-097",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The example DAAs listed are:",
+   "opts": [
+    "Sofosbuvir, velpatasvir and paritaprevir",
+    "Ribavirin and interferon",
+    "Entecavir and tenofovir",
+    "Oseltamivir and zanamivir"
+   ],
+   "ans": 0,
+   "exp": "Eg: sofosbuvir, velpatasvir, paritaprevir. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-098",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "Paritaprevir is boosted with:",
+   "opts": [
+    "Ritonavir",
+    "Cobicistat",
+    "Itraconazole",
+    "Grapefruit juice"
+   ],
+   "ans": 0,
+   "exp": "Paritaprevir: boosted with ritonavir. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-099",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The DAA suffix -buvir denotes a:",
+   "opts": [
+    "NS5B blocker",
+    "NS5A blocker",
+    "Protease blocker",
+    "Entry blocker"
+   ],
+   "ans": 0,
+   "exp": "DAA suffix: bu-vir - NS5B blocker. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-100",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The DAA suffix -asvir denotes a:",
+   "opts": [
+    "NS5A blocker",
+    "NS5B blocker",
+    "Protease blocker",
+    "Polymerase II blocker"
+   ],
+   "ans": 0,
+   "exp": "DAA suffix: as-vir - NS5A blocker. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-101",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The DAA suffix -previr denotes a:",
+   "opts": [
+    "Protease or NS 3/4 blocker",
+    "NS5B blocker",
+    "NS5A blocker",
+    "Integrase blocker"
+   ],
+   "ans": 0,
+   "exp": "DAA suffix: pre-vir - protease or NS 3/4 blocker. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-102",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "IFN-gamma is used in:",
+   "opts": [
+    "Chronic granulomatous disease",
+    "Multiple sclerosis",
+    "CML",
+    "Kaposi sarcoma"
+   ],
+   "ans": 0,
+   "exp": "IFN-gamma: chronic granulomatous disease. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-103",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "IFN-beta is used in:",
+   "opts": [
+    "Multiple sclerosis",
+    "Chronic granulomatous disease",
+    "CML",
+    "Hepatitis C only"
+   ],
+   "ans": 0,
+   "exp": "IFN-beta: multiple sclerosis. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-104",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "IFN-alpha 2a/2b is used in:",
+   "opts": [
+    "Chronic myelogenous leukemia and Kaposi's sarcoma",
+    "Multiple sclerosis",
+    "Chronic granulomatous disease",
+    "RSV"
+   ],
+   "ans": 0,
+   "exp": "IFN-alpha 2a/2b: chronic myelogenous leukemia, Kaposi's sarcoma. (Book p188)"
+  },
+  {
+   "id": "PHARM-C46-105",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "page": 188,
+   "q": "The anti-RSV monoclonal antibodies for RSV prophylaxis are:",
+   "opts": [
+    "Palivizumab and nirsevimab",
+    "Omalizumab and dupilumab",
+    "Rituximab and infliximab",
+    "Bevacizumab and cetuximab"
+   ],
+   "ans": 0,
+   "exp": "RSV prophylaxis: palivizumab, nirsevimab (anti-RSV monoclonal antibodies). (Book p188)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U46-1",
+   "ch": 46,
+   "n": 1,
+   "title": "Anti-Herpes Drugs: Replication Cycle and Drug Targets",
+   "sec": "Anti-Herpes Drugs: Replication Cycle and Drug Targets · p184",
+   "qs": [
+    "PHARM-C46-001",
+    "PHARM-C46-002",
+    "PHARM-C46-003",
+    "PHARM-C46-004",
+    "PHARM-C46-005",
+    "PHARM-C46-006",
+    "PHARM-C46-007",
+    "PHARM-C46-008",
+    "PHARM-C46-009",
+    "PHARM-C46-010",
+    "PHARM-C46-011",
+    "PHARM-C46-012",
+    "PHARM-C46-013",
+    "PHARM-C46-014",
+    "PHARM-C46-015"
+   ],
+   "guide": "Non-retroviral antivirals divide into anti-herpes, anti-influenza and anti-hepatitis groups. Herpes is a DNA virus tropic for epithelial cells: docosanol and fomivirsen block attachment, viral RNA polymerase makes RNA that is translated into viral kinase, cytoplasmic kinase converts nucleoside to nucleotide, and DNA polymerase - blocked by acyclovir and ganciclovir - elongates the chain while foscarnet blocks the DNA primer pyrophosphate site. Acyclovir and ganciclovir need VK/CK to reach triphosphates (AC-TP, GC-TP) that competitively inhibit DNA polymerase; cidofovir, a cytosine analogue, needs only CK to reach diphosphates with the same end effect."
+  },
+  {
+   "id": "PHARM-U46-2",
+   "ch": 46,
+   "n": 2,
+   "title": "Foscarnet Site, Viral Kinases, Maribavir and Resistance",
+   "sec": "Foscarnet Site, Viral Kinases, Maribavir and Resistance · p185",
+   "qs": [
+    "PHARM-C46-016",
+    "PHARM-C46-017",
+    "PHARM-C46-018",
+    "PHARM-C46-019",
+    "PHARM-C46-020",
+    "PHARM-C46-021",
+    "PHARM-C46-022",
+    "PHARM-C46-023",
+    "PHARM-C46-024"
+   ],
+   "guide": "Foscarnet inhibits the pyrophosphate binding site and needs no kinase activation. The viral kinase is thymidine kinase in HSV/VZV but UL-97 in CMV - the kinase maribavir inhibits, thereby reducing ganciclovir effect. Resistance to acyclovir/ganciclovir is most commonly an absent or altered viral kinase, then DNA polymerase mutation; the alternatives are cidofovir and foscarnet, foscarnet being DOC in resistance because of lower toxicity."
+  },
+  {
+   "id": "PHARM-U46-3",
+   "ch": 46,
+   "n": 3,
+   "title": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity",
+   "sec": "Acyclovir and Ganciclovir: Routes, Uses and Toxicity · p185",
+   "qs": [
+    "PHARM-C46-025",
+    "PHARM-C46-026",
+    "PHARM-C46-027",
+    "PHARM-C46-028",
+    "PHARM-C46-029",
+    "PHARM-C46-030",
+    "PHARM-C46-031",
+    "PHARM-C46-032",
+    "PHARM-C46-033",
+    "PHARM-C46-034",
+    "PHARM-C46-035",
+    "PHARM-C46-036",
+    "PHARM-C46-037",
+    "PHARM-C46-038"
+   ],
+   "guide": "Acyclovir, the most important anti-herpes drug, is poorly absorbed topically and orally: IV is DOC for severe disease (herpes encephalitis, neonatal HSV, HSV in immunocompromised patients) and the oral prodrug valacyclovir is DOC for HSV/VZV and for preventing perinatal HSV transmission when started at 36 weeks of gestation. IV high doses crystallise into renal stones with obstructive renal failure and also cause neurotoxicity, while oral therapy upsets the gut. Ganciclovir is IV for systemic CMV (lungs, brain, GIT), oral valganciclovir is DOC for CMV retinitis and intravitreal injection or implant is used when blindness risk is high; bone-marrow suppression is managed by continuing treatment plus filgrastim."
+  },
+  {
+   "id": "PHARM-U46-4",
+   "ch": 46,
+   "n": 4,
+   "title": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs",
+   "sec": "Penciclovir, Foscarnet, Famciclovir, Cidofovir, Fomivirsen and Topical-only Drugs · p186",
+   "qs": [
+    "PHARM-C46-039",
+    "PHARM-C46-040",
+    "PHARM-C46-041",
+    "PHARM-C46-042",
+    "PHARM-C46-043",
+    "PHARM-C46-044",
+    "PHARM-C46-045",
+    "PHARM-C46-046",
+    "PHARM-C46-047",
+    "PHARM-C46-048",
+    "PHARM-C46-049",
+    "PHARM-C46-050",
+    "PHARM-C46-051",
+    "PHARM-C46-052"
+   ],
+   "guide": "Penciclovir is given IV or topically for HSV/VZV because oral absorption is poor; its oral prodrug is famciclovir. Foscarnet is IV and DOC for resistant herpes but is nephrotoxic and disturbs calcium, phosphate, magnesium and potassium. Cidofovir is IV for acyclovir/ganciclovir-resistant herpes, BK virus in transplant patients and adenovirus, topical for ano-genital warts and CIN, and intralesional DOC for recurrent laryngeal papillomatosis. Fomivirsen is intraocular for ganciclovir-resistant CMV retinitis with ocular inflammation; docosanol, idoxuridine and trifluridine are topical-only drugs."
+  },
+  {
+   "id": "PHARM-U46-5",
+   "ch": 46,
+   "n": 5,
+   "title": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors",
+   "sec": "Anti-influenza Drugs: Replication, M-protein and Neuraminidase Inhibitors · p186",
+   "qs": [
+    "PHARM-C46-053",
+    "PHARM-C46-054",
+    "PHARM-C46-055",
+    "PHARM-C46-056",
+    "PHARM-C46-057",
+    "PHARM-C46-058",
+    "PHARM-C46-059",
+    "PHARM-C46-060",
+    "PHARM-C46-061",
+    "PHARM-C46-062",
+    "PHARM-C46-063",
+    "PHARM-C46-064",
+    "PHARM-C46-065",
+    "PHARM-C46-066",
+    "PHARM-C46-067",
+    "PHARM-C46-068",
+    "PHARM-C46-069",
+    "PHARM-C46-070"
+   ],
+   "guide": "Influenza is an RNA virus tropic for respiratory epithelial cells; hemagglutinin binds the sialic acid receptor, the m-protein proton pump drives uncoating (blocked by amantadine and rimantadine, now abandoned for high resistance), and release needs neuraminidase (oseltamivir, zanamivir). Oseltamivir is the oral DOC for influenza A, B and bird flu at 75 mg BD x5d for treatment and 75 mg OD x7d for prophylaxis; zanamivir (inhalational > IV) is DOC for oseltamivir-resistant influenza at 10 mg BD x5d / 10 mg OD x7d; peramivir is IV 600 mg once for sensitive cases and laninamivir inhaled 40 mg once for resistant cases."
+  },
+  {
+   "id": "PHARM-U46-6",
+   "ch": 46,
+   "n": 6,
+   "title": "Baloxavir and Anti-Hepatitis B Drugs",
+   "sec": "Baloxavir and Anti-Hepatitis B Drugs · p187",
+   "qs": [
+    "PHARM-C46-071",
+    "PHARM-C46-072",
+    "PHARM-C46-073",
+    "PHARM-C46-074",
+    "PHARM-C46-075",
+    "PHARM-C46-076",
+    "PHARM-C46-077",
+    "PHARM-C46-078",
+    "PHARM-C46-079",
+    "PHARM-C46-080",
+    "PHARM-C46-081",
+    "PHARM-C46-082",
+    "PHARM-C46-083",
+    "PHARM-C46-084",
+    "PHARM-C46-085",
+    "PHARM-C46-086",
+    "PHARM-C46-087",
+    "PHARM-C46-088",
+    "PHARM-C46-089"
+   ],
+   "guide": "Baloxavir, an oral single dose of 40-80 mg, blocks endonuclease and covers resistant influenza A, B and bird flu. In hepatitis B only chronic active cases (raised ALT/AST with histological inflammation) are treated: specific DNA-polymerase blockers with no finite duration include first-line entecavir (DOC when hepatic decompensation, but lamivudine resistance breeds entecavir resistance) and poorly absorbed adefovir (given as adefovir dipivoxal); non-specific anti-HIV reverse-transcriptase blockers include tenofovir (DOC for Hep-B, nephrotoxic, contraindicated in hepatic decompensation) plus lamivudine and its converts emtricitabine, clavudine and telbivudine, which must not be given together. IFN-alpha2b gives a finite 1-year course but suppresses marrow, is contraindicated in decompensation and is DOC when Hep D coexists."
+  },
+  {
+   "id": "PHARM-U46-7",
+   "ch": 46,
+   "n": 7,
+   "title": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes",
+   "sec": "Hepatitis C Drugs, DAA Suffixes and Interferon Notes · p188",
+   "qs": [
+    "PHARM-C46-090",
+    "PHARM-C46-091",
+    "PHARM-C46-092",
+    "PHARM-C46-093",
+    "PHARM-C46-094",
+    "PHARM-C46-095",
+    "PHARM-C46-096",
+    "PHARM-C46-097",
+    "PHARM-C46-098",
+    "PHARM-C46-099",
+    "PHARM-C46-100",
+    "PHARM-C46-101",
+    "PHARM-C46-102",
+    "PHARM-C46-103",
+    "PHARM-C46-104",
+    "PHARM-C46-105"
+   ],
+   "guide": "In hepatitis C, IFN alpha-2a/2b raises viral RNA degrading enzymes (marrow suppression limits it) and ribavirin blocks RNA polymerase - IV also in severe influenza and hemorrhagic fever, inhaled as DOC for RSV. Oral direct-acting antivirals are the treatment of choice as 2/3-drug regimens (sofosbuvir, velpatasvir, paritaprevir boosted with ritonavir), with suffixes decoding targets: -buvir NS5B, -asvir NS5A, -previr protease/NS3-4. Interferons elsewhere: IFN-gamma in chronic granulomatous disease, IFN-beta in multiple sclerosis, IFN-alpha 2a/2b in CML and Kaposi sarcoma, and palivizumab or nirsevimab for RSV prophylaxis."
+  }
+ ]
+}

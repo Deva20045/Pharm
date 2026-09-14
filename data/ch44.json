@@ -1,0 +1,2266 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C44-001",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "The three branches of \"other antibacterial drugs\" are:",
+   "opts": [
+    "Drugs acting on cell membrane, anti-folate drugs and DNA gyrase inhibitors",
+    "Cell wall, folate and ribosomal drugs",
+    "Membrane, ribosomal and gyrase drugs",
+    "Folate, gyrase and cell wall drugs"
+   ],
+   "ans": 0,
+   "exp": "The flowchart splits into cell membrane, anti-folate and DNA gyrase inhibitors. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-002",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Drugs acting on the cell membrane are:",
+   "opts": [
+    "Bactericidal drugs",
+    "Bacteriostatic drugs",
+    "Fungicidal drugs",
+    "Virostatic drugs"
+   ],
+   "ans": 0,
+   "exp": "Cell membrane drugs: bactericidal drugs. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-003",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Membrane-active drugs are kept as last-line drugs because:",
+   "opts": [
+    "They are toxic due to effect on all cells",
+    "They are poorly absorbed",
+    "They are rapidly metabolised",
+    "They cause allergy"
+   ],
+   "ans": 0,
+   "exp": "Toxic d/t effect on all cells: last-line drugs. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-004",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Polymyxins are chemically:",
+   "opts": [
+    "Cationic detergents",
+    "Anionic detergents",
+    "Sterols",
+    "Polyenes"
+   ],
+   "ans": 0,
+   "exp": "Polymyxins (cationic detergents). (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-005",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Polymyxins bind to which membrane component?",
+   "opts": [
+    "Phospholipid in cell membrane",
+    "Ergosterol",
+    "Peptidoglycan",
+    "Lipoteichoic acid"
+   ],
+   "ans": 0,
+   "exp": "Binds to phospholipid in cell membrane. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-006",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "After binding membrane phospholipid, polymyxins form:",
+   "opts": [
+    "Pseudopores",
+    "True protein channels",
+    "Ion pumps",
+    "Vesicles"
+   ],
+   "ans": 0,
+   "exp": "Forms pseudopores. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-007",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Through pseudopores water and solutes enter the cell causing:",
+   "opts": [
+    "Lysis",
+    "Stasis",
+    "Sporulation",
+    "Encystation"
+   ],
+   "ans": 0,
+   "exp": "Water & solutes can enter cell -> lyses. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-008",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Pseudopores additionally increase:",
+   "opts": [
+    "Entry of other drugs",
+    "Efflux of other drugs",
+    "Protein synthesis",
+    "Cell-wall thickness"
+   ],
+   "ans": 0,
+   "exp": "Pseudopores increase entry of other drugs. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-009",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Polymyxins also bind and block:",
+   "opts": [
+    "Endotoxins",
+    "Exotoxins",
+    "Teichoic acids",
+    "Porins"
+   ],
+   "ans": 0,
+   "exp": "Bind & block endotoxins. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-010",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "The polymyxin spectrum is mostly:",
+   "opts": [
+    "Gram -ve",
+    "Gram +ve",
+    "Anaerobic",
+    "Fungal"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: mostly gram -ve. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-011",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Polymyxin-B is also known as:",
+   "opts": [
+    "Neosporin",
+    "Colistin",
+    "Bacitracin",
+    "Gramicidin"
+   ],
+   "ans": 0,
+   "exp": "Polymyxin-B (Neosporin). (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-012",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "The use of polymyxin-B is:",
+   "opts": [
+    "Topical treatment for skin infection",
+    "IV for MDR sepsis",
+    "Oral for gut sterilization",
+    "Intrathecal meningitis"
+   ],
+   "ans": 0,
+   "exp": "Polymyxin-B use: topical treatment for skin infection. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-013",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Polymyxin E is also called:",
+   "opts": [
+    "Colistin",
+    "Neosporin",
+    "Polymyxin M",
+    "Aerosporin"
+   ],
+   "ans": 0,
+   "exp": "Polymyxin E (colistin). (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-014",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "IV colistin is reserved for:",
+   "opts": [
+    "Multi-drug resistant gram -ve infections",
+    "Simple UTI",
+    "Skin infection only",
+    "Gram +ve sepsis"
+   ],
+   "ans": 0,
+   "exp": "I/V: multi-drug resistant gram -ve infections. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-015",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Examples of MDR gram -ve organisms treated with colistin include:",
+   "opts": [
+    "Pseudomonas, Enterobacter, E. coli and Klebsiella",
+    "Proteus and Providencia only",
+    "Acinetobacter only",
+    "Stenotrophomonas only"
+   ],
+   "ans": 0,
+   "exp": "Eg: Pseudomonas, Enterobacter, E. coli, Klebsiella etc. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-016",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "The two side effects of colistin listed are:",
+   "opts": [
+    "Potent nephrotoxicity and neuromuscular toxicity",
+    "Hepatotoxicity and ototoxicity",
+    "Cardiotoxicity and rash",
+    "BM suppression and colitis"
+   ],
+   "ans": 0,
+   "exp": "Side effects: potent nephrotoxic drug; neuromuscular toxicity. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-017",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "page": 174,
+   "q": "Colistin neuromuscular toxicity is a contraindication to concurrent use of:",
+   "opts": [
+    "Aminoglycosides (shared side effects)",
+    "Beta-lactams",
+    "Macrolides",
+    "Tetracyclines"
+   ],
+   "ans": 0,
+   "exp": "Neuromuscular toxicity C/I: aminoglycoside use (shared side effects). (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-018",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "Lipopeptides are peptide drugs characterised by:",
+   "opts": [
+    "Large molecule size",
+    "Small molecule size",
+    "Lipid solubility",
+    "Cyclic sterol core"
+   ],
+   "ans": 0,
+   "exp": "Lipopeptides: peptide drugs with large molecule size. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-019",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "The large molecule size of lipopeptides causes:",
+   "opts": [
+    "Poor oral adsorption",
+    "Poor IV efficacy",
+    "Rapid renal excretion",
+    "High protein binding"
+   ],
+   "ans": 0,
+   "exp": "Large molecule size -> poor oral adsorption. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-020",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "The lipopeptide spectrum is:",
+   "opts": [
+    "Only gram +ve",
+    "Only gram -ve",
+    "Broad including anaerobes",
+    "Only atypicals"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: only gram +ve. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-021",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "The gram +ve examples given for lipopeptides are:",
+   "opts": [
+    "Staphylococcus and Enterococcus",
+    "Streptococcus and Listeria",
+    "Bacillus and Clostridium",
+    "Nocardia and Actinomyces"
+   ],
+   "ans": 0,
+   "exp": "E.g: Staphylococcus, Enterococcus. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-022",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "The lipopeptide drug named on the page is:",
+   "opts": [
+    "Daptomycin",
+    "Polymyxin B",
+    "Bacitracin",
+    "Telavancin"
+   ],
+   "ans": 0,
+   "exp": "Drugs: daptomycin. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-023",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 174,
+   "q": "The route of daptomycin is:",
+   "opts": [
+    "I/v",
+    "Oral",
+    "Topical",
+    "IM"
+   ],
+   "ans": 0,
+   "exp": "Daptomycin route: I/v. (Book p174)"
+  },
+  {
+   "id": "PHARM-C44-024",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "The mechanism of daptomycin is:",
+   "opts": [
+    "Depolarization of cell membrane -> K+ efflux",
+    "Hyperpolarization -> Na+ influx",
+    "Pore formation with Ca+ influx",
+    "Membrane sterol binding"
+   ],
+   "ans": 0,
+   "exp": "MOA: depolarization of cell membrane -> K+ efflux. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-025",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "Daptomycin is DOC for:",
+   "opts": [
+    "VRSA",
+    "MRSA always",
+    "VRE",
+    "VISA"
+   ],
+   "ans": 0,
+   "exp": "Daptomycin DOC: VRSA. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-026",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "Daptomycin is used for empirical treatment of MRSA when:",
+   "opts": [
+    "Vancomycin sensitivity is unknown",
+    "Vancomycin has failed",
+    "The patient is allergic to vancomycin",
+    "The infection is pulmonary"
+   ],
+   "ans": 0,
+   "exp": "Empirical treatment of MRSA (unknown vancomycin sensitivity). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-027",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "The side effect of daptomycin is:",
+   "opts": [
+    "Myopathy",
+    "Neuropathy",
+    "Nephropathy",
+    "Retinopathy"
+   ],
+   "ans": 0,
+   "exp": "Side effect: myopathy. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-028",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "Daptomycin is contraindicated in pneumonia because:",
+   "opts": [
+    "Surfactant inactivates daptomycin",
+    "It cannot cross the alveolar membrane",
+    "It causes bronchospasm",
+    "It is excreted in breath"
+   ],
+   "ans": 0,
+   "exp": "C/I pneumonia (d/t inactivation of daptomycin by surfactant). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-029",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "Per the note, the DOC in MRSA is:",
+   "opts": [
+    "Vancomycin",
+    "Daptomycin",
+    "Linezolid",
+    "Ceftaroline"
+   ],
+   "ans": 0,
+   "exp": "Note: DOC in MRSA is vancomycin. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-030",
+   "sec": "Lipopeptides: Daptomycin",
+   "page": 175,
+   "q": "Per the note, the DOC in VRSA pneumonia is:",
+   "opts": [
+    "Linezolid",
+    "Daptomycin",
+    "Vancomycin",
+    "Tigecycline"
+   ],
+   "ans": 0,
+   "exp": "Note: DOC in VRSA pneumonia: linezolid. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-031",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "Bacterial folic acid synthesis starts from:",
+   "opts": [
+    "Pteridine + para-amino-benzoic acid (PABA)",
+    "Glutamate + DHFA",
+    "THF + PABA",
+    "DHPA + pteridine"
+   ],
+   "ans": 0,
+   "exp": "Pteridine + para-amino-benzoic acid (PABA). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-032",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "Pteridine + PABA are condensed by:",
+   "opts": [
+    "Dihydro-pteroid synthase (DHPS)",
+    "Dihydro-folic acid reductase",
+    "Thymidylate synthase",
+    "Folylpolyglutamate synthase"
+   ],
+   "ans": 0,
+   "exp": "The first enzyme is dihydro-pteroid synthase (DHPS). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-033",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHPS is notable for being:",
+   "opts": [
+    "Absent in humans",
+    "Present in humans",
+    "Present only in gut flora of children",
+    "A human liver enzyme"
+   ],
+   "ans": 0,
+   "exp": "DHPS is absent in humans. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-034",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "The product of the DHPS step is:",
+   "opts": [
+    "Dihydro-pteroic acid (DHPA)",
+    "Dihydrofolic acid",
+    "Tetra hydrofolate",
+    "Para-amino benzoic acid"
+   ],
+   "ans": 0,
+   "exp": "DHPS yields dihydro-pteroic acid (DHPA). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-035",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHPA combines with glutamate to form:",
+   "opts": [
+    "Dihydrofolic acid (DHFA)",
+    "Tetra hydrofolate",
+    "Folinic acid",
+    "Methyl THF"
+   ],
+   "ans": 0,
+   "exp": "DHPA + glutamate -> dihydrofolic acid (DHFA). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-036",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHFA is which form of folate for humans?",
+   "opts": [
+    "Consumption form",
+    "Active form",
+    "Storage form",
+    "Transport form"
+   ],
+   "ans": 0,
+   "exp": "DHFA: consumption form for humans. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-037",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHFA is reduced to THF by:",
+   "opts": [
+    "Dihydro-folic acid reductase (DHFR)",
+    "DHPS",
+    "Thymidylate synthase",
+    "Methionine synthase"
+   ],
+   "ans": 0,
+   "exp": "The second enzyme is dihydro-folic acid reductase (DHFR). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-038",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHFR is notable for being:",
+   "opts": [
+    "Present in humans",
+    "Absent in humans",
+    "Bacterial only",
+    "Viral only"
+   ],
+   "ans": 0,
+   "exp": "DHFR is present in humans. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-039",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "The active form of folate is:",
+   "opts": [
+    "Tetra hydrofolate (THF)",
+    "DHFA",
+    "DHPA",
+    "PABA"
+   ],
+   "ans": 0,
+   "exp": "Tetra hydrofolate (THF): active form. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-040",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "The DHPS blockers (bacteriostatic) listed are:",
+   "opts": [
+    "Dapsone, para-amino salicylic acid and sulfonamides",
+    "Pyrimethamine and proguanil",
+    "Methotrexate and trimethoprim",
+    "Sulfonamides and trimethoprim"
+   ],
+   "ans": 0,
+   "exp": "(a) DHPS blocker: dapsone, P.A.S, sulfonamides. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-041",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "The DHFR blockers (bacteriostatic) listed are:",
+   "opts": [
+    "Pyrimethamine, proguanil, methotrexate and trimethoprim",
+    "Dapsone and PAS",
+    "Sulfonamides and dapsone",
+    "Trimethoprim and sulfadiazine"
+   ],
+   "ans": 0,
+   "exp": "(b) DHFR blocker: pyrimethamine, proguanil, methotrexate, trimethoprim. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-042",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "DHFR blockers are unsafe in pregnancy because they:",
+   "opts": [
+    "Increase the risk of neural tube defects",
+    "Cause kernicterus",
+    "Cause grey baby syndrome",
+    "Cause crystalluria"
+   ],
+   "ans": 0,
+   "exp": "Unsafe in pregnancy (increased risk of neural tube defects). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-043",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "page": 175,
+   "q": "Combining a DHPS blocker with a DHFR blocker produces a:",
+   "opts": [
+    "Bactericidal effect",
+    "Bacteriostatic effect",
+    "Fungicidal effect",
+    "No added effect"
+   ],
+   "ans": 0,
+   "exp": "(a) + (b) -> bactericidal. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-044",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The sulfonamide spectrum on gram +ve organisms excludes:",
+   "opts": [
+    "Enterococcus",
+    "Staphylococcus",
+    "Streptococcus",
+    "Listeria"
+   ],
+   "ans": 0,
+   "exp": "Spectrum aerobic: gram +ve except Enterococcus. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-045",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The sulfonamide gram -ve coverage excludes:",
+   "opts": [
+    "Pseudomonas and Rickettsia",
+    "E. coli and Klebsiella",
+    "Proteus and Providencia",
+    "Salmonella and Shigella"
+   ],
+   "ans": 0,
+   "exp": "Gram -ve except Pseudomonas & Rickettsia. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-046",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "Pseudomonas and Rickettsia exposed to sulfonamides show:",
+   "opts": [
+    "Paradoxical overgrowth",
+    "Paradoxical killing",
+    "No change",
+    "Resistance by efflux"
+   ],
+   "ans": 0,
+   "exp": "They cause paradoxical overgrowth. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-047",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The longest acting sulfonamide is:",
+   "opts": [
+    "Sulfadoxine",
+    "Sulfadiazine",
+    "Sulfisoxazole",
+    "Sulfasalazine"
+   ],
+   "ans": 0,
+   "exp": "Sulfadoxine (longest acting). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-048",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The use of sulfadoxine is:",
+   "opts": [
+    "Malaria",
+    "UTI",
+    "Otitis",
+    "Toxoplasma"
+   ],
+   "ans": 0,
+   "exp": "Sulfadoxine use: malaria. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-049",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The treatment of choice for toxoplasma (with pyrimethamine) is:",
+   "opts": [
+    "Sulfadiazine",
+    "Sulfadoxine",
+    "Sulfisoxazole",
+    "Sulfacetamide"
+   ],
+   "ans": 0,
+   "exp": "Sulfadiazine use: TOC for toxoplasma (with pyrimethamine). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-050",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "The most water soluble sulfonamide is:",
+   "opts": [
+    "Sulfisoxazole",
+    "Sulfadiazine",
+    "Sulfadoxine",
+    "Sulfasalazine"
+   ],
+   "ans": 0,
+   "exp": "Sulfisoxazole (most water soluble). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-051",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "Sulfisoxazole carries the least risk of:",
+   "opts": [
+    "Crystalluria",
+    "Hemolysis",
+    "Kernicterus",
+    "Porphyria"
+   ],
+   "ans": 0,
+   "exp": "Least risk for crystalluria. (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-052",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 175,
+   "q": "Sulfisoxazole is used in otitis and UTI because of:",
+   "opts": [
+    "Increased concentration in urine",
+    "Increased biliary excretion",
+    "High plasma protein binding",
+    "Long half-life"
+   ],
+   "ans": 0,
+   "exp": "Uses: otitis; UTI (d/t increased concentration in urine). (Book p175)"
+  },
+  {
+   "id": "PHARM-C44-053",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 176,
+   "q": "Sulfasalazine is made of:",
+   "opts": [
+    "Sulfonamide group and 5-amino salicylic acid (5-ASA)",
+    "Sulfonamide group and methotrexate",
+    "5-ASA and mesalamine",
+    "Sulfapyridine and PABA"
+   ],
+   "ans": 0,
+   "exp": "Made of: sulfonamide group; 5-amino salicylic acid (5-ASA). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-054",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 176,
+   "q": "Sulfasalazine helps rheumatoid arthritis through the:",
+   "opts": [
+    "Disease modifying effect of sulfonamides",
+    "Analgesic effect of 5-ASA",
+    "Antibacterial effect in gut",
+    "Steroid-like effect"
+   ],
+   "ans": 0,
+   "exp": "Rheumatoid arthritis (disease modifying effect of sulfonamides). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-055",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs",
+   "page": 176,
+   "q": "Sulfasalazine works in ulcerative colitis because:",
+   "opts": [
+    "5-ASA remains unabsorbed in intestine",
+    "The sulfonamide kills gut flora",
+    "It blocks TNF",
+    "It coats the mucosa"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis (5-ASA remains unabsorbed in intestine). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-056",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Cotrimoxazole combines:",
+   "opts": [
+    "Sulfamethoxazole + trimethoprim",
+    "Sulfadiazine + trimethoprim",
+    "Sulfamethoxazole + pyrimethamine",
+    "Sulfadoxine + pyrimethamine"
+   ],
+   "ans": 0,
+   "exp": "Cotrimoxazole: sulfamethoxazole + trimethoprim. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-057",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "The cotrimoxazole combination is:",
+   "opts": [
+    "Bactericidal",
+    "Bacteriostatic",
+    "Fungistatic",
+    "Inactive"
+   ],
+   "ans": 0,
+   "exp": "Sulfamethoxazole + trimethoprim: bactericidal. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-058",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "The sulfamethoxazole:trimethoprim ratio in the tablet is:",
+   "opts": [
+    "5 : 1",
+    "1 : 5",
+    "20 : 1",
+    "1 : 20"
+   ],
+   "ans": 0,
+   "exp": "Ratio in tablet: 5:1. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-059",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "The ratio in blood becomes 20:1 because:",
+   "opts": [
+    "Trimethoprim has an increased volume of distribution",
+    "Sulfamethoxazole is protein bound",
+    "Trimethoprim is renally excreted",
+    "Sulfamethoxazole is metabolised faster"
+   ],
+   "ans": 0,
+   "exp": "In blood 20:1 (trimethoprim has increased volume of distribution). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-060",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "The potency of trimethoprim relative to sulfamethoxazole is:",
+   "opts": [
+    "20x",
+    "5x",
+    "10x",
+    "50x"
+   ],
+   "ans": 0,
+   "exp": "Potency of trimethoprim: 20x potency of sulfamethoxazole. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-061",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Cotrimoxazole is DOC in:",
+   "opts": [
+    "Cystitis",
+    "Pyelonephritis",
+    "Prostatitis",
+    "Urethral stricture infection"
+   ],
+   "ans": 0,
+   "exp": "Uses: DOC in cystitis. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-062",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Cotrimoxazole is DOC for infections by cyclospora, Burkholderia cepacia and:",
+   "opts": [
+    "Pneumocystis, isospora, nocardia and sarcocyst",
+    "Toxoplasma and cryptosporidium",
+    "Listeria and nocardia",
+    "Histoplasma and coccidioides"
+   ],
+   "ans": 0,
+   "exp": "Infection by: cyclospora, Burkholderia cepacia, pneumocystis, isospora, nocardia, sarcocyst. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-063",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Per the note, the DOC for ulcerative colitis is:",
+   "opts": [
+    "Mesalamine",
+    "Sulfasalazine",
+    "Balsalazide",
+    "Olsalazine"
+   ],
+   "ans": 0,
+   "exp": "Note: mesalamine - DOC for ulcerative colitis. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-064",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Per the note, the DOC for toxoplasma in pregnancy is:",
+   "opts": [
+    "Spiramycin",
+    "Sulfadiazine + pyrimethamine",
+    "Clindamycin",
+    "Atovaquone"
+   ],
+   "ans": 0,
+   "exp": "Spiramycin, DOC for toxoplasma: in pregnancy. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-065",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Sulfadiazine ointment is DOC in:",
+   "opts": [
+    "Burn patients",
+    "Diabetic foot",
+    "Pressure sores",
+    "Eczema"
+   ],
+   "ans": 0,
+   "exp": "Sulfadiazine ointment: DOC in burn patients. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-066",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Sulfadiazine ointment is also used for:",
+   "opts": [
+    "Fungal keratomycosis",
+    "Bacterial conjunctivitis",
+    "Trachoma",
+    "Viral keratitis"
+   ],
+   "ans": 0,
+   "exp": "Sulfadiazine ointment: fungal keratomycosis. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-067",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Mafenide is used in:",
+   "opts": [
+    "Burn patients",
+    "Eye infections",
+    "UTI",
+    "Otitis"
+   ],
+   "ans": 0,
+   "exp": "Mafenide uses: burn patients. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-068",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "The side effects of mafenide are:",
+   "opts": [
+    "Severe pain on application and increased risk of metabolic acidosis",
+    "Crystalluria and hematuria",
+    "Kernicterus",
+    "Hypersensitivity rash"
+   ],
+   "ans": 0,
+   "exp": "Mafenide: severe pain on application; increased risk of metabolic acidosis. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-069",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Mafenide causes metabolic acidosis by:",
+   "opts": [
+    "Carbonic anhydrase block",
+    "Renal tubular damage",
+    "Diarrhoea",
+    "Hypoventilation"
+   ],
+   "ans": 0,
+   "exp": "Metabolic acidosis (d/t carbonic anhydrase block). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-070",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "page": 176,
+   "q": "Sulfacetamide eye drops are used for:",
+   "opts": [
+    "Trachoma and conjunctivitis",
+    "Keratomycosis",
+    "Glaucoma",
+    "Dry eye"
+   ],
+   "ans": 0,
+   "exp": "Sulfacetamide eye drops: trachoma; conjunctivitis. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-071",
+   "sec": "Sulfonamide Side Effects",
+   "page": 176,
+   "q": "Kernicterus after birth occurs if sulfonamides are given to:",
+   "opts": [
+    "The pregnant mother",
+    "The neonate directly",
+    "The breastfeeding father",
+    "A child with G6PD only"
+   ],
+   "ans": 0,
+   "exp": "Kernicterus after birth (if given to pregnant mother). (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-072",
+   "sec": "Sulfonamide Side Effects",
+   "page": 176,
+   "q": "The first step in sulfonamide kernicterus pathology is:",
+   "opts": [
+    "Increased plasma protein binding of sulfonamides displacing bilirubin from albumin",
+    "Direct bilirubin overproduction",
+    "Hepatic conjugation failure",
+    "Biliary obstruction"
+   ],
+   "ans": 0,
+   "exp": "Pathology: increased plasma protein binding of sulfonamides -> displacement of bilirubin from albumin. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-073",
+   "sec": "Sulfonamide Side Effects",
+   "page": 176,
+   "q": "Displaced bilirubin then causes:",
+   "opts": [
+    "Increased bilirubin in blood that crosses the blood-brain barrier",
+    "Increased urinary bilirubin",
+    "Jaundice-free encephalopathy",
+    "Conjugated hyperbilirubinemia"
+   ],
+   "ans": 0,
+   "exp": "Displacement -> increased bilirubin in blood -> crosses blood-brain barrier. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-074",
+   "sec": "Sulfonamide Side Effects",
+   "page": 176,
+   "q": "Sulfonamides can precipitate which porphyria?",
+   "opts": [
+    "Acute intermittent porphyria",
+    "Porphyria cutanea tarda",
+    "Variegate porphyria",
+    "Erythropoietic porphyria"
+   ],
+   "ans": 0,
+   "exp": "Side effect: acute intermittent porphyria. (Book p176)"
+  },
+  {
+   "id": "PHARM-C44-075",
+   "sec": "Sulfonamide Side Effects",
+   "page": 177,
+   "q": "Sulfonamide-induced methemoglobinemia presents as:",
+   "opts": [
+    "Cyanosis refractory to O2 inhalation",
+    "Cyanosis responsive to O2",
+    "Pallor with tachypnoea",
+    "Clubbing"
+   ],
+   "ans": 0,
+   "exp": "Methemoglobinemia: cyanosis refractory to O2 inhalation. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-076",
+   "sec": "Sulfonamide Side Effects",
+   "page": 177,
+   "q": "Rash and bone marrow suppression with sulfonamides represent:",
+   "opts": [
+    "Hypersensitivity seen in all sulfonamide group-containing drugs",
+    "Dose-dependent toxicity",
+    "Idiosyncrasy only in children",
+    "A G6PD-related effect"
+   ],
+   "ans": 0,
+   "exp": "Hypersensitivity (seen in all sulfonamide group-containing drugs). (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-077",
+   "sec": "Sulfonamide Side Effects",
+   "page": 177,
+   "q": "Sulfonamide crystalluria can cause:",
+   "opts": [
+    "Renal stones (increased water intake advised)",
+    "Uric acid stones",
+    "Calcium stones regardless of intake",
+    "Bladder cancer"
+   ],
+   "ans": 0,
+   "exp": "Crystalluria: can cause renal stones (increased water intake advised). (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-078",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "DNA gyrase inhibitors are:",
+   "opts": [
+    "Bactericidal drugs",
+    "Bacteriostatic drugs",
+    "Fungicidal drugs",
+    "Virostatic drugs"
+   ],
+   "ans": 0,
+   "exp": "DNA gyrase inhibitors: bactericidal drugs. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-079",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The quinolone drug named on the page is:",
+   "opts": [
+    "Nalidixic acid",
+    "Ciprofloxacin",
+    "Moxifloxacin",
+    "Levofloxacin"
+   ],
+   "ans": 0,
+   "exp": "Quinolones drug: nalidixic acid. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-080",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The MOA of nalidixic acid is:",
+   "opts": [
+    "Blocks DNA gyrase",
+    "Blocks topoisomerase IV",
+    "Blocks RNA polymerase",
+    "Blocks folate synthesis"
+   ],
+   "ans": 0,
+   "exp": "MOA: blocks DNA gyrase. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-081",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The spectrum of nalidixic acid is:",
+   "opts": [
+    "Gram -ve organisms",
+    "Gram +ve organisms",
+    "Anaerobes",
+    "Atypicals"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: gram -ve organisms. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-082",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "Nalidixic acid is useful because of increased concentration of drug in:",
+   "opts": [
+    "Urine and stool",
+    "Sputum and CSF",
+    "Bile and saliva",
+    "Bone and prostate"
+   ],
+   "ans": 0,
+   "exp": "Use: d/t increased concentration of drug in urine & stool. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-083",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The uses of nalidixic acid are:",
+   "opts": [
+    "UTI and traveller's diarrhea",
+    "Meningitis and endocarditis",
+    "Pneumonia and otitis",
+    "Skin and bone infection"
+   ],
+   "ans": 0,
+   "exp": "Uses: UTI; traveller's diarrhea. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-084",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "Fluoroquinolones are chemically:",
+   "opts": [
+    "Fluorine + quinolone",
+    "Chlorine + quinolone",
+    "Fluorine + coumarin",
+    "Sulfur + quinolone"
+   ],
+   "ans": 0,
+   "exp": "Fluoroquinolones: fluorine + quinolone. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-085",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The gram -ve coverage of fluoroquinolones comes from inhibition of:",
+   "opts": [
+    "DNA gyrase",
+    "Topoisomerase IV",
+    "RNA polymerase",
+    "Helicase"
+   ],
+   "ans": 0,
+   "exp": "Inhibit DNA gyrase: gram -ve coverage. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-086",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The gram +ve coverage of fluoroquinolones comes from inhibition of:",
+   "opts": [
+    "Topoisomerase IV",
+    "DNA gyrase",
+    "Primase",
+    "Ligase"
+   ],
+   "ans": 0,
+   "exp": "Inhibit topoisomerase IV: some gram +ve coverage. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-087",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The least active fluoroquinolone is:",
+   "opts": [
+    "Norfloxacin",
+    "Ciprofloxacin",
+    "Levofloxacin",
+    "Moxifloxacin"
+   ],
+   "ans": 0,
+   "exp": "Norfloxacin (least active). (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-088",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "Norfloxacin is limited by:",
+   "opts": [
+    "Poor tissue concentration",
+    "Poor urine concentration",
+    "Rapid hepatic metabolism",
+    "High protein binding"
+   ],
+   "ans": 0,
+   "exp": "Norfloxacin: poor tissue concentration. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-089",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The use of norfloxacin is:",
+   "opts": [
+    "Same as nalidixic acid",
+    "Same as moxifloxacin",
+    "Systemic sepsis",
+    "CAP"
+   ],
+   "ans": 0,
+   "exp": "Norfloxacin use: same as nalidixic acid. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-090",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "The most active fluoroquinolone is:",
+   "opts": [
+    "Ciprofloxacin",
+    "Norfloxacin",
+    "Levofloxacin",
+    "Pefloxacin"
+   ],
+   "ans": 0,
+   "exp": "Ciprofloxacin (most active). (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-091",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "page": 177,
+   "q": "Ciprofloxacin shows increased concentration in:",
+   "opts": [
+    "Urine and stool",
+    "CSF and vitreous",
+    "Bile only",
+    "Bone only"
+   ],
+   "ans": 0,
+   "exp": "Ciprofloxacin: increased concentration in urine & stool. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-092",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Ciprofloxacin is DOC in which upper urinary infection?",
+   "opts": [
+    "Pyelonephritis",
+    "Cystitis",
+    "Prostatitis",
+    "Perinephric abscess"
+   ],
+   "ans": 0,
+   "exp": "Ciprofloxacin DOC in pyelonephritis. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-093",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Ciprofloxacin is DOC for which travellers' illness?",
+   "opts": [
+    "Traveller's diarrhoea",
+    "Traveller's malaria",
+    "Typhoid fever treatment",
+    "Hepatitis A"
+   ],
+   "ans": 0,
+   "exp": "DOC in traveller's diarrhoea. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-094",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "The typhoid carrier state is treated with DOC:",
+   "opts": [
+    "Ciprofloxacin",
+    "Azithromycin",
+    "Ceftriaxone",
+    "Chloramphenicol"
+   ],
+   "ans": 0,
+   "exp": "DOC in typhoid carrier. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-095",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Ciprofloxacin is DOC for which invasive diarrhoeal organism?",
+   "opts": [
+    "Shigella",
+    "Salmonella enteritidis",
+    "Campylobacter",
+    "Vibrio"
+   ],
+   "ans": 0,
+   "exp": "DOC in shigella. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-096",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Contacts of meningococcal meningitis are protected with DOC:",
+   "opts": [
+    "Ciprofloxacin",
+    "Rifampicin always",
+    "Ceftriaxone always",
+    "Azithromycin"
+   ],
+   "ans": 0,
+   "exp": "DOC in contacts of meningococcal meningitis. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-097",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Ciprofloxacin is used in anthrax when:",
+   "opts": [
+    "Penicillin G is resistant (bioterrorism)",
+    "Penicillin G is sensitive",
+    "The patient is a child",
+    "Doxycycline fails"
+   ],
+   "ans": 0,
+   "exp": "Anthrax (if penicillin G resistant): bioterrorism. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-098",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "For pseudomonas the fluoroquinolone order given is:",
+   "opts": [
+    "Ciprofloxacin > levofloxacin",
+    "Levofloxacin > ciprofloxacin",
+    "Moxifloxacin > ciprofloxacin",
+    "Norfloxacin > ciprofloxacin"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas: ciprofloxacin > levofloxacin. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-099",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Mycobacterium is covered by:",
+   "opts": [
+    "Some fluoroquinolones",
+    "No fluoroquinolone",
+    "All quinolones including nalidixic acid",
+    "Only norfloxacin"
+   ],
+   "ans": 0,
+   "exp": "Mycobacterium: some fluoroquinolones. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-100",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "The respiratory fluoroquinolones listed are:",
+   "opts": [
+    "Moxifloxacin, gemifloxacin and levofloxacin",
+    "Ciprofloxacin and norfloxacin",
+    "Pefloxacin and ofloxacin",
+    "Delafloxacin and ozenoxacin"
+   ],
+   "ans": 0,
+   "exp": "Respiratory fluoroquinolones: moxifloxacin, gemifloxacin, levofloxacin. (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-101",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 177,
+   "q": "Respiratory fluoroquinolones are used for:",
+   "opts": [
+    "Community acquired pneumonia (CAP)",
+    "Hospital-acquired pneumonia",
+    "Aspiration pneumonia",
+    "Lung abscess"
+   ],
+   "ans": 0,
+   "exp": "Use: community acquired pneumonia (CAP). (Book p177)"
+  },
+  {
+   "id": "PHARM-C44-102",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "First-line CAP treatment combines amoxicillin with:",
+   "opts": [
+    "Azithromycin",
+    "Clarithromycin",
+    "Doxycycline",
+    "Cotrimoxazole"
+   ],
+   "ans": 0,
+   "exp": "Treatment of CAP: amoxicillin + azithromycin. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-103",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "The alternative to amoxicillin in first-line CAP is:",
+   "opts": [
+    "Ceftriaxone",
+    "Cefixime",
+    "Cephalexin",
+    "Cefepime"
+   ],
+   "ans": 0,
+   "exp": "Alternative: ceftriaxone. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-104",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "Azithromycin in the CAP regimen provides:",
+   "opts": [
+    "Atypical bacteria coverage",
+    "Gram -ve coverage",
+    "Anaerobic coverage",
+    "Antiviral coverage"
+   ],
+   "ans": 0,
+   "exp": "Azithromycin (atypical bacteria coverage). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-105",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "If first-line CAP therapy is unresponsive, the cheaper option is:",
+   "opts": [
+    "A respiratory fluoroquinolone",
+    "Omadacycline",
+    "Lefamulin",
+    "Cotrimoxazole"
+   ],
+   "ans": 0,
+   "exp": "If unresponsive: respiratory fluoroquinolone (cheaper option). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-106",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "The expensive option for unresponsive CAP is:",
+   "opts": [
+    "Omadacycline",
+    "Respiratory fluoroquinolone",
+    "Lefamulin",
+    "Doxycycline"
+   ],
+   "ans": 0,
+   "exp": "Option 2: omadacycline (expensive). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-107",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "The pleuromutilin option for unresponsive CAP is:",
+   "opts": [
+    "Lefamulin",
+    "Retapamulin",
+    "Omadacycline",
+    "Moxifloxacin"
+   ],
+   "ans": 0,
+   "exp": "Option 3: lefamulin (pleuromutilin). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-108",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "page": 178,
+   "q": "The newer fluoroquinolones used for skin infections are:",
+   "opts": [
+    "Delafloxacin and ozenoxacin",
+    "Moxifloxacin and gemifloxacin",
+    "Levofloxacin and pefloxacin",
+    "Ciprofloxacin and norfloxacin"
+   ],
+   "ans": 0,
+   "exp": "Newer fluoroquinolones: delafloxacin, ozenoxacin - skin infections. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-109",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "The fluoroquinolone side-effect mnemonic is:",
+   "opts": [
+    "PQRST",
+    "QRST",
+    "ABCDE",
+    "SNAP"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: PQRST. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-110",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "In PQRST the P stands for:",
+   "opts": [
+    "Peripheral neuropathy",
+    "Photosensitivity",
+    "Pancreatitis",
+    "Pseudomembranous colitis"
+   ],
+   "ans": 0,
+   "exp": "P: peripheral neuropathy. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-111",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "In PQRST the Q stands for:",
+   "opts": [
+    "QT prolongation / torsades de pointes",
+    "Quinolone allergy",
+    "Quadriceps weakness",
+    "Quiet thyroid"
+   ],
+   "ans": 0,
+   "exp": "Q: QT prolongation / torsades de pointes. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-112",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "In PQRST the R stands for:",
+   "opts": [
+    "Rash (photosensitivity)",
+    "Renal failure",
+    "Retinopathy",
+    "Rhabdomyolysis"
+   ],
+   "ans": 0,
+   "exp": "R: rash (photo sensitivity). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-113",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "In PQRST the S stands for:",
+   "opts": [
+    "Seizure (GABA antagonism)",
+    "Stevens-Johnson syndrome",
+    "Syncope",
+    "Serotonin syndrome"
+   ],
+   "ans": 0,
+   "exp": "S: seizure (GABA antagonism). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-114",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "In PQRST the T stands for:",
+   "opts": [
+    "Tendinitis (m/c Achilles tendon)",
+    "Tinnitus",
+    "Thyroiditis",
+    "Tetany"
+   ],
+   "ans": 0,
+   "exp": "T: tendinitis (m/c Achilles tendon). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-115",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "The risk factors for fluoroquinolone tendon rupture listed are:",
+   "opts": [
+    "Transplant patient, elderly, steroid use and renal failure",
+    "Diabetes and hypertension",
+    "Hypothyroidism",
+    "Vitamin D deficiency"
+   ],
+   "ans": 0,
+   "exp": "Increased risk of tendon rupture in transplant patient, elderly, steroid use, renal failure. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-116",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Which deficiency does NOT increase fluoroquinolone tendon rupture risk?",
+   "opts": [
+    "Vitamin D deficiency",
+    "None - all deficiencies increase risk",
+    "Calcium deficiency",
+    "Magnesium deficiency"
+   ],
+   "ans": 0,
+   "exp": "Vit D deficiency does not increase risk of tendon rupture. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-117",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Fluoroquinolones are contraindicated in pregnancy and children due to:",
+   "opts": [
+    "Blockage of cartilage growth",
+    "Kernicterus",
+    "Neural tube defects",
+    "Teeth discolouration"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy and children: d/t blockage of cartilage growth. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-118",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Fluoroquinolones should not be combined with:",
+   "opts": [
+    "Other drugs causing QT prolongation, e.g. macrolides",
+    "Beta-lactams",
+    "Aminoglycosides in all cases",
+    "Penicillins"
+   ],
+   "ans": 0,
+   "exp": "C/I with other drugs causing QT prolongation, e.g. macrolides. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-119",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Fluoroquinolones are contraindicated with GABA inhibitors or epilepsy because of:",
+   "opts": [
+    "Increased risk of seizure",
+    "Decreased absorption",
+    "QT shortening",
+    "Tendon protection"
+   ],
+   "ans": 0,
+   "exp": "With GABA inhibitors / epilepsy (increased risk of seizure). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-120",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Moxifloxacin has the maximum:",
+   "opts": [
+    "Half-life among current fluoroquinolones",
+    "Oral bioavailability",
+    "Plasma protein binding",
+    "Photosensitivity"
+   ],
+   "ans": 0,
+   "exp": "Moxifloxacin maximum T1/2 among current fluoroquinolones. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-121",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Moxifloxacin carries maximum risk of:",
+   "opts": [
+    "Seizure, QT prolongation and dysglycemia",
+    "Tendon rupture only",
+    "Crystalluria",
+    "Hemolysis"
+   ],
+   "ans": 0,
+   "exp": "Moxifloxacin maximum: risk of seizure, QT prolongation, dysglycemia. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-122",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Moxifloxacin has maximum activity against:",
+   "opts": [
+    "Mycobacteria",
+    "Pseudomonas",
+    "Enterococcus",
+    "Anaerobes in gut"
+   ],
+   "ans": 0,
+   "exp": "Moxifloxacin maximum activity against mycobacteria. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-123",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Moxifloxacin is excreted:",
+   "opts": [
+    "Hepatically (safe in renal failure / unsafe in liver failure)",
+    "Renally (safe in liver failure)",
+    "Equally by both routes",
+    "In bile only without metabolism"
+   ],
+   "ans": 0,
+   "exp": "Hepatic excretion (safe in renal failure/unsafe in liver failure). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-124",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Moxifloxacin must not be used in UTI because:",
+   "opts": [
+    "The drug is not present in urine",
+    "It is inactivated by urine pH",
+    "It crystallises in urine",
+    "It causes hemorrhagic cystitis"
+   ],
+   "ans": 0,
+   "exp": "Not to be used in UTI (drug not present in urine). (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-125",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Maximum oral bioavailability among fluoroquinolones is with:",
+   "opts": [
+    "Levofloxacin",
+    "Moxifloxacin",
+    "Gemifloxacin",
+    "Pefloxacin"
+   ],
+   "ans": 0,
+   "exp": "Levofloxacin: maximum oral bioavailability. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-126",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Maximum plasma protein binding among fluoroquinolones is with:",
+   "opts": [
+    "Gemifloxacin",
+    "Levofloxacin",
+    "Moxifloxacin",
+    "Pefloxacin"
+   ],
+   "ans": 0,
+   "exp": "Gemifloxacin: maximum plasma protein binding. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-127",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "page": 178,
+   "q": "Maximum photosensitivity among fluoroquinolones is with:",
+   "opts": [
+    "Pefloxacin",
+    "Levofloxacin",
+    "Gemifloxacin",
+    "Moxifloxacin"
+   ],
+   "ans": 0,
+   "exp": "Pefloxacin: maximum photosensitivity. (Book p178)"
+  },
+  {
+   "id": "PHARM-C44-128",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Urinary antiseptic agents are defined as drugs with:",
+   "opts": [
+    "Increased concentration in urine",
+    "Increased concentration in blood",
+    "Increased biliary excretion",
+    "Increased tissue penetration"
+   ],
+   "ans": 0,
+   "exp": "Drugs with increased concentration in urine. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-129",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The urinary antiseptic list begins with:",
+   "opts": [
+    "Fosfomycin / fosfidomycin, nalidixic acid and norfloxacin",
+    "Nitrofurantoin, trimethoprim and methenamine",
+    "Cotrimoxazole and ciprofloxacin",
+    "Methenamine and hippuric acid"
+   ],
+   "ans": 0,
+   "exp": "List: fosfomycin/fosfidomycin, nalidixic acid, norfloxacin, then others. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-130",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The MOA of nitrofurantoin is:",
+   "opts": [
+    "Free radical production",
+    "DHFR inhibition",
+    "DNA gyrase inhibition",
+    "Cell wall inhibition"
+   ],
+   "ans": 0,
+   "exp": "Nitrofurantoin MOA: free radical production. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-131",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Nitrofurantoin is used as:",
+   "opts": [
+    "Treatment of UTI (first line drug)",
+    "Prophylaxis of UTI only",
+    "Treatment of pyelonephritis",
+    "Treatment of prostatitis"
+   ],
+   "ans": 0,
+   "exp": "Use: treatment of UTI (first line drug). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-132",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The side effect of nitrofurantoin in G-6-PD deficiency is:",
+   "opts": [
+    "Hemolysis",
+    "Methemoglobinemia",
+    "Crystalluria",
+    "Peripheral neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Side effects: hemolysis in G-6-PD deficiency. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-133",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The MOA of trimethoprim is:",
+   "opts": [
+    "DHFR inhibitor (bacteriostatic)",
+    "DHPS inhibitor",
+    "ENaC activator",
+    "Folate conjugase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Trimethoprim MOA: DHFR inhibitor (bacteriostatic). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-134",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Trimethoprim is used for:",
+   "opts": [
+    "Treatment of UTI",
+    "Prophylaxis of UTI only",
+    "Pneumocystis pneumonia only",
+    "Typhoid"
+   ],
+   "ans": 0,
+   "exp": "Trimethoprim use: treatment of UTI. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-135",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Trimethoprim causes hyperkalemia by:",
+   "opts": [
+    "Inhibiting ENaC (epithelial sodium channels)",
+    "Blocking aldosterone synthesis",
+    "Damaging glomeruli",
+    "Causing acidosis"
+   ],
+   "ans": 0,
+   "exp": "Side effect: inhibits ENaC -> hyperkalemia. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-136",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Trimethoprim is contraindicated in pregnancy because of:",
+   "opts": [
+    "Neural tube defects in the fetus",
+    "Kernicterus",
+    "Cardiac defects",
+    "Limb defects"
+   ],
+   "ans": 0,
+   "exp": "C/I pregnancy (d/t neural tube defects in fetus). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-137",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Methenamine is formulated with:",
+   "opts": [
+    "Hippuric and mandelic acid",
+    "Ascorbic and citric acid",
+    "Benzoic and salicylic acid",
+    "Acetic and lactic acid"
+   ],
+   "ans": 0,
+   "exp": "Formulated with hippuric & mandelic acid. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-138",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The hippuric and mandelic acids of methenamine are excreted in urine:",
+   "opts": [
+    "Unchanged",
+    "As conjugates",
+    "After hepatic metabolism",
+    "As ammonia only"
+   ],
+   "ans": 0,
+   "exp": "Excreted in urine unchanged. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-139",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Methenamine requires which urine pH to work?",
+   "opts": [
+    "Acidic pH",
+    "Alkaline pH",
+    "Neutral pH",
+    "Any pH"
+   ],
+   "ans": 0,
+   "exp": "Acidic pH of urine is required. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-140",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The urine acidifying agents listed to lower pH further are:",
+   "opts": [
+    "Vitamin C and ammonium chloride",
+    "Sodium bicarbonate",
+    "Acetazolamide",
+    "Potassium citrate"
+   ],
+   "ans": 0,
+   "exp": "To decrease pH more: urine acidifying agents - vit. C, ammonium chloride. (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-141",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "In acidic urine methenamine releases:",
+   "opts": [
+    "Ammonia and formaldehyde (antibacterial)",
+    "Ammonia only",
+    "Formaldehyde and acetaldehyde",
+    "Nitrite and ammonia"
+   ],
+   "ans": 0,
+   "exp": "Methenamine -> ammonia + formaldehyde (antibacterial). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-142",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "The use of methenamine is:",
+   "opts": [
+    "Prophylaxis of UTI (not used for treatment)",
+    "Treatment of acute UTI",
+    "Treatment of pyelonephritis",
+    "Gut sterilization"
+   ],
+   "ans": 0,
+   "exp": "Use: prophylaxis of UTI (not used for treatment). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-143",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Methenamine is contraindicated in liver failure because of:",
+   "opts": [
+    "Increased risk of encephalopathy",
+    "Increased ammonia excretion",
+    "Hepatorenal syndrome",
+    "Coagulopathy"
+   ],
+   "ans": 0,
+   "exp": "C/I liver failure (increased risk of encephalopathy). (Book p179)"
+  },
+  {
+   "id": "PHARM-C44-144",
+   "sec": "Urinary Antiseptic Agents",
+   "page": 179,
+   "q": "Methenamine is contraindicated in renal failure because of:",
+   "opts": [
+    "Hippuric and mandelic acid toxicity",
+    "Formaldehyde nephrotoxicity",
+    "Crystalluria",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "C/I renal failure (hippuric & mandelic acid toxicity). (Book p179)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U44-1",
+   "ch": 44,
+   "n": 1,
+   "title": "Other Antibacterial Drugs: Classification and Polymyxins",
+   "sec": "Other Antibacterial Drugs: Classification and Polymyxins · p174",
+   "qs": [
+    "PHARM-C44-001",
+    "PHARM-C44-002",
+    "PHARM-C44-003",
+    "PHARM-C44-004",
+    "PHARM-C44-005",
+    "PHARM-C44-006",
+    "PHARM-C44-007",
+    "PHARM-C44-008",
+    "PHARM-C44-009",
+    "PHARM-C44-010",
+    "PHARM-C44-011",
+    "PHARM-C44-012",
+    "PHARM-C44-013",
+    "PHARM-C44-014",
+    "PHARM-C44-015",
+    "PHARM-C44-016",
+    "PHARM-C44-017"
+   ],
+   "guide": "Other antibacterial drugs split into cell-membrane agents, anti-folate drugs and DNA gyrase inhibitors. Membrane agents are bactericidal but toxic to all cells, hence last-line; polymyxins are cationic detergents that bind membrane phospholipid and form pseudopores through which water and solutes enter (lysis), other drugs enter better, and endotoxins are bound and blocked. Polymyxin-B (Neosporin) is topical for skin infection while colistin (polymyxin E) is IV for MDR gram -ve sepsis but is potently nephrotoxic and neuromuscularly toxic."
+  },
+  {
+   "id": "PHARM-U44-2",
+   "ch": 44,
+   "n": 2,
+   "title": "Lipopeptides: Daptomycin",
+   "sec": "Lipopeptides: Daptomycin · p174",
+   "qs": [
+    "PHARM-C44-018",
+    "PHARM-C44-019",
+    "PHARM-C44-020",
+    "PHARM-C44-021",
+    "PHARM-C44-022",
+    "PHARM-C44-023",
+    "PHARM-C44-024",
+    "PHARM-C44-025",
+    "PHARM-C44-026",
+    "PHARM-C44-027",
+    "PHARM-C44-028",
+    "PHARM-C44-029",
+    "PHARM-C44-030"
+   ],
+   "guide": "Lipopeptides are large peptide molecules with poor oral adsorption and a gram +ve-only spectrum (Staphylococcus, Enterococcus). Daptomycin is IV, depolarises the cell membrane causing K+ efflux, and is DOC for VRSA and for empirical MRSA cover when vancomycin sensitivity is unknown; myopathy limits it and surfactant inactivation contraindicates it in pneumonia - vancomycin remains DOC in MRSA and linezolid in VRSA pneumonia."
+  },
+  {
+   "id": "PHARM-U44-3",
+   "ch": 44,
+   "n": 3,
+   "title": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers",
+   "sec": "Anti-folate Drugs: Folic Acid Synthesis and Its Blockers · p175",
+   "qs": [
+    "PHARM-C44-031",
+    "PHARM-C44-032",
+    "PHARM-C44-033",
+    "PHARM-C44-034",
+    "PHARM-C44-035",
+    "PHARM-C44-036",
+    "PHARM-C44-037",
+    "PHARM-C44-038",
+    "PHARM-C44-039",
+    "PHARM-C44-040",
+    "PHARM-C44-041",
+    "PHARM-C44-042",
+    "PHARM-C44-043"
+   ],
+   "guide": "Bacteria build folate from pteridine + PABA via dihydro-pteroid synthase (DHPS, absent in humans) to DHPA, add glutamate to make DHFA (the human consumption form), then reduce it by DHFR (present in humans) to active tetra hydrofolate. DHPS blockers (dapsone, PAS, sulfonamides) and DHFR blockers (pyrimethamine, proguanil, methotrexate, trimethoprim) are each bacteriostatic - DHFR blockers unsafe in pregnancy for neural tube defects - but together become bactericidal."
+  },
+  {
+   "id": "PHARM-U44-4",
+   "ch": 44,
+   "n": 4,
+   "title": "Sulfonamides: Spectrum and Individual Drugs",
+   "sec": "Sulfonamides: Spectrum and Individual Drugs · p175",
+   "qs": [
+    "PHARM-C44-044",
+    "PHARM-C44-045",
+    "PHARM-C44-046",
+    "PHARM-C44-047",
+    "PHARM-C44-048",
+    "PHARM-C44-049",
+    "PHARM-C44-050",
+    "PHARM-C44-051",
+    "PHARM-C44-052",
+    "PHARM-C44-053",
+    "PHARM-C44-054",
+    "PHARM-C44-055"
+   ],
+   "guide": "Sulfonamides are aerobic-spectrum drugs: gram +ve except Enterococcus and gram -ve except Pseudomonas and Rickettsia, which even show paradoxical overgrowth. Sulfadoxine is longest acting (malaria), sulfadiazine is TOC for toxoplasma with pyrimethamine, sulfisoxazole is the most water soluble with least crystalluria risk (otitis, UTI), and sulfasalazine - sulfonamide group plus 5-ASA - modifies rheumatoid arthritis and treats ulcerative colitis because 5-ASA stays unabsorbed in the gut."
+  },
+  {
+   "id": "PHARM-U44-5",
+   "ch": 44,
+   "n": 5,
+   "title": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates",
+   "sec": "Cotrimoxazole, Anti-folate Notes and Topical Anti-folates · p176",
+   "qs": [
+    "PHARM-C44-056",
+    "PHARM-C44-057",
+    "PHARM-C44-058",
+    "PHARM-C44-059",
+    "PHARM-C44-060",
+    "PHARM-C44-061",
+    "PHARM-C44-062",
+    "PHARM-C44-063",
+    "PHARM-C44-064",
+    "PHARM-C44-065",
+    "PHARM-C44-066",
+    "PHARM-C44-067",
+    "PHARM-C44-068",
+    "PHARM-C44-069",
+    "PHARM-C44-070"
+   ],
+   "guide": "Cotrimoxazole pairs sulfamethoxazole with trimethoprim (bactericidal): tablet ratio 5:1 but blood ratio 20:1 because trimethoprim has a larger volume of distribution, and trimethoprim is 20x more potent. It is DOC in cystitis and for cyclospora, Burkholderia cepacia, pneumocystis, isospora, nocardia and sarcocyst. Mesalamine is DOC for ulcerative colitis and spiramycin for toxoplasma in pregnancy; topically, sulfadiazine ointment (burns, fungal keratomycosis), mafenide (burns, painful, metabolic acidosis via carbonic anhydrase block) and sulfacetamide drops (trachoma, conjunctivitis) are used."
+  },
+  {
+   "id": "PHARM-U44-6",
+   "ch": 44,
+   "n": 6,
+   "title": "Sulfonamide Side Effects",
+   "sec": "Sulfonamide Side Effects · p176",
+   "qs": [
+    "PHARM-C44-071",
+    "PHARM-C44-072",
+    "PHARM-C44-073",
+    "PHARM-C44-074",
+    "PHARM-C44-075",
+    "PHARM-C44-076",
+    "PHARM-C44-077"
+   ],
+   "guide": "Sulfonamides given near delivery displace bilirubin from albumin (increased plasma protein binding of the sulfonamide), raising blood bilirubin that crosses the blood-brain barrier and causes kernicterus after birth. They also precipitate acute intermittent porphyria, methemoglobinemia with cyanosis refractory to O2, hypersensitivity rash and bone-marrow suppression across the whole sulfonamide group, and crystalluria with renal stones unless water intake is raised."
+  },
+  {
+   "id": "PHARM-U44-7",
+   "ch": 44,
+   "n": 7,
+   "title": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA",
+   "sec": "DNA Gyrase Inhibitors: Quinolones and Fluoroquinolone MOA · p177",
+   "qs": [
+    "PHARM-C44-078",
+    "PHARM-C44-079",
+    "PHARM-C44-080",
+    "PHARM-C44-081",
+    "PHARM-C44-082",
+    "PHARM-C44-083",
+    "PHARM-C44-084",
+    "PHARM-C44-085",
+    "PHARM-C44-086",
+    "PHARM-C44-087",
+    "PHARM-C44-088",
+    "PHARM-C44-089",
+    "PHARM-C44-090",
+    "PHARM-C44-091"
+   ],
+   "guide": "DNA gyrase inhibitors are bactericidal. Nalidixic acid blocks DNA gyrase of gram -ve organisms and, concentrating in urine and stool, treats UTI and traveller's diarrhea. Adding fluorine gives fluoroquinolones: DNA gyrase inhibition supplies gram -ve coverage and topoisomerase IV inhibition adds gram +ve coverage. Norfloxacin is least active with poor tissue concentration (same uses as nalidixic acid) while ciprofloxacin is most active and concentrates in urine and stool."
+  },
+  {
+   "id": "PHARM-U44-8",
+   "ch": 44,
+   "n": 8,
+   "title": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment",
+   "sec": "Ciprofloxacin DOC List, Organism-specific Fluoroquinolones and CAP Treatment · p177",
+   "qs": [
+    "PHARM-C44-092",
+    "PHARM-C44-093",
+    "PHARM-C44-094",
+    "PHARM-C44-095",
+    "PHARM-C44-096",
+    "PHARM-C44-097",
+    "PHARM-C44-098",
+    "PHARM-C44-099",
+    "PHARM-C44-100",
+    "PHARM-C44-101",
+    "PHARM-C44-102",
+    "PHARM-C44-103",
+    "PHARM-C44-104",
+    "PHARM-C44-105",
+    "PHARM-C44-106",
+    "PHARM-C44-107",
+    "PHARM-C44-108"
+   ],
+   "guide": "Ciprofloxacin is DOC for pyelonephritis, traveller's diarrhoea, typhoid carrier, shigella and contacts of meningococcal meningitis, and for penicillin-G-resistant anthrax in bioterrorism. Pseudomonas prefers ciprofloxacin over levofloxacin, some fluoroquinolones cover mycobacterium, and the respiratory fluoroquinolones (moxifloxacin, gemifloxacin, levofloxacin) treat CAP. First-line CAP is amoxicillin (ceftriaxone alternative) plus azithromycin for atypicals; if unresponsive choose a respiratory fluoroquinolone (cheaper), omadacycline (expensive) or lefamulin; delafloxacin and ozenoxacin are newer skin-infection fluoroquinolones."
+  },
+  {
+   "id": "PHARM-U44-9",
+   "ch": 44,
+   "n": 9,
+   "title": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons",
+   "sec": "Fluoroquinolone Side Effects, Contraindications and Activity Comparisons · p178",
+   "qs": [
+    "PHARM-C44-109",
+    "PHARM-C44-110",
+    "PHARM-C44-111",
+    "PHARM-C44-112",
+    "PHARM-C44-113",
+    "PHARM-C44-114",
+    "PHARM-C44-115",
+    "PHARM-C44-116",
+    "PHARM-C44-117",
+    "PHARM-C44-118",
+    "PHARM-C44-119",
+    "PHARM-C44-120",
+    "PHARM-C44-121",
+    "PHARM-C44-122",
+    "PHARM-C44-123",
+    "PHARM-C44-124",
+    "PHARM-C44-125",
+    "PHARM-C44-126",
+    "PHARM-C44-127"
+   ],
+   "guide": "The PQRST mnemonic lists peripheral neuropathy, QT prolongation/torsades, rash (photosensitivity), seizure (GABA antagonism) and tendinitis - most often Achilles, with rupture risk in transplant patients, the elderly, steroid users and renal failure but not in vitamin D deficiency. Fluoroquinolones are contraindicated in pregnancy and children (cartilage growth blockage), with other QT-prolonging drugs such as macrolides, and with GABA inhibitors or epilepsy. Moxifloxacin has the maximum half-life, seizure risk, QT prolongation, dysglycemia and anti-mycobacterial activity but hepatic excretion (unsafe in liver failure, useless in UTI); levofloxacin has maximum oral bioavailability, gemifloxacin maximum protein binding and pefloxacin maximum photosensitivity."
+  },
+  {
+   "id": "PHARM-U44-10",
+   "ch": 44,
+   "n": 10,
+   "title": "Urinary Antiseptic Agents",
+   "sec": "Urinary Antiseptic Agents · p179",
+   "qs": [
+    "PHARM-C44-128",
+    "PHARM-C44-129",
+    "PHARM-C44-130",
+    "PHARM-C44-131",
+    "PHARM-C44-132",
+    "PHARM-C44-133",
+    "PHARM-C44-134",
+    "PHARM-C44-135",
+    "PHARM-C44-136",
+    "PHARM-C44-137",
+    "PHARM-C44-138",
+    "PHARM-C44-139",
+    "PHARM-C44-140",
+    "PHARM-C44-141",
+    "PHARM-C44-142",
+    "PHARM-C44-143",
+    "PHARM-C44-144"
+   ],
+   "guide": "Urinary antiseptics are drugs that concentrate in urine: fosfomycin/fosfidomycin, nalidixic acid, norfloxacin, nitrofurantoin, trimethoprim and methenamine. Nitrofurantoin (free-radical production) is a first-line UTI treatment but hemolyses in G-6-PD deficiency; trimethoprim (DHFR inhibitor, bacteriostatic) treats UTI, blocks ENaC causing hyperkalemia and is contraindicated in pregnancy. Methenamine, formulated with hippuric and mandelic acids excreted unchanged, needs acidic urine - helped by vitamin C or ammonium chloride - to release ammonia and antibacterial formaldehyde, so it only prophylaxes UTI and is contraindicated in liver failure (encephalopathy) and renal failure (acid toxicity)."
+  }
+ ]
+}

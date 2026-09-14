@@ -1,0 +1,1241 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C43-001",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The chapter heading places macrolides among drugs acting on which ribosomal subunit?",
+   "opts": [
+    "50S subunit",
+    "30S subunit",
+    "40S subunit",
+    "70S initiation complex"
+   ],
+   "ans": 0,
+   "exp": "Heading: drugs acting on 50s subunit. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-002",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The mechanism of action of macrolides is:",
+   "opts": [
+    "Translocase inhibitor",
+    "Peptidyl transferase inhibitor",
+    "A-site blocker",
+    "Misreading of mRNA"
+   ],
+   "ans": 0,
+   "exp": "Macrolides MOA: translocase inhibitor. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-003",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The macrolide mechanisms of resistance listed are:",
+   "opts": [
+    "Enzymatic inactivation and MLS-B type resistance",
+    "Efflux only",
+    "Ribosomal protective protein",
+    "Beta-lactamase"
+   ],
+   "ans": 0,
+   "exp": "MOR: enzymatic inactivation; MLS-B type resistance. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-004",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The routes of erythromycin are:",
+   "opts": [
+    "Oral / IV",
+    "IM only",
+    "Topical only",
+    "Oral only"
+   ],
+   "ans": 0,
+   "exp": "Erythromycin route: oral / IV. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-005",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The gram +ve spectrum of erythromycin is similar to:",
+   "opts": [
+    "Penicillin G",
+    "Penicillin V",
+    "Flucloxacillin",
+    "Ampicillin"
+   ],
+   "ans": 0,
+   "exp": "Gram +ve (similar to penicillin G). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-006",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "The gram -ve action of erythromycin is described as:",
+   "opts": [
+    "Same action as on gram +ve",
+    "No gram -ve action",
+    "Only antipseudomonal",
+    "Only anti-H. pylori"
+   ],
+   "ans": 0,
+   "exp": "Gram -ve (same action). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-007",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "Erythromycin is DOC in:",
+   "opts": [
+    "Pertussis",
+    "Tetanus",
+    "Botulism",
+    "Gas gangrene"
+   ],
+   "ans": 0,
+   "exp": "DOC in: pertussis. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-008",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "Erythromycin is DOC in which toxin-mediated airway disease?",
+   "opts": [
+    "Diphtheria",
+    "Pertussis only",
+    "Epiglottitis",
+    "Ludwig angina"
+   ],
+   "ans": 0,
+   "exp": "DOC in: diphtheria. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-009",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "page": 171,
+   "q": "Rheumatic fever prophylaxis in a penicillin-allergic patient uses:",
+   "opts": [
+    "Erythromycin",
+    "Clindamycin",
+    "Azithromycin always",
+    "Cephalexin"
+   ],
+   "ans": 0,
+   "exp": "Rheumatic fever prophylaxis (in penicillin allergy). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-010",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The erythromycin side-effect mnemonic on the page is:",
+   "opts": [
+    "macro SD Card",
+    "macro QT",
+    "macro SE",
+    "macro ABC"
+   ],
+   "ans": 0,
+   "exp": "S/E mnemonic: macro SD Card. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-011",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "Erythromycin causes hypertrophic pyloric stenosis (HPS) by acting as a:",
+   "opts": [
+    "Motilin receptor agonist",
+    "Gastrin antagonist",
+    "Serotonin antagonist",
+    "Histamine agonist"
+   ],
+   "ans": 0,
+   "exp": "Motilin receptor agonist: hypertrophic pyloric stenosis (HPS). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-012",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The muscle side effect of erythromycin listed is:",
+   "opts": [
+    "Skeletal muscle weakness",
+    "Myopathy with raised CK",
+    "Rhabdomyolysis",
+    "Myasthenia gravis"
+   ],
+   "ans": 0,
+   "exp": "Skeletal muscle weakness. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-013",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The GIT side effect of erythromycin in the mnemonic list is:",
+   "opts": [
+    "Diarrhea",
+    "Constipation",
+    "Colitis",
+    "Vomiting only"
+   ],
+   "ans": 0,
+   "exp": "Diarrhea. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-014",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The QT prolongation order among macrolides is:",
+   "opts": [
+    "Erythromycin > clarithromycin > azithromycin",
+    "Azithromycin > clarithromycin > erythromycin",
+    "Clarithromycin > erythromycin > azithromycin",
+    "All three equal"
+   ],
+   "ans": 0,
+   "exp": "Cardiac S/E: QT prolongation (erythromycin > clarithromycin > azithromycin). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-015",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The cardiac risk that follows macrolide QT prolongation is:",
+   "opts": [
+    "Risk of torsade de pointes",
+    "Atrial fibrillation",
+    "Bradycardia",
+    "Heart block"
+   ],
+   "ans": 0,
+   "exp": "Risk of torsade de pointes. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-016",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "Cholestatic jaundice occurs only with which erythromycin salt?",
+   "opts": [
+    "Erythromycin estolate salt",
+    "Erythromycin base",
+    "Erythromycin ethylsuccinate",
+    "Erythromycin stearate"
+   ],
+   "ans": 0,
+   "exp": "Cholestatic jaundice (only with erythromycin estolate salt). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-017",
+   "sec": "Erythromycin Side Effects and Secondary Use",
+   "page": 171,
+   "q": "The secondary (prokinetic) use of erythromycin is:",
+   "opts": [
+    "Gastroparesis",
+    "GERD",
+    "Peptic ulcer",
+    "Ileus prevention post-op"
+   ],
+   "ans": 0,
+   "exp": "Secondary use: gastroparesis. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-018",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "The route and dosing of clarithromycin are:",
+   "opts": [
+    "Oral (BD dosing)",
+    "IV only",
+    "Oral OD dosing",
+    "IM BD dosing"
+   ],
+   "ans": 0,
+   "exp": "Clarithromycin route: oral (BD dosing). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-019",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "The uses of clarithromycin listed are:",
+   "opts": [
+    "Mycobacterium and H. pylori",
+    "Legionella and chlamydia",
+    "Pertussis and diphtheria",
+    "Gastroparesis and GERD"
+   ],
+   "ans": 0,
+   "exp": "Clarithromycin use: mycobacterium; H. pylori. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-020",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "The routes of azithromycin are:",
+   "opts": [
+    "Oral/IV",
+    "Oral only",
+    "IV only",
+    "Topical"
+   ],
+   "ans": 0,
+   "exp": "Azithromycin route: oral/IV. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-021",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "The longest-acting macrolide with OD dosing is:",
+   "opts": [
+    "Azithromycin",
+    "Clarithromycin",
+    "Erythromycin",
+    "Roxithromycin"
+   ],
+   "ans": 0,
+   "exp": "Azithromycin: longest acting (OD dosing). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-022",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "Azithromycin is DOC for atypical pneumonia caused by:",
+   "opts": [
+    "Chlamydia, mycoplasma and legionella",
+    "Streptococcus pneumoniae",
+    "Klebsiella",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "DOC atypical pneumonia: chlamydia, mycoplasma, legionella. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-023",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "Azithromycin is DOC for which curved gram -ve organism?",
+   "opts": [
+    "Campylobacter",
+    "Helicobacter",
+    "Vibrio",
+    "Spirochaete"
+   ],
+   "ans": 0,
+   "exp": "DOC: campylobacter. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-024",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "Azithromycin is DOC for which sexually transmitted infection?",
+   "opts": [
+    "Chlamydia (STD)",
+    "Gonorrhoea",
+    "Syphilis",
+    "Trichomonas"
+   ],
+   "ans": 0,
+   "exp": "DOC: chlamydia (STD). (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-025",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "Cholera in pregnancy or children is treated with:",
+   "opts": [
+    "Azithromycin",
+    "Doxycycline",
+    "Tetracycline",
+    "Ciprofloxacin"
+   ],
+   "ans": 0,
+   "exp": "Cholera in pregnancy/children. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-026",
+   "sec": "Clarithromycin and Azithromycin",
+   "page": 171,
+   "q": "The add-on drug in scrub typhus (with IV doxycycline in severe disease) is:",
+   "opts": [
+    "Azithromycin",
+    "Clarithromycin",
+    "Erythromycin",
+    "Spiramycin"
+   ],
+   "ans": 0,
+   "exp": "Add on drug in scrub typhus. (Book p171)"
+  },
+  {
+   "id": "PHARM-C43-027",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The marrow side effect of linezolid is:",
+   "opts": [
+    "Bone marrow suppression",
+    "Aplastic anaemia only",
+    "Haemolysis",
+    "Eosinophilia"
+   ],
+   "ans": 0,
+   "exp": "Linezolid S/E: bone marrow suppression. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-028",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Linezolid causes the cheese reaction because it is a:",
+   "opts": [
+    "MAO inhibitor",
+    "COMT inhibitor",
+    "Tyramine agonist",
+    "Histamine releaser"
+   ],
+   "ans": 0,
+   "exp": "MAO inhibitor -> cheese reaction. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-029",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The cheese reaction of linezolid presents as:",
+   "opts": [
+    "HTN crisis",
+    "Hypotensive shock",
+    "Bronchospasm",
+    "Flush without BP change"
+   ],
+   "ans": 0,
+   "exp": "Cheese reaction: HTN crisis. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-030",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The treatment of linezolid cheese-reaction HTN crisis is:",
+   "opts": [
+    "I/V phentolamine",
+    "Oral amlodipine",
+    "IV labetalol always",
+    "Nitroprusside"
+   ],
+   "ans": 0,
+   "exp": "Rx: I/V phentolamine. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-031",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Mitochondrial toxicity of linezolid causes:",
+   "opts": [
+    "Lactic acidosis and optic neuritis",
+    "Peripheral neuropathy only",
+    "Hepatic failure",
+    "Cardiomyopathy"
+   ],
+   "ans": 0,
+   "exp": "Mitochondrial toxicity -> lactic acidosis, optic neuritis. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-032",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Linezolid is used as a last-line drug against:",
+   "opts": [
+    "Gram +ve organisms",
+    "Gram -ve organisms",
+    "Anaerobes",
+    "Fungi"
+   ],
+   "ans": 0,
+   "exp": "Use: last line against gram +ve. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-033",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Linezolid is DOC in:",
+   "opts": [
+    "Vancomycin resistant enterococcus (VRE)",
+    "MRSA only",
+    "Resistant TB only",
+    "All of the above separately listed"
+   ],
+   "ans": 0,
+   "exp": "DOC in: VRE, MRSA/VRSA, resistant TB - VRE is listed first. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-034",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Linezolid is DOC in which resistant staphylococcal forms?",
+   "opts": [
+    "MRSA/VRSA",
+    "VRE only",
+    "ORSAs",
+    "Beta-lactamase producers"
+   ],
+   "ans": 0,
+   "exp": "DOC in: MRSA/VRSA. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-035",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Linezolid is DOC in which mycobacterial situation?",
+   "opts": [
+    "Resistant TB",
+    "Newly diagnosed TB",
+    "Latent TB",
+    "Atypical mycobacteria only"
+   ],
+   "ans": 0,
+   "exp": "DOC in: resistant TB. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-036",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The routes and dosing of linezolid are:",
+   "opts": [
+    "IV and oral, BD dosing",
+    "IV only",
+    "Oral OD dosing",
+    "IM BD dosing"
+   ],
+   "ans": 0,
+   "exp": "Route: I/v and oral - BD dosing. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-037",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The oral bioavailability of linezolid is:",
+   "opts": [
+    "100%",
+    "50%",
+    "70%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Bioavailability: 100%. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-038",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "Tedizolid is less toxic than linezolid because it causes:",
+   "opts": [
+    "Less bone marrow suppression",
+    "Less optic neuritis",
+    "Less lactic acidosis",
+    "Less neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Tedizolid: less toxic - less BM suppression. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-039",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid",
+   "page": 172,
+   "q": "The increased half-life of tedizolid allows:",
+   "opts": [
+    "OD dosing",
+    "BD dosing",
+    "TDS dosing",
+    "Weekly dosing"
+   ],
+   "ans": 0,
+   "exp": "Increased T1/2 life: OD dosing. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-040",
+   "sec": "Streptogramins",
+   "page": 172,
+   "q": "The route of streptogramins is:",
+   "opts": [
+    "IV only",
+    "Oral",
+    "IM",
+    "Topical"
+   ],
+   "ans": 0,
+   "exp": "Streptogramins route: IV only. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-041",
+   "sec": "Streptogramins",
+   "page": 172,
+   "q": "The infusion-site problems of streptogramins are:",
+   "opts": [
+    "Pain, inflammation and edema",
+    "Necrosis and gangrene",
+    "Phlebitis only",
+    "Urticaria"
+   ],
+   "ans": 0,
+   "exp": "Pain, inflammation, edema at site of infusion. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-042",
+   "sec": "Streptogramins",
+   "page": 172,
+   "q": "Because of infusion-site reactions streptogramins require:",
+   "opts": [
+    "A central line",
+    "A large peripheral cannula",
+    "An arterial line",
+    "A subcutaneous port"
+   ],
+   "ans": 0,
+   "exp": "Site of infusion problems -> need of central line. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-043",
+   "sec": "Streptogramins",
+   "page": 172,
+   "q": "The streptogramin spectrum covers:",
+   "opts": [
+    "Gram +ve and atypical organisms",
+    "Gram -ve aerobes",
+    "Anaerobes only",
+    "Only gram -ve atypicals"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: gram +ve; atypical organisms. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-044",
+   "sec": "Streptogramins",
+   "page": 172,
+   "q": "Streptogramins are used as last-line drugs in:",
+   "opts": [
+    "MRSA, VRSA and VRE",
+    "Only MRSA",
+    "Only VRE",
+    "ESBL producers"
+   ],
+   "ans": 0,
+   "exp": "Use as last line drug in MRSA, VRSA, VRE. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-045",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "The gram +ve spectrum of clindamycin includes:",
+   "opts": [
+    "Aerobes (staph) and anaerobes",
+    "Only aerobes",
+    "Only anaerobes",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Gram +ve: aerobes (staph), anaerobes. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-046",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "Against gram -ve aerobes clindamycin is:",
+   "opts": [
+    "Not effective",
+    "Highly effective",
+    "Moderately effective",
+    "Effective only in urine"
+   ],
+   "ans": 0,
+   "exp": "Gram -ve aerobes: not effective. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-047",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "The gram -ve anaerobes covered by clindamycin are:",
+   "opts": [
+    "Bacteroides and Prevotella",
+    "Fusobacterium only",
+    "Clostridium only",
+    "Peptostreptococcus only"
+   ],
+   "ans": 0,
+   "exp": "Gram -ve anaerobes: Bacteroides/Prevotella. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-048",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "Supradiaphragmatic anaerobic infection is typically caused by:",
+   "opts": [
+    "Prevotella (oral)",
+    "Bacteroides (colorectal)",
+    "Clostridium perfringens",
+    "Actinomyces"
+   ],
+   "ans": 0,
+   "exp": "Table: supradiaphragmatic - Prevotella (oral). (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-049",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "The drug chosen for supradiaphragmatic anaerobic infection is:",
+   "opts": [
+    "Clindamycin",
+    "Metronidazole",
+    "Vancomycin",
+    "Cefoxitin"
+   ],
+   "ans": 0,
+   "exp": "Table: supradiaphragmatic -> clindamycin. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-050",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "Intradiaphragmatic (colorectal) anaerobic infection is caused by:",
+   "opts": [
+    "Bacteroides",
+    "Prevotella (oral)",
+    "Streptococcus anginosus",
+    "E. coli"
+   ],
+   "ans": 0,
+   "exp": "Table: intradiaphragmatic - Bacteroides (colorectal). (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-051",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "page": 172,
+   "q": "The drug chosen for intradiaphragmatic (colorectal) anaerobic infection is:",
+   "opts": [
+    "Metronidazole",
+    "Clindamycin",
+    "Linezolid",
+    "Tigecycline"
+   ],
+   "ans": 0,
+   "exp": "Table: intradiaphragmatic -> metronidazole. (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-052",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 172,
+   "q": "In Staphylococcus infections clindamycin is DOC for:",
+   "opts": [
+    "Toxic shock syndrome",
+    "Osteomyelitis",
+    "Endocarditis",
+    "Abscesses"
+   ],
+   "ans": 0,
+   "exp": "In staphylococcus: toxic shock syndrome (DOC). (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-053",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 172,
+   "q": "Clindamycin is useful in osteomyelitis because of:",
+   "opts": [
+    "Good bone penetration",
+    "Bactericidal action",
+    "Low protein binding",
+    "Renal excretion"
+   ],
+   "ans": 0,
+   "exp": "Osteomyelitis (good bone penetration). (Book p172)"
+  },
+  {
+   "id": "PHARM-C43-054",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "Chloramphenicol is described as a:",
+   "opts": [
+    "Wide spectrum drug",
+    "Narrow spectrum drug",
+    "Gram +ve only drug",
+    "Antifungal"
+   ],
+   "ans": 0,
+   "exp": "Chloramphenicol: wide spectrum drug. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-055",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "Chloramphenicol was used earlier in the treatment of:",
+   "opts": [
+    "Typhoid",
+    "Meningococcal meningitis",
+    "Plague",
+    "Brucellosis"
+   ],
+   "ans": 0,
+   "exp": "Use: in typhoid treatment (earlier). (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-056",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "The marrow side effect of chloramphenicol is:",
+   "opts": [
+    "BM suppression",
+    "Haemolysis",
+    "Leucocytosis",
+    "Thrombocytosis"
+   ],
+   "ans": 0,
+   "exp": "S/E: BM suppression. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-057",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "Gray baby syndrome begins with:",
+   "opts": [
+    "Cardiotoxicity",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Neurotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Gray baby syndrome: cardiotoxicity first. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-058",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "In gray baby syndrome the oxygenation of tissues is:",
+   "opts": [
+    "Decreased",
+    "Increased",
+    "Unchanged",
+    "First increased then normal"
+   ],
+   "ans": 0,
+   "exp": "Cardiotoxicity -> decreased oxygenation of tissues. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-059",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol",
+   "page": 173,
+   "q": "The colour of tissues in gray baby syndrome is:",
+   "opts": [
+    "Ash/grey",
+    "Bright red",
+    "Blue-black",
+    "Yellow"
+   ],
+   "ans": 0,
+   "exp": "Decreased oxygenation -> ash/grey colour of tissues. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-060",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The pleuromutilins named on the page are:",
+   "opts": [
+    "Retapamulin and lefamulin",
+    "Fidaxomicin and mupirocin",
+    "Fusidic acid and rifaximin",
+    "Bacitracin and tyrothricin"
+   ],
+   "ans": 0,
+   "exp": "Pleuromutilins branch into retapamulin and lefamulin. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-061",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The route of retapamulin is:",
+   "opts": [
+    "Topical",
+    "Oral",
+    "IV",
+    "Nasal"
+   ],
+   "ans": 0,
+   "exp": "Retapamulin route: topical. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-062",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The use of retapamulin is:",
+   "opts": [
+    "Skin infection",
+    "CAP",
+    "UTI",
+    "Gut sterilization"
+   ],
+   "ans": 0,
+   "exp": "Retapamulin use: skin infection. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-063",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The spectrum of lefamulin covers:",
+   "opts": [
+    "Gram +ve, gram -ve and atypical bacteria",
+    "Only gram +ve",
+    "Only atypicals",
+    "Only anaerobes"
+   ],
+   "ans": 0,
+   "exp": "Lefamulin spectrum: gram +ve, gram -ve, atypical bacteria. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-064",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "Lefamulin is used for:",
+   "opts": [
+    "CAP (last line)",
+    "Skin infection",
+    "Meningitis",
+    "Endocarditis"
+   ],
+   "ans": 0,
+   "exp": "Lefamulin use: CAP (last line). (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-065",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The side effects of lefamulin are:",
+   "opts": [
+    "QT prolongation and hepatotoxicity",
+    "Nephrotoxicity and ototoxicity",
+    "BM suppression and colitis",
+    "Photosensitivity and rash"
+   ],
+   "ans": 0,
+   "exp": "Lefamulin S/E: QT prolongation, hepatotoxic. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-066",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The mechanism of fidaxomicin as written on the page is:",
+   "opts": [
+    "t-RNA polymerase inhibitor",
+    "RNA polymerase inhibitor",
+    "DNA gyrase inhibitor",
+    "Cell wall inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The page lists fidaxomicin MOA as t-RNA polymerase inhibitor. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-067",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The use of fidaxomicin is:",
+   "opts": [
+    "Pseudomembranous enterocolitis",
+    "Travelers diarrhea",
+    "UTI",
+    "CAP"
+   ],
+   "ans": 0,
+   "exp": "Fidaxomicin use: pseudomembranous enterocolitis. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-068",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The route of fidaxomicin is:",
+   "opts": [
+    "Oral",
+    "IV",
+    "Topical",
+    "Rectal"
+   ],
+   "ans": 0,
+   "exp": "Fidaxomicin route: oral. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-069",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The mechanism of mupirocin is:",
+   "opts": [
+    "t-RNA synthase inhibitor",
+    "t-RNA polymerase inhibitor",
+    "RNA polymerase inhibitor",
+    "Peptide elongation block"
+   ],
+   "ans": 0,
+   "exp": "Mupirocin MOA: t-RNA synthase inhibitor. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-070",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "Mupirocin is used for:",
+   "opts": [
+    "MRSA nasal carrier",
+    "MRSA pneumonia",
+    "Skin abscess",
+    "UTI"
+   ],
+   "ans": 0,
+   "exp": "Mupirocin use: MRSA nasal carrier. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-071",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The route of mupirocin is:",
+   "opts": [
+    "Nasal",
+    "Oral",
+    "Topical skin",
+    "IV"
+   ],
+   "ans": 0,
+   "exp": "Mupirocin route: nasal. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-072",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The mechanism of fusidic acid is:",
+   "opts": [
+    "Inhibit peptide chain elongation",
+    "Inhibit t-RNA synthase",
+    "Inhibit RNA polymerase",
+    "Inhibit cell wall"
+   ],
+   "ans": 0,
+   "exp": "Fusidic acid MOA: inhibit peptide chain elongation. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-073",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The route and use of fusidic acid are:",
+   "opts": [
+    "Topical for skin infection",
+    "Oral for osteomyelitis",
+    "IV for sepsis",
+    "Nasal for carriage"
+   ],
+   "ans": 0,
+   "exp": "Fusidic acid route topical, use skin infection. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-074",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The mechanism of rifaximin is:",
+   "opts": [
+    "RNA polymerase inhibitor",
+    "t-RNA synthase inhibitor",
+    "DNA gyrase inhibitor",
+    "Folate inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Rifaximin MOA: RNA polymerase inhibitor. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-075",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "Rifaximin is used for gut sterilization in:",
+   "opts": [
+    "Hepatic encephalopathy",
+    "Renal failure",
+    "Hepatitis A",
+    "Cirrhosis without encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "Use: gut sterilization in hepatic encephalopathy. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-076",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "Rifaximin is used for which diarrhoeal illness?",
+   "opts": [
+    "Travelers diarrhea",
+    "Cholera",
+    "Dysentery",
+    "C. difficile always"
+   ],
+   "ans": 0,
+   "exp": "Use: travelers diarrhea. (Book p173)"
+  },
+  {
+   "id": "PHARM-C43-077",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "page": 173,
+   "q": "The off-label use of rifaximin is:",
+   "opts": [
+    "Pseudomembranous enterocolitis",
+    "Typhoid",
+    "Giardiasis",
+    "Amoebiasis"
+   ],
+   "ans": 0,
+   "exp": "Use: pseudomembranous enterocolitis (off label). (Book p173)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U43-1",
+   "ch": 43,
+   "n": 1,
+   "title": "Macrolides: 50S MOA, Resistance and Erythromycin Basics",
+   "sec": "Macrolides: 50S MOA, Resistance and Erythromycin Basics · p171",
+   "qs": [
+    "PHARM-C43-001",
+    "PHARM-C43-002",
+    "PHARM-C43-003",
+    "PHARM-C43-004",
+    "PHARM-C43-005",
+    "PHARM-C43-006",
+    "PHARM-C43-007",
+    "PHARM-C43-008",
+    "PHARM-C43-009"
+   ],
+   "guide": "Macrolides are 50S-subunit drugs whose MOA is translocase inhibition; resistance is enzymatic inactivation or MLS-B type. Erythromycin is given orally or IV, mirrors penicillin G on gram +ve organisms with the same action on gram -ve, and is DOC for pertussis, diphtheria and rheumatic fever prophylaxis in penicillin allergy."
+  },
+  {
+   "id": "PHARM-U43-2",
+   "ch": 43,
+   "n": 2,
+   "title": "Erythromycin Side Effects and Secondary Use",
+   "sec": "Erythromycin Side Effects and Secondary Use · p171",
+   "qs": [
+    "PHARM-C43-010",
+    "PHARM-C43-011",
+    "PHARM-C43-012",
+    "PHARM-C43-013",
+    "PHARM-C43-014",
+    "PHARM-C43-015",
+    "PHARM-C43-016",
+    "PHARM-C43-017"
+   ],
+   "guide": "The erythromycin side-effect mnemonic \"macro SD Card\" covers motilin-receptor agonism causing hypertrophic pyloric stenosis, skeletal muscle weakness, diarrhea and cardiac effects - QT prolongation in the order erythromycin > clarithromycin > azithromycin with risk of torsade de pointes - plus cholestatic jaundice only with the estolate salt. Its prokinetic property gives the secondary use in gastroparesis."
+  },
+  {
+   "id": "PHARM-U43-3",
+   "ch": 43,
+   "n": 3,
+   "title": "Clarithromycin and Azithromycin",
+   "sec": "Clarithromycin and Azithromycin · p171",
+   "qs": [
+    "PHARM-C43-018",
+    "PHARM-C43-019",
+    "PHARM-C43-020",
+    "PHARM-C43-021",
+    "PHARM-C43-022",
+    "PHARM-C43-023",
+    "PHARM-C43-024",
+    "PHARM-C43-025",
+    "PHARM-C43-026"
+   ],
+   "guide": "Clarithromycin is oral with BD dosing and is used for mycobacterium and H. pylori. Azithromycin, oral or IV, is the longest-acting macrolide with OD dosing and is DOC for atypical pneumonia (chlamydia, mycoplasma, legionella), campylobacter, chlamydia (STD) and cholera in pregnancy or children, and is the add-on drug in scrub typhus."
+  },
+  {
+   "id": "PHARM-U43-4",
+   "ch": 43,
+   "n": 4,
+   "title": "Oxazolidinones: Linezolid and Tedizolid",
+   "sec": "Oxazolidinones: Linezolid and Tedizolid · p172",
+   "qs": [
+    "PHARM-C43-027",
+    "PHARM-C43-028",
+    "PHARM-C43-029",
+    "PHARM-C43-030",
+    "PHARM-C43-031",
+    "PHARM-C43-032",
+    "PHARM-C43-033",
+    "PHARM-C43-034",
+    "PHARM-C43-035",
+    "PHARM-C43-036",
+    "PHARM-C43-037",
+    "PHARM-C43-038",
+    "PHARM-C43-039"
+   ],
+   "guide": "Linezolid causes bone marrow suppression, is an MAO inhibitor (cheese reaction with HTN crisis treated by IV phentolamine) and produces mitochondrial toxicity with lactic acidosis and optic neuritis. It is a last-line gram +ve drug and DOC for VRE, MRSA/VRSA and resistant TB, with IV and oral BD dosing at 100% oral bioavailability. Tedizolid causes less marrow suppression and its longer half-life permits OD dosing."
+  },
+  {
+   "id": "PHARM-U43-5",
+   "ch": 43,
+   "n": 5,
+   "title": "Streptogramins",
+   "sec": "Streptogramins · p172",
+   "qs": [
+    "PHARM-C43-040",
+    "PHARM-C43-041",
+    "PHARM-C43-042",
+    "PHARM-C43-043",
+    "PHARM-C43-044"
+   ],
+   "guide": "Streptogramins are IV-only because infusion-site pain, inflammation and edema force the use of a central line. Their spectrum is gram +ve plus atypical organisms and they serve as last-line drugs in MRSA, VRSA and VRE."
+  },
+  {
+   "id": "PHARM-U43-6",
+   "ch": 43,
+   "n": 6,
+   "title": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses",
+   "sec": "Lincosamides (Clindamycin): Spectrum and Anaerobic Uses · p172",
+   "qs": [
+    "PHARM-C43-045",
+    "PHARM-C43-046",
+    "PHARM-C43-047",
+    "PHARM-C43-048",
+    "PHARM-C43-049",
+    "PHARM-C43-050",
+    "PHARM-C43-051"
+   ],
+   "guide": "Clindamycin covers gram +ve aerobes (staph) and anaerobes, is not effective against gram -ve aerobes, and covers gram -ve anaerobes such as Bacteroides and Prevotella. In anaerobic infection the site decides the drug: supradiaphragmatic (oral Prevotella) takes clindamycin while intradiaphragmatic (colorectal Bacteroides) takes metronidazole."
+  },
+  {
+   "id": "PHARM-U43-7",
+   "ch": 43,
+   "n": 7,
+   "title": "Clindamycin in Staphylococci and Chloramphenicol",
+   "sec": "Clindamycin in Staphylococci and Chloramphenicol · p172",
+   "qs": [
+    "PHARM-C43-052",
+    "PHARM-C43-053",
+    "PHARM-C43-054",
+    "PHARM-C43-055",
+    "PHARM-C43-056",
+    "PHARM-C43-057",
+    "PHARM-C43-058",
+    "PHARM-C43-059"
+   ],
+   "guide": "In staphylococcal disease clindamycin is DOC for toxic shock syndrome and is valued in osteomyelitis for good bone penetration. Chloramphenicol is a wide-spectrum drug formerly used for typhoid; its dangers are bone-marrow suppression and the gray baby syndrome - cardiotoxicity, decreased oxygenation of tissues and an ash/grey colour of tissues."
+  },
+  {
+   "id": "PHARM-U43-8",
+   "ch": 43,
+   "n": 8,
+   "title": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin",
+   "sec": "Pleuromutilins, Fidaxomicin, Mupirocin, Fusidic Acid and Rifaximin · p173",
+   "qs": [
+    "PHARM-C43-060",
+    "PHARM-C43-061",
+    "PHARM-C43-062",
+    "PHARM-C43-063",
+    "PHARM-C43-064",
+    "PHARM-C43-065",
+    "PHARM-C43-066",
+    "PHARM-C43-067",
+    "PHARM-C43-068",
+    "PHARM-C43-069",
+    "PHARM-C43-070",
+    "PHARM-C43-071",
+    "PHARM-C43-072",
+    "PHARM-C43-073",
+    "PHARM-C43-074",
+    "PHARM-C43-075",
+    "PHARM-C43-076",
+    "PHARM-C43-077"
+   ],
+   "guide": "The pleuromutilins are topical retapamulin for skin infection and lefamulin - gram +ve, gram -ve and atypical coverage, last-line CAP, with QT prolongation and hepatotoxicity. Fidaxomicin (t-RNA polymerase inhibitor as written) is oral for pseudomembranous enterocolitis; mupirocin (t-RNA synthase inhibitor) is nasal for the MRSA carrier; fusidic acid inhibits peptide chain elongation topically for skin infection; rifaximin, an RNA polymerase inhibitor, sterilizes the gut in hepatic encephalopathy, treats travelers diarrhea and is off-label in pseudomembranous enterocolitis."
+  }
+ ]
+}

@@ -46,8 +46,9 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 31: 123-126 DONE (127 qs, 10 units) | 32: 127-130 DONE (113 qs, 10 units) | 33: 131-133 DONE (74 qs, 7 units) |
 34: 134-140 DONE (169 qs, 12 units) | 35: 141-144 DONE (104 qs, 9 units) | 36: 145-149 DONE (153 qs, 15 units) | 37: 150-152 DONE (65 qs, 4 units)
 ### Antimicrobials
-38: 153-154 DONE (52 qs, 4 units) | 39: 155-158 DONE (83 qs, 4 units) | 40: 159-163 DONE (105 qs, 5 units) | 41: 164-166 DONE (61 qs, 5 units) | 42: 167-170 | 43: 171-173 |
-44: 174-179 | 45: 180-183 | 46: 184-188 | 47: 189-192 | 48: 193-198 | 49: 199-204 | 50: 205-206
+38: 153-154 DONE (52 qs, 4 units) | 39: 155-158 DONE (83 qs, 4 units) | 40: 159-163 DONE (105 qs, 5 units) | 41: 164-166 DONE (61 qs, 5 units) | 42: 167-170 DONE (100 qs, 8 units) | 43: 171-173 DONE (77 qs, 8 units) |
+44: 174-179 DONE (144 qs, 10 units) | 45: 180-183 DONE (70 qs, 6 units) | 46: 184-188 DONE (105 qs, 7 units) |
+47: 189-192 | 48: 193-198 | 49: 199-204 | 50: 205-206
 ### Endocrine System
 51: 207-210 | 52: 211-214 | 53: 215-217 | 54: 218-220 | 55: 221-223 | 56: 224-226 | 57: 227-229
 ### Autacoids
@@ -81,7 +82,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status  (last updated: 2026-09-14, session 6)
+## Status  (last updated: 2026-09-14, session 9)
 - DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
 - DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
 - DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
@@ -291,12 +292,82 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 - DONE (session 8): **ch41 "Cell Wall Synthesis Inhibitors: Part 3"** (p164-166) - 61 qs, 5 units
   (fosfomycin/cycloserine/bacitracin table; vancomycin action and VISA/VRSA MIC values; MRSA, VRE and
   C. difficile algorithms; red-man syndrome; Matzke/Sawchuk/Bayesian dosing; other glycopeptides).
-- **TOTAL LIVE NOW: 4058 questions, 312 units, chapters 1-41.** Central and Peripheral Nervous System
-  is COMPLETE; Antimicrobials are live through Cell Wall Synthesis Inhibitors Part 3.
-- SESSION 8 NOTES: source pages p150-166 were rendered at 180 dpi and read directly from the scanned
-  book. `work/gen_ch37_41.py` is the reproducible generator for this batch. Validation, deterministic
-  rebuild, integrity check and Node inline-JavaScript syntax check all pass.
-- NEXT: **ch42 "Protein Synthesis Inhibitors: Part 1"** (book p167-170), then ch43 Part 2 (p171-173).
+- DONE (session 9, this session): **ch42 "Protein Synthesis Inhibitors: Part 1"** (p167-170) - 100 qs, 8 units
+  (ribosome E/P/A sites with step-I peptidyl transferase and step-II translocation; chloramphenicol +
+  pleuromutilin on 50S peptidyl transferase with high toxicity; 30S A-site binders - tetracyclines block,
+  aminoglycosides misread to cidal death; 50S translocation blockers macrolide/linezolid/streptogramins/
+  clindamycin; MLS-B methylase of MBS with lincosamide + streptogramin B cross resistance; tetracycline
+  MOA/i-m C-I/minocycline 100% > doxycycline bioavailability/wide spectrum except Proteus-Pseudomonas-
+  Providencia/efflux-enzyme-ribosomal protective protein resistance; doxycycline "my Pink RBC" DOC list,
+  minocycline leprosy, demeclocycline SIADH, tigecycline glycycycline IV-only last-line with UTI/bacteremia
+  C-I; scrub typhus fever-rash-eschar and oral vs IV doxycycline + azithromycin; tetra packet side effects
+  incl. Fanconi from expired drug and V2 block for DI; aminoglycoside spectrum/routes/enzyme inactivation
+  except amikacin/altered ribosome only streptomycin; gentamicin > streptomycin plague-tularemia, neomycin
+  gut sterilization vs rifaximin DOC, tobramycin inhaled in cystic fibrosis; nephro/neuro/oto toxicity
+  max-min rankings with Ca++ then neostigmine and early Ca++ prevention; sarecycline/omadacycline/plazomicin).
+- DONE (session 9): **ch43 "Protein Synthesis Inhibitors: Part 2"** (p171-173) - 77 qs, 8 units
+  (macrolide translocase MOA and enzymatic/MLS-B resistance; erythromycin penicillin-G-like spectrum,
+  pertussis/diphtheria/rheumatic-fever DOCs and macro SD Card side effects with motilin HPS, QT order
+  E>C>A, estolate cholestatic jaundice and gastroparesis; clarithromycin BD and azithromycin OD longest
+  acting with atypical pneumonia/campylobacter/cholera-in-pregnancy/scrub typhus add-on; linezolid BM
+  suppression, MAO cheese reaction with IV phentolamine, mitochondrial lactic acidosis/optic neuritis, VRE/
+  MRSA-VRSA/resistant TB DOCs, 100% oral bioavailability and tedizolid OD; streptogramin IV-only central
+  line and last-line MRSA/VRSA/VRE; clindamycin spectrum and the supradiaphragmatic Prevotella-clindamycin
+  vs intradiaphragmatic Bacteroides-metronidazole table plus TSS/osteomyelitis; chloramphenicol gray baby
+  chain; pleuromutilins retapamulin/lefamulin; fidaxomicin t-RNA polymerase, mupirocin t-RNA synthase nasal
+  MRSA, fusidic acid elongation block, rifaximin RNA polymerase uses).
+- DONE (session 9): **ch44 "Other Antibacterial Drugs"** (p174-179) - 144 qs, 10 units
+  (three-branch classification; polymyxin cationic detergent phospholipid binding, pseudopores with lysis/
+  drug entry/endotoxin block, Neosporin topical vs colistin IV MDR gram -ve with nephro/neuro toxicity and
+  aminoglycoside C-I; daptomycin large peptide, K+ efflux depolarization, VRSA DOC and empirical MRSA,
+  myopathy and surfactant pneumonia C-I with vancomycin/linezolid notes; folate pathway DHPS absent vs DHFR
+  present in humans with bacteriostatic blockers turning bactericidal and neural-tube risk; sulfonamide
+  spectrum except Enterococcus/Pseudomonas/Rickettsia paradoxical overgrowth, sulfadoxine/sulfadiazine/
+  sulfisoxazole/sulfasalazine; cotrimoxazole 5:1 tablet vs 20:1 blood, 20x potency, cystitis and six-organism
+  DOC list, mesalamine and spiramycin notes, topical sulfadiazine/mafenide/sulfacetamide; kernicterus
+  displacement chain, porphyria, methemoglobinemia cyanosis refractory to O2, crystalluria; nalidixic acid
+  and fluoroquinolone gyrase/topoisomerase IV split, norfloxacin least vs ciprofloxacin most active with the
+  full DOC list incl. anthrax bioterrorism, pseudomonas C>L, respiratory FQs and the CAP amoxicillin+
+  azithromycin algorithm with three unresponsive options and delafloxacin/ozenoxacin; PQRST side effects
+  with tendon-rupture risks and vit-D exception, cartilage C-I, moxifloxacin/levofloxacin/gemifloxacin/
+  pefloxacin maximum comparisons; urinary antiseptics with nitrofurantoin hemolysis, trimethoprim ENaC
+  hyperkalemia and the methenamine hippuric-mandelic acid/ammonia-formaldehyde pathway and C-Is).
+- DONE (session 9): **ch45 "Anti-fungal Drugs"** (p180-183) - 70 qs, 6 units
+  (fungal cell diagram - squalene epoxidase/terbinafine, 14-alpha-sterol demethylase/azoles, flucytosine on
+  DNA, griseofulvin on microtubules, beta glucan synthase/echinocandins + ibrexafungerp, wall proteins-
+  chitins-beta glucans, amphotericin B ergosterol sequestration, and the full target-based tree;
+  amphotericin B 5% dextrose carrier, four DOCs, shake & bake with pethidine, NaCl preload and LAmB,
+  hypokalemia 1/3 with KCl, cryptococcal TOC IV AmB + IV flucytosine; terbinafine keratin concentration and
+  onychomycosis; fluconazole coccidioidal meningitis and mucocutaneous candida with clotrimazole-lozenge
+  exception, itraconazole Itomed/endemic mycoses/sporotrichosis and ABPA steroid-sparing; ketoconazole
+  endocrine effects and Cushing secondary use, voriconazole aspergillosis and visual problems, posa/isavu-
+  conazole aspergillosis-mucor and GVHD prophylaxis; echinocandin four drugs and invasive candidiasis DOCs,
+  ibrexafungerp oral recurrent vaginal candidiasis with oteseconazole; griseofulvin stratum corneum/fatty
+  foods/kerion DOC, flucytosine 5-FU prodrug 2-week cap, natamycin corneal ulcer with atropine add-on).
+- DONE (session 9): **ch46 "Non-Retroviral Drugs"** (p184-188) - 105 qs, 7 units
+  (three antiviral groups; herpes DNA virus epithelial tropism with the full replication diagram -
+  docosanol/fomivirsen attachment, VK/CK phosphorylation, foscarnet primer-pyrophosphate block, AC-TP/GC-TP
+  competitive DNA polymerase block, cidofovir cytosine analogue via CK; UL-97 vs thymidine kinase and
+  maribavir lowering ganciclovir effect, resistance via absent/altered kinase with cidofovir/foscarnet
+  alternatives; acyclovir route logic with valacyclovir DOC HSV/VZV and 36-week perinatal prophylaxis,
+  crystalluria obstructive failure and neurotoxicity, ganciclovir CMV routes with valganciclovir retinitis
+  DOC, intravitreal for blindness risk and filgrastim for neutropenia; penciclovir/famciclovir, foscarnet
+  electrolytes, cidofovir IV-topical-intralesional uses, fomivirsen ocular toxicity and the three topical-only
+  drugs; influenza RNA virus with hemagglutinin-sialic acid, m-protein uncoating block abandoned for
+  resistance, neuraminidase inhibitors with every route and dosage, baloxavir endonuclease single dose;
+  hepatitis B active-case criteria, entecavir decompensation DOC and lamivudine-resistance link, adefovir
+  dipivoxal, tenofovir DOC/nephrotoxic/decompensation C-I, lamivudine converts not together, IFN-alpha2b
+  1-year finite course and Hep-D DOC; hepatitis C IFN and ribavirin routes incl. inhaled RSV DOC, DAA
+  2/3-drug TOC with ritonavir-boosted paritaprevir and the -buvir/-asvir/-previr suffix key, plus the
+  interferon note with palivizumab/nirsevimab).
+- **TOTAL LIVE NOW: 4554 questions, 351 units, chapters 1-46.** Antimicrobials are live through
+  Non-Retroviral Drugs; only Anti-Retroviral (47) onwards remain in this section.
+- SESSION 9 NOTES: source pages p167-188 rendered at 180 dpi and read line-by-line from the scanned book
+  (two zoom crops verified the fidaxomicin "t-RNA polymerase inhibitor" wording on p173 and the
+  supradiaphragmatic/intradiaphragmatic anaerobic table on p172). `work/gen_ch42_46.py` is the reproducible
+  generator for this batch (same start/unit/q/facts/finish helper pattern). Duplicate-stem audit run across
+  the batch; validation, deterministic rebuild, integrity check and Node inline-JS syntax check all pass.
+- NEXT: **ch47 "Anti-Retroviral Drugs"** (book p189-192), then ch48 Anti-Mycobacterial (p193-198).
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
