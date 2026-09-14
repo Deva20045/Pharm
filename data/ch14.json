@@ -1,0 +1,1541 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C14-001",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Anticholinergic drugs are also called:",
+   "opts": [
+    "Parasympatholytics",
+    "Parasympathomimetics",
+    "Sympathomimetics",
+    "Cholinesterase reactivators"
+   ],
+   "ans": 0,
+   "exp": "The chapter classification labels anticholinergic drugs as parasympatholytics. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-002",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The classification diagram describes parasympatholytics as:",
+   "opts": [
+    "Direct acting",
+    "Indirect acting only",
+    "AChE blockers",
+    "Norepinephrine displacers"
+   ],
+   "ans": 0,
+   "exp": "The heading under parasympatholytics explicitly says direct acting. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-003",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The two major branches of direct anticholinergic drugs are:",
+   "opts": [
+    "Muscarinic blockers and nicotinic blockers",
+    "α blockers and β blockers",
+    "Amides and choline esters",
+    "SABAs and LABAs"
+   ],
+   "ans": 0,
+   "exp": "The diagram splits parasympatholytics into muscarinic blockers and nicotinic blockers. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-004",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Nicotinic blockers are divided into:",
+   "opts": [
+    "Muscular Nm blockers and neuronal Nn blockers",
+    "m1 and m3 blockers",
+    "β1 and β2 blockers",
+    "D1 and D2 blockers"
+   ],
+   "ans": 0,
+   "exp": "The nicotinic branch splits into muscular Nm blockers and neuronal Nn blockers. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-005",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Neuronal nicotinic blockers are also called:",
+   "opts": [
+    "Ganglionic blockers",
+    "Muscle relaxants",
+    "Miotic agents",
+    "Bronchodilators"
+   ],
+   "ans": 0,
+   "exp": "The Nn blocker branch is labelled neuronal Nn blockers, with ganglionic blockers in parentheses. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-006",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Nm blockers act at the:",
+   "opts": [
+    "Neuromuscular junction",
+    "Autonomic ganglion only",
+    "Adrenal cortex",
+    "Renal JG cell"
+   ],
+   "ans": 0,
+   "exp": "The Nm blocker MOA says they block at NMJ. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-007",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The final effect of Nm blockers is:",
+   "opts": [
+    "Muscle relaxation",
+    "Increased salivation",
+    "Bronchoconstriction",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "The Nm blocker line states blockade at NMJ relaxes muscles. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-008",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The Nm-blocking drugs listed here are:",
+   "opts": [
+    "Non-depolarising muscle relaxants",
+    "Depolarising muscle relaxants",
+    "β3 agonists",
+    "AChE inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The drug line under Nm blockers reads non-depolarising muscle relaxants (NDMR). (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-009",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Which NDMR is listed under Nm blockers?",
+   "opts": [
+    "Atracurium",
+    "Atropine",
+    "Mecamylamine",
+    "Trimethaphan"
+   ],
+   "ans": 0,
+   "exp": "Atracurium is one of the listed Nm-blocking NDMRs. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-010",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Which second NDMR is listed under Nm blockers?",
+   "opts": [
+    "Mivacurium",
+    "Pilocarpine",
+    "Physostigmine",
+    "Droxidopa"
+   ],
+   "ans": 0,
+   "exp": "Mivacurium is the other NDMR listed under Nm blockers. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-011",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Ganglionic blockers reduce release of which sympathetic post-ganglionic transmitter?",
+   "opts": [
+    "Norepinephrine",
+    "Acetylcholine at NMJ",
+    "Dopamine in the corpus striatum",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "The Nn/ganglionic blocker MOA says sympathetic post-ganglionic norepinephrine release decreases. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-012",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The fall in norepinephrine after ganglionic blockade produces:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Miosis",
+    "Hyperglycemia"
+   ],
+   "ans": 0,
+   "exp": "The pathway shows decreased norepinephrine release leading to vasodilation. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-013",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Ganglionic blockers are described as which-line treatment for hypertension?",
+   "opts": [
+    "Second-line",
+    "First-line",
+    "Contraindicated in all cases",
+    "Only emergency first-line oral"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says vasodilation and second-line treatment of hypertension. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-014",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "The characteristic side effect of ganglionic blockers listed is:",
+   "opts": [
+    "Postural hypotension",
+    "Retinal detachment",
+    "Cataract",
+    "UTI"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line for Nn/ganglionic blockers states postural hypotension. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-015",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Mecamylamine is administered by which route?",
+   "opts": [
+    "Oral",
+    "Intravenous only",
+    "Transdermal only",
+    "Intrathecal"
+   ],
+   "ans": 0,
+   "exp": "The table lists oral as the route of administration for mecamylamine. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-016",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Mecamylamine is used as second-line treatment for:",
+   "opts": [
+    "Mild/moderate hypertension",
+    "Acute CHF",
+    "Brittle asthma",
+    "Angle closure glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The mecamylamine use list includes mild/moderate hypertension as second-line Rx. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-017",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Which neuropsychiatric condition is listed as a use of mecamylamine?",
+   "opts": [
+    "Tourette syndrome",
+    "Narcolepsy",
+    "Myasthenia gravis",
+    "Alzheimer's disease"
+   ],
+   "ans": 0,
+   "exp": "Tourette syndrome is included in the mecamylamine uses. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-018",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "With nicotine, mecamylamine can be used to prevent:",
+   "opts": [
+    "Peripheral side effects in smoking dependence",
+    "Central abstinence symptoms only",
+    "Acute angle closure glaucoma",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "The mecamylamine use states prevention of peripheral side effects in smoking dependence along with nicotine. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-019",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Trimethaphan is administered:",
+   "opts": [
+    "Intravenously",
+    "Orally",
+    "By pMDI",
+    "Subcutaneously"
+   ],
+   "ans": 0,
+   "exp": "The route column for trimethaphan shows IV. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-020",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Trimethaphan is used in:",
+   "opts": [
+    "Hypertensive emergency",
+    "Motion sickness",
+    "Urge incontinence",
+    "Narcolepsy"
+   ],
+   "ans": 0,
+   "exp": "The trimethaphan row gives hypertensive emergency as the use. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-021",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "page": 48,
+   "q": "Tetraethylammonium is noted as a:",
+   "opts": [
+    "K+ channel blocker in animal experiments",
+    "DOC for hypertension",
+    "Preferred antiglaucoma drug",
+    "Transdermal antiemetic"
+   ],
+   "ans": 0,
+   "exp": "The tetraethylammonium row says K+ channel blocker in animal experiments. (Book p48)"
+  },
+  {
+   "id": "PHARM-C14-022",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The CNS effect of muscarinic receptor blockers is:",
+   "opts": [
+    "Decreased cognition",
+    "Increased cognition",
+    "Muscle relaxation only",
+    "Increased salivation"
+   ],
+   "ans": 0,
+   "exp": "In the CNS row, the effect column reads decreased cognition. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-023",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The muscarinic blocker labelled as truth serum is:",
+   "opts": [
+    "Scopolamine",
+    "Atropine",
+    "Tropicamide",
+    "Glycopyrrolate"
+   ],
+   "ans": 0,
+   "exp": "The CNS drug cell lists scopolamine and notes truth serum. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-024",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "At high doses, scopolamine is an alternate drug for:",
+   "opts": [
+    "Narcoanalysis",
+    "Bronchial challenge testing",
+    "Tensilon testing",
+    "Dale's phenomenon"
+   ],
+   "ans": 0,
+   "exp": "The use cell says alternate drug for narcoanalysis at increased doses. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-025",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The DOC for narcoanalysis, preferred for better safety and efficacy, is:",
+   "opts": [
+    "Thiopentone",
+    "Scopolamine",
+    "Atropine",
+    "Hyoscine patch"
+   ],
+   "ans": 0,
+   "exp": "The narcoanalysis note says DOC: thiopentone, with better safety and efficacy. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-026",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Scopolamine is DOC for motion sickness when given as a:",
+   "opts": [
+    "Transdermal patch",
+    "Intravenous bolus",
+    "Eye drop",
+    "Nebulised solution"
+   ],
+   "ans": 0,
+   "exp": "The CNS use cell lists motion sickness (DOC): transdermal patch. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-027",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The eye effects of muscarinic blockers include:",
+   "opts": [
+    "Passive mydriasis and cycloplegia",
+    "Miosis and accommodation spasm",
+    "Retinal detachment and cataract only",
+    "Bronchoconstriction and lacrimation"
+   ],
+   "ans": 0,
+   "exp": "The eye effect column lists passive mydriasis and cycloplegia. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-028",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Cycloplegia means:",
+   "opts": [
+    "Paralysis of accommodation",
+    "Pupil contraction",
+    "Increased lacrimation",
+    "Eyelid retraction"
+   ],
+   "ans": 0,
+   "exp": "The table defines cycloplegia in parentheses as paralysis of accommodation. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-029",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The shortest-acting ocular antimuscarinic drop is:",
+   "opts": [
+    "Tropicamide",
+    "Atropine",
+    "Homatropine",
+    "Cyclopentolate"
+   ],
+   "ans": 0,
+   "exp": "The eye-drop list marks tropicamide as shortest acting. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-030",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Tropicamide is used especially in:",
+   "opts": [
+    "Adults",
+    "Children",
+    "Neonates only",
+    "Pregnancy-induced hypertension"
+   ],
+   "ans": 0,
+   "exp": "The note beside tropicamide says it is used in adults. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-031",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Which other ocular antimuscarinic drops are listed with tropicamide?",
+   "opts": [
+    "Cyclopentolate and homatropine",
+    "Pilocarpine and carbachol",
+    "Darifenacin and solifenacin",
+    "Ipratropium and tiotropium"
+   ],
+   "ans": 0,
+   "exp": "The eye-drop list includes cyclopentolate and homatropine. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-032",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Eye-drop muscarinic blockers are used for:",
+   "opts": [
+    "Ocular fundus examination and refraction testing",
+    "Bronchial asthma and COPD",
+    "Peptic ulcer disease and dysmenorrhoea",
+    "Hypertensive emergency and Tourette syndrome"
+   ],
+   "ans": 0,
+   "exp": "The uses column for eye drops lists ocular fundus examination and refraction testing. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-033",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "A major ocular side effect of antimuscarinic mydriasis is:",
+   "opts": [
+    "Acute angle closure glaucoma",
+    "Miosis",
+    "Increased trabecular outflow",
+    "Pinpoint pupils"
+   ],
+   "ans": 0,
+   "exp": "The side-effect column lists acute angle closure glaucoma. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-034",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Muscarinic eye blockers are contraindicated in:",
+   "opts": [
+    "Glaucoma",
+    "Myasthenia gravis",
+    "Narcolepsy",
+    "Obesity"
+   ],
+   "ans": 0,
+   "exp": "The eye side-effect column writes C/I in glaucoma. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-035",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The 1% ointment antimuscarinic used in children is:",
+   "opts": [
+    "Atropine",
+    "Tropicamide",
+    "Cyclopentolate",
+    "Homatropine"
+   ],
+   "ans": 0,
+   "exp": "The lower eye drug cell says 1% ointment: atropine, most potent and used in children. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-036",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Atropine eye ointment is described as the:",
+   "opts": [
+    "Most potent",
+    "Shortest acting",
+    "Least potent",
+    "Only β3 agonist"
+   ],
+   "ans": 0,
+   "exp": "Atropine ointment is labelled most potent. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-037",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Atropine ointment is used in corneal ulcer or uveitis to prevent:",
+   "opts": [
+    "Synechiae formation",
+    "Bronchoconstriction",
+    "Urine retention",
+    "NE release"
+   ],
+   "ans": 0,
+   "exp": "The use cell says corneal ulcer/uveitis: prevent synechiae formation. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-038",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "In iridocyclitis, atropine helps by:",
+   "opts": [
+    "Decreasing pain",
+    "Increasing salivation",
+    "Inducing bronchospasm",
+    "Treating tics"
+   ],
+   "ans": 0,
+   "exp": "The lower eye use cell includes iridocyclitis: decreased pain. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-039",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The oropharyngeal effect of muscarinic blockers is:",
+   "opts": [
+    "Decreased secretions",
+    "Increased secretions",
+    "Bronchoconstriction",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "The oropharynx row effect column reads decreased secretions. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-040",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The oropharyngeal antimuscarinic drug listed is:",
+   "opts": [
+    "Glycopyrrolate",
+    "Scopolamine",
+    "Tropicamide",
+    "Pirenzepine"
+   ],
+   "ans": 0,
+   "exp": "The oropharynx row drug cell lists glycopyrrolate. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-041",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Glycopyrrolate is a quaternary amine, so it:",
+   "opts": [
+    "Does not cross the BBB",
+    "Readily crosses the BBB",
+    "Is a catecholamine",
+    "Is an AChE reactivator"
+   ],
+   "ans": 0,
+   "exp": "The glycopyrrolate note says quaternary amine and does not cross BBB. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-042",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "The pre-anaesthetic use of glycopyrrolate is to prevent:",
+   "opts": [
+    "Aspiration",
+    "Retinal detachment",
+    "Tardive dyskinesia",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "The oropharynx use cell states preanaesthetic medication to prevent aspiration. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-043",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Which glaucoma-contraindicated drug class is specifically listed in the note?",
+   "opts": [
+    "Tricyclic antidepressants such as amitriptyline",
+    "β3 agonists such as vibegron",
+    "Oximes such as pralidoxime",
+    "AChE inhibitors such as neostigmine"
+   ],
+   "ans": 0,
+   "exp": "The note lists tricyclic antidepressants, with amitriptyline in parentheses. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-044",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Which antipsychotic group is listed among drugs contraindicated in glaucoma?",
+   "opts": [
+    "Typical and atypical antipsychotics",
+    "Only phenothiazines",
+    "Only atypicals",
+    "None of the antipsychotics"
+   ],
+   "ans": 0,
+   "exp": "The glaucoma note lists typical/atypical antipsychotics. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-045",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "page": 49,
+   "q": "Which antiparkinsonian drug is listed as contraindicated in glaucoma due to mydriasis?",
+   "opts": [
+    "Levodopa",
+    "Bromocriptine",
+    "Selegiline",
+    "Amantadine"
+   ],
+   "ans": 0,
+   "exp": "The glaucoma note also lists levodopa. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-046",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "The pulmonary effect of muscarinic receptor blockers is:",
+   "opts": [
+    "Bronchodilation",
+    "Bronchoconstriction",
+    "Miosis",
+    "Gastric acid secretion"
+   ],
+   "ans": 0,
+   "exp": "The lung row effect column reads bronchodilation. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-047",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "SAMA stands for:",
+   "opts": [
+    "Short-acting muscarinic antagonist",
+    "Selective adrenal medullary agonist",
+    "Slow acting muscarinic agonist",
+    "Short-acting methylxanthine antagonist"
+   ],
+   "ans": 0,
+   "exp": "The drug column expands SAMA as short acting muscarinic antagonist. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-048",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "The SAMA listed is:",
+   "opts": [
+    "Ipratropium",
+    "Tiotropium",
+    "Oxitropium",
+    "Aclidinium"
+   ],
+   "ans": 0,
+   "exp": "The SAMA line says QID: ipratropium. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-049",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "Ipratropium is dosed in the table as:",
+   "opts": [
+    "QID",
+    "BD",
+    "OD",
+    "Single annual dose"
+   ],
+   "ans": 0,
+   "exp": "The ipratropium line is marked QID. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-050",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "IAMA stands for:",
+   "opts": [
+    "Intermediate-acting muscarinic antagonist",
+    "Inhaled adrenergic muscarinic agonist",
+    "Irreversible antimuscarinic antagonist",
+    "Intravenous anti-migraine agent"
+   ],
+   "ans": 0,
+   "exp": "The table expands IAMA as intermediate acting muscarinic antagonist. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-051",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "Which drugs are listed as IAMA agents?",
+   "opts": [
+    "Oxitropium and aclidinium",
+    "Tiotropium and umeclidinium",
+    "Ipratropium and revefenacin",
+    "Darifenacin and solifenacin"
+   ],
+   "ans": 0,
+   "exp": "The IAMA line lists oxitropium and aclidinium. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-052",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "IAMA agents are dosed:",
+   "opts": [
+    "BD",
+    "QID",
+    "OD",
+    "Every 2 to 3 days"
+   ],
+   "ans": 0,
+   "exp": "The IAMA line is labelled BD. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-053",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "LAMA stands for:",
+   "opts": [
+    "Long-acting muscarinic antagonist",
+    "Local anaesthetic muscarinic antagonist",
+    "Long-acting methylxanthine antagonist",
+    "Low-affinity muscarinic agonist"
+   ],
+   "ans": 0,
+   "exp": "The table expands LAMA as long acting muscarinic antagonist. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-054",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "The DOC antimuscarinic for COPD is:",
+   "opts": [
+    "Tiotropium",
+    "Ipratropium",
+    "Oxitropium",
+    "Tropicamide"
+   ],
+   "ans": 0,
+   "exp": "The COPD use cell says DOC: tiotropium. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-055",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "Long-acting muscarinic antagonists are dosed:",
+   "opts": [
+    "OD",
+    "QID",
+    "BD",
+    "Every 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The LAMA line marks OD dosing. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-056",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "Which newer/latest LAMA drugs are listed?",
+   "opts": [
+    "Umeclidinium and revefenacin",
+    "Cyclopentolate and homatropine",
+    "Mecamylamine and trimethaphan",
+    "Pirenzepine and telenzepine"
+   ],
+   "ans": 0,
+   "exp": "The LAMA list includes umeclidinium and revefenacin as latest drugs. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-057",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "In bronchial asthma, inhaled antimuscarinics are used as:",
+   "opts": [
+    "Add-on drugs",
+    "The only DOC reliever",
+    "Contraindicated drugs",
+    "Anticholinesterase antidotes"
+   ],
+   "ans": 0,
+   "exp": "The lung use cell says bronchial asthma: add-on drugs. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-058",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "In COPD, antimuscarinics treat bronchoconstriction due to:",
+   "opts": [
+    "Parasympathetic overactivity",
+    "Dopamine depletion",
+    "β2 overactivity",
+    "m3 blockade"
+   ],
+   "ans": 0,
+   "exp": "The COPD use explains treatment of bronchoconstriction due to parasympathetic overactivity. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-059",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "The reversible component of COPD bronchoconstriction is contrasted with which irreversible component?",
+   "opts": [
+    "Fibrosis/sclerosis",
+    "Miosis",
+    "Dementia",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "The COPD note contrasts reversible parasympathetic overactivity with irreversible fibrosis/sclerosis. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-060",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "A common local side effect of pMDI antimuscarinic bronchodilators is:",
+   "opts": [
+    "Dry mouth",
+    "Involuntary salivation",
+    "Miosis",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The lung side-effect column lists dry mouth with pMDI. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-061",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 49,
+   "q": "Inhaled antimuscarinics can worsen:",
+   "opts": [
+    "BPH",
+    "Myasthenic crisis",
+    "Tardive dyskinesia",
+    "Acute CHF"
+   ],
+   "ans": 0,
+   "exp": "The lung side-effect column also states worsen BPH. (Book p49)"
+  },
+  {
+   "id": "PHARM-C14-062",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "The route of administration for bronchodilation shown is:",
+   "opts": [
+    "Inhalation",
+    "Intrathecal",
+    "Oral only",
+    "Intra-articular"
+   ],
+   "ans": 0,
+   "exp": "The line at the top of the page states route for bronchodilation: inhalation. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-063",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "A pressurised metered dose inhaler contains a canister with:",
+   "opts": [
+    "Drug plus gas (HFA)",
+    "Only dry powder",
+    "Only oxygen",
+    "AChE reactivator solution"
+   ],
+   "ans": 0,
+   "exp": "The pMDI diagram labels the canister as drug plus gas, HFA. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-064",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "Correct pMDI technique requires release of drug to coincide with:",
+   "opts": [
+    "Inspiration",
+    "Expiration",
+    "Swallowing",
+    "Coughing after exhalation"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows release of drug should coincide with inspiration. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-065",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "The nebuliser image is labelled for which drug?",
+   "opts": [
+    "Ipratropium",
+    "Tropicamide",
+    "Pirenzepine",
+    "Atropine ointment"
+   ],
+   "ans": 0,
+   "exp": "The nebuliser is labelled 'Nebulizer: Ipratropium'. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-066",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "Inhalable mist is shown as useful in acute exacerbation of:",
+   "opts": [
+    "Asthma/COPD",
+    "Glaucoma",
+    "Peptic ulcer disease",
+    "Tourette syndrome"
+   ],
+   "ans": 0,
+   "exp": "The nebuliser diagram labels inhalable mist in acute exacerbation of asthma/COPD. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-067",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "The paradoxical airway side effect of inhaled antimuscarinics is:",
+   "opts": [
+    "Paradoxical bronchoconstriction",
+    "Paradoxical miosis",
+    "Paradoxical urination",
+    "Paradoxical hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect bullet states paradoxical bronchoconstriction. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-068",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "Paradoxical bronchoconstriction from solution tonicity is avoided by using:",
+   "opts": [
+    "Isotonic solution",
+    "Hypotonic solution",
+    "Hypertonic saline only",
+    "Distilled water"
+   ],
+   "ans": 0,
+   "exp": "The cause list says hypotonic solution is avoided with isotonic solution. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-069",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "Bromide is listed as a cause of:",
+   "opts": [
+    "Paradoxical bronchoconstriction",
+    "Mydriasis without cycloplegia",
+    "Cholinergic crisis",
+    "Acute CHF"
+   ],
+   "ans": 0,
+   "exp": "Bromide appears under the causes of paradoxical bronchoconstriction. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-070",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "page": 50,
+   "q": "Presynaptic m2 autoreceptor blockade increases ACh, which then stimulates postsynaptic:",
+   "opts": [
+    "m3 receptors",
+    "β3 receptors",
+    "D1 receptors",
+    "Nm receptors"
+   ],
+   "ans": 0,
+   "exp": "The mechanism says blocking presynaptic m2 increases ACh and stimulates postsynaptic m3. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-071",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The cardiac effect of atropine is:",
+   "opts": [
+    "Increased heart rate and increased AV conduction",
+    "Decreased heart rate and decreased AV conduction",
+    "Only decreased AV conduction",
+    "No effect on heart rate"
+   ],
+   "ans": 0,
+   "exp": "The heart effect column lists ↑ heart rate and ↑ AV conduction. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-072",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Atropine is DOC for conduction blocks such as:",
+   "opts": [
+    "Digoxin toxicity",
+    "β3 agonist toxicity",
+    "Pilocarpine toxicity only",
+    "Cocaine dependence"
+   ],
+   "ans": 0,
+   "exp": "The heart use cell says conduction blocks (DOC), e.g. digoxin toxicity. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-073",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The atropine dose threshold mentioned for treating bradycardia is:",
+   "opts": [
+    "At least 0.5 mg",
+    "Less than 0.5 mg",
+    "5 micrograms",
+    "50 micrograms"
+   ],
+   "ans": 0,
+   "exp": "The bradycardia use is marked ≥0.5 mg. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-074",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The IV atropine dose schedule shown is:",
+   "opts": [
+    "1 mg IV repeated in 3-5 minutes up to 3 mg",
+    "0.1 mg IV once only",
+    "5 mg IV every hour up to 50 mg",
+    "1 pMDI every 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The dosing cell states 1 mg IV, repeat in 3-5 minutes, up to 3 mg. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-075",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "An IV atropine dose below 0.5 mg can cause:",
+   "opts": [
+    "Paradoxical bradycardia",
+    "Paradoxical bronchoconstriction",
+    "Acute angle closure glaucoma only",
+    "Dementia"
+   ],
+   "ans": 0,
+   "exp": "The heart side-effect cell says <0.5 mg IV dose can cause paradoxical bradycardia. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-076",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The mechanism of low-dose atropine paradoxical bradycardia shown is blockade of:",
+   "opts": [
+    "Presynaptic muscarinic autoreceptor",
+    "β1 receptor in SA node",
+    "Nicotinic Nm receptor",
+    "D1 receptor"
+   ],
+   "ans": 0,
+   "exp": "The side-effect mechanism labels presynaptic muscarinic blockade leading to paradoxical bradycardia. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-077",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Muscarinic blockers in the GIT decrease:",
+   "opts": [
+    "HCl secretion",
+    "Renin release",
+    "Norepinephrine reuptake",
+    "Pulmonary surfactant"
+   ],
+   "ans": 0,
+   "exp": "The first GIT effect row says ↓ HCl secretion. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-078",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The obsolete m1 blockers for peptic ulcer disease are:",
+   "opts": [
+    "Pirenzepine and telenzepine",
+    "Atropine and scopolamine",
+    "Darifenacin and solifenacin",
+    "Ipratropium and tiotropium"
+   ],
+   "ans": 0,
+   "exp": "The GIT acid row lists m1 blockers pirenzepine and telenzepine and brackets them as obsolete. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-079",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Pirenzepine and telenzepine were used for:",
+   "opts": [
+    "Peptic ulcer disease",
+    "Motion sickness",
+    "Urge incontinence",
+    "Hypertensive emergency"
+   ],
+   "ans": 0,
+   "exp": "The use column beside m1 blockers says peptic ulcer disease. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-080",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "The antispasmodic effect of antimuscarinics in the GIT is:",
+   "opts": [
+    "Decreased contraction",
+    "Increased contraction",
+    "Increased HCl secretion",
+    "Increased insulin release"
+   ],
+   "ans": 0,
+   "exp": "The lower GIT effect row reads ↓ contraction. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-081",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Which drugs are listed as antispasmodics?",
+   "opts": [
+    "Glycopyrrolate, dicyclomine and scopolamine",
+    "Pirenzepine, telenzepine and atropine ointment",
+    "Ipratropium, oxitropium and tiotropium",
+    "Darifenacin, solifenacin and trospium"
+   ],
+   "ans": 0,
+   "exp": "The antispasmodic drug list contains glycopyrrolate, dicyclomine and scopolamine (hyoscine). (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-082",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "GIT antispasmodics are used to relieve abdominal pain in:",
+   "opts": [
+    "Infectious diarrhoea and dysmenorrhoea",
+    "COPD and asthma",
+    "Pheochromocytoma and CHF",
+    "Tardive dyskinesia and Huntington disease"
+   ],
+   "ans": 0,
+   "exp": "The use cell says to relieve abdomen pain in infectious diarrhoea and dysmenorrhea. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-083",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Hyoscine is another name for:",
+   "opts": [
+    "Scopolamine",
+    "Atropine",
+    "Tropicamide",
+    "Darifenacin"
+   ],
+   "ans": 0,
+   "exp": "The antispasmodic list writes scopolamine (hyoscine). (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-084",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Hyoscine for motion sickness is given as a:",
+   "opts": [
+    "Transdermal patch",
+    "Nebulised mist",
+    "Intracardiac injection",
+    "Eye ointment only"
+   ],
+   "ans": 0,
+   "exp": "The hyoscine use cell says transdermal patch used for motion sickness. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-085",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Hyoscine patch absorption is:",
+   "opts": [
+    "Slow",
+    "Instantaneous",
+    "Absent through skin",
+    "Only oral"
+   ],
+   "ans": 0,
+   "exp": "The patch note says lipid soluble with slow absorption. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-086",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "Because hyoscine absorption is slow, it should be administered:",
+   "opts": [
+    "4-5 hours before travel, often the night before",
+    "Only after symptoms start",
+    "Every 5 minutes during travel",
+    "Only after meals"
+   ],
+   "ans": 0,
+   "exp": "The table says administer before 4-5 hours, night before travel. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-087",
+   "sec": "Muscarinic Blockers: Heart and GIT",
+   "page": 50,
+   "q": "A hyoscine patch is long acting and is reapplied every:",
+   "opts": [
+    "2-3 days",
+    "2-3 hours",
+    "3-5 minutes",
+    "Once monthly"
+   ],
+   "ans": 0,
+   "exp": "The hyoscine note states long acting: reapply 2-3 days. (Book p50)"
+  },
+  {
+   "id": "PHARM-C14-088",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "The bladder effect of muscarinic blockers is:",
+   "opts": [
+    "Decreased contraction",
+    "Increased contraction",
+    "Increased urine formation",
+    "Increased salivation"
+   ],
+   "ans": 0,
+   "exp": "The bladder table effect column says ↓ contraction. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-089",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Selective bladder m3 blockers have selectivity:",
+   "opts": [
+    "m3 > m1",
+    "m1 > m3",
+    "m2 only",
+    "Nn > Nm"
+   ],
+   "ans": 0,
+   "exp": "The selective m3 cell states m3 > m1. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-090",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Which selective m3 blockers are listed for bladder overactivity?",
+   "opts": [
+    "Darifenacin and solifenacin",
+    "Trospium and flavoxate",
+    "Oxybutynin and tolterodine",
+    "Mirabegron and vibegron"
+   ],
+   "ans": 0,
+   "exp": "The selective m3 drug list contains darifenacin and solifenacin. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-091",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Darifenacin and solifenacin are used for:",
+   "opts": [
+    "Urge incontinence or overactive bladder",
+    "Overflow incontinence due to bladder atony",
+    "Post-operative urine retention",
+    "Peptic ulcer disease"
+   ],
+   "ans": 0,
+   "exp": "The use column for selective m3 drugs states urge incontinence (overactive bladder). (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-092",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "The DOC drug class paired with overactive bladder in the table is:",
+   "opts": [
+    "β3 agonists",
+    "β1 blockers",
+    "AChE reactivators",
+    "Ganglionic blockers"
+   ],
+   "ans": 0,
+   "exp": "The use cell lists β3 agonists (DOC) for overactive bladder. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-093",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "The β3 agonists listed as DOC for urge incontinence are:",
+   "opts": [
+    "Mirabegron and vibegron",
+    "Darifenacin and solifenacin",
+    "Flavoxate and tolterodine",
+    "Pirenzepine and telenzepine"
+   ],
+   "ans": 0,
+   "exp": "The table lists mirabegron/vibegron after β3 agonists (DOC). (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-094",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Trospium is a:",
+   "opts": [
+    "Quaternary amine",
+    "Tertiary amine",
+    "Catecholamine",
+    "Organophosphate"
+   ],
+   "ans": 0,
+   "exp": "The trospium cell says quaternary amine. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-095",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Trospium does not cross the BBB and is useful in urge incontinence with:",
+   "opts": [
+    "Alzheimer's disease",
+    "Asthma",
+    "Glaucoma",
+    "Pheochromocytoma"
+   ],
+   "ans": 0,
+   "exp": "The trospium row notes not crossing BBB and the use is urge incontinence plus Alzheimer's. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-096",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Which drugs are listed as non-selective bladder antimuscarinics?",
+   "opts": [
+    "Flavoxate, fesoterodine, oxybutynin and tolterodine",
+    "Darifenacin, solifenacin and trospium only",
+    "Ipratropium, oxitropium and aclidinium",
+    "Tropicamide, cyclopentolate and homatropine"
+   ],
+   "ans": 0,
+   "exp": "The non-selective list contains flavoxate, fesoterodine, oxybutynin and tolterodine. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-097",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Long-term non-selective bladder antimuscarinics can cause dementia by blocking:",
+   "opts": [
+    "m1 receptors in the brain",
+    "m3 receptors in bladder only",
+    "β3 receptors in bladder",
+    "Nn receptors in ganglia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect cell says m1 block in brain leads to dementia on long-term use. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-098",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "For an elderly patient with overactive bladder and Alzheimer's disease, the table points toward:",
+   "opts": [
+    "Trospium",
+    "Oxybutynin",
+    "Tolterodine",
+    "Flavoxate"
+   ],
+   "ans": 0,
+   "exp": "Trospium is highlighted as quaternary, not crossing BBB, and useful in urge incontinence plus Alzheimer's. (Book p51)"
+  },
+  {
+   "id": "PHARM-C14-099",
+   "sec": "Muscarinic Blockers Acting on Bladder",
+   "page": 51,
+   "q": "Which statement best distinguishes the bladder drugs in this table?",
+   "opts": [
+    "Selective m3 blockers and trospium treat urge incontinence, while non-selective brain m1 blockade risks dementia",
+    "All bladder drugs freely cross the BBB and are preferred in Alzheimer's",
+    "β3 agonists cause detrusor contraction",
+    "Darifenacin and solifenacin are non-selective m1 blockers"
+   ],
+   "ans": 0,
+   "exp": "The table separates selective m3 drugs and trospium from non-selective agents whose brain m1 blockade may cause dementia. (Book p51)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U14-1",
+   "ch": 14,
+   "n": 1,
+   "title": "Anticholinergic Drugs: Classification and Nicotinic Blockers",
+   "sec": "Anticholinergic Drugs: Classification and Nicotinic Blockers · p48",
+   "qs": [
+    "PHARM-C14-001",
+    "PHARM-C14-002",
+    "PHARM-C14-003",
+    "PHARM-C14-004",
+    "PHARM-C14-005",
+    "PHARM-C14-006",
+    "PHARM-C14-007",
+    "PHARM-C14-008",
+    "PHARM-C14-009",
+    "PHARM-C14-010",
+    "PHARM-C14-011",
+    "PHARM-C14-012",
+    "PHARM-C14-013",
+    "PHARM-C14-014",
+    "PHARM-C14-015",
+    "PHARM-C14-016",
+    "PHARM-C14-017",
+    "PHARM-C14-018",
+    "PHARM-C14-019",
+    "PHARM-C14-020",
+    "PHARM-C14-021"
+   ],
+   "guide": "Anticholinergic drugs are parasympatholytics and are direct acting. They include muscarinic blockers and nicotinic blockers; nicotinic blockers are further separated into Nm muscular blockers and Nn neuronal or ganglionic blockers. Nm blockers relax skeletal muscle at the NMJ, whereas ganglionic blockers reduce sympathetic post-ganglionic norepinephrine release, producing vasodilation, antihypertensive action and postural hypotension."
+  },
+  {
+   "id": "PHARM-U14-2",
+   "ch": 14,
+   "n": 2,
+   "title": "Muscarinic Blockers: CNS, Eyes and Oropharynx",
+   "sec": "Muscarinic Blockers: CNS, Eyes and Oropharynx · p49",
+   "qs": [
+    "PHARM-C14-022",
+    "PHARM-C14-023",
+    "PHARM-C14-024",
+    "PHARM-C14-025",
+    "PHARM-C14-026",
+    "PHARM-C14-027",
+    "PHARM-C14-028",
+    "PHARM-C14-029",
+    "PHARM-C14-030",
+    "PHARM-C14-031",
+    "PHARM-C14-032",
+    "PHARM-C14-033",
+    "PHARM-C14-034",
+    "PHARM-C14-035",
+    "PHARM-C14-036",
+    "PHARM-C14-037",
+    "PHARM-C14-038",
+    "PHARM-C14-039",
+    "PHARM-C14-040",
+    "PHARM-C14-041",
+    "PHARM-C14-042",
+    "PHARM-C14-043",
+    "PHARM-C14-044",
+    "PHARM-C14-045"
+   ],
+   "guide": "Muscarinic blockade in the CNS decreases cognition; scopolamine is remembered as a truth serum, an alternate narcoanalysis drug and the DOC for motion sickness as a transdermal patch. In the eye, muscarinic blockers cause passive mydriasis and cycloplegia; short-acting drops are used in adults, whereas potent atropine ointment is used in children and for uveitis-related indications. Glycopyrrolate decreases oropharyngeal secretions as a quaternary amine that does not cross the BBB, making it useful before anaesthesia to prevent aspiration."
+  },
+  {
+   "id": "PHARM-U14-3",
+   "ch": 14,
+   "n": 3,
+   "title": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction",
+   "sec": "Pulmonary Antimuscarinics, Inhalation Devices and Paradoxical Bronchoconstriction · p49",
+   "qs": [
+    "PHARM-C14-046",
+    "PHARM-C14-047",
+    "PHARM-C14-048",
+    "PHARM-C14-049",
+    "PHARM-C14-050",
+    "PHARM-C14-051",
+    "PHARM-C14-052",
+    "PHARM-C14-053",
+    "PHARM-C14-054",
+    "PHARM-C14-055",
+    "PHARM-C14-056",
+    "PHARM-C14-057",
+    "PHARM-C14-058",
+    "PHARM-C14-059",
+    "PHARM-C14-060",
+    "PHARM-C14-061",
+    "PHARM-C14-062",
+    "PHARM-C14-063",
+    "PHARM-C14-064",
+    "PHARM-C14-065",
+    "PHARM-C14-066",
+    "PHARM-C14-067",
+    "PHARM-C14-068",
+    "PHARM-C14-069",
+    "PHARM-C14-070"
+   ],
+   "guide": "Antimuscarinics in the lung cause bronchodilation and are classified by duration into SAMA, IAMA and LAMA. Ipratropium is the short-acting QID drug, tiotropium is DOC in COPD, and long-acting agents are add-on drugs in asthma or COPD. They are delivered by inhalation through pMDI or nebuliser, but paradoxical bronchoconstriction can occur from hypotonic solution, bromide or presynaptic m2 blockade that increases ACh and stimulates postsynaptic m3."
+  },
+  {
+   "id": "PHARM-U14-4",
+   "ch": 14,
+   "n": 4,
+   "title": "Muscarinic Blockers: Heart and GIT",
+   "sec": "Muscarinic Blockers: Heart and GIT · p50",
+   "qs": [
+    "PHARM-C14-071",
+    "PHARM-C14-072",
+    "PHARM-C14-073",
+    "PHARM-C14-074",
+    "PHARM-C14-075",
+    "PHARM-C14-076",
+    "PHARM-C14-077",
+    "PHARM-C14-078",
+    "PHARM-C14-079",
+    "PHARM-C14-080",
+    "PHARM-C14-081",
+    "PHARM-C14-082",
+    "PHARM-C14-083",
+    "PHARM-C14-084",
+    "PHARM-C14-085",
+    "PHARM-C14-086",
+    "PHARM-C14-087"
+   ],
+   "guide": "Atropine increases heart rate and AV conduction and is the DOC for conduction blocks such as digoxin toxicity and for bradycardia when the dose is at least 0.5 mg. Very low IV doses can paradoxically slow the heart through presynaptic muscarinic blockade. In the GIT, m1 blockers such as pirenzepine and telenzepine are obsolete anti-secretory drugs, while antispasmodics such as glycopyrrolate, dicyclomine and hyoscine reduce contraction and relieve abdominal pain or motion sickness."
+  },
+  {
+   "id": "PHARM-U14-5",
+   "ch": 14,
+   "n": 5,
+   "title": "Muscarinic Blockers Acting on Bladder",
+   "sec": "Muscarinic Blockers Acting on Bladder · p51",
+   "qs": [
+    "PHARM-C14-088",
+    "PHARM-C14-089",
+    "PHARM-C14-090",
+    "PHARM-C14-091",
+    "PHARM-C14-092",
+    "PHARM-C14-093",
+    "PHARM-C14-094",
+    "PHARM-C14-095",
+    "PHARM-C14-096",
+    "PHARM-C14-097",
+    "PHARM-C14-098",
+    "PHARM-C14-099"
+   ],
+   "guide": "Bladder antimuscarinics reduce detrusor contraction and treat urge incontinence. Selective m3 blockers such as darifenacin and solifenacin are contrasted with trospium, a quaternary amine useful when Alzheimer's disease is present because it does not cross the BBB. Non-selective drugs such as oxybutynin, tolterodine, flavoxate and fesoterodine can block brain m1 receptors and cause dementia on long-term use."
+  }
+ ]
+}

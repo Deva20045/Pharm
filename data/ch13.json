@@ -1,0 +1,1966 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C13-001",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Cholinergic drugs are also described as:",
+   "opts": [
+    "Parasympathomimetics",
+    "Parasympatholytics",
+    "Sympathomimetics",
+    "Ganglion blockers"
+   ],
+   "ans": 0,
+   "exp": "The flowchart places cholinergic drugs under the heading parasympathomimetics. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-002",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Direct-acting cholinergic drugs act by:",
+   "opts": [
+    "Stimulating muscarinic or nicotinic receptors",
+    "Blocking acetylcholinesterase only",
+    "Depleting norepinephrine vesicles",
+    "Blocking muscarinic receptors"
+   ],
+   "ans": 0,
+   "exp": "Direct acting drugs are labelled as stimulating muscarinic/nicotinic receptors. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-003",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Direct cholinergic drugs are classified in the chart based on:",
+   "opts": [
+    "Structure",
+    "Duration of action only",
+    "Route of administration",
+    "Renal clearance"
+   ],
+   "ans": 0,
+   "exp": "The direct-acting branch says 'Based on structure'. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-004",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "The amide direct cholinergic drugs listed are:",
+   "opts": [
+    "Pilocarpine and cevimeline",
+    "Bethanechol and carbachol",
+    "Edrophonium and neostigmine",
+    "Tacrine and donepezil"
+   ],
+   "ans": 0,
+   "exp": "Under amides, the chart lists pilocarpine and cevimeline. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-005",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "The natural choline ester in the direct cholinergic classification is:",
+   "opts": [
+    "Acetylcholine",
+    "Physostigmine",
+    "Pilocarpine",
+    "Pralidoxime"
+   ],
+   "ans": 0,
+   "exp": "The choline ester branch lists natural acetylcholine. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-006",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Which set contains the derivatives of acetylcholine shown in the chart?",
+   "opts": [
+    "Methacholine, bethanechol and carbachol",
+    "Pilocarpine, cevimeline and physostigmine",
+    "Sarin, tabun and soman",
+    "Donepezil, rivastigmine and galantamine"
+   ],
+   "ans": 0,
+   "exp": "The derivatives of ACh listed are methacholine, bethanechol and carbachol. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-007",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Methacholine is specifically noted as:",
+   "opts": [
+    "Methylated",
+    "A quaternary oxime",
+    "A natural tertiary amine",
+    "An organophosphate"
+   ],
+   "ans": 0,
+   "exp": "The methacholine bullet carries the parenthetical note 'methylated'. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-008",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Indirect-acting cholinergic drugs primarily:",
+   "opts": [
+    "Block acetylcholinesterase",
+    "Block muscarinic receptors",
+    "Activate β2 receptors",
+    "Inhibit VMAT2"
+   ],
+   "ans": 0,
+   "exp": "The indirect-acting branch reads 'Blocks acetylcholine esterase (AChE)'. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-009",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Blocking AChE increases which transmitter in the synapse?",
+   "opts": [
+    "Acetylcholine",
+    "Norepinephrine",
+    "Dopamine",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "The indirect branch shows ↑ acetylcholine after acetylcholinesterase blockade. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-010",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Increased acetylcholine from AChE blockade stimulates:",
+   "opts": [
+    "Muscarinic and nicotinic receptors",
+    "Only α1 receptors",
+    "Only β1 receptors",
+    "Only dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "The chart writes that ↑ ACh stimulates m/N receptors. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-011",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "The irreversible indirect cholinergic blockers are:",
+   "opts": [
+    "Organophosphates",
+    "Carbamates",
+    "Tertiary amines",
+    "Quaternary amines"
+   ],
+   "ans": 0,
+   "exp": "The irreversible limb is labelled organophosphates. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-012",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Reversible AChE blockers are grouped as:",
+   "opts": [
+    "Carbamates/non-carbamates",
+    "Organophosphates only",
+    "Catecholamines",
+    "α agonists"
+   ],
+   "ans": 0,
+   "exp": "The reversible limb is labelled carbamates/non-carbamates. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-013",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Reversible tertiary amines include which natural drug?",
+   "opts": [
+    "Physostigmine",
+    "Edrophonium",
+    "Neostigmine",
+    "Pyridostigmine"
+   ],
+   "ans": 0,
+   "exp": "Under tertiary amines, the natural drug is physostigmine. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-014",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Which group is listed as synthetic tertiary amines?",
+   "opts": [
+    "Tacrine, donepezil, rivastigmine and galantamine",
+    "Edrophonium, neostigmine and pyridostigmine",
+    "Sarin, VX, tabun and soman",
+    "Pilocarpine, cevimeline, bethanechol and carbachol"
+   ],
+   "ans": 0,
+   "exp": "The synthetic tertiary amine branch contains tacrine, donepezil, rivastigmine and galantamine. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-015",
+   "sec": "Cholinergic Drugs: Classification",
+   "page": 42,
+   "q": "Which reversible AChE blockers are quaternary amines?",
+   "opts": [
+    "Edrophonium, neostigmine and pyridostigmine",
+    "Physostigmine and tacrine",
+    "Pilocarpine and cevimeline",
+    "Sarin and soman"
+   ],
+   "ans": 0,
+   "exp": "The quaternary amine list shows edrophonium, neostigmine and pyridostigmine. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-016",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Compared with choline esters, amides are:",
+   "opts": [
+    "Lipid soluble",
+    "Lipid insoluble",
+    "Unable to cross the BBB",
+    "Purely peripheral"
+   ],
+   "ans": 0,
+   "exp": "In the direct cholinergic table, amides are marked lipid soluble. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-017",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Choline esters are described in the table as:",
+   "opts": [
+    "Lipid insoluble",
+    "Lipid soluble",
+    "BBB-penetrant",
+    "Central acting"
+   ],
+   "ans": 0,
+   "exp": "The lipid solubility row says choline esters are insoluble. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-018",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Which direct cholinergic class crosses the blood-brain barrier?",
+   "opts": [
+    "Amides",
+    "Choline esters",
+    "Organophosphates only",
+    "Quaternary amines"
+   ],
+   "ans": 0,
+   "exp": "The BBB row says amides cross the BBB, whereas choline esters do not. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-019",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "The site of action of amide cholinergic drugs is:",
+   "opts": [
+    "Central/peripheral",
+    "Only bladder",
+    "Only GIT",
+    "Only skeletal muscle"
+   ],
+   "ans": 0,
+   "exp": "The site-of-action row for amides reads central/peripheral. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-020",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "The site of action of choline esters is mainly:",
+   "opts": [
+    "Peripheral: bladder, GIT and muscle",
+    "Central nervous system only",
+    "Postganglionic sympathetic nerve terminals",
+    "Renal tubules only"
+   ],
+   "ans": 0,
+   "exp": "The table says choline esters are peripheral, specifically bladder, GIT and muscle. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-021",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Central side effects are present with:",
+   "opts": [
+    "Amides",
+    "Choline esters",
+    "Quaternary amines",
+    "Methacholine only"
+   ],
+   "ans": 0,
+   "exp": "The central side-effect row says present for amides and absent for choline esters. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-022",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Pilocarpine is used for xerostomia because dry mouth is due to:",
+   "opts": [
+    "Decreased salivary secretions",
+    "Excess salivary secretion",
+    "Increased bronchial secretions",
+    "Reduced tear drainage"
+   ],
+   "ans": 0,
+   "exp": "The pilocarpine use reads xerostomia, dry mouth due to decreased salivary secretions. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-023",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 42,
+   "q": "Which two syndromes are listed as xerostomia settings for pilocarpine?",
+   "opts": [
+    "Sjogren's syndrome and sicca syndrome",
+    "Tourette syndrome and ADHD",
+    "Myasthenia gravis and Lambert-Eaton syndrome",
+    "Huntington disease and tardive dyskinesia"
+   ],
+   "ans": 0,
+   "exp": "The xerostomia bullet lists Sjogren's syndrome and sicca syndrome. (Book p42)"
+  },
+  {
+   "id": "PHARM-C13-024",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "In closed-angle glaucoma, pilocarpine is DOC only after:",
+   "opts": [
+    "Normalisation of IOP with mannitol",
+    "Starting atropine",
+    "Giving β3 agonists",
+    "Completing cataract surgery"
+   ],
+   "ans": 0,
+   "exp": "The closed-angle glaucoma line says pilocarpine is DOC after normalisation of IOP with mannitol. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-025",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "In open-angle glaucoma, pilocarpine is used as:",
+   "opts": [
+    "Second-line treatment",
+    "First-line treatment",
+    "Contraindicated treatment",
+    "Only a diagnostic test"
+   ],
+   "ans": 0,
+   "exp": "The open-angle glaucoma bullet says '2nd line Rx'. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-026",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Pilocarpine lowers IOP in glaucoma by causing:",
+   "opts": [
+    "Miosis with pupil contraction and increased trabecular outflow",
+    "Mydriasis with decreased trabecular outflow",
+    "Cycloplegia with aqueous retention",
+    "α1-mediated radial muscle contraction"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says miosis contracts the pupil and increases trabecular outflow. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-027",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "The side effects of pilocarpine in the eye occur due to contraction of:",
+   "opts": [
+    "Muscles of accommodation",
+    "Radial muscle of iris only",
+    "Eyelid levator muscle",
+    "Orbicularis oculi"
+   ],
+   "ans": 0,
+   "exp": "The side-effect box attributes them to contraction of muscles of accommodation. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-028",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Brow ache after pilocarpine is described as:",
+   "opts": [
+    "Referred pain",
+    "Allergic conjunctivitis",
+    "Corneal ulceration",
+    "Increased melanin deposition"
+   ],
+   "ans": 0,
+   "exp": "The brow ache bullet explicitly calls it referred pain. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-029",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Which ocular side effect of pilocarpine reflects tractional pull?",
+   "opts": [
+    "Retinal detachment",
+    "Cataract only",
+    "Iris cyst",
+    "Conjunctival pigmentation"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list states retinal detachment due to tractional pull. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-030",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Obsolete miotic agents listed with cataract as a side effect include:",
+   "opts": [
+    "Physostigmine, echothiophate and fluostigmine",
+    "Pilocarpine, cevimeline and bethanechol",
+    "Atropine, tropicamide and homatropine",
+    "Timolol, latanoprost and brimonidine"
+   ],
+   "ans": 0,
+   "exp": "The note groups physostigmine, echothiophate and fluostigmine as obsolete miotic agents and brackets cataract as their side effect. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-031",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Which anti-glaucoma drug increases trabecular outflow by Rho-kinase inhibition?",
+   "opts": [
+    "Netarsudil",
+    "Cevimeline",
+    "Carbachol",
+    "Pralidoxime"
+   ],
+   "ans": 0,
+   "exp": "The note says anti-glaucoma drugs increasing trabecular outflow include netarsudil, a Rho kinase inhibitor. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-032",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "page": 43,
+   "q": "Cevimeline is used for:",
+   "opts": [
+    "Xerostomia, more effectively",
+    "Acute angle closure glaucoma as DOC",
+    "Bronchial challenge testing",
+    "Organophosphate poisoning"
+   ],
+   "ans": 0,
+   "exp": "The cevimeline line states its use is xerostomia and that it is more effective. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-033",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Acetylcholine is metabolised in plasma by:",
+   "opts": [
+    "Plasma/pseudo/butyryl cholinesterase",
+    "Monoamine oxidase",
+    "Catechol-O-methyl transferase",
+    "Tyrosine hydroxylase"
+   ],
+   "ans": 0,
+   "exp": "The ACh metabolism line says it is metabolised in plasma by plasma, pseudo or butyryl choline esterase. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-034",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Because acetylcholine is metabolised in plasma, it is systemically:",
+   "opts": [
+    "Very short acting",
+    "Very long acting",
+    "Irreversible",
+    "Only central acting"
+   ],
+   "ans": 0,
+   "exp": "The arrow below plasma cholinesterase reads systemically very short acting. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-035",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Topical acetylcholine is used as a:",
+   "opts": [
+    "Miotic agent",
+    "Mydriatic agent",
+    "β2 bronchodilator",
+    "Ganglion blocker"
+   ],
+   "ans": 0,
+   "exp": "The ACh use is written as miotic agent by topical route. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-036",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "During ocular surgery, corneal damage releases prostaglandins that may cause:",
+   "opts": [
+    "Mydriasis with acute block of trabecular outflow",
+    "Miosis with increased trabecular outflow",
+    "Only lacrimation",
+    "Retinal vasodilation without IOP change"
+   ],
+   "ans": 0,
+   "exp": "The flow says corneal damage releases prostaglandins, causing mydriasis and acute block of trabecular outflow. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-037",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Acute block of trabecular outflow during ocular surgery can lead to:",
+   "opts": [
+    "Increased IOP and acute angle closure glaucoma",
+    "Decreased IOP and open-angle glaucoma",
+    "Dry mouth",
+    "Urine retention"
+   ],
+   "ans": 0,
+   "exp": "The flow continues to increased IOP and acute angle closure glaucoma. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-038",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "The shortest-acting cholinergic drug listed among plasma-metabolised drugs is:",
+   "opts": [
+    "Acetylcholine",
+    "Bethanechol",
+    "Carbachol",
+    "Methacholine"
+   ],
+   "ans": 0,
+   "exp": "The 'shortest acting in each class' note lists cholinergic: ACh. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-039",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Which muscle relaxant is listed as shortest acting due to plasma metabolism?",
+   "opts": [
+    "Succinylcholine",
+    "Atracurium",
+    "Rocuronium",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "The shortest-acting list names succinylcholine for muscle relaxants. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-040",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Which β-blocker is listed as shortest acting due to plasma metabolism?",
+   "opts": [
+    "Esmolol",
+    "Propranolol",
+    "Atenolol",
+    "Carvedilol"
+   ],
+   "ans": 0,
+   "exp": "The shortest-acting list names esmolol among β-blockers. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-041",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Which opioid is listed as shortest acting due to plasma metabolism?",
+   "opts": [
+    "Remifentanil",
+    "Morphine",
+    "Fentanyl",
+    "Methadone"
+   ],
+   "ans": 0,
+   "exp": "The shortest-acting list names remifentanil among opioids. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-042",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Which calcium-channel blocker is listed as shortest acting due to plasma metabolism?",
+   "opts": [
+    "Clevidipine",
+    "Verapamil",
+    "Amlodipine",
+    "Diltiazem"
+   ],
+   "ans": 0,
+   "exp": "The shortest-acting list names clevidipine among calcium-channel blockers. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-043",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 43,
+   "q": "Which benzodiazepine is listed as shortest acting due to plasma metabolism?",
+   "opts": [
+    "Remimazolam",
+    "Diazepam",
+    "Lorazepam",
+    "Midazolam"
+   ],
+   "ans": 0,
+   "exp": "The shortest-acting list names remimazolam among benzodiazepines. (Book p43)"
+  },
+  {
+   "id": "PHARM-C13-044",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Bethanechol and carbachol are resistant to:",
+   "opts": [
+    "True and pseudo cholinesterase",
+    "Only pseudo cholinesterase",
+    "Only monoamine oxidase",
+    "Only catechol-O-methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "In the derivatives table, bethanechol and carbachol share resistance to true plus pseudo choline esterase. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-045",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Methacholine is resistant to:",
+   "opts": [
+    "Pseudo cholinesterase",
+    "True and pseudo cholinesterase",
+    "Acetylcholinesterase irreversibly",
+    "No esterase"
+   ],
+   "ans": 0,
+   "exp": "The enzyme-resistance row lists pseudo choline esterase for methacholine. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-046",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Bethanechol and carbachol are described as:",
+   "opts": [
+    "Long acting",
+    "Short acting like ACh",
+    "Ultra-short acting",
+    "Irreversible"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 row shows long acting across bethanechol and carbachol. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-047",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Methacholine is:",
+   "opts": [
+    "Short acting but longer than ACh",
+    "Long acting like bethanechol",
+    "Irreversible",
+    "Unable to act on muscarinic receptors"
+   ],
+   "ans": 0,
+   "exp": "The T1/2 row says methacholine is short acting, longer than ACh. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-048",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "The muscarinic affinity of bethanechol and carbachol is:",
+   "opts": [
+    "m1 = m3 > m2",
+    "m2 > m1 = m3",
+    "m3 only",
+    "m2 only"
+   ],
+   "ans": 0,
+   "exp": "The muscarinic affinity row under bethanechol/carbachol reads m1 = m3 > m2. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-049",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Methacholine has highest affinity for:",
+   "opts": [
+    "m2 over m1 and m3",
+    "m3 over all receptors",
+    "Nn receptors only",
+    "Nm receptors only"
+   ],
+   "ans": 0,
+   "exp": "The methacholine affinity row reads m2 > m1 = m3. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-050",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Which ACh derivative has no nicotinic side effect in the table?",
+   "opts": [
+    "Bethanechol",
+    "Carbachol",
+    "Methacholine",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The nicotinic side-effect row says no action under bethanechol. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-051",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Which ACh derivative has maximum nicotinic side effects?",
+   "opts": [
+    "Carbachol",
+    "Bethanechol",
+    "Methacholine",
+    "Cevimeline"
+   ],
+   "ans": 0,
+   "exp": "The nicotinic side-effect row says maximum under carbachol. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-052",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Which ACh derivative has moderate nicotinic side effects?",
+   "opts": [
+    "Methacholine",
+    "Bethanechol",
+    "Pilocarpine",
+    "Cevimeline"
+   ],
+   "ans": 0,
+   "exp": "The nicotinic side-effect row says moderate under methacholine. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-053",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Bethanechol is used for bladder atony presenting as:",
+   "opts": [
+    "Overflow incontinence",
+    "Urge incontinence",
+    "Stress incontinence",
+    "Hematuria"
+   ],
+   "ans": 0,
+   "exp": "Under bethanechol uses, bladder atony leads to overflow incontinence. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-054",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "A post-operative patient with urinary retention may be treated with:",
+   "opts": [
+    "Bethanechol",
+    "Tropicamide",
+    "Apraclonidine",
+    "Bromocriptine"
+   ],
+   "ans": 0,
+   "exp": "Post-operative urine retention is listed under bethanechol bladder uses. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-055",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Bethanechol is used in the GIT for:",
+   "opts": [
+    "Gastroparesis and paralytic ileus",
+    "Peptic ulcer disease and reflux",
+    "Infectious diarrhoea and dysmenorrhoea",
+    "Motion sickness"
+   ],
+   "ans": 0,
+   "exp": "The bethanechol GIT uses are gastroparesis and paralytic ileus. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-056",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Carbachol is used topically as:",
+   "opts": [
+    "A miotic agent for ocular surgery",
+    "A systemic bronchodilator",
+    "A bladder antispasmodic",
+    "A β3 agonist"
+   ],
+   "ans": 0,
+   "exp": "The carbachol use is topical: miotic agent for ocular surgery. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-057",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Systemic carbachol is not used because of:",
+   "opts": [
+    "Side effects",
+    "Lack of any receptor activity",
+    "Poor topical action",
+    "Irreversible ageing"
+   ],
+   "ans": 0,
+   "exp": "The carbachol systemic use cell says not used due to side effects. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-058",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Methacholine is used in the:",
+   "opts": [
+    "Bronchial challenge test",
+    "Tensilon test",
+    "Dale phenomenon",
+    "Narcoanalysis test"
+   ],
+   "ans": 0,
+   "exp": "The methacholine use is bronchial challenge test. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-059",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "In bronchial challenge testing, methacholine is given:",
+   "opts": [
+    "In incremental doses",
+    "Only as a single massive bolus",
+    "Only after atropine",
+    "Only by intravenous infusion"
+   ],
+   "ans": 0,
+   "exp": "The methacholine column says it is given in incremental doses. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-060",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "Methacholine produces bronchospasm through action on:",
+   "opts": [
+    "m3 receptors",
+    "β2 receptors",
+    "α2 receptors",
+    "D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The bronchial challenge line says bronchospasm occurs due to action on m3. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-061",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "The parameter measured in the methacholine bronchial challenge test is:",
+   "opts": [
+    "FEV",
+    "IOP",
+    "GFR",
+    "AUC"
+   ],
+   "ans": 0,
+   "exp": "The note in the methacholine column says measure FEV. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-062",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "The most widely distributed muscarinic receptor in the human body is:",
+   "opts": [
+    "m3",
+    "m1",
+    "m2",
+    "m5"
+   ],
+   "ans": 0,
+   "exp": "The note below the table states m3 is the most widely distributed muscarinic receptor. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-063",
+   "sec": "Choline Esters and Derivatives of ACh",
+   "page": 44,
+   "q": "The bronchial challenge test can also be performed with mannitol because it increases resistance due to:",
+   "opts": [
+    "Edema",
+    "Esterase inhibition",
+    "Ciliary muscle paralysis",
+    "Dopamine release"
+   ],
+   "ans": 0,
+   "exp": "The note says bronchial challenge can also be performed with mannitol, causing increased resistance due to edema. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-064",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Irreversible indirect cholinergic blockers act by binding AChE with:",
+   "opts": [
+    "Organophosphate",
+    "Atropine",
+    "Bromocriptine",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "The irreversible blocker mechanism diagram labels organophosphate binding to AChE. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-065",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "During the reversible phase of organophosphate binding, ACh levels:",
+   "opts": [
+    "Increase",
+    "Decrease",
+    "Become zero",
+    "Are unchanged"
+   ],
+   "ans": 0,
+   "exp": "The reversible phase bracket in the diagram is marked ↑ ACh levels. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-066",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Oximes are useful early in organophosphate poisoning because they:",
+   "opts": [
+    "Break the organophosphate-AChE bond",
+    "Block muscarinic receptors",
+    "Prevent ACh synthesis",
+    "Act as β2 agonists"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows oximes breaking the organophosphate attachment before ageing. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-067",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Ageing of organophosphate-bound AChE means:",
+   "opts": [
+    "Replacement of phosphate bonds with stronger bonds",
+    "Spontaneous recovery of AChE",
+    "Conversion to a quaternary amine",
+    "Direct β2 stimulation"
+   ],
+   "ans": 0,
+   "exp": "The lower part of the diagram says replacement of PO4 bonds with stronger bonds leads to ageing. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-068",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Once ageing has occurred, oximes are:",
+   "opts": [
+    "Ineffective",
+    "More effective",
+    "The only antimuscarinic treatment",
+    "Used as local anaesthetics"
+   ],
+   "ans": 0,
+   "exp": "The diagram notes oximes are ineffective if ageing has occurred. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-069",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Chemical warfare organophosphates listed are:",
+   "opts": [
+    "Sarin, tabun, VX and soman",
+    "Tacrine, donepezil, rivastigmine and galantamine",
+    "Edrophonium, neostigmine and pyridostigmine",
+    "Pilocarpine, cevimeline, bethanechol and carbachol"
+   ],
+   "ans": 0,
+   "exp": "The agents table lists sarin, tabun, VX and soman under chemical warfare agents. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-070",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Which obsolete miotic organophosphates are listed?",
+   "opts": [
+    "Echothiophate and fluostigmine",
+    "Sarin and VX",
+    "Pralidoxime and obidoxime",
+    "Methacholine and carbachol"
+   ],
+   "ans": 0,
+   "exp": "The miotic-agent row lists echothiophate and fluostigmine as obsolete miotic agents. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-071",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "The side effects of obsolete miotic organophosphates include:",
+   "opts": [
+    "Cataract and iris cysts",
+    "Dementia and BPH",
+    "Tremor and hypokalemia",
+    "Mydriasis and dry mouth"
+   ],
+   "ans": 0,
+   "exp": "The side-effect column for obsolete miotic agents lists cataract and iris cysts. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-072",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 44,
+   "q": "Insecticides and pesticides acting as organophosphates cause:",
+   "opts": [
+    "Cholinergic symptoms",
+    "Pure anticholinergic symptoms",
+    "Only hyperkalemia",
+    "Only dopamine depletion"
+   ],
+   "ans": 0,
+   "exp": "The insecticide/pesticide row lists cholinergic symptoms as side effects. (Book p44)"
+  },
+  {
+   "id": "PHARM-C13-073",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The clinical presentation of organophosphate poisoning is:",
+   "opts": [
+    "Cholinergic symptoms",
+    "Anticholinergic symptoms",
+    "Dopamine withdrawal",
+    "β-blockade"
+   ],
+   "ans": 0,
+   "exp": "The organophosphate poisoning section starts with clinical presentation: cholinergic symptoms. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-074",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Which eye finding is listed in organophosphate poisoning?",
+   "opts": [
+    "Miosis",
+    "Mydriasis",
+    "Cycloplegia only",
+    "Passive mydriasis"
+   ],
+   "ans": 0,
+   "exp": "Miosis is the first clinical-presentation bullet. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-075",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Organophosphate poisoning increases:",
+   "opts": [
+    "Salivation and lacrimation",
+    "Only dry mouth",
+    "Only blood pressure",
+    "Only dopamine release"
+   ],
+   "ans": 0,
+   "exp": "The symptoms include increased salivation/lacrimation. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-076",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Which skin-gland feature is listed in organophosphate poisoning?",
+   "opts": [
+    "Increased sweating",
+    "Absent sweating",
+    "Dry skin only",
+    "Conjunctival pigmentation"
+   ],
+   "ans": 0,
+   "exp": "The clinical presentation includes ↑ sweating. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-077",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The respiratory symptom listed in organophosphate poisoning is:",
+   "opts": [
+    "Dyspnea",
+    "Apnea only in neonates",
+    "Bronchodilation without dyspnea",
+    "Hiccup"
+   ],
+   "ans": 0,
+   "exp": "Dyspnea is listed among the cholinergic symptoms. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-078",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Organophosphate poisoning causes which bowel and bladder effects?",
+   "opts": [
+    "Involuntary defecation and involuntary urination",
+    "Constipation and urine retention",
+    "Gastroparesis and overflow incontinence",
+    "Peptic ulcer and dysmenorrhoea"
+   ],
+   "ans": 0,
+   "exp": "The presentation list includes involuntary defecation and involuntary urination. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-079",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The DOC antimuscarinic for organophosphate poisoning is:",
+   "opts": [
+    "Atropine",
+    "Physostigmine",
+    "Methacholine",
+    "Tacrine"
+   ],
+   "ans": 0,
+   "exp": "The treatment section says antimuscarinic: atropine (DOC). (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-080",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The most common marker used for adequate atropinisation is:",
+   "opts": [
+    "Pupil size",
+    "Serum potassium",
+    "FEV",
+    "Plasma dopamine"
+   ],
+   "ans": 0,
+   "exp": "Under marker of adequate atropinisation, the m/c marker is pupil size. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-081",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The most specific marker of adequate atropinisation is:",
+   "opts": [
+    "Normalisation of respiratory secretions",
+    "Complete mydriasis",
+    "Increase in sweating",
+    "Fall in glucose"
+   ],
+   "ans": 0,
+   "exp": "The note says the most specific marker is normalisation of respiratory secretions. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-082",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The antinicotinic treatment in organophosphate poisoning is:",
+   "opts": [
+    "AChE reactivators",
+    "Muscarinic antagonists only",
+    "β3 agonists",
+    "VMAT2 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The treatment section labels antinicotinic therapy as AChE reactivators. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-083",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "The most specific AChE reactivators are:",
+   "opts": [
+    "Oximes",
+    "Amides",
+    "Choline esters",
+    "Ganglion blockers"
+   ],
+   "ans": 0,
+   "exp": "The AChE reactivator section states oximes are most specific. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-084",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Which oxime is most commonly used in India?",
+   "opts": [
+    "Pralidoxime (PAM)",
+    "Obidoxime",
+    "Diacetyl monoxime",
+    "Physostigmine"
+   ],
+   "ans": 0,
+   "exp": "The oxime list marks pralidoxime (PAM) as most commonly used in India. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-085",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "page": 45,
+   "q": "Besides pralidoxime, the oximes listed are:",
+   "opts": [
+    "Obidoxime and diacetyl monoxime",
+    "Tacrine and galantamine",
+    "Edrophonium and pyridostigmine",
+    "Pilocarpine and cevimeline"
+   ],
+   "ans": 0,
+   "exp": "The oxime list includes obidoxime and diacetyl monoxime. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-086",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Reversible AChE blockers are also called pseudo-irreversible because they are:",
+   "opts": [
+    "Long acting",
+    "Organophosphates",
+    "Unable to bind AChE",
+    "β2 agonists"
+   ],
+   "ans": 0,
+   "exp": "The reversible blockers mechanism notes carbamates/non-carbamates are aka pseudo irreversible due to long-acting nature. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-087",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Carbamates/non-carbamates bind AChE mainly by:",
+   "opts": [
+    "Weak ionic bonds",
+    "Strong aged phosphate bonds",
+    "Covalent DNA bonds",
+    "Hydrogen cyanide release"
+   ],
+   "ans": 0,
+   "exp": "The mechanism diagram labels weak ionic bonds as the basis of short action. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-088",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Edrophonium is unique because it only binds the:",
+   "opts": [
+    "Anionic site",
+    "Esteratic site",
+    "β2 receptor",
+    "D1 receptor"
+   ],
+   "ans": 0,
+   "exp": "The diagram notes edrophonium only binds to the anionic site. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-089",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Oximes cannot be used to treat poisoning with:",
+   "opts": [
+    "Carbamates/non-carbamates",
+    "Organophosphates before ageing",
+    "Sarin exposure before ageing",
+    "Tabun exposure before ageing"
+   ],
+   "ans": 0,
+   "exp": "A note beside the reversible-blocker diagram states oximes cannot be used to Rx carbamate/non-carbamates. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-090",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Tertiary amine AChE inhibitors cross the BBB and therefore have:",
+   "opts": [
+    "Central action",
+    "Only peripheral action",
+    "Only ocular action",
+    "No cholinergic action"
+   ],
+   "ans": 0,
+   "exp": "The tertiary amine section says crosses blood-brain barrier → central action. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-091",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "The natural tertiary amine AChE inhibitor is:",
+   "opts": [
+    "Physostigmine",
+    "Neostigmine",
+    "Pyridostigmine",
+    "Edrophonium"
+   ],
+   "ans": 0,
+   "exp": "The tertiary amine table lists physostigmine under natural drugs. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-092",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "The synthetic tertiary amines listed are:",
+   "opts": [
+    "Tacrine, donepezil, rivastigmine and galantamine",
+    "Edrophonium, neostigmine and pyridostigmine",
+    "Sarin, tabun, VX and soman",
+    "Bethanechol, carbachol and methacholine"
+   ],
+   "ans": 0,
+   "exp": "The synthetic column lists tacrine, donepezil, rivastigmine and galantamine. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-093",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Physostigmine is DOC for poisoning due to:",
+   "opts": [
+    "Atropine or scopolamine",
+    "Organophosphates after ageing",
+    "β2 agonists",
+    "Norepinephrine"
+   ],
+   "ans": 0,
+   "exp": "The physostigmine use says anticholinergic poisoning (atropine/scopolamine): DOC. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-094",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Besides anticholinergic poisoning, physostigmine is also listed as a:",
+   "opts": [
+    "Miotic agent",
+    "Nasal decongestant",
+    "Uterine relaxant",
+    "β3 agonist"
+   ],
+   "ans": 0,
+   "exp": "The second physostigmine use in the table is miotic agent. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-095",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "Synthetic tertiary AChE inhibitors are used in:",
+   "opts": [
+    "Alzheimer's disease",
+    "Hypertensive emergency",
+    "Acute CHF",
+    "Anaphylactic shock"
+   ],
+   "ans": 0,
+   "exp": "The synthetic tertiary amine column gives Alzheimer's disease as the use. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-096",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "page": 45,
+   "q": "The natural source of physostigmine shown is:",
+   "opts": [
+    "Calabar beans from Physostigma venenosum",
+    "Datura thorny fruit",
+    "Rauwolfia root",
+    "Ephedra plant"
+   ],
+   "ans": 0,
+   "exp": "The figure labels Calabar beans and Physostigma venenosum as the natural source of physostigmine. (Book p45)"
+  },
+  {
+   "id": "PHARM-C13-097",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Quaternary amine AChE inhibitors do not cross the BBB, so their action is:",
+   "opts": [
+    "Peripheral",
+    "Central",
+    "Only cortical",
+    "Only ocular"
+   ],
+   "ans": 0,
+   "exp": "The quaternary amine heading says they do not cross the BBB and have peripheral action. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-098",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Edrophonium is described as:",
+   "opts": [
+    "Short acting",
+    "Long acting",
+    "Irreversible",
+    "A tertiary amine"
+   ],
+   "ans": 0,
+   "exp": "The duration column for edrophonium reads short acting. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-099",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Edrophonium is DOC for diagnosing myasthenia gravis in the:",
+   "opts": [
+    "Tensilon test",
+    "Bronchial challenge test",
+    "Dale test",
+    "Schirmer test"
+   ],
+   "ans": 0,
+   "exp": "The edrophonium use states DOC for diagnosis of MG: Tensilon test. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-100",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "In differentiating myasthenic crisis from cholinergic crisis, edrophonium worsening of symptoms indicates:",
+   "opts": [
+    "Cholinergic crisis",
+    "Myasthenic crisis",
+    "Neurogenic shock",
+    "Tardive dyskinesia"
+   ],
+   "ans": 0,
+   "exp": "The edrophonium flow says symptoms worsen → cholinergic crisis. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-101",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "In the same edrophonium test, improvement of symptoms indicates:",
+   "opts": [
+    "Myasthenic crisis",
+    "Cholinergic crisis",
+    "Atropine poisoning",
+    "Organophosphate ageing"
+   ],
+   "ans": 0,
+   "exp": "The edrophonium flow says symptoms improve → myasthenic crisis. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-102",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine is:",
+   "opts": [
+    "Long acting",
+    "Short acting",
+    "Only central acting",
+    "An organophosphate"
+   ],
+   "ans": 0,
+   "exp": "The duration column for neostigmine reads long acting. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-103",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine's muscle action is on:",
+   "opts": [
+    "Nm only",
+    "m3 only",
+    "α1 only",
+    "β3 only"
+   ],
+   "ans": 0,
+   "exp": "The neostigmine muscle use says action on Nm only. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-104",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine is used with atropine to prevent:",
+   "opts": [
+    "Muscarinic side effects",
+    "Nicotinic Nm action",
+    "AChE reactivation",
+    "VMAT2 blockade"
+   ],
+   "ans": 0,
+   "exp": "The neostigmine muscle note says it is used with atropine to prevent muscarinic side effects. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-105",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "In cobra bite, neostigmine is useful because cobra toxin competitively inhibits ACh at:",
+   "opts": [
+    "Nicotinic Nm receptors",
+    "β2 receptors",
+    "D1 receptors",
+    "m1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The cobra-bite line notes cobra toxin is a competitive inhibitor of ACh at the nicotinic receptor at the muscle end plate. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-106",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine reverses:",
+   "opts": [
+    "Non-depolarising muscle relaxants",
+    "Depolarising succinylcholine block",
+    "β-blockers",
+    "MAO inhibitors"
+   ],
+   "ans": 0,
+   "exp": "One neostigmine muscle use is NDMR reversal. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-107",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine is used for the treatment/diagnosis of:",
+   "opts": [
+    "Myasthenia gravis",
+    "Pheochromocytoma",
+    "Motion sickness",
+    "ADHD"
+   ],
+   "ans": 0,
+   "exp": "The neostigmine muscle use list includes Rx/Dx of MG. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-108",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine treats bladder atony presenting as:",
+   "opts": [
+    "Overflow incontinence",
+    "Urge incontinence",
+    "Stress incontinence",
+    "Polyuria"
+   ],
+   "ans": 0,
+   "exp": "Under bladder uses, neostigmine is listed for bladder atony → overflow incontinence. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-109",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Which postoperative bladder problem is listed for neostigmine?",
+   "opts": [
+    "Post-operative urine retention",
+    "Post-operative hematuria",
+    "Post-operative incontinence from detrusor overactivity",
+    "Post-operative anuria from renal failure"
+   ],
+   "ans": 0,
+   "exp": "The bladder section includes post-operative urine retention. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-110",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Neostigmine is used in the GIT for:",
+   "opts": [
+    "Gastroparesis and paralytic ileus",
+    "Peptic ulcer disease",
+    "Infectious diarrhoea pain only",
+    "Motion sickness"
+   ],
+   "ans": 0,
+   "exp": "The GIT uses listed for neostigmine are gastroparesis and paralytic ileus. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-111",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Pyridostigmine is:",
+   "opts": [
+    "Long acting",
+    "Short acting",
+    "Only central",
+    "A miotic organophosphate"
+   ],
+   "ans": 0,
+   "exp": "The table lists pyridostigmine as long acting. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-112",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "The DOC for treatment of myasthenia gravis is:",
+   "opts": [
+    "Pyridostigmine",
+    "Edrophonium",
+    "Tacrine",
+    "Pilocarpine"
+   ],
+   "ans": 0,
+   "exp": "The pyridostigmine row says Rx of MG: DOC. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-113",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "The DOC for myasthenic crisis is:",
+   "opts": [
+    "IVIG",
+    "Pyridostigmine",
+    "Pilocarpine",
+    "Atropine only"
+   ],
+   "ans": 0,
+   "exp": "The myasthenia gravis note says DOC for myasthenic crisis: IVIG. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-114",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "New chronic myasthenia gravis drugs aim at:",
+   "opts": [
+    "Immunosuppression with decreased antibodies",
+    "Increasing salivary secretion only",
+    "Blocking β2 receptors",
+    "Raising norepinephrine levels"
+   ],
+   "ans": 0,
+   "exp": "The note says new drugs for chronic MG act by immunosuppression/decreasing antibodies. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-115",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Complement-5 inhibitors for myasthenia gravis listed are:",
+   "opts": [
+    "Ravulizumab and zilucoplan",
+    "Rozanolixizumab and tacrine",
+    "Edrophonium and neostigmine",
+    "Mirabegron and vibegron"
+   ],
+   "ans": 0,
+   "exp": "The complement-5 inhibitor list contains ravulizumab and zilucoplan. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-116",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "The neonatal Fc fragment inhibitor listed for myasthenia gravis is:",
+   "opts": [
+    "Rozanolixizumab",
+    "Ravulizumab",
+    "Zilucoplan",
+    "Pyridostigmine"
+   ],
+   "ans": 0,
+   "exp": "The neonatal Fc fragment inhibitor bullet names rozanolixizumab. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-117",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "page": 46,
+   "q": "Datura poisoning is associated with a thorny fruit containing:",
+   "opts": [
+    "Atropine-like compounds",
+    "Physostigmine",
+    "Pralidoxime",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The figure labels Datura thorny fruit and notes Datura poisoning due to atropine-like compound. (Book p46)"
+  },
+  {
+   "id": "PHARM-C13-118",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Low-dose acetylcholine lowers blood pressure by causing:",
+   "opts": [
+    "m3-mediated vasodilation",
+    "α1 vasoconstriction",
+    "β1 cardiac stimulation",
+    "D1 renal vasodilation only"
+   ],
+   "ans": 0,
+   "exp": "The note says ACh causes vasodilation through m3 and decreases blood pressure. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-119",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Graph A represents the BP response to:",
+   "opts": [
+    "ACh 2 micrograms",
+    "ACh 50 micrograms",
+    "Atropine plus ACh",
+    "ACh 5 mg after atropine"
+   ],
+   "ans": 0,
+   "exp": "The first graph is labelled ACh 2 μg and shows a fall in BP. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-120",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Graph B represents the BP response to:",
+   "opts": [
+    "ACh 50 micrograms",
+    "ACh 2 micrograms",
+    "Atropine alone",
+    "High-dose ACh 5 mg after atropine"
+   ],
+   "ans": 0,
+   "exp": "The second graph is labelled ACh 50 μg and shows a larger fall in BP. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-121",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "After atropine blocks m3 receptors, ACh 50 micrograms produces:",
+   "opts": [
+    "No effect on blood pressure",
+    "A marked fall in BP",
+    "A steep rise in BP",
+    "Tachyphylaxis"
+   ],
+   "ans": 0,
+   "exp": "The C note says ACh plus atropine, which blocks m3, has no effect on BP. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-122",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Graph C includes pretreatment with:",
+   "opts": [
+    "Atropine 2 mg before ACh 50 micrograms",
+    "Mannitol before pilocarpine",
+    "Pralidoxime before sarin",
+    "Phenylephrine before ACh"
+   ],
+   "ans": 0,
+   "exp": "The C graph is labelled atropine 2 mg followed by ACh 50 μg. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-123",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "High-dose ACh in the presence of atropine stimulates:",
+   "opts": [
+    "Ganglionic Nn receptors",
+    "β3 receptors in bladder",
+    "m3 receptors in blood vessels",
+    "D2 receptors"
+   ],
+   "ans": 0,
+   "exp": "The D note says high-dose ACh plus atropine stimulates ganglionic Nn. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-124",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Ganglionic Nn stimulation by high-dose ACh increases:",
+   "opts": [
+    "Norepinephrine release",
+    "Acetylcholine breakdown",
+    "Insulin release only",
+    "Aqueous outflow"
+   ],
+   "ans": 0,
+   "exp": "The D pathway says stimulation of ganglionic Nn raises norepinephrine. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-125",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "The BP response to high-dose ACh plus atropine is:",
+   "opts": [
+    "Vasoconstriction with increased blood pressure",
+    "Vasodilation with decreased blood pressure",
+    "No change in BP",
+    "Only bradycardia without pressure change"
+   ],
+   "ans": 0,
+   "exp": "The D pathway continues norepinephrine → vasoconstriction → increased blood pressure. (Book p47)"
+  },
+  {
+   "id": "PHARM-C13-126",
+   "sec": "Blood Pressure Responses to Acetylcholine",
+   "page": 47,
+   "q": "Graph D is labelled with which ACh dose?",
+   "opts": [
+    "ACh 5 mg",
+    "ACh 2 micrograms",
+    "ACh 50 micrograms",
+    "Atropine 2 mg alone"
+   ],
+   "ans": 0,
+   "exp": "The fourth graph is labelled ACh 5 mg and shows a pressor response. (Book p47)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U13-1",
+   "ch": 13,
+   "n": 1,
+   "title": "Cholinergic Drugs: Classification",
+   "sec": "Cholinergic Drugs: Classification · p42",
+   "qs": [
+    "PHARM-C13-001",
+    "PHARM-C13-002",
+    "PHARM-C13-003",
+    "PHARM-C13-004",
+    "PHARM-C13-005",
+    "PHARM-C13-006",
+    "PHARM-C13-007",
+    "PHARM-C13-008",
+    "PHARM-C13-009",
+    "PHARM-C13-010",
+    "PHARM-C13-011",
+    "PHARM-C13-012",
+    "PHARM-C13-013",
+    "PHARM-C13-014",
+    "PHARM-C13-015"
+   ],
+   "guide": "Cholinergic drugs are parasympathomimetics. Direct drugs stimulate muscarinic or nicotinic receptors themselves, while indirect drugs block acetylcholinesterase, raise acetylcholine and then stimulate m/n receptors. Direct agents are organised by structure into amides and choline esters; indirect agents are split into irreversible organophosphates and reversible tertiary or quaternary amines."
+  },
+  {
+   "id": "PHARM-U13-2",
+   "ch": 13,
+   "n": 2,
+   "title": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline",
+   "sec": "Direct Cholinergic Drugs: Amides, Pilocarpine and Cevimeline · p42",
+   "qs": [
+    "PHARM-C13-016",
+    "PHARM-C13-017",
+    "PHARM-C13-018",
+    "PHARM-C13-019",
+    "PHARM-C13-020",
+    "PHARM-C13-021",
+    "PHARM-C13-022",
+    "PHARM-C13-023",
+    "PHARM-C13-024",
+    "PHARM-C13-025",
+    "PHARM-C13-026",
+    "PHARM-C13-027",
+    "PHARM-C13-028",
+    "PHARM-C13-029",
+    "PHARM-C13-030",
+    "PHARM-C13-031",
+    "PHARM-C13-032"
+   ],
+   "guide": "Amides are lipid soluble, cross the BBB and therefore have central as well as peripheral effects, while choline esters are insoluble, do not cross the BBB and act peripherally on bladder, GIT and muscle. Pilocarpine and cevimeline are the amides, both useful for xerostomia; pilocarpine also contracts the pupil to increase trabecular outflow in glaucoma. The same contraction of accommodation muscles explains brow ache, accommodation spasm and tractional retinal detachment."
+  },
+  {
+   "id": "PHARM-U13-3",
+   "ch": 13,
+   "n": 3,
+   "title": "Choline Esters and Derivatives of ACh",
+   "sec": "Choline Esters and Derivatives of ACh · p43",
+   "qs": [
+    "PHARM-C13-033",
+    "PHARM-C13-034",
+    "PHARM-C13-035",
+    "PHARM-C13-036",
+    "PHARM-C13-037",
+    "PHARM-C13-038",
+    "PHARM-C13-039",
+    "PHARM-C13-040",
+    "PHARM-C13-041",
+    "PHARM-C13-042",
+    "PHARM-C13-043",
+    "PHARM-C13-044",
+    "PHARM-C13-045",
+    "PHARM-C13-046",
+    "PHARM-C13-047",
+    "PHARM-C13-048",
+    "PHARM-C13-049",
+    "PHARM-C13-050",
+    "PHARM-C13-051",
+    "PHARM-C13-052",
+    "PHARM-C13-053",
+    "PHARM-C13-054",
+    "PHARM-C13-055",
+    "PHARM-C13-056",
+    "PHARM-C13-057",
+    "PHARM-C13-058",
+    "PHARM-C13-059",
+    "PHARM-C13-060",
+    "PHARM-C13-061",
+    "PHARM-C13-062",
+    "PHARM-C13-063"
+   ],
+   "guide": "Acetylcholine is destroyed in plasma by plasma, pseudo or butyryl cholinesterase, so it is systemically very short acting and is mainly remembered as a topical miotic in ocular surgery. Bethanechol, carbachol and methacholine differ by esterase resistance, receptor affinity, nicotinic side effects and uses. Bethanechol treats bladder and GIT atony, carbachol is topical because systemic use is limited by side effects, and methacholine provokes m3 bronchospasm in bronchial challenge testing."
+  },
+  {
+   "id": "PHARM-U13-4",
+   "ch": 13,
+   "n": 4,
+   "title": "Irreversible AChE Blockers and Organophosphate Poisoning",
+   "sec": "Irreversible AChE Blockers and Organophosphate Poisoning · p44",
+   "qs": [
+    "PHARM-C13-064",
+    "PHARM-C13-065",
+    "PHARM-C13-066",
+    "PHARM-C13-067",
+    "PHARM-C13-068",
+    "PHARM-C13-069",
+    "PHARM-C13-070",
+    "PHARM-C13-071",
+    "PHARM-C13-072",
+    "PHARM-C13-073",
+    "PHARM-C13-074",
+    "PHARM-C13-075",
+    "PHARM-C13-076",
+    "PHARM-C13-077",
+    "PHARM-C13-078",
+    "PHARM-C13-079",
+    "PHARM-C13-080",
+    "PHARM-C13-081",
+    "PHARM-C13-082",
+    "PHARM-C13-083",
+    "PHARM-C13-084",
+    "PHARM-C13-085"
+   ],
+   "guide": "Organophosphates bind AChE and first produce a reversible phase with raised ACh, but ageing replaces phosphate bonds with stronger bonds and makes inhibition irreversible. Oximes can break the organophosphate-AChE link before ageing but become ineffective after ageing. Organophosphate poisoning is a cholinergic syndrome; atropine treats muscarinic features, while oximes reactivate AChE for nicotinic toxicity."
+  },
+  {
+   "id": "PHARM-U13-5",
+   "ch": 13,
+   "n": 5,
+   "title": "Reversible AChE Blockers: Mechanism and Tertiary Amines",
+   "sec": "Reversible AChE Blockers: Mechanism and Tertiary Amines · p45",
+   "qs": [
+    "PHARM-C13-086",
+    "PHARM-C13-087",
+    "PHARM-C13-088",
+    "PHARM-C13-089",
+    "PHARM-C13-090",
+    "PHARM-C13-091",
+    "PHARM-C13-092",
+    "PHARM-C13-093",
+    "PHARM-C13-094",
+    "PHARM-C13-095",
+    "PHARM-C13-096"
+   ],
+   "guide": "Carbamates and non-carbamates are called pseudo-irreversible because they are long acting, yet they bind AChE with weak ionic bonds rather than aged organophosphate bonds. Edrophonium is the short-acting exception that only binds the anionic site, and oximes are not used for carbamate/non-carbamate poisoning. Tertiary amines cross the BBB, so physostigmine treats anticholinergic poisoning and synthetic agents are used for Alzheimer's disease."
+  },
+  {
+   "id": "PHARM-U13-6",
+   "ch": 13,
+   "n": 6,
+   "title": "Quaternary AChE Inhibitors and Myasthenia Gravis",
+   "sec": "Quaternary AChE Inhibitors and Myasthenia Gravis · p46",
+   "qs": [
+    "PHARM-C13-097",
+    "PHARM-C13-098",
+    "PHARM-C13-099",
+    "PHARM-C13-100",
+    "PHARM-C13-101",
+    "PHARM-C13-102",
+    "PHARM-C13-103",
+    "PHARM-C13-104",
+    "PHARM-C13-105",
+    "PHARM-C13-106",
+    "PHARM-C13-107",
+    "PHARM-C13-108",
+    "PHARM-C13-109",
+    "PHARM-C13-110",
+    "PHARM-C13-111",
+    "PHARM-C13-112",
+    "PHARM-C13-113",
+    "PHARM-C13-114",
+    "PHARM-C13-115",
+    "PHARM-C13-116",
+    "PHARM-C13-117"
+   ],
+   "guide": "Quaternary amines do not cross the BBB, so their action is peripheral. Edrophonium is a short-acting diagnostic drug for myasthenia gravis and separates myasthenic from cholinergic crisis by improvement versus worsening. Neostigmine is long acting for Nm and peripheral bladder/GIT uses, while pyridostigmine is the DOC for chronic myasthenia gravis; severe myasthenic crisis uses IVIG and newer chronic therapies lower antibodies."
+  },
+  {
+   "id": "PHARM-U13-7",
+   "ch": 13,
+   "n": 7,
+   "title": "Blood Pressure Responses to Acetylcholine",
+   "sec": "Blood Pressure Responses to Acetylcholine · p47",
+   "qs": [
+    "PHARM-C13-118",
+    "PHARM-C13-119",
+    "PHARM-C13-120",
+    "PHARM-C13-121",
+    "PHARM-C13-122",
+    "PHARM-C13-123",
+    "PHARM-C13-124",
+    "PHARM-C13-125",
+    "PHARM-C13-126"
+   ],
+   "guide": "Low-dose ACh lowers BP through m3-mediated vasodilation, and a larger dose gives a larger fall. If atropine blocks m3, ordinary ACh produces no BP effect. With high-dose ACh in the presence of atropine, ganglionic Nn stimulation releases norepinephrine, producing vasoconstriction and a pressor response."
+  }
+ ]
+}

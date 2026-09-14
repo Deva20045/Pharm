@@ -1,0 +1,1531 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C15-001",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Norepinephrine synthesis begins with:",
+   "opts": [
+    "Tyrosine",
+    "Dopamine",
+    "Acetylcholine",
+    "Epinephrine"
+   ],
+   "ans": 0,
+   "exp": "The pathway in the presynaptic neuron starts with tyrosine. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-002",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Tyrosine is converted to DOPA by:",
+   "opts": [
+    "Tyrosine hydroxylase",
+    "Dopa decarboxylase",
+    "Dopamine-β-hydroxylase",
+    "Monoamine oxidase"
+   ],
+   "ans": 0,
+   "exp": "The synthesis diagram labels tyrosine hydroxylase between tyrosine and DOPA. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-003",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "The rate-limiting enzyme in norepinephrine synthesis is:",
+   "opts": [
+    "Tyrosine hydroxylase",
+    "Dopa decarboxylase",
+    "VMAT2",
+    "COMT"
+   ],
+   "ans": 0,
+   "exp": "Tyrosine hydroxylase is marked as the rate-limiting enzyme and rate-limiting step. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-004",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Which drug inhibits the rate-limiting step of norepinephrine synthesis?",
+   "opts": [
+    "Metyrosine",
+    "Reserpine",
+    "Tetrabenazine",
+    "Cocaine"
+   ],
+   "ans": 0,
+   "exp": "Metyrosine is drawn at tyrosine hydroxylase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-005",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "DOPA is converted to dopamine by:",
+   "opts": [
+    "Dopa decarboxylase",
+    "Tyrosine hydroxylase",
+    "Dopamine-β-hydroxylase",
+    "VMAT2"
+   ],
+   "ans": 0,
+   "exp": "The arrow from DOPA to dopamine is labelled dopa decarboxylase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-006",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Dopamine enters the storage vesicle through:",
+   "opts": [
+    "VMAT2",
+    "NET",
+    "SERT",
+    "AChE"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows dopamine entering the vesicle through VMAT2. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-007",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "VMAT2 stands for:",
+   "opts": [
+    "Vesicle monoamine transporter 2",
+    "Vascular monoamine transferase 2",
+    "Vagal muscarinic activating transporter 2",
+    "Vesicular myosin ATPase 2"
+   ],
+   "ans": 0,
+   "exp": "The legend expands VMAT2 as vesicle monoamine transporter 2. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-008",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Inside the vesicle, dopamine is converted to norepinephrine by:",
+   "opts": [
+    "Dopamine-β-hydroxylase",
+    "Dopa decarboxylase",
+    "Tyrosine hydroxylase",
+    "MAO"
+   ],
+   "ans": 0,
+   "exp": "The vesicle step is labelled dopamine-β-hydroxylase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-009",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Released norepinephrine acts on which postsynaptic receptors in the diagram?",
+   "opts": [
+    "α and β receptors",
+    "m and N receptors",
+    "D1 only",
+    "H1 only"
+   ],
+   "ans": 0,
+   "exp": "The synapse diagram shows NE acting on α and β receptors. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-010",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Norepinephrine metabolism in the diagram is by:",
+   "opts": [
+    "MAO and COMT",
+    "AChE and pseudocholinesterase",
+    "CYP3A4 and CYP2D6",
+    "Renin and ACE"
+   ],
+   "ans": 0,
+   "exp": "The metabolism branch lists MAO and COMT. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-011",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "MAO stands for:",
+   "opts": [
+    "Monoamine oxidase",
+    "Muscarinic activating oxidase",
+    "Methyl amine oxygenase",
+    "Myocardial adrenergic oxidase"
+   ],
+   "ans": 0,
+   "exp": "The abbreviation list expands MAO as monoamine oxidase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-012",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "COMT stands for:",
+   "opts": [
+    "Catechol-O-methyl transferase",
+    "Choline-O-methyl transferase",
+    "Cortisol monoamine transporter",
+    "Calcium oxidative methyl transferase"
+   ],
+   "ans": 0,
+   "exp": "The legend expands COMT as catechol-O-methyl transferase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-013",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "DA in the diagram stands for:",
+   "opts": [
+    "Dopamine",
+    "Dopa decarboxylase",
+    "Dale's agonist",
+    "Direct adrenergic"
+   ],
+   "ans": 0,
+   "exp": "The legend defines DA as dopamine. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-014",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "NE in the diagram stands for:",
+   "opts": [
+    "Norepinephrine",
+    "Neostigmine",
+    "Neuroepinephrine enzyme",
+    "Nicotinic excitation"
+   ],
+   "ans": 0,
+   "exp": "The legend defines NE as norepinephrine. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-015",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Which drugs are marked as VMAT2 inhibitors?",
+   "opts": [
+    "Reserpine, tetrabenazine, deutetrabenazine and valbenazine",
+    "Cocaine, TCAs and SNRIs",
+    "Metyrosine and phenylephrine",
+    "Pilocarpine and cevimeline"
+   ],
+   "ans": 0,
+   "exp": "The VMAT2 inhibitor bracket lists reserpine, tetrabenazine, deutetrabenazine and valbenazine. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-016",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Cocaine is shown inhibiting:",
+   "opts": [
+    "Reuptake",
+    "Tyrosine hydroxylase",
+    "VMAT2",
+    "Dopamine-β-hydroxylase"
+   ],
+   "ans": 0,
+   "exp": "The cocaine label is placed on the reuptake pathway. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-017",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Tricyclic antidepressants in the diagram inhibit:",
+   "opts": [
+    "Reuptake of catecholamines",
+    "AChE",
+    "VMAT2",
+    "Dopa decarboxylase"
+   ],
+   "ans": 0,
+   "exp": "The TCA label is also on the reuptake limb. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-018",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "page": 52,
+   "q": "Serotonin-norepinephrine reuptake inhibitors act at which step shown?",
+   "opts": [
+    "Reuptake",
+    "Vesicular conversion of dopamine to NE",
+    "Tyrosine hydroxylation",
+    "MAO metabolism"
+   ],
+   "ans": 0,
+   "exp": "SNRIs are drawn on the reuptake pathway in the synapse. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-019",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Metyrosine is a tyrosine analogue that acts as a:",
+   "opts": [
+    "Competitive inhibitor of tyrosine hydroxylase",
+    "VMAT2 inhibitor",
+    "Reuptake inhibitor",
+    "D2 receptor agonist"
+   ],
+   "ans": 0,
+   "exp": "The metyrosine MOA cell says tyrosine analogue and competitive inhibitor of tyrosine hydroxylase. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-020",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "The effect of metyrosine on norepinephrine is:",
+   "opts": [
+    "Decreased NE",
+    "Increased NE",
+    "No effect",
+    "Only increased dopamine"
+   ],
+   "ans": 0,
+   "exp": "The metyrosine MOA ends with ↓ NE. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-021",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Metyrosine is used in malignant pheochromocytoma to:",
+   "opts": [
+    "Block raised catecholamines and lower BP",
+    "Increase catecholamines",
+    "Treat ADHD",
+    "Treat bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "The use cell says malignant pheochromocytoma: block raised catecholamines and decrease blood pressure. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-022",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Reserpine decreases:",
+   "opts": [
+    "NE and DA",
+    "Only ACh",
+    "Only histamine",
+    "Only insulin"
+   ],
+   "ans": 0,
+   "exp": "The reserpine MOA row shows ↓ NE and ↓ DA. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-023",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Current listed uses of reserpine are uncommon but include:",
+   "opts": [
+    "Mild/moderate hypertension and agitated psychotic state",
+    "Acute CHF and stress echo",
+    "Glaucoma and xerostomia",
+    "Organophosphate poisoning"
+   ],
+   "ans": 0,
+   "exp": "The reserpine use row lists mild/moderate hypertension and agitated psychotic state with an 'uncommon' bracket. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-024",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Tetrabenazine blocks:",
+   "opts": [
+    "VMAT2",
+    "Tyrosine hydroxylase",
+    "NET only",
+    "AChE"
+   ],
+   "ans": 0,
+   "exp": "The tetrabenazine row has the MOA 'Block VMAT2'. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-025",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Tetrabenazine lowers:",
+   "opts": [
+    "NE and DA",
+    "Only acetylcholine",
+    "Only glucose",
+    "Only cortisol"
+   ],
+   "ans": 0,
+   "exp": "The tetrabenazine MOA cell shows ↓ NE and ↓ DA. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-026",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Tetrabenazine is DOC for treatment of:",
+   "opts": [
+    "Huntington's chorea",
+    "Acute CHF",
+    "Brittle asthma",
+    "Angle closure glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The use cell lists DOC: Rx of Huntington's chorea. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-027",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Tetrabenazine is also used for tics associated with:",
+   "opts": [
+    "Tourette syndrome",
+    "Parkinson disease",
+    "Myasthenia gravis",
+    "Sicca syndrome"
+   ],
+   "ans": 0,
+   "exp": "The same use cell includes tics associated with Tourette syndrome. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-028",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "The table notes tetrabenazine is preferred over antipsychotics because of antipsychotic:",
+   "opts": [
+    "Extrapyramidal side effects",
+    "Bronchodilation",
+    "Aqueous outflow increase",
+    "Renin release"
+   ],
+   "ans": 0,
+   "exp": "The note says tetrabenazine is preferred over antipsychotics due to extrapyramidal side effects. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-029",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Deutetrabenazine and valbenazine are:",
+   "opts": [
+    "Long-acting derivatives of tetrabenazine",
+    "Short-acting β2 agonists",
+    "AChE reactivators",
+    "Muscarinic blockers"
+   ],
+   "ans": 0,
+   "exp": "Their row says derivatives of tetrabenazine, long acting. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-030",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 52,
+   "q": "Deutetrabenazine and valbenazine are DOC for:",
+   "opts": [
+    "Tardive dyskinesia",
+    "Huntington chorea only",
+    "Pheochromocytoma",
+    "Bronchial asthma"
+   ],
+   "ans": 0,
+   "exp": "The use cell for these derivatives says DOC: tardive dyskinesia. (Book p52)"
+  },
+  {
+   "id": "PHARM-C15-031",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Cocaine inhibits reuptake of:",
+   "opts": [
+    "NA and DA",
+    "ACh and serotonin only",
+    "Insulin and glucose",
+    "Renin and angiotensin"
+   ],
+   "ans": 0,
+   "exp": "The cocaine MOA lists inhibition of reuptake of NA and DA. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-032",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Cocaine's addictive potential is due to increased:",
+   "opts": [
+    "Dopamine acting on DA receptors",
+    "Acetylcholine acting on m3",
+    "Norepinephrine acting on α1 only",
+    "Histamine acting on H1"
+   ],
+   "ans": 0,
+   "exp": "The cocaine MOA says ↑ DA acts on DA receptors, producing addictive potential. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-033",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "The DOC for cocaine dependence shown is:",
+   "opts": [
+    "Bromocriptine",
+    "Atropine",
+    "Pralidoxime",
+    "Metyrosine"
+   ],
+   "ans": 0,
+   "exp": "The dependence section says DOC: bromocriptine. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-034",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Bromocriptine treats dependence by acting as a:",
+   "opts": [
+    "D2 agonist",
+    "D2 antagonist",
+    "VMAT2 inhibitor",
+    "AChE inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Bromocriptine is labelled D2 agonist. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-035",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Bromocriptine prevents withdrawal symptoms by:",
+   "opts": [
+    "Keeping receptors engaged",
+    "Blocking all dopamine receptors",
+    "Rapidly stopping all therapy",
+    "Raising acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "The flow below dependence says keeps receptors engaged → no withdrawal symptoms. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-036",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "After starting bromocriptine for dependence, the dose should be:",
+   "opts": [
+    "Gradually tapered",
+    "Stopped abruptly",
+    "Doubled every hour",
+    "Given only once"
+   ],
+   "ans": 0,
+   "exp": "The dependence flow ends with gradually taper dose. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-037",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Side effects due to decreased norepinephrine include:",
+   "opts": [
+    "Depression and hypotension",
+    "Parkinsonism only",
+    "Hyperglycemia and tremor",
+    "Mydriasis and cycloplegia"
+   ],
+   "ans": 0,
+   "exp": "The side-effects section says due to ↓ NE: depression and hypotension. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-038",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "A side effect due to decreased dopamine is:",
+   "opts": [
+    "Parkinsonism",
+    "Hypertensive crisis",
+    "Bronchodilation",
+    "Tachycardia only"
+   ],
+   "ans": 0,
+   "exp": "The side-effects section says due to ↓ dopamine: Parkinsonism. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-039",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Stopping a dependence-producing drug causes withdrawal because plasma concentration:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Becomes therapeutic indefinitely",
+    "Converts to norepinephrine"
+   ],
+   "ans": 0,
+   "exp": "The dependence note shows stop drug → decreased plasma concentration → withdrawal. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-040",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "The deaddiction principle shown is to start a similar drug and then:",
+   "opts": [
+    "Gradually taper it",
+    "Never taper it",
+    "Add atropine",
+    "Block VMAT2"
+   ],
+   "ans": 0,
+   "exp": "The deaddiction arm says start similar drug → gradual taper → mild withdrawal. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-041",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "page": 53,
+   "q": "Compared with abrupt stopping, deaddiction with a similar drug produces:",
+   "opts": [
+    "Mild withdrawal",
+    "No receptor engagement and severe withdrawal",
+    "Immediate hypertensive crisis",
+    "Acute glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The note ends the deaddiction path with mild withdrawal. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-042",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Sympathetic receptors are:",
+   "opts": [
+    "G-protein coupled receptors",
+    "Ligand-gated Na+ channels",
+    "Nuclear receptors",
+    "AChE enzymes"
+   ],
+   "ans": 0,
+   "exp": "The receptors diagram says α and β sympathetic receptors are GPCRs. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-043",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The two α receptor types listed are:",
+   "opts": [
+    "α1 and α2",
+    "α3 and α4",
+    "β1 and β2",
+    "m1 and m3"
+   ],
+   "ans": 0,
+   "exp": "The α receptor section lists types α1 and α2. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-044",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The usual location of α1 receptors is:",
+   "opts": [
+    "Postsynaptic",
+    "Presynaptic more than postsynaptic",
+    "Only adrenal medulla",
+    "Only CNS"
+   ],
+   "ans": 0,
+   "exp": "The location row says α1 is postsynaptic. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-045",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α2 receptors are located:",
+   "opts": [
+    "Presynaptic more than postsynaptic",
+    "Only postsynaptic",
+    "Only at NMJ",
+    "Only inside mitochondria"
+   ],
+   "ans": 0,
+   "exp": "The location row for α2 says presynaptic > postsynaptic. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-046",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The density of α1 receptors is greatest at the:",
+   "opts": [
+    "Centre of the membrane",
+    "Periphery of the membrane",
+    "Nucleus",
+    "Vesicle"
+   ],
+   "ans": 0,
+   "exp": "The density row says α1 receptors are at the center of the membrane. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-047",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The density of α2 receptors is greatest at the:",
+   "opts": [
+    "Periphery of the membrane",
+    "Centre of the membrane",
+    "Nucleus",
+    "Mitochondria"
+   ],
+   "ans": 0,
+   "exp": "The density row says α2 receptors are at the periphery of the membrane. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-048",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 receptors are coupled to:",
+   "opts": [
+    "Gq",
+    "Gi",
+    "Gs",
+    "G12/13 only"
+   ],
+   "ans": 0,
+   "exp": "The subtype row for α1 reads Gq. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-049",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α2 receptors are coupled to:",
+   "opts": [
+    "Gi",
+    "Gq",
+    "Gs",
+    "Tyrosine kinase"
+   ],
+   "ans": 0,
+   "exp": "The subtype row for α2 reads Gi. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-050",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Initial presynaptic NE release stimulates α1 to increase:",
+   "opts": [
+    "Ca2+",
+    "cAMP",
+    "cGMP",
+    "Cl- influx"
+   ],
+   "ans": 0,
+   "exp": "The α1 MOA row says presynaptic release of NE initially stimulates α1 and raises Ca2+. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-051",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Late stimulation of presynaptic α2 causes:",
+   "opts": [
+    "Decreased NE release",
+    "Increased NE release indefinitely",
+    "AChE inhibition",
+    "Insulin release"
+   ],
+   "ans": 0,
+   "exp": "The α2 MOA row says increased synaptic NE gives late α2 stimulation and presynaptic decrease of NE release. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-052",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation contracts vascular smooth muscle to cause:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilation",
+    "Bronchodilation",
+    "Urine formation"
+   ],
+   "ans": 0,
+   "exp": "Under α1 effects, blood vessels undergo smooth muscle contraction causing vasoconstriction. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-053",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation contracts which urinary outlet structures?",
+   "opts": [
+    "Prostatic urethra and bladder sphincter",
+    "Detrusor only",
+    "Ureter only",
+    "Renal tubule only"
+   ],
+   "ans": 0,
+   "exp": "The α1 smooth muscle list includes prostatic urethra and bladder sphincter. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-054",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation of radial muscle of iris causes:",
+   "opts": [
+    "Mydriasis",
+    "Miosis",
+    "Cycloplegia",
+    "Lacrimation"
+   ],
+   "ans": 0,
+   "exp": "The α1 effect list states radial muscle of iris: mydriasis. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-055",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation in the GIT causes relaxation because increased Ca2+ opens:",
+   "opts": [
+    "Ca2+-dependent K+ channels",
+    "Voltage-gated Na+ channels",
+    "Cl- channels",
+    "AChE channels"
+   ],
+   "ans": 0,
+   "exp": "The GIT α1 line explains ↑ Ca2+ opens Ca2+-dependent K+ channels. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-056",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Opening Ca2+-dependent K+ channels in the GIT produces:",
+   "opts": [
+    "Hyperpolarisation",
+    "Depolarisation",
+    "Miosis",
+    "ACh release"
+   ],
+   "ans": 0,
+   "exp": "The α1 GIT mechanism ends with hyperpolarise. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-057",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation in liver increases:",
+   "opts": [
+    "Gluconeogenesis",
+    "Insulin release",
+    "Renin degradation",
+    "ACh metabolism"
+   ],
+   "ans": 0,
+   "exp": "The α1 effect list says liver: increased gluconeogenesis. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-058",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α1 stimulation in skeletal muscle increases:",
+   "opts": [
+    "Glycogenolysis",
+    "Insulin secretion",
+    "Aqueous outflow",
+    "Cortisol synthesis"
+   ],
+   "ans": 0,
+   "exp": "The α1 effect list says skeletal muscle: increased glycogenolysis. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-059",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The glucose effect of α1 stimulation in liver/skeletal muscle is:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "No glucose change",
+    "Ketonuria only"
+   ],
+   "ans": 0,
+   "exp": "The α1 liver and skeletal muscle effects are bracketed to hyperglycemia. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-060",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "The presynaptic α2 effect in the brain stem is:",
+   "opts": [
+    "Central sympatholysis",
+    "Central sympathetic excitation",
+    "Peripheral neuromuscular block",
+    "Direct bronchodilation"
+   ],
+   "ans": 0,
+   "exp": "The α2 presynaptic effect cell says central sympatholysis. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-061",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Central sympatholysis from presynaptic α2 stimulation decreases:",
+   "opts": [
+    "Blood pressure",
+    "Aqueous outflow",
+    "Bladder capacity",
+    "Lacrimation"
+   ],
+   "ans": 0,
+   "exp": "The α2 presynaptic effect shows decreased blood pressure. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-062",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Postsynaptic α2 on blood vessels is a:",
+   "opts": [
+    "Gq subtype causing vasoconstriction",
+    "Gi subtype causing vasodilation",
+    "Gs subtype causing bronchodilation",
+    "Na+ channel causing muscle contraction"
+   ],
+   "ans": 0,
+   "exp": "The α2 postsynaptic blood vessel row says Gq subtype: vasoconstriction. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-063",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "α2 on pancreatic β-islet cells is a Gi subtype that:",
+   "opts": [
+    "Decreases insulin release",
+    "Increases insulin release",
+    "Increases glucagon only",
+    "Releases norepinephrine"
+   ],
+   "ans": 0,
+   "exp": "The α2 pancreatic row says β-islet cells of pancreas, Gi subtype, decreases insulin release. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-064",
+   "sec": "Sympathetic α Receptors",
+   "page": 53,
+   "q": "Reduced insulin release from α2 stimulation causes:",
+   "opts": [
+    "Increased glucose",
+    "Decreased glucose",
+    "No glucose effect",
+    "Hypokalemia only"
+   ],
+   "ans": 0,
+   "exp": "The pancreatic α2 row ends with increased glucose. (Book p53)"
+  },
+  {
+   "id": "PHARM-C15-065",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "The note states that m3, although a Gq subtype, does not cause:",
+   "opts": [
+    "Relaxation",
+    "Increased Ca2+",
+    "K+ channel blockade",
+    "Smooth muscle signalling"
+   ],
+   "ans": 0,
+   "exp": "The first note says m3 (Gq subtype) does not cause relaxation. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-066",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "ACh stimulation of m3 increases Ca2+ and blocks:",
+   "opts": [
+    "K+ channels",
+    "Na+ channels",
+    "Cl- channels",
+    "VMAT2"
+   ],
+   "ans": 0,
+   "exp": "The m3 note shows ACh stimulates m3, increases Ca2+ and blocks the K+ channel. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-067",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Slow infusion of clonidine produces:",
+   "opts": [
+    "Central sympatholysis with decreased BP",
+    "Postsynaptic vasoconstriction with worsened hypertension",
+    "Bronchospasm",
+    "Dopamine release"
+   ],
+   "ans": 0,
+   "exp": "The clonidine note says slow infusion → central sympatholysis → decreased BP. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-068",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Fast infusion of clonidine can produce:",
+   "opts": [
+    "Postsynaptic vasoconstriction and worsened hypertension",
+    "Only central sympatholysis",
+    "Miosis",
+    "AChE ageing"
+   ],
+   "ans": 0,
+   "exp": "The clonidine note says fast infusion → postsynaptic vasoconstriction → worsens hypertension/increases BP. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-069",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Hypoglycemia triggers catecholamine release that stimulates:",
+   "opts": [
+    "α1, α2 and β2 receptors",
+    "m1, m2 and m3 receptors",
+    "Only β3 receptors",
+    "Only D1 receptors"
+   ],
+   "ans": 0,
+   "exp": "The blood-glucose note says hypoglycemia releases catecholamines that stimulate α1, α2 and β2. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-070",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "The net blood-glucose effect of catecholamines is:",
+   "opts": [
+    "Increased glucose",
+    "Decreased glucose",
+    "No effect",
+    "Only decreased potassium without glucose effect"
+   ],
+   "ans": 0,
+   "exp": "The flow after α1, α2, β2 stimulation ends with increased glucose. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-071",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β2 receptors are coupled to:",
+   "opts": [
+    "Gs",
+    "Gi",
+    "Gq",
+    "Nicotinic ion channels"
+   ],
+   "ans": 0,
+   "exp": "The β2 note labels β2 as a Gs subtype. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-072",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β2 stimulation in liver/skeletal muscle increases:",
+   "opts": [
+    "Gluconeogenesis and glycogenolysis",
+    "Insulin release only",
+    "Glycogen synthesis only",
+    "ACh breakdown"
+   ],
+   "ans": 0,
+   "exp": "The β2 diagram shows liver/skeletal muscle gluconeogenesis plus glycogenolysis leading to increased glucose. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-073",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β2 stimulation of pancreatic β-islets causes:",
+   "opts": [
+    "Increased insulin",
+    "Decreased insulin",
+    "No insulin effect",
+    "Glucagon blockade"
+   ],
+   "ans": 0,
+   "exp": "The middle branch from β-islets of pancreas says ↑ insulin. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-074",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "The pancreatic insulin effect of β2 stimulation lowers:",
+   "opts": [
+    "Glucose and K+",
+    "Only blood pressure",
+    "Only norepinephrine",
+    "Only aqueous humour"
+   ],
+   "ans": 0,
+   "exp": "The β-islet branch shows decreased glucose and decreased K+. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-075",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β2-induced fall in K+ is used to treat:",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hyponatremia",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "The β2 branch says ↓ K+ is used to Rx hyperkalemia. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-076",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Catecholamine warning symptoms of hypoglycemia include:",
+   "opts": [
+    "Palpitation, tremor and sweating",
+    "Miosis, salivation and diarrhea",
+    "Dry mouth and urine retention",
+    "Cataract and iris cysts"
+   ],
+   "ans": 0,
+   "exp": "The heart branch lists palpitation/tremor/sweating as hypoglycemia awareness due to increased catecholamines. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-077",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Despite insulin release, the net result of β2 effects on glucose is:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Euglycemia only",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The diagram states net result: hyperglycemia, similar to α. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-078",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β receptors are divided into:",
+   "opts": [
+    "β1, β2 and β3",
+    "β1 and β4 only",
+    "α1 and α2",
+    "m1 to m5"
+   ],
+   "ans": 0,
+   "exp": "The β receptor section lists β1, β2 and β3. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-079",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β receptors are coupled to which G protein subtype?",
+   "opts": [
+    "Gs",
+    "Gi",
+    "Gq",
+    "G12/13"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside β1, β2 and β3 says Gs subtype. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-080",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β1 receptors in the heart increase:",
+   "opts": [
+    "Ca2+",
+    "K+ efflux only",
+    "AChE activity",
+    "VMAT2 storage"
+   ],
+   "ans": 0,
+   "exp": "The β1 heart MOA row says ↑ Ca2+. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-081",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "Cardiac β1 stimulation increases:",
+   "opts": [
+    "Contraction, heart rate and conduction",
+    "Only vasodilation",
+    "Only bronchial relaxation",
+    "Only GIT relaxation"
+   ],
+   "ans": 0,
+   "exp": "The β1 heart effect list shows increased contraction, heart rate and conduction. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-082",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "β1 receptors in the kidney are on JG cells and increase:",
+   "opts": [
+    "Renin release",
+    "Insulin release",
+    "ACh release",
+    "Bile secretion"
+   ],
+   "ans": 0,
+   "exp": "The β1 kidney row says JG cells: increased renin release. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-083",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 54,
+   "q": "The BP effect of β1 stimulation at the kidney is:",
+   "opts": [
+    "Increased blood pressure",
+    "Decreased blood pressure",
+    "No effect",
+    "Only postural hypotension"
+   ],
+   "ans": 0,
+   "exp": "The β1 kidney effect cell reads increased blood pressure. (Book p54)"
+  },
+  {
+   "id": "PHARM-C15-084",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 stimulation relaxes smooth muscle through increased:",
+   "opts": [
+    "cAMP",
+    "cGMP only",
+    "ACh",
+    "COMT"
+   ],
+   "ans": 0,
+   "exp": "The β2 smooth-muscle mechanism row reads relaxation (↑ cAMP). (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-085",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2-mediated vasodilation tends to cause:",
+   "opts": [
+    "Hypotension",
+    "Severe hypertension",
+    "Miosis",
+    "Urine retention"
+   ],
+   "ans": 0,
+   "exp": "The β2 effects column lists vasodilation with hypotension. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-086",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "The β2 agonist use linked to asthma is:",
+   "opts": [
+    "Salbutamol",
+    "Ritodrine",
+    "Mirabegron",
+    "Metyrosine"
+   ],
+   "ans": 0,
+   "exp": "The β2 smooth-muscle use cell lists salbutamol in asthma. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-087",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 stimulation causes bronchi to undergo:",
+   "opts": [
+    "Bronchodilation",
+    "Bronchoconstriction",
+    "Fibrosis",
+    "Mucus plugging only"
+   ],
+   "ans": 0,
+   "exp": "The β2 effects row includes bronchodilation. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-088",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 stimulation relaxes the uterus; the uterine relaxant listed is:",
+   "opts": [
+    "Ritodrine",
+    "Phenylephrine",
+    "Tetrabenazine",
+    "Droxidopa"
+   ],
+   "ans": 0,
+   "exp": "The uterine relaxation row lists ritodrine as uterine relaxant. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-089",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 action on cardiac muscle causes:",
+   "opts": [
+    "Palpitations",
+    "Cataract",
+    "Miosis",
+    "Urge incontinence"
+   ],
+   "ans": 0,
+   "exp": "The cardiac muscle row under β2 gives palpitations. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-090",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 action on skeletal muscle causes:",
+   "opts": [
+    "Tremors",
+    "Miosis",
+    "Cycloplegia",
+    "Constipation"
+   ],
+   "ans": 0,
+   "exp": "The skeletal muscle row gives tremors. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-091",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 effects on glucose metabolism cause:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "No effect",
+    "Lactic acidosis only"
+   ],
+   "ans": 0,
+   "exp": "The glucose metabolism row shows gluconeogenesis/glycogenolysis and hyperglycemia. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-092",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β2 causes inward K+ movement by increasing insulin and activating:",
+   "opts": [
+    "Na+-K+ ATPase",
+    "AChE",
+    "VMAT2",
+    "MAO"
+   ],
+   "ans": 0,
+   "exp": "The K+ row states ↑ insulin and ↑ cAMP activate Na+-K+ ATPase, causing inward K+ movement. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-093",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "The potassium effect of β2 stimulation is:",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "No potassium effect",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "The K+ row lists hypokalemia as the effect. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-094",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "Salbutamol is used for which potassium emergency?",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypernatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "The use column in the K+ row says salbutamol for hyperkalemia. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-095",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β3 receptors in the bladder increase cAMP to cause:",
+   "opts": [
+    "Relaxation",
+    "Contraction",
+    "Miosis",
+    "Renin release"
+   ],
+   "ans": 0,
+   "exp": "The β3 bladder row has MOA ↑ cAMP and effect relaxation. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-096",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "The β3 bladder drugs used for urge incontinence are:",
+   "opts": [
+    "Mirabegron and vibegron",
+    "Darifenacin and solifenacin",
+    "Ipratropium and tiotropium",
+    "Metyrosine and reserpine"
+   ],
+   "ans": 0,
+   "exp": "The β3 bladder use row lists urge incontinence: mirabegron, vibegron. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-097",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "β3 stimulation in adipocytes activates:",
+   "opts": [
+    "Hormone-sensitive lipase",
+    "Tyrosine hydroxylase",
+    "Dopa decarboxylase",
+    "Acetylcholinesterase"
+   ],
+   "ans": 0,
+   "exp": "The adipocyte row states ↑ cAMP stimulates HSL, hormone-sensitive lipase. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-098",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "The adipocyte effect of β3 stimulation is:",
+   "opts": [
+    "Lipolysis",
+    "Lipogenesis",
+    "Miosis",
+    "Bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The β3 adipocyte effect column says lipolysis. (Book p55)"
+  },
+  {
+   "id": "PHARM-C15-099",
+   "sec": "Catecholamines, Blood Glucose and β Receptors",
+   "page": 55,
+   "q": "The β3 adipocyte use listed is:",
+   "opts": [
+    "Treatment of obesity",
+    "Treatment of glaucoma",
+    "Tensilon test",
+    "Conduction block"
+   ],
+   "ans": 0,
+   "exp": "The adipocyte use column says Rx of obesity. (Book p55)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U15-1",
+   "ch": 15,
+   "n": 1,
+   "title": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism",
+   "sec": "Physiology of Norepinephrine: Synthesis, Storage, Release and Metabolism · p52",
+   "qs": [
+    "PHARM-C15-001",
+    "PHARM-C15-002",
+    "PHARM-C15-003",
+    "PHARM-C15-004",
+    "PHARM-C15-005",
+    "PHARM-C15-006",
+    "PHARM-C15-007",
+    "PHARM-C15-008",
+    "PHARM-C15-009",
+    "PHARM-C15-010",
+    "PHARM-C15-011",
+    "PHARM-C15-012",
+    "PHARM-C15-013",
+    "PHARM-C15-014",
+    "PHARM-C15-015",
+    "PHARM-C15-016",
+    "PHARM-C15-017",
+    "PHARM-C15-018"
+   ],
+   "guide": "Norepinephrine synthesis begins with tyrosine and the rate-limiting enzyme tyrosine hydroxylase, then proceeds through DOPA and dopamine before dopamine enters the vesicle through VMAT2 and is converted to norepinephrine by dopamine-β-hydroxylase. Released norepinephrine acts on α and β receptors, is metabolised by MAO and COMT, and is cleared by reuptake. Several drugs map exactly onto this diagram: metyrosine blocks tyrosine hydroxylase, reserpine/tetrabenazine derivatives block VMAT2, and cocaine, TCAs and SNRIs block reuptake."
+  },
+  {
+   "id": "PHARM-U15-2",
+   "ch": 15,
+   "n": 2,
+   "title": "Drugs Modifying NE/DA and Cocaine Dependence",
+   "sec": "Drugs Modifying NE/DA and Cocaine Dependence · p52",
+   "qs": [
+    "PHARM-C15-019",
+    "PHARM-C15-020",
+    "PHARM-C15-021",
+    "PHARM-C15-022",
+    "PHARM-C15-023",
+    "PHARM-C15-024",
+    "PHARM-C15-025",
+    "PHARM-C15-026",
+    "PHARM-C15-027",
+    "PHARM-C15-028",
+    "PHARM-C15-029",
+    "PHARM-C15-030",
+    "PHARM-C15-031",
+    "PHARM-C15-032",
+    "PHARM-C15-033",
+    "PHARM-C15-034",
+    "PHARM-C15-035",
+    "PHARM-C15-036",
+    "PHARM-C15-037",
+    "PHARM-C15-038",
+    "PHARM-C15-039",
+    "PHARM-C15-040",
+    "PHARM-C15-041"
+   ],
+   "guide": "Metyrosine lowers catecholamines by competitively inhibiting tyrosine hydroxylase and is used in malignant pheochromocytoma. VMAT2 blockers lower norepinephrine and dopamine: reserpine is now uncommon, tetrabenazine is DOC for Huntington chorea and Tourette-associated tics, and deutetrabenazine/valbenazine are long-acting derivatives used for tardive dyskinesia. Cocaine blocks NA and DA reuptake, raising DA and addiction potential; dependence is managed by keeping dopamine receptors engaged with bromocriptine and tapering."
+  },
+  {
+   "id": "PHARM-U15-3",
+   "ch": 15,
+   "n": 3,
+   "title": "Sympathetic α Receptors",
+   "sec": "Sympathetic α Receptors · p53",
+   "qs": [
+    "PHARM-C15-042",
+    "PHARM-C15-043",
+    "PHARM-C15-044",
+    "PHARM-C15-045",
+    "PHARM-C15-046",
+    "PHARM-C15-047",
+    "PHARM-C15-048",
+    "PHARM-C15-049",
+    "PHARM-C15-050",
+    "PHARM-C15-051",
+    "PHARM-C15-052",
+    "PHARM-C15-053",
+    "PHARM-C15-054",
+    "PHARM-C15-055",
+    "PHARM-C15-056",
+    "PHARM-C15-057",
+    "PHARM-C15-058",
+    "PHARM-C15-059",
+    "PHARM-C15-060",
+    "PHARM-C15-061",
+    "PHARM-C15-062",
+    "PHARM-C15-063",
+    "PHARM-C15-064"
+   ],
+   "guide": "Sympathetic receptors are GPCRs divided into α and β. α1 is mainly postsynaptic, centrally placed on the membrane and Gq-coupled; it contracts vascular, prostatic, bladder sphincter and radial iris smooth muscle but relaxes GIT through Ca2+-dependent K+ opening and hyperpolarisation. α2 is predominantly presynaptic and Gi-coupled; late stimulation reduces further NE release, causing central sympatholysis, but postsynaptic vascular α2 can vasoconstrict and pancreatic β-islet α2 reduces insulin to raise glucose."
+  },
+  {
+   "id": "PHARM-U15-4",
+   "ch": 15,
+   "n": 4,
+   "title": "Catecholamines, Blood Glucose and β Receptors",
+   "sec": "Catecholamines, Blood Glucose and β Receptors · p54",
+   "qs": [
+    "PHARM-C15-065",
+    "PHARM-C15-066",
+    "PHARM-C15-067",
+    "PHARM-C15-068",
+    "PHARM-C15-069",
+    "PHARM-C15-070",
+    "PHARM-C15-071",
+    "PHARM-C15-072",
+    "PHARM-C15-073",
+    "PHARM-C15-074",
+    "PHARM-C15-075",
+    "PHARM-C15-076",
+    "PHARM-C15-077",
+    "PHARM-C15-078",
+    "PHARM-C15-079",
+    "PHARM-C15-080",
+    "PHARM-C15-081",
+    "PHARM-C15-082",
+    "PHARM-C15-083",
+    "PHARM-C15-084",
+    "PHARM-C15-085",
+    "PHARM-C15-086",
+    "PHARM-C15-087",
+    "PHARM-C15-088",
+    "PHARM-C15-089",
+    "PHARM-C15-090",
+    "PHARM-C15-091",
+    "PHARM-C15-092",
+    "PHARM-C15-093",
+    "PHARM-C15-094",
+    "PHARM-C15-095",
+    "PHARM-C15-096",
+    "PHARM-C15-097",
+    "PHARM-C15-098",
+    "PHARM-C15-099"
+   ],
+   "guide": "The notes compare m3 and α/β signalling and explain why catecholamines produce hyperglycemia: α1/α2/β2 stimulation is released during hypoglycemia, and the β2 liver/skeletal-muscle rise in glucose outweighs pancreatic insulin release. β receptors are Gs-coupled: β1 acts in heart and kidney to raise contraction, rate, conduction and renin, β2 relaxes smooth muscle but also causes tremor, palpitations, hyperglycemia and hypokalemia, and β3 relaxes bladder while stimulating adipocyte lipolysis."
+  }
+ ]
+}
