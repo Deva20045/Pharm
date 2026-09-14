@@ -1,0 +1,1871 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C26-001",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "Diuretics are defined as drugs that increase loss of:",
+   "opts": [
+    "Water ± solutes (Na+, Cl-)",
+    "Water only",
+    "Solutes only",
+    "Potassium only"
+   ],
+   "ans": 0,
+   "exp": "The definition line says up loss of water plus or minus solutes (Na+, Cl-). (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-002",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "The three conditions for which diuretics are used include HTN, edema and:",
+   "opts": [
+    "Drug toxicities (by increased excretion)",
+    "Infection",
+    "Anemia",
+    "Malignancy"
+   ],
+   "ans": 0,
+   "exp": "The uses line lists HTN, edema and drug toxicities by up excretion. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-003",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "The site of action of carbonic anhydrase inhibitors is the:",
+   "opts": [
+    "PCT",
+    "TAL",
+    "DCT",
+    "Collecting duct"
+   ],
+   "ans": 0,
+   "exp": "The heading line says site of action: PCT. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-004",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "The most commonly used oral carbonic anhydrase inhibitor is:",
+   "opts": [
+    "Acetazolamide",
+    "Dichlorphenamide",
+    "Methazolamide",
+    "Brinzolamide"
+   ],
+   "ans": 0,
+   "exp": "The oral list marks acetazolamide (m/c used). (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-005",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "The carbonic anhydrase inhibitors available as eye drops are dorzolamide and:",
+   "opts": [
+    "Brinzolamide",
+    "Acetazolamide",
+    "Methazolamide",
+    "Dichlorphenamide"
+   ],
+   "ans": 0,
+   "exp": "The eye drops list gives brinzolamide and dorzolamide. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-006",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "page": 101,
+   "q": "Besides acetazolamide, the other oral CA inhibitors listed are dichlorphenamide and:",
+   "opts": [
+    "Methazolamide",
+    "Zonisamide",
+    "Topiramate",
+    "Dorzolamide"
+   ],
+   "ans": 0,
+   "exp": "The oral list gives dichlorphenamide, acetazolamide and methazolamide. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-007",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "In the PCT, the maximum retention in the nephron occurs for:",
+   "opts": [
+    "Na+ (with water)",
+    "K+",
+    "Urea",
+    "Glucose only"
+   ],
+   "ans": 0,
+   "exp": "The PCT bullet says Na+ (with water): maximum in nephron. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-008",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "Besides Na+, the other substance retained in the PCT is:",
+   "opts": [
+    "HCO3-",
+    "H+",
+    "NH4+",
+    "Ca2+"
+   ],
+   "ans": 0,
+   "exp": "The PCT retention list gives Na+ and HCO3-. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-009",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "The substance excreted at the PCT is:",
+   "opts": [
+    "H+",
+    "HCO3-",
+    "Na+",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The PCT bullet says excretion of H+. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-010",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "The transporter shown opposite the Na+/H+ antiporter in the PCT diagram is:",
+   "opts": [
+    "Na+/H+ antiporter with carbonic anhydrase",
+    "Na+/K+ ATPase only",
+    "Na+-glucose cotransporter",
+    "Na+/Ca2+ exchanger"
+   ],
+   "ans": 0,
+   "exp": "The index in the PCT diagram lists brush border cell and Na+/H+ antiporter. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-011",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "The enzyme shown in both the epithelial cell and brush border of the PCT is:",
+   "opts": [
+    "Carbonic anhydrase",
+    "ACE",
+    "ATPase",
+    "Phospholipase"
+   ],
+   "ans": 0,
+   "exp": "The PCT diagram shows CA in the epithelial cell and in the lumen side. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-012",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "CA inhibitors act on the PCT by blocking:",
+   "opts": [
+    "Both luminal and cytoplasmic carbonic anhydrase",
+    "Only luminal CA",
+    "Only cytoplasmic CA",
+    "The Na+/K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "The MOA diagram later shows inhibition of luminal CA and cytoplasmic CA. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-013",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "In the thick ascending limb, the transporter that reabsorbs the majority of Na+ is:",
+   "opts": [
+    "Na+/K+/2Cl-",
+    "Na+/Cl-",
+    "ENaC",
+    "Na+/H+ antiporter"
+   ],
+   "ans": 0,
+   "exp": "The TAL line says Na+/K+/2Cl- transporters reabsorb majority of Na+. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-014",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 101,
+   "q": "Regarding water in the thick ascending limb of Henle:",
+   "opts": [
+    "H2O is not reabsorbed",
+    "H2O is reabsorbed maximally",
+    "H2O is reabsorbed via aquaporins only",
+    "H2O is secreted"
+   ],
+   "ans": 0,
+   "exp": "The TAL point 2 says H2O not reabsorbed. (Book p101)"
+  },
+  {
+   "id": "PHARM-C26-015",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "In the collecting duct, the channel that reabsorbs the remaining Na+ is:",
+   "opts": [
+    "ENaC",
+    "Na+/K+/2Cl-",
+    "Na+/Cl- cotransporter",
+    "Na+/Ca2+ antiporter"
+   ],
+   "ans": 0,
+   "exp": "The CD point (a) says ENaC reabsorbs remaining Na+. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-016",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "Reabsorption of Na+ by ENaC causes collecting duct cells to:",
+   "opts": [
+    "Depolarize",
+    "Hyperpolarize",
+    "Shrink only",
+    "Secrete renin"
+   ],
+   "ans": 0,
+   "exp": "The CD flow says collecting duct cells depolarized. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-017",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "Depolarisation of collecting duct cells activates H+ ATPase pumps, which secrete:",
+   "opts": [
+    "H+ into urine",
+    "H+ into blood",
+    "K+ into urine",
+    "Na+ into urine"
+   ],
+   "ans": 0,
+   "exp": "The left CD branch says H+ ATPase pumps: H+ secretion into urine. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-018",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "The other pump activated in the collecting duct is:",
+   "opts": [
+    "ROMK pump",
+    "Na+/K+ ATPase",
+    "H+/K+ ATPase",
+    "Cystic fibrosis channel"
+   ],
+   "ans": 0,
+   "exp": "The right CD branch says activation of ROMK pump. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-019",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "The ROMK pump secretes:",
+   "opts": [
+    "K+ into urine",
+    "K+ into blood",
+    "H+ into urine",
+    "NH4 into urine"
+   ],
+   "ans": 0,
+   "exp": "The ROMK branch says K+ secretion into urine. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-020",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "Water reabsorption in the collecting duct occurs due to:",
+   "opts": [
+    "Vasopressin",
+    "Aldosterone",
+    "ANP",
+    "Adrenaline"
+   ],
+   "ans": 0,
+   "exp": "The CD point (b) says H2O reabsorbed due to vasopressin. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-021",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "Because of vasopressin-driven water reabsorption in the collecting duct, CA inhibitors cause:",
+   "opts": [
+    "Negligible water loss",
+    "Maximum water loss",
+    "No sodium loss",
+    "No potassium loss"
+   ],
+   "ans": 0,
+   "exp": "The CD point (b) says negligible water loss. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-022",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "page": 102,
+   "q": "The third collecting duct process listed is secretion of:",
+   "opts": [
+    "NH4 into lumen",
+    "Glucose into lumen",
+    "Protein into lumen",
+    "Bile into lumen"
+   ],
+   "ans": 0,
+   "exp": "The CD point (c) says secretion of NH4 into lumen. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-023",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Inhibition of luminal carbonic anhydrase by CA inhibitors causes increased:",
+   "opts": [
+    "H2CO3 in urine",
+    "HCO3- in blood",
+    "H+ in blood",
+    "Na+ reabsorption"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch says luminal CA inhibition leads to up H2CO3 in urine. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-024",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Inhibition of cytoplasmic carbonic anhydrase leads to decreased:",
+   "opts": [
+    "HCO3- in the body",
+    "H+ in the body",
+    "CO2 in cells",
+    "Na+ excretion"
+   ],
+   "ans": 0,
+   "exp": "The cytoplasmic branch says down HCO3- in the body. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-025",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Cytoplasmic CA inhibition causes retention of:",
+   "opts": [
+    "H+",
+    "HCO3-",
+    "Na+",
+    "K+"
+   ],
+   "ans": 0,
+   "exp": "The cytoplasmic branch says retention of H+. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-026",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Cytoplasmic CA inhibition increases:",
+   "opts": [
+    "CO2 in cells",
+    "O2 in cells",
+    "HCO3- in cells",
+    "Na+ in cells"
+   ],
+   "ans": 0,
+   "exp": "The cytoplasmic branch says up CO2 in cells. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-027",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "The diuretic action of CA inhibitors is due to decreased:",
+   "opts": [
+    "Na+/H2O reabsorption in PCT",
+    "Na+ reabsorption in TAL",
+    "K+ secretion in CD",
+    "Water reabsorption in CD"
+   ],
+   "ans": 0,
+   "exp": "The last cytoplasmic branch says down Na+/H2O reabsorption in PCT (diuretic action). (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-028",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Effect 1 of CA inhibitors is minimal loss of:",
+   "opts": [
+    "Na+ and H2O",
+    "K+ and H+",
+    "Ca2+ and Mg2+",
+    "Uric acid and glucose"
+   ],
+   "ans": 0,
+   "exp": "Effect 1 is titled minimal loss of Na+ and H2O. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-029",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Because of the minimal natriuresis, CA inhibitors are:",
+   "opts": [
+    "Not used as diuretics",
+    "First-line diuretics",
+    "High ceiling diuretics",
+    "Loop diuretics"
+   ],
+   "ans": 0,
+   "exp": "Effect 1 says not used as diuretics. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-030",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "The reason Na+ loss is minimal with CA inhibitors is that Na+ is reabsorbed in the thick ascending limb and:",
+   "opts": [
+    "CD (collecting duct)",
+    "PCT only",
+    "DCT only",
+    "Loop of Henle descending limb"
+   ],
+   "ans": 0,
+   "exp": "The explanation says Na+ reabsorbed in thick ascending limb and CD. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-031",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "The reason water loss is minimal with CA inhibitors is water reabsorption in the CD due to:",
+   "opts": [
+    "Vasopressin",
+    "Aldosterone",
+    "ANP",
+    "Prostaglandins"
+   ],
+   "ans": 0,
+   "exp": "The explanation says H2O reabsorbed in CD due to vasopressin. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-032",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Effect 2 of CA inhibitors is decreased HCO3- in the body producing the side effect of:",
+   "opts": [
+    "Metabolic acidosis",
+    "Metabolic alkalosis",
+    "Respiratory alkalosis",
+    "Hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "Effect 2 gives side effect: metabolic acidosis. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-033",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Metabolic acidosis with CA inhibitors occurs when:",
+   "opts": [
+    "HCO3- loss > H+ loss",
+    "H+ loss > HCO3- loss",
+    "HCO3- retention > H+ retention",
+    "K+ loss > H+ loss"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says HCO3- loss > H+ loss. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-034",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "CA inhibitors are used in metabolic and:",
+   "opts": [
+    "Respiratory alkalosis",
+    "Respiratory acidosis",
+    "Metabolic acidosis",
+    "Mixed acidosis"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives metabolic and respiratory alkalosis. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-035",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "In obstructive sleep apnea, the TOC (treatment of choice) noted on the page is:",
+   "opts": [
+    "CPAP",
+    "Acetazolamide",
+    "Methazolamide",
+    "Dichlorphenamide"
+   ],
+   "ans": 0,
+   "exp": "The OSA line says TOC: CPAP. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-036",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "The FDA approved drug for familial hypo/hyperkalemic periodic paralyses is:",
+   "opts": [
+    "Dichlorphenamide",
+    "Acetazolamide",
+    "Methazolamide",
+    "Dorzolamide"
+   ],
+   "ans": 0,
+   "exp": "The periodic paralysis line gives FDA approved Rx: dichlorphenamide. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-037",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "The contraindication for CA inhibitors named on this page is:",
+   "opts": [
+    "Severe COPD",
+    "Mild asthma",
+    "Chronic kidney disease",
+    "Cirrhosis only"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says severe COPD. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-038",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "page": 102,
+   "q": "Severe COPD is a contraindication because CA inhibitors predispose to:",
+   "opts": [
+    "Respiratory acidosis",
+    "Respiratory alkalosis",
+    "Metabolic alkalosis",
+    "Hyperoxia"
+   ],
+   "ans": 0,
+   "exp": "The C/I line explains predisposition to respiratory acidosis. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-039",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 102,
+   "q": "Effect 3 of CA inhibitors is increased H2CO3 in the urine, producing the side effect of:",
+   "opts": [
+    "Alkaline urine",
+    "Acidic urine",
+    "Neutral urine",
+    "Glycosuria"
+   ],
+   "ans": 0,
+   "exp": "Effect 3 gives side effect: alkaline urine. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-040",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 102,
+   "q": "Alkaline urine with CA inhibitors predisposes to precipitation of:",
+   "opts": [
+    "Renal Ca++ stones",
+    "Uric acid stones",
+    "Cystine stones",
+    "Struvite stones"
+   ],
+   "ans": 0,
+   "exp": "The alkaline urine consequence is precipitation of renal Ca++ stones. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-041",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 102,
+   "q": "CA inhibitors are useful in cystinuria because they:",
+   "opts": [
+    "Ionize cystine in alkaline urine",
+    "Acidify urine",
+    "Bind cystine in gut",
+    "Increase cystine solubility in acid urine"
+   ],
+   "ans": 0,
+   "exp": "The cystinuria annotation says down cystine stones d/t ionization of cystine in alkaline urine. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-042",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 102,
+   "q": "The two antiepileptic drugs noted to precipitate renal Ca++ stones because of carbonic anhydrase inhibitory activity are:",
+   "opts": [
+    "Topiramate and zonisamide",
+    "Phenytoin and carbamazepine",
+    "Lamotrigine and levetiracetam",
+    "Valproate and ethosuximide"
+   ],
+   "ans": 0,
+   "exp": "The note lists topiramate and zonisamide as antiepileptics with CA inhibitory activity. (Book p102)"
+  },
+  {
+   "id": "PHARM-C26-043",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Effect 4 of CA inhibitors is increased CO2 in neurons, which increases:",
+   "opts": [
+    "GABA",
+    "Glutamate",
+    "Acetylcholine",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "Effect 4 says d/t up GABA. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-044",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "The two side effects of increased neuronal CO2 with CA inhibitors are somnolence and:",
+   "opts": [
+    "Paresthesia",
+    "Seizures",
+    "Ataxia",
+    "Tremor"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives somnolence and paresthesia. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-045",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "The use of CA inhibitors for catamenial epilepsy is limited to short duration due to:",
+   "opts": [
+    "Tolerance",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Ototoxicity"
+   ],
+   "ans": 0,
+   "exp": "The uses line says short duration d/t tolerance. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-046",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Catamenial epilepsy is precipitated during menstruation due to increased:",
+   "opts": [
+    "Estrogen",
+    "Progesterone",
+    "Cortisol",
+    "Prolactin"
+   ],
+   "ans": 0,
+   "exp": "The catamenial epilepsy note says d/t up estrogen. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-047",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Besides catamenial epilepsy, effect 4 supports the use of CA inhibitors in:",
+   "opts": [
+    "Absence seizure",
+    "GTCS",
+    "Focal seizures only",
+    "Status epilepticus"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives absence seizure. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-048",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Effect 5 of CA inhibitors is decreased:",
+   "opts": [
+    "NH4+ excretion",
+    "Na+ excretion",
+    "K+ excretion",
+    "Ca2+ excretion"
+   ],
+   "ans": 0,
+   "exp": "Effect 5 is titled down NH4+ excretion. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-049",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "The side effect of decreased NH4+ excretion is:",
+   "opts": [
+    "Hyperammonemia",
+    "Hypoammonemia",
+    "Metabolic alkalosis",
+    "Hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "Effect 5 side effect is hyperammonemia. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-050",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "The contraindication arising from hyperammonemia is:",
+   "opts": [
+    "Liver cirrhosis",
+    "Renal failure",
+    "Heart failure",
+    "COPD"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says liver cirrhosis, leading to hepatic encephalopathy. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-051",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "CA inhibitors in liver cirrhosis can precipitate:",
+   "opts": [
+    "Hepatic encephalopathy",
+    "Hepatorenal syndrome",
+    "Jaundice",
+    "Ascites only"
+   ],
+   "ans": 0,
+   "exp": "The C/I arrow points to hepatic encephalopathy. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-052",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Effect 6 of CA inhibitors is increased K+ loss, causing:",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Hypernatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Effect 6 s/e: hypokalemia. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-053",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "The hypokalemia of CA inhibitors is due to increased activity of:",
+   "opts": [
+    "ROMK",
+    "H+ ATPase",
+    "ENaC",
+    "Na+/K+ ATPase"
+   ],
+   "ans": 0,
+   "exp": "The s/e note says hypokalemia d/t up ROMK activity. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-054",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Carbonic anhydrase inhibitors cause metabolic alkalosis due to loss of:",
+   "opts": [
+    "HCO3-",
+    "H+ only",
+    "K+",
+    "Na+"
+   ],
+   "ans": 0,
+   "exp": "The note says CA causes metabolic alkalosis due to HCO3- loss. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-055",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Besides CA inhibitors, isolated H+ loss causing metabolic alkalosis is seen with:",
+   "opts": [
+    "Loop diuretics and thiazides",
+    "Loop diuretics only",
+    "Thiazides only",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "The note adds loop diuretic (isolated H+ loss) and thiazide (without HCO3-). (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-056",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "page": 103,
+   "q": "Thiazides cause metabolic alkalosis with isolated H+ loss:",
+   "opts": [
+    "Without HCO3- loss",
+    "With HCO3- loss",
+    "With K+ retention",
+    "Without K+ loss"
+   ],
+   "ans": 0,
+   "exp": "The note specifies thiazide without HCO3-. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-057",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "Effect 7 of CA inhibitors is decreased production of:",
+   "opts": [
+    "Aqueous humour",
+    "CSF",
+    "Tears",
+    "Sweat"
+   ],
+   "ans": 0,
+   "exp": "Effect 7 is titled down aqueous production. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-058",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "In acute congestive glaucoma, the oral drug used is:",
+   "opts": [
+    "Acetazolamide",
+    "Brinzolamide",
+    "Mannitol",
+    "Timolol"
+   ],
+   "ans": 0,
+   "exp": "The use line says acute congestive glaucoma: oral acetazolamide. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-059",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "For acute congestive glaucoma, the DOC named on the page is:",
+   "opts": [
+    "Mannitol",
+    "Acetazolamide",
+    "Brinzolamide",
+    "Dorzolamide"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says DOC: mannitol. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-060",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "In open angle glaucoma, the CA inhibitors are given as:",
+   "opts": [
+    "Eye drops",
+    "IV infusion",
+    "Oral tablets",
+    "Subconjunctival injection"
+   ],
+   "ans": 0,
+   "exp": "The use line says open angle glaucoma: eye drops. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-061",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "For open angle glaucoma the DOC is brinzolamide, which is better than:",
+   "opts": [
+    "Beta blockers",
+    "Alpha agonists",
+    "Prostaglandin analogues",
+    "Cholinergics"
+   ],
+   "ans": 0,
+   "exp": "The DOC line says brinzolamide > beta blockers. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-062",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "The diagram links CA inhibitors to aqueous humour production and CSF leading to:",
+   "opts": [
+    "ICP",
+    "IOP only",
+    "CVP",
+    "Pulmonary pressure"
+   ],
+   "ans": 0,
+   "exp": "The eye/CSF diagram shows CSF then ICP. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-063",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "Effect 8 of CA inhibitors is decreased CSF production, used to reduce:",
+   "opts": [
+    "Intracranial pressure",
+    "Intraocular pressure only",
+    "Blood pressure",
+    "Intra-abdominal pressure"
+   ],
+   "ans": 0,
+   "exp": "Effect 8 says uses: down intracranial pressure. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-064",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "CA inhibitors are DOC in acute mountain sickness and:",
+   "opts": [
+    "Pseudotumor cerebri (idiopathic intracranial HTN)",
+    "Meningitis",
+    "Subarachnoid haemorrhage",
+    "Cerebral infarction"
+   ],
+   "ans": 0,
+   "exp": "The DOC list gives pseudotumor cerebri. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-065",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "The third DOC indication for decreasing CSF production is increased:",
+   "opts": [
+    "CSF pressure headache",
+    "CSF glucose",
+    "CSF protein",
+    "CSF cell count"
+   ],
+   "ans": 0,
+   "exp": "The DOC list includes up CSF pressure headache. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-066",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "The Marfan syndrome related eye/CSF condition listed is:",
+   "opts": [
+    "Dural ectasia",
+    "Retinal detachment",
+    "Lens dislocation",
+    "Iris coloboma"
+   ],
+   "ans": 0,
+   "exp": "The list gives dural ectasia (in Marfan syndrome). (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-067",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "CA inhibitors are also used in CSF leak following:",
+   "opts": [
+    "Lumbar puncture",
+    "Craniotomy",
+    "Ventriculostomy",
+    "Spinal fusion"
+   ],
+   "ans": 0,
+   "exp": "The list gives post lumbar puncture CSF leak. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-068",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "CA inhibitors are sulfonamide derivatives and can therefore cause rash and:",
+   "opts": [
+    "Bone marrow suppression",
+    "Ototoxicity",
+    "Nephrogenic DI",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "The note says rash and bone marrow suppression. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-069",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "The loop diuretic that lacks weak CA inhibitory activity is:",
+   "opts": [
+    "Bumetanide",
+    "Furosemide",
+    "Torsemide",
+    "Ethacrynic acid"
+   ],
+   "ans": 0,
+   "exp": "The note says loop diuretics except bumetanide. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-070",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "page": 103,
+   "q": "The thiazide that lacks weak CA inhibitory activity is:",
+   "opts": [
+    "Indapamide",
+    "Chlorthalidone",
+    "Metolazone",
+    "Hydrochlorothiazide"
+   ],
+   "ans": 0,
+   "exp": "The note says thiazides except indapamide. (Book p103)"
+  },
+  {
+   "id": "PHARM-C26-071",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The site of action of loop diuretics is the:",
+   "opts": [
+    "Thick ascending limb",
+    "PCT",
+    "DCT",
+    "Collecting duct"
+   ],
+   "ans": 0,
+   "exp": "The loop diuretic heading says site of action: thick ascending limb. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-072",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The most common sulfonamide loop diuretic is:",
+   "opts": [
+    "Furosemide (Lasix)",
+    "Bumetanide",
+    "Torsemide",
+    "Ethacrynic acid"
+   ],
+   "ans": 0,
+   "exp": "The drug list marks furosemide (Lasix): m/c. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-073",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The most potent loop diuretic listed is:",
+   "opts": [
+    "Bumetanide",
+    "Furosemide",
+    "Torsemide",
+    "Ethacrynic acid"
+   ],
+   "ans": 0,
+   "exp": "The drug list says bumetanide: most potent. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-074",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The longest acting loop diuretic listed is:",
+   "opts": [
+    "Torsemide",
+    "Furosemide",
+    "Bumetanide",
+    "Ethacrynic acid"
+   ],
+   "ans": 0,
+   "exp": "The drug list says torsemide: longest acting. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-075",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The loop diuretic used when sulfonamides are not tolerated due to hypersensitivity is:",
+   "opts": [
+    "Ethacrynic acid",
+    "Bumetanide",
+    "Torsemide",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "The flowchart says if not tolerated d/t hypersensitivity, use non sulfonamide ethacrynic acid. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-076",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "Among loop diuretics, the most ototoxic drug is:",
+   "opts": [
+    "Ethacrynic acid",
+    "Furosemide",
+    "Bumetanide",
+    "Torsemide"
+   ],
+   "ans": 0,
+   "exp": "Ethacrynic acid is annotated as most ototoxic. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-077",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The transporter blocked by loop diuretics in the thick ascending limb is:",
+   "opts": [
+    "Na+/K+/2Cl-",
+    "Na+/Cl-",
+    "ENaC",
+    "Na+/H+ antiporter"
+   ],
+   "ans": 0,
+   "exp": "The physiology diagram marks the Na+/K+/2Cl- transporter. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-078",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "Activity of the Na+/K+/2Cl- transporter in the thick ascending limb creates:",
+   "opts": [
+    "Medullary hyperosmolarity",
+    "Medullary hypoosmolarity",
+    "Cortical hyperosmolarity",
+    "Papillary hypotonicity"
+   ],
+   "ans": 0,
+   "exp": "The diagram arrow from the transporter leads to medullary hyperosmolarity. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-079",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "In the thick ascending limb diagram, K+ leaves the cell and is described as:",
+   "opts": [
+    "Repelled K+ due to high intracellular K+ concentration",
+    "Attracted K+ due to low intracellular K+",
+    "Secreted by ROMK only",
+    "Reabsorbed by ENaC"
+   ],
+   "ans": 0,
+   "exp": "The note (2) says repelled K+ d/t high intracellular K+ concentration. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-080",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "Loss of positively charged ions in the thick ascending limb leads to compensatory reabsorption of:",
+   "opts": [
+    "Ca2+ and Mg2+",
+    "Na+ and K+",
+    "Uric acid and glucose",
+    "Bicarbonate"
+   ],
+   "ans": 0,
+   "exp": "The note says compensatory reabsorption of Ca2+ and Mg2+. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-081",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "page": 104,
+   "q": "The transporter shown at the luminal membrane of the thick ascending limb in the diagram is the:",
+   "opts": [
+    "Na+/K+/2Cl- transporter",
+    "Na+/H+ antiporter",
+    "ENaC",
+    "Aquaporin"
+   ],
+   "ans": 0,
+   "exp": "The index labels the large circle as the Na+/K+/2Cl- transporter. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-082",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Blockade of the Na+/K+/2Cl- pump by loop diuretics decreases reabsorption of:",
+   "opts": [
+    "Na/H2O",
+    "K+ only",
+    "Ca2+ only",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch (a) says down reabsorption of Na/H2O. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-083",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Loop diuretics cause loss of what percentage of the filtered load of Na+/H2O?",
+   "opts": [
+    "25%",
+    "5%",
+    "50%",
+    "1-3%"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says loss of 25% of filtered load of Na+/H2O. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-084",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Because of this 25% loss, loop diuretics are described as:",
+   "opts": [
+    "Potent diuretics",
+    "Weak diuretics",
+    "Moderate diuretics",
+    "Not used as diuretics"
+   ],
+   "ans": 0,
+   "exp": "The MOA line annotates potent diuretic. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-085",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "The fall in osmotic pressure with loop diuretics produces compensatory increased reabsorption of:",
+   "opts": [
+    "Uric acid",
+    "K+",
+    "Ca2+",
+    "Phosphate"
+   ],
+   "ans": 0,
+   "exp": "The compensatory branch lists up uric acid reabsorption. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-086",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Compensatory increase in glucose reabsorption with loop diuretics contributes to:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Glycosuria",
+    "Hyperinsulinism"
+   ],
+   "ans": 0,
+   "exp": "The compensatory branch lists up glucose reabsorption. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-087",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "The compensatory sympathetic nervous system activation with loop diuretics occurs due to decreased:",
+   "opts": [
+    "B.P. (blood pressure)",
+    "Heart rate",
+    "Cardiac output",
+    "Renal perfusion only"
+   ],
+   "ans": 0,
+   "exp": "The branch says (+) sympathetic nervous system d/t down B.P. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-088",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Sympathetic activation and lipolysis with loop diuretics results in increased LDL and decreased:",
+   "opts": [
+    "HDL",
+    "TG",
+    "Uric acid",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The lipolysis branch says up LDL, down HDL. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-089",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "The effect of loop diuretics on K+ reabsorption is:",
+   "opts": [
+    "Decreased",
+    "Increased",
+    "Unchanged",
+    "Biphasic"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch (b) says down K+ reabsorption. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-090",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 104,
+   "q": "Loss of the K+ gradient in the thick ascending limb leads to decreased reabsorption of:",
+   "opts": [
+    "Ca2+ and Mg2+",
+    "Na+ and water",
+    "Glucose",
+    "Uric acid"
+   ],
+   "ans": 0,
+   "exp": "The chain ends at down Ca2+ reabsorption and down Mg2+ reabsorption. (Book p104)"
+  },
+  {
+   "id": "PHARM-C26-091",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 105,
+   "q": "In the collecting duct, the excreted Na+ activates pumps that increase secretion of H+ and:",
+   "opts": [
+    "K+",
+    "Ca2+",
+    "Na+",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The CD flow shows H+ ATPase (H+) and ROMK (K+) secretion. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-092",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 105,
+   "q": "Increased H+ secretion into urine with loop diuretics produces:",
+   "opts": [
+    "Metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "The CD flow says up H+ secretion into urine, then metabolic alkalosis. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-093",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 105,
+   "q": "Increased K+ secretion into urine with loop diuretics produces:",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Hypernatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "The CD flow says up K+ secretion, then hypokalemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-094",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 105,
+   "q": "Hypokalemia due to loop diuretics leads to decreased insulin release and thereby:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Hyperinsulinemia",
+    "Normoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The CD flow ends: down insulin release, then hyperglycemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-095",
+   "sec": "Loop Diuretics: Mechanism of Action",
+   "page": 105,
+   "q": "The page notes that the collecting duct effects described for loop diuretics are also seen with:",
+   "opts": [
+    "Thiazides",
+    "Mannitol",
+    "CA inhibitors",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The note under the CD flow says thiazides also have similar effects. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-096",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Loop diuretics are also known as:",
+   "opts": [
+    "High ceiling diuretics",
+    "Low ceiling diuretics",
+    "Osmotic diuretics",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "Effect 1 is titled potent diuresis/high ceiling diuresis. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-097",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The mnemonic given for loop diuretic uses is:",
+   "opts": [
+    "LOOP",
+    "SODIUM",
+    "POTASSIUM",
+    "DIURESIS"
+   ],
+   "ans": 0,
+   "exp": "The uses line gives mnemonic LOOP. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-098",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "One LOOP use is loss of Na+ in:",
+   "opts": [
+    "Hypernatremia",
+    "Hyponatremia",
+    "Hyperkalemia",
+    "Hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "The first use bullet says loss of Na+ in hypernatremia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-099",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "In low GFR (<40), the best response is:",
+   "opts": [
+    "No response, so metolazone is added on",
+    "Full response to loop diuretics",
+    "Response to thiazides only",
+    "Response to spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The LOOP bullet says low GFR (<40): best no response, then metolazone (add on). (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-100",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Loop diuretics are used for other drug toxicities because they increase:",
+   "opts": [
+    "Excretion",
+    "Metabolism",
+    "Absorption",
+    "Protein binding"
+   ],
+   "ans": 0,
+   "exp": "The uses list includes other drug toxicities under the excretion rationale. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-101",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "For cirrhotic edema, the best drug noted is:",
+   "opts": [
+    "Spironolactone",
+    "Furosemide",
+    "Mannitol",
+    "Metolazone"
+   ],
+   "ans": 0,
+   "exp": "The edema sub-bullet says cirrhotic edema (best: spironolactone). (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-102",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "For cerebral edema, the best drug noted is:",
+   "opts": [
+    "Mannitol",
+    "Furosemide",
+    "Spironolactone",
+    "Acetazolamide"
+   ],
+   "ans": 0,
+   "exp": "The edema sub-bullet says cerebral edema (best: mannitol). (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-103",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The third edema type listed is:",
+   "opts": [
+    "Nephrogenic",
+    "Hepatic",
+    "Cardiac",
+    "Lymphatic"
+   ],
+   "ans": 0,
+   "exp": "The edema list ends with nephrogenic. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-104",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Loop diuretics are DOC in:",
+   "opts": [
+    "Pulmonary edema",
+    "Cerebral edema",
+    "Cirrhotic edema",
+    "Nephrotic edema"
+   ],
+   "ans": 0,
+   "exp": "The LOOP list states DOC: pulmonary edema. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-105",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The immediate effect of loop diuretics in pulmonary edema is increased:",
+   "opts": [
+    "Prostaglandins",
+    "Thromboxane",
+    "Endothelin",
+    "Aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The sub-bullet says immediate effect: up prostaglandins. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-106",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Increased prostaglandins in pulmonary edema produce:",
+   "opts": [
+    "Indirect vasodilation",
+    "Direct vasoconstriction",
+    "Bronchoconstriction",
+    "Increased preload"
+   ],
+   "ans": 0,
+   "exp": "The flow says prostaglandins, indirect vasodilation. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-107",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The final effect of this prostaglandin-mediated vasodilation is decreased:",
+   "opts": [
+    "Preload",
+    "Afterload",
+    "Contractility",
+    "Heart rate"
+   ],
+   "ans": 0,
+   "exp": "The flow ends at down preload. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-108",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Effect 2 of loop diuretics is decreased osmotic pressure leading to hyperuricemia from increased:",
+   "opts": [
+    "Uric acid reabsorption",
+    "Uric acid secretion",
+    "Uric acid production",
+    "Uric acid clearance"
+   ],
+   "ans": 0,
+   "exp": "Effect 2 says up uric acid reabsorption: hyperuricemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-109",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The hyperuricemia of loop diuretics is described as:",
+   "opts": [
+    "Rarely symptomatic",
+    "Always symptomatic with gout",
+    "Never present",
+    "Causing renal failure"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says hyperuricemia (rarely symptomatic). (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-110",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Decreased insulin release with loop diuretics causes:",
+   "opts": [
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Ketoacidosis",
+    "Hyperinsulinemia"
+   ],
+   "ans": 0,
+   "exp": "Effect 2 lists down insulin release: hyperglycemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-111",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Increased lipolysis with loop diuretics causes:",
+   "opts": [
+    "Dyslipidemia",
+    "Hypolipidemia",
+    "Improved HDL",
+    "Weight gain only"
+   ],
+   "ans": 0,
+   "exp": "Effect 2 lists up lipolysis: dyslipidemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-112",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "In the collecting duct, increased Ca2+ loss causes hypocalcemia, which makes loop diuretics useful to treat:",
+   "opts": [
+    "Hypercalcemia",
+    "Hypocalcemia",
+    "Hyperkalemia",
+    "Hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "Effect 3 says up Ca2+ loss: hypocalcemia, used to Rx hypercalcemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-113",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Increased Mg2+ loss with loop diuretics causes:",
+   "opts": [
+    "Hypomagnesemia",
+    "Hypermagnesemia",
+    "Normal magnesium",
+    "Magnesium stones"
+   ],
+   "ans": 0,
+   "exp": "Effect 3 lists up Mg2+ loss: hypomagnesemia. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-114",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Increased H+ loss with loop diuretics causes:",
+   "opts": [
+    "Metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory acidosis",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "Effect 3 lists up H+ loss: metabolic alkalosis. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-115",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "In the ear, loop diuretics act by blocking Na+/K+/2Cl- and thereby changing:",
+   "opts": [
+    "Endolymph composition",
+    "Perilymph volume only",
+    "Tympanic pressure",
+    "Ossicle movement"
+   ],
+   "ans": 0,
+   "exp": "Effect 4 says Na+/K+/2Cl- blockade changes endolymph composition. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-116",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The ototoxicity of loop diuretics is:",
+   "opts": [
+    "Reversible more often than irreversible",
+    "Always irreversible",
+    "Never reversible",
+    "Always bilateral"
+   ],
+   "ans": 0,
+   "exp": "The ototoxicity line says reversible > irreversible. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-117",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "The route that increases the risk of ototoxicity with loop diuretics is:",
+   "opts": [
+    "I/V route",
+    "Oral route",
+    "Rectal route",
+    "Topical route"
+   ],
+   "ans": 0,
+   "exp": "The line says increased risk with I/V route. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-118",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "To reduce ototoxicity, the IV infusion rate of loop diuretics should be less than:",
+   "opts": [
+    "4 mg/min",
+    "10 mg/min",
+    "20 mg/min",
+    "1 mg/min"
+   ],
+   "ans": 0,
+   "exp": "The line says infuse at rate <4 mg/min. (Book p105)"
+  },
+  {
+   "id": "PHARM-C26-119",
+   "sec": "Loop Diuretics: Effects and Uses",
+   "page": 105,
+   "q": "Loop diuretics are contraindicated with other ototoxic drugs such as aminoglycosides and:",
+   "opts": [
+    "Cisplatin",
+    "Carboplatin",
+    "Methotrexate",
+    "Fluorouracil"
+   ],
+   "ans": 0,
+   "exp": "The C/I list gives aminoglycosides and cisplatin. (Book p105)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U26-1",
+   "ch": 26,
+   "n": 1,
+   "title": "Diuretics: Definition and Carbonic Anhydrase Inhibitors",
+   "sec": "Diuretics: Definition and Carbonic Anhydrase Inhibitors · p101",
+   "qs": [
+    "PHARM-C26-001",
+    "PHARM-C26-002",
+    "PHARM-C26-003",
+    "PHARM-C26-004",
+    "PHARM-C26-005",
+    "PHARM-C26-006"
+   ],
+   "guide": "Diuretics are drugs that increase loss of water with or without solutes such as Na+ and Cl-, and they are used to manage hypertension, edema and drug toxicities (by increasing excretion). Carbonic anhydrase inhibitors act at the proximal convoluted tubule and are given orally as dichlorphenamide, acetazolamide (most commonly used) and methazolamide, or as eye drops of brinzolamide and dorzolamide."
+  },
+  {
+   "id": "PHARM-U26-2",
+   "ch": 26,
+   "n": 2,
+   "title": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct",
+   "sec": "Relevant Physiology: PCT, Thick Ascending Limb and Collecting Duct · p101",
+   "qs": [
+    "PHARM-C26-007",
+    "PHARM-C26-008",
+    "PHARM-C26-009",
+    "PHARM-C26-010",
+    "PHARM-C26-011",
+    "PHARM-C26-012",
+    "PHARM-C26-013",
+    "PHARM-C26-014",
+    "PHARM-C26-015",
+    "PHARM-C26-016",
+    "PHARM-C26-017",
+    "PHARM-C26-018",
+    "PHARM-C26-019",
+    "PHARM-C26-020",
+    "PHARM-C26-021",
+    "PHARM-C26-022"
+   ],
+   "guide": "In the proximal convoluted tubule, Na+ is retained along with water and this is the maximum Na+ retention site in the nephron, HCO3- is retained and H+ is excreted; the sketch shows cytoplasmic and brush-border carbonic anhydrase working with the Na+/H+ antiporter. In the thick ascending limb, the Na+/K+/2Cl- transporter reabsorbs the majority of Na+ while water is not reabsorbed. In the collecting duct, ENaC reabsorbs the remaining Na+, which depolarises the cells and activates H+ ATPase pumps (H+ into urine) and the ROMK pump (K+ into urine); water is reabsorbed due to vasopressin with negligible water loss, and NH4 is secreted into the lumen."
+  },
+  {
+   "id": "PHARM-U26-3",
+   "ch": 26,
+   "n": 3,
+   "title": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects",
+   "sec": "Carbonic Anhydrase Inhibitors: Mechanism and the First Two Effects · p102",
+   "qs": [
+    "PHARM-C26-023",
+    "PHARM-C26-024",
+    "PHARM-C26-025",
+    "PHARM-C26-026",
+    "PHARM-C26-027",
+    "PHARM-C26-028",
+    "PHARM-C26-029",
+    "PHARM-C26-030",
+    "PHARM-C26-031",
+    "PHARM-C26-032",
+    "PHARM-C26-033",
+    "PHARM-C26-034",
+    "PHARM-C26-035",
+    "PHARM-C26-036",
+    "PHARM-C26-037",
+    "PHARM-C26-038"
+   ],
+   "guide": "CA inhibitors block luminal carbonic anhydrase, raising H2CO3 in urine, and block cytoplasmic carbonic anhydrase, which lowers HCO3- in the body, retains H+, raises CO2 in cells and decreases Na+/H2O reabsorption in the PCT (the diuretic action). The first effect is only a minimal loss of Na+ and H2O because Na+ is reabsorbed in the thick ascending limb and collecting duct and water is reabsorbed in the collecting duct under vasopressin, so they are not used as diuretics. The second effect is a fall in body HCO3- producing metabolic acidosis (HCO3- loss exceeding H+ loss), which is exploited in metabolic and respiratory alkalosis, obstructive sleep apnea (TOC: CPAP) and familial hypo/hyperkalemic periodic paralyses (FDA approved drug: dichlorphenamide), while severe COPD is a contraindication due to predisposition to respiratory acidosis."
+  },
+  {
+   "id": "PHARM-U26-4",
+   "ch": 26,
+   "n": 4,
+   "title": "Carbonic Anhydrase Inhibitors: Effects 3 to 6",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 3 to 6 · p102",
+   "qs": [
+    "PHARM-C26-039",
+    "PHARM-C26-040",
+    "PHARM-C26-041",
+    "PHARM-C26-042",
+    "PHARM-C26-043",
+    "PHARM-C26-044",
+    "PHARM-C26-045",
+    "PHARM-C26-046",
+    "PHARM-C26-047",
+    "PHARM-C26-048",
+    "PHARM-C26-049",
+    "PHARM-C26-050",
+    "PHARM-C26-051",
+    "PHARM-C26-052",
+    "PHARM-C26-053",
+    "PHARM-C26-054",
+    "PHARM-C26-055",
+    "PHARM-C26-056"
+   ],
+   "guide": "The third effect is increased H2CO3 in urine, which makes the urine alkaline and can precipitate renal Ca++ stones; this alkalinity is used in cystinuria because cystine is ionised in alkaline urine, and topiramate and zonisamide are other drugs that precipitate renal calcium stones. The fourth effect is increased CO2 in neurons with increased GABA, causing somnolence and paresthesia, and used for short duration only because of tolerance, in catamenial epilepsy (precipitated during menstruation due to increased estrogen) and in absence seizures. The fifth effect is decreased NH4+ excretion causing hyperammonemia, which contraindicates use in liver cirrhosis (hepatic encephalopathy), and the sixth effect is increased K+ loss causing hypokalemia through increased ROMK activity."
+  },
+  {
+   "id": "PHARM-U26-5",
+   "ch": 26,
+   "n": 5,
+   "title": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF)",
+   "sec": "Carbonic Anhydrase Inhibitors: Effects 7 and 8 (Aqueous Humour and CSF) · p103",
+   "qs": [
+    "PHARM-C26-057",
+    "PHARM-C26-058",
+    "PHARM-C26-059",
+    "PHARM-C26-060",
+    "PHARM-C26-061",
+    "PHARM-C26-062",
+    "PHARM-C26-063",
+    "PHARM-C26-064",
+    "PHARM-C26-065",
+    "PHARM-C26-066",
+    "PHARM-C26-067",
+    "PHARM-C26-068",
+    "PHARM-C26-069",
+    "PHARM-C26-070"
+   ],
+   "guide": "The seventh effect is decreased aqueous production, used in acute congestive glaucoma (oral acetazolamide, with mannitol as the DOC) and in open-angle glaucoma by eye drops (DOC brinzolamide, better than beta blockers). The eighth effect is decreased CSF production, used to lower intracranial pressure as DOC in acute mountain sickness, pseudotumor cerebri and raised CSF pressure headache, and also in dural ectasia of Marfan syndrome and post lumbar puncture CSF leak. Being sulfonamide derivatives CA inhibitors can cause rash and bone marrow suppression, and weak carbonic anhydrase inhibition is also seen with loop diuretics (except bumetanide) and thiazides (except indapamide)."
+  },
+  {
+   "id": "PHARM-U26-6",
+   "ch": 26,
+   "n": 6,
+   "title": "Loop Diuretics: Site, Drugs and Relevant Physiology",
+   "sec": "Loop Diuretics: Site, Drugs and Relevant Physiology · p104",
+   "qs": [
+    "PHARM-C26-071",
+    "PHARM-C26-072",
+    "PHARM-C26-073",
+    "PHARM-C26-074",
+    "PHARM-C26-075",
+    "PHARM-C26-076",
+    "PHARM-C26-077",
+    "PHARM-C26-078",
+    "PHARM-C26-079",
+    "PHARM-C26-080",
+    "PHARM-C26-081"
+   ],
+   "guide": "Loop diuretics act on the thick ascending limb. The sulfonamide derivatives are furosemide (most common), bumetanide (most potent) and torsemide (longest acting), while ethacrynic acid is the non-sulfonamide used when a patient cannot tolerate sulfonamides and is the most ototoxic. The physiological sketch shows the Na+/K+/2Cl- transporter in the lumen of the thick ascending limb feeding medullary hyperosmolarity; potassium that is repelled by the high intracellular K+ concentration leaves positively charged ions unbalanced, so compensatory reabsorption of Ca2+ and Mg2+ occurs."
+  },
+  {
+   "id": "PHARM-U26-7",
+   "ch": 26,
+   "n": 7,
+   "title": "Loop Diuretics: Mechanism of Action",
+   "sec": "Loop Diuretics: Mechanism of Action · p104",
+   "qs": [
+    "PHARM-C26-082",
+    "PHARM-C26-083",
+    "PHARM-C26-084",
+    "PHARM-C26-085",
+    "PHARM-C26-086",
+    "PHARM-C26-087",
+    "PHARM-C26-088",
+    "PHARM-C26-089",
+    "PHARM-C26-090",
+    "PHARM-C26-091",
+    "PHARM-C26-092",
+    "PHARM-C26-093",
+    "PHARM-C26-094",
+    "PHARM-C26-095"
+   ],
+   "guide": "In the thick ascending loop, blockade of the Na+/K+/2Cl- pump lowers reabsorption of Na+/H2O, so 25% of the filtered load of Na+/H2O is lost and the drug is a potent diuretic. The fall in osmotic pressure triggers compensatory increases in uric acid reabsorption, glucose reabsorption and sympathetic nervous system activity due to the fall in blood pressure, with lipolysis raising LDL and lowering HDL. Blockade also lowers K+ reabsorption, loss of the gradient reduces Ca2+ and Mg2+ reabsorption, and in the collecting duct excreted Na+ activates H+ ATPase (H+ into urine, metabolic alkalosis) and the ROMK pump (K+ into urine, hypokalemia leading to reduced insulin release and hyperglycemia)."
+  },
+  {
+   "id": "PHARM-U26-8",
+   "ch": 26,
+   "n": 8,
+   "title": "Loop Diuretics: Effects and Uses",
+   "sec": "Loop Diuretics: Effects and Uses · p105",
+   "qs": [
+    "PHARM-C26-096",
+    "PHARM-C26-097",
+    "PHARM-C26-098",
+    "PHARM-C26-099",
+    "PHARM-C26-100",
+    "PHARM-C26-101",
+    "PHARM-C26-102",
+    "PHARM-C26-103",
+    "PHARM-C26-104",
+    "PHARM-C26-105",
+    "PHARM-C26-106",
+    "PHARM-C26-107",
+    "PHARM-C26-108",
+    "PHARM-C26-109",
+    "PHARM-C26-110",
+    "PHARM-C26-111",
+    "PHARM-C26-112",
+    "PHARM-C26-113",
+    "PHARM-C26-114",
+    "PHARM-C26-115",
+    "PHARM-C26-116",
+    "PHARM-C26-117",
+    "PHARM-C26-118",
+    "PHARM-C26-119"
+   ],
+   "guide": "Loop diuretics produce potent (high ceiling) diuresis with the mnemonic LOOP: loss of Na+ in hypernatremia, best use with low GFR (below 40) where non-responders get metolazone added on, other drug toxicities and edema (cirrhotic edema best treated by spironolactone, cerebral edema best by mannitol, plus nephrogenic edema). They are DOC in pulmonary edema with an immediate effect through prostaglandins causing indirect vasodilation and lowered preload. Their other effects are hyperuricemia (rarely symptomatic), hyperglycemia and dyslipidemia from the osmotic pressure change, and in the collecting duct calcium, magnesium, potassium and hydrogen losses with hypocalcemia (used to treat hypercalcemia), hypomagnesemia, hypokalemia and metabolic alkalosis. In the ear, Na+/K+/2Cl- blockade changes endolymph composition causing ototoxicity that is reversible more often than irreversible, is increased by the IV route (infuse below 4 mg/min) and contraindicated with other ototoxic drugs such as aminoglycosides and cisplatin."
+  }
+ ]
+}

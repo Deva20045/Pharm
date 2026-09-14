@@ -1,0 +1,2806 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C25-001",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Hypolipidemic drugs are used in:",
+   "opts": [
+    "Atherosclerotic cardiovascular disease (ASCVD)",
+    "Venous thromboembolism",
+    "Hypertensive emergency",
+    "Heart failure with reduced EF"
+   ],
+   "ans": 0,
+   "exp": "The subtitle says used in Atherosclerotic Cardiovascular Disease (ASCVD). (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-002",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The first source of lipids in the diagram is:",
+   "opts": [
+    "Food",
+    "Adipose storage",
+    "Hepatic synthesis",
+    "Peripheral metabolism"
+   ],
+   "ans": 0,
+   "exp": "The diagram numbers source 1 as Food. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-003",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The lipid components absorbed from food in the small intestine include cholesterol, bile acids and:",
+   "opts": [
+    "Triglycerides (TG)",
+    "Free fatty acids only",
+    "Ketone bodies",
+    "Phospholipids only"
+   ],
+   "ans": 0,
+   "exp": "The small intestine box lists cholesterol, TG and bile acids. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-004",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Ezetimibe acts at the intestinal epithelial cell by blocking:",
+   "opts": [
+    "NPC1L1",
+    "ACAT",
+    "MTTP",
+    "HSL"
+   ],
+   "ans": 0,
+   "exp": "The ezetimibe pill symbol sits on the NPC1L1 transporter. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-005",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "NPC1L1 stands for:",
+   "opts": [
+    "Niemann-Pick C1-like receptor",
+    "Nuclear protein C1 ligand",
+    "Non-polar cholesterol 1 lipase",
+    "Niemann-Pick carrier 1"
+   ],
+   "ans": 0,
+   "exp": "The index defines NPC1L1 as Niemann-Pick C1-like receptor. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-006",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Inside the epithelial cell, cholesterol and TG undergo esterification by:",
+   "opts": [
+    "ACAT",
+    "HSL",
+    "LPL",
+    "MTTP"
+   ],
+   "ans": 0,
+   "exp": "The epithelial cell line says esterification by ACAT. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-007",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "ACAT stands for:",
+   "opts": [
+    "Acyl Coenzyme A Transferase",
+    "Acetyl CoA Acetyl Transferase",
+    "Acyl Carnitine Acyl Transferase",
+    "Amino CoA Transaminase"
+   ],
+   "ans": 0,
+   "exp": "The index defines ACAT as Acyl Coenzyme A Transferase. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-008",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Bile acids from the small intestine return to the liver through the:",
+   "opts": [
+    "Enterohepatic circulation",
+    "Portal lymphatics",
+    "Thoracic duct",
+    "Renal tubules"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the loop from liver to duodenum to intestine as enterohepatic circulation. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-009",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Drugs acting on bile acids in the gut to block the enterohepatic circulation are:",
+   "opts": [
+    "Bile acid binding resins",
+    "Fibrates",
+    "Statins",
+    "PCSK9 inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The bile acid binding resins pill symbol is placed on the bile acid pathway. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-010",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The drug class that blocks MTTP in the liver is represented by:",
+   "opts": [
+    "Lomitapide",
+    "Evinacumab",
+    "Icosapent",
+    "Niacin"
+   ],
+   "ans": 0,
+   "exp": "The lomitapide pill symbol blocks the MTTP step in the liver diagram. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-011",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "MTTP stands for:",
+   "opts": [
+    "Microsomal Triglyceride Transport Protein",
+    "Mitochondrial Transfer Protein",
+    "Membrane Triglyceride Transporter Protein",
+    "Microsomal Trans Fatty acid Protein"
+   ],
+   "ans": 0,
+   "exp": "The index defines MTTP as microsomal Triglyceride Transport Protein. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-012",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Lipoprotein lipase (LPL) is defined in the index as:",
+   "opts": [
+    "Lipoprotein Lipase",
+    "Lipid Protein Ligand",
+    "Lysosomal Phospholipase",
+    "Low-density Protein Lipase"
+   ],
+   "ans": 0,
+   "exp": "The index lists LPL: Lipoprotein Lipase. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-013",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "AngPTL3 is described in the index as a physiological protein that:",
+   "opts": [
+    "Blocks LPL",
+    "Activates LPL",
+    "Synthesises LPL",
+    "Degrades HDL"
+   ],
+   "ans": 0,
+   "exp": "The index says AngPTL3 is a physiological protein blocking LPL. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-014",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "AngPTL3 stands for:",
+   "opts": [
+    "Angiopoietin Like Protein - 3",
+    "Angiotensin Like Peptide - 3",
+    "Angiotensinogen Precursor - 3",
+    "Angiogenic Lipid Protein - 3"
+   ],
+   "ans": 0,
+   "exp": "The index spells AngPTL3 as Angiopoietin Like Protein - 3. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-015",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The monoclonal antibody that blocks AngPTL-3 is:",
+   "opts": [
+    "Evinacumab",
+    "Alirocumab",
+    "Evolocumab",
+    "Lomitapide"
+   ],
+   "ans": 0,
+   "exp": "The evinacumab pill symbol blocks AngPTL-3 on the diagram. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-016",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The cholesterol content of VLDL is summarised in the index as VLDL:",
+   "opts": [
+    "TG & cholesterol",
+    "Cholesterol only",
+    "TG only",
+    "Phospholipid & cholesterol"
+   ],
+   "ans": 0,
+   "exp": "The index says VLDL: TG & cholesterol. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-017",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The second source of lipids is the storage form in:",
+   "opts": [
+    "Adipose tissue",
+    "Bone marrow",
+    "Skeletal muscle",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Source 2 is labelled storage form in adipose tissue. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-018",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "In adipose tissue, the drug shown blocking the adipocyte pathway is:",
+   "opts": [
+    "Niacin",
+    "Fibrates",
+    "Ezetimibe",
+    "Bempedoic acid"
+   ],
+   "ans": 0,
+   "exp": "The niacin pill symbol blocks the adipocyte pathway. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-019",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "In the fasting state, adipocytes release free fatty acids through the action of:",
+   "opts": [
+    "Hormone sensitive lipase (HSL)",
+    "Lipoprotein lipase (LPL)",
+    "ACAT",
+    "MTTP"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels fasting state then HSL. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-020",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "HSL stands for:",
+   "opts": [
+    "Hormone Sensitive Lipase",
+    "Hepatic Steroid Lipase",
+    "High Solubility Lipase",
+    "Hydroxy Sterol Lipase"
+   ],
+   "ans": 0,
+   "exp": "The index defines HSL as Hormone Sensitive Lipase. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-021",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Free fatty acids released from adipose tissue are used to form TG and:",
+   "opts": [
+    "ATP",
+    "Cholesterol",
+    "Bile acids",
+    "Ketones only"
+   ],
+   "ans": 0,
+   "exp": "The adipose branch shows FFA splitting to TG and ATP. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-022",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The third source of lipids is synthesis in the:",
+   "opts": [
+    "Liver",
+    "Brain",
+    "Kidney",
+    "Adipocyte"
+   ],
+   "ans": 0,
+   "exp": "Source 3 is labelled synthesis in liver. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-023",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "In the liver diagram, proteins together with bile acid and TG are used for:",
+   "opts": [
+    "VLDL synthesis",
+    "Chylomicron storage",
+    "LDL receptor synthesis",
+    "Bile duct secretion"
+   ],
+   "ans": 0,
+   "exp": "The liver box labels proteins with VLDL synthesis. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-024",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Chylomicrons and VLDL formed from the intestine and liver are shown entering the:",
+   "opts": [
+    "Blood vessel",
+    "Bile duct",
+    "Lymph node",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "The diagram arrow leads to the blood vessel containing VLDL and cm. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-025",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "The remnants of VLDL and chylomicrons are:",
+   "opts": [
+    "Removed by liver",
+    "Removed by kidney",
+    "Excreted in urine",
+    "Converted to bile acids directly"
+   ],
+   "ans": 0,
+   "exp": "The bottom arrow of the diagram says remnants of VLDL and Cm are removed by liver. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-026",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Removal of VLDL and chylomicron remnants by the liver leads to decreased:",
+   "opts": [
+    "VLDL",
+    "HDL",
+    "LDL particles",
+    "ATP"
+   ],
+   "ans": 0,
+   "exp": "The first outcome of hepatic removal is down VLDL. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-027",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Removal of remnants also decreases:",
+   "opts": [
+    "Chylomicrons",
+    "LDL particles",
+    "Bile acids",
+    "ATP"
+   ],
+   "ans": 0,
+   "exp": "The second outcome is down chylomicrons. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-028",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "Removal of remnants decreases TG and:",
+   "opts": [
+    "HDL",
+    "LDL particles",
+    "Bile acids",
+    "Cholesterol synthesis"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows down TG, down HDL, and finally down LDL-particles. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-029",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "A drug symbol placed on the blood vessel/liver cell that increases lipolysis activity is:",
+   "opts": [
+    "Fibrates",
+    "Ezetimibe",
+    "Niacin",
+    "Bempedoic acid"
+   ],
+   "ans": 0,
+   "exp": "The fibrates pill symbol is placed next to lipolysis activity. (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-030",
+   "sec": "Sources of Lipids and the Physiology Diagram",
+   "page": 94,
+   "q": "In the liver cell diagram, cholesterol plus TG is directed to storage or to:",
+   "opts": [
+    "Generate ATP for heart",
+    "Form bile salts",
+    "Form ketone bodies",
+    "Excrete in urine"
+   ],
+   "ans": 0,
+   "exp": "The liver cell shows storage (breast/adipose) and generate ATP (heart). (Book p94)"
+  },
+  {
+   "id": "PHARM-C25-031",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "The cholesterol synthesis pathway begins when citrate is converted to acetyl CoA by:",
+   "opts": [
+    "ATP citrate lyase",
+    "HMG CoA reductase",
+    "ACAT",
+    "LPL"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels ATP citrate lyase between citrate and acetyl CoA. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-032",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "ATP citrate lyase is blocked by:",
+   "opts": [
+    "Bempedoic acid",
+    "Statins",
+    "Ezetimibe",
+    "Niacin"
+   ],
+   "ans": 0,
+   "exp": "The bempedoic acid pill symbol blocks the ATP citrate lyase step. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-033",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "In the synthetic cascade, acetyl CoA is converted to:",
+   "opts": [
+    "HMG CoA",
+    "Mevalonic acid",
+    "Cholesterol",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The cascade goes acetyl CoA to HMG CoA. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-034",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "HMG CoA is converted to mevalonic acid by:",
+   "opts": [
+    "HMG CoA reductase",
+    "ATP citrate lyase",
+    "Lipoprotein lipase",
+    "ACAT"
+   ],
+   "ans": 0,
+   "exp": "The enzyme label between HMG CoA and mevalonic acid is HMG CoA reductase. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-035",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "HMG CoA reductase is blocked by:",
+   "opts": [
+    "Statins",
+    "Bempedoic acid",
+    "Bile acid binding resins",
+    "Ezetimibe"
+   ],
+   "ans": 0,
+   "exp": "The statin pill symbol blocks HMG CoA reductase. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-036",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "The end products of cholesterol in this pathway are bile acids and:",
+   "opts": [
+    "Steroids",
+    "Ketone bodies",
+    "ATP",
+    "Bile pigments"
+   ],
+   "ans": 0,
+   "exp": "The cascade ends at cholesterol then bile acids and steroids. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-037",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Which four groups are shown upregulating synthesis of the LDL receptor?",
+   "opts": [
+    "Statins, bempedoic acid, ezetimibe, bile acid binding resins",
+    "Statins, fibrates, niacin, icosapent",
+    "Ezetimibe, PCSK9 inhibitors, inclisiran, evinacumab",
+    "Bempedoic acid, niacin, fibrates, resins"
+   ],
+   "ans": 0,
+   "exp": "The (+) bracket on the diagram lists all four drug groups upregulating LDL receptor synthesis. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-038",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Plasma LDL entering the cell is degraded to:",
+   "opts": [
+    "Cholesterol",
+    "Bile acids",
+    "Mevalonic acid",
+    "TG"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels plasma LDL then degrades then cholesterol. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-039",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "PCSK9 acts on the LDL receptor by:",
+   "opts": [
+    "Promoting its degradation",
+    "Increasing its synthesis",
+    "Blocking its recycling only",
+    "Converting it to HDL"
+   ],
+   "ans": 0,
+   "exp": "The diagram ties PCSK9 to degradation of the LDL receptor. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-040",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "The monoclonal antibodies that block PCSK9 are:",
+   "opts": [
+    "Alirocumab and evolocumab",
+    "Evinacumab and lomitapide",
+    "Ezetimibe and bempedoic acid",
+    "Inclisiran and icosapent"
+   ],
+   "ans": 0,
+   "exp": "The diagram names alirocumab and evolocumab blocking PCSK9. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-041",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Inclisiran blocks the synthesis of:",
+   "opts": [
+    "PCSK9",
+    "LDL receptor",
+    "HMG CoA reductase",
+    "AngPTL-3"
+   ],
+   "ans": 0,
+   "exp": "The inclisiran arrow is labelled blocks synthesis, pointing to PCSK9. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-042",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Inclisiran belongs to which drug class?",
+   "opts": [
+    "Small interfering RNA antagonists",
+    "Monoclonal antibodies",
+    "Bile acid sequestrants",
+    "Oral PPAR agonists"
+   ],
+   "ans": 0,
+   "exp": "The drug list on p96 labels inclisiran as small interfering RNA antagonists. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-043",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Evinacumab blocks AngPTL-3, which leads to blockade of:",
+   "opts": [
+    "LPL",
+    "PCSK9",
+    "HMG CoA reductase",
+    "NPC1L1"
+   ],
+   "ans": 0,
+   "exp": "The note says evinacumab blocks AngPTL-3, which blocks LPL. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-044",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "The net effect of evinacumab is decreased:",
+   "opts": [
+    "LDL cholesterol",
+    "HDL cholesterol",
+    "Triglycerides only",
+    "Lp(a)"
+   ],
+   "ans": 0,
+   "exp": "The evinacumab note ends with down LDL cholesterol. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-045",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Evinacumab is used in the treatment of:",
+   "opts": [
+    "Familial hypercholesterolemia (FHC)",
+    "Familial hypertriglyceridemia",
+    "Type III hyperlipoproteinemia",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "The evinacumab note says Rx of FHC. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-046",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "Lomitapide is used for:",
+   "opts": [
+    "Familial hypercholesterolemia (FHC)",
+    "Familial hypertriglyceridemia",
+    "Chylomicronemia syndrome",
+    "Nephrotic syndrome"
+   ],
+   "ans": 0,
+   "exp": "The lomitapide note says Rx of familial hypercholesterolemia (FHC). (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-047",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "page": 95,
+   "q": "The classification of hypolipidemic drugs based on action divides them into those lowering lipoprotein A, LDL and:",
+   "opts": [
+    "TG",
+    "HDL",
+    "ATP",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The classification branches are down Lp(a), down TG and down LDL. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-048",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin is described as:",
+   "opts": [
+    "Highly toxic and not preferred",
+    "Safest hypolipidemic",
+    "First-line for LDL",
+    "DOC in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "The niacin line says highly toxic and not preferred. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-049",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "The first step of niacin action is decreased:",
+   "opts": [
+    "FFA",
+    "TG",
+    "VLDL",
+    "LDL"
+   ],
+   "ans": 0,
+   "exp": "The niacin MOA chain starts with down FFA. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-050",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin lowers TG, which lowers VLDL and finally:",
+   "opts": [
+    "LDL",
+    "HDL",
+    "Lp(a)",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The chain reads down FFA, down TG, down VLDL, down LDL. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-051",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin is the drug used to lower:",
+   "opts": [
+    "Lipoprotein A (Lp-a)",
+    "Triglycerides only",
+    "LDL only",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "Niacin is grouped under the down lipoprotein-A branch. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-052",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin is used for Lp(a) lowering along with:",
+   "opts": [
+    "Statins and ezetimibe",
+    "Fibrates and icosapent",
+    "Resins and niacin",
+    "PCSK9 inhibitors alone"
+   ],
+   "ans": 0,
+   "exp": "The niacin use line says down Lp-a with Rx of statins + ezetimibe. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-053",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin produces the maximum increase in:",
+   "opts": [
+    "HDL",
+    "LDL",
+    "VLDL",
+    "Lp(a)"
+   ],
+   "ans": 0,
+   "exp": "The use line says up HDL (obsolete): maximum. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-054",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "The maximum HDL-raising effect is seen with:",
+   "opts": [
+    "Niacin > statin",
+    "Statin > niacin",
+    "Fibrates > niacin",
+    "Resins > statin"
+   ],
+   "ans": 0,
+   "exp": "The niacin use line specifies maximum (niacin > statin). (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-055",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "The HDL-raising use of niacin is labelled:",
+   "opts": [
+    "Obsolete",
+    "First line",
+    "Life saving",
+    "DOC in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "The HDL use is annotated obsolete. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-056",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "The most serious toxicity of niacin is:",
+   "opts": [
+    "Potent hepatotoxicity",
+    "Nephrotoxicity",
+    "Ototoxicity",
+    "Bone marrow suppression"
+   ],
+   "ans": 0,
+   "exp": "The side effect list begins with potent hepatotoxicity. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-057",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Niacin causes insulin resistance leading to:",
+   "opts": [
+    "Diabetes mellitus",
+    "Hypoglycemia",
+    "Diabetic ketoacidosis",
+    "Insulinoma"
+   ],
+   "ans": 0,
+   "exp": "The side effect line says insulin resistance to diabetes mellitus. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-058",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Flushing with niacin is caused by increased release of:",
+   "opts": [
+    "Prostaglandins (PGs)",
+    "Histamine",
+    "Bradykinin",
+    "Substance P"
+   ],
+   "ans": 0,
+   "exp": "The flushing mechanism says up release of prostaglandins. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-059",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Prostaglandin release in niacin flushing causes:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Bronchoconstriction",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The flushing mechanism ends in vasodilation. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-060",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "The DOC for niacin-induced flushing is:",
+   "opts": [
+    "Aspirin",
+    "Paracetamol",
+    "Ibuprofen only",
+    "Ondansetron"
+   ],
+   "ans": 0,
+   "exp": "The flushing line says DOC for Rx: aspirin. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-061",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Aspirin relieves niacin flushing by blocking:",
+   "opts": [
+    "Cyclooxygenase",
+    "Lipoxygenase",
+    "Phospholipase A2",
+    "Prostaglandin receptors"
+   ],
+   "ans": 0,
+   "exp": "The annotation says aspirin blocks cyclooxygenase. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-062",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug",
+   "page": 95,
+   "q": "Blocking cyclooxygenase with aspirin decreases the synthesis of:",
+   "opts": [
+    "PGs (prostaglandins)",
+    "Leukotrienes",
+    "Thromboxane only",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The chain ends at down synthesis of PGs. (Book p95)"
+  },
+  {
+   "id": "PHARM-C25-063",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The drugs listed under decreased triglycerides are omega-3 fatty acids, fibrates and:",
+   "opts": [
+    "Icosapent",
+    "Ezetimibe",
+    "Niacin",
+    "Bempedoic acid"
+   ],
+   "ans": 0,
+   "exp": "The TG branch lists omega-3 fatty acids, icosapent and fibrates. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-064",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fibrates are divided into halogenated and:",
+   "opts": [
+    "Non-halogenated",
+    "Synthetic",
+    "Lipophilic",
+    "Renally excreted"
+   ],
+   "ans": 0,
+   "exp": "The fibrate branch splits into halogenated and non-halogenated. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-065",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Which of the following is a halogenated fibrate?",
+   "opts": [
+    "Clofibrate",
+    "Gemfibrozil",
+    "Fenofibrate only",
+    "Bezafibrate only"
+   ],
+   "ans": 0,
+   "exp": "The halogenated list gives clofibrate, bezafibrate and fenofibrate. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-066",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The non-halogenated fibrate listed is:",
+   "opts": [
+    "Gemfibrozil",
+    "Clofibrate",
+    "Bezafibrate",
+    "Fenofibrate"
+   ],
+   "ans": 0,
+   "exp": "The non-halogenated branch gives gemfibrozil. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-067",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Icosapent is a derivative of:",
+   "opts": [
+    "Omega-3 fatty acids",
+    "Omega-6 fatty acids",
+    "Bile acids",
+    "Statins"
+   ],
+   "ans": 0,
+   "exp": "The icosapent line says derivative of omega-3 fatty acids. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-068",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The mechanism of icosapent is blockade of the release of:",
+   "opts": [
+    "VLDL by liver",
+    "LDL by liver",
+    "Chylomicrons by intestine",
+    "Bile acids by gallbladder"
+   ],
+   "ans": 0,
+   "exp": "The icosapent MOA says blocks release of VLDL by liver. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-069",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The use of icosapent is:",
+   "opts": [
+    "Rx of familial hypertriglyceridemia",
+    "Rx of familial hypercholesterolemia",
+    "Rx of nephrotic syndrome",
+    "Rx of gout"
+   ],
+   "ans": 0,
+   "exp": "The icosapent use is Rx of familial hypertriglyceridemia. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-070",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fibrates act by stimulating:",
+   "opts": [
+    "PPAR-alpha",
+    "PPAR-gamma",
+    "PCSK9",
+    "NPC1L1"
+   ],
+   "ans": 0,
+   "exp": "The fibrate MOA starts with stimulate PPAR-alpha. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-071",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "PPAR-alpha stands for:",
+   "opts": [
+    "Peroxisome Proliferator Activated Receptor-alpha",
+    "Protein Phosphorylation Activated Receptor-alpha",
+    "Peripheral Protein Absorption Receptor-alpha",
+    "Peroxisomal Protein Anabolic Receptor-alpha"
+   ],
+   "ans": 0,
+   "exp": "The page expands PPAR-alpha as Peroxisome Proliferator Activated Receptor-alpha. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-072",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Stimulation of PPAR-alpha increases synthesis of LPL in the:",
+   "opts": [
+    "Capillary endothelium",
+    "Hepatocyte cytosol",
+    "Adipocyte nucleus",
+    "Renal tubule"
+   ],
+   "ans": 0,
+   "exp": "The MOA arrow says up LPL synthesis in capillary endothelium. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-073",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fibrates decrease chylomicrons, TG and:",
+   "opts": [
+    "VLDL",
+    "HDL",
+    "Bile acids",
+    "ATP"
+   ],
+   "ans": 0,
+   "exp": "The outcome branch lists down chylomicrons, down VLDL, down TG. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-074",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The effect of fibrates on LDL is described as:",
+   "opts": [
+    "Insignificant",
+    "Marked",
+    "Maximum",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "The fibrate branch says down LDL (insignificant). (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-075",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fibrates decrease LDL particles (LDL-P) while LDL cholesterol:",
+   "opts": [
+    "Increases slightly",
+    "Decreases markedly",
+    "Stays unchanged",
+    "Doubles"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch says down LDL particles (LDL-P) and up LDL cholesterol slightly. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-076",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "A listed side effect of fibrates is:",
+   "opts": [
+    "Myopathy",
+    "Ototoxicity",
+    "Optic neuritis",
+    "Nephrogenic diabetes insipidus"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives myopathy and gall stones. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-077",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Gall stones (cholelithiasis) are maximum with which fibrate?",
+   "opts": [
+    "Clofibrate",
+    "Gemfibrozil",
+    "Fenofibrate",
+    "Bezafibrate"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says gall stones maximum with clofibrate. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-078",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fibrates are DOC in hypertriglyceridemia, type III hyperlipoproteinemia and:",
+   "opts": [
+    "Chylomicronemia syndrome",
+    "Familial hypercholesterolemia",
+    "Nephrotic syndrome",
+    "Metabolic syndrome only"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives hypertriglyceridemia, chylomicronemia syndrome and type III hyperlipoproteinemia. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-079",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The fibrate used for gout is:",
+   "opts": [
+    "Fenofibrate",
+    "Gemfibrozil",
+    "Clofibrate",
+    "Bezafibrate"
+   ],
+   "ans": 0,
+   "exp": "The use line says Rx of gout: fenofibrate. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-080",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Fenofibrate acts on uric acid similar to which drug?",
+   "opts": [
+    "Febuxostat",
+    "Allopurinol",
+    "Colchicine",
+    "Probenecid"
+   ],
+   "ans": 0,
+   "exp": "The gout line says similar to febuxostat. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-081",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "The uric acid effect of fenofibrate is to:",
+   "opts": [
+    "Decrease uric acid",
+    "Increase uric acid",
+    "Have no effect",
+    "Increase urate stones"
+   ],
+   "ans": 0,
+   "exp": "The gout line ends with down uric acid. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-082",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "page": 96,
+   "q": "Besides fibrates, the other drug noted to cause cholelithiasis is:",
+   "opts": [
+    "Octreotide",
+    "Ondansetron",
+    "Omeprazole",
+    "Olanzapine"
+   ],
+   "ans": 0,
+   "exp": "The note says drugs causing cholelithiasis: fibrates, octreotide. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-083",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The LDL-lowering indication list under ASCVD includes angina, myocardial infarction and:",
+   "opts": [
+    "Stroke",
+    "Gout",
+    "Retinopathy",
+    "Nephropathy"
+   ],
+   "ans": 0,
+   "exp": "The indication line lists angina/myocardial infarction/stroke. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-084",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The other LDL-lowering indication is patients with:",
+   "opts": [
+    "Raised LDL",
+    "Low LDL",
+    "Raised HDL",
+    "Low TG"
+   ],
+   "ans": 0,
+   "exp": "The second indication bullet says in patients with up LDL. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-085",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The DOC among LDL-lowering drugs is:",
+   "opts": [
+    "Statins",
+    "PCSK9 inhibitors",
+    "Inclisiran",
+    "Bile acid binding resins"
+   ],
+   "ans": 0,
+   "exp": "The drug flowchart marks statins (DOC). (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-086",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "Bempedoic acid is described as:",
+   "opts": [
+    "Affordable oral drug",
+    "Intravenous antibody",
+    "siRNA",
+    "Bile acid sequestrant"
+   ],
+   "ans": 0,
+   "exp": "The bempedoic acid label says affordable oral drug. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-087",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "Ezetimibe lowers plasma LDL by first blocking:",
+   "opts": [
+    "NPC1L1",
+    "PCSK9",
+    "HMG CoA reductase",
+    "MTTP"
+   ],
+   "ans": 0,
+   "exp": "The ezetimibe box says blocks NPC1L1. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-088",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "Blocking NPC1L1 with ezetimibe decreases:",
+   "opts": [
+    "Cholesterol absorption",
+    "Cholesterol synthesis",
+    "Bile acid reabsorption",
+    "TG synthesis"
+   ],
+   "ans": 0,
+   "exp": "The ezetimibe flow says down cholesterol absorption. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-089",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The step after decreased cholesterol absorption with ezetimibe is:",
+   "opts": [
+    "Upregulation of LDL receptors",
+    "Downregulation of LDL receptors",
+    "Blockade of PCSK9",
+    "Blockade of LPL"
+   ],
+   "ans": 0,
+   "exp": "The ezetimibe flow says upregulate LDL receptors. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-090",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The final effect of ezetimibe in the flowchart is decreased:",
+   "opts": [
+    "Plasma LDL",
+    "Plasma HDL",
+    "Plasma TG only",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The ezetimibe chain ends at down plasma LDL. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-091",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The PCSK9 inhibitors in the flowchart are given as:",
+   "opts": [
+    "I/v monoclonal antibodies",
+    "Oral tablets",
+    "Subcutaneous siRNA",
+    "Inhaled powder"
+   ],
+   "ans": 0,
+   "exp": "The PCSK9 inhibitor column says i/v monoclonal antibodies. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-092",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "The two PCSK9 monoclonal antibodies named are:",
+   "opts": [
+    "Evolocumab and alirocumab",
+    "Evinacumab and lomitapide",
+    "Ezetimibe and bempedoic acid",
+    "Inclisiran and icosapent"
+   ],
+   "ans": 0,
+   "exp": "The PCSK9 column names evolocumab and alirocumab. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-093",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "Inclisiran is classified as:",
+   "opts": [
+    "Small interfering RNA antagonists",
+    "Monoclonal antibody",
+    "Bile acid sequestrant",
+    "Fibrate"
+   ],
+   "ans": 0,
+   "exp": "The inclisiran column says small interfering RNA antagonists. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-094",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "page": 96,
+   "q": "Inclisiran acts by blocking synthesis of:",
+   "opts": [
+    "PCSK9",
+    "LDL receptor",
+    "NPC1L1",
+    "LPL"
+   ],
+   "ans": 0,
+   "exp": "The inclisiran column says block synthesis of PCSK9. (Book p96)"
+  },
+  {
+   "id": "PHARM-C25-095",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The bile acid binding resins listed are cholestyramine, colestipol and:",
+   "opts": [
+    "Colesevelam",
+    "Colchicine",
+    "Colestilan only",
+    "Colecalciferol"
+   ],
+   "ans": 0,
+   "exp": "The drug list gives cholestyramine, colesevelam and colestipol. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-096",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Which resin is preferred and why?",
+   "opts": [
+    "Colesevelam, due to less side effects",
+    "Cholestyramine, due to cost",
+    "Colestipol, due to potency",
+    "Colesevelam, due to IV route"
+   ],
+   "ans": 0,
+   "exp": "The drug list marks colesevelam preferred due to less s/e. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-097",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The mechanism of resins begins by inhibiting the:",
+   "opts": [
+    "Enterohepatic circulation",
+    "Cholesterol synthesis pathway",
+    "LPL activity",
+    "PCSK9 synthesis"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says inhibit enterohepatic circulation. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-098",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Inhibition of enterohepatic circulation by resins first decreases:",
+   "opts": [
+    "Bile acid in liver",
+    "Cholesterol in liver",
+    "LDL receptors",
+    "Plasma LDL"
+   ],
+   "ans": 0,
+   "exp": "The MOA cascade begins down bile acid in liver. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-099",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "After bile acid falls, the cascade raises synthesis of:",
+   "opts": [
+    "Cholesterol",
+    "Bile acids",
+    "Triglycerides",
+    "ATP"
+   ],
+   "ans": 0,
+   "exp": "The next step in the cascade is up synthesis of cholesterol. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-100",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The resin cascade proceeds to increased demand for cholesterol and then increased demand for:",
+   "opts": [
+    "LDL",
+    "HDL",
+    "VLDL",
+    "TG"
+   ],
+   "ans": 0,
+   "exp": "The cascade says up demand for cholesterol then up demand for LDL. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-101",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The step after increased LDL demand is increased:",
+   "opts": [
+    "LDL receptors",
+    "LDL particles",
+    "Bile acid reabsorption",
+    "LPL activity"
+   ],
+   "ans": 0,
+   "exp": "The cascade continues up LDL receptors. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-102",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The final step of the resin MOA is decreased:",
+   "opts": [
+    "Plasma LDL",
+    "Plasma HDL",
+    "Bile acid excretion",
+    "Cholesterol synthesis"
+   ],
+   "ans": 0,
+   "exp": "The cascade ends at down plasma LDL. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-103",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "A listed GI side effect of resins is:",
+   "opts": [
+    "Diarrhea/bloating",
+    "Constipation only",
+    "Hematemesis",
+    "Melena"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says GI upset: diarrhea/bloating. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-104",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Resins cause which lipid abnormality as a side effect?",
+   "opts": [
+    "Hypertriglyceridemia",
+    "Hypotriglyceridemia",
+    "Hypercholesterolemia",
+    "Low HDL"
+   ],
+   "ans": 0,
+   "exp": "The S/E list includes hypertriglyceridemia. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-105",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The acid-base side effect of resins is:",
+   "opts": [
+    "Hyperchloremic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory acidosis",
+    "Hypernatremic acidosis"
+   ],
+   "ans": 0,
+   "exp": "The S/E list includes hyperchloremic alkalosis. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-106",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Resins decrease which fat-soluble vitamins?",
+   "opts": [
+    "E/D/A/K",
+    "B1/B6/B12",
+    "C and folate",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives down vitamin E/D/A/K (fat soluble vitamins). (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-107",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "A clinically important interaction of resins is decreased:",
+   "opts": [
+    "Absorption of other drugs",
+    "Absorption of water",
+    "Hepatic metabolism",
+    "Renal excretion"
+   ],
+   "ans": 0,
+   "exp": "The S/E list includes down absorption of other drugs. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-108",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Resins are DOC in pregnancy and:",
+   "opts": [
+    "Children",
+    "Elderly",
+    "Diabetics",
+    "Renal failure"
+   ],
+   "ans": 0,
+   "exp": "The uses line says DOC in pregnancy and children. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-109",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Resins are described in pregnancy and children as:",
+   "opts": [
+    "Safe and efficacious",
+    "Contraindicated",
+    "Second line",
+    "Not studied"
+   ],
+   "ans": 0,
+   "exp": "The uses line says safe and efficacious. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-110",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Regarding pregnancy, how many hypolipidemics are contraindicated?",
+   "opts": [
+    "All except bile acid binding resins",
+    "None",
+    "Only statins",
+    "Only fibrates"
+   ],
+   "ans": 0,
+   "exp": "The note box says all hypolipidemics C/I in pregnancy except bile acid binding resins. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-111",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "The maximum LDL reduction of 70% is achieved by:",
+   "opts": [
+    "PCSK9 inhibitors",
+    "Statins",
+    "Inclisiran",
+    "Others"
+   ],
+   "ans": 0,
+   "exp": "The note ranks PCSK9 inhibitors (70%) highest. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-112",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "According to the same note, statins lower LDL by about:",
+   "opts": [
+    "60%",
+    "70%",
+    "50%",
+    "15-25%"
+   ],
+   "ans": 0,
+   "exp": "The ranking gives statins 60%. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-113",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Inclisiran lowers LDL by about:",
+   "opts": [
+    "50%",
+    "60%",
+    "70%",
+    "15-25%"
+   ],
+   "ans": 0,
+   "exp": "The ranking gives inclisiran 50%. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-114",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Other hypolipidemic drugs lower LDL by about:",
+   "opts": [
+    "15-25%",
+    "30-40%",
+    "50%",
+    "70%"
+   ],
+   "ans": 0,
+   "exp": "The ranking ends with others (15-25%). (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-115",
+   "sec": "Bile Acid Binding Resins",
+   "page": 97,
+   "q": "Preference for prescription favours statins over PCSK9 inhibitors because statins are:",
+   "opts": [
+    "Oral and low cost",
+    "Not oral and low cost",
+    "IV and high cost",
+    "Oral and high cost"
+   ],
+   "ans": 0,
+   "exp": "The preference note says statins (oral, low cost) over PCSK9 inhibitors (not oral, high cost). (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-116",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "The life-saving hypolipidemic effect of statins is mediated by blocking:",
+   "opts": [
+    "HMG-CoA reductase",
+    "ATP citrate lyase",
+    "Lipoprotein lipase",
+    "ACAT"
+   ],
+   "ans": 0,
+   "exp": "The statin MOA says block HMG-CoA reductase. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-117",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "HMG-CoA reductase shows maximum activity at:",
+   "opts": [
+    "Night",
+    "Morning",
+    "Midday",
+    "All times equally"
+   ],
+   "ans": 0,
+   "exp": "The statin MOA annotates maximum activity at night. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-118",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "The lipid effects of statins include decreased LDL, VLDL and:",
+   "opts": [
+    "TG",
+    "HDL",
+    "Lp-alpha",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The statin arrow lists down LDL, down VLDL, down TG. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-119",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "Statins increase HDL and:",
+   "opts": [
+    "Lp-alpha",
+    "LDL particles",
+    "Chylomicrons",
+    "Bile acids"
+   ],
+   "ans": 0,
+   "exp": "The arrow pair lists up HDL, up Lp-alpha. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-120",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "Pleiotropic effects of statins are also called:",
+   "opts": [
+    "Non-hypolipidemic effects",
+    "Hypolipidemic effects",
+    "Anticoagulant-only effects",
+    "Diuretic effects"
+   ],
+   "ans": 0,
+   "exp": "The section is titled pleiotropic (non-hypolipidemic) effects. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-121",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "The vasodilator effect of statins is due to increased release of:",
+   "opts": [
+    "Nitric oxide",
+    "Prostacyclin only",
+    "Bradykinin",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "The pleiotropic list says vasodilator d/t up release of nitric oxide. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-122",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "Which of the following is a pleiotropic effect of statins on platelets?",
+   "opts": [
+    "Anti-aggregant effect",
+    "Pro-aggregant effect",
+    "Thrombocytopenia",
+    "Platelet storage defect"
+   ],
+   "ans": 0,
+   "exp": "The pleiotropic list begins with anti-aggregant. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-123",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "The coagulation-related pleiotropic effect of statins is:",
+   "opts": [
+    "Anti-coagulant effect",
+    "Pro-coagulant effect",
+    "Fibrinolytic block",
+    "Vitamin K antagonism"
+   ],
+   "ans": 0,
+   "exp": "The pleiotropic list includes anti-coagulant. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-124",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "Besides being an antioxidant, the other anti-inflammatory-related pleiotropic effect is:",
+   "opts": [
+    "Stabilisation of atherosclerotic plaque",
+    "Plaque rupture",
+    "Plaque calcification",
+    "Plaque haemorrhage"
+   ],
+   "ans": 0,
+   "exp": "The pleiotropic list ends with atherosclerotic plaque stabilization. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-125",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "page": 97,
+   "q": "The pleiotropic effect of statins opposing free radicals is:",
+   "opts": [
+    "Antioxidant effect",
+    "Oxidant effect",
+    "Lipid peroxidation",
+    "Xanthine oxidase activation"
+   ],
+   "ans": 0,
+   "exp": "Antioxidant is listed among the pleiotropic effects. (Book p97)"
+  },
+  {
+   "id": "PHARM-C25-126",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The DOC use of statins is:",
+   "opts": [
+    "Type II hyperlipoproteinemia",
+    "Type I hyperlipoproteinemia",
+    "Type III hyperlipoproteinemia",
+    "Chylomicronemia syndrome"
+   ],
+   "ans": 0,
+   "exp": "The uses line says DOC: Type II hyperlipoproteinemia. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-127",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Primary ASCVD prophylaxis with statins applies to patients with no prior attack but:",
+   "opts": [
+    "Raised risk due to up LDL/DM",
+    "Prior stroke",
+    "Prior angina",
+    "Prior MI"
+   ],
+   "ans": 0,
+   "exp": "The primary prophylaxis bullet says no h/o prior attack but up risk of up LDL/DM. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-128",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Primary prophylaxis also covers a history of:",
+   "opts": [
+    "Familial hypercholesterolemia",
+    "Familial hypertriglyceridemia",
+    "Nephrotic syndrome",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "The primary bullet lists h/o familial hypercholesterolemia. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-129",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Secondary ASCVD prophylaxis with statins applies when there is a history of angina, MI or:",
+   "opts": [
+    "Stroke",
+    "Gout",
+    "Retinopathy",
+    "Nephropathy"
+   ],
+   "ans": 0,
+   "exp": "The secondary bullet says h/o angina/MI/stroke present. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-130",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The route of administration of statins is:",
+   "opts": [
+    "Oral with good absorption",
+    "IV only",
+    "Subcutaneous",
+    "Transdermal"
+   ],
+   "ans": 0,
+   "exp": "The absorption line says oral (good absorption). (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-131",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Hepatic uptake of statins is mediated by:",
+   "opts": [
+    "OATP1B1",
+    "NPC1L1",
+    "PCSK9",
+    "MTTP"
+   ],
+   "ans": 0,
+   "exp": "The absorption line says hepatic uptake by OATP1B1. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-132",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "OATP1B1 stands for:",
+   "opts": [
+    "Organic anion transporter",
+    "Organic cation transporter",
+    "Oligopeptide transporter",
+    "Osmotic ATP pump"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis expands OATP1B1 as organic anion transporter. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-133",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Hepatic uptake of statins affects cholesterol synthesis in the:",
+   "opts": [
+    "Liver",
+    "Intestine",
+    "Adipocyte",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "The sub-bullet says affects cholesterol synthesis in liver. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-134",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The two drugs that block OATP1B1 and produce statin toxicity are:",
+   "opts": [
+    "Gemfibrozil and clarithromycin",
+    "Fenofibrate and azithromycin",
+    "Ezetimibe and erythromycin",
+    "Icosapent and doxycycline"
+   ],
+   "ans": 0,
+   "exp": "The note lists OATP1B1 blocked by gemfibrozil and clarithromycin. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-135",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Blockade of OATP1B1 leads to:",
+   "opts": [
+    "Statin toxicity",
+    "Reduced statin levels",
+    "Increased statin efficacy",
+    "Reduced myopathy risk"
+   ],
+   "ans": 0,
+   "exp": "The note says blockade leads to statin toxicity. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-136",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Clarithromycin increases statin toxicity by blocking glucuronidation and:",
+   "opts": [
+    "CYP3A4",
+    "CYP2C9",
+    "OATP1B1 only",
+    "P-glycoprotein only"
+   ],
+   "ans": 0,
+   "exp": "The note lists clarithromycin blocking glucuronidation and CYP3A4. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-137",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Phase I metabolism of statins occurs through CYP3A4 for:",
+   "opts": [
+    "All statins except fluvastatin, rosuvastatin and pravastatin",
+    "All statins without exception",
+    "Only lipophilic statins",
+    "Only hydrophilic statins"
+   ],
+   "ans": 0,
+   "exp": "The phase I line says all statins are metabolized by CYP3A4 except those listed. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-138",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Fluvastatin and rosuvastatin are metabolized by:",
+   "opts": [
+    "CYP2C9",
+    "CYP3A4",
+    "CYP2D6",
+    "CYP1A2"
+   ],
+   "ans": 0,
+   "exp": "The bracket says fluvastatin and rosuvastatin are metabolized by CYP2C9. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-139",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Pravastatin is handled by:",
+   "opts": [
+    "Excretion unchanged",
+    "CYP3A4 metabolism",
+    "CYP2C9 metabolism",
+    "Glucuronidation only"
+   ],
+   "ans": 0,
+   "exp": "The pravastatin line says excreted unchanged. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-140",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Statins safe to use with CYP3A4 inhibitors are:",
+   "opts": [
+    "Fluvastatin, rosuvastatin and pravastatin",
+    "Simvastatin and atorvastatin",
+    "Lovastatin only",
+    "All statins"
+   ],
+   "ans": 0,
+   "exp": "The bracket labels the non-CYP3A4 statins as safe with CYP3A4 inhibitors. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-141",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The statin best in liver failure is pravastatin because it is the only statin not metabolized by:",
+   "opts": [
+    "CYP450",
+    "Glucuronidation",
+    "Esterases",
+    "Renal tubules"
+   ],
+   "ans": 0,
+   "exp": "The annotation says best in liver failure (only statin not metabolized by CYP450). (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-142",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Pravastatin is DOC for dyslipidemia induced by:",
+   "opts": [
+    "Protease inhibitors",
+    "Thiazides",
+    "Beta blockers",
+    "Glucocorticoids"
+   ],
+   "ans": 0,
+   "exp": "The line says DOC for protease inhibitors induced dyslipidemia. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-143",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Protease inhibitor anti-HIV drugs cause toxicity because they:",
+   "opts": [
+    "Inhibit enzymes",
+    "Induce enzymes",
+    "Block renal excretion",
+    "Block bile secretion"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says anti-HIV drug inhibiting enzymes causes toxicity. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-144",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Phase II metabolism of statins is by:",
+   "opts": [
+    "Glucuronidation",
+    "Sulfation",
+    "Acetylation",
+    "Methylation"
+   ],
+   "ans": 0,
+   "exp": "Phase II line says glucuronidation. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-145",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The statin with the maximum T1/2 is:",
+   "opts": [
+    "Rosuvastatin",
+    "Atorvastatin",
+    "Pitavastatin",
+    "Fluvastatin"
+   ],
+   "ans": 0,
+   "exp": "Point 2 says maximum T1/2: rosuvastatin > atorvastatin. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-146",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Night time dosing of statins is based on maximum activity of the enzyme:",
+   "opts": [
+    "HMG CoA reductase",
+    "ATP citrate lyase",
+    "LPL",
+    "ACAT"
+   ],
+   "ans": 0,
+   "exp": "Point 3 says night dosing for maximum activity of HMGCoA enzyme. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-147",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Night time dosing is not mandatory with:",
+   "opts": [
+    "Rosuvastatin and atorvastatin",
+    "Simvastatin and pravastatin",
+    "Fluvastatin and lovastatin",
+    "All statins"
+   ],
+   "ans": 0,
+   "exp": "Point 3 says not mandatory with rosuvastatin/atorvastatin. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-148",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The most potent statin listed is:",
+   "opts": [
+    "Pitavastatin",
+    "Rosuvastatin",
+    "Atorvastatin",
+    "Simvastatin"
+   ],
+   "ans": 0,
+   "exp": "Point 4 says most potent: pitavastatin > rosuvastatin. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-149",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The statin with maximum response is:",
+   "opts": [
+    "Rosuvastatin",
+    "Pitavastatin",
+    "Atorvastatin",
+    "Fluvastatin"
+   ],
+   "ans": 0,
+   "exp": "Point 5 says maximum response: rosuvastatin > pitavastatin. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-150",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "Rosuvastatin is annotated as the statin that is:",
+   "opts": [
+    "Most commonly used",
+    "Least used",
+    "Most potent",
+    "Longest acting"
+   ],
+   "ans": 0,
+   "exp": "The response line marks rosuvastatin (m/c used). (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-151",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The maximum response dose of rosuvastatin noted on the page is up to:",
+   "opts": [
+    "4 mg",
+    "10 mg",
+    "20 mg",
+    "40 mg"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says up to 4 mg. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-152",
+   "sec": "Statin Uses and Pharmacokinetics",
+   "page": 98,
+   "q": "The ceiling effect of pitavastatin means:",
+   "opts": [
+    "Increased dose does not increase response",
+    "Increased dose increases response linearly",
+    "Dose must be doubled",
+    "No response at any dose"
+   ],
+   "ans": 0,
+   "exp": "The annotation defines ceiling effect: up dose does not up response. (Book p98)"
+  },
+  {
+   "id": "PHARM-C25-153",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "The two baseline investigations before starting statins are:",
+   "opts": [
+    "CPK and LFT",
+    "ECG and chest X-ray",
+    "Urine routine and creatinine",
+    "TSH and HbA1c"
+   ],
+   "ans": 0,
+   "exp": "The heading line says do baseline CPK and LFT. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-154",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "Regarding monitoring of CPK and LFT on statins, the page notes that it is:",
+   "opts": [
+    "Not required",
+    "Mandatory monthly",
+    "Required weekly",
+    "Required only after 1 year"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says monitoring not required. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-155",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "The risk of myopathy with statins is increased by:",
+   "opts": [
+    "Fibrates",
+    "Ezetimibe",
+    "Resins",
+    "Niacin"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says myopathy: up with fibrates. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-156",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "Besides myopathy, the other two statin side effects listed are hepatotoxicity and:",
+   "opts": [
+    "Hyperglycemia",
+    "Hyperkalemia",
+    "Hypercalcemia",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives hepatotoxicity and hyperglycemia. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-157",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "Statins are contraindicated in pregnancy and in children below:",
+   "opts": [
+    "11 years",
+    "8 years",
+    "2 years",
+    "18 years"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says children <11 years. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-158",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "For pravastatin specifically, the contraindicated age is below:",
+   "opts": [
+    "8 years",
+    "11 years",
+    "2 years",
+    "16 years"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says pravastatin: <8 years. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-159",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "If a fibrate must be used with a statin, the statin chosen is:",
+   "opts": [
+    "Fluvastatin",
+    "Simvastatin",
+    "Atorvastatin",
+    "Lovastatin"
+   ],
+   "ans": 0,
+   "exp": "The note says if indicated with fibrates use fluvastatin. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-160",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "Fluvastatin is preferred with fibrates because of:",
+   "opts": [
+    "Relatively lower risk",
+    "Higher potency",
+    "Longer half-life",
+    "Renal excretion"
+   ],
+   "ans": 0,
+   "exp": "The note says fluvastatin (relatively lower risk). (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-161",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "In patients with LDL 100-190 mg/dL and a 10-year ASCVD risk of 5-20%, the statin dose is:",
+   "opts": [
+    "Moderate dose",
+    "High dose",
+    "Low dose",
+    "No statin"
+   ],
+   "ans": 0,
+   "exp": "The risk 5-20% branch gives moderate dose statins. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-162",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "In the same group, a 10-year ASCVD risk above 20% mandates:",
+   "opts": [
+    "High dose statins",
+    "Moderate dose statins",
+    "Low dose statins",
+    "Add-on resin only"
+   ],
+   "ans": 0,
+   "exp": "The >20% branch gives high dose statins. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-163",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "In a diabetic patient with 10-year ASCVD risk below 20%, the statin dose is:",
+   "opts": [
+    "Moderate dose",
+    "High dose",
+    "No statin",
+    "Low dose"
+   ],
+   "ans": 0,
+   "exp": "The DM branch <20% gives moderate dose. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-164",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "In a diabetic patient with 10-year ASCVD risk of 20% or more, the statin dose is:",
+   "opts": [
+    "High dose",
+    "Moderate dose",
+    "Low dose",
+    "Avoid statin"
+   ],
+   "ans": 0,
+   "exp": "The DM branch >=20% gives high dose. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-165",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "When clinical ASCVD is present, the statin dose is:",
+   "opts": [
+    "High dose",
+    "Moderate dose",
+    "Low dose",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "The clinical ASCVD branch says high dose statins. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-166",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "In the dosage table, moderate dose rosuvastatin is:",
+   "opts": [
+    "5-10 mg",
+    "20-40 mg",
+    "10-20 mg",
+    "40-80 mg"
+   ],
+   "ans": 0,
+   "exp": "The table gives rosuvastatin moderate dose 5-10 mg. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-167",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "High dose rosuvastatin in the table is:",
+   "opts": [
+    "20-40 mg",
+    "5-10 mg",
+    "40-80 mg",
+    "10-20 mg"
+   ],
+   "ans": 0,
+   "exp": "The table gives rosuvastatin high dose 20-40 mg. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-168",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "Moderate dose atorvastatin in the table is:",
+   "opts": [
+    "10-20 mg",
+    "5-10 mg",
+    "20-40 mg",
+    "40-80 mg"
+   ],
+   "ans": 0,
+   "exp": "The table gives atorvastatin moderate dose 10-20 mg. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-169",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "High dose atorvastatin in the table is:",
+   "opts": [
+    "40-80 mg",
+    "20-40 mg",
+    "10-20 mg",
+    "5-10 mg"
+   ],
+   "ans": 0,
+   "exp": "The table gives atorvastatin high dose 40-80 mg. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-170",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "If the response to statins is inadequate, the agent added to increase effectiveness is:",
+   "opts": [
+    "Inclisiran",
+    "Niacin",
+    "Fibrate",
+    "Icosapent"
+   ],
+   "ans": 0,
+   "exp": "The inadequate response flowchart marks inclisiran as PCSK9 inhibitor, up effectiveness. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-171",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "The two affordable add-on drugs listed with bile acid binding resins are ezetimibe and:",
+   "opts": [
+    "Bile acid binding resins",
+    "Fibrates",
+    "Niacin",
+    "Icosapent"
+   ],
+   "ans": 0,
+   "exp": "The flow groups ezetimibe and bile acid binding resins as affordable. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-172",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "A caveat about statin therapy from the notes is that low dose statins:",
+   "opts": [
+    "Do not prevent mortality",
+    "Prevent mortality best",
+    "Cause maximum side effects",
+    "Are DOC in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Note 1 says low dose statins do not prevent mortality. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-173",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "page": 99,
+   "q": "According to the notes, which diabetic patients qualify for statin therapy?",
+   "opts": [
+    "Every patient of DM",
+    "Only those with ASCVD",
+    "Only those above 60 years",
+    "Only those with LDL >190"
+   ],
+   "ans": 0,
+   "exp": "Note 2 says every patient of DM is candidate for statin therapy. (Book p99)"
+  },
+  {
+   "id": "PHARM-C25-174",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "The management of hypertriglyceridemia branches on:",
+   "opts": [
+    "Risk of ASCVD",
+    "Plasma LDL level",
+    "Age of patient",
+    "Presence of gout"
+   ],
+   "ans": 0,
+   "exp": "The HTG flowchart branches from risk of ASCVD present/absent. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-175",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "If ASCVD risk is present, the first step in hypertriglyceridemia is:",
+   "opts": [
+    "Trial of statins alone",
+    "Fibrates alone",
+    "Icosapent alone",
+    "Resins"
+   ],
+   "ans": 0,
+   "exp": "The present branch says trial of statins alone. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-176",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "For an inadequate response to a statin in hypertriglyceridemia, the next drug added is:",
+   "opts": [
+    "Icosapent",
+    "Fibrates",
+    "Niacin",
+    "Ezetimibe"
+   ],
+   "ans": 0,
+   "exp": "The flow says inadequate response, then add icosapent. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-177",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "If the response to icosapent is still inadequate, the drug added is:",
+   "opts": [
+    "Fibrates",
+    "Niacin",
+    "Resins",
+    "Bempedoic acid"
+   ],
+   "ans": 0,
+   "exp": "The final step is inadequate response, then add fibrates. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-178",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "If ASCVD risk is absent in hypertriglyceridemia, the DOC is:",
+   "opts": [
+    "Fibrates",
+    "Statins",
+    "Icosapent",
+    "Resins"
+   ],
+   "ans": 0,
+   "exp": "The absent branch says DOC: fibrates, with up TGs. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-179",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "In the risk-absent branch, the drug added to fibrates is:",
+   "opts": [
+    "Icosapent",
+    "Niacin",
+    "Statin",
+    "Ezetimibe"
+   ],
+   "ans": 0,
+   "exp": "The absent branch says add icosapent. (Book p100)"
+  },
+  {
+   "id": "PHARM-C25-180",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "page": 100,
+   "q": "The DOC for familial hypercholesterolemia is:",
+   "opts": [
+    "High dose statins",
+    "Fibrates",
+    "Bile acid binding resins",
+    "Icosapent"
+   ],
+   "ans": 0,
+   "exp": "The FHC section says DOC: high dose statins. (Book p100)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U25-1",
+   "ch": 25,
+   "n": 1,
+   "title": "Sources of Lipids and the Physiology Diagram",
+   "sec": "Sources of Lipids and the Physiology Diagram · p94",
+   "qs": [
+    "PHARM-C25-001",
+    "PHARM-C25-002",
+    "PHARM-C25-003",
+    "PHARM-C25-004",
+    "PHARM-C25-005",
+    "PHARM-C25-006",
+    "PHARM-C25-007",
+    "PHARM-C25-008",
+    "PHARM-C25-009",
+    "PHARM-C25-010",
+    "PHARM-C25-011",
+    "PHARM-C25-012",
+    "PHARM-C25-013",
+    "PHARM-C25-014",
+    "PHARM-C25-015",
+    "PHARM-C25-016",
+    "PHARM-C25-017",
+    "PHARM-C25-018",
+    "PHARM-C25-019",
+    "PHARM-C25-020",
+    "PHARM-C25-021",
+    "PHARM-C25-022",
+    "PHARM-C25-023",
+    "PHARM-C25-024",
+    "PHARM-C25-025",
+    "PHARM-C25-026",
+    "PHARM-C25-027",
+    "PHARM-C25-028",
+    "PHARM-C25-029",
+    "PHARM-C25-030"
+   ],
+   "guide": "Hypolipidemic drugs are used in atherosclerotic cardiovascular disease (ASCVD). The physiology page builds lipid handling from three sources: food entering the small intestine (cholesterol, triglycerides and bile acids, with ezetimibe blocking the NPC1L1 transporter and esterification by ACAT in the epithelial cell), storage in adipose tissue (where niacin blocks the adipocyte and hormone sensitive lipase releases free fatty acids in the fasting state), and synthesis in the liver. Enterohepatic circulation carries bile acids back through the duodenum; VLDL and chylomicrons reach the blood vessel, and the remnants of VLDL and chylomicrons are removed by the liver."
+  },
+  {
+   "id": "PHARM-U25-2",
+   "ch": 25,
+   "n": 2,
+   "title": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs",
+   "sec": "Cholesterol Synthesis, LDL Receptor Regulation and PCSK9 Drugs · p95",
+   "qs": [
+    "PHARM-C25-031",
+    "PHARM-C25-032",
+    "PHARM-C25-033",
+    "PHARM-C25-034",
+    "PHARM-C25-035",
+    "PHARM-C25-036",
+    "PHARM-C25-037",
+    "PHARM-C25-038",
+    "PHARM-C25-039",
+    "PHARM-C25-040",
+    "PHARM-C25-041",
+    "PHARM-C25-042",
+    "PHARM-C25-043",
+    "PHARM-C25-044",
+    "PHARM-C25-045",
+    "PHARM-C25-046",
+    "PHARM-C25-047"
+   ],
+   "guide": "When a cell requires cholesterol it makes it from citrate: ATP citrate lyase converts citrate to acetyl CoA (blocked by bempedoic acid), HMG CoA reductase converts HMG CoA to mevalonic acid (blocked by statins) and the pathway ends in cholesterol for bile acids and steroids. The same cholesterol need upregulates synthesis of the LDL receptor - the effect shared by statins, bempedoic acid, ezetimibe and bile acid binding resins. Plasma LDL reaching the cell is degraded to cholesterol, PCSK9 degrades LDL receptors, alirocumab and evolocumab are monoclonal antibodies against PCSK9, and inclisiran is a siRNA that blocks synthesis of PCSK9. Evinacumab blocks AngPTL-3 to block LPL and lower LDL cholesterol in FHC, while lomitapide is also used in familial hypercholesterolemia."
+  },
+  {
+   "id": "PHARM-U25-3",
+   "ch": 25,
+   "n": 3,
+   "title": "Niacin: the Lipoprotein-A Lowering Drug",
+   "sec": "Niacin: the Lipoprotein-A Lowering Drug · p95",
+   "qs": [
+    "PHARM-C25-048",
+    "PHARM-C25-049",
+    "PHARM-C25-050",
+    "PHARM-C25-051",
+    "PHARM-C25-052",
+    "PHARM-C25-053",
+    "PHARM-C25-054",
+    "PHARM-C25-055",
+    "PHARM-C25-056",
+    "PHARM-C25-057",
+    "PHARM-C25-058",
+    "PHARM-C25-059",
+    "PHARM-C25-060",
+    "PHARM-C25-061",
+    "PHARM-C25-062"
+   ],
+   "guide": "Niacin is highly toxic and therefore not preferred. It lowers free fatty acids, which lowers TG, VLDL and finally LDL; it is used to lower Lp(a) along with statin plus ezetimibe therapy and gives the maximum increase in HDL (more than statin) although this indication is obsolete. Its side effects are potent hepatotoxicity, insulin resistance progressing to diabetes mellitus and flushing caused by prostaglandin release with vasodilation, for which aspirin is the treatment of choice because it blocks cyclooxygenase and reduces prostaglandin synthesis."
+  },
+  {
+   "id": "PHARM-U25-4",
+   "ch": 25,
+   "n": 4,
+   "title": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates",
+   "sec": "Triglyceride-lowering Drugs: Omega-3 Fatty Acids, Icosapent and Fibrates · p96",
+   "qs": [
+    "PHARM-C25-063",
+    "PHARM-C25-064",
+    "PHARM-C25-065",
+    "PHARM-C25-066",
+    "PHARM-C25-067",
+    "PHARM-C25-068",
+    "PHARM-C25-069",
+    "PHARM-C25-070",
+    "PHARM-C25-071",
+    "PHARM-C25-072",
+    "PHARM-C25-073",
+    "PHARM-C25-074",
+    "PHARM-C25-075",
+    "PHARM-C25-076",
+    "PHARM-C25-077",
+    "PHARM-C25-078",
+    "PHARM-C25-079",
+    "PHARM-C25-080",
+    "PHARM-C25-081",
+    "PHARM-C25-082"
+   ],
+   "guide": "The TG-lowering group contains omega-3 fatty acids, icosapent and fibrates, with fibrates split into halogenated (clofibrate, bezafibrate, fenofibrate) and non-halogenated (gemfibrozil) agents. Icosapent is a derivative of omega-3 fatty acids that blocks release of VLDL by the liver and is used in familial hypertriglyceridemia. Fibrates stimulate PPAR-alpha, which increases LPL synthesis in capillary endothelium, lowering chylomicrons, VLDL, TG and LDL particles; they are DOC in hypertriglyceridemia, chylomicronemia syndrome and type III hyperlipoproteinemia, and fenofibrate also lowers uric acid like febuxostat. Their side effects are myopathy and gall stones, maximal with clofibrate."
+  },
+  {
+   "id": "PHARM-U25-5",
+   "ch": 25,
+   "n": 5,
+   "title": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins",
+   "sec": "LDL-lowering Drugs: Statins, Bempedoic Acid, Ezetimibe, PCSK9 Inhibitors, Inclisiran and Resins · p96",
+   "qs": [
+    "PHARM-C25-083",
+    "PHARM-C25-084",
+    "PHARM-C25-085",
+    "PHARM-C25-086",
+    "PHARM-C25-087",
+    "PHARM-C25-088",
+    "PHARM-C25-089",
+    "PHARM-C25-090",
+    "PHARM-C25-091",
+    "PHARM-C25-092",
+    "PHARM-C25-093",
+    "PHARM-C25-094"
+   ],
+   "guide": "The LDL-lowering indications are ASCVD such as angina, myocardial infarction and stroke, and any patient with raised LDL. The drugs are statins (the DOC, marked as the affordable oral drug class), bempedoic acid (affordable oral drug), ezetimibe (blocks NPC1L1 to reduce cholesterol absorption with upregulation of LDL receptors to lower plasma LDL), PCSK9 inhibitors given as intravenous monoclonal antibodies (evolocumab, alirocumab), inclisiran (small interfering RNA antagonists that block synthesis of PCSK9) and bile acid binding resins."
+  },
+  {
+   "id": "PHARM-U25-6",
+   "ch": 25,
+   "n": 6,
+   "title": "Bile Acid Binding Resins",
+   "sec": "Bile Acid Binding Resins · p97",
+   "qs": [
+    "PHARM-C25-095",
+    "PHARM-C25-096",
+    "PHARM-C25-097",
+    "PHARM-C25-098",
+    "PHARM-C25-099",
+    "PHARM-C25-100",
+    "PHARM-C25-101",
+    "PHARM-C25-102",
+    "PHARM-C25-103",
+    "PHARM-C25-104",
+    "PHARM-C25-105",
+    "PHARM-C25-106",
+    "PHARM-C25-107",
+    "PHARM-C25-108",
+    "PHARM-C25-109",
+    "PHARM-C25-110",
+    "PHARM-C25-111",
+    "PHARM-C25-112",
+    "PHARM-C25-113",
+    "PHARM-C25-114",
+    "PHARM-C25-115"
+   ],
+   "guide": "Bile acid binding resins are cholestyramine, colesevelam (preferred because of fewer side effects) and colestipol. They inhibit the enterohepatic circulation, so bile acid in the liver falls, cholesterol synthesis rises, demand for cholesterol and LDL rises, LDL receptors increase and plasma LDL finally falls. Their side effects are GI upset (diarrhea/bloating), hypertriglyceridemia, hyperchloremic alkalosis, reduced fat-soluble vitamins E/D/A/K and reduced absorption of other drugs. Uniquely among hypolipidemics they are safe and efficacious as DOC in pregnancy and children, because all other hypolipidemics are contraindicated in pregnancy."
+  },
+  {
+   "id": "PHARM-U25-7",
+   "ch": 25,
+   "n": 7,
+   "title": "Statins: Mechanism of Action and Pleiotropic Effects",
+   "sec": "Statins: Mechanism of Action and Pleiotropic Effects · p97",
+   "qs": [
+    "PHARM-C25-116",
+    "PHARM-C25-117",
+    "PHARM-C25-118",
+    "PHARM-C25-119",
+    "PHARM-C25-120",
+    "PHARM-C25-121",
+    "PHARM-C25-122",
+    "PHARM-C25-123",
+    "PHARM-C25-124",
+    "PHARM-C25-125"
+   ],
+   "guide": "Statins save lives by blocking HMG-CoA reductase, an enzyme with maximum activity at night; the resulting effects are lowered LDL, VLDL and TG along with raised HDL and Lp-alpha. Beyond lipid lowering, statins have pleiotropic (non-hypolipidemic) effects: they are anti-aggregant, anti-coagulant, vasodilators through increased release of nitric oxide, antioxidants, anti-inflammatory and they stabilise the atherosclerotic plaque."
+  },
+  {
+   "id": "PHARM-U25-8",
+   "ch": 25,
+   "n": 8,
+   "title": "Statin Uses and Pharmacokinetics",
+   "sec": "Statin Uses and Pharmacokinetics · p98",
+   "qs": [
+    "PHARM-C25-126",
+    "PHARM-C25-127",
+    "PHARM-C25-128",
+    "PHARM-C25-129",
+    "PHARM-C25-130",
+    "PHARM-C25-131",
+    "PHARM-C25-132",
+    "PHARM-C25-133",
+    "PHARM-C25-134",
+    "PHARM-C25-135",
+    "PHARM-C25-136",
+    "PHARM-C25-137",
+    "PHARM-C25-138",
+    "PHARM-C25-139",
+    "PHARM-C25-140",
+    "PHARM-C25-141",
+    "PHARM-C25-142",
+    "PHARM-C25-143",
+    "PHARM-C25-144",
+    "PHARM-C25-145",
+    "PHARM-C25-146",
+    "PHARM-C25-147",
+    "PHARM-C25-148",
+    "PHARM-C25-149",
+    "PHARM-C25-150",
+    "PHARM-C25-151",
+    "PHARM-C25-152"
+   ],
+   "guide": "Statins are DOC in type II hyperlipoproteinemia and are used for ASCVD prophylaxis: primary prophylaxis in those with no prior attack but raised LDL/DM or a history of familial hypercholesterolemia, and secondary prophylaxis when there is a history of angina, MI or stroke. They are absorbed orally and taken up by the liver through OATP1B1; OATP1B1 is blocked by gemfibrozil and clarithromycin, producing statin toxicity, and clarithromycin also blocks glucuronidation and CYP3A4. All statins are CYP3A4 substrates except fluvastatin and rosuvastatin (CYP2C9) and pravastatin, which is excreted unchanged, is best in liver failure and is DOC for protease inhibitor induced dyslipidemia."
+  },
+  {
+   "id": "PHARM-U25-9",
+   "ch": 25,
+   "n": 9,
+   "title": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD",
+   "sec": "Statin Side Effects, Contraindications and Clinical Applications in ASCVD · p99",
+   "qs": [
+    "PHARM-C25-153",
+    "PHARM-C25-154",
+    "PHARM-C25-155",
+    "PHARM-C25-156",
+    "PHARM-C25-157",
+    "PHARM-C25-158",
+    "PHARM-C25-159",
+    "PHARM-C25-160",
+    "PHARM-C25-161",
+    "PHARM-C25-162",
+    "PHARM-C25-163",
+    "PHARM-C25-164",
+    "PHARM-C25-165",
+    "PHARM-C25-166",
+    "PHARM-C25-167",
+    "PHARM-C25-168",
+    "PHARM-C25-169",
+    "PHARM-C25-170",
+    "PHARM-C25-171",
+    "PHARM-C25-172",
+    "PHARM-C25-173"
+   ],
+   "guide": "Before starting a statin, baseline CPK and LFT are done although monitoring is not required. Side effects are myopathy (increased with fibrates), hepatotoxicity and hyperglycemia; contraindications are pregnancy and children below 11 years (pravastatin below 8 years), and if a fibrate must be combined, fluvastatin is relatively safer. In ASCVD with raised LDL, an LDL of 100-190 mg/dL plus a 10-year ASCVD risk of 5-20% gets a moderate dose statin while a risk above 20% gets a high dose; diabetes with risk below 20% gets moderate dose and 20% or more gets high dose; and clinical ASCVD gets high dose statins. If response is inadequate, ezetimibe or bile acid binding resins (affordable) or inclisiran can be added."
+  },
+  {
+   "id": "PHARM-U25-10",
+   "ch": 25,
+   "n": 10,
+   "title": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia",
+   "sec": "Management of Hypertriglyceridemia and Familial Hypercholesterolemia · p100",
+   "qs": [
+    "PHARM-C25-174",
+    "PHARM-C25-175",
+    "PHARM-C25-176",
+    "PHARM-C25-177",
+    "PHARM-C25-178",
+    "PHARM-C25-179",
+    "PHARM-C25-180"
+   ],
+   "guide": "Hypertriglyceridemia is managed according to the risk of ASCVD: when risk is present a statin is tried alone, icosapent is added on an inadequate response and fibrates are then added if the response is still inadequate; when ASCVD risk is absent, fibrates are the DOC for the raised TGs and icosapent is added. Familial hypercholesterolemia is treated with high dose statins as the DOC."
+  }
+ ]
+}

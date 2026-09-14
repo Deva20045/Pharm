@@ -1,0 +1,2546 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C27-001",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "The site of action of thiazides is the:",
+   "opts": [
+    "Distal convoluted tubule",
+    "Proximal convoluted tubule",
+    "Thick ascending limb",
+    "Collecting duct"
+   ],
+   "ans": 0,
+   "exp": "The thiazide heading says site of action: distal convoluted tubule. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-002",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Thiazides are classified based on:",
+   "opts": [
+    "Metabolism",
+    "Route",
+    "Half-life only",
+    "Potency only"
+   ],
+   "ans": 0,
+   "exp": "The drug chart is headed based on metabolism. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-003",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Drugs with minimal metabolism are:",
+   "opts": [
+    "Excreted unchanged",
+    "Metabolized in liver",
+    "Excreted in bile",
+    "Stored in fat"
+   ],
+   "ans": 0,
+   "exp": "The minimal metabolism column says excreted unchanged. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-004",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Which thiazides are said to have 100% oral bioavailability?",
+   "opts": [
+    "Polythiazide and bendroflumethiazide",
+    "Chlorthalidone and metolazone",
+    "Indapamide and chlorothiazide",
+    "All thiazides"
+   ],
+   "ans": 0,
+   "exp": "The bracket of 100% oral bioavailability covers polythiazide and bendroflumethiazide. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-005",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "The longest acting thiazide, acting for more than 24 hours, is:",
+   "opts": [
+    "Chlorthalidone",
+    "Chlorothiazide",
+    "Indapamide",
+    "Metolazone"
+   ],
+   "ans": 0,
+   "exp": "Chlorthalidone is annotated longest acting (>24H). (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-006",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "The thiazide of choice in hypertension is:",
+   "opts": [
+    "Chlorthalidone",
+    "Chlorothiazide",
+    "Indapamide",
+    "Metolazone"
+   ],
+   "ans": 0,
+   "exp": "The page marks chlorthalidone as thiazide of choice in HTN. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-007",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "The most potent thiazide listed is:",
+   "opts": [
+    "Metolazone",
+    "Chlorthalidone",
+    "Indapamide",
+    "Polythiazide"
+   ],
+   "ans": 0,
+   "exp": "Metolazone is annotated most potent. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-008",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Metolazone is effective even at GFR:",
+   "opts": [
+    "< 40",
+    "< 10",
+    "< 60",
+    "< 80"
+   ],
+   "ans": 0,
+   "exp": "Metolazone is annotated effective even at GFR < 40. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-009",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Metolazone is DOC in mild to moderate HTN with:",
+   "opts": [
+    "Renal insufficiency",
+    "Hepatic failure",
+    "Heart failure",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "Metolazone is DOC in mild to moderate HTN with renal insufficiency. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-010",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Indapamide is placed in the group with:",
+   "opts": [
+    "Maximal metabolism and minimal renal excretion",
+    "Minimal metabolism and excretion unchanged",
+    "100% oral bioavailability",
+    "Longest action"
+   ],
+   "ans": 0,
+   "exp": "The maximal metabolism column lists indapamide with minimal renal excretion. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-011",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism",
+   "page": 106,
+   "q": "Chlorothiazide belongs to the group of drugs that are:",
+   "opts": [
+    "Excreted unchanged",
+    "Maximally metabolized",
+    "Renally excreted minimized",
+    "Longest acting"
+   ],
+   "ans": 0,
+   "exp": "Chlorothiazide appears first in the excreted unchanged list. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-012",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Thiazides act by blocking the:",
+   "opts": [
+    "Na+/Cl- cotransporter",
+    "Na+/K+/2Cl- transporter",
+    "ENaC",
+    "Na+/H+ antiporter"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says blockade of Na+/Cl- cotransporter in DCT. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-013",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Blockade of the Na+/Cl- cotransporter decreases:",
+   "opts": [
+    "Na+/Cl- reabsorption",
+    "K+ secretion",
+    "Ca2+ reabsorption",
+    "Uric acid reabsorption"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch says down Na+/Cl- reabsorption. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-014",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Decreased reabsorption with thiazides lowers osmotic pressure and increases reabsorption of uric acid and:",
+   "opts": [
+    "Glucose",
+    "K+",
+    "Ca2+",
+    "Phosphate"
+   ],
+   "ans": 0,
+   "exp": "The osmotic pressure branch lists up uric acid and glucose reabsorption. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-015",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "The lipid consequence of thiazide-induced osmotic change is:",
+   "opts": [
+    "Dyslipidemia",
+    "Hypolipidemia",
+    "Raised HDL",
+    "Raised LDL only"
+   ],
+   "ans": 0,
+   "exp": "The osmotic branch lists dyslipidemia. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-016",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Na+/Cl- delivered to the collecting duct with thiazides increases excretion of:",
+   "opts": [
+    "Mg2+",
+    "Ca2+",
+    "Uric acid",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The collecting duct branch says up Mg2+ excretion. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-017",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "In the collecting duct, thiazides activate the H+ ATPase pump causing increased:",
+   "opts": [
+    "H+ excretion",
+    "H+ retention",
+    "K+ reabsorption",
+    "Na+ reabsorption"
+   ],
+   "ans": 0,
+   "exp": "The branch says H+ ATPase pump with up H+ excretion. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-018",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "The other pump activated in the collecting duct by thiazides is ROMK, which increases:",
+   "opts": [
+    "K+ excretion",
+    "K+ reabsorption",
+    "Na+ excretion",
+    "Ca2+ reabsorption"
+   ],
+   "ans": 0,
+   "exp": "The branch says ROMK pump with up K+ excretion. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-019",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Decreased intracellular Na+ with thiazides activates the:",
+   "opts": [
+    "Na+/Ca2+ antiporter",
+    "Na+/K+ ATPase",
+    "Na+/H+ antiporter",
+    "ENaC"
+   ],
+   "ans": 0,
+   "exp": "The MOA says down intracellular Na+, then activation of Na+/Ca2+ antiporter. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-020",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Activation of the Na+/Ca2+ antiporter by thiazides leads to increased:",
+   "opts": [
+    "Ca2+ reabsorption",
+    "Ca2+ excretion",
+    "Na+ reabsorption",
+    "K+ reabsorption"
+   ],
+   "ans": 0,
+   "exp": "The antiporter branch ends at up Ca2+ reabsorption. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-021",
+   "sec": "Thiazides: Mechanism of Action",
+   "page": 106,
+   "q": "Besides the tubular action, thiazides cause vasodilation by opening:",
+   "opts": [
+    "K+ channels in smooth muscles",
+    "Ca2+ channels in smooth muscles",
+    "Cl- channels",
+    "Na+ channels"
+   ],
+   "ans": 0,
+   "exp": "The last MOA line says K+ channel openers in smooth muscles: vasodilation. (Book p106)"
+  },
+  {
+   "id": "PHARM-C27-022",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazides produce diuresis described as:",
+   "opts": [
+    "Moderate",
+    "Potent/high ceiling",
+    "Weak",
+    "Osmotic"
+   ],
+   "ans": 0,
+   "exp": "The effects heading says moderate diuresis. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-023",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "The moderate diuresis of thiazides corresponds to a loss of about:",
+   "opts": [
+    "5% of Na+/Cl- and H2O",
+    "25% of filtered Na+",
+    "1-3% of Na+",
+    "50% of filtered Na+"
+   ],
+   "ans": 0,
+   "exp": "The heading says moderate loss (5%) of Na+/Cl- and H2O. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-024",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazides are DOC in HTN with edema due to:",
+   "opts": [
+    "Kidneys or liver",
+    "Heart only",
+    "Lungs",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "The use line says DOC: HTN with edema (d/t kidneys, liver etc.). (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-025",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazides are ineffective at GFR:",
+   "opts": [
+    "< 40",
+    "< 20",
+    "< 10",
+    "< 60"
+   ],
+   "ans": 0,
+   "exp": "The use line says ineffective with GFR < 40. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-026",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "The exception to thiazide ineffectiveness at low GFR is:",
+   "opts": [
+    "Metolazone",
+    "Chlorthalidone",
+    "Indapamide",
+    "Chlorothiazide"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says ineffective with GFR < 40 (except metolazone). (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-027",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "The side effect of thiazides related to volume depletion is:",
+   "opts": [
+    "Erectile dysfunction",
+    "Ototoxicity",
+    "Gynecomastia",
+    "Nephrogenic DI"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says erectile dysfunction d/t volume depletion. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-028",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "In HTN with CKD without edema, the DOC is:",
+   "opts": [
+    "ACE inhibitors/ARBs",
+    "Thiazides",
+    "Loop diuretics",
+    "Spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The note says DOC in HTN with CKD without edema is ACE inhibitors/ARBs. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-029",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "The direct vasodilation of thiazides is due to:",
+   "opts": [
+    "K+ channel opening in smooth muscles",
+    "Ca2+ channel blockade",
+    "NO release only",
+    "Adenosine release"
+   ],
+   "ans": 0,
+   "exp": "The vasodilation heading says d/t K+ channel opening in smooth muscles. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-030",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Because of direct vasodilation, thiazides are used as:",
+   "opts": [
+    "1st line drug in HTN",
+    "2nd line drug in HTN",
+    "DOC in pregnancy",
+    "DOC in pulmonary edema"
+   ],
+   "ans": 0,
+   "exp": "The use line says 1st line drug in HTN. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-031",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Indapamide decreases the chance of erectile dysfunction because it causes:",
+   "opts": [
+    "Less diuresis",
+    "More diuresis",
+    "More vasodilation",
+    "Less potassium loss"
+   ],
+   "ans": 0,
+   "exp": "The indapamide line says down chance of erectile dysfunction d/t down diuresis. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-032",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazides increase reabsorption of:",
+   "opts": [
+    "Ca2+",
+    "Mg2+",
+    "K+",
+    "Uric acid only"
+   ],
+   "ans": 0,
+   "exp": "The heading says up Ca2+ reabsorption. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-033",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "The side effect of increased Ca2+ reabsorption with thiazides is:",
+   "opts": [
+    "Hypercalcemia",
+    "Hypocalcemia",
+    "Hypercalciuria",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says hypercalcemia. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-034",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Because of hypercalcemia, thiazides are DOC in HTN with:",
+   "opts": [
+    "Osteoporosis",
+    "Gout",
+    "Renal stones only",
+    "Diabetes"
+   ],
+   "ans": 0,
+   "exp": "The use line says DOC: HTN with osteoporosis. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-035",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazides are useful in renal stones that are:",
+   "opts": [
+    "Hypercalciuric",
+    "Uric acid",
+    "Cystine",
+    "Struvite"
+   ],
+   "ans": 0,
+   "exp": "The use line says hypercalciuric renal stones. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-036",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide effect on uric acid causes:",
+   "opts": [
+    "Hyperuricemia ± gout",
+    "Hypouricemia",
+    "No change",
+    "Uric acid stones only"
+   ],
+   "ans": 0,
+   "exp": "The comparison table lists up uric acid: hyperuricemia +/- gout. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-037",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide effect on glucose causes:",
+   "opts": [
+    "Hyperglycemia (worsening of DM)",
+    "Hypoglycemia",
+    "No change",
+    "Improved DM control"
+   ],
+   "ans": 0,
+   "exp": "The table lists up glucose: hyperglycemia. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-038",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide effect on LDL causes:",
+   "opts": [
+    "Dyslipidemia",
+    "Improved lipids",
+    "Raised HDL",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The table lists up LDL: dyslipidemia. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-039",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide-induced hypokalemia results from increased K+:",
+   "opts": [
+    "Excretion",
+    "Reabsorption",
+    "Secretion in stool",
+    "Retention"
+   ],
+   "ans": 0,
+   "exp": "The table lists up K+ excretion: hypokalemia. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-040",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide-induced hypomagnesemia results from increased Mg2+:",
+   "opts": [
+    "Excretion",
+    "Reabsorption",
+    "Storage",
+    "Binding"
+   ],
+   "ans": 0,
+   "exp": "The table lists up Mg2+ excretion: hypomagnesemia. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-041",
+   "sec": "Thiazides: Effects, Uses and Side Effects",
+   "page": 107,
+   "q": "Thiazide-induced metabolic alkalosis results from increased H+:",
+   "opts": [
+    "Excretion",
+    "Retention",
+    "Secretion in bile",
+    "Production"
+   ],
+   "ans": 0,
+   "exp": "The table lists up H+ excretion: metabolic alkalosis. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-042",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 107,
+   "q": "The two ENaC blockers listed as potassium-sparing diuretics are:",
+   "opts": [
+    "Amiloride and triamterene",
+    "Spironolactone and eplerenone",
+    "Finerenone and canrenone",
+    "Amiloride and spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The ENaC blocker group lists amiloride and triamterene. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-043",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 107,
+   "q": "The aldosterone receptor blockers listed are spironolactone, eplerenone and:",
+   "opts": [
+    "Finrenone",
+    "Furosemide",
+    "Fenofibrate",
+    "Finerenone only"
+   ],
+   "ans": 0,
+   "exp": "The ARB group lists spironolactone, eplerenone and finrenone. (Book p107)"
+  },
+  {
+   "id": "PHARM-C27-044",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "Potassium-sparing diuretics act by decreasing:",
+   "opts": [
+    "ENaCs",
+    "Na+/K+/2Cl-",
+    "Na+/Cl- cotransporter",
+    "Aquaporins"
+   ],
+   "ans": 0,
+   "exp": "The MOA flow begins with down ENaCs. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-045",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "Blockade of ENaC decreases Na+/H2O reabsorption by:",
+   "opts": [
+    "1-3%",
+    "5%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says down Na+/H2O reabsorption (1-3%). (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-046",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "Because of the small Na+ loss, the diuresis of K+ sparing diuretics is:",
+   "opts": [
+    "Poor",
+    "Potent",
+    "High ceiling",
+    "Moderate"
+   ],
+   "ans": 0,
+   "exp": "The MOA annotates poor diuresis. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-047",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "ENaC blockade lowers intracellular Na+, which decreases activity of the:",
+   "opts": [
+    "H+ ATPase and ROMK",
+    "Na+/K+ ATPase and ENaC",
+    "Na+/Ca2+ antiporter",
+    "Aquaporin 2"
+   ],
+   "ans": 0,
+   "exp": "The MOA branch shows down activity of H+ ATPase and ROMK. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-048",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "Decreased H+ ATPase activity with K+ sparing diuretics causes decreased H+ excretion and increased:",
+   "opts": [
+    "H+ in the body",
+    "HCO3- in the body",
+    "K+ in the body",
+    "Na+ in the body"
+   ],
+   "ans": 0,
+   "exp": "The H+ ATPase branch says down H+ excretion then up H+ in the body. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-049",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "Decreased ROMK activity causes decreased K+ excretion and increased:",
+   "opts": [
+    "K+ in the body",
+    "H+ in the body",
+    "Na+ in the body",
+    "Ca2+ in the body"
+   ],
+   "ans": 0,
+   "exp": "The ROMK branch says down K+ excretion then up K+ in the body. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-050",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "The diuretic pattern of K+ sparing diuretics is summarised as:",
+   "opts": [
+    "Poor diuresis with K+ sparing",
+    "Potent diuresis with K+ loss",
+    "Moderate diuresis with K+ loss",
+    "No effect on K+"
+   ],
+   "ans": 0,
+   "exp": "The common effect line says poor diuresis with K+ sparing. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-051",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "K+ sparing diuretics are combined with other diuretics to prevent:",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Hyponatremia",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "The common effect line says combined with other diuretics to prevent hypokalemia. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-052",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "The acid-base disturbance caused by H+ retention with these drugs is:",
+   "opts": [
+    "Metabolic acidosis",
+    "Metabolic alkalosis",
+    "Respiratory alkalosis",
+    "Respiratory acidosis"
+   ],
+   "ans": 0,
+   "exp": "The common effect line says up H+ retention: metabolic acidosis. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-053",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "page": 108,
+   "q": "The electrolyte disturbance caused by K+ retention with these drugs is:",
+   "opts": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypernatremia",
+    "Hypomagnesemia"
+   ],
+   "ans": 0,
+   "exp": "The common effect line says up K+ retention: hyperkalemia. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-054",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Aldosterone receptor blockers are unique because they are the only diuretics that:",
+   "opts": [
+    "Do not act via the tubular lumen",
+    "Act only in the PCT",
+    "Are not absorbed orally",
+    "Cause hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "The line says only diuretics that do not act via the tubular lumen. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-055",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Spironolactone is a prodrug whose active component is:",
+   "opts": [
+    "Canrenone",
+    "Finerenone",
+    "Eplerenone",
+    "Amiloride"
+   ],
+   "ans": 0,
+   "exp": "Spironolactone is annotated prodrug (active component canrenone). (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-056",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "The DOC indication for spironolactone is:",
+   "opts": [
+    "Cirrhotic edema",
+    "Cerebral edema",
+    "Pulmonary edema",
+    "Diuretic disequilibrium"
+   ],
+   "ans": 0,
+   "exp": "The DOC line says cirrhotic edema. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-057",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Spironolactone is also used in edema and HTN that are resistant to:",
+   "opts": [
+    "Loop and thiazide diuretics",
+    "CA inhibitors",
+    "Mannitol",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The resistant line says unresponsive to loop and thiazide diuretics. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-058",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Menstrual irregularities with spironolactone are due to blockade of:",
+   "opts": [
+    "Progesterone receptors",
+    "Testosterone receptors",
+    "Aldosterone receptors",
+    "Estrogen receptors"
+   ],
+   "ans": 0,
+   "exp": "The S/E list says progesterone receptors: menstrual irregularities. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-059",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Gynecomastia and impotence with spironolactone are due to blockade of:",
+   "opts": [
+    "Testosterone receptors",
+    "Progesterone receptors",
+    "Estrogen receptors",
+    "Glucocorticoid receptors"
+   ],
+   "ans": 0,
+   "exp": "The S/E list says testosterone receptors: gynecomastia, impotence. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-060",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "Spironolactone is used as which line of drug for hirsutism in PCOS?",
+   "opts": [
+    "2nd line",
+    "1st line",
+    "3rd line",
+    "DOC"
+   ],
+   "ans": 0,
+   "exp": "The line says used as 2nd line drug for hirsutism in PCOS. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-061",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 108,
+   "q": "The DOC for hirsutism in PCOS noted on the page is:",
+   "opts": [
+    "OCPs",
+    "Spironolactone",
+    "Eplerenone",
+    "Cyproterone alone"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says DOC: OCPs. (Book p108)"
+  },
+  {
+   "id": "PHARM-C27-062",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 109,
+   "q": "Eplerenone is DOC in:",
+   "opts": [
+    "Cirrhotic edema",
+    "Cerebral edema",
+    "Pulmonary edema",
+    "Refractory HTN only"
+   ],
+   "ans": 0,
+   "exp": "The eplerenone line says DOC: cirrhotic edema. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-063",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 109,
+   "q": "The advantage of eplerenone over spironolactone is:",
+   "opts": [
+    "No side effects as seen with spironolactone",
+    "Higher potency",
+    "Longer half-life",
+    "Oral route only"
+   ],
+   "ans": 0,
+   "exp": "Eplerenone is annotated no S/E as seen in spironolactone. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-064",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 109,
+   "q": "Finrenone is described as a:",
+   "opts": [
+    "New drug",
+    "Old drug",
+    "Prodrug",
+    "Non-steroidal anti-inflammatory"
+   ],
+   "ans": 0,
+   "exp": "The finrenone line says new drug. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-065",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 109,
+   "q": "The use of finrenone is in:",
+   "opts": [
+    "CHF with DM",
+    "Cirrhotic edema",
+    "Pulmonary edema",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Finrenone use: CHF with DM. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-066",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "page": 109,
+   "q": "Finrenone reduces:",
+   "opts": [
+    "CVS mortality (in CHF/MI)",
+    "Renal failure",
+    "Hyperkalemia",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "The finrenone line says down CVS mortality (in CHF/MI). (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-067",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "Amiloride is DOC in lithium-induced diabetes insipidus because Li+ is reabsorbed by:",
+   "opts": [
+    "ENaC",
+    "Na+/K+/2Cl-",
+    "Aquaporin 2",
+    "Na+/Cl- cotransporter"
+   ],
+   "ans": 0,
+   "exp": "The amiloride DOC line says as Li+ is reabsorbed by ENaC. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-068",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "Amiloride is DOC in Liddle syndrome, which is due to:",
+   "opts": [
+    "ENaC overexpression",
+    "ENaC blockade",
+    "Aquaporin deficiency",
+    "ROMK mutation"
+   ],
+   "ans": 0,
+   "exp": "Liddle syndrome is annotated ENaC overexpression. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-069",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "The third DOC indication for amiloride is:",
+   "opts": [
+    "Cystic fibrosis",
+    "Nephrotic syndrome",
+    "Cirrhosis",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "The amiloride DOC list includes cystic fibrosis. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-070",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "The note on thiazide use in lithium-induced and nephrogenic DI starts from the fact that DI causes pure loss of:",
+   "opts": [
+    "H2O",
+    "Na+",
+    "K+",
+    "Glucose"
+   ],
+   "ans": 0,
+   "exp": "The note says pure loss of H2O in DI. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-071",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "In DI, thiazides cause loss of Na+ with H2O, which triggers reabsorption of H2O and Na+ by the:",
+   "opts": [
+    "PCT",
+    "DCT",
+    "TAL",
+    "Collecting duct"
+   ],
+   "ans": 0,
+   "exp": "The note says triggers reabsorption of H2O and Na+ by PCT. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-072",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "Triamterene is used for the treatment of:",
+   "opts": [
+    "Edema",
+    "Hypertension only",
+    "Glaucoma",
+    "Diabetes insipidus"
+   ],
+   "ans": 0,
+   "exp": "The triamterene line says use: Rx of edema. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-073",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "The side effect of triamterene is:",
+   "opts": [
+    "Folic acid deficiency",
+    "Vitamin B12 deficiency",
+    "Riboflavin deficiency",
+    "Vitamin K deficiency"
+   ],
+   "ans": 0,
+   "exp": "The triamterene S/E is folic acid deficiency. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-074",
+   "sec": "ENaC Blockers: Amiloride and Triamterene",
+   "page": 109,
+   "q": "Because of folic acid deficiency, triamterene is contraindicated in:",
+   "opts": [
+    "Liver cirrhosis",
+    "Renal failure",
+    "Heart failure",
+    "COPD"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says liver cirrhosis. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-075",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "Mannitol is grouped in this chapter with:",
+   "opts": [
+    "Loop diuretics",
+    "Thiazides",
+    "CA inhibitors",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The heading reads Mannitol (Loop diuretic). (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-076",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "The IV route of mannitol is used for:",
+   "opts": [
+    "Diuresis",
+    "Constipation",
+    "Bronchial challenge",
+    "Irrigation"
+   ],
+   "ans": 0,
+   "exp": "The routes line says IV route: diuresis. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-077",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "The oral route of mannitol is used for:",
+   "opts": [
+    "Rx of constipation",
+    "Diuresis",
+    "Bronchial challenge",
+    "Dialysis disequilibrium"
+   ],
+   "ans": 0,
+   "exp": "The routes line says oral route: Rx of constipation. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-078",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "At the cellular level, mannitol acts by:",
+   "opts": [
+    "Extracting water into the systemic circulation",
+    "Blocking ENaC",
+    "Blocking Na+/K+/2Cl-",
+    "Inhibiting carbonic anhydrase"
+   ],
+   "ans": 0,
+   "exp": "The MOA says cellular level: extracts water into the systemic circulation. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-079",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "At the organ level (kidneys), mannitol causes:",
+   "opts": [
+    "Solute free water loss",
+    "Solute-rich water loss",
+    "Sodium retention",
+    "Potassium retention"
+   ],
+   "ans": 0,
+   "exp": "The MOA says organ level (kidneys): solute free water loss. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-080",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "Mannitol is DOC in:",
+   "opts": [
+    "Acute congestive glaucoma",
+    "Open angle glaucoma",
+    "Chronic glaucoma",
+    "Ocular hypertension only"
+   ],
+   "ans": 0,
+   "exp": "The uses line says DOC in acute congestive glaucoma. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-081",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "Mannitol is used for breaking:",
+   "opts": [
+    "Diuretic resistance",
+    "Cardiac arrhythmia",
+    "Bronchospasm",
+    "Hepatic coma"
+   ],
+   "ans": 0,
+   "exp": "The uses line says breaking of diuretic (resistance to diuretics). (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-082",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "For the bronchial challenge test, mannitol is used as:",
+   "opts": [
+    "Powdered form (inhaled)",
+    "IV infusion",
+    "Oral syrup",
+    "Nebulised solution only"
+   ],
+   "ans": 0,
+   "exp": "The uses line says bronchial challenge test: powdered form (inhaled). (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-083",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "Mannitol is DOC in cerebral edema and head trauma with:",
+   "opts": [
+    "Raised ICP",
+    "Low ICP",
+    "Raised IOP only",
+    "Cerebral infarction"
+   ],
+   "ans": 0,
+   "exp": "The uses line says DOC: cerebral edema, head trauma with up ICP. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-084",
+   "sec": "Mannitol",
+   "page": 109,
+   "q": "In dialysis disequilibrium, mannitol acts after aggressive diuresis lowers osmotic pressure, which otherwise causes:",
+   "opts": [
+    "Cerebral edema",
+    "Pulmonary edema",
+    "Peripheral edema",
+    "Laryngeal edema"
+   ],
+   "ans": 0,
+   "exp": "The dialysis disequilibrium line says down osmotic pressure, then cerebral edema. (Book p109)"
+  },
+  {
+   "id": "PHARM-C27-085",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "Mannitol is used before:",
+   "opts": [
+    "Expected/impending renal failure",
+    "Established renal failure",
+    "Nephrotic syndrome",
+    "Renal artery stenosis"
+   ],
+   "ans": 0,
+   "exp": "The first line on p110 says expected/impending renal failure. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-086",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "Mannitol is contraindicated in:",
+   "opts": [
+    "Pre-existing renal failure",
+    "Impending renal failure",
+    "Acute glaucoma",
+    "Head trauma"
+   ],
+   "ans": 0,
+   "exp": "The line says C/I in pre-existing renal failure. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-087",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "Mannitol is used as the irrigation fluid in TURP because it is:",
+   "opts": [
+    "Non-hemolytic",
+    "Hemolytic",
+    "Hypertonic to plasma only",
+    "Inexpensive"
+   ],
+   "ans": 0,
+   "exp": "The line says irrigation fluid in TURP (non-hemolytic). (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-088",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "TURP stands for:",
+   "opts": [
+    "Transurethral resection of the prostate",
+    "Transabdominal resection of the prostate",
+    "Transurethral repair of the prostate",
+    "Transvesical resection of the prostate"
+   ],
+   "ans": 0,
+   "exp": "The line expands TURP as transurethral resection of the prostate. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-089",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "In the electrolyte imbalance table, the cellular effect of K+ is:",
+   "opts": [
+    "Dilutional hypokalemia",
+    "Hyperkalemia",
+    "Hypokalemia with acidosis",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The table lists cellular effect: K+ dilutional hypokalemia. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-090",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "In the same table, the cellular effect of Na+ is:",
+   "opts": [
+    "Dilutional hyponatremia",
+    "Hypernatremia",
+    "Hyponatremia with hypovolemia",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The table lists cellular effect: Na+ dilutional hyponatremia. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-091",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "The renal effect of K+ in the electrolyte imbalance table is:",
+   "opts": [
+    "Hyperkalemia",
+    "Dilutional hypokalemia",
+    "Hypokalemia",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The table lists renal effect: K+ hyperkalemia. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-092",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "The renal effect of Na+ in the electrolyte imbalance table is:",
+   "opts": [
+    "Hypernatremia",
+    "Dilutional hyponatremia",
+    "Hyponatremia",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The table lists renal effect: Na+ hypernatremia. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-093",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "The second side effect of mannitol listed is:",
+   "opts": [
+    "Pulmonary edema",
+    "Cerebral edema",
+    "Peripheral edema",
+    "Laryngeal edema"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives 2. pulmonary edema. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-094",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "The contraindication to mannitol is active:",
+   "opts": [
+    "Intracranial hemorrhage",
+    "Gastrointestinal hemorrhage",
+    "Epistaxis",
+    "Hematuria"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says active intracranial hemorrhage. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-095",
+   "sec": "Mannitol",
+   "page": 110,
+   "q": "Active intracranial hemorrhage contraindicates mannitol because it causes:",
+   "opts": [
+    "Cerebral edema",
+    "Pulmonary edema",
+    "Hypovolemia",
+    "Hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says causes cerebral edema. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-096",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Positive free water clearance occurs in the thick ascending loop and:",
+   "opts": [
+    "DCT",
+    "Collecting duct",
+    "PCT",
+    "Descending limb"
+   ],
+   "ans": 0,
+   "exp": "The FWC diagram labels thick ascending loop and DCT for positive FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-097",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Positive FWC means reabsorption of solute with water:",
+   "opts": [
+    "Staying in the lumen",
+    "Leaving the lumen",
+    "Being secreted",
+    "Being reabsorbed maximally"
+   ],
+   "ans": 0,
+   "exp": "The positive FWC definition says water stays in the lumen. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-098",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Negative free water clearance occurs in the:",
+   "opts": [
+    "Collecting duct",
+    "DCT",
+    "TAL",
+    "PCT"
+   ],
+   "ans": 0,
+   "exp": "The FWC diagram labels collecting duct for negative FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-099",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Water movement in the collecting duct occurs through:",
+   "opts": [
+    "Aquaporins",
+    "ENaC",
+    "ROMK",
+    "Na+/K+/2Cl-"
+   ],
+   "ans": 0,
+   "exp": "The collecting duct diagram labels aquaporins. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-100",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "The hormone acting on V2 receptors in the collecting duct is:",
+   "opts": [
+    "Vasopressin",
+    "Aldosterone",
+    "ANP",
+    "Oxytocin"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels vasopressin with V2. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-101",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Negative FWC means reabsorption of:",
+   "opts": [
+    "Water only",
+    "Solute only",
+    "Water and solute",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "The negative FWC definition says reabsorption of water only. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-102",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Carbonic anhydrase inhibitors leave Na+ reabsorbed in the TAL and therefore:",
+   "opts": [
+    "Increase positive FWC",
+    "Decrease positive FWC",
+    "Decrease negative FWC",
+    "Have no effect on FWC"
+   ],
+   "ans": 0,
+   "exp": "The FWC table says CA inhibitors: reabsorbed in TAL, up positive FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-103",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Loop diuretics prevent Na+ reabsorption in the TAL, which decreases:",
+   "opts": [
+    "Positive FWC",
+    "Negative FWC only",
+    "Both positive and negative FWC equally",
+    "No FWC change"
+   ],
+   "ans": 0,
+   "exp": "The table says Na+ not reabsorbed in TAL, down positive FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-104",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Loop diuretics decrease medullary hyperosmolarity, which in turn decreases:",
+   "opts": [
+    "Negative FWC",
+    "Positive FWC only",
+    "Plasma osmolarity",
+    "GFR"
+   ],
+   "ans": 0,
+   "exp": "The table arrow from down medullary hyperosmolarity leads to down negative FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-105",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "page": 110,
+   "q": "Thiazides act by decreasing reabsorption in the DCT, which decreases:",
+   "opts": [
+    "Positive FWC",
+    "Negative FWC only",
+    "Medullary hyperosmolarity",
+    "Plasma sodium"
+   ],
+   "ans": 0,
+   "exp": "The table says down reabsorption in DCT, down positive FWC. (Book p110)"
+  },
+  {
+   "id": "PHARM-C27-106",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Vasopressin is released from the:",
+   "opts": [
+    "Hypothalamus",
+    "Pituitary only",
+    "Adrenal cortex",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels hypothalamus above vasopressin. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-107",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The receptor through which vasopressin acts on the medullary collecting duct is:",
+   "opts": [
+    "V2",
+    "V1",
+    "V1a only",
+    "Oxytocin receptor"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows vasopressin acting on V2 at the medullary CD. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-108",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Vasopressin antagonists are used in:",
+   "opts": [
+    "SIADH",
+    "Central DI",
+    "Nephrogenic DI",
+    "Diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "The antagonists line says used in SIADH. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-109",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "In SIADH, the disturbance of vasopressin is:",
+   "opts": [
+    "Increased endogenous vasopressin",
+    "Decreased endogenous vasopressin",
+    "Absent receptors",
+    "Normal level"
+   ],
+   "ans": 0,
+   "exp": "The SIADH line says d/t up endogenous vasopressin. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-110",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The vasopressin antagonists listed are conivaptan, tolvaptan and:",
+   "opts": [
+    "Mozavaptan",
+    "Desmopressin",
+    "Terlipressin",
+    "Vasopressin"
+   ],
+   "ans": 0,
+   "exp": "The antagonist drug list gives conivaptan, mozavaptan, tolvaptan. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-111",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Vasopressin analogues are used in:",
+   "opts": [
+    "Central DI",
+    "SIADH",
+    "Nephrogenic DI",
+    "Cerebral edema"
+   ],
+   "ans": 0,
+   "exp": "The analogues line says used in central DI. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-112",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "In central DI, the defect is:",
+   "opts": [
+    "Decreased endogenous vasopressin",
+    "Increased endogenous vasopressin",
+    "Renal resistance to vasopressin",
+    "Excess aquaporins"
+   ],
+   "ans": 0,
+   "exp": "The analogues line says d/t down endogenous vasopressin. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-113",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The vasopressin analogues listed are vasopressin, desmopressin and:",
+   "opts": [
+    "Terlipressin",
+    "Tolvaptan",
+    "Conivaptan",
+    "Mozavaptan"
+   ],
+   "ans": 0,
+   "exp": "The analogue list gives vasopressin, terlipressin, desmopressin. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-114",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Recombinant vasopressin acts on the V1 receptor, which is coupled to:",
+   "opts": [
+    "Gq",
+    "Gs",
+    "Gi",
+    "G12"
+   ],
+   "ans": 0,
+   "exp": "The V1 receptor action is annotated (Gq). (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-115",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Activation of V1 receptors on blood vessels causes:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilation",
+    "No vascular change",
+    "Increased capillary permeability"
+   ],
+   "ans": 0,
+   "exp": "The blood vessel branch says vasoconstriction. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-116",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "A use of vasopressin acting on V1 in blood vessels is:",
+   "opts": [
+    "Norepinephrine resistant shock",
+    "Septic shock only",
+    "Cardiogenic shock only",
+    "Anaphylaxis"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives norepinephrine resistant shock. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-117",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The second vascular use of vasopressin listed is:",
+   "opts": [
+    "Acute variceal bleed",
+    "Peptic ulcer bleed",
+    "Hemoptysis",
+    "Epistaxis"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives acute variceal bleed. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-118",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The side effect of vasopressin on blood vessels is:",
+   "opts": [
+    "Facial pallor",
+    "Flushing",
+    "Headache",
+    "Hypertension only"
+   ],
+   "ans": 0,
+   "exp": "The vascular s/e line says facial pallor. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-119",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Activation of V1 receptors in the GIT causes:",
+   "opts": [
+    "Contraction",
+    "Relaxation",
+    "Secretion",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "The GIT branch says contraction. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-120",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The GIT uses of vasopressin are paralytic ileus and:",
+   "opts": [
+    "Abdominal distention",
+    "Diarrhea",
+    "Constipation",
+    "Hematemesis"
+   ],
+   "ans": 0,
+   "exp": "The GIT uses list gives paralytic ileus and abdominal distention. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-121",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The GIT side effect of vasopressin is:",
+   "opts": [
+    "Abdominal cramps",
+    "Melena",
+    "Vomiting",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "The GIT s/e line says abdominal cramps. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-122",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Action of vasopressin on the V2 receptor (Gs coupled) is used in:",
+   "opts": [
+    "Central DI",
+    "SIADH",
+    "Nephrogenic DI",
+    "Nocturnal enuresis only"
+   ],
+   "ans": 0,
+   "exp": "The V2 line says central DI. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-123",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Terlipressin is DOC in:",
+   "opts": [
+    "Acute variceal bleed",
+    "Norepinephrine resistant shock",
+    "Nocturnal enuresis",
+    "Hemophilia A"
+   ],
+   "ans": 0,
+   "exp": "The terlipressin line says DOC: acute variceal bleed. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-124",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Terlipressin is the only drug to:",
+   "opts": [
+    "Decrease mortality in acute variceal bleed",
+    "Increase mortality",
+    "Cause no side effects",
+    "Be given orally"
+   ],
+   "ans": 0,
+   "exp": "The terlipressin line says only drug to down mortality. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-125",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The alternative drug to terlipressin in acute variceal bleed is:",
+   "opts": [
+    "Octreotide",
+    "Desmopressin",
+    "Vasopressin",
+    "Conivaptan"
+   ],
+   "ans": 0,
+   "exp": "The alternative line says octreotide. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-126",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "Desmopressin is DOC for central DI and:",
+   "opts": [
+    "Nocturnal enuresis",
+    "Nephrogenic DI",
+    "SIADH",
+    "Diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "The desmopressin DOC list includes nocturnal enuresis. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-127",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The bleeding disorder indications for desmopressin are von Willebrand disease and:",
+   "opts": [
+    "Hemophilia A",
+    "Hemophilia B",
+    "Hemophilia C",
+    "Platelet storage pool disease"
+   ],
+   "ans": 0,
+   "exp": "The desmopressin DOC list ends with hemophilia A. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-128",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The DOC for nephrogenic DI, as noted on the page, is:",
+   "opts": [
+    "Thiazides",
+    "Desmopressin",
+    "Vasopressin",
+    "Tolvaptan"
+   ],
+   "ans": 0,
+   "exp": "The note says DOC for nephrogenic DI: thiazides. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-129",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "page": 111,
+   "q": "The TOC for nocturnal enuresis noted on the page is:",
+   "opts": [
+    "Bed alarm therapy",
+    "Desmopressin",
+    "Imipramine",
+    "Oxybutynin"
+   ],
+   "ans": 0,
+   "exp": "The note says TOC for nocturnal enuresis: bed alarm therapy. (Book p111)"
+  },
+  {
+   "id": "PHARM-C27-130",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "In emergencies of SIADH, the vasopressin antagonist given is:",
+   "opts": [
+    "Conivaptan (I/v)",
+    "Tolvaptan",
+    "Mozavaptan",
+    "Desmopressin"
+   ],
+   "ans": 0,
+   "exp": "The emergencies line says conivaptan (I/v). (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-131",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "For maintenance/long-term therapy of SIADH, the oral vasopressin antagonists are tolvaptan and:",
+   "opts": [
+    "Mozavaptan",
+    "Conivaptan",
+    "Desmopressin",
+    "Terlipressin"
+   ],
+   "ans": 0,
+   "exp": "The oral bracket covers tolvaptan and mozavaptan. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-132",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "Tolvaptan is limited to one month of use due to:",
+   "opts": [
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Ototoxicity",
+    "Cardiotoxicity"
+   ],
+   "ans": 0,
+   "exp": "The tolvaptan line says up to one month due to hepatotoxicity. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-133",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "In mild acute SIADH, the treatment is free water restriction plus:",
+   "opts": [
+    "Sodium tablets",
+    "Hypertonic saline",
+    "Vasopressin",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "The mild branch says free water restriction + sodium tablets. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-134",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "Moderate acute SIADH presents with:",
+   "opts": [
+    "Lethargy and confusion",
+    "Seizures only",
+    "No symptoms",
+    "Coma only"
+   ],
+   "ans": 0,
+   "exp": "The moderate branch lists lethargy and confusion. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-135",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "Severe acute SIADH presents with:",
+   "opts": [
+    "Seizures",
+    "Lethargy only",
+    "Confusion only",
+    "Headache only"
+   ],
+   "ans": 0,
+   "exp": "The severe branch lists seizures. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-136",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "Both moderate and severe acute SIADH are treated with:",
+   "opts": [
+    "Hypertonic saline",
+    "Free water restriction alone",
+    "Vasopressin",
+    "Desmopressin"
+   ],
+   "ans": 0,
+   "exp": "The bracket over moderate and severe points to hypertonic saline. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-137",
+   "sec": "Vasopressin Antagonists and Management of SIADH",
+   "page": 112,
+   "q": "Long-term maintenance in SIADH consists of free water restriction with or without:",
+   "opts": [
+    "Sodium tablets",
+    "Hypertonic saline",
+    "Vasopressin antagonist",
+    "Loop diuretic"
+   ],
+   "ans": 0,
+   "exp": "The long-term branch says free water restriction +/- sodium tablets. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-138",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The target of carbonic anhydrase inhibitors in the summary table is:",
+   "opts": [
+    "PCT: carbonic anhydrase",
+    "TAL: Na+/K+/2Cl-",
+    "DCT: Na+/Cl-",
+    "Collecting duct: ENaC"
+   ],
+   "ans": 0,
+   "exp": "The CA inhibitor row gives PCT: carbonic anhydrase. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-139",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The CA inhibitor drug named in the summary table is:",
+   "opts": [
+    "Acetazolamide",
+    "Dichlorphenamide",
+    "Methazolamide",
+    "Brinzolamide"
+   ],
+   "ans": 0,
+   "exp": "The CA inhibitor row names acetazolamide. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-140",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The use given for acetazolamide in the summary table is:",
+   "opts": [
+    "Acute mountain sickness",
+    "Pulmonary edema",
+    "Cirrhotic edema",
+    "Diuretic disequilibrium"
+   ],
+   "ans": 0,
+   "exp": "The acetazolamide row says acute mountain sickness. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-141",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The summary table lists renal stones, hypokalemia and metabolic acidosis as side effects of:",
+   "opts": [
+    "CA inhibitors",
+    "Loop diuretics",
+    "Thiazides",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "The CA inhibitor row lists these side effects. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-142",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "Hypersensitivity with rash and bone marrow suppression is listed for:",
+   "opts": [
+    "CA inhibitors",
+    "Loop diuretics",
+    "K+ sparing diuretics",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "The CA inhibitor row lists hypersensitivity including rash and BM suppression. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-143",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The CA inhibitor row lists increased NH4+ with the contraindication of:",
+   "opts": [
+    "Liver cirrhosis",
+    "Renal failure",
+    "COPD",
+    "Pregnancy"
+   ],
+   "ans": 0,
+   "exp": "The CA inhibitor row says up NH4+: C/I liver cirrhosis. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-144",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The summary table lists amiloride as the \"diuretic\" for which class?",
+   "opts": [
+    "CA inhibitors",
+    "Loop diuretics",
+    "Thiazides",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The amiloride mention sits in the CA inhibitor row listing a diuretic. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-145",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The target of loop diuretics in the summary table is:",
+   "opts": [
+    "Thick ascending loop: Na+/K+/2Cl-",
+    "PCT: carbonic anhydrase",
+    "DCT: Na+/Cl-",
+    "Loop > PCT"
+   ],
+   "ans": 0,
+   "exp": "The loop row gives thick ascending loop: Na+/K+/2Cl-. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-146",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "In the summary table, the DOC use of furosemide is:",
+   "opts": [
+    "Pulmonary edema",
+    "Cerebral edema",
+    "Acute mountain sickness",
+    "Cirrhotic edema"
+   ],
+   "ans": 0,
+   "exp": "The loop row says DOC: pulmonary edema. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-147",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "According to the loop row, if GFR is below 40 the DOC remains:",
+   "opts": [
+    "Loop diuretics",
+    "Thiazides",
+    "CA inhibitors",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The loop row says if GFR <40, DOC: loop diuretics. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-148",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "Metolazone is added in the loop row when there is:",
+   "opts": [
+    "No response",
+    "Hyperkalemia",
+    "Hypertension",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "The loop row says metolazone added if no response. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-149",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The loop diuretic row lists decreased Ca2+ with the use of treating:",
+   "opts": [
+    "Hypercalcemia",
+    "Hypocalcemia",
+    "Osteoporosis",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "The loop row says down Ca2+: Rx hypercalcemia. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-150",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "Hyperglycemia and hyperuricemia are side effects listed for loop diuretics and:",
+   "opts": [
+    "Thiazides",
+    "CA inhibitors",
+    "Mannitol",
+    "K+ sparing diuretics"
+   ],
+   "ans": 0,
+   "exp": "The table lists these effects for loop diuretics with thiazides having similar effects. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-151",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The target of thiazides in the summary table is:",
+   "opts": [
+    "DCT: Na+/Cl-",
+    "TAL: Na+/K+/2Cl-",
+    "PCT: carbonic anhydrase",
+    "ENaC"
+   ],
+   "ans": 0,
+   "exp": "The thiazide row gives DCT: Na+/Cl-. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-152",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The thiazide drug named in the summary row is:",
+   "opts": [
+    "Chlorthalidone",
+    "Metolazone",
+    "Indapamide",
+    "Chlorothiazide"
+   ],
+   "ans": 0,
+   "exp": "The thiazide row names chlorthalidone. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-153",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The use of thiazides in the summary table is:",
+   "opts": [
+    "1st line drug in HTN",
+    "DOC pulmonary edema",
+    "DOC cerebral edema",
+    "Acute mountain sickness"
+   ],
+   "ans": 0,
+   "exp": "The thiazide row says 1st line drug in HTN. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-154",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "Increased Ca2+ in the thiazide row supports use in HTN with:",
+   "opts": [
+    "Osteoporosis",
+    "Gout",
+    "Hypercalcemia",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "The thiazide row says up Ca2+: Rx HTN with osteoporosis. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-155",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The two targets named for K+ sparing diuretics are aldosterone receptor blockers and:",
+   "opts": [
+    "ENaC blockers",
+    "Na+/Cl- cotransporter",
+    "Na+/K+/2Cl-",
+    "Aquaporins"
+   ],
+   "ans": 0,
+   "exp": "The K+ sparing row lists aldosterone receptor blockers and ENaC blockers. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-156",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "In the summary table, spironolactone is DOC for:",
+   "opts": [
+    "Cirrhotic edema",
+    "Pulmonary edema",
+    "Acute glaucoma",
+    "Diuretic disequilibrium"
+   ],
+   "ans": 0,
+   "exp": "The spironolactone row says DOC: cirrhotic edema. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-157",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The side effect listed with spironolactone in the summary table is:",
+   "opts": [
+    "Gynecomastia",
+    "Erectile dysfunction",
+    "Ototoxicity",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "The K+ sparing row lists gynecomastia. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-158",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "In the summary table, amiloride is DOC for:",
+   "opts": [
+    "Li induced DI",
+    "Cirrhotic edema",
+    "Pulmonary edema",
+    "Cerebral edema"
+   ],
+   "ans": 0,
+   "exp": "The amiloride row says DOC: Li induced D.I. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-159",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The metabolic side effect listed for K+ sparing diuretics in the summary table is:",
+   "opts": [
+    "Metabolic acidosis",
+    "Metabolic alkalosis",
+    "Respiratory acidosis",
+    "Respiratory alkalosis"
+   ],
+   "ans": 0,
+   "exp": "The K+ sparing row lists metabolic acidosis with up K+. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-160",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The target listed for mannitol in the summary table is:",
+   "opts": [
+    "Loop > PCT",
+    "PCT only",
+    "DCT only",
+    "Collecting duct"
+   ],
+   "ans": 0,
+   "exp": "The mannitol row gives target: Loop > PCT. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-161",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The summary table DOC indications for mannitol are cerebral edema, acute congestive glaucoma and:",
+   "opts": [
+    "Diuretic disequilibrium",
+    "Pulmonary edema",
+    "Cirrhotic edema",
+    "Acute mountain sickness"
+   ],
+   "ans": 0,
+   "exp": "The mannitol row lists all three DOC indications. (Book p112)"
+  },
+  {
+   "id": "PHARM-C27-162",
+   "sec": "Diuretics: Summary Table",
+   "page": 112,
+   "q": "The side effects listed for mannitol in the summary table are pulmonary edema and:",
+   "opts": [
+    "↑K+/↓K+ and ↑Na+/↓Na+",
+    "Renal stones",
+    "Gynecomastia",
+    "Hypersensitivity rash"
+   ],
+   "ans": 0,
+   "exp": "The mannitol row lists pulmonary edema and up/down K+ and Na+ disturbances. (Book p112)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U27-1",
+   "ch": 27,
+   "n": 1,
+   "title": "Thiazides: Site, Drug Groups and Metabolism",
+   "sec": "Thiazides: Site, Drug Groups and Metabolism · p106",
+   "qs": [
+    "PHARM-C27-001",
+    "PHARM-C27-002",
+    "PHARM-C27-003",
+    "PHARM-C27-004",
+    "PHARM-C27-005",
+    "PHARM-C27-006",
+    "PHARM-C27-007",
+    "PHARM-C27-008",
+    "PHARM-C27-009",
+    "PHARM-C27-010",
+    "PHARM-C27-011"
+   ],
+   "guide": "Thiazides act on the distal convoluted tubule. Based on metabolism they are divided into drugs with minimal metabolism that are excreted unchanged - chlorothiazide, polythiazide and bendroflumethiazide (all with 100% oral bioavailability), chlorthalidone (the longest acting, over 24 hours, and the thiazide of choice in HTN) and metolazone (most potent, effective even below GFR 40, and DOC in mild to moderate HTN with renal insufficiency) - and drugs with maximal metabolism and minimal renal excretion such as indapamide."
+  },
+  {
+   "id": "PHARM-U27-2",
+   "ch": 27,
+   "n": 2,
+   "title": "Thiazides: Mechanism of Action",
+   "sec": "Thiazides: Mechanism of Action · p106",
+   "qs": [
+    "PHARM-C27-012",
+    "PHARM-C27-013",
+    "PHARM-C27-014",
+    "PHARM-C27-015",
+    "PHARM-C27-016",
+    "PHARM-C27-017",
+    "PHARM-C27-018",
+    "PHARM-C27-019",
+    "PHARM-C27-020",
+    "PHARM-C27-021"
+   ],
+   "guide": "Thiazides block the Na+/Cl- cotransporter in the distal convoluted tubule. The reduced Na+/Cl- reabsorption lowers osmotic pressure (raising uric acid and glucose reabsorption and causing dyslipidemia), delivers Na+/Cl- to the collecting duct (increasing Mg2+, H+ and K+ excretion via the H+ ATPase and ROMK pumps) and lowers intracellular Na+, which activates the Na+/Ca2+ antiporter and increases Ca2+ reabsorption. Thiazides also open K+ channels in smooth muscle, giving direct vasodilation."
+  },
+  {
+   "id": "PHARM-U27-3",
+   "ch": 27,
+   "n": 3,
+   "title": "Thiazides: Effects, Uses and Side Effects",
+   "sec": "Thiazides: Effects, Uses and Side Effects · p107",
+   "qs": [
+    "PHARM-C27-022",
+    "PHARM-C27-023",
+    "PHARM-C27-024",
+    "PHARM-C27-025",
+    "PHARM-C27-026",
+    "PHARM-C27-027",
+    "PHARM-C27-028",
+    "PHARM-C27-029",
+    "PHARM-C27-030",
+    "PHARM-C27-031",
+    "PHARM-C27-032",
+    "PHARM-C27-033",
+    "PHARM-C27-034",
+    "PHARM-C27-035",
+    "PHARM-C27-036",
+    "PHARM-C27-037",
+    "PHARM-C27-038",
+    "PHARM-C27-039",
+    "PHARM-C27-040",
+    "PHARM-C27-041"
+   ],
+   "guide": "Thiazides produce moderate diuresis through a moderate (about 5%) loss of Na+/Cl- and water. They are DOC in HTN with edema of renal or hepatic origin, are ineffective at GFR below 40 (except metolazone), and can cause erectile dysfunction from volume depletion, while in HTN with CKD without edema the DOC changes to ACE inhibitors/ARBs. Direct vasodilation lets them serve as a first-line drug in HTN, and indapamide lowers the chance of erectile dysfunction because of less diuresis. Increased Ca2+ reabsorption causes hypercalcemia and makes them DOC in HTN with osteoporosis and useful in hypercalciuric renal stones, while effects shared with loop diuretics include hyperuricemia with gout, hyperglycemia worsening diabetes, dyslipidemia, hypokalemia, hypomagnesemia and metabolic alkalosis."
+  },
+  {
+   "id": "PHARM-U27-4",
+   "ch": 27,
+   "n": 4,
+   "title": "Potassium-sparing Diuretics: Drugs and Mechanism",
+   "sec": "Potassium-sparing Diuretics: Drugs and Mechanism · p107",
+   "qs": [
+    "PHARM-C27-042",
+    "PHARM-C27-043",
+    "PHARM-C27-044",
+    "PHARM-C27-045",
+    "PHARM-C27-046",
+    "PHARM-C27-047",
+    "PHARM-C27-048",
+    "PHARM-C27-049",
+    "PHARM-C27-050",
+    "PHARM-C27-051",
+    "PHARM-C27-052",
+    "PHARM-C27-053"
+   ],
+   "guide": "Potassium-sparing diuretics are divided into ENaC blockers (amiloride, triamterene) and aldosterone receptor blockers (spironolactone, eplerenone, finrenone). Blocking ENaC lowers Na+/H2O reabsorption by only 1-3% so diuresis is poor; the fall in intracellular Na+ then lowers activity of the H+ ATPase (H+ excretion falls, H+ rises in the body) and of ROMK (K+ excretion falls, K+ rises in the body). Thus they cause poor diuresis with potassium sparing, so they are combined with other diuretics to prevent hypokalemia, and they retain H+ (metabolic acidosis) and K+ (hyperkalemia)."
+  },
+  {
+   "id": "PHARM-U27-5",
+   "ch": 27,
+   "n": 5,
+   "title": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone",
+   "sec": "Aldosterone Receptor Blockers: Spironolactone, Eplerenone and Finrenone · p108",
+   "qs": [
+    "PHARM-C27-054",
+    "PHARM-C27-055",
+    "PHARM-C27-056",
+    "PHARM-C27-057",
+    "PHARM-C27-058",
+    "PHARM-C27-059",
+    "PHARM-C27-060",
+    "PHARM-C27-061",
+    "PHARM-C27-062",
+    "PHARM-C27-063",
+    "PHARM-C27-064",
+    "PHARM-C27-065",
+    "PHARM-C27-066"
+   ],
+   "guide": "Aldosterone receptor blockers are the only diuretics that do not act via the tubular lumen. Spironolactone is a prodrug whose active component is canrenone; it is DOC in cirrhotic edema and in resistant edema and HTN unresponsive to loop and thiazide diuretics. Its side effects come from receptor blockade: progesterone receptor blockade causes menstrual irregularities and testosterone receptor blockade causes gynecomastia and impotence, for which it is used as a second-line drug for hirsutism in PCOS (DOC: OCPs). Eplerenone is DOC in cirrhotic edema without the side effects of spironolactone, and finrenone is a new drug used in CHF with DM that lowers cardiovascular mortality in CHF/MI."
+  },
+  {
+   "id": "PHARM-U27-6",
+   "ch": 27,
+   "n": 6,
+   "title": "ENaC Blockers: Amiloride and Triamterene",
+   "sec": "ENaC Blockers: Amiloride and Triamterene · p109",
+   "qs": [
+    "PHARM-C27-067",
+    "PHARM-C27-068",
+    "PHARM-C27-069",
+    "PHARM-C27-070",
+    "PHARM-C27-071",
+    "PHARM-C27-072",
+    "PHARM-C27-073",
+    "PHARM-C27-074"
+   ],
+   "guide": "Amiloride is DOC in lithium-induced diabetes insipidus (because Li+ is reabsorbed by ENaC), Liddle syndrome (ENaC overexpression) and cystic fibrosis. The page also notes that thiazides are used in lithium-induced and nephrogenic DI: the pure water loss of DI plus a thiazide leads to loss of Na+ with water, which triggers reabsorption of both water and Na+ by the PCT. Triamterene is used to treat edema and its side effect is folic acid deficiency, which contraindicates it in liver cirrhosis."
+  },
+  {
+   "id": "PHARM-U27-7",
+   "ch": 27,
+   "n": 7,
+   "title": "Mannitol",
+   "sec": "Mannitol · p109",
+   "qs": [
+    "PHARM-C27-075",
+    "PHARM-C27-076",
+    "PHARM-C27-077",
+    "PHARM-C27-078",
+    "PHARM-C27-079",
+    "PHARM-C27-080",
+    "PHARM-C27-081",
+    "PHARM-C27-082",
+    "PHARM-C27-083",
+    "PHARM-C27-084",
+    "PHARM-C27-085",
+    "PHARM-C27-086",
+    "PHARM-C27-087",
+    "PHARM-C27-088",
+    "PHARM-C27-089",
+    "PHARM-C27-090",
+    "PHARM-C27-091",
+    "PHARM-C27-092",
+    "PHARM-C27-093",
+    "PHARM-C27-094",
+    "PHARM-C27-095"
+   ],
+   "guide": "Mannitol is listed with the loop diuretics. It is given IV for diuresis and orally for constipation. At the cellular level it extracts water into the systemic circulation, and at the organ level in the kidneys it causes solute free water loss. Its uses are DOC in acute congestive glaucoma, breaking diuretic resistance, bronchial challenge testing with the inhaled powdered form, DOC in cerebral edema and head trauma with raised ICP, and dialysis disequilibrium (aggressive diuresis lowers osmotic pressure and causes cerebral edema); it is used before expected or impending renal failure but is contraindicated in pre-existing renal failure, and it serves as the non-hemolytic irrigation fluid in transurethral resection of the prostate."
+  },
+  {
+   "id": "PHARM-U27-8",
+   "ch": 27,
+   "n": 8,
+   "title": "Free Water Clearance and the Effect of Diuretics on FWC",
+   "sec": "Free Water Clearance and the Effect of Diuretics on FWC · p110",
+   "qs": [
+    "PHARM-C27-096",
+    "PHARM-C27-097",
+    "PHARM-C27-098",
+    "PHARM-C27-099",
+    "PHARM-C27-100",
+    "PHARM-C27-101",
+    "PHARM-C27-102",
+    "PHARM-C27-103",
+    "PHARM-C27-104",
+    "PHARM-C27-105"
+   ],
+   "guide": "In the thick ascending loop and distal convoluted tubule, Na+/Cl- reabsorption creates medullary hyperosmolarity and gives a positive free water clearance: solute is reabsorbed while water stays in the lumen. In the collecting duct, water moves through aquaporins under vasopressin acting on V2 receptors to give a negative free water clearance, meaning reabsorption of water only. Diuretics modify these: carbonic anhydrase inhibitors leave Na+ reabsorbed in the thick ascending limb and increase positive FWC; loop diuretics stop TAL Na+ reabsorption, lowering medullary hyperosmolarity and decreasing both positive and negative FWC; thiazides decrease reabsorption in the DCT and lower positive FWC."
+  },
+  {
+   "id": "PHARM-U27-9",
+   "ch": 27,
+   "n": 9,
+   "title": "Vasopressin Receptor Drugs: Analogues and Antagonists",
+   "sec": "Vasopressin Receptor Drugs: Analogues and Antagonists · p111",
+   "qs": [
+    "PHARM-C27-106",
+    "PHARM-C27-107",
+    "PHARM-C27-108",
+    "PHARM-C27-109",
+    "PHARM-C27-110",
+    "PHARM-C27-111",
+    "PHARM-C27-112",
+    "PHARM-C27-113",
+    "PHARM-C27-114",
+    "PHARM-C27-115",
+    "PHARM-C27-116",
+    "PHARM-C27-117",
+    "PHARM-C27-118",
+    "PHARM-C27-119",
+    "PHARM-C27-120",
+    "PHARM-C27-121",
+    "PHARM-C27-122",
+    "PHARM-C27-123",
+    "PHARM-C27-124",
+    "PHARM-C27-125",
+    "PHARM-C27-126",
+    "PHARM-C27-127",
+    "PHARM-C27-128",
+    "PHARM-C27-129"
+   ],
+   "guide": "Vasopressin comes from the hypothalamus and acts on V2 receptors in the medullary collecting duct to move water, while Na+ movement in the TAL creates medullary hyperosmolarity. Vasopressin antagonists (conivaptan, mozavaptan, tolvaptan) are used in SIADH where endogenous vasopressin is increased, and vasopressin analogues (vasopressin, terlipressin, desmopressin) are used in central DI where endogenous vasopressin is decreased. Recombinant vasopressin acts on V1 (Gq) receptors in blood vessels to cause vasoconstriction - used in norepinephrine resistant shock and acute variceal bleed with facial pallor as a side effect - and in the GIT to cause contraction - used in paralytic ileus and abdominal distention with abdominal cramps; on V2 (Gs) receptors it treats central DI. Terlipressin is DOC in acute variceal bleed and the only drug to lower mortality (alternative: octreotide), and desmopressin is DOC for central DI, nocturnal enuresis, von Willebrand disease and hemophilia A."
+  },
+  {
+   "id": "PHARM-U27-10",
+   "ch": 27,
+   "n": 10,
+   "title": "Vasopressin Antagonists and Management of SIADH",
+   "sec": "Vasopressin Antagonists and Management of SIADH · p112",
+   "qs": [
+    "PHARM-C27-130",
+    "PHARM-C27-131",
+    "PHARM-C27-132",
+    "PHARM-C27-133",
+    "PHARM-C27-134",
+    "PHARM-C27-135",
+    "PHARM-C27-136",
+    "PHARM-C27-137"
+   ],
+   "guide": "Vasopressin antagonists are used in SIADH: conivaptan is given intravenously in emergencies, and for maintenance/long-term oral therapy tolvaptan (limited to one month because of hepatotoxicity) or mozavaptan are used. SIADH is managed acutely by severity: mild cases get free water restriction with sodium tablets, while moderate cases (lethargy, confusion) and severe cases (seizures) get hypertonic saline. Long-term maintenance is free water restriction with or without sodium tablets."
+  },
+  {
+   "id": "PHARM-U27-11",
+   "ch": 27,
+   "n": 11,
+   "title": "Diuretics: Summary Table",
+   "sec": "Diuretics: Summary Table · p112",
+   "qs": [
+    "PHARM-C27-138",
+    "PHARM-C27-139",
+    "PHARM-C27-140",
+    "PHARM-C27-141",
+    "PHARM-C27-142",
+    "PHARM-C27-143",
+    "PHARM-C27-144",
+    "PHARM-C27-145",
+    "PHARM-C27-146",
+    "PHARM-C27-147",
+    "PHARM-C27-148",
+    "PHARM-C27-149",
+    "PHARM-C27-150",
+    "PHARM-C27-151",
+    "PHARM-C27-152",
+    "PHARM-C27-153",
+    "PHARM-C27-154",
+    "PHARM-C27-155",
+    "PHARM-C27-156",
+    "PHARM-C27-157",
+    "PHARM-C27-158",
+    "PHARM-C27-159",
+    "PHARM-C27-160",
+    "PHARM-C27-161",
+    "PHARM-C27-162"
+   ],
+   "guide": "The summary table places each diuretic class with its target: carbonic anhydrase inhibitors act on PCT carbonic anhydrase (acetazolamide, used in acute mountain sickness, causing renal stones, hypokalemia, metabolic acidosis, sulfonamide hypersensitivity and hyperammonemia that contraindicates them in liver cirrhosis), loop diuretics block Na+/K+/2Cl- in the thick ascending loop (furosemide, DOC in pulmonary edema, and if GFR is below 40 loops remain DOC with metolazone added if there is no response), thiazides block Na+/Cl- in the DCT (chlorthalidone, first-line in HTN, increasing Ca2+ so they are used in HTN with osteoporosis), potassium-sparing diuretics act on aldosterone receptors or ENaC (spironolactone DOC in cirrhotic edema causing gynecomastia; amiloride DOC in lithium-induced DI) and mannitol acts on loop more than PCT (DOC in cerebral edema, acute congestive glaucoma and diuretic disequilibrium)."
+  }
+ ]
+}

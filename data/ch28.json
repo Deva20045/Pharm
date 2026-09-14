@@ -1,0 +1,1876 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C28-001",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "Epilepsy is classified into generalised, childhood and:",
+   "opts": [
+    "Partial",
+    "Focal only",
+    "Secondary",
+    "Cryptogenic only"
+   ],
+   "ans": 0,
+   "exp": "The epilepsy tree branches into generalised, partial and childhood. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-002",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "Under generalised epilepsy, the three seizure types listed are GTCS, myoclonic seizure and:",
+   "opts": [
+    "Absence seizure",
+    "Partial seizure",
+    "Rolandic epilepsy",
+    "Dravet syndrome"
+   ],
+   "ans": 0,
+   "exp": "The generalised branch lists GTCS, m.s. and AS. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-003",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "GTCS stands for:",
+   "opts": [
+    "Generalised tonic clonic seizure",
+    "Generalised tonic seizure",
+    "Grand tonic contraction seizure",
+    "Generalised tonic-clonic spasm"
+   ],
+   "ans": 0,
+   "exp": "The tree labels GTCS as generalised tonic clonic seizure. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-004",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "The most common subtype of myoclonic seizure is:",
+   "opts": [
+    "Juvenile myoclonic epilepsy (JME)",
+    "Childhood absence epilepsy",
+    "Rolandic epilepsy",
+    "Lennox Gastaut syndrome"
+   ],
+   "ans": 0,
+   "exp": "The myoclonic branch says m/c subtype: juvenile myoclonic epilepsy (JME). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-005",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "The two childhood epileptic syndromes listed are Lennox Gastaut syndrome and:",
+   "opts": [
+    "Dravet syndrome",
+    "West syndrome",
+    "Ohtahara syndrome",
+    "Rasmussen syndrome"
+   ],
+   "ans": 0,
+   "exp": "The childhood branch gives LGS and Dravet syndrome (DS). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-006",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "The first step in the GTCS mechanism is spontaneous generation of action potentials by the:",
+   "opts": [
+    "T-Type Ca2+ channel",
+    "Na+ channel",
+    "K+ channel",
+    "Cl- channel"
+   ],
+   "ans": 0,
+   "exp": "The GTCS flow starts with T-type Ca+ channel (spontaneous generation AP). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-007",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "T-type Ca2+ channel activity in GTCS leads to:",
+   "opts": [
+    "Thalamo-cortical reciprocal firing",
+    "Spinal cord depolarisation directly",
+    "Muscle contraction directly",
+    "Cortical inhibition"
+   ],
+   "ans": 0,
+   "exp": "The flow says thalamo-cortical reciprocal firing after the T-type channel. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-008",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "Propagation of the action potential in GTCS is mediated by:",
+   "opts": [
+    "Na+ channel",
+    "Ca2+ channel",
+    "K+ channel",
+    "Cl- channel"
+   ],
+   "ans": 0,
+   "exp": "The flow labels Na+ channel (propagation of AP). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-009",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "The final step of the GTCS mechanism is:",
+   "opts": [
+    "Spinal cord depolarization",
+    "Cortical hyperpolarization",
+    "Cerebellar inhibition",
+    "Thalamic inhibition"
+   ],
+   "ans": 0,
+   "exp": "The flow ends at spinal cord (S.C.) depolarization. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-010",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "The brain diagram for GTCS and m.s. labels the sub-cortex as:",
+   "opts": [
+    "Thalamus",
+    "Basal ganglia",
+    "Hippocampus",
+    "Midbrain"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels thalamus (sub cortex). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-011",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "In the diagram, the two channels blocked to prevent the action potential of epilepsy are Ca2+ channel and:",
+   "opts": [
+    "Na+ channel",
+    "K+ channel",
+    "Cl- channel",
+    "HCN channel"
+   ],
+   "ans": 0,
+   "exp": "The key shows X Ca2+ channel, X Na+ channel leading to action potential. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-012",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "A feature of GTCS is generalised:",
+   "opts": [
+    "Muscle contraction",
+    "Muscle relaxation",
+    "Focal twitching",
+    "Sensory aura only"
+   ],
+   "ans": 0,
+   "exp": "The GTCS features start with generalised m/s contraction. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-013",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "Teeth clenching in GTCS is accompanied by:",
+   "opts": [
+    "Tongue bite with blood from mouth",
+    "Lip smacking",
+    "Drooling only",
+    "Jaw deviation"
+   ],
+   "ans": 0,
+   "exp": "The features list teeth clenching and tongue bite (blood from mouth). (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-014",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "page": 113,
+   "q": "Besides motor features, GTCS is accompanied by involuntary:",
+   "opts": [
+    "Urination and defecation",
+    "Vomiting",
+    "Coughing",
+    "Sneezing"
+   ],
+   "ans": 0,
+   "exp": "The features list involuntary urination and defecation. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-015",
+   "sec": "Myoclonic Seizure (m.s.)",
+   "page": 113,
+   "q": "Myoclonic seizures typically occur during the:",
+   "opts": [
+    "Morning",
+    "Night",
+    "Afternoon",
+    "Evening only"
+   ],
+   "ans": 0,
+   "exp": "The m.s. feature says occurs during morning. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-016",
+   "sec": "Myoclonic Seizure (m.s.)",
+   "page": 113,
+   "q": "The characteristic feature of myoclonic seizure is:",
+   "opts": [
+    "Twitching of finger",
+    "Generalised tonic contraction",
+    "Blank stare",
+    "Tongue bite"
+   ],
+   "ans": 0,
+   "exp": "The m.s. feature is twitching of finger. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-017",
+   "sec": "Myoclonic Seizure (m.s.)",
+   "page": 113,
+   "q": "Myoclonic seizures are worsened by phenytoin and:",
+   "opts": [
+    "Carbamazepine",
+    "Valproate",
+    "Levetiracetam",
+    "Clonazepam"
+   ],
+   "ans": 0,
+   "exp": "The worsened-by line lists phenytoin and carbamazepine. (Book p113)"
+  },
+  {
+   "id": "PHARM-C28-018",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The absence seizure mechanism begins with spontaneous action potentials from the:",
+   "opts": [
+    "T-Type Ca2+ channel",
+    "Na+ channel",
+    "K+ channel",
+    "HCN channel"
+   ],
+   "ans": 0,
+   "exp": "The AS diagram starts with T-type Ca+ channel (spontaneous AP). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-019",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "Typical absence seizure is described as:",
+   "opts": [
+    "Most common (m/c)",
+    "Rare",
+    "Always atypical",
+    "Only in adults"
+   ],
+   "ans": 0,
+   "exp": "The table header says Typical AS (m/c). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-020",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "Regarding motor symptoms, typical absence seizure has:",
+   "opts": [
+    "No motor symptoms",
+    "Generalised contraction",
+    "Focal clonus",
+    "Tongue bite"
+   ],
+   "ans": 0,
+   "exp": "The typical AS features say no motor symptoms. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-021",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The behavioural abnormality of typical AS includes blank stare and:",
+   "opts": [
+    "Surrounding cutoff",
+    "Automotor behaviour",
+    "Déjà vu",
+    "Fear aura"
+   ],
+   "ans": 0,
+   "exp": "The typical AS features list blank stare and surrounding cutoff. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-022",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The EEG finding of typical absence seizure is:",
+   "opts": [
+    "3 Hz spike",
+    "1 Hz spike",
+    "Spike and wave at 1 Hz",
+    "Diffuse slowing"
+   ],
+   "ans": 0,
+   "exp": "The typical AS row says EEG: 3 Hz spike. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-023",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "Atypical absence seizure is characterised by behavioural changes plus:",
+   "opts": [
+    "Change in muscle tone",
+    "Tongue bite",
+    "Incontinence",
+    "Generalised convulsion"
+   ],
+   "ans": 0,
+   "exp": "The atypical AS column says behavioural changes + change in muscle tone. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-024",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "When a partial seizure undergoes secondary generalisation, it is treated:",
+   "opts": [
+    "Like GTCS",
+    "Like absence seizure",
+    "With ketogenic diet",
+    "With surgery only"
+   ],
+   "ans": 0,
+   "exp": "The partial seizure flow says a-degree generalization, Rx like GTCS. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-025",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The causes of space occupying lesion (SOL) listed include neurocysticercosis, brain tumour and:",
+   "opts": [
+    "Gliosis (neuronal fibrosis)",
+    "Demyelination",
+    "Cerebral edema",
+    "Hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "The SOL causes list gives gliosis (neuronal fibrosis). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-026",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "Gliosis causing SOL is due to:",
+   "opts": [
+    "Trauma or stroke",
+    "Infection only",
+    "Genetic causes",
+    "Radiation only"
+   ],
+   "ans": 0,
+   "exp": "The gliosis line says d/t trauma and stroke. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-027",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "In partial seizure, the SOL lies in the:",
+   "opts": [
+    "Cortex",
+    "Thalamus",
+    "Brainstem",
+    "Cerebellum"
+   ],
+   "ans": 0,
+   "exp": "The flow begins SOL (cortex). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-028",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "Cortical SOLs act by irritating:",
+   "opts": [
+    "Cortical neurons",
+    "Thalamic neurons",
+    "Spinal motor neurons",
+    "Peripheral nerves"
+   ],
+   "ans": 0,
+   "exp": "The flow says SOL (cortex) irritates cortical neurons. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-029",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The action potential in partial seizure travels via Na+ channels to the:",
+   "opts": [
+    "Spinal cord",
+    "Cerebellum",
+    "Brainstem",
+    "Thalamus"
+   ],
+   "ans": 0,
+   "exp": "The flow says action potential via Na+ channels then spinal cord. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-030",
+   "sec": "Absence Seizure and Partial Seizure",
+   "page": 114,
+   "q": "The end result of the partial seizure pathway is:",
+   "opts": [
+    "Localised depolarisation and localised muscle contraction",
+    "Generalised contraction",
+    "Absence",
+    "Sensory loss"
+   ],
+   "ans": 0,
+   "exp": "The flow ends at localised depolarization then localised muscle contraction. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-031",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The features of Lennox Gastaut syndrome are resistant seizure and:",
+   "opts": [
+    "Mental retardation",
+    "Hemiparesis",
+    "Visual loss",
+    "Hearing loss"
+   ],
+   "ans": 0,
+   "exp": "The LGS row lists resistant seizure and mental retardation. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-032",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The DOC for Lennox Gastaut syndrome is:",
+   "opts": [
+    "Valproate",
+    "Lamotrigine",
+    "Rufinamide",
+    "Topiramate"
+   ],
+   "ans": 0,
+   "exp": "The LGS treatment list gives valproate (DOC). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-033",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The second-line drug for Lennox Gastaut syndrome is:",
+   "opts": [
+    "Lamotrigine",
+    "Rufinamide",
+    "Topiramate",
+    "Clobazam"
+   ],
+   "ans": 0,
+   "exp": "The LGS list marks lamotrigine (2nd). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-034",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The third-line drug for Lennox Gastaut syndrome is:",
+   "opts": [
+    "Rufinamide",
+    "Lamotrigine",
+    "Topiramate",
+    "Valproate"
+   ],
+   "ans": 0,
+   "exp": "The LGS list marks rufinamide (3rd). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-035",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "Clobazam/cannabinoids in LGS are reserved for:",
+   "opts": [
+    "Drop attacks",
+    "Status epilepticus",
+    "Absence seizures",
+    "Myoclonic jerks"
+   ],
+   "ans": 0,
+   "exp": "The LGS list says clobazam/cannabinoids reserved for drop attack. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-036",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The dietary treatment for Dravet syndrome is:",
+   "opts": [
+    "Ketogenic diet",
+    "Low protein diet",
+    "High sodium diet",
+    "Gluten free diet"
+   ],
+   "ans": 0,
+   "exp": "The DS row begins with diet: ketogenic. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-037",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The DOC for Dravet syndrome is:",
+   "opts": [
+    "Valproate",
+    "Clonazepam",
+    "Stiripentol",
+    "Lamotrigine"
+   ],
+   "ans": 0,
+   "exp": "The DS list gives valproate (DOC). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-038",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The second-line drug for Dravet syndrome is:",
+   "opts": [
+    "Clonazepam",
+    "Stiripentol",
+    "Valproate",
+    "Rufinamide"
+   ],
+   "ans": 0,
+   "exp": "The DS list marks clonazepam (2nd). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-039",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The third-line drug for Dravet syndrome is:",
+   "opts": [
+    "Stiripentol",
+    "Clonazepam",
+    "Valproate",
+    "Topiramate"
+   ],
+   "ans": 0,
+   "exp": "The DS list marks stiripentol (3rd). (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-040",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "The usual duration of antiepileptic treatment is a minimum seizure-free interval of:",
+   "opts": [
+    "1 year",
+    "2 years",
+    "6 months",
+    "5 years"
+   ],
+   "ans": 0,
+   "exp": "The note says continue Rx to a minimum a year seizure free interval. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-041",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "Which of the following requires lifelong treatment?",
+   "opts": [
+    "JME",
+    "Typical absence",
+    "Rolandic epilepsy",
+    "Febrile seizure"
+   ],
+   "ans": 0,
+   "exp": "The exception list begins with JME. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-042",
+   "sec": "Childhood Epileptic Syndromes",
+   "page": 114,
+   "q": "Besides JME, lifelong treatment is needed for stroke induced seizure and:",
+   "opts": [
+    "Sleep related hypermotor epilepsy (SHE)",
+    "Rolandic epilepsy",
+    "LGS",
+    "DS"
+   ],
+   "ans": 0,
+   "exp": "The exception list includes SHE. (Book p114)"
+  },
+  {
+   "id": "PHARM-C28-043",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Which drug is the DOC for typical absence seizure?",
+   "opts": [
+    "Ethosuximide",
+    "Valproate",
+    "Lamotrigine",
+    "Topiramate"
+   ],
+   "ans": 0,
+   "exp": "The Ca2+ channel blocker branch marks ethosuximide as DOC for typical absence seizure. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-044",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Ethosuximide is grouped as a:",
+   "opts": [
+    "Ca2+ channel blocker",
+    "Na+ channel blocker",
+    "K+ channel blocker",
+    "GABA agonist"
+   ],
+   "ans": 0,
+   "exp": "Ethosuximide sits under Ca2+ channel blocker with valproic acid. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-045",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "The other Ca2+ channel blocker in the classification is:",
+   "opts": [
+    "Valproic acid",
+    "Phenytoin",
+    "Carbamazepine",
+    "Lacosamide"
+   ],
+   "ans": 0,
+   "exp": "The Ca2+ channel blocker branch lists valproic acid. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-046",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Which of the following is a Na+ channel blocker?",
+   "opts": [
+    "Phenytoin",
+    "Valproic acid",
+    "Ethosuximide",
+    "Stiripentol"
+   ],
+   "ans": 0,
+   "exp": "Phenytoin heads the Na+ channel blocker list. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-047",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Besides phenytoin and carbamazepine, the Na+ channel blockers include oxcarbazepine and:",
+   "opts": [
+    "Eslicarbazepine",
+    "Ethosuximide",
+    "Ezogabine",
+    "Felbamate"
+   ],
+   "ans": 0,
+   "exp": "The Na+ channel blocker list includes eslicarbazepine. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-048",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Lamotrigine and topiramate are classified as:",
+   "opts": [
+    "Na+ channel blockers",
+    "Ca2+ channel blockers",
+    "K+ channel blockers",
+    "GABA analogues"
+   ],
+   "ans": 0,
+   "exp": "Both appear in the Na+ channel blocker column. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-049",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Which of the following appears in the Na+ channel blocker list?",
+   "opts": [
+    "Zonisamide",
+    "Ethosuximide",
+    "Vigabatrin",
+    "Tiagabine"
+   ],
+   "ans": 0,
+   "exp": "Zonisamide appears in the Na+ channel blocker list. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-050",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "Lacosamide and rufinamide belong to which group?",
+   "opts": [
+    "Na+ channel blockers",
+    "Ca2+ channel blockers",
+    "K+ channel blockers",
+    "Miscellaneous"
+   ],
+   "ans": 0,
+   "exp": "Both are listed under Na+ channel blockers. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-051",
+   "sec": "Classification of Antiepileptic Drugs",
+   "page": 115,
+   "q": "The five mechanism groups in the classification include K+ channel blocker, down glutamate effect, up GABA effect, miscellaneous and:",
+   "opts": [
+    "Na+ and Ca2+ channel blockers",
+    "Diuretics",
+    "Antivirals",
+    "Anticoagulants"
+   ],
+   "ans": 0,
+   "exp": "The tree lists Na+ channel blocker and Ca2+ channel blocker along with the other groups. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-052",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The mechanism mnemonic for valproic acid is:",
+   "opts": [
+    "H/o GTCS",
+    "Tab VALPROIC",
+    "GBS",
+    "DRA VET"
+   ],
+   "ans": 0,
+   "exp": "The MOA column is headed mnemonic: H/o GTCS. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-053",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "As a histone deacetylase blocker, valproic acid acts by:",
+   "opts": [
+    "Stopping neuronal proliferation",
+    "Increasing neuronal proliferation",
+    "Blocking Na+ channels only",
+    "Blocking GABA"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says histone deacetylase blocker (stop neuronal proliferation). (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-054",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproic acid inhibits GABA transaminase, which leads to:",
+   "opts": [
+    "Increased GABA",
+    "Decreased GABA",
+    "Increased glutamate",
+    "Decreased glycine"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says GABA transaminase inhibition, then up GABA. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-055",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The channel blocked by valproic acid in the MOA list is the:",
+   "opts": [
+    "T-Type Ca2+ channel",
+    "L-type Ca2+ channel",
+    "K+ channel",
+    "HCN channel"
+   ],
+   "ans": 0,
+   "exp": "The MOA list includes T-type Ca2+ channel blockers. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-056",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproic acid also blocks:",
+   "opts": [
+    "Sodium channels",
+    "Potassium channels",
+    "Chloride channels",
+    "Aquaporins"
+   ],
+   "ans": 0,
+   "exp": "The MOA list ends with sodium channel blockers. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-057",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproic acid is used in GTCS, m.s. and:",
+   "opts": [
+    "Atypical A.S.",
+    "Typical A.S. only",
+    "Partial seizure only",
+    "Status epilepticus"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives GTCS, m.s., atypical A.S. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-058",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproic acid is DOC in rapid cyclers and:",
+   "opts": [
+    "Rheumatic chorea",
+    "Rolandic epilepsy",
+    "Trigeminal neuralgia",
+    "Infantile spasm"
+   ],
+   "ans": 0,
+   "exp": "The DOC list includes rapid cyclers and rheumatic chorea. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-059",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The two childhood syndromes for which valproic acid is DOC are DS and:",
+   "opts": [
+    "LGS",
+    "SHE",
+    "JME only",
+    "Rolandic epilepsy"
+   ],
+   "ans": 0,
+   "exp": "The DOC list ends with LGS and DS. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-060",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "In the side-effect mnemonic Tab VALPROIC, T stands for tremor and teratogenic with:",
+   "opts": [
+    "Maximum teratogenicity",
+    "Minimum teratogenicity",
+    "No teratogenicity",
+    "Teratogenicity only in males"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic line says teratogenic (max). (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-061",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The side effect V in Tab VALPROIC is:",
+   "opts": [
+    "Vomiting",
+    "Vertigo",
+    "Vision loss",
+    "Vitiligo"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic lists vomiting. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-062",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The side effect A in Tab VALPROIC is:",
+   "opts": [
+    "Alopecia",
+    "Anemia",
+    "Ataxia",
+    "Agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic lists alopecia. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-063",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproate is contraindicated in children below:",
+   "opts": [
+    "2 years",
+    "5 years",
+    "11 years",
+    "8 years"
+   ],
+   "ans": 0,
+   "exp": "The liver toxicity line says C/I in child < 2 yrs. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-064",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The pancreatic side effect of valproate in the mnemonic is:",
+   "opts": [
+    "Pancreatitis",
+    "Pancreatic cancer",
+    "Diabetes mellitus",
+    "Steatorrhea"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic lists pancreatitis. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-065",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "The metabolic side effect listed for valproate is:",
+   "opts": [
+    "Obesity",
+    "Weight loss",
+    "Metabolic acidosis",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic lists obesity. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-066",
+   "sec": "Valproic Acid",
+   "page": 115,
+   "q": "Valproate increases NH3 and is hepatotoxic; the antidote for this toxicity is:",
+   "opts": [
+    "L-Carnitine",
+    "N-acetylcysteine",
+    "Flumazenil",
+    "Atropine"
+   ],
+   "ans": 0,
+   "exp": "The line says increased NH3 (hepatotoxic) with antidote L-carnitine. (Book p115)"
+  },
+  {
+   "id": "PHARM-C28-067",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The oral uses of phenytoin are GTCS and:",
+   "opts": [
+    "PS (partial seizure)",
+    "Absence seizure",
+    "Myoclonic seizure",
+    "Infantile spasm"
+   ],
+   "ans": 0,
+   "exp": "The oral uses line gives GTCS and PS. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-068",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The IV use of phenytoin is:",
+   "opts": [
+    "Status epilepticus (S.E.)",
+    "Absence seizure",
+    "Prophylaxis of febrile seizure",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "The IV line says status epilepticus (S.E.). (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-069",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "A side effect specifically linked to the IV route of phenytoin is:",
+   "opts": [
+    "Purple glove syndrome",
+    "Blue pigmentation",
+    "Grey baby syndrome",
+    "Red man syndrome"
+   ],
+   "ans": 0,
+   "exp": "The side effect line says purple glove syndrome. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-070",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The side-effect mnemonic for phenytoin is:",
+   "opts": [
+    "HYDANTOIN",
+    "Tab VALPROIC",
+    "GBS",
+    "VET"
+   ],
+   "ans": 0,
+   "exp": "The S/E column is headed mnemonic HYDANTOIN. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-071",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "In the phenytoin mnemonic, H stands for hirsutism and:",
+   "opts": [
+    "Hyperplastic gum",
+    "Hyperglycemia only",
+    "Hyperkalemia",
+    "Hypotension"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic starts with hirsutism and hyperplastic gum. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-072",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "Phenytoin causes hyperglycemia and:",
+   "opts": [
+    "Lymphadenopathy resembling Hodgkin lymphoma",
+    "Non-Hodgkin lymphoma",
+    "Leukemia",
+    "Multiple myeloma"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic line says lymphadenopathy (resembles Hodgkins lymphoma). (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-073",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The acute toxicity features of phenytoin are diplopia, ataxia and:",
+   "opts": [
+    "Nystagmus",
+    "Papilledema",
+    "Optic atrophy",
+    "Ptosis"
+   ],
+   "ans": 0,
+   "exp": "The acute toxicity bracket groups diplopia, ataxia and nystagmus. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-074",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The teratogenic effect of phenytoin is:",
+   "opts": [
+    "Facial cleft",
+    "Neural tube defect",
+    "Limb reduction",
+    "Cardiac septal defect"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic says teratogenic: facial cleft. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-075",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "Phenytoin causes osteomalacia, which is treated with vitamin D and:",
+   "opts": [
+    "vitamin K",
+    "vitamin A",
+    "vitamin C",
+    "vitamin B12"
+   ],
+   "ans": 0,
+   "exp": "The line says osteomalacia (Rx vit D and vit K). (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-076",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "Increased bleeding in newborns of mothers on phenytoin is treated with:",
+   "opts": [
+    "Inj. vitamin K after birth",
+    "Inj. vitamin D after birth",
+    "Platelet transfusion",
+    "Fresh frozen plasma"
+   ],
+   "ans": 0,
+   "exp": "The line says increased bleeding in newborns (Rx inj. vit K after birth). (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-077",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "The hematological side effects of phenytoin are neutropenia and anemia due to decreased:",
+   "opts": [
+    "Folic acid",
+    "Vitamin B12",
+    "Iron",
+    "Copper"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic ends with neutropenia, anemia (d/t down folic acid). (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-078",
+   "sec": "Phenytoin (and Fosphenytoin)",
+   "page": 116,
+   "q": "Fosphenytoin is preferred over phenytoin because it is:",
+   "opts": [
+    "Water soluble with less toxicity",
+    "Lipid soluble with more toxicity",
+    "Given orally only",
+    "Longer acting"
+   ],
+   "ans": 0,
+   "exp": "The fosphenytoin line says water soluble (less toxicity), preferred over phenytoin. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-079",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "The uses of carbamazepine are GTCS, SHE and:",
+   "opts": [
+    "PS (older DOC)",
+    "Absence seizure",
+    "Infantile spasm",
+    "Atypical AS"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives GTCS, PS (older DOC) and SHE. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-080",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Carbamazepine is DOC in trigeminal neuralgia and:",
+   "opts": [
+    "Rolandic epilepsy",
+    "Lennox Gastaut syndrome",
+    "Dravet syndrome",
+    "West syndrome"
+   ],
+   "ans": 0,
+   "exp": "The DOC list gives trigeminal neuralgia and Rolandic epilepsy. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-081",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Rolandic epilepsy occurs in:",
+   "opts": [
+    "Childhood",
+    "Elderly",
+    "Neonates only",
+    "Adults"
+   ],
+   "ans": 0,
+   "exp": "The Rolandic epilepsy occurrence line says childhood. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-082",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Rolandic epilepsy seizures occur during sleep or:",
+   "opts": [
+    "After awakening",
+    "During meals",
+    "During exercise",
+    "On exposure to light"
+   ],
+   "ans": 0,
+   "exp": "The occurrence line says during sleep or after awakening. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-083",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Rolandic epilepsy is treated for:",
+   "opts": [
+    "1-2 years",
+    "1-2 months",
+    "Lifelong",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "The Rx line says for 1-2 years. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-084",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Carbamazepine causes hyponatremia through:",
+   "opts": [
+    "SIADH",
+    "Diabetes insipidus",
+    "Cerebral salt wasting",
+    "Renal tubular acidosis"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says hyponatremia to SIADH. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-085",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "The SIADH effect of carbamazepine is described as:",
+   "opts": [
+    "Delayed S/E",
+    "Immediate S/E",
+    "Dose-independent",
+    "Rare in elderly"
+   ],
+   "ans": 0,
+   "exp": "The SIADH line is annotated delayed S/E. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-086",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Carbamazepine-induced SIADH is most common in which population?",
+   "opts": [
+    "Elderly",
+    "Children",
+    "Pregnant women",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "The line says m/c elderly population. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-087",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "The hypersensitivity reaction of carbamazepine includes eosinophilia and:",
+   "opts": [
+    "Aplastic anemia",
+    "Megaloblastic anemia",
+    "Iron deficiency anemia",
+    "Hemolytic anemia"
+   ],
+   "ans": 0,
+   "exp": "The hypersensitivity list includes aplastic anemia. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-088",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "Besides aplastic anemia, carbamazepine hypersensitivity causes agranulocytosis and:",
+   "opts": [
+    "SJS (Stevens Johnson Syndrome)",
+    "DRESS only",
+    "TEN only",
+    "Erythema nodosum"
+   ],
+   "ans": 0,
+   "exp": "The list includes SJS. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-089",
+   "sec": "Carbamazepine",
+   "page": 116,
+   "q": "The neurological side effects of carbamazepine are ataxia and:",
+   "opts": [
+    "Diplopia/blurred vision",
+    "Nystagmus only",
+    "Tremor",
+    "Aphasia"
+   ],
+   "ans": 0,
+   "exp": "The S/E list ends with ataxia and diplopia/blurred vision. (Book p116)"
+  },
+  {
+   "id": "PHARM-C28-090",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Lamotrigine inhibits the release of:",
+   "opts": [
+    "Glutamate",
+    "GABA",
+    "Acetylcholine",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "The lamotrigine antiepileptic action says inhibits glutamate release. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-091",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Besides glutamate release, lamotrigine acts as a:",
+   "opts": [
+    "Na+/Ca2+ channel blocker",
+    "K+ channel opener",
+    "Carbonic anhydrase inhibitor",
+    "DHFR activator"
+   ],
+   "ans": 0,
+   "exp": "The lamotrigine line says Na+/Ca2+ channel blocker. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-092",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The other action of lamotrigine is blockade of:",
+   "opts": [
+    "DHFR/5HT3",
+    "COX-2",
+    "PDE5",
+    "HMG-CoA"
+   ],
+   "ans": 0,
+   "exp": "The lamotrigine other action is DHFR/5HT3 blocker. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-093",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Lamotrigine is used in GTCS, m.s., PS and:",
+   "opts": [
+    "Bipolar disorder (depressive phase)",
+    "Bipolar mania",
+    "Schizophrenia",
+    "Anxiety disorder"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives bipolar disorder (depressive phase). (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-094",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The childhood syndrome for which lamotrigine is used is:",
+   "opts": [
+    "LGS",
+    "DS",
+    "West syndrome",
+    "SHE"
+   ],
+   "ans": 0,
+   "exp": "The uses list ends with LGS. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-095",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The major side effect of lamotrigine is:",
+   "opts": [
+    "SJS",
+    "SLE",
+    "DRESS only",
+    "TEN only"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says SJS. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-096",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Because of SJS, lamotrigine must be:",
+   "opts": [
+    "Started gradually",
+    "Started with a bolus",
+    "Given IV",
+    "Given with a steroid"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says SJs: start drug gradually. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-097",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Lamotrigine is contraindicated in acute mania because:",
+   "opts": [
+    "A bolus dose is needed",
+    "It causes SJS immediately",
+    "It causes renal stones",
+    "It worsens seizures"
+   ],
+   "ans": 0,
+   "exp": "The C/I line says acute mania (bolus dose needed). (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-098",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Topiramate MOA works through:",
+   "opts": [
+    "GPCR",
+    "Nuclear receptor",
+    "Ion channel only",
+    "Enzyme inhibition only"
+   ],
+   "ans": 0,
+   "exp": "The topiramate MOA line says GPCR. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-099",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Topiramate increases the release of:",
+   "opts": [
+    "GABAA",
+    "Glutamate",
+    "Acetylcholine",
+    "Noradrenaline"
+   ],
+   "ans": 0,
+   "exp": "The MOA says up GABAA release. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-100",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Along with increasing GABAA release, topiramate decreases release of:",
+   "opts": [
+    "Glutamate",
+    "GABA",
+    "Glycine",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "The MOA says down glutamate release. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-101",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Topiramate acts as an opener of:",
+   "opts": [
+    "Potassium channels",
+    "Sodium channels",
+    "Calcium channels only",
+    "Chloride channels"
+   ],
+   "ans": 0,
+   "exp": "The MOA says potassium channel opener. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-102",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Topiramate inhibits carbonic anhydrase along with which channel?",
+   "opts": [
+    "Ca2+ channel",
+    "Na+ channel only",
+    "K+ channel",
+    "Cl- channel"
+   ],
+   "ans": 0,
+   "exp": "The MOA says Ca2+/carbonic anhydrase inhibitor. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-103",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The channel blocker action of topiramate is described as:",
+   "opts": [
+    "Resting Na channel blocker",
+    "Open Na channel blocker",
+    "Late inward Na blocker",
+    "Delayed rectifier K blocker"
+   ],
+   "ans": 0,
+   "exp": "The MOA ends with resting Na channel blocker. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-104",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Besides the uses shared with lamotrigine, topiramate is used in obesity with:",
+   "opts": [
+    "Phentermine (anorexic agent)",
+    "Orlistat",
+    "Liraglutide",
+    "Bupropion"
+   ],
+   "ans": 0,
+   "exp": "The other uses line says obesity used with phentermine (anorexic agent). (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-105",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The other additional use of topiramate is:",
+   "opts": [
+    "Migraine prophylaxis",
+    "Migraine abortion",
+    "Cluster headache",
+    "Tension headache only"
+   ],
+   "ans": 0,
+   "exp": "The other uses list ends with migraine prophylaxis. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-106",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The renal side effect of topiramate is:",
+   "opts": [
+    "Renal stones",
+    "Renal failure",
+    "Nephrotic syndrome",
+    "Dialysis disequilibrium"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives renal stones. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-107",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "The metabolic side effect of topiramate is metabolic acidosis, which is also seen with:",
+   "opts": [
+    "CA inhibitors",
+    "Loop diuretics",
+    "Thiazides",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "The bracket says metabolic acidosis is a CA inhibitor S/E. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-108",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Topiramate causes weight loss and:",
+   "opts": [
+    "Angle closure glaucoma",
+    "Open angle glaucoma",
+    "Cataract",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "The S/E list gives angle closure glaucoma. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-109",
+   "sec": "Lamotrigine and Topiramate",
+   "page": 117,
+   "q": "Before starting topiramate, the examination advised is:",
+   "opts": [
+    "Ophthalmic examination",
+    "Cardiac evaluation",
+    "Renal biopsy",
+    "Hearing test"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says angle closure glaucoma (ophthalmic examination done). (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-110",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Oxcarbazepine and eslicarbazepine are:",
+   "opts": [
+    "Prodrugs",
+    "Active drugs",
+    "IV only drugs",
+    "Enzyme inducers only"
+   ],
+   "ans": 0,
+   "exp": "The line says oxcarbazepine/eslicarbazepine: prodrugs. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-111",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Compared with carbamazepine, oxcarbazepine has:",
+   "opts": [
+    "Less hypersensitivity but more hyponatremia",
+    "More hypersensitivity and less hyponatremia",
+    "No hyponatremia",
+    "No effect on sodium"
+   ],
+   "ans": 0,
+   "exp": "The line says less hypersensitivity + more hyponatremia. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-112",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Because of hyponatremia, oxcarbazepine should be avoided in:",
+   "opts": [
+    "Elderly",
+    "Children",
+    "Pregnant women",
+    "Diabetics"
+   ],
+   "ans": 0,
+   "exp": "The line says avoid in elderly. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-113",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Zonisamide is associated with:",
+   "opts": [
+    "Renal stones",
+    "Angle closure glaucoma",
+    "Suicidal tendencies",
+    "Purple glove syndrome"
+   ],
+   "ans": 0,
+   "exp": "Zonisamide S/E: renal stones. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-114",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Lacosamide is associated with:",
+   "opts": [
+    "↑Suicidal tendencies",
+    "Renal stones",
+    "Visual field defects",
+    "Blue pigmentation"
+   ],
+   "ans": 0,
+   "exp": "Lacosamide S/E: up suicidal tendencies. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-115",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "Rufinamide is used in:",
+   "opts": [
+    "LGS",
+    "DS",
+    "Trigeminal neuralgia",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "Rufinamide use: LGS. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-116",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "The drug associated with SJS and HLA B1502 is:",
+   "opts": [
+    "Carbamazepine",
+    "Abacavir",
+    "Allopurinol",
+    "Lamotrigine"
+   ],
+   "ans": 0,
+   "exp": "The note lists carbamazepine: HLA B1502. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-117",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "The drug associated with HLA B5701 is:",
+   "opts": [
+    "Abacavir",
+    "Carbamazepine",
+    "Allopurinol",
+    "Phenytoin"
+   ],
+   "ans": 0,
+   "exp": "The note lists abacavir: HLA B5701. (Book p117)"
+  },
+  {
+   "id": "PHARM-C28-118",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "page": 117,
+   "q": "The drug associated with HLA B5801 is:",
+   "opts": [
+    "Allopurinol",
+    "Abacavir",
+    "Carbamazepine",
+    "Oxcarbazepine"
+   ],
+   "ans": 0,
+   "exp": "The note lists allopurinol: HLA B5801. (Book p117)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U28-1",
+   "ch": 28,
+   "n": 1,
+   "title": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS)",
+   "sec": "Types of Epilepsy and Generalised Tonic-Clonic Seizure (GTCS) · p113",
+   "qs": [
+    "PHARM-C28-001",
+    "PHARM-C28-002",
+    "PHARM-C28-003",
+    "PHARM-C28-004",
+    "PHARM-C28-005",
+    "PHARM-C28-006",
+    "PHARM-C28-007",
+    "PHARM-C28-008",
+    "PHARM-C28-009",
+    "PHARM-C28-010",
+    "PHARM-C28-011",
+    "PHARM-C28-012",
+    "PHARM-C28-013",
+    "PHARM-C28-014"
+   ],
+   "guide": "Epilepsy is divided into generalised, partial and childhood types. Under generalised come generalised tonic-clonic seizure (GTCS), myoclonic seizure (m.s., whose commonest subtype is juvenile myoclonic epilepsy, JME) and absence seizure (AS); the childhood syndromes are Lennox Gastaut syndrome (LGS) and Dravet syndrome (DS). In GTCS a T-type Ca2+ channel spontaneously generates action potentials, thalamo-cortical reciprocal firing follows, Na+ channels propagate the action potential and the spinal cord depolarises; the features are generalised muscle contraction, teeth clenching, tongue bite with blood from the mouth, and involuntary urination and defecation."
+  },
+  {
+   "id": "PHARM-U28-2",
+   "ch": 28,
+   "n": 2,
+   "title": "Myoclonic Seizure (m.s.)",
+   "sec": "Myoclonic Seizure (m.s.) · p113",
+   "qs": [
+    "PHARM-C28-015",
+    "PHARM-C28-016",
+    "PHARM-C28-017"
+   ],
+   "guide": "Myoclonic seizures occur during the morning and are characterised by twitching of the finger. They are worsened by two antiepileptic drugs - phenytoin and carbamazepine - and their commonest subtype is juvenile myoclonic epilepsy."
+  },
+  {
+   "id": "PHARM-U28-3",
+   "ch": 28,
+   "n": 3,
+   "title": "Absence Seizure and Partial Seizure",
+   "sec": "Absence Seizure and Partial Seizure · p114",
+   "qs": [
+    "PHARM-C28-018",
+    "PHARM-C28-019",
+    "PHARM-C28-020",
+    "PHARM-C28-021",
+    "PHARM-C28-022",
+    "PHARM-C28-023",
+    "PHARM-C28-024",
+    "PHARM-C28-025",
+    "PHARM-C28-026",
+    "PHARM-C28-027",
+    "PHARM-C28-028",
+    "PHARM-C28-029",
+    "PHARM-C28-030"
+   ],
+   "guide": "Absence seizure also begins with spontaneous T-type Ca2+ channel activity and then involves Na+ channels. Typical absence seizure (most common) has no motor symptoms but behavioural abnormality with blank stare and surrounding cutoff, and its EEG shows a 3 Hz spike; atypical absence has behavioural changes plus change in muscle tone. Partial seizure, when it generalises, is treated like GTCS. Space occupying lesions (neurocysticercosis, brain tumour, gliosis from trauma or stroke) in the cortex irritate cortical neurons, generate action potentials through Na+ channels that travel to the spinal cord and cause localised depolarisation with localised muscle contraction."
+  },
+  {
+   "id": "PHARM-U28-4",
+   "ch": 28,
+   "n": 4,
+   "title": "Childhood Epileptic Syndromes",
+   "sec": "Childhood Epileptic Syndromes · p114",
+   "qs": [
+    "PHARM-C28-031",
+    "PHARM-C28-032",
+    "PHARM-C28-033",
+    "PHARM-C28-034",
+    "PHARM-C28-035",
+    "PHARM-C28-036",
+    "PHARM-C28-037",
+    "PHARM-C28-038",
+    "PHARM-C28-039",
+    "PHARM-C28-040",
+    "PHARM-C28-041",
+    "PHARM-C28-042"
+   ],
+   "guide": "Lennox Gastaut syndrome features resistant seizures and mental retardation; its treatment follows the mnemonic 'very low response to child' - valproate (DOC), lamotrigine (second), rufinamide (third), topiramate, and clobazam/cannabinoids reserved for drop attacks. Dravet syndrome has resistant seizures and is treated with ketogenic diet, valproate (DOC), clonazepam (second) and stiripentol (third). Treatment is continued to a minimum one year seizure-free interval, except in JME, stroke-induced seizure and sleep related hypermotor epilepsy (SHE), where treatment is lifelong."
+  },
+  {
+   "id": "PHARM-U28-5",
+   "ch": 28,
+   "n": 5,
+   "title": "Classification of Antiepileptic Drugs",
+   "sec": "Classification of Antiepileptic Drugs · p115",
+   "qs": [
+    "PHARM-C28-043",
+    "PHARM-C28-044",
+    "PHARM-C28-045",
+    "PHARM-C28-046",
+    "PHARM-C28-047",
+    "PHARM-C28-048",
+    "PHARM-C28-049",
+    "PHARM-C28-050",
+    "PHARM-C28-051"
+   ],
+   "guide": "Antiepileptic drugs are classified by mechanism: Na+ channel blockers include phenytoin, carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, topiramate, zonisamide, lacosamide and rufinamide; Ca2+ channel blockers are valproic acid and ethosuximide (DOC in typical absence seizure); other groups are the K+ channel blockers, drugs decreasing glutamate effect, drugs increasing GABA effect and miscellaneous agents."
+  },
+  {
+   "id": "PHARM-U28-6",
+   "ch": 28,
+   "n": 6,
+   "title": "Valproic Acid",
+   "sec": "Valproic Acid · p115",
+   "qs": [
+    "PHARM-C28-052",
+    "PHARM-C28-053",
+    "PHARM-C28-054",
+    "PHARM-C28-055",
+    "PHARM-C28-056",
+    "PHARM-C28-057",
+    "PHARM-C28-058",
+    "PHARM-C28-059",
+    "PHARM-C28-060",
+    "PHARM-C28-061",
+    "PHARM-C28-062",
+    "PHARM-C28-063",
+    "PHARM-C28-064",
+    "PHARM-C28-065",
+    "PHARM-C28-066"
+   ],
+   "guide": "Valproic acid is a Ca2+ channel blocker with the mechanism mnemonic 'H/o GTCS': it is a histone deacetylase blocker that stops neuronal proliferation, inhibits GABA transaminase so GABA rises, blocks T-type Ca2+ channels and blocks sodium channels. It is used in GTCS, m.s. and atypical absence, and is DOC in rapid cyclers, rheumatic chorea, LGS and DS. Its side effects follow the mnemonic Tab VALPROIC: tremor (epilepsy), maximum teratogenicity (bipolar disorder), vomiting, alopecia, liver toxicity (contraindicated below 2 years), pancreatitis, obesity and increased NH3 with hepatotoxicity, for which L-carnitine is the antidote."
+  },
+  {
+   "id": "PHARM-U28-7",
+   "ch": 28,
+   "n": 7,
+   "title": "Phenytoin (and Fosphenytoin)",
+   "sec": "Phenytoin (and Fosphenytoin) · p116",
+   "qs": [
+    "PHARM-C28-067",
+    "PHARM-C28-068",
+    "PHARM-C28-069",
+    "PHARM-C28-070",
+    "PHARM-C28-071",
+    "PHARM-C28-072",
+    "PHARM-C28-073",
+    "PHARM-C28-074",
+    "PHARM-C28-075",
+    "PHARM-C28-076",
+    "PHARM-C28-077",
+    "PHARM-C28-078"
+   ],
+   "guide": "Phenytoin (diphenyl hydantoin) is used orally for GTCS and PS and intravenously for status epilepticus, with purple glove syndrome as a side effect of the IV route. Its side effects follow the mnemonic HYDANTOIN: hirsutism, hyperplastic gum, hyperglycemia, lymphadenopathy resembling Hodgkin lymphoma, and (as acute toxicity) diplopia, ataxia and nystagmus; it is teratogenic (facial cleft) and causes osteomalacia (treat with vitamin D and vitamin K), increased bleeding in newborns (give injectable vitamin K after birth) and neutropenia/anemia from folic acid depletion. Fosphenytoin is water soluble with less toxicity and is preferred over phenytoin."
+  },
+  {
+   "id": "PHARM-U28-8",
+   "ch": 28,
+   "n": 8,
+   "title": "Carbamazepine",
+   "sec": "Carbamazepine · p116",
+   "qs": [
+    "PHARM-C28-079",
+    "PHARM-C28-080",
+    "PHARM-C28-081",
+    "PHARM-C28-082",
+    "PHARM-C28-083",
+    "PHARM-C28-084",
+    "PHARM-C28-085",
+    "PHARM-C28-086",
+    "PHARM-C28-087",
+    "PHARM-C28-088",
+    "PHARM-C28-089"
+   ],
+   "guide": "Carbamazepine is used in GTCS, PS (where it was the older DOC) and SHE. It is DOC in trigeminal neuralgia and in Rolandic epilepsy, which occurs in childhood during sleep or after awakening and is treated for 1-2 years. Its side effects are hyponatremia with SIADH (a delayed effect, most common in the elderly), hypersensitivity with eosinophilia, aplastic anemia, agranulocytosis and Stevens Johnson syndrome, plus ataxia and diplopia/blurred vision."
+  },
+  {
+   "id": "PHARM-U28-9",
+   "ch": 28,
+   "n": 9,
+   "title": "Lamotrigine and Topiramate",
+   "sec": "Lamotrigine and Topiramate · p117",
+   "qs": [
+    "PHARM-C28-090",
+    "PHARM-C28-091",
+    "PHARM-C28-092",
+    "PHARM-C28-093",
+    "PHARM-C28-094",
+    "PHARM-C28-095",
+    "PHARM-C28-096",
+    "PHARM-C28-097",
+    "PHARM-C28-098",
+    "PHARM-C28-099",
+    "PHARM-C28-100",
+    "PHARM-C28-101",
+    "PHARM-C28-102",
+    "PHARM-C28-103",
+    "PHARM-C28-104",
+    "PHARM-C28-105",
+    "PHARM-C28-106",
+    "PHARM-C28-107",
+    "PHARM-C28-108",
+    "PHARM-C28-109"
+   ],
+   "guide": "Lamotrigine inhibits glutamate release and blocks Na+/Ca2+ channels, with an additional DHFR/5HT3 blocking action; it is used in GTCS, m.s., PS, the depressive phase of bipolar disorder and LGS. Its side effect is Stevens Johnson syndrome, so the drug must be started gradually, and it is contraindicated in acute mania where a bolus dose is needed. Topiramate acts through GPCR-mediated increased GABAA release, decreased glutamate release, potassium channel opening, Ca2+/carbonic anhydrase inhibition and resting Na channel blockade; it shares the uses of lamotrigine and is additionally used for obesity with phentermine (an anorexic agent) and for migraine prophylaxis. Its side effects are renal stones, metabolic acidosis, weight loss and angle closure glaucoma."
+  },
+  {
+   "id": "PHARM-U28-10",
+   "ch": 28,
+   "n": 10,
+   "title": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide",
+   "sec": "Other Na+ Channel Blockers: Oxcarbazepine, Zonisamide, Lacosamide and Rufinamide · p117",
+   "qs": [
+    "PHARM-C28-110",
+    "PHARM-C28-111",
+    "PHARM-C28-112",
+    "PHARM-C28-113",
+    "PHARM-C28-114",
+    "PHARM-C28-115",
+    "PHARM-C28-116",
+    "PHARM-C28-117",
+    "PHARM-C28-118"
+   ],
+   "guide": "Oxcarbazepine and eslicarbazepine are prodrugs with less hypersensitivity but more hyponatremia, so they should be avoided in the elderly. Zonisamide causes renal stones, lacosamide increases suicidal tendencies and rufinamide is used in LGS. The page notes drugs associated with SJS and HLA: carbamazepine with HLA B1502, abacavir with HLA B5701 and allopurinol with HLA B5801."
+  }
+ ]
+}
