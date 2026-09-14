@@ -28,8 +28,9 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 
 ## Chapter page map (book pages) — 74 chapters, all LISTED in app from day one ("Soon" until live)
 ### General Pharmacology
-1: p1 DONE (22 qs, 3 units) | 2: 2-4 | 3: 5-8 | 4: 9-10 | 5: 11-14 | 6: 15-17 | 7: 18-19 | 8: 20-24 |
-9: 25-28 | 10: 29-32 | 11: 33-36
+1: p1 DONE (22 qs, 3 units) | 2: 2-4 DONE (85 qs, 9 units) | 3: 5-8 DONE (93 qs, 11 units) |
+4: 9-10 DONE (78 qs, 10 units) | 5: 11-14 DONE (80 qs, 11 units) | 6: 15-17 DONE (69 qs, 11 units) |
+7: 18-19 DONE (60 qs, 6 units) | 8: 20-24 NEXT | 9: 25-28 | 10: 29-32 | 11: 33-36 |
 ### Autonomic Nervous System
 12: 37-41 | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
 ### Cardiovascular System
@@ -62,8 +63,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 2. read_file the pages (batches), transcribe every line mentally; re-render at higher dpi if unsure
 3. write data/chNN_a.json / _b.json / _c.json (last holds "units"), assemble to data/chNN.json
 4. `python3 work/validate.py data/chNN.json`
-5. `python3 work/merge.py pulse-pharm-complete.html`  (idempotent; appends chapters > max embedded,
-   flips live flags, rewrites data/chapters_live.json)
+5. `python3 work/build.py pulse-pharm-complete.html`  (DETERMINISTIC rebuild of QUESTIONS/UNITS
+   from every data/chNN.json in chapter order; also updates live flags + data/chapters_live.json.
+   Use this instead of merge.py once a chapter is already embedded — merge.py only appends
+   chapters above the highest embedded one, so it cannot replace an existing chapter.)
 6. `python3 work/integrity.py` + extract inline JS → `node --check`
 7. commit & push, present_file pulse-pharm-complete.html
 
@@ -73,13 +76,53 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status
-- DONE (2026-09-14): repo skeleton (pulse-pharm-complete.html with all 74 chapters listed,
-  index.html redirect, work/ pipeline, this tracker). Source PDF moved to uploads/.
-- DONE (2026-09-14): **ch1 "Introduction to Pharmacokinetics and Pharmacodynamics"**
-  (book p1 = pdf p6) — 22 qs, 3 units; validated, merged, integrity ✓, ch1 LIVE.
-- NEXT: ch2 "Pharmacokinetics: Absorption - Part 1" (book p2-4 = pdf p7-9).
-- LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects → pulse-pharm-complete.html).
-  GitHub Pages: enable once via Repo → Settings → Pages → "Deploy from a branch" → main /(root).
+## Status  (last updated: 2026-09-14, session 3)
+- DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
+- DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
+- DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
+  (4 transport mechanisms + carrier-mediated/ATP braces, P-gp/MDR1 ABC pump, gut+hepatic efflux &
+  first pass, digoxin dosing by efflux, BBB/loperamide, placenta, hepatocytes, Pgp resistance,
+  substrates/inducers/inhibitors, blockade table, passive diffusion + charged membrane proteins).
+- DONE: **ch3** Absorption - Part 2 (p5-8) - 93 qs, 11 units
+  (criteria table + LUNA/WIPE, unionization, short bowel, ion trapping with bicarbonate/ammonium
+  chloride, Henderson-Hasselbalch incl. pKa 4 in pH 2 -> 99% unionised, IR/SR/CR curves,
+  delayed & enteric release, bioavailability f + AUC ratio, route table, Cmax/Tmax,
+  bioequivalence/ANDA +/-20%).
+- DONE: **ch4** Distribution (p9-10) - 78 qs, 10 units
+  (AVd definition, D/C0 formula, loading dose D = AVd x CT/f, fat/pKa/albumin factors, digoxin &
+  lean body mass, dialysis ineffective at high vd, BADDOC + antidotes, albumin vs alpha-1 acid
+  glycoprotein, hypoalbuminaemia and inflammation).
+- DONE: **ch5** Metabolism (p11-14) - 80 qs, 11 units
+  (phase I/II flowchart, prodrugs, ORCHAD, phase II conjugates, CYP nomenclature, CYP1A2/2B6/
+  2C9/2C19/2D6/2E1/3A4, omeprazole-clopidogrel, tamoxifen, NAPQI in chronic alcohol, Crigler
+  Najjar, estrogen enterohepatic circulation & OCP failure, HIPS Dance, inducer/inhibitor table,
+  OCP failure/theophylline arrhythmia/statin toxicity).
+- DONE: **ch6** Excretion (p15-17) - 69 qs, 11 units
+  (filtration 20% vs secretion 80%, -ve basement membrane, saliva/sweat, GFR, RDE = PC x CL,
+  infusion phases I/II/III, 4-5 T1/2 to steady state, maintenance dose PC x CL x Time/f,
+  T1/2 = 0.693 x vd/CL, Kel, zero vs first order table, pseudozero order, example list).
+- DONE (this session): **ch7** Pharmacodynamics: Potency, Efficacy and Dose Response Curve
+  (p18-19) - 60 qs, 6 units (affinity/efficacy/potency, quantal DRC ED50/TD50/LD50,
+  TI = TD50/ED50 humans and LD50/ED50 animals, lithium window 0.6-1.5 meq/L, graded DRC
+  efficacy B>A>C and potency PA>PB>PC, affinity only between parallel lines, full/partial/
+  antagonist/inverse agonist + intrinsic efficacy +1 / 1-0 / 0 / -1, curve A/B/C/D, note that
+  antagonists are m/c used).
+- **TOTAL LIVE NOW: 487 questions, 61 units, chapters 1-7.**
+- SESSION 3 NOTES (merge of the two parallel workstreams + verified corrections):
+  * A failed earlier session of this same branch had already pushed ch2-ch6; those files were
+    kept as the base (they carry more questions), and this session's audited additions were
+    merged into them (7 ch2, 2 ch3, 1 ch6 questions that were not covered: carrier-mediated/
+    ATP wording, loperamide GIT action, MDR1 site matching, tumour-cell resistance mechanism,
+    inducer -> failure, inducers = enzyme inducers, lipid-solubility determinant, LUNA meaning,
+    two successive peaks = IR, steady state depends on vd).
+  * TWO MISREADS IN THE EARLIER FILES WERE CAUGHT AND FIXED after re-reading the scan at
+    420-500 dpi: (1) the ch3 mnemonic is **LUNA** (not "LUNJA"); (2) the generic-drug approval
+    criterion is **±20%** (not "±30%").
+  * work/build.py added for deterministic rebuilds; run it instead of merge.py whenever a chapter
+    that is already embedded has changed.
+- NEXT: **ch8 "Pharmacodynamics: Drug Receptors and Interactions"** (book p20-24 = pdf p25-29),
+  then ch9 (25-28), ch10 (29-32), ch11 (33-36) -> General Pharmacology complete.
+- LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
+  GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
 - GitHub repo: https://github.com/Deva20045/Pharm

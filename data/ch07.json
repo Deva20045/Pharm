@@ -1,0 +1,966 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C7-001",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "Affinity of a drug refers to its:",
+   "opts": [
+    "Tendency to bind to the target",
+    "Maximum effect produced at the target",
+    "Relative dose required for a given effect",
+    "Duration of action at the receptor"
+   ],
+   "ans": 0,
+   "exp": "In the flowchart, 'drug binds to target' corresponds to tendency to bind = affinity. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-002",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "Efficacy of a drug is defined as the:",
+   "opts": [
+    "Maximum effect produced",
+    "Tendency of the drug to bind its target",
+    "Relative dose needed to produce an effect",
+    "Safety of the drug in a population"
+   ],
+   "ans": 0,
+   "exp": "The flowchart links 'produces effect' to the maximum effect produced, i.e. efficacy - which the book marks as clinically most important. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-003",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "Of affinity, efficacy and potency, which is described as clinically most important?",
+   "opts": [
+    "Efficacy",
+    "Affinity",
+    "Potency",
+    "All three are equally important"
+   ],
+   "ans": 0,
+   "exp": "The page marks efficacy with the note 'clinically most important', because it decides the maximum benefit a drug can give. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-004",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "Potency of a drug refers to the:",
+   "opts": [
+    "Relative dose of a drug required to produce a particular effect",
+    "Maximum effect the drug can produce",
+    "Tendency to bind to its receptor",
+    "Therapeutic index of the drug"
+   ],
+   "ans": 0,
+   "exp": "Potency = relative dose of a drug required to produce a particular effect. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-005",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "A drug that produces the same effect at a LOWER dose is said to have:",
+   "opts": [
+    "Higher potency",
+    "Higher efficacy",
+    "Higher affinity but lower potency",
+    "A higher therapeutic index"
+   ],
+   "ans": 0,
+   "exp": "The lesser the dose needed to bring about the effect, the greater the potency - potency and dose requirement are inversely related. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-006",
+   "sec": "Affinity, Efficacy and Potency",
+   "page": 18,
+   "q": "Which statement about potency and efficacy is correct?",
+   "opts": [
+    "Potency is a matter of dose, efficacy is a matter of the maximum response attainable",
+    "Potency is the maximum response and efficacy is the dose required",
+    "Both describe the same property of a drug",
+    "Both are independent of dose and response"
+   ],
+   "ans": 0,
+   "exp": "Potency concerns the dose needed for a given effect, while efficacy is the maximum effect produced - two separate properties. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-007",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "A quantal dose response curve records a response which is:",
+   "opts": [
+    "Binary (present/absent)",
+    "Graded and quantified",
+    "Continuous with dose",
+    "Inversely related to dose"
+   ],
+   "ans": 0,
+   "exp": "Quantal DRC: response is binary (present/absent), e.g. sedatives and fertility drugs, and is studied in a population. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-008",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "Which drugs are given as examples for a quantal response?",
+   "opts": [
+    "Sedatives and fertility drugs",
+    "Drugs modifying blood pressure and heart rate",
+    "Drugs lowering blood glucose",
+    "Diuretics and antihypertensives"
+   ],
+   "ans": 0,
+   "exp": "The examples given under quantal DRC are sedatives and fertility drugs, where the effect either occurs or does not. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-009",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "The quantal dose response curve is studied in:",
+   "opts": [
+    "A population",
+    "An individual",
+    "An isolated tissue only",
+    "A single receptor preparation"
+   ],
+   "ans": 0,
+   "exp": "The quantal DRC is studied in a population, in contrast to the graded DRC which is studied in an individual. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-010",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "ED50 is the dose at which 50% of the population experiences:",
+   "opts": [
+    "Therapeutic effects",
+    "Toxic effects",
+    "Lethal effects",
+    "No effect at all"
+   ],
+   "ans": 0,
+   "exp": "ED50 is the dose at which 50% of the population experiences therapeutic effects. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-011",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "TD50 is the dose at which 50% of the population experiences:",
+   "opts": [
+    "Toxic effects",
+    "Therapeutic effects",
+    "Lethal effects on animals",
+    "Submaximal effects"
+   ],
+   "ans": 0,
+   "exp": "TD50 is the dose at which 50% of the population experiences toxic effects. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-012",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "LD50 is the dose at which 50% experience:",
+   "opts": [
+    "Lethal effects on animals",
+    "Toxic effects in humans",
+    "Therapeutic effects",
+    "Receptor blockade"
+   ],
+   "ans": 0,
+   "exp": "LD50 is the dose at which 50% of animals experience lethal effects. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-013",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "In the quantal DRC table, ED50 is used as a marker of:",
+   "opts": [
+    "Potency",
+    "Toxicity",
+    "Efficacy",
+    "Affinity"
+   ],
+   "ans": 0,
+   "exp": "The table marks ED50 as the marker of potency; TD50 and LD50 are markers of toxicity. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-014",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "Which parameters are used as markers of toxicity in the quantal DRC?",
+   "opts": [
+    "TD50 and LD50",
+    "ED50 and TD50",
+    "ED50 only",
+    "LD50 only, since TD50 is not used"
+   ],
+   "ans": 0,
+   "exp": "The marker column shows potency opposite ED50 and toxicity opposite both TD50 and LD50. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-015",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "On the quantal dose response graph, response in % of population is plotted against:",
+   "opts": [
+    "Log dose",
+    "Plasma concentration",
+    "Time",
+    "Receptor occupancy"
+   ],
+   "ans": 0,
+   "exp": "The graph plots response in % population on the y-axis against log dose on the x-axis, with therapeutic, toxic and lethal curves and the ED50, TD50 and LD50 marked at the 50% line. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-016",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "On the quantal graph, the curve lying to the LEFT is that of:",
+   "opts": [
+    "Therapeutic effects",
+    "Toxicity",
+    "Lethal effects",
+    "Inverse agonist effect"
+   ],
+   "ans": 0,
+   "exp": "The therapeutic effects curve is leftmost since lower doses produce benefit, with toxicity and then lethal effects appearing further to the right. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-017",
+   "sec": "Quantal DRC",
+   "page": 18,
+   "q": "The lethal effects curve on the quantal graph is:",
+   "opts": [
+    "Furthest to the right, because animals die only at the highest doses",
+    "Leftmost, because death occurs at low doses",
+    "Identical to the therapeutic curve",
+    "Absent, because lethality is not studied"
+   ],
+   "ans": 0,
+   "exp": "With log dose on the x-axis, lethal effects (in animals) appear furthest right, after the toxic effects curve. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-018",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "Therapeutic index (TI) is a measurement of:",
+   "opts": [
+    "The safety of a drug",
+    "The potency of a drug",
+    "The efficacy of a drug",
+    "The affinity of a drug"
+   ],
+   "ans": 0,
+   "exp": "The page describes TI as measurement of the safety of a drug. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-019",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "In HUMANS the therapeutic index is calculated as:",
+   "opts": [
+    "TD50/ED50",
+    "LD50/ED50",
+    "ED50/TD50",
+    "TD50 x ED50"
+   ],
+   "ans": 0,
+   "exp": "The book gives humans: TD50/ED50 and animals: LD50/ED50 for the therapeutic index. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-020",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "In ANIMALS the therapeutic index is calculated as:",
+   "opts": [
+    "LD50/ED50",
+    "TD50/ED50",
+    "ED50/LD50",
+    "LD50 x ED50"
+   ],
+   "ans": 0,
+   "exp": "For animals the therapeutic index is LD50/ED50, whereas in humans it is TD50/ED50. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-021",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "A drug with a LOW therapeutic index:",
+   "opts": [
+    "Is safe only in a narrow dosage range and has an increased chance of toxicity",
+    "Is safe over a wide dosage range",
+    "Has high efficacy but low potency",
+    "Cannot produce toxicity at any dose"
+   ],
+   "ans": 0,
+   "exp": "Low TI means the drug is safe only in a narrow dosage range, with an increased chance of toxicity - lithium is the example given. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-022",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "A drug with a HIGH therapeutic index is:",
+   "opts": [
+    "Safe in a wide dosage range",
+    "Safe only in a narrow dosage range",
+    "Associated with frequent toxicity",
+    "Shown by lithium"
+   ],
+   "ans": 0,
+   "exp": "High TI means the drug is safe in a wide dosage range; low TI (lithium) means safety only in a narrow range. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-023",
+   "sec": "Therapeutic Index",
+   "page": 18,
+   "q": "Which drug is quoted as the example of a low therapeutic index?",
+   "opts": [
+    "Lithium",
+    "Paracetamol",
+    "Penicillin",
+    "Atenolol"
+   ],
+   "ans": 0,
+   "exp": "Lithium is the example given for a low TI, which is why its plasma levels must be monitored. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-024",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "In the lithium concentration-time curve, the therapeutic window lies between:",
+   "opts": [
+    "0.6 meq/L and 1.5 meq/L",
+    "0.6 meq/L and 3.0 meq/L",
+    "1.5 meq/L and 3.0 meq/L",
+    "0.1 meq/L and 0.6 meq/L"
+   ],
+   "ans": 0,
+   "exp": "The figure marks lithium's therapeutic window from 0.6 meq/L (minimum effective concentration) up to 1.5 meq/L (minimum toxic concentration). (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-025",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "The lower boundary of the therapeutic window is the:",
+   "opts": [
+    "Minimum effective concentration",
+    "Minimum toxic concentration",
+    "Maximum effective concentration",
+    "Steady state concentration"
+   ],
+   "ans": 0,
+   "exp": "The lower dashed line is the minimum effective concentration - below it there is no effect. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-026",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "The upper boundary of the therapeutic window is the:",
+   "opts": [
+    "Minimum toxic concentration",
+    "Minimum effective concentration",
+    "Maximum safe dose",
+    "Peak plasma concentration"
+   ],
+   "ans": 0,
+   "exp": "The upper dashed line is the minimum toxic concentration; above it, toxicity occurs. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-027",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "In the therapeutic window figure, the zone below the minimum effective concentration of lithium is labelled:",
+   "opts": [
+    "No effect",
+    "Toxicity",
+    "Therapeutic window",
+    "Steady state"
+   ],
+   "ans": 0,
+   "exp": "The grey zone below 0.6 meq/L is labelled 'no effect', the green zone is the therapeutic window and the red zone above 1.5 meq/L is toxicity. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-028",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "What is the plasma concentration range of lithium that is toxic?",
+   "opts": [
+    "Above 1.5 meq/L",
+    "Below 0.6 meq/L",
+    "Between 0.6 and 1.5 meq/L",
+    "Above 0.6 meq/L"
+   ],
+   "ans": 0,
+   "exp": "Plasma lithium above the minimum toxic concentration of 1.5 meq/L lies in the toxicity band of the figure. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-029",
+   "sec": "Therapeutic window",
+   "page": 18,
+   "q": "The therapeutic window is best defined as the:",
+   "opts": [
+    "Range of plasma concentration between the minimum effective and minimum toxic concentrations",
+    "Ratio of TD50 to ED50",
+    "Dose at which 50% of a population responds",
+    "Range of doses with no effect"
+   ],
+   "ans": 0,
+   "exp": "The figure shows the therapeutic window as the band of plasma concentration between the minimum effective concentration and the minimum toxic concentration. (Book p18)"
+  },
+  {
+   "id": "PHARM-C7-030",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "A graded (quantified) response is seen with drugs modifying:",
+   "opts": [
+    "Blood pressure, heart rate and blood glucose levels",
+    "Sedation in a population",
+    "Fertility in a population",
+    "Lethality in animals"
+   ],
+   "ans": 0,
+   "exp": "Graded response = quantified response, e.g. drugs modifying BP, HR and blood glucose levels, and it is studied in an individual. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-031",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "The graded dose response curve is studied in:",
+   "opts": [
+    "An individual",
+    "A population",
+    "An isolated receptor only",
+    "Animals only"
+   ],
+   "ans": 0,
+   "exp": "The graded DRC is studied in an individual, whereas the quantal DRC is studied in a population. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-032",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "On the graded DRC, the response is plotted on the y-axis and ______ on the x-axis.",
+   "opts": [
+    "Log dose",
+    "Log time",
+    "Percentage of population",
+    "Plasma clearance"
+   ],
+   "ans": 0,
+   "exp": "The graded DRC graph plots response (0-100) against log dose, with the three sigmoid curves of drugs A, B and C. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-033",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "In the graded DRC table, efficacy is described as:",
+   "opts": [
+    "Determined by response, the more the height the greater the efficacy",
+    "Determined by the dose, the further left the greater the efficacy",
+    "Comparable only between parallel lines",
+    "More to the right meaning greater potency"
+   ],
+   "ans": 0,
+   "exp": "Efficacy is read off the height of the curve: more the height, greater the efficacy, giving the comparative order B > A > C. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-034",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "According to the graded DRC table, the comparative order of efficacy is:",
+   "opts": [
+    "B > A > C",
+    "A > B > C",
+    "PA > PB > PC",
+    "C > A > B"
+   ],
+   "ans": 0,
+   "exp": "The table's comparative column for efficacy reads B > A > C, following the heights of the three curves. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-035",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "In the graded DRC table, potency is determined by:",
+   "opts": [
+    "A lesser dose producing the same effect - the more to the left, the greater the potency",
+    "The maximum height of the curve",
+    "The slope of the curve",
+    "Comparison between non-parallel lines"
+   ],
+   "ans": 0,
+   "exp": "Potency: lesser dose for the same effect means greater potency, and graphically 'more to the left = higher potency'. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-036",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "The comparative order of potency in the graded DRC table is:",
+   "opts": [
+    "PA > PB > PC",
+    "PB > PA > PC",
+    "PC > PB > PA",
+    "A > B > C"
+   ],
+   "ans": 0,
+   "exp": "The comparative column for potency reads PA > PB > PC, i.e. drug A is the most potent because its curve lies furthest left. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-037",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "On the graded DRC, drug A is:",
+   "opts": [
+    "The most potent (leftmost) but not the most efficacious",
+    "The most efficacious (highest) but not the most potent",
+    "Both the most potent and the most efficacious",
+    "The least potent and the least efficacious"
+   ],
+   "ans": 0,
+   "exp": "Drug A lies furthest left (highest potency, PA > PB > PC) while drug B gives the greatest height (highest efficacy, B > A > C). (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-038",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "On the graded DRC, drug B has:",
+   "opts": [
+    "The greatest efficacy",
+    "The greatest potency",
+    "The greatest affinity",
+    "The lowest efficacy"
+   ],
+   "ans": 0,
+   "exp": "Efficacy follows the height of the curve, and B has the greatest height, giving the order B > A > C for efficacy. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-039",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "In the graded DRC table, affinity is described as:",
+   "opts": [
+    "Comparable between drugs of the same mechanism of action",
+    "Comparable between drugs of different mechanisms of action",
+    "Determined by the height of the curve",
+    "Independent of the position of the curve"
+   ],
+   "ans": 0,
+   "exp": "Affinity is comparable between drugs of the same MOA, and only between parallel lines; more to the left means higher affinity. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-040",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "As per the affinity column, affinity can be compared only between:",
+   "opts": [
+    "Parallel lines",
+    "Non-parallel lines",
+    "The highest curves",
+    "The leftmost curves"
+   ],
+   "ans": 0,
+   "exp": "The table notes affinity is comparable between drugs of the same MOA - determined graphically 'only comparable between parallel lines'. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-041",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "In the graded DRC table, the comparative order of affinity is:",
+   "opts": [
+    "A > B, because drug C is not parallel",
+    "B > A > C",
+    "PA > PB > PC",
+    "C > A > B"
+   ],
+   "ans": 0,
+   "exp": "With C not parallel to the others, affinity can only be compared between A and B - the table gives A > B. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-042",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "Drug C in the graded DRC is excluded from the affinity comparison because:",
+   "opts": [
+    "C is not parallel to the other curves",
+    "C has the lowest efficacy",
+    "C is the least potent",
+    "C is an antagonist"
+   ],
+   "ans": 0,
+   "exp": "The affinity column states the comparison holds only between parallel lines, and the table records 'A > B (C is not parallel)'. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-043",
+   "sec": "Graded DRC",
+   "page": 19,
+   "q": "Which statement correctly distinguishes efficacy from potency on a graded DRC?",
+   "opts": [
+    "Efficacy is judged by the height of the curve and potency by its position on the x-axis",
+    "Efficacy is judged by the position and potency by the height",
+    "Both are judged by the height of the curve",
+    "Both are judged by the slope of the curve"
+   ],
+   "ans": 0,
+   "exp": "Height of the curve gives efficacy, while position along the log dose axis gives potency - the further left, the more potent. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-044",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "The effect of a full agonist upon binding to its receptor is:",
+   "opts": [
+    "Maximum effect",
+    "Submaximal effect",
+    "No effect",
+    "Opposite to the nature of the receptor"
+   ],
+   "ans": 0,
+   "exp": "The drug receptor interaction table gives full agonists a maximum effect (curve A). (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-045",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "The effect of a partial agonist upon binding to its receptor is:",
+   "opts": [
+    "Submaximal effect",
+    "Maximum effect",
+    "No effect",
+    "Opposite effect"
+   ],
+   "ans": 0,
+   "exp": "Partial agonists produce a submaximal effect (curve B), less than a full agonist whatever the dose. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-046",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "An antagonist, upon binding to its receptor, produces:",
+   "opts": [
+    "No effect",
+    "Maximum effect",
+    "Submaximal effect",
+    "An effect opposite to the receptor's nature"
+   ],
+   "ans": 0,
+   "exp": "Antagonists have no effect of their own upon binding (curve C) - their action is seen only in the presence of an agonist. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-047",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "An inverse agonist, upon binding to its receptor, produces:",
+   "opts": [
+    "An effect opposite to the nature of the receptor",
+    "No effect",
+    "A submaximal effect",
+    "A maximal effect"
+   ],
+   "ans": 0,
+   "exp": "The inverse agonist produces an effect opposite to the nature of the receptors (curve D), falling below the baseline of no effect. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-048",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "In terms of net effect in the body when endogenous full agonists are present, a partial agonist produces:",
+   "opts": [
+    "Mild antagonism (opposite effect)",
+    "Moderate antagonism",
+    "Severe antagonism",
+    "No antagonism at all"
+   ],
+   "ans": 0,
+   "exp": "With endogenous full agonists present, partial agonists give mild antagonism, antagonists moderate antagonism and inverse agonists severe antagonism. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-049",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "Which agent produces moderate antagonism of endogenous full agonists?",
+   "opts": [
+    "Antagonist",
+    "Partial agonist",
+    "Inverse agonist",
+    "Full agonist"
+   ],
+   "ans": 0,
+   "exp": "The table's net effect row reads: partial agonist - mild antagonism, antagonist - moderate antagonism, inverse agonist - severe antagonism. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-050",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "Which agent produces severe antagonism of endogenous full agonists?",
+   "opts": [
+    "Inverse agonist",
+    "Antagonist",
+    "Partial agonist",
+    "Full agonist"
+   ],
+   "ans": 0,
+   "exp": "Inverse agonists produce an effect opposite to the receptor's nature, which in the presence of endogenous full agonists amounts to severe antagonism. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-051",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "Intrinsic efficacy, the mathematical representation of efficacy, for a FULL agonist is:",
+   "opts": [
+    "+1",
+    "0",
+    "Between 1 and 0",
+    "-1"
+   ],
+   "ans": 0,
+   "exp": "The table assigns intrinsic efficacy +1 to full agonists, between 1 and 0 to partial agonists, 0 to antagonists and -1 to inverse agonists. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-052",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "The intrinsic efficacy of a partial agonist lies:",
+   "opts": [
+    "Between 1 and 0",
+    "Exactly 1",
+    "Exactly 0",
+    "Exactly -1"
+   ],
+   "ans": 0,
+   "exp": "Partial agonists have an intrinsic efficacy between 1 and 0 - more than an antagonist but less than a full agonist. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-053",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "The intrinsic efficacy of an antagonist is:",
+   "opts": [
+    "0",
+    "+1",
+    "-1",
+    "Between 1 and 0"
+   ],
+   "ans": 0,
+   "exp": "Antagonists have an intrinsic efficacy of 0, which corresponds to producing no effect upon binding. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-054",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "The intrinsic efficacy of an inverse agonist is:",
+   "opts": [
+    "-1",
+    "0",
+    "+1",
+    "Between 1 and 0"
+   ],
+   "ans": 0,
+   "exp": "Inverse agonists are given an intrinsic efficacy of -1, matching their effect opposite to the nature of the receptor. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-055",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "On the dose-response figure of drug receptor interactions, the curve that dips below the baseline of no effect represents:",
+   "opts": [
+    "Inverse agonist (D)",
+    "Full agonist (A)",
+    "Partial agonist (B)",
+    "Antagonist (C)"
+   ],
+   "ans": 0,
+   "exp": "Curve A is maximal (full agonist), B submaximal (partial agonist), C flat at no effect (antagonist) and D falls to the opposite effect (inverse agonist). (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-056",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "On the drug receptor interaction graph, the flat line at the level of no effect represents:",
+   "opts": [
+    "Antagonist (C)",
+    "Partial agonist (B)",
+    "Inverse agonist (D)",
+    "Full agonist (A)"
+   ],
+   "ans": 0,
+   "exp": "Curve C stays at 'no effect' across the dose range - the antagonist, which produces no action of its own. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-057",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "According to the note on this page, the type of drug most commonly used among these is:",
+   "opts": [
+    "Antagonists",
+    "Full agonists",
+    "Partial agonists",
+    "Inverse agonists"
+   ],
+   "ans": 0,
+   "exp": "The note box states that antagonists are the m/c used, even though they produce no effect of their own. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-058",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "Which pair of agents and intrinsic efficacy is correctly matched?",
+   "opts": [
+    "Partial agonist - between 1 and 0",
+    "Full agonist - 0",
+    "Antagonist - -1",
+    "Inverse agonist - +1"
+   ],
+   "ans": 0,
+   "exp": "Correct values are +1 for full agonists, between 1 and 0 for partial agonists, 0 for antagonists and -1 for inverse agonists. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-059",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "A patient on a full agonist for asthma is given a partial agonist at the same receptor. Which effect is expected?",
+   "opts": [
+    "Mild antagonism, because the partial agonist produces only a submaximal effect",
+    "Severe antagonism with complete loss of effect",
+    "No change, because both are agonists",
+    "An effect opposite to the receptor's nature"
+   ],
+   "ans": 0,
+   "exp": "With an endogenous full agonist present, a partial agonist produces only a submaximal effect and therefore mild antagonism. (Book p19)"
+  },
+  {
+   "id": "PHARM-C7-060",
+   "sec": "Drug Receptor Interactions",
+   "page": 19,
+   "q": "Comparing curves, which statement about a full versus a partial agonist is correct?",
+   "opts": [
+    "A full agonist reaches a maximal effect while a partial agonist plateaus at a submaximal effect",
+    "A partial agonist reaches a maximal effect while a full agonist is submaximal",
+    "Both reach the same maximal effect at different doses",
+    "Neither can be compared on a graded dose response curve"
+   ],
+   "ans": 0,
+   "exp": "In the figure, A (full agonist) rises to maximal, B (partial agonist) plateaus at submaximal, C (antagonist) stays at no effect and D (inverse agonist) moves to the opposite effect. (Book p19)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U7-1",
+   "ch": 7,
+   "n": 1,
+   "title": "Affinity, Efficacy and Potency",
+   "sec": "Affinity, Efficacy and Potency · p18",
+   "qs": [
+    "PHARM-C7-001",
+    "PHARM-C7-002",
+    "PHARM-C7-003",
+    "PHARM-C7-004",
+    "PHARM-C7-005",
+    "PHARM-C7-006"
+   ],
+   "guide": "A drug's tendency to bind its target is affinity; the maximum effect it produces is efficacy, and efficacy is the clinically most important property because it fixes the ceiling of benefit. Potency is a different matter - the relative dose needed for a given effect, so the lesser the dose, the greater the potency. A graded (quantified) response, such as a change in BP, HR or blood glucose, is studied in an individual."
+  },
+  {
+   "id": "PHARM-U7-2",
+   "ch": 7,
+   "n": 2,
+   "title": "Quantal DRC: ED50, TD50 and LD50",
+   "sec": "Quantal DRC · p18",
+   "qs": [
+    "PHARM-C7-007",
+    "PHARM-C7-008",
+    "PHARM-C7-009",
+    "PHARM-C7-010",
+    "PHARM-C7-011",
+    "PHARM-C7-012",
+    "PHARM-C7-013",
+    "PHARM-C7-014",
+    "PHARM-C7-015",
+    "PHARM-C7-016",
+    "PHARM-C7-017"
+   ],
+   "guide": "The quantal DRC records a binary, all-or-none response (sedation, fertility) in a population, plotting the percentage of responders against log dose. ED50 is the dose at which half the population gets a therapeutic effect and marks potency, while TD50 (toxic) and LD50 (lethal, in animals) mark toxicity; on the graph the therapeutic curve sits leftmost and the lethal curve furthest right."
+  },
+  {
+   "id": "PHARM-U7-3",
+   "ch": 7,
+   "n": 3,
+   "title": "Therapeutic Index and Therapeutic Window",
+   "sec": "Therapeutic Index · p18",
+   "qs": [
+    "PHARM-C7-018",
+    "PHARM-C7-019",
+    "PHARM-C7-020",
+    "PHARM-C7-021",
+    "PHARM-C7-022",
+    "PHARM-C7-023",
+    "PHARM-C7-024",
+    "PHARM-C7-025",
+    "PHARM-C7-026",
+    "PHARM-C7-027",
+    "PHARM-C7-028",
+    "PHARM-C7-029"
+   ],
+   "guide": "The therapeutic index measures safety: TD50/ED50 in humans and LD50/ED50 in animals. A low index, as with lithium, means safety only within a narrow dosage range and a high chance of toxicity, whereas a high index allows a wide range. The therapeutic window is the corridor between the minimum effective concentration (0.6 meq/L for lithium) and the minimum toxic concentration (1.5 meq/L) - below it there is no effect and above it toxicity."
+  },
+  {
+   "id": "PHARM-U7-4",
+   "ch": 7,
+   "n": 4,
+   "title": "Graded DRC: Height, Position and Parallel Lines",
+   "sec": "Graded DRC · p19",
+   "qs": [
+    "PHARM-C7-030",
+    "PHARM-C7-031",
+    "PHARM-C7-032",
+    "PHARM-C7-033",
+    "PHARM-C7-034",
+    "PHARM-C7-035",
+    "PHARM-C7-036",
+    "PHARM-C7-037",
+    "PHARM-C7-038",
+    "PHARM-C7-039",
+    "PHARM-C7-040",
+    "PHARM-C7-041",
+    "PHARM-C7-042",
+    "PHARM-C7-043"
+   ],
+   "guide": "On the graded DRC (response versus log dose in an individual) efficacy is read from the height of the curve and potency from its position - more to the left means more potent. In the figure, efficacy runs B > A > C and potency PA > PB > PC, so drug A is the most potent yet B the most efficacious. Affinity is comparable only between drugs of the same MOA and only between parallel lines, which is why C is excluded and the order is A > B."
+  },
+  {
+   "id": "PHARM-U7-5",
+   "ch": 7,
+   "n": 5,
+   "title": "Full, Partial, Antagonist, Inverse: The Table",
+   "sec": "Drug Receptor Interactions · p19",
+   "qs": [
+    "PHARM-C7-044",
+    "PHARM-C7-045",
+    "PHARM-C7-046",
+    "PHARM-C7-047",
+    "PHARM-C7-048",
+    "PHARM-C7-049",
+    "PHARM-C7-050",
+    "PHARM-C7-051",
+    "PHARM-C7-052",
+    "PHARM-C7-053",
+    "PHARM-C7-054",
+    "PHARM-C7-055",
+    "PHARM-C7-056",
+    "PHARM-C7-057"
+   ],
+   "guide": "The interaction table grades four behaviours: a full agonist gives a maximum effect (+1 intrinsic efficacy), a partial agonist a submaximal effect (between 1 and 0), an antagonist no effect (0) and an inverse agonist an effect opposite to the receptor's nature (-1). Against endogenous full agonists these translate into mild, moderate and severe antagonism respectively. On the figure, A rises to maximal, B plateaus submaximally, C stays flat and D dips below the no-effect line."
+  },
+  {
+   "id": "PHARM-U7-6",
+   "ch": 7,
+   "n": 6,
+   "title": "Clinical Reading of Agonists and Antagonists",
+   "sec": "Drug Receptor Interactions · p19",
+   "qs": [
+    "PHARM-C7-058",
+    "PHARM-C7-059",
+    "PHARM-C7-060"
+   ],
+   "guide": "The single most useful clinical fact from this table is its footnote: antagonists are the most commonly used drugs, even though they exert no effect of their own. Adding a partial agonist to a patient already on a full agonist yields only mild antagonism, because a partial agonist can never match a full agonist's maximal response."
+  }
+ ]
+}
