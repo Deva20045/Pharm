@@ -1,0 +1,1586 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C42-001",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The three ribosomal sites labelled on the m-RNA in step I are:",
+   "opts": [
+    "E-site, P-site and A-site",
+    "Only P-site and A-site",
+    "E-site, P-site and T-site",
+    "P-site, A-site and R-site"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels E-site (ejection), P-site (peptidyl) and A-site (acceptor). (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-002",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "In the step I diagram the E-site is the site of:",
+   "opts": [
+    "Ejection",
+    "Peptidyl transfer",
+    "Acceptor binding",
+    "Translocation"
+   ],
+   "ans": 0,
+   "exp": "E-site is annotated \"(Ejection)\" in the diagram. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-003",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The P-site in step I carries the:",
+   "opts": [
+    "Old t-RNA (peptidyl)",
+    "New t-RNA with amino acids",
+    "Ejected t-RNA",
+    "m-RNA itself"
+   ],
+   "ans": 0,
+   "exp": "The P-site (peptidyl) holds the old t-RNA. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-004",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The A-site is also called the:",
+   "opts": [
+    "Acceptor site",
+    "Ejection site",
+    "Peptidyl site",
+    "Primer site"
+   ],
+   "ans": 0,
+   "exp": "A-site is annotated \"(Acceptor)\". (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-005",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "In step I the peptide chain is transferred to the new t-RNA by:",
+   "opts": [
+    "Peptidyl transferase",
+    "Translocase",
+    "RNA polymerase",
+    "Aminoacyl t-RNA synthetase"
+   ],
+   "ans": 0,
+   "exp": "The curved arrow of step I is labelled peptidyl transferase. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-006",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The new t-RNA arriving at the A-site in step I carries:",
+   "opts": [
+    "Amino acids (AA)",
+    "A DNA primer",
+    "Pyrophosphate",
+    "Ribosomal proteins"
+   ],
+   "ans": 0,
+   "exp": "The new t-RNA is drawn with (AA); AA = amino acids. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-007",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The two drugs shown inhibiting peptidyl transferase are:",
+   "opts": [
+    "Chloramphenicol and pleuromutilin",
+    "Tetracyclines and aminoglycosides",
+    "Macrolides and linezolid",
+    "Clindamycin and streptogramins"
+   ],
+   "ans": 0,
+   "exp": "A (-) bracket from peptidyl transferase points to chloramphenicol and pleuromutilin. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-008",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The two peptidyl-transferase inhibitors share which two page features?",
+   "opts": [
+    "High toxicity and 50S subunit action",
+    "Low toxicity and 30S subunit action",
+    "Bactericidal action and 30S subunit",
+    "Cell-wall action and high toxicity"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside them lists \"High toxicity\" and \"50S subunit\". (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-009",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "Binding to the A-site is specific for which ribosomal subunit?",
+   "opts": [
+    "30S subunit",
+    "50S subunit",
+    "40S subunit",
+    "60S subunit"
+   ],
+   "ans": 0,
+   "exp": "The A-site branch is labelled \"30S subunit specific\". (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-010",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The two drug groups shown binding the A-site are:",
+   "opts": [
+    "Tetracyclines and aminoglycosides",
+    "Macrolides and lincosamides",
+    "Chloramphenicol and pleuromutilin",
+    "Linezolid and streptogramins"
+   ],
+   "ans": 0,
+   "exp": "The 30S A-site branch splits into tetracyclines and aminoglycosides. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-011",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "Tetracyclines act on the ribosome by:",
+   "opts": [
+    "Blocking the A-site",
+    "Misreading of m-RNA",
+    "Blocking translocation",
+    "Inhibiting peptidyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Tetracyclines: blocks A-site. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-012",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "Aminoglycosides act on the ribosome by causing:",
+   "opts": [
+    "Misreading of m-RNA",
+    "Blocking the A-site",
+    "Blocking translocation",
+    "Inhibiting peptidyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycosides: misreading of m-RNA. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-013",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "Misreading of m-RNA by aminoglycosides finally leads to:",
+   "opts": [
+    "Abnormal protein formation and bacterial death",
+    "Blocked translocation only",
+    "Intact but inactive ribosomes",
+    "Cell-wall lysis"
+   ],
+   "ans": 0,
+   "exp": "Misreading -> abnormal protein formation -> bacterial death. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-014",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "In step II the t-RNA sitting in the E-site is:",
+   "opts": [
+    "Ejected",
+    "Translocated to the P-site",
+    "Recharged with amino acids",
+    "Bound to the A-site"
+   ],
+   "ans": 0,
+   "exp": "Step II shows an \"Ejected\" arrow leaving the E-site. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-015",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The step II movement of the peptidyl t-RNA from A-site towards P-site is called:",
+   "opts": [
+    "Translocation",
+    "Peptidyl transfer",
+    "Ejection",
+    "Uncoating"
+   ],
+   "ans": 0,
+   "exp": "The step II arrow between A-site and P-site is labelled translocation. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-016",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The drugs listed as acting on the 50S subunit to block step II are:",
+   "opts": [
+    "Macrolide, linezolid, streptogramins and lincosamide (clindamycin)",
+    "Tetracyclines and aminoglycosides",
+    "Chloramphenicol and pleuromutilin",
+    "Polymyxins and daptomycin"
+   ],
+   "ans": 0,
+   "exp": "The four-drug list acts on the 50S subunit with a (-) on translocation. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-017",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The lincosamide named inside the 50S translocation-block list is:",
+   "opts": [
+    "Clindamycin",
+    "Clarithromycin",
+    "Clavulanic acid",
+    "Colistin"
+   ],
+   "ans": 0,
+   "exp": "The list reads \"Lincosamide (Clindamycin)\". (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-018",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "In the step II diagram the incoming new t-RNA first occupies the:",
+   "opts": [
+    "A-site",
+    "P-site",
+    "E-site",
+    "5-prime end of m-RNA"
+   ],
+   "ans": 0,
+   "exp": "The new t-RNA arrow points into the A-site (acceptor). (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-019",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "page": 167,
+   "q": "The abbreviation AA in the protein-synthesis diagram stands for:",
+   "opts": [
+    "Amino acids",
+    "Antibiotic activity",
+    "Acetyl groups",
+    "Adenosine"
+   ],
+   "ans": 0,
+   "exp": "The legend at right reads \"AA : Amino Acids\". (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-020",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site",
+   "page": 167,
+   "q": "In MLS-B resistance the bacteria produce:",
+   "opts": [
+    "Methylase",
+    "Beta-lactamase",
+    "An efflux pump",
+    "Acetyltransferase"
+   ],
+   "ans": 0,
+   "exp": "MLS-B resistance: bacteria produce methylase. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-021",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site",
+   "page": 167,
+   "q": "The methylase of MLS-B resistance acts by:",
+   "opts": [
+    "Methylation of the MBS (macrolide binding site)",
+    "Hydrolysing the drug",
+    "Phosphorylating the ribosome",
+    "Altering DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "The flow is methylase -> methylation of MBS (macrolide binding site). (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-022",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site",
+   "page": 167,
+   "q": "Methylation of the MBS finally produces:",
+   "opts": [
+    "Macrolide resistance",
+    "Aminoglycoside resistance",
+    "Vancomycin resistance",
+    "Tetracycline resistance"
+   ],
+   "ans": 0,
+   "exp": "Methylation of MBS -> macrolide resistance. (Book p167)"
+  },
+  {
+   "id": "PHARM-C42-023",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site",
+   "page": 168,
+   "q": "The MBS is the same binding site for:",
+   "opts": [
+    "Lincosamide and streptogramin B",
+    "Streptogramin A and tetracycline",
+    "Linezolid and oxazolidinones",
+    "Chloramphenicol and pleuromutilin"
+   ],
+   "ans": 0,
+   "exp": "MBS: same binding site for lincosamide and streptogramin B. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-024",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site",
+   "page": 168,
+   "q": "Because the MBS is shared by macrolides, lincosamide and streptogramin B, methylation leads to:",
+   "opts": [
+    "Development of cross resistance",
+    "Selective macrolide resistance only",
+    "Increased drug uptake into the ribosome",
+    "Loss of efflux pumps"
+   ],
+   "ans": 0,
+   "exp": "Shared MBS explains the development of cross resistance. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-025",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The mechanism of action of tetracyclines is:",
+   "opts": [
+    "Blocks the A-site",
+    "Blocks the P-site",
+    "Blocks translocation",
+    "Inhibits peptidyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Tetracyclines MOA: blocks A-site. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-026",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The intramuscular route of tetracyclines is contraindicated because of:",
+   "opts": [
+    "Pain and inflammation",
+    "Necrosis of muscle",
+    "Poor absorption only",
+    "Nerve injury"
+   ],
+   "ans": 0,
+   "exp": "Note: i/m is C/I due to pain & inflammation. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-027",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The routes available for tetracyclines on the page are:",
+   "opts": [
+    "IV and oral",
+    "IM and oral",
+    "Topical and IV",
+    "Oral only"
+   ],
+   "ans": 0,
+   "exp": "Route: I/v and oral (bio-availability). (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-028",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The oral bio-availability ranking given for tetracyclines is:",
+   "opts": [
+    "Minocycline (100%) > doxycycline",
+    "Doxycycline (100%) > minocycline",
+    "Tetracycline > minocycline",
+    "Demeclocycline > doxycycline"
+   ],
+   "ans": 0,
+   "exp": "Oral bio-availability: minocycline (100%) > doxycycline. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-029",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The tetracycline spectrum is described as:",
+   "opts": [
+    "Wide, covering gram +ve and gram -ve",
+    "Narrow gram +ve only",
+    "Narrow gram -ve only",
+    "Only atypical organisms"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: wide - gram +ve and gram -ve. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-030",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The organisms excepted from the tetracycline spectrum are:",
+   "opts": [
+    "Proteus, Pseudomonas and Providencia",
+    "Staphylococcus, Streptococcus and Enterococcus",
+    "E. coli, Klebsiella and Salmonella",
+    "Mycoplasma, Chlamydia and Rickettsia"
+   ],
+   "ans": 0,
+   "exp": "Except: Proteus, Pseudomonas, Providencia, etc. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-031",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "The tetracycline mechanisms of resistance listed are:",
+   "opts": [
+    "Drug efflux, enzyme inactivation and ribosomal protective protein",
+    "Target methylation, efflux and beta-lactamase",
+    "Altered ribosome, porin loss and PBP change",
+    "Efflux, PBP change and topoisomerase mutation"
+   ],
+   "ans": 0,
+   "exp": "MOR: drug efflux, enzyme inactivation, ribosomal protective protein. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-032",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "page": 168,
+   "q": "Which single resistance mechanism of the page belongs to tetracyclines?",
+   "opts": [
+    "Ribosomal protective protein",
+    "Methylation of the macrolide binding site",
+    "Altered ribosome seen only with streptomycin",
+    "Beta-lactamase production"
+   ],
+   "ans": 0,
+   "exp": "Ribosomal protective protein is one of the three tetracycline MOR mechanisms. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-033",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The tetracycline whose DOC list is summarised by the mnemonic \"my Pink RBC\" is:",
+   "opts": [
+    "Doxycycline",
+    "Minocycline",
+    "Demeclocycline",
+    "Tigecycline"
+   ],
+   "ans": 0,
+   "exp": "DOC: my Pink RBC is written under doxycycline. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-034",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Doxycycline is DOC for which sexually transmitted infection caused by mycoplasma?",
+   "opts": [
+    "Mycoplasma (STD)",
+    "Chlamydia only",
+    "Gonorrhoea",
+    "Syphilis"
+   ],
+   "ans": 0,
+   "exp": "The doxycycline DOC list starts with mycoplasma (STD). (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-035",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Plague prophylaxis is a DOC use of:",
+   "opts": [
+    "Doxycycline",
+    "Minocycline",
+    "Tigecycline",
+    "Sarecycline"
+   ],
+   "ans": 0,
+   "exp": "Plague prophylaxis appears in the doxycycline DOC list. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-036",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Rickettsial disease including scrub typhus is treated with:",
+   "opts": [
+    "Doxycycline",
+    "Azithromycin only",
+    "Chloramphenicol only",
+    "Ciprofloxacin"
+   ],
+   "ans": 0,
+   "exp": "Rickettsial disease (scrub typhus) is in the doxycycline DOC list. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-037",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Borrelia and Brucella infections are DOC uses of:",
+   "opts": [
+    "Doxycycline",
+    "Minocycline",
+    "Demeclocycline",
+    "Omadacycline"
+   ],
+   "ans": 0,
+   "exp": "Borrelia and Brucella are listed under doxycycline. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-038",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Chlamydia (STD) and cholera are DOC uses of:",
+   "opts": [
+    "Doxycycline",
+    "Azithromycin in all patients",
+    "Tigecycline",
+    "Sulfisoxazole"
+   ],
+   "ans": 0,
+   "exp": "Chlamydia (STD) and cholera complete the doxycycline DOC list. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-039",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The tetracycline that is DOC for leprosy is:",
+   "opts": [
+    "Minocycline",
+    "Doxycycline",
+    "Demeclocycline",
+    "Tigecycline"
+   ],
+   "ans": 0,
+   "exp": "Minocycline use: leprosy (DOC). (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-040",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Demeclocycline is used for:",
+   "opts": [
+    "SIADH",
+    "Diabetes insipidus",
+    "Hypertension",
+    "Hypercalcaemia"
+   ],
+   "ans": 0,
+   "exp": "Demeclocycline use: SIADH. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-041",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Tigecycline belongs to which subclass?",
+   "opts": [
+    "Glycycycline",
+    "Aminocycline",
+    "Fluorocycline",
+    "Cephalosporin"
+   ],
+   "ans": 0,
+   "exp": "Tigecycline (Glycycycline). (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-042",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Tigecycline is derived from:",
+   "opts": [
+    "Minocycline",
+    "Doxycycline",
+    "Demeclocycline",
+    "Tetracycline base"
+   ],
+   "ans": 0,
+   "exp": "Tigecycline is derived from minocycline. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-043",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The MOA and resistance of tigecycline are:",
+   "opts": [
+    "Same as tetracycline",
+    "Different - it blocks translocation",
+    "Same as aminoglycosides",
+    "Same as macrolides"
+   ],
+   "ans": 0,
+   "exp": "MOA/MOR: same as tetracycline. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-044",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The route of tigecycline is:",
+   "opts": [
+    "IV only",
+    "Oral only",
+    "Oral and IV",
+    "Topical"
+   ],
+   "ans": 0,
+   "exp": "Route: IV only. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-045",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The gram +ve spectrum of tigecycline covers:",
+   "opts": [
+    "MRSA and VRSA",
+    "Only penicillin-sensitive streptococci",
+    "Enterococcus only",
+    "No gram +ve cover"
+   ],
+   "ans": 0,
+   "exp": "Spectrum gram +ve: MRSA, VRSA. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-046",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The gram -ve spectrum of tigecycline covers:",
+   "opts": [
+    "Aerobes and anaerobes",
+    "Only aerobes",
+    "Only anaerobes",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Spectrum gram -ve: aerobes, anerobes. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-047",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Tigecycline increases mortality in severe infections compared with other drugs and is therefore kept as a:",
+   "opts": [
+    "Last line drug",
+    "First line drug",
+    "Prophylactic drug",
+    "Monotherapy drug"
+   ],
+   "ans": 0,
+   "exp": "Increased mortality in severe infections -> last line drug. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-048",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "The listed uses of tigecycline are:",
+   "opts": [
+    "Intraabdominal infection and community acquired pneumonia (CAP)",
+    "UTI and bacteremia",
+    "Meningitis and endocarditis",
+    "Skin infection only"
+   ],
+   "ans": 0,
+   "exp": "Use: intraabdominal infection and CAP. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-049",
+   "sec": "Tetracycline Drugs and Their DOC Uses",
+   "page": 168,
+   "q": "Tigecycline is contraindicated in UTI and bacteremia because it:",
+   "opts": [
+    "Is not concentrated well in blood and urine",
+    "Is rapidly metabolised by the liver",
+    "Binds plasma proteins completely",
+    "Is inactivated by surfactant"
+   ],
+   "ans": 0,
+   "exp": "C/I UTI and bacteremia: not concentrated well in blood & urine. (Book p168)"
+  },
+  {
+   "id": "PHARM-C42-050",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The symptoms of scrub typhus listed in the note are:",
+   "opts": [
+    "Fever, rash and eschar with central necrosis",
+    "Fever, cough and pleuritic pain",
+    "Rash, arthritis and urethritis",
+    "Fever, jaundice and bleeding"
+   ],
+   "ans": 0,
+   "exp": "Note: scrub typhus symptoms - fever, rash, eschar central necrosis. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-051",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Mild or moderate scrub typhus is treated with:",
+   "opts": [
+    "Oral doxycycline",
+    "IV doxycycline alone",
+    "Oral azithromycin alone",
+    "IV chloramphenicol"
+   ],
+   "ans": 0,
+   "exp": "Treatment mild/moderate: oral doxycycline. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-052",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Severe scrub typhus with meningitis or pneumonia is treated with:",
+   "opts": [
+    "IV doxycycline + azithromycin",
+    "Oral doxycycline alone",
+    "IV ceftriaxone",
+    "Oral chloramphenicol"
+   ],
+   "ans": 0,
+   "exp": "Severe (meningitis/pneumonia): IV doxycycline + azithromycin. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-053",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The tetracycline side-effect mnemonic written on the page is:",
+   "opts": [
+    "Tetra packet",
+    "Tetra block",
+    "TETRA Toxicity",
+    "Four-Fold"
+   ],
+   "ans": 0,
+   "exp": "The side-effect heading reads \"Tetra packet\". (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-054",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The skin-related tetracycline side effect is:",
+   "opts": [
+    "Photosensitivity",
+    "Pigmentation only",
+    "Acne",
+    "Urticaria only"
+   ],
+   "ans": 0,
+   "exp": "First packet item: photosensitivity. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-055",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The CNS side effect of tetracyclines in the packet is:",
+   "opts": [
+    "Pseudotumor cerebri",
+    "Meningitis",
+    "Encephalitis",
+    "Peripheral neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Second packet item: pseudotumor cerebri. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-056",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Acute renal failure from tetracyclines occurs with all except:",
+   "opts": [
+    "Doxycycline",
+    "Minocycline",
+    "Demeclocycline",
+    "Tetracycline base"
+   ],
+   "ans": 0,
+   "exp": "Acute renal failure (except doxycycline). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-057",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Tetracyclines inhibit bone growth by:",
+   "opts": [
+    "Increased Ca++ binding",
+    "Blocking vitamin D",
+    "Chelating magnesium",
+    "Inhibiting collagen cross-linking"
+   ],
+   "ans": 0,
+   "exp": "Increased Ca++ binding: inhibits bone growth. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-058",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The tetracycline effect that is used therapeutically in diabetes insipidus is:",
+   "opts": [
+    "Kidney V2 receptor blockade",
+    "ADH stimulation",
+    "Aquaporin upregulation",
+    "Sodium retention"
+   ],
+   "ans": 0,
+   "exp": "Kidney V2 receptor blocker: used in diabetes insipidus. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-059",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The maximum V2-blocking effect for diabetes insipidus is seen with:",
+   "opts": [
+    "Demeclocycline",
+    "Doxycycline",
+    "Minocycline",
+    "Tigecycline"
+   ],
+   "ans": 0,
+   "exp": "Diabetes insipidus effect is max with demeclocycline. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-060",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "The gastrointestinal side effect of tetracyclines in the packet is:",
+   "opts": [
+    "Esophagitis",
+    "Gastric ulcer",
+    "Colitis",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Packet item: esophagitis. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-061",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Expired tetracycline causes:",
+   "opts": [
+    "Fanconi syndrome (citrates)",
+    "Gray baby syndrome",
+    "Stevens-Johnson syndrome",
+    "Nephrotic syndrome"
+   ],
+   "ans": 0,
+   "exp": "Expired drug: Fanconi syndrome (citrates). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-062",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "page": 169,
+   "q": "Tetracyclines given to kids discolour teeth to:",
+   "opts": [
+    "Yellow",
+    "Brown-black",
+    "Grey",
+    "Green"
+   ],
+   "ans": 0,
+   "exp": "Teeth -> yellow (kids). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-063",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "Tetracyclines are contraindicated in pregnancy and children because of:",
+   "opts": [
+    "Bone growth abnormality",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Ototoxicity"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy and children are bracketed to bone growth abnormality. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-064",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "Tetracyclines should not be co-administered with:",
+   "opts": [
+    "Milk and antacids",
+    "Fruit juice",
+    "Coffee",
+    "Plain water"
+   ],
+   "ans": 0,
+   "exp": "Contraindication: with milk and antacids. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-065",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "The one-line mechanism of aminoglycosides on the page is:",
+   "opts": [
+    "Misreading of mRNA -> abnormal protein -> cidal effect",
+    "Blocking A-site -> static effect",
+    "Blocking translocation -> cidal effect",
+    "Depolarising membrane -> cidal effect"
+   ],
+   "ans": 0,
+   "exp": "MOA: misreading of mRNA -> abnormal protein -> cidal effect. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-066",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "The killing nature of aminoglycosides is described as:",
+   "opts": [
+    "Cidal effect",
+    "Static effect",
+    "Bacteriostatic at all doses",
+    "Only synergistic"
+   ],
+   "ans": 0,
+   "exp": "The chain ends in \"Cidal effect\". (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-067",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "Aminoglycosides can be used as monotherapy in:",
+   "opts": [
+    "Gram -ve aerobes except typhoid",
+    "All gram -ve organisms including typhoid",
+    "Gram +ve anaerobes",
+    "Atypical organisms"
+   ],
+   "ans": 0,
+   "exp": "Monotherapy in gram -ve aerobs (except typhoid). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-068",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "Aminoglycosides are add-on drugs for which infection?",
+   "opts": [
+    "Pseudomonas infection",
+    "Meningococcal meningitis",
+    "Syphilis",
+    "Tetanus"
+   ],
+   "ans": 0,
+   "exp": "Add on drugs: Pseudomonas infection. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-069",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "page": 169,
+   "q": "Combined with ampicillin or vancomycin, aminoglycosides cover which gram +ve organisms?",
+   "opts": [
+    "Staphylococcus and Enterococcus",
+    "Streptococcus pneumoniae and Listeria",
+    "Bacillus and Corynebacterium",
+    "Nocardia and Actinomyces"
+   ],
+   "ans": 0,
+   "exp": "With ampicillin/vancomycin for gram +ve: Staphylococcus, Enterococcus. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-070",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The aminoglycoside spectrum covers:",
+   "opts": [
+    "Gram -ve aerobes",
+    "Gram -ve anaerobes",
+    "Gram +ve aerobes",
+    "All bacteria"
+   ],
+   "ans": 0,
+   "exp": "Spectrum: gram -ve aerobes. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-071",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Aminoglycosides are not active against:",
+   "opts": [
+    "Anaerobes and gram +ve organisms",
+    "Gram -ve aerobes",
+    "Mycobacteria only",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "Not active against anaerobes and gram +ve. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-072",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The aminoglycoside routes listed are:",
+   "opts": [
+    "IV, IM and oral with poor absorption",
+    "Oral with good absorption",
+    "Topical and oral",
+    "IV only"
+   ],
+   "ans": 0,
+   "exp": "Routes: I/v, I/m, oral poor absorption. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-073",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Oral aminoglycosides are characterised by:",
+   "opts": [
+    "Poor absorption",
+    "Complete absorption",
+    "Enteric coating",
+    "First-pass metabolism"
+   ],
+   "ans": 0,
+   "exp": "Oral: poor absorption. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-074",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The common aminoglycoside resistance mechanism is:",
+   "opts": [
+    "Enzyme inactivation",
+    "Target methylation",
+    "Efflux pumps",
+    "Porin loss"
+   ],
+   "ans": 0,
+   "exp": "MOR: enzyme inactivation (except amikacin). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-075",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The aminoglycoside excepted from enzyme-inactivation resistance is:",
+   "opts": [
+    "Amikacin",
+    "Gentamicin",
+    "Tobramycin",
+    "Netilmicin"
+   ],
+   "ans": 0,
+   "exp": "Enzyme inactivation (except amikacin). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-076",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Altered-ribosome resistance is seen only with:",
+   "opts": [
+    "Streptomycin",
+    "Amikacin",
+    "Neomycin",
+    "Gentamicin"
+   ],
+   "ans": 0,
+   "exp": "Altered ribosome: only in streptomycin. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-077",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The potency relation written between the first two aminoglycosides is:",
+   "opts": [
+    "Gentamicin > streptomycin",
+    "Streptomycin > gentamicin",
+    "Gentamicin = streptomycin",
+    "Tobramycin > gentamicin"
+   ],
+   "ans": 0,
+   "exp": "Drugs: a. gentamicin > streptomycin. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-078",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Gentamicin/streptomycin are DOC for:",
+   "opts": [
+    "Plague and tularemia",
+    "Brucellosis and Q fever",
+    "Tuberculosis and leprosy",
+    "Typhoid and paratyphoid"
+   ],
+   "ans": 0,
+   "exp": "DOC: plague, tularemia. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-079",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Neomycin is used orally for:",
+   "opts": [
+    "Gut sterilization in hepatic encephalopathy",
+    "Whole-body gram -ve sepsis",
+    "UTI monotherapy",
+    "Bacterial meningitis"
+   ],
+   "ans": 0,
+   "exp": "Neomycin use: orally for gut sterilization in hepatic encephalopathy. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-080",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "The current drug of choice for gut sterilization in hepatic encephalopathy is:",
+   "opts": [
+    "Rifaximin",
+    "Neomycin",
+    "Metronidazole",
+    "Vancomycin"
+   ],
+   "ans": 0,
+   "exp": "The Rx arrow under neomycin points to rifaximin (DOC). (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-081",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Tobramycin is given by which route?",
+   "opts": [
+    "Inhalational route",
+    "Intravenous only",
+    "Oral",
+    "Intramuscular"
+   ],
+   "ans": 0,
+   "exp": "Tobramycin: inhalational route. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-082",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "page": 169,
+   "q": "Tobramycin is used for pseudomonas pneumonia in:",
+   "opts": [
+    "Cystic fibrosis",
+    "Bronchiectasis only",
+    "COPD",
+    "Lung abscess"
+   ],
+   "ans": 0,
+   "exp": "Use: pseudomonas pneumonia in cystic fibrosis. (Book p169)"
+  },
+  {
+   "id": "PHARM-C42-083",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Aminoglycoside nephrotoxicity is:",
+   "opts": [
+    "Reversible",
+    "Irreversible",
+    "Only pre-renal",
+    "Absent with all drugs"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxic: reversible. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-084",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Maximum nephrotoxicity among aminoglycosides is with:",
+   "opts": [
+    "Neomycin",
+    "Streptomycin",
+    "Tobramycin",
+    "Netilmicin"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxic max: neomycin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-085",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Minimum nephrotoxicity among aminoglycosides is with:",
+   "opts": [
+    "Streptomycin",
+    "Neomycin",
+    "Amikacin",
+    "Gentamicin"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxic min: streptomycin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-086",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Aminoglycoside neuromuscular toxicity is associated with decreased:",
+   "opts": [
+    "ACh",
+    "Dopamine",
+    "GABA",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "Neuromuscular toxicity (down Ach). (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-087",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "The site of aminoglycoside neuromuscular block is the:",
+   "opts": [
+    "Pre-synaptic voltage gated Ca++ channel",
+    "Post-synaptic ACh receptor",
+    "Motor neuron nucleus",
+    "Muscle membrane Na+ channel"
+   ],
+   "ans": 0,
+   "exp": "Pre-synaptic voltage gated Ca++ channel blockage. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-088",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Maximum neuromuscular toxicity is with:",
+   "opts": [
+    "Neomycin",
+    "Tobramycin",
+    "Streptomycin",
+    "Amikacin"
+   ],
+   "ans": 0,
+   "exp": "Neuromuscular max: neomycin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-089",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Minimum neuromuscular toxicity is with:",
+   "opts": [
+    "Tobramycin",
+    "Neomycin",
+    "Gentamicin",
+    "Streptomycin"
+   ],
+   "ans": 0,
+   "exp": "Neuromuscular min: tobramycin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-090",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "The treatment of aminoglycoside neuromuscular toxicity is:",
+   "opts": [
+    "Ca++ then neostigmine",
+    "Neostigmine before calcium",
+    "Atropine",
+    "Dantrolene only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: Ca++ > neostigmine. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-091",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Aminoglycoside ototoxicity damages which structure?",
+   "opts": [
+    "Outer hair cells (neuronal damage)",
+    "Inner hair cells only",
+    "Tympanic membrane",
+    "Auditory cortex"
+   ],
+   "ans": 0,
+   "exp": "Ototoxicity: outer hair cell damage (neuronal damage). (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-092",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Aminoglycoside hearing loss is irreversible but can be prevented by:",
+   "opts": [
+    "Early Ca++ supplementation",
+    "Early steroid therapy",
+    "Dose escalation",
+    "Alkalinising urine"
+   ],
+   "ans": 0,
+   "exp": "Irreversible hearing loss can be prevented with early Ca++ supplementation. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-093",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Maximum auditory toxicity is with:",
+   "opts": [
+    "Amikacin",
+    "Streptomycin",
+    "Neomycin",
+    "Tobramycin"
+   ],
+   "ans": 0,
+   "exp": "Max auditory toxicity: amikacin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-094",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Maximum vestibular toxicity is with:",
+   "opts": [
+    "Streptomycin",
+    "Amikacin",
+    "Netilmicin",
+    "Gentamicin"
+   ],
+   "ans": 0,
+   "exp": "Max vestibular toxicity: streptomycin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-095",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Vestibular toxicity is also noted with which non-aminoglycoside?",
+   "opts": [
+    "Minocycline",
+    "Doxycycline",
+    "Tigecycline",
+    "Omadacycline"
+   ],
+   "ans": 0,
+   "exp": "The bracket adds \"(Also in minocycline)\". (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-096",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Minimum ototoxicity is with:",
+   "opts": [
+    "Netilmicin",
+    "Amikacin",
+    "Streptomycin",
+    "Kanamycin"
+   ],
+   "ans": 0,
+   "exp": "Min ototoxicity: netilmicin. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-097",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "Aminoglycosides are contraindicated in pregnancy because they:",
+   "opts": [
+    "Can cross the placenta",
+    "Cause uterine contraction",
+    "Are teratogenic by folate block",
+    "Increase maternal BP"
+   ],
+   "ans": 0,
+   "exp": "Contraindication: pregnancy (can cross placenta). (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-098",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "The newer tetracycline used for acne is:",
+   "opts": [
+    "Sarecycline",
+    "Omadacycline",
+    "Eravacycline",
+    "Plazomicin"
+   ],
+   "ans": 0,
+   "exp": "Newer tetracycline: sarecycline - acne. (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-099",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "The newer tetracycline used for pneumonia (CAP) is:",
+   "opts": [
+    "Omadacycline",
+    "Sarecycline",
+    "Tigecycline",
+    "Doxycycline"
+   ],
+   "ans": 0,
+   "exp": "Newer tetracycline: omadacycline - pneumonia (CAP). (Book p170)"
+  },
+  {
+   "id": "PHARM-C42-100",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "page": 170,
+   "q": "The newer aminoglycoside used for UTI is:",
+   "opts": [
+    "Plazomicin",
+    "Sarecycline",
+    "Omadacycline",
+    "Netilmicin"
+   ],
+   "ans": 0,
+   "exp": "Newer aminoglycoside: plazomicin - UTI. (Book p170)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U42-1",
+   "ch": 42,
+   "n": 1,
+   "title": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets",
+   "sec": "Bacterial Protein Synthesis: Ribosomal Sites and Drug Targets · p167",
+   "qs": [
+    "PHARM-C42-001",
+    "PHARM-C42-002",
+    "PHARM-C42-003",
+    "PHARM-C42-004",
+    "PHARM-C42-005",
+    "PHARM-C42-006",
+    "PHARM-C42-007",
+    "PHARM-C42-008",
+    "PHARM-C42-009",
+    "PHARM-C42-010",
+    "PHARM-C42-011",
+    "PHARM-C42-012",
+    "PHARM-C42-013",
+    "PHARM-C42-014",
+    "PHARM-C42-015",
+    "PHARM-C42-016",
+    "PHARM-C42-017",
+    "PHARM-C42-018",
+    "PHARM-C42-019"
+   ],
+   "guide": "The bacterial ribosome diagram shows three m-RNA sites - E (ejection), P (peptidyl, old t-RNA) and A (acceptor, new t-RNA). Step I is peptidyl transferase moving the peptide onto the new A-site t-RNA and is blocked by chloramphenicol and pleuromutilin on the 50S subunit with high toxicity; A-site binding is 30S-specific (tetracyclines block it, aminoglycosides misread m-RNA). Step II translocation is blocked by macrolides, linezolid, streptogramins and lincosamide (clindamycin) on the 50S subunit."
+  },
+  {
+   "id": "PHARM-U42-2",
+   "ch": 42,
+   "n": 2,
+   "title": "MLS-B Resistance and the Macrolide Binding Site",
+   "sec": "MLS-B Resistance and the Macrolide Binding Site · p167",
+   "qs": [
+    "PHARM-C42-020",
+    "PHARM-C42-021",
+    "PHARM-C42-022",
+    "PHARM-C42-023",
+    "PHARM-C42-024"
+   ],
+   "guide": "MLS-B resistance means the bacteria produce a methylase that methylates the MBS (macrolide binding site), giving macrolide resistance. Lincosamide and streptogramin B share that same MBS, so one methylation event produces cross resistance across the whole group."
+  },
+  {
+   "id": "PHARM-U42-3",
+   "ch": 42,
+   "n": 3,
+   "title": "Tetracyclines: MOA, Routes, Spectrum and Resistance",
+   "sec": "Tetracyclines: MOA, Routes, Spectrum and Resistance · p168",
+   "qs": [
+    "PHARM-C42-025",
+    "PHARM-C42-026",
+    "PHARM-C42-027",
+    "PHARM-C42-028",
+    "PHARM-C42-029",
+    "PHARM-C42-030",
+    "PHARM-C42-031",
+    "PHARM-C42-032"
+   ],
+   "guide": "Tetracyclines block the 30S A-site; the IM route is contraindicated because of pain and inflammation, while IV and oral are used with minocycline (100%) better absorbed than doxycycline. The spectrum is wide (gram +ve and gram -ve) except Proteus, Pseudomonas and Providencia, and resistance comes through drug efflux, enzyme inactivation and ribosomal protective protein."
+  },
+  {
+   "id": "PHARM-U42-4",
+   "ch": 42,
+   "n": 4,
+   "title": "Tetracycline Drugs and Their DOC Uses",
+   "sec": "Tetracycline Drugs and Their DOC Uses · p168",
+   "qs": [
+    "PHARM-C42-033",
+    "PHARM-C42-034",
+    "PHARM-C42-035",
+    "PHARM-C42-036",
+    "PHARM-C42-037",
+    "PHARM-C42-038",
+    "PHARM-C42-039",
+    "PHARM-C42-040",
+    "PHARM-C42-041",
+    "PHARM-C42-042",
+    "PHARM-C42-043",
+    "PHARM-C42-044",
+    "PHARM-C42-045",
+    "PHARM-C42-046",
+    "PHARM-C42-047",
+    "PHARM-C42-048",
+    "PHARM-C42-049"
+   ],
+   "guide": "Doxycycline is the workhorse - DOC for mycoplasma (STD), plague prophylaxis, rickettsial disease (scrub typhus), Borrelia, Brucella, chlamydia (STD) and cholera (\"my Pink RBC\"). Minocycline is DOC for leprosy and demeclocycline is used in SIADH. Tigecycline, a glycycycline derived from minocycline, is IV-only, covers MRSA/VRSA and gram -ve aerobes/anaerobes, but raises mortality in severe infections so it stays a last-line drug for intraabdominal infection and CAP, and is contraindicated in UTI and bacteremia."
+  },
+  {
+   "id": "PHARM-U42-5",
+   "ch": 42,
+   "n": 5,
+   "title": "Scrub Typhus Note and the Tetracycline Side-effect Packet",
+   "sec": "Scrub Typhus Note and the Tetracycline Side-effect Packet · p169",
+   "qs": [
+    "PHARM-C42-050",
+    "PHARM-C42-051",
+    "PHARM-C42-052",
+    "PHARM-C42-053",
+    "PHARM-C42-054",
+    "PHARM-C42-055",
+    "PHARM-C42-056",
+    "PHARM-C42-057",
+    "PHARM-C42-058",
+    "PHARM-C42-059",
+    "PHARM-C42-060",
+    "PHARM-C42-061",
+    "PHARM-C42-062"
+   ],
+   "guide": "Scrub typhus presents with fever, rash and an eschar with central necrosis; mild/moderate disease takes oral doxycycline while severe meningitis or pneumonia needs IV doxycycline plus azithromycin. The tetracycline \"tetra packet\" of side effects covers photosensitivity, pseudotumor cerebri, acute renal failure (except doxycycline), calcium binding with inhibited bone growth, kidney V2 receptor blockade (diabetes insipidus, maximal with demeclocycline), esophagitis, Fanconi syndrome from expired drug (citrates) and yellow teeth in kids."
+  },
+  {
+   "id": "PHARM-U42-6",
+   "ch": 42,
+   "n": 6,
+   "title": "Tetracycline Contraindications and Aminoglycoside MOA and Uses",
+   "sec": "Tetracycline Contraindications and Aminoglycoside MOA and Uses · p169",
+   "qs": [
+    "PHARM-C42-063",
+    "PHARM-C42-064",
+    "PHARM-C42-065",
+    "PHARM-C42-066",
+    "PHARM-C42-067",
+    "PHARM-C42-068",
+    "PHARM-C42-069"
+   ],
+   "guide": "Tetracyclines are contraindicated in pregnancy and children because of bone growth abnormality, and should not be taken with milk and antacids. Aminoglycosides cause misreading of mRNA producing abnormal protein - a cidal effect - and are used as monotherapy in gram -ve aerobes (except typhoid), as add-on drugs in Pseudomonas infection, and with ampicillin or vancomycin for gram +ve Staphylococcus and Enterococcus."
+  },
+  {
+   "id": "PHARM-U42-7",
+   "ch": 42,
+   "n": 7,
+   "title": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs",
+   "sec": "Aminoglycoside Spectrum, Routes, Resistance and Individual Drugs · p169",
+   "qs": [
+    "PHARM-C42-070",
+    "PHARM-C42-071",
+    "PHARM-C42-072",
+    "PHARM-C42-073",
+    "PHARM-C42-074",
+    "PHARM-C42-075",
+    "PHARM-C42-076",
+    "PHARM-C42-077",
+    "PHARM-C42-078",
+    "PHARM-C42-079",
+    "PHARM-C42-080",
+    "PHARM-C42-081",
+    "PHARM-C42-082"
+   ],
+   "guide": "Aminoglycosides cover gram -ve aerobes but not anaerobes or gram +ve organisms, and are given IV or IM because oral absorption is poor. Resistance is by enzyme inactivation (except amikacin) and, only for streptomycin, an altered ribosome. Gentamicin outranks streptomycin and both are DOC for plague and tularemia; neomycin is given orally for gut sterilization in hepatic encephalopathy (now rifaximin is DOC) and tobramycin is inhaled for pseudomonas pneumonia in cystic fibrosis."
+  },
+  {
+   "id": "PHARM-U42-8",
+   "ch": 42,
+   "n": 8,
+   "title": "Aminoglycoside Side Effects, Contraindication and Newer Drugs",
+   "sec": "Aminoglycoside Side Effects, Contraindication and Newer Drugs · p170",
+   "qs": [
+    "PHARM-C42-083",
+    "PHARM-C42-084",
+    "PHARM-C42-085",
+    "PHARM-C42-086",
+    "PHARM-C42-087",
+    "PHARM-C42-088",
+    "PHARM-C42-089",
+    "PHARM-C42-090",
+    "PHARM-C42-091",
+    "PHARM-C42-092",
+    "PHARM-C42-093",
+    "PHARM-C42-094",
+    "PHARM-C42-095",
+    "PHARM-C42-096",
+    "PHARM-C42-097",
+    "PHARM-C42-098",
+    "PHARM-C42-099",
+    "PHARM-C42-100"
+   ],
+   "guide": "Aminoglycoside nephrotoxicity is reversible - maximal with neomycin and minimal with streptomycin. Neuromuscular toxicity (decreased ACh) comes from pre-synaptic voltage-gated Ca++ channel blockage, is maximal with neomycin and minimal with tobramycin, and is treated with calcium then neostigmine. Ototoxicity damages outer hair cells causing irreversible hearing loss that early Ca++ supplementation can prevent - auditory maximal with amikacin, vestibular maximal with streptomycin (also minocycline) and overall minimal with netilmicin; pregnancy is contraindicated because the drugs cross the placenta."
+  }
+ ]
+}
