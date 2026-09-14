@@ -1,0 +1,24 @@
+# book p149 dpi=300 boxes=30
+  109  1379 | NeurodegenerativeDisorders  |  149
+  305   170 | management:
+  317  1976 | .--Active space -.
+  390   243 | DOC:  |  Noresponse  |  Altematives
+  397  1051 | Noresponse  |  Rescuetherapy：
+  484   179 | entacapone  |  -Dagonist
+  494  1382 | Apomorphine
+  565   769 | mAO-Binhibitor
+  648   169 | PROTOCOLFORTREATMENT
+  743   840 | Patient presentswithP.Dsymptoms
+  846  1225 | effectofsymptoms
+  916  1312 | on daily life
+ 1067  1701 | Signifcant
+ 1084   517 | minimal
+ 1169   591 | A
+ 1203   387 | No drug prescribed
+ 1249  1454 | Llosy  |  26Sy
+ 1323  1403 | Dagonist  |  Levodopa
+ 1333   278 | onpatientrequest
+ 1400   308 | ·DOC:mAO-Binhibitor(Selegiline)
+ 1409  1372 | (Pramipexole)
+ 1483   313 | Alternative:Amantadine
+ 3185   819 | Pharmacology·v3.0·Marrow 8.0·2024

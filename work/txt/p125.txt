@@ -1,0 +1,36 @@
+# book p125 dpi=300 boxes=39
+  134  1608 | Opioids:Part1  |  125
+  332  1967 | ..-Active space ...
+  337   155 | Pure centrally acting antagonists:
+  413   191 | ·Cancrossbloodbrainbarrier
+  485   197 | Drugsused inopioid toxicity
+  688   870 | Nalmifene  |  Naltrexone
+  710   255 | Naloxone
+  763   847 | ·Long acting.  |  ·Longest acting.
+  777   167 | Shortest acting.
+  839  1412 | Route:Oral.
+  856   184 | Route:
+  920  1416 | use:
+  922   243 | -v.
+  957  1410 | DOCin-  |  Alcohol dependence.
+  999   243 | -Intranasal Inacute
+ 1059  1629 | Opioiddependence
+ 1074   288 | toxicity).
+ 1128  1636 | (To prevent relapse).
+ 1153   209 | DOC in opioid toxicity.
+ 1204  1386 | Sideeffects:
+ 1217   170 | Otheruses(offlabeD:
+ 1280  1412 | -Hepatotoxicity.
+ 1294   267 | valproate-inducedcNS
+ 1353  1461 | Dysphoria.
+ 1370   294 | depression.
+ 1413  1461 | Depression Antagonism atμ
+ 1445   255 | Clonidine toxicity.
+ 1489  1463 | receptor):use isc/1.
+ 1512   169 | Sideeffects:D/t
+ 1598   220 | ↑catecholamines
+ 1635  1423 | AST/ALT3xnormalvalues.
+ 1657   265 | Hypertension.
+ 1711  1414 | -Frankliverfailure.
+ 1736   280 | Arrhythmias.
+ 1814   257 | Pumonary edema

@@ -1,0 +1,8 @@
+# book p152 dpi=300 boxes=12
+  180   294 | 152  |  Central andPeripheral NervousSystem
+  355   269 | ---Activespace--  |  Second Line:
+  540   954 | Cytisine:  |  TricyclicAntidepressants:  |  Clonidine
+  611   766 | Plantderivative  |  Nortriptyline
+  681   773 | moA:SameasVarenicline
+  754   817 | -withdrawal symptoms areminimal withdrugs.
+ 3164  1085 | Phamacologyv3.0

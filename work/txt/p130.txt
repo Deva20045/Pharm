@@ -1,0 +1,17 @@
+# book p130 dpi=300 boxes=26
+   67   204 | 130  |  Central andPeripheral NervousSystem
+  252   232 | Active space--  |  Developmentoftolerancetoeffects:
+  316   586 | No/minimal:miosis.  |  ·moderate:other  |  ·Fastesttolerance
+  397  1157 | opioid effect.  |  (tachyphylaxis) : Euphoria.
+  469   544 | withdrawal symptoms:
+  538   581 | effect opposite to μ receptor agonism (eg:mydriasis).
+  613   579 | Severityαdoseαpotency.
+  729   540 | De-addiction:
+  803   565 | 1.Reducewithdrawal symptoms:
+  892   232 | Start  |  Buprenorphine  |  mild symptoms oncessation  |  followed
+  964   383 | -methadone  |  by  |  Symptomatictreatment
+ 1029  1611 | (βblocker,clonidineete)
+ 1109   565 | a.Preventrelapse:
+ 1188   686 | Opioidreceptorblocker:Oral naltrexone.
+ 1261   688 | euphoria onintake—↓Desireforconsumption.
+ 3229   977 | Pharmacology·v3.0·Marrow8.0·2024

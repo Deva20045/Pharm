@@ -1,0 +1,45 @@
+# book p124 dpi=300 boxes=53
+  162   218 | 124
+  180   591 | Central andPeripheral NervousSystem
+  351   206 | .--Active space-..  |  EXOGENOUSOPIOIDS
+  462   598 | Basedon source:
+  639   177 | Natural(opiates)
+  671  1317 | Semi-synthetic  |  Synthetic
+  727  2020 | I.Fentanyl.
+  745   135 | (udhddodumafuuos
+  794  2027 | a.Pethidine.
+  842   866 | Derivedfrommorphine:  |  Derivedfromcodeine:  |  3.Loperamide.
+  900  1465 | Hydrocodone:Analgesic  |  4.methadone,
+  964   868 | 1Diacetylmorphine (Heroin):
+ 1026   907 | Potency:4oxmorphine
+ 1084   908 | Drugofabuse
+ 1132   871 | a.Apomorphine （Dagonist)
+ 1192   914 | use:Parkinson's disease.
+ 1241   181 | Chemicals with opioid action:
+ 1250   866 | 3.Hydromorphone:Analgesic.
+ 1302   213 | amorphine.
+ 1305   868 | 4.ethylmorphine
+ 1347   863 | 5.Pholcodine(Non-opioid)  |  Anti-tussive.
+ 1356   211 | b.Codeine.
+ 1415   144 | aChemicalswrthout opioidaction:
+ 1457  1497 | Derivedfrom thebaine:
+ 1469   262 | a.Noscapine(use:Anti-tussive
+ 1519  1497 | 1.Buprenorphine.
+ 1524   306 | for Spasmodic cough.
+ 1568  1500 | a.Oxycodone.  |  -Analgesic
+ 1584   265 | b.Papaverine:
+ 1634  1500 | 3.Oxymorphone.
+ 1641   255 | Inhibrtsphosphodiesterase
+ 1752   380 | ↑cycliccAmp
+ 1867   223 | Relaxationofsmoothmuscles
+ 1925   140 | use:Smoothmusclerelaxantfor
+ 1985   297 | LBiliary colic
+ 2042   295 | iLurethralcolic,etc
+ 2114   258 | cThebaune.
+ 2248   581 | Based on opioidreceptorinteraction:
+ 2425  1416 | Agonist
+ 2469   605 | Fullagonist
+ 2483  1204 | mixed  |  Pureantagonist
+ 2540  1380 | Antagonist
+ 2706  1650 | Central  |  Peripheral
+ 3144  1072 | Pharmacology·v3.0·Marow8.0·2024

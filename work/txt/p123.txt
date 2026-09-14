@@ -1,0 +1,46 @@
+# book p123 dpi=300 boxes=53
+  150  2175 | 123
+  348   732 | OPIOIDS:PART1  |  -Active space
+  662  1687 | 00:00:30
+  667   160 | Opioidreceptors
+  874   919 | K (kappa)  |  8(delta)
+  876   202 | mun
+  948   908 | Effects:  |  effects:
+  955   155 | effects:
+ 1022  1016 | -Constipation.  |  -Analgesia.
+ 1031   155 | mnemonicmuScARINE
+ 1084  1019 | -Analgesia.  |  -modulatereleaseof:
+ 1109   255 | -miosis,
+ 1160  1021 | -Anti-pruritis.  |  i.Neurotransmitters.
+ 1176   255 | -urineretention.
+ 1241  1018 | -Psychomimetic  |  ii.Hormones.
+ 1256   257 | -Sedation.
+ 1319  1076 | (Dysphoria).
+ 1324   258 | -Constipation.
+ 1400   264 | -Analgesia.
+ 1471   269 | -Respiratory  |  depression.
+ 1544   260 | -Increasedmuscle
+ 1612   317 | rigidity(eg:wooden
+ 1688   315 | chest syndrome in
+ 1759   938 | Note:
+ 1763   313 | FentanyD.
+ 1812  1023 | Opioidsnot c/l inbiliary colic (Analgesic effect>
+ 1828   258 | -Nobileow(D/+
+ 1899  1026 | Contraction).
+ 1906   315 | contractionof
+ 1959  1019 | Defelikefalin:Kagonistusedforpruritis inCKDpatients
+ 1975   317 | Sphincterofoddi.
+ 2049  1026 | on dialysis.
+ 2058   260 | -
+ 2128   260 | -Circularsmooth
+ 2201   315 | muscles:Contract.
+ 2271   264 | -Longitudinal smooth
+ 2351   317 | muscles:Relax
+ 2483  1710 | 00:11:11
+ 2505   165 | Drugs
+ 2625   174 | ENDOGENOUSOPIOIDS
+ 2697   172 | Synthesised withinbody:
+ 2766   202 | Enkephalin-8
+ 2842   214 | Endorphin-μ
+ 2914   213 | y-uudouha.
+ 3137   801 | Pharrmacology·v3.0·Marrow8.0·2024

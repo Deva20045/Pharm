@@ -1,0 +1,47 @@
+# book p135 dpi=300 boxes=73
+   86  1468 | AffectDisorders:Part2  |  135
+  263   162 | classiAcation:
+  286  1976 | -.-Active space--
+  330  1095 | Typical Antidepressants
+  489  1130 | TCA  |  SNRI  |  SSRI
+  496   528 | mAO-1
+  613   993 | ·Clomipramine  |  Duloxetine  |  ·Sertraline
+  683   234 | Non-Selective  |  Selective
+  687  1030 | Imipramine  |  Desvelnafaxine  |  ·Paroxetine
+  756   993 | Desipramine  |  venlafaxine  |  ·escitalopram
+  814   188 | Tranylcypromine  |  moclebemide
+  837   988 | Amitriptyline  |  milnacipran  |  Citalopram
+  890   165 | ·Isocarboxazide  |  eprobemide
+  913   991 | ·Nortriptyline  |  Levomilnacipran  |  Fluvoxamine
+  966   158 | Phenelzine
+  980   995 | ·Doxepin  |  Fluoxetine
+ 1072   996 | ·Amoxapine
+ 1144   995 | ·Loxapine
+ 1250   466 | AtypicalAntidepressants
+ 1250  1608 | miscellaneous
+ 1416   241 | SHTa Blockers  |  Bupropion
+ 1416  1446 | GABA  |  Novel
+ 1485  1380 | modulators  |  Antidepressant
+ 1547   183 | Trazodone  |  old drugs
+ 1611  1324 | Brexanolone  |  vilazodone
+ 1627   183 | Nefazodone
+ 1687  1317 | Zuranolone  |  vortioxetine
+ 1703   177 | mianserin
+ 1740   184 | mirtazapine  |  Newdrugs
+ 1756  1831 | esketamine
+ 1835  1838 | Gepirone
+ 1989  1741 | 00:15:00
+ 2001   158 | Typical Antidepressants
+ 2132   156 | MAOINHIBITORS
+ 2201   149 | Types:
+ 2300  1247 | Selective
+ 2308   662 | Non-Selective
+ 2376  1215 | BlockmAO-A
+ 2381   248 | moA  |  BlockmAO-A/B
+ 2455  1241 | Reversible
+ 2469   174 | Reversibility  |  Irreversible
+ 2540   607 | (Hitandrun drugs)
+ 2687   153 | Note:
+ 2754   158 | Hit andRun drugs:  |  Inspite oabsent drug in plasma,Duration of action d/t binding.
+ 2891   234 | Eg：Proton pump inhibitors,Clopidogrel.
+ 3165   808 | Pharmacology·v3.0·Marrow8.0·2024

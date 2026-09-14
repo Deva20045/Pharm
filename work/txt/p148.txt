@@ -1,0 +1,30 @@
+# book p148 dpi=300 boxes=36
+  204   216 | 148  |  Central andPeripheral NervousSystem
+  386   253 | Active space--  |  mAO-Binhibitors:
+  462   563 | Irreversible:  |  Reversible:Safnamide.
+  535   612 | aRasagiline.  |  use:on-offphenomena
+  604   614 | b.Selegiline:Can prevent
+  681   653 | neurodegeneration.
+  757   736 | metabolized
+  823   665 | Amphetamine-Anxiety, insomnia
+  890   634 | useon-offphenomena
+  984   778 | →Initial treatment/youngonsetofP.D.
+ 1120   572 | ComTinhibitors:
+ 1194   568 | Reversible.
+ 1264   570 | DoC:on-offphenomena
+ 1404   579 | ·entacapone
+ 1457   625 | Opicapone  |  Tolcapone:↑Potency
+ 1544  1847 | (Hepatotoxic)
+ 1595   579 | Amantadine:
+ 1651   581 | mOA  |  Anticholinergic
+ 1747   757 | →NmDA-blocker
+ 1830   755 | Augments dopamine.
+ 1899   586 | use  |  Docforlevodopa-induceddyskinesia
+ 1982   713 | Initial treatmentforPD
+ 2082   586 | Sideeffect:
+ 2155   621 | -Ankleedema.
+ 2220   618 | -Livedoreticularis(Purplepigmentation)
+ 2339   588 | Note:
+ 2395   618 | -Warfarin(only foot involved):Purple toe syndrome.
+ 2482   627 | -Amlodipine:Ankleedema.
+ 2655   588 | Seen with Levodopa

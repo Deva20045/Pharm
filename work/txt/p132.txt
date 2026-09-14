@@ -1,0 +1,32 @@
+# book p132 dpi=300 boxes=50
+   60   236 | 132  |  Central andPeripheral Nervous System
+  240   225 | --Active space  |  Sideeffects:  |  Hypothyroidism:D/tBlockofTSHreceptors(SimilartoGq).
+  376   607 | Obesity.  |  Norma-FineTremors.
+  452   602 | Tremors:Plasmaconcentration
+  492  1336 | ToxicityCoarse Tremors.
+  579   635 | Hypercalcemia:D/t↑pTH.
+  630   586 | ·Ebstein's Anomaly (Hypoplastic right ventricle/Atrialization of ventricle): c/l in
+  731   630 | Ti of pregnancy.
+  802   588 | Acne.
+  881   586 | Diabetes Insipidus:
+  950   745 | D/t Block ofvasopressin-a(va)Receptor.
+ 1035   720 | DocforRx:Amiloride>Thiazide.
+ 1143   528 | Note:Rxofmania inpregnancyTl:Atypical Antipsychotics(Aripiprazole).
+ 1257   524 | Toxicity:
+ 1339    93 | sasiest  |  Nointervention  |  Coarsetremors/cerebellarSymptoms  |  Nointervention  |  Arrhythmia/Seizure
+ 1423   142 | Nausea andvomiting  |  Ataxia  |  Nointervention
+ 1503   128 | Profusediarrhea  |  Dysarthria  |  Coma,death
+ 1681   510 | TherapeuticDrug monitoring:
+ 1757   507 | Doned/tlowTherapeuticIndex
+ 1883   501 | BloodSample:
+ 1946   528 | s days after starting Lithium(T12:a4hours)—Achieve steady state plasma
+ 2042   574 | concentration.
+ 2114   531 | ahoursafterlastdose.
+ 2241   486 | PlasmaConcentration:
+ 2346   380 | meq/L  |  Norma Range  |  Toxicity
+ 2450   528 | OloProphylactic  |  1.0  |  AcuteRx  |  1.5  |  4.0 Dialysis for Rx
+ 2526   614 | Range
+ 2678   463 | Drug Interactions:
+ 2759   489 | Deficiency ofNa—CompensatoryTubularreabsorption ofLithium  |  .StructuralsimilarityofNa*withLi：
+ 2913   528 | Lithium toxicity.
+ 3195   952 | Pharmacology·v3.0·Marrow8.0·2024

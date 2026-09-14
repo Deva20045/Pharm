@@ -1,0 +1,51 @@
+# book p150 dpi=300 boxes=69
+  215   195 | 150  |  Central andPeripheral NervousSystem
+  395   757 | ALCOHOLANDSMOKINGDEPENDENCE
+  406   172 | -Active space
+  711  2103 | 00:00:25
+  722   574 | AlcoholMetabolism
+  853  1796 | Ethylene Glycol(Antifreeze)
+  862   160 | Alcohol  |  methanol
+  925   248 | Alcohol dehydrogenase(ADH)  |  ADH
+  925  1419 | Toxicity  |  ADH
+  989   139 | Acetaldehyde  |  Formaldehyde
+  989  1912 | Glycoaldehyde
+ 1052   244 | Aldehyde dehydrogenase  |  FDH
+ 1056  1372 | Treatment:  |  GDH
+ 1112   866 | Formicacid(Toxic)
+ 1121  1266 | ·Alcohol (ethanoD  |  multipleacids
+ 1194  1269 | Fomepizole(Doc)
+ 1224   140 | AceticAcid(Non-toxic)  |  Death
+ 1250  1534 | Competitive  |  Death
+ 1324  1523 | inhibitorsfor
+ 1385  1597 | ADH
+ 1397   144 | Excreted in urine
+ 1476  2106 | 00:03:31
+ 1496   581 | Drug Classification
+ 1611   581 | FDA Approved:
+ 1756  1403 | b.Naltrexone  |  c.Acamprosate
+ 1835  1252 | moA:  |  moA:
+ 1862   144 | moA:
+ 1895  1296 | Centralopiojdantaqonist  |  InhibitsGlutamate
+ 1932   140 | BlocksAldehydeDH
+ 1964  2002 | effect.
+ 1992   144 | Acetaldehyde  |  Palpitation
+ 2033  1292 | Rewardpathway ofAlcohol  |  ·Route:OralTDS
+ 2072   651 | Tremor  |  Aversion to
+ 2112  1254 | Route:  |  dose.
+ 2142   958 | Alcohol
+ 2183  1299 | OralOD dose.(Doc):
+ 2204   651 | Chestpain
+ 2257  1335 | Abstinencenotrequired
+ 2293   165 | uses:Inmotivatedpatientonlyminimum  |  Dose:morning
+ 2328  1329 | Vm:monthly dose
+ 2400  1333 | Implantsavailable
+ 2407   199 | abstinenceofahoursisrequired
+ 2480  1343 | E:
+ 2505   167 | s/E:  |  -ChongesRem/NRem status
+ 2538  1331 | Dysphoria:worsens
+ 2607   211 | Hepototoxic:monitorLFt/month
+ 2614  1336 | depression
+ 2674  1331 | Hepatotoxic:C/IifLFT
+ 2755  1335 | 3timesofnormal
+ 3095  1109 | Pharmacology·v3.0·MarrowB.0·2024

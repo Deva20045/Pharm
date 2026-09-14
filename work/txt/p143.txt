@@ -1,0 +1,56 @@
+# book p143 dpi=300 boxes=78
+   97  1546 | AntipsychoticDrugs  |  143
+  284   172 | Risperidone/lleoperidone:maximum Dablockage.
+  284  1336 | quetiapine:  |  ----Active space-
+  363  1373 | ·Sideeffects:Cataract.
+  404   172 | Pimavanserin:
+  469   241 | Approved inaoIs.
+  542   202 | ·SHTblocker only (No Da blockage).
+  620   200 | used in:DocPor levodopa induced psychosis.
+  717   200 | Aripiprazole  |  SHTblocker+
+  793   199 | Brexpipra2ole  |  partial agonist at
+  802  1173 | Don'tblockotherreceptors(m,H)
+  870   200 | Cariprazine
+  876   965 | SHT  |  -Can be used inBPH,glaucoma
+  911  1051 | IA
+  941   199 | Ziprasidone  |  SHTblocker
+  948  1215 | -weightneutral.
+ 1014   195 | Lurasidone  |  SHTagonist
+ 1146  1743 | 00:31:44
+ 1155   165 | SideEffects
+ 1293  1423 | Atypical antipsychotics
+ 1347   465 | Side effects
+ 1369  1150 | mostsevere  |  Least severe  |  Absent
+ 1466   177 | D/tDblockage：
+ 1487  1157 | Risperidone  |  Clozapine  |  Pimavanserin
+ 1544   174 | EPS,Hyperprolactinemia
+ 1598  1951 | Aripiprazole
+ 1660   179 | D/totherreceptorblock:
+ 1676  1933 | Brexpiprazole
+ 1724  1160 | Clozapine>  |  Risperidone  |  Cariprozine
+ 1733   179 | Obesity,urineretention,Sedation,
+ 1798   176 | Dyslipidemia,Hyperglycemia(o/tinsulin
+ 1803  1166 | olanzapine  |  Ziprasidone
+ 1890   172 | resistance)
+ 1906  1958 | Lurasidone
+ 2049   160 | Extra pyramidal side-effects:
+ 2162  1143 | Presentation  |  Treatment
+ 2171   214 | Side effect  |  Etiology
+ 2234   998 | Restlessness.  |  Propranolal (Doc)
+ 2317   996 | Pacing around  |  funresponsive
+ 2330   176 | AKathisia (m/c)
+ 2395  1019 | Shifting/crossing oflegs.  |  Benzodiazepine
+ 2483   991 | Abnormal
+ 2556  1016 | posturing.
+ 2575   188 | Acute dystonia  |  Dareceptorblock
+ 2623  1645 | Anticholinerqics(Doc):
+ 2648   234 | (so)
+ 2710  1646 | Benzhexal(Trihexyphenidyl
+ 2717   206 | Tincidence in  |  musclecontraction
+ 2777  1643 | preferred
+ 2796   186 | young patients
+ 2860   982 | Facialgrimacing  |  HIblocker:Prometha2ine.
+ 2946   975 | Tremors,
+ 2987   207 | Parkinsonism  |  Da.receptorblock
+ 3024  1007 | Bradykinesia
+ 3187   808 | Pharmacologyv3.0-Marrow8.0·2024

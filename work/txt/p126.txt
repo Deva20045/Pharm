@@ -1,0 +1,34 @@
+# book p126 dpi=300 boxes=46
+  192   202 | 126  |  Central andPeripheral NervousSystem
+  367   241 | Active space--  |  mixedagonist/antagonists:
+  482   285 | Drug  |  Receptorinteraction
+  517  1875 | Details
+  560  1065 | K  |  8
+  639   230 | Nalorphine
+  639  1599 | sarlieruse:Opoidtoxicity
+  706  1632 | ·↓sideeffectsd/t antagonism
+  719   248 | Dezocine  |  Antagonist  |  Full agonist
+  791  1676 | atμ
+  853  1634 | ·use:Analgesic (Poor)
+  902   228 | Pentazocin  |  Partia agonist  |  Full agonist
+  923  1638 | Penta2ocin↑He(c/1:ml
+  975   218 | Butorphenol
+  982  1671 | patient)
+ 1090  1639 | use:Irritablebowelsyndrome
+ 1132   234 | eluxadoline  |  Full agonist  |  Full agonist  |  Antagonist
+ 1162  1747 | (IBs)withdiarrhoea
+ 1275  1611 | use:
+ 1335  1597 | Opioid toxicity :Fast binding
+ 1399  1594 | slow dissociation d/t↑affinity
+ 1473  1594 | toμ→No/mildwithdrawal
+ 1551  1594 | symptoms
+ 1612  1588 | mild tomoderatepain:D/t ceiling
+ 1673   195 | Buprenorphine  |  Partial agonist  |  Antagonist
+ 1694  1592 | effect
+ 1761  1599 | ·C/:
+ 1835  1594 | Labour pain:may cause
+ 1902  1590 | naloxone-resistantrespiratory
+ 1976  1595 | depressioninfetus
+ 2172   568 | Note:
+ 2310   577 | inPitavastatin).
+ 3119  1081 | Pharmacology·v3.0-Marrow8.0·2024

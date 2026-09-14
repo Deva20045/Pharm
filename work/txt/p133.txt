@@ -1,0 +1,39 @@
+# book p133 dpi=300 boxes=41
+  107  1426 | AffectDisorders:Part1
+  270  1944 | *--Active space-..
+  298   183 | Factors causing Na*defciency:
+  365   230 | aDiuretics:↑Risk oftoxicity of Li
+  385  1583 | Note:
+  439  1588 | clearance ofLi:
+  443   297 | -Thiazides>K+sparing diuretics>Loopdiureties
+  505  1058 | (↑Liexcretion
+  522  1588 | mannitol,Carbonic
+  570   387 | Loss)  |  d/t↑diuresis)
+  593  1592 | anhydraseinhibitors.
+  662   232 | b.Nausea andvomiting/Diarrhoea:
+  722  1247 | measureSerumLithium
+  738   310 | OnpresentingwithfeaturesofLitoxicity
+  826   354 | Hrst.
+  886   350 | D/d:Dyselectrolemiameasure S.Electrolytes.
+  980   246 | c.Fasting:
+ 1029   301 | -Lithium toxicity d/t↓Naintake.
+ 1112   315 | AvoidedifonRxwithLithium.
+ 1139  1780 | Liexcretion
+ 1178   193 | a.AceInhibitorsARB:Filtrationfraction.
+ 1240   195 | 3.NSAlDs:Blockprostaglandin synthesisConstrictAfferentarteriole.
+ 1264  1808 | Toxicity
+ 1347   195 | 4.NDmR(NonDepolarizing muscleRelaxants):effect augmentedby Li
+ 1446   243 | StopLia4-48hourspriortoSx
+ 1544  1504 | Note:
+ 1568   160 | OTHERDRUGS
+ 1607  1623 | RxofchoiceinAcutemania
+ 1627   197 | valproate(DocinRapidcyclers)  |  RxofAcutemania
+ 1678  1690 | Atypical Antipsychotic
+ 1706   204 | Oxcarbazepine/Carbazepine
+ 1791   209 | Lamotriqine.
+ 1828  1564 | Lithium(Startedprophylactically)
+ 1867   221 | Atypical Antipsychotics (Aripiprazole): Acute mania  |  Topiramate.
+ 1976  1581 | Benzodiazepines(Addondrugs)
+ 2005   237 | (Docd/tfastestaction).
+ 2084   232 | Gabapentin.
+ 3146   813 | Pharmacology·v3.0·Marrow8.0·2024

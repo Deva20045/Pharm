@@ -1,0 +1,50 @@
+# book p128 dpi=300 boxes=52
+  162   195 | 128  |  Central andPeripheral NervousSystem
+  342   176 | ..Active space ...  |  metabolism:
+  408  1232 | meperidine
+  505  1365 | metabolisedinto  |  1%
+  521   773 | 90%
+  635   581 | meperidinicacid
+  651  1694 | Nor-meperidine
+  699   581 | (Excreted by Kidney)
+  719  1692 | (mAOinhibitorneurotoxic)
+  920  1694 | Nor-meperidinicacid
+  991  1696 | (ExcretedbyKidney)
+ 1005   547 | :asn
+ 1074   591 | Severepain:Cheaperalternative(Eg:Labourpain)
+ 1165  1079 | Post-operative chills
+ 1173   609 | Docfor chills:g
+ 1261  1085 | Postdrug chills(o/tmonoclonal Ab,AmphotericinB)
+ 1379   727 | moA:a.receptoragonism
+ 1489   561 | Sideeffects:
+ 1505  1366 | c/1:
+ 1556   597 | Neurotoxicity.
+ 1586  1402 | 1.Renalfailure:Accumulationofnor-
+ 1635   598 | Serotonin syndrome,
+ 1664  1453 | meperidine.
+ 1715   644 | Hypotension (Cautious use in
+ 1736  1407 | a.mAO inhibitorsuse:Blocksformation
+ 1794   653 | hypovolemiamD.
+ 1807  1454 | ofmeperidinicnor-meperidinicacid
+ 1879  1456 | →neurotoxicityriskofserotonin
+ 1957   572 | methadone:
+ 1960  1454 | syndrome.
+ 2029   574 | Durationforonsetofanalgesia：
+ 2052  1365 | use:
+ 2105   616 | IVroute:iomin.
+ 2119  1407 | Analgesic.
+ 2180   616 | Ora route:1hr.
+ 2194  1412 | Opioid dependence:Drug sequestered in
+ 2284   581 | Side effects:
+ 2291  2020 | tissues
+ 2358   621 | QT prolongation.
+ 2427   620 | Anti-cholinergic effects.
+ 2437  1874 | Sustainedeffects
+ 2561   593 | Loperamide,Diphenoxylate,Difenoxin:
+ 2572  1668 | minimal withdrawal symptoms
+ 2634   588 | use:In non-secretory diarrhoea
+ 2704   639 | IrrtableBowel Syndrome(Doc:Loperamide)
+ 2773   637 | irnotecan nduced diarrhoea
+ 2869   593 | Note:
+ 2930   632 | Loperamide does notcross blood-brainbarrier:No dependence.
+ 3181  1085 | Pharmacology.v3.0.Ma

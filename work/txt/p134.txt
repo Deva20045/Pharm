@@ -1,0 +1,48 @@
+# book p134 dpi=300 boxes=55
+  157   162 | 134  |  Central andPeripheral NervousSystem
+  355   153 | --Active space-
+  360   933 | AFFECTDISORDERS:PART2
+  595   538 | Management ofDepression
+  621  2110 | 00:00:15
+  717   537 | monoamine Hypothesis:
+  876  1201 | SSRI
+  939  1203 | SNRI  |  Typical
+  994  1495 | Antidepressants
+ 1063  1206 | TCA
+ 1109   369 | Synapse inBrain  |  Reuptake
+ 1114  1486 | a-bweeksneeded
+ 1169   401 | indepression
+ 1169  1153 | mAO-1  |  ToRxdepression
+ 1270   625 | NE  |  HS
+ 1280   945 | mAOA/emetabolised
+ 1420  1240 | SHT:Serotonin(mostimportantNeurotransmitter).
+ 1499  1241 | NE:Norepinephrine
+ 1535   688 | BDNF
+ 1572  1241 | mAo:monoAmineOxidase
+ 1720  1118 | TricyclicAntidepressants(TcA):
+ 1724   549 | mAoInhibitors(mAO-D:
+ 1791  1151 | Non-selective(inhibit reuptake ofSHTandNe).
+ 1798   630 | Highdrug interaction.
+ 1863   621 | Fatalsideeffects.
+ 1863  1176 | NonpecicityorreceptorsBlocksH,muscarinicSH
+ 1936  1203 | receptorsandNa*channels).
+ 2006  1180 | Toxicity:Cardiac arrhythmias.
+ 2084   546 | Serotonin Norepinephrine Reuptake Inhibitors(SNRD:
+ 2158  1733 | Istline
+ 2160   549 | Retainseffectbutnos/easseen inTCA
+ 2233   546 | SelectiveSerotoninReuptake Inhibitors(SsRD:
+ 2238  1775 | Rx
+ 2310   549 | Docfor Depression
+ 2393  1083 | Typical Antidepressants  |  Atypical Antidepressants
+ 2475  1652 | BlockSHTa receptors
+ 2542  1308 | LHS  |  (mirtazapine)
+ 2552   734 | moA
+ 2616  1673 | Dopamine(Buprapion)
+ 2688  1056 | Presento/tstimwlationof
+ 2731   570 | ErectileDysfunction
+ 2732  1129 | SHTa inspinal cord  |  Absent
+ 2870   542 | Note:
+ 2922   547 | SelectiveNorepinephrineReuptake Inhibitors:ToRxADHD
+ 3010   595 | Atomoxetine,
+ 3088   597 | vloxozine.
+ 3144  1065 | Pharmacology·v3.0·Marrow B.0·2024
