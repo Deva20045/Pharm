@@ -1,0 +1,2181 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C8-001",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Physical antagonism produces its effect by:",
+   "opts": [
+    "Physical binding to the substance",
+    "Binding and neutralising the substance",
+    "Acting on a receptor opposite to the agonist",
+    "Inhibiting the metabolising enzyme"
+   ],
+   "ans": 0,
+   "exp": "The page defines physical antagonism as an effect produced by physical binding to the substance, without any chemical reaction or receptor involvement. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-002",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Charcoal given in alcohol toxicity is an example of:",
+   "opts": [
+    "Physical antagonism",
+    "Chemical antagonism",
+    "Physiological antagonism",
+    "Non-competitive antagonism"
+   ],
+   "ans": 0,
+   "exp": "The book's example under physical antagonism is charcoal in alcohol toxicity, where charcoal simply binds (adsorbs) alcohol. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-003",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "How does charcoal act in alcohol toxicity?",
+   "opts": [
+    "It adsorbs alcohol from the intestine",
+    "It neutralises alcohol chemically in the stomach",
+    "It blocks alcohol receptors in the brain",
+    "It increases alcohol metabolism in the liver"
+   ],
+   "ans": 0,
+   "exp": "The bracket after the example reads 'charcoal adsorbs alcohol from intestine' - a purely physical, adsorptive binding. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-004",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Chemical antagonism means the antagonist:",
+   "opts": [
+    "Binds and neutralises the substance",
+    "Binds the substance physically without reaction",
+    "Acts through a receptor of opposite type",
+    "Displaces the agonist from its receptor"
+   ],
+   "ans": 0,
+   "exp": "The heading 'Chemical Antagonism' is explained as 'Effect by binding & neutralizing the substance'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-005",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Heparin is neutralised by:",
+   "opts": [
+    "Protamine sulphate",
+    "Charcoal",
+    "Salbutamol",
+    "Calcium gluconate"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows heparin (acid, -ve) being neutralised by protamine sulphate (base, +ve) - the classic chemical antagonism. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-006",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "In the heparin-protamine pair, heparin is ____ and protamine sulphate is ____:",
+   "opts": [
+    "Acid (-ve); base (+ve)",
+    "Base (+ve); acid (-ve)",
+    "Acid (+ve); base (-ve)",
+    "Neutral; charged"
+   ],
+   "ans": 0,
+   "exp": "The page marks heparin as 'Acid : -ve' and protamine sulphate as 'Base : +ve', which is why the two combine chemically. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-007",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Which cells are noted to contain heparin?",
+   "opts": [
+    "Mast cells",
+    "Hepatocytes",
+    "Platelets only",
+    "Plasma cells"
+   ],
+   "ans": 0,
+   "exp": "The note under chemical antagonism states 'mast cells contain heparin'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-008",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Which of the following is the example of a chelating agent for iron?",
+   "opts": [
+    "Deferiprone",
+    "Protamine sulphate",
+    "Charcoal",
+    "Ipratropium"
+   ],
+   "ans": 0,
+   "exp": "Under 'Chelating agents' the book lists Fe : Dexrazoxane, Deferiprone - both are iron chelators. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-009",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Copper is removed using:",
+   "opts": [
+    "Copper chelating agents",
+    "Protamine sulphate",
+    "Charcoal adsorption",
+    "β2 agonists"
+   ],
+   "ans": 0,
+   "exp": "The chelating agent list on the page gives 'Copper : Copper chelating agents'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-010",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Physiological antagonism is defined as:",
+   "opts": [
+    "Opposite effect produced by acting on different receptors",
+    "Binding of the drug to a physiological salt",
+    "Neutralisation of the drug by a chemical",
+    "Irreversible binding to the same receptor"
+   ],
+   "ans": 0,
+   "exp": "The page defines physiological antagonism as 'Opposite effect by acting on the different receptors'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-011",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Histamine acting on H1 receptors causes:",
+   "opts": [
+    "Bronchoconstriction",
+    "Bronchodilation",
+    "Vasodilation of bronchial vessels",
+    "Uterine relaxation"
+   ],
+   "ans": 0,
+   "exp": "In the physiological antagonism example, 'Histamine -(+)→ H1 causes → Bronchoconstriction'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-012",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Which pair is used as the example of physiological antagonism of histamine?",
+   "opts": [
+    "Adrenaline and salbutamol acting on β2",
+    "Heparin and protamine sulphate",
+    "Charcoal and alcohol",
+    "M1 and M2 receptors"
+   ],
+   "ans": 0,
+   "exp": "Both adrenaline and salbutamol are shown acting on β2 receptors to cause bronchodilation, opposing the H1-mediated bronchoconstriction. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-013",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "In the page's flow, histamine causes bronchoconstriction while adrenaline and salbutamol cause:",
+   "opts": [
+    "Bronchodilation via β2",
+    "Bronchoconstriction via β2",
+    "Bronchodilation via H1",
+    "Mucus secretion via M3"
+   ],
+   "ans": 0,
+   "exp": "The two arms of the example meet at the airway: H1 → bronchoconstriction, β2 → bronchodilation. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-014",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Which drug does the page call the best bronchodilator in asthma?",
+   "opts": [
+    "Salbutamol",
+    "Ipratropium",
+    "Tiotropium",
+    "Theophylline"
+   ],
+   "ans": 0,
+   "exp": "An arrow from the salbutamol/adrenaline line carries the note 'Best bronchodilator in Asthma'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-015",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Why is salbutamol NOT the best bronchodilator in COPD?",
+   "opts": [
+    "Because of cholinergic effects",
+    "Because it is a β2 blocker",
+    "Because it has no bronchodilator action in COPD",
+    "Because it causes bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The note says 'Salbutamol not the best bronchodilator in COPD due to cholinergic effects'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-016",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Instead of salbutamol, which drug class is preferred for bronchodilation in COPD?",
+   "opts": [
+    "Parasympathetic blockers such as ipratropium/tiotropium",
+    "β2 agonists such as ritodrine",
+    "Phosphodiesterase 3 inhibitors such as milrinone",
+    "Iron chelators"
+   ],
+   "ans": 0,
+   "exp": "The note advises 'use Ipratropium/Tiotropium instead (Parasympathetic blocker)'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-017",
+   "sec": "Types of Antagonism",
+   "page": 20,
+   "q": "Which of the following is a physical antagonist?",
+   "opts": [
+    "Charcoal",
+    "Protamine sulphate",
+    "Ipratropium",
+    "Fasudil"
+   ],
+   "ans": 0,
+   "exp": "Only charcoal acts by physical binding/adsorption; protamine is a chemical antagonist and ipratropium/fasudil act through receptors/enzymes. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-018",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "In the antagonism table, row (a) depicts:",
+   "opts": [
+    "Normal effect with drug (A)",
+    "Addition of antagonist drug (B)",
+    "Effect on (A) of increasing drug (A)",
+    "Effect of enzyme inhibition"
+   ],
+   "ans": 0,
+   "exp": "Row 'a' of the two-column table is headed 'Normal effect with drug (A)', showing the baseline response. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-019",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "On the receptor drawing, drug (A) normally binds to the:",
+   "opts": [
+    "Enzymatic part",
+    "Allosteric part",
+    "Lipid bilayer",
+    "G-protein subunit"
+   ],
+   "ans": 0,
+   "exp": "In row (a) the labelled arrow from (A) points to the 'Enzymatic part' of the receptor, while the lower site is marked 'Allosteric part'. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-020",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "In competitive reversible antagonism, the antagonist (B) binds at the:",
+   "opts": [
+    "Same site as the agonist (A)",
+    "Allosteric site only",
+    "Second messenger",
+    "GTP binding site"
+   ],
+   "ans": 0,
+   "exp": "Row (b) shows (A) and (B) competing for the same binding site of the receptor. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-021",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "In non-competitive (and competitive irreversible) antagonism, the antagonist (B) binds at the:",
+   "opts": [
+    "Allosteric part",
+    "Enzymatic part",
+    "Same site as (A)",
+    "Receptor's lipid tail"
+   ],
+   "ans": 0,
+   "exp": "Row (b) of the non-competitive column shows (A) at the enzymatic part and (B) binding the allosteric part. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-022",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "Row (c) of the table studies:",
+   "opts": [
+    "Effect on (A) of increasing the dose of drug (A)",
+    "Effect of adding a second antagonist",
+    "Effect of removing drug (A)",
+    "Effect of adding an enzyme inducer"
+   ],
+   "ans": 0,
+   "exp": "Row 'c' is headed 'Effect on A of ↑ drug (A)' - i.e. what happens when the agonist concentration is raised. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-023",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "On increasing drug (A) in reversible competitive antagonism, the response:",
+   "opts": [
+    "Returns, because the antagonism is surmountable",
+    "Remains fully blocked",
+    "Is permanently abolished",
+    "Becomes toxic"
+   ],
+   "ans": 0,
+   "exp": "Row (c) of the reversible column shows more (A) molecules out-competing (B), so the effect can be restored by raising the agonist dose. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-024",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 20,
+   "q": "On increasing drug (A) in competitive irreversible/non-competitive antagonism, the result written is:",
+   "opts": [
+    "'B - No change'",
+    "'Full reversal of blockade'",
+    "'Increased efficacy'",
+    "'Decreased Km'"
+   ],
+   "ans": 0,
+   "exp": "The bottom cell of the non-competitive column carries the note '(B) No change' - raising (A) cannot overcome the block. (Book p20)"
+  },
+  {
+   "id": "PHARM-C8-025",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In the continued table, the 'net effect of drug (A)' in reversible competitive antagonism shows:",
+   "opts": [
+    "An upward arrow (effect restored)",
+    "No change",
+    "A downward arrow",
+    "A biphasic response"
+   ],
+   "ans": 0,
+   "exp": "The 'Net effect of drug (A)' row has an up arrow under reversible competitive antagonism and 'No change' under the other column. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-026",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In the continued table, the 'net effect of drug (A)' with irreversible/non-competitive antagonism shows:",
+   "opts": [
+    "No change",
+    "Increase",
+    "Decrease to zero only",
+    "Reversal of antagonism"
+   ],
+   "ans": 0,
+   "exp": "The row 'Net effect of drug (A)' reads 'No change' in the irreversible/non-competitive column. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-027",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "The dose-response curves drawn for reversible competitive antagonism shift:",
+   "opts": [
+    "To the right, with the maximum preserved",
+    "To the left, with a higher maximum",
+    "Downwards only",
+    "Do not shift at all"
+   ],
+   "ans": 0,
+   "exp": "Curves a, b and c are shown moving progressively right with the same height, i.e. a parallel rightward shift of the DRC. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-028",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "The dose-response curves for competitive irreversible/non-competitive antagonism are labelled:",
+   "opts": [
+    "'No reversal of antagonism'",
+    "'Reversible shift'",
+    "'Increase in efficacy'",
+    "'Km unchanged'"
+   ],
+   "ans": 0,
+   "exp": "The right-hand panel writes 'No reversal of antagonism' next to the family of curves a, b, c. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-029",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In reversible competitive antagonism, Vmax (α efficacy) shows:",
+   "opts": [
+    "No change",
+    "A fall",
+    "A rise",
+    "A fall then rise"
+   ],
+   "ans": 0,
+   "exp": "The Vmax row is 'No change' for competitive reversible antagonism - efficacy is preserved. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-030",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In competitive irreversible/non-competitive antagonism, Vmax (α efficacy):",
+   "opts": [
+    "Falls",
+    "Rises",
+    "Is unchanged",
+    "Doubles"
+   ],
+   "ans": 0,
+   "exp": "The Vmax row carries a downward arrow in the irreversible/non-competitive column, i.e. efficacy is reduced. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-031",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In reversible competitive antagonism, Km (α 1/Potency):",
+   "opts": [
+    "Increases",
+    "Decreases",
+    "Is unchanged",
+    "Becomes zero"
+   ],
+   "ans": 0,
+   "exp": "The Km row has an upward arrow for reversible competitive antagonism, while it stays 'No change' for the other column. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-032",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "In competitive irreversible/non-competitive antagonism, Km (α 1/Potency):",
+   "opts": [
+    "Shows no change",
+    "Increases",
+    "Decreases",
+    "Becomes infinite"
+   ],
+   "ans": 0,
+   "exp": "The Km row is 'No change' in the irreversible/non-competitive column; only Vmax falls. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-033",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "Potency in reversible competitive antagonism:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Is unchanged",
+    "Becomes zero"
+   ],
+   "ans": 0,
+   "exp": "The final row of the table shows a downward arrow for potency in reversible competitive antagonism (Km ↑ so potency ↓). (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-034",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "Potency in competitive irreversible/non-competitive antagonism:",
+   "opts": [
+    "Shows no change",
+    "Falls",
+    "Rises",
+    "Rises then falls"
+   ],
+   "ans": 0,
+   "exp": "The potency row reads 'No change' for the irreversible/non-competitive column. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-035",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "Which single statement correctly contrasts the two antagonism columns?",
+   "opts": [
+    "Reversible competitive lowers potency; irreversible/non-competitive lowers efficacy",
+    "Reversible competitive lowers efficacy; irreversible/non-competitive lowers potency",
+    "Both lower efficacy only",
+    "Both lower potency only"
+   ],
+   "ans": 0,
+   "exp": "Reading the whole table: reversible competitive antagonist → Km ↑, potency ↓, Vmax unchanged; irreversible/non-competitive → Vmax ↓ (efficacy ↓), Km and potency unchanged. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-036",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "A competitive antagonist shifts the dose-response curve to the right. This means the agonist:",
+   "opts": [
+    "Needs a higher dose for the same effect",
+    "Can never produce its maximal effect",
+    "Becomes more potent",
+    "Has increased efficacy"
+   ],
+   "ans": 0,
+   "exp": "A parallel rightward shift means lower potency (higher dose required) while the maximum (efficacy) is still achievable. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-037",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "page": 21,
+   "q": "Which type of antagonism can be surmounted by increasing the agonist dose?",
+   "opts": [
+    "Competitive reversible",
+    "Competitive irreversible",
+    "Non-competitive",
+    "Neither can be surmounted"
+   ],
+   "ans": 0,
+   "exp": "Only in the reversible competitive column does raising drug (A) restore the response; irreversible and non-competitive blockade stays. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-038",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "The note relates the Michaelis-Menten equation to:",
+   "opts": [
+    "Vmax = maximum effect = efficacy",
+    "Vmax = potency",
+    "Km = efficacy",
+    "Km = clearance"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'Michaelis-Menten equation → Vmax α maximum effect → Efficacy'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-039",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "Vmax is defined as the:",
+   "opts": [
+    "Maximum velocity of reaction between enzyme and drug (substrate)",
+    "Concentration of drug giving half of maximum velocity",
+    "Dose of drug producing 50% mortality",
+    "Rate of drug elimination"
+   ],
+   "ans": 0,
+   "exp": "The bullet defines Vmax as 'maximum velocity of reaction between enzyme & drug (substrate)'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-040",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "Km is defined as the:",
+   "opts": [
+    "Concentration of drug at which the speed of reaction is half of its Vmax",
+    "Maximum velocity of the enzyme reaction",
+    "Dose producing the maximum effect",
+    "Concentration of antagonist needed to double the dose ratio"
+   ],
+   "ans": 0,
+   "exp": "The bullet defines Km as 'conc of drug at which speed of reaction (v) is half of its Vmax'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-041",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "In the table, Km is written as being proportional to:",
+   "opts": [
+    "1/Potency",
+    "Efficacy",
+    "Vmax",
+    "Affinity constant"
+   ],
+   "ans": 0,
+   "exp": "The row label reads 'Km (α 1/Potency)', linking a higher Km to lower potency. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-042",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "The relationship Vmax α maximum effect implies that Vmax reflects the drug's:",
+   "opts": [
+    "Efficacy",
+    "Potency",
+    "Bioavailability",
+    "Half-life"
+   ],
+   "ans": 0,
+   "exp": "Since maximum effect is efficacy (from the earlier chapter), Vmax is used here as the efficacy marker. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-043",
+   "sec": "Michaelis-Menten Note: Vmax and Km",
+   "page": 21,
+   "q": "If a drug's Km rises while Vmax stays the same, the drug's potency:",
+   "opts": [
+    "Falls",
+    "Rises",
+    "Is unchanged",
+    "Becomes zero"
+   ],
+   "ans": 0,
+   "exp": "Km is inversely proportional to potency, so a rise in Km with unchanged Vmax means reduced potency - the signature of competitive antagonism in the table. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-044",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "Which receptors are described as the fastest acting receptors?",
+   "opts": [
+    "Ligand gated ion channel receptors",
+    "G protein coupled receptors",
+    "Nuclear receptors",
+    "Enzymatic receptors"
+   ],
+   "ans": 0,
+   "exp": "The first point under LGIC receptors states 'Fastest acting receptors'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-045",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "The substrate for the GABA-A receptor in the table is:",
+   "opts": [
+    "Chloride ion channel",
+    "Sodium channel",
+    "Potassium channel",
+    "Calcium channel"
+   ],
+   "ans": 0,
+   "exp": "The examples table lists GABA-A with substrate 'Chloride ion channel'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-046",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "Which of these are listed as glutamate receptor subtypes?",
+   "opts": [
+    "NMDA, AMPA and kainate",
+    "M1, M2 and M3",
+    "α1, α2 and β",
+    "H1, H2 and H3"
+   ],
+   "ans": 0,
+   "exp": "Under the Glu receptor the table lists NMDA, AMPA and kainate. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-047",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "Nicotinic receptor and 5-HT3 receptor, in the substrate column, are shown as:",
+   "opts": [
+    "Dash (-), i.e. no separate substrate named",
+    "Chloride ion channel",
+    "NMDA",
+    "Guanylate cyclase"
+   ],
+   "ans": 0,
+   "exp": "For both 'Nicotinic receptor' and '5-HT3' the substrate column simply carries a dash. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-048",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "GABA-B receptor is a:",
+   "opts": [
+    "GPCR receptor",
+    "Ligand gated ion channel",
+    "Nuclear receptor",
+    "Tyrosine kinase receptor"
+   ],
+   "ans": 0,
+   "exp": "The note beside the table clarifies 'GABA-B : GPCR receptor', in contrast to the ionotropic GABA-A. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-049",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "Which of the following is NOT a ligand gated ion channel receptor?",
+   "opts": [
+    "GABA-B",
+    "GABA-A",
+    "5-HT3",
+    "Nicotinic receptor"
+   ],
+   "ans": 0,
+   "exp": "GABA-B is a GPCR; GABA-A, 5-HT3 and the nicotinic receptor are all ligand gated ion channels. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-050",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors",
+   "page": 21,
+   "q": "The fastest acting receptors are also, by structure, ion channels opened by:",
+   "opts": [
+    "Ligand binding",
+    "Gene transcription",
+    "Tyrosine phosphorylation",
+    "cGMP production"
+   ],
+   "ans": 0,
+   "exp": "Being ligand gated, the channel opens directly on ligand binding - the reason they act fastest. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-051",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "In the nicotinic receptor diagram, the ion that passes through the lumen is:",
+   "opts": [
+    "Na+",
+    "Cl-",
+    "Ca2+",
+    "K+"
+   ],
+   "ans": 0,
+   "exp": "Both the resting and the open receptor are drawn with Na+ moving through the lumen of the channel. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-052",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "Acetylcholine opens the nicotinic receptor channel by acting on the:",
+   "opts": [
+    "α subunit",
+    "β subunit",
+    "δ subunit",
+    "ε subunit"
+   ],
+   "ans": 0,
+   "exp": "The diagram is labelled 'Ach on α subunit → opening', with ACh molecules bound at the α subunits. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-053",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "The five subunits drawn in the nicotinic receptor are:",
+   "opts": [
+    "α, α, β, δ and ε",
+    "α, β, γ and δ only",
+    "α, α, β and γ",
+    "β, β, δ and ε"
+   ],
+   "ans": 0,
+   "exp": "The labelled receptor ring in the figure carries α, α, β, δ and ε subunits around the central pore. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-054",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "Stimulation of the nicotinic receptor on muscle produces:",
+   "opts": [
+    "Contraction",
+    "Depolarisation only",
+    "Relaxation",
+    "Secretion"
+   ],
+   "ans": 0,
+   "exp": "The site note reads 'On muscle → Contraction'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-055",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "Stimulation of the nicotinic receptor on a ganglion produces:",
+   "opts": [
+    "Depolarisation",
+    "Contraction",
+    "Relaxation",
+    "Hyperpolarisation"
+   ],
+   "ans": 0,
+   "exp": "The site note reads 'On ganglion → Depolarisation'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-056",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "Within a receptor, which subunit is marked most important?",
+   "opts": [
+    "α subunit",
+    "β subunit",
+    "δ subunit",
+    "ε subunit"
+   ],
+   "ans": 0,
+   "exp": "The note at the foot of the figure states 'in a receptor, α subunit → most important'. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-057",
+   "sec": "Nicotinic Receptor Structure",
+   "page": 21,
+   "q": "The direction of Na+ movement through the open nicotinic channel is:",
+   "opts": [
+    "Into the cell (inward)",
+    "Out of the cell (outward)",
+    "Bidirectionally equal",
+    "Along the membrane surface"
+   ],
+   "ans": 0,
+   "exp": "Arrows show Na+ entering through the lumen on the extracellular side and continuing into the cell. (Book p21)"
+  },
+  {
+   "id": "PHARM-C8-058",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "In an enzymatic receptor, the ligand binds to the:",
+   "opts": [
+    "Enzymatic (intracellular) part of the receptor",
+    "Nuclear DNA directly",
+    "G-protein α subunit",
+    "Chloride channel pore"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows a ligand binding the receptor on the cell surface, whose intracellular domain is the 'enzymatic' part. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-059",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "The classic example of an enzymatic receptor given in the page is:",
+   "opts": [
+    "Tyrosine kinase",
+    "Guanylate cyclase only",
+    "Janus kinase only",
+    "Phospholipase C"
+   ],
+   "ans": 0,
+   "exp": "The flow reads 'Eg : Tyrosine Kinase → Phosphorylation → Tyrosine → Cell Proliferation'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-060",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Tyrosine kinase receptor activation ultimately leads to:",
+   "opts": [
+    "Cell proliferation",
+    "Vasodilation",
+    "Vasoconstriction",
+    "Glycogenolysis"
+   ],
+   "ans": 0,
+   "exp": "The end of the cascade in the page is 'Cell Proliferation'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-061",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Which of the following is listed as a tyrosine kinase receptor?",
+   "opts": [
+    "EGFR",
+    "Leptin receptor",
+    "TGFR",
+    "ANP receptor"
+   ],
+   "ans": 0,
+   "exp": "The tyrosine kinase receptor column gives EGFR, VEGF-R, Her-2/neu R and insulin/IGF R. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-062",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "VEGF-R and Her-2/neu R belong to which receptor type?",
+   "opts": [
+    "Tyrosine kinase receptors",
+    "JAK receptors",
+    "STKR",
+    "Guanylate cyclase receptors"
+   ],
+   "ans": 0,
+   "exp": "Both are listed in the tyrosine kinase receptor examples column. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-063",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Insulin/IGF receptor is an example of a:",
+   "opts": [
+    "Tyrosine kinase receptor",
+    "JAK receptor",
+    "Nuclear receptor",
+    "Ion channel receptor"
+   ],
+   "ans": 0,
+   "exp": "Insulin/IGF R appears in the tyrosine kinase receptor list. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-064",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Leptin (cytokine), prolactin and growth hormone act through:",
+   "opts": [
+    "Janus kinase (JAK) receptors",
+    "Tyrosine kinase receptors",
+    "STKR",
+    "Guanylate cyclase receptors"
+   ],
+   "ans": 0,
+   "exp": "The JAK receptor column lists leptin (cytokine), prolactin and growth hormone. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-065",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "TGFR is an example of:",
+   "opts": [
+    "STKR (serine-threonine kinase receptor)",
+    "Tyrosine kinase receptor",
+    "JAK receptor",
+    "Guanylate cyclase receptor"
+   ],
+   "ans": 0,
+   "exp": "The STKR column contains TGFR. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-066",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "ANP and BNP act on which receptor?",
+   "opts": [
+    "Guanylate cyclase receptor",
+    "Tyrosine kinase receptor",
+    "JAK receptor",
+    "STKR"
+   ],
+   "ans": 0,
+   "exp": "The last column, 'Guanylate cyclase receptor', lists ANP and BNP. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-067",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Activation of the guanylate cyclase receptor by ANP/BNP causes:",
+   "opts": [
+    "↑ cGMP → vasodilation",
+    "↓ cGMP → vasoconstriction",
+    "↑ cAMP → bronchodilation",
+    "↑ IP3 → smooth muscle contraction"
+   ],
+   "ans": 0,
+   "exp": "The cell in the table reads 'ANP, BNP → ↑ cGMP → vasodilation'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-068",
+   "sec": "Enzymatic Receptor",
+   "page": 22,
+   "q": "Which second messenger is increased by the guanylate cyclase receptor?",
+   "opts": [
+    "cGMP",
+    "cAMP",
+    "IP3",
+    "DAG"
+   ],
+   "ans": 0,
+   "exp": "Guanylate cyclase generates cGMP, which the page links to vasodilation. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-069",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Which receptors are described as the slowest acting receptors?",
+   "opts": [
+    "Nuclear receptors",
+    "Ligand gated ion channels",
+    "GPCRs",
+    "Enzymatic receptors"
+   ],
+   "ans": 0,
+   "exp": "The nuclear receptor (NRT) heading carries the note 'Slowest acting receptors'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-070",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Nuclear receptors are so called because they act:",
+   "opts": [
+    "On gene transcription in the nucleus",
+    "On ion channels in the membrane",
+    "On G proteins in the cytoplasm",
+    "On enzymes in the cytosol only"
+   ],
+   "ans": 0,
+   "exp": "Being the slowest acting, their site of action is the nucleus where they alter gene transcription. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-071",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Which receptors are listed under the 'Nucleus' site column?",
+   "opts": [
+    "Estrogen, progesterone, vitamin A, T3/T4 and PPAR",
+    "Androgen, mineralocorticoid, glucocorticoid and vitamin D",
+    "EGFR, VEGF-R and Her-2/neu",
+    "M2, α2, H3 and 5HT1"
+   ],
+   "ans": 0,
+   "exp": "The nuclear-site column lists estrogen receptor, progesterone receptor, vitamin A receptor, T3/T4 receptor and PPAR (α, δ, γ). (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-072",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "PPAR receptors are listed in the page as PPAR:",
+   "opts": [
+    "α, δ and γ",
+    "α, β and γ only",
+    "1, 2 and 3",
+    "A and B"
+   ],
+   "ans": 0,
+   "exp": "The nuclear-site column writes 'PPAR (α, δ, γ)'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-073",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Which receptors sit in the cytoplasm and translocate to the nucleus upon binding ligand?",
+   "opts": [
+    "Androgen, mineralocorticoid, glucocorticoid and vitamin D receptors",
+    "Estrogen, progesterone and vitamin A receptors",
+    "T3/T4 and PPAR receptors",
+    "GABA-A and nicotinic receptors"
+   ],
+   "ans": 0,
+   "exp": "The third column is headed 'Cytoplasm (Translocation to nucleus upon binding to ligand)' and lists androgen, mineralocorticoid, glucocorticoid and vitamin D receptors. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-074",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "The glucocorticoid receptor in this scheme is located in the:",
+   "opts": [
+    "Cytoplasm",
+    "Nucleus",
+    "Cell membrane",
+    "Mitochondria"
+   ],
+   "ans": 0,
+   "exp": "Glucocorticoid receptors are grouped in the cytoplasm column, moving to the nucleus after ligand binding. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-075",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Vitamin D receptor belongs to which location group?",
+   "opts": [
+    "Cytoplasm (translocates to nucleus)",
+    "Nucleus only",
+    "Cell membrane",
+    "Endoplasmic reticulum"
+   ],
+   "ans": 0,
+   "exp": "Vitamin D receptor appears in the cytoplasm/translocation column of the NRT table. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-076",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Which of the following pairs is correctly matched?",
+   "opts": [
+    "Vitamin A receptor - nucleus; vitamin D receptor - cytoplasm",
+    "Vitamin A receptor - cytoplasm; vitamin D receptor - nucleus",
+    "Both are nuclear only",
+    "Both are cytoplasmic only"
+   ],
+   "ans": 0,
+   "exp": "The table puts the vitamin A receptor in the nucleus column and the vitamin D receptor in the cytoplasm (translocation) column. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-077",
+   "sec": "Nuclear Receptor (NRT)",
+   "page": 22,
+   "q": "Which statement best explains why nuclear receptor effects are slow?",
+   "opts": [
+    "They require gene transcription and protein synthesis",
+    "They open ion channels slowly",
+    "They need GTP hydrolysis",
+    "They act through second messengers only"
+   ],
+   "ans": 0,
+   "exp": "Acting on the nucleus and altering transcription, nuclear receptors take the longest to produce their effects. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-078",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "Which receptor family is described as the most common target for drugs?",
+   "opts": [
+    "G protein coupled receptors",
+    "Nuclear receptors",
+    "Ligand gated ion channels",
+    "Tyrosine kinase receptors"
+   ],
+   "ans": 0,
+   "exp": "Right under the GPCR heading the page notes 'most common target for drugs'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-079",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "GPCRs are alternately named:",
+   "opts": [
+    "Serpentine / 7 transmembrane / heptahelical receptor",
+    "3 transmembrane / coiled receptor",
+    "Single transmembrane kinase receptor",
+    "Pentameric ion channel"
+   ],
+   "ans": 0,
+   "exp": "The page gives three synonyms: Serpentine receptor, 7 transmembrane receptor and heptahelical receptor. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-080",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "The GPCR consists of how many transmembrane helices?",
+   "opts": [
+    "Seven",
+    "Three",
+    "Five",
+    "Twelve"
+   ],
+   "ans": 0,
+   "exp": "Being a heptahelical/7 transmembrane receptor, the drawing shows seven membrane-spanning segments. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-081",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "In the GPCR, which subunit is described as most important?",
+   "opts": [
+    "α subunit",
+    "β subunit",
+    "γ subunit",
+    "δ subunit"
+   ],
+   "ans": 0,
+   "exp": "The page states 'α subunit : most important' beside the GPCR diagram. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-082",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "Which subunit of the G protein possesses intrinsic GTPase activity?",
+   "opts": [
+    "α subunit",
+    "β subunit",
+    "γ subunit",
+    "All three equally"
+   ],
+   "ans": 0,
+   "exp": "The label at the bottom of the GPCR figure reads 'Intrinsic GTPase activity of (α)'. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-083",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "Activation of the G protein involves exchange of:",
+   "opts": [
+    "GDP for GTP on the α subunit",
+    "GTP for GDP on the α subunit",
+    "ATP for ADP on the β subunit",
+    "cAMP for cGMP"
+   ],
+   "ans": 0,
+   "exp": "The figure shows the inactive state with GDP and, on activation, GTP bound to the α subunit. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-084",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "Termination of the G protein signal occurs by:",
+   "opts": [
+    "Hydrolysis of GTP by the intrinsic GTPase of α",
+    "Dephosphorylation of the receptor by a kinase",
+    "Reuptake into the nucleus",
+    "Degradation of cAMP by adenylate cyclase"
+   ],
+   "ans": 0,
+   "exp": "The curved arrow labelled 'Intrinsic GTPase activity of (α)' shows GTP hydrolysis turning the G protein off. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-085",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "GPCRs are classified based on:",
+   "opts": [
+    "Their α subunits (subtypes)",
+    "The number of transmembrane domains",
+    "The type of ion conducted",
+    "The nuclear site of action"
+   ],
+   "ans": 0,
+   "exp": "The note states 'GPCRs are classified based on subtypes' and the accompanying table maps α subtypes to GPCR types. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-086",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "The α subtype 's' corresponds to which GPCR type?",
+   "opts": [
+    "Gs",
+    "Gq",
+    "Gi",
+    "G12/13"
+   ],
+   "ans": 0,
+   "exp": "The table pairs the α subtypes column (s, q, i) with GPCR types Gs, Gq and Gi respectively. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-087",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "The α subtype 'q' corresponds to which GPCR type?",
+   "opts": [
+    "Gq",
+    "Gs",
+    "Gi",
+    "Go"
+   ],
+   "ans": 0,
+   "exp": "The α subtype table maps q → Gq. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-088",
+   "sec": "G Protein Coupled Receptor (GPCR)",
+   "page": 22,
+   "q": "The α subtype 'i' corresponds to which GPCR type?",
+   "opts": [
+    "Gi",
+    "Gs",
+    "Gq",
+    "G12/13"
+   ],
+   "ans": 0,
+   "exp": "The α subtype table maps i → Gi. (Book p22)"
+  },
+  {
+   "id": "PHARM-C8-089",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Stimulation of Gs leads to activation of:",
+   "opts": [
+    "Adenylate cyclase",
+    "Phospholipase C",
+    "Rho-kinase",
+    "Guanylate cyclase"
+   ],
+   "ans": 0,
+   "exp": "The Gs cascade runs Gs → αs-GTP → (+) Adenylate cyclase. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-090",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "In the Gs pathway, the immediate effect of adenylate cyclase is:",
+   "opts": [
+    "↑ Cyclic AMP",
+    "↓ Cyclic AMP",
+    "↑ IP3",
+    "↓ Ca2+"
+   ],
+   "ans": 0,
+   "exp": "The next step of the cascade is written as '↑ Cyclic AMP'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-091",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Cyclic AMP produced by the Gs pathway is metabolised by:",
+   "opts": [
+    "Phosphodiesterase",
+    "Adenylate cyclase",
+    "Phospholipase C",
+    "Protein kinase A"
+   ],
+   "ans": 0,
+   "exp": "An arrow from 'Cyclic AMP' is labelled 'metabolised by' pointing to phosphodiesterase. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-092",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "In cardiac and skeletal muscle, the cAMP rise causes:",
+   "opts": [
+    "Contraction due to calcium channel phosphorylation",
+    "Relaxation due to myosin light chain kinase activation",
+    "Vasodilation only",
+    "Glycogen synthesis only"
+   ],
+   "ans": 0,
+   "exp": "The bracket from cardiac and skeletal muscle into cAMP reads 'Contraction (d/t calcium channel phosphorylation)'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-093",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "In smooth muscle, the effect of the Gs-cAMP pathway is:",
+   "opts": [
+    "Relaxation",
+    "Contraction",
+    "No effect",
+    "Spasm"
+   ],
+   "ans": 0,
+   "exp": "Smooth muscle is labelled 'Relaxation (d/t myosin light chain phosphorylase activation and myosin light chain kinase inhibition)'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-094",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "The smooth muscle relaxation produced by cAMP is attributed to:",
+   "opts": [
+    "Myosin light chain phosphorylase activation and myosin light chain kinase inhibition",
+    "Calcium channel phosphorylation",
+    "Rho-kinase activation",
+    "Phospholipase C activation"
+   ],
+   "ans": 0,
+   "exp": "The page gives exactly this mechanism - MLC phosphorylase activation plus MLC kinase inhibition. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-095",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Which of these are effects of Gs-mediated smooth muscle relaxation listed on the page?",
+   "opts": [
+    "Bronchodilation, vasodilation and uterine relaxing",
+    "Bronchoconstriction and vasoconstriction",
+    "Trabecular meshwork contraction",
+    "Increased heart rate and tremors"
+   ],
+   "ans": 0,
+   "exp": "The bullet list under smooth muscle reads bronchodilation, vasodilation and uterine relaxing. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-096",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Ritodrine is described as a:",
+   "opts": [
+    "Tocolytic used in labor",
+    "Drug used in CHF",
+    "Bronchodilator used in asthma",
+    "Phosphodiesterase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The pill icon for ritodrine is labelled 'Tocolytic used in labor'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-097",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Ritodrine produces its tocolytic effect by acting through:",
+   "opts": [
+    "Gs (β receptors) on uterine smooth muscle",
+    "Gi receptors in the heart",
+    "Gq receptors on the uterus",
+    "Phosphodiesterase 3 inhibition"
+   ],
+   "ans": 0,
+   "exp": "Ritodrine is shown on the Gs cascade, whose uterine effect is 'uterine relaxing'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-098",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Dobutamine is used in:",
+   "opts": [
+    "CHF",
+    "Asthma",
+    "Labor tocolysis",
+    "Open-angle glaucoma"
+   ],
+   "ans": 0,
+   "exp": "The label beside dobutamine reads 'used in CHF'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-099",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Salbutamol is used in asthma and is shown on the:",
+   "opts": [
+    "Gs cascade (β2 → cAMP)",
+    "Gq cascade",
+    "Gi cascade",
+    "G12/13 cascade"
+   ],
+   "ans": 0,
+   "exp": "Salbutamol appears among the drugs of the Gs subtype, producing bronchodilation through cAMP. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-100",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "The side effects of salbutamol noted on the page are:",
+   "opts": [
+    "Palpitations and tremors",
+    "Bradycardia and sedation",
+    "Hypotension and diarrhoea",
+    "Hyperkalaemia and rash"
+   ],
+   "ans": 0,
+   "exp": "Under salbutamol the page writes 'S/E : Palpitations & tremors'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-101",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Theophylline is used in asthma and acts by inhibiting:",
+   "opts": [
+    "Phosphodiesterase",
+    "Adenylate cyclase",
+    "Phospholipase C",
+    "Rho-kinase"
+   ],
+   "ans": 0,
+   "exp": "Theophylline is shown with a block (✳) on phosphodiesterase, i.e. PDE inhibition. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-102",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Theophylline is indicated in asthma when:",
+   "opts": [
+    "β-blockers have been used previously",
+    "β2 agonists have failed only",
+    "The patient has COPD",
+    "The patient is in labor"
+   ],
+   "ans": 0,
+   "exp": "The bracket after theophylline reads '(if β-blocker are used previously)'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-103",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Milrinone is used in:",
+   "opts": [
+    "Acute CHF (if β-blockers were used previously)",
+    "Chronic stable angina",
+    "Asthma in children",
+    "Graft versus host disease"
+   ],
+   "ans": 0,
+   "exp": "The milrinone pill is labelled 'Acute CHF (if β-blocker are used previously)'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-104",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Milrinone acts by inhibiting:",
+   "opts": [
+    "Phosphodiesterase 3",
+    "Phosphodiesterase 3 and 4",
+    "Adenylate cyclase",
+    "Phospholipase A2"
+   ],
+   "ans": 0,
+   "exp": "The block for milrinone sits on the 'Phosphodiesterase 3 → in Heart' line, whereas theophylline blocks PDE 3, 4. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-105",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Phosphodiesterase 3 and 4 are located in the ____, while phosphodiesterase 3 is located in the ____:",
+   "opts": [
+    "Bronchi; heart",
+    "Heart; bronchi",
+    "Liver; kidney",
+    "Brain; lung"
+   ],
+   "ans": 0,
+   "exp": "The page links 'Phosphodiesterase 3, 4 → in Bronchi' and 'Phosphodiesterase 3 → in Heart'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-106",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Which drug is paired with the correct phosphodiesterase?",
+   "opts": [
+    "Theophylline - PDE 3, 4 in bronchi",
+    "Milrinone - PDE 3, 4 in bronchi",
+    "Theophylline - PDE 3 in heart only",
+    "Milrinone - PDE 4 in heart"
+   ],
+   "ans": 0,
+   "exp": "Theophylline blocks PDE 3, 4 (bronchi) and milrinone blocks PDE 3 (heart). (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-107",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "The receptor subtypes feeding into Gs in the diagram are:",
+   "opts": [
+    "β1 and β2",
+    "α1, M1 and M2",
+    "M2, α2, H3 and 5HT1",
+    "G12/13 only"
+   ],
+   "ans": 0,
+   "exp": "The small circles feeding the Gs cascade are labelled β1 and β2. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-108",
+   "sec": "Gs Subtype",
+   "page": 23,
+   "q": "Both theophylline and milrinone are used when β-blockers have been given previously because they:",
+   "opts": [
+    "Act distal to the β receptor by raising cAMP",
+    "Stimulate β receptors directly",
+    "Block β receptors themselves",
+    "Increase β receptor number"
+   ],
+   "ans": 0,
+   "exp": "By inhibiting phosphodiesterase they raise cAMP downstream of the blocked β receptor, which is why the page specifies this setting. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-109",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Stimulation of Gq activates:",
+   "opts": [
+    "Phospholipase C",
+    "Adenylate cyclase",
+    "Rho-kinase",
+    "Phosphodiesterase"
+   ],
+   "ans": 0,
+   "exp": "The Gq cascade reads Gq → αq-GTP → (+) Phospholipase C. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-110",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Activation of phospholipase C raises:",
+   "opts": [
+    "PIP2 breakdown products (IP3 and DAG)",
+    "Cyclic AMP",
+    "Cyclic GMP",
+    "Intracellular K+"
+   ],
+   "ans": 0,
+   "exp": "An up arrow leads from phospholipase C to PIP2, which then splits into IP3 and DAG. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-111",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "IP3 is described in the page as a:",
+   "opts": [
+    "Secondary messenger",
+    "Primary messenger",
+    "Hormone",
+    "Enzyme"
+   ],
+   "ans": 0,
+   "exp": "The label beside IP3 reads 'IP3 (Secondary messenger)'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-112",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "IP3 acts by binding to a receptor on the:",
+   "opts": [
+    "Sarcoplasmic reticulum",
+    "Cell membrane",
+    "Nucleus",
+    "Mitochondria"
+   ],
+   "ans": 0,
+   "exp": "The cascade notes 'binds to receptor on sarcoplasmic reticulum' after IP3. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-113",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "The consequence of IP3 action is:",
+   "opts": [
+    "↑ Ca2+ and smooth muscle constriction",
+    "↓ Ca2+ and smooth muscle relaxation",
+    "↑ cAMP and bronchodilation",
+    "↑ cGMP and vasodilation"
+   ],
+   "ans": 0,
+   "exp": "The cascade ends '→ ↑ Ca2+ → Smooth muscle constriction'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-114",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Besides IP3, the other product of PIP2 splitting is:",
+   "opts": [
+    "DAG",
+    "cAMP",
+    "cGMP",
+    "GTP"
+   ],
+   "ans": 0,
+   "exp": "The PIP2 branch is shown dividing into IP3 and DAG. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-115",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Which receptors are listed as examples of Gq receptors?",
+   "opts": [
+    "Oxytocin R, angiotensin R and vasopressin 1 R",
+    "β1, β2 and β3 receptors",
+    "M2, α2, H3 and 5HT1 receptors",
+    "EGFR and VEGF-R"
+   ],
+   "ans": 0,
+   "exp": "The list reads oxytocin R, angiotensin R and vasopressin 1 R. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-116",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Which Gq subtype receptors feed into the Gq cascade in the diagram?",
+   "opts": [
+    "α1, M1 and M2",
+    "β1 and β2",
+    "M2, α2, H3 and 5HT1",
+    "Only α1"
+   ],
+   "ans": 0,
+   "exp": "The circles feeding Gq are labelled α1, M1 and M2. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-117",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Note on the Gq page: phospholipase A2 is responsible for:",
+   "opts": [
+    "Synthesis of prostaglandins",
+    "Formation of IP3",
+    "Hydrolysis of cAMP",
+    "Opening of K+ channels"
+   ],
+   "ans": 0,
+   "exp": "The closing note states 'Phospholipase A2 synthesis of prostaglandins'. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-118",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Angiotensin receptor signalling through Gq would be expected to cause:",
+   "opts": [
+    "Smooth muscle constriction via IP3 and Ca2+",
+    "Smooth muscle relaxation via cAMP",
+    "Reduced heart rate via K+ channel opening",
+    "Increased cGMP"
+   ],
+   "ans": 0,
+   "exp": "As a Gq receptor, angiotensin R works through phospholipase C, IP3 and a rise in Ca2+, giving constriction. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-119",
+   "sec": "Gq Subtype",
+   "page": 23,
+   "q": "Vasopressin 1 receptor-mediated vasoconstriction is an example of:",
+   "opts": [
+    "Gq signalling",
+    "Gs signalling",
+    "Gi signalling",
+    "G12/13 signalling"
+   ],
+   "ans": 0,
+   "exp": "Vasopressin 1 R is listed among the Gq receptor examples. (Book p23)"
+  },
+  {
+   "id": "PHARM-C8-120",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "Gi is described as present in the:",
+   "opts": [
+    "Heart (↓ HR)",
+    "Bronchi (bronchodilation)",
+    "Uterus (relaxation)",
+    "Trabecular meshwork (contraction)"
+   ],
+   "ans": 0,
+   "exp": "The Gi heading notes 'Present in the heart (↓ HR)'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-121",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "Which receptors are shown feeding into the Gi/Go pathway?",
+   "opts": [
+    "M2, α2, H3 and 5HT1",
+    "α1, M1 and M2",
+    "β1 and β2",
+    "H1 and H2"
+   ],
+   "ans": 0,
+   "exp": "The four circles above Gi are labelled M2, α2, H3 and 5HT1. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-122",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "The note states that M2, α2, H3 and 5HT1 receptors are:",
+   "opts": [
+    "Autoreceptors",
+    "Heteroreceptors only",
+    "Ion channels",
+    "Nuclear receptors"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'M2, α2, H3, 5HT1 receptors are autoreceptors'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-123",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "In the Gi pathway, αi-GTP causes:",
+   "opts": [
+    "↓ cyclic AMP",
+    "↑ cyclic AMP",
+    "↓ Ca2+",
+    "↑ IP3"
+   ],
+   "ans": 0,
+   "exp": "The left branch runs αi-GTP → ↓ cyclic AMP → opens K+ channel. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-124",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "In the Go branch of the same figure, β,γ subunits cause:",
+   "opts": [
+    "↓ Ca2+",
+    "↓ cyclic AMP",
+    "↑ IP3",
+    "↑ cGMP"
+   ],
+   "ans": 0,
+   "exp": "The right branch runs β, γ → ↓ Ca2+ → opens K+ channel. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-125",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "Both branches of the Gi/Go pathway finally:",
+   "opts": [
+    "Open K+ channels, causing relaxation",
+    "Close K+ channels, causing contraction",
+    "Open Ca2+ channels, causing contraction",
+    "Inhibit adenylate cyclase only"
+   ],
+   "ans": 0,
+   "exp": "The two limbs converge on 'Opens K+ channel' and then 'Relaxation'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-126",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "The net effect of the Gi/Go pathway in the heart is:",
+   "opts": [
+    "Relaxation with decreased heart rate",
+    "Contraction with increased heart rate",
+    "No change in rate",
+    "Increased contractility"
+   ],
+   "ans": 0,
+   "exp": "The Gi page states it is present in the heart with ↓ HR, converging on relaxation. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-127",
+   "sec": "Gi Subtype",
+   "page": 24,
+   "q": "Stimulation of M2 receptors in the heart would:",
+   "opts": [
+    "Reduce cyclic AMP and open K+ channels",
+    "Increase cyclic AMP and open Ca2+ channels",
+    "Increase IP3 and intracellular Ca2+",
+    "Activate Rho-kinase"
+   ],
+   "ans": 0,
+   "exp": "M2 feeds the Gi pathway, lowering cAMP and opening K+ channels to relax and slow the heart. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-128",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "G12/13 signalling proceeds through:",
+   "opts": [
+    "Rho-GTP → (+) Rho-kinase",
+    "αs-GTP → adenylate cyclase",
+    "αq-GTP → phospholipase C",
+    "αi-GTP → ↓ cAMP"
+   ],
+   "ans": 0,
+   "exp": "The cascade is written G12/13 → Rho-GTP → (+) Rho-kinase. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-129",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Activation of Rho-kinase produces:",
+   "opts": [
+    "Smooth muscle contraction, vasoconstriction and trabecular meshwork contraction",
+    "Smooth muscle relaxation and vasodilation",
+    "Bronchodilation and uterine relaxation",
+    "Increased cGMP"
+   ],
+   "ans": 0,
+   "exp": "The three bullets under Rho-kinase read smooth muscle contraction, vasoconstriction and trabecular meshwork contraction. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-130",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Belumosudil is described as a new drug used in:",
+   "opts": [
+    "Graft versus host disease",
+    "Acute CHF",
+    "Open-angle glaucoma",
+    "Angina"
+   ],
+   "ans": 0,
+   "exp": "The label beside belumosudil reads 'New drug used in Graft vs host disease'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-131",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "RHO kinase is noted to be involved in:",
+   "opts": [
+    "Leukocytosis",
+    "Bronchoconstriction",
+    "Platelet aggregation",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The bullet under belumosudil states 'RHO kinase involved in leukocytosis'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-132",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Fasudil is used for:",
+   "opts": [
+    "Vasodilation in angina",
+    "Tocolysis in labor",
+    "Open-angle glaucoma",
+    "Graft versus host disease"
+   ],
+   "ans": 0,
+   "exp": "The fasudil label reads 'vasodilation in Angina'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-133",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Netarsudil increases:",
+   "opts": [
+    "Trabecular outflow",
+    "Aqueous humour production",
+    "Heart rate",
+    "Uterine tone"
+   ],
+   "ans": 0,
+   "exp": "The netarsudil label reads '↑ Trabecular outflow'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-134",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Netarsudil is used in:",
+   "opts": [
+    "Open-angle glaucoma",
+    "Angle-closure glaucoma",
+    "Asthma",
+    "Angina"
+   ],
+   "ans": 0,
+   "exp": "The bullet under netarsudil states 'used in open-angle glaucoma'. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-135",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "All three drugs listed - belumosudil, fasudil and netarsudil - act by inhibiting:",
+   "opts": [
+    "Rho-kinase",
+    "Phosphodiesterase 3",
+    "Adenylate cyclase",
+    "Phospholipase C"
+   ],
+   "ans": 0,
+   "exp": "All three pill icons point to the Rho-kinase step with the (-) inhibition mark in the G12/13 cascade. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-136",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "Which G protein pathway explains netarsudil's effect on the trabecular meshwork?",
+   "opts": [
+    "G12/13 - Rho-kinase",
+    "Gs - cAMP",
+    "Gq - IP3",
+    "Gi - K+ channel"
+   ],
+   "ans": 0,
+   "exp": "Trabecular meshwork contraction is a Rho-kinase (G12/13) effect, so its inhibition by netarsudil increases trabecular outflow. (Book p24)"
+  },
+  {
+   "id": "PHARM-C8-137",
+   "sec": "G12/13 Subtype",
+   "page": 24,
+   "q": "In the G12/13 cascade, the drug acts on Rho-kinase with which symbol?",
+   "opts": [
+    "(-), i.e. inhibition",
+    "(+), i.e. activation",
+    "No symbol",
+    "A question mark"
+   ],
+   "ans": 0,
+   "exp": "A (-) mark is drawn where belumosudil, fasudil and netarsudil meet the Rho-kinase step, denoting inhibition. (Book p24)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U8-1",
+   "ch": 8,
+   "n": 1,
+   "title": "Types of Antagonism",
+   "sec": "Types of Antagonism · p20",
+   "qs": [
+    "PHARM-C8-001",
+    "PHARM-C8-002",
+    "PHARM-C8-003",
+    "PHARM-C8-004",
+    "PHARM-C8-005",
+    "PHARM-C8-006",
+    "PHARM-C8-007",
+    "PHARM-C8-008",
+    "PHARM-C8-009",
+    "PHARM-C8-010",
+    "PHARM-C8-011",
+    "PHARM-C8-012",
+    "PHARM-C8-013",
+    "PHARM-C8-014",
+    "PHARM-C8-015",
+    "PHARM-C8-016",
+    "PHARM-C8-017"
+   ],
+   "guide": "Antagonism is classified by mechanism, not by receptor: physical antagonism binds the substance (charcoal adsorbs alcohol from the intestine), chemical antagonism binds and neutralises it (heparin, an acid/-ve, is neutralised by protamine sulphate, a base/+ve; iron is chelated by dexrazoxane or deferiprone), and physiological antagonism uses opposite receptors - histamine via H1 constricts bronchi while adrenaline/salbutamol via β2 dilate them. Salbutamol is the best bronchodilator in asthma, but in COPD ipratropium or tiotropium is preferred instead because of cholinergic effects."
+  },
+  {
+   "id": "PHARM-U8-2",
+   "ch": 8,
+   "n": 2,
+   "title": "Competitive Reversible vs Irreversible and Non-competitive Antagonism",
+   "sec": "Competitive Reversible vs Irreversible and Non-competitive Antagonism · p20",
+   "qs": [
+    "PHARM-C8-018",
+    "PHARM-C8-019",
+    "PHARM-C8-020",
+    "PHARM-C8-021",
+    "PHARM-C8-022",
+    "PHARM-C8-023",
+    "PHARM-C8-024",
+    "PHARM-C8-025",
+    "PHARM-C8-026",
+    "PHARM-C8-027",
+    "PHARM-C8-028",
+    "PHARM-C8-029",
+    "PHARM-C8-030",
+    "PHARM-C8-031",
+    "PHARM-C8-032",
+    "PHARM-C8-033",
+    "PHARM-C8-034",
+    "PHARM-C8-035",
+    "PHARM-C8-036",
+    "PHARM-C8-037"
+   ],
+   "guide": "The table follows drug (A) through three rows: its normal effect, the addition of antagonist (B), and the effect of raising (A). In competitive reversible antagonism (A) and (B) compete for the same (enzymatic) site, so raising (A) restores the effect, Km rises, potency falls and Vmax/efficacy is unchanged. In competitive irreversible and non-competitive antagonism (B) occupies the allosteric part, raising (A) gives 'no reversal of antagonism', Vmax falls while Km and potency show no change."
+  },
+  {
+   "id": "PHARM-U8-3",
+   "ch": 8,
+   "n": 3,
+   "title": "Michaelis-Menten Note: Vmax and Km",
+   "sec": "Michaelis-Menten Note: Vmax and Km · p21",
+   "qs": [
+    "PHARM-C8-038",
+    "PHARM-C8-039",
+    "PHARM-C8-040",
+    "PHARM-C8-041",
+    "PHARM-C8-042",
+    "PHARM-C8-043"
+   ],
+   "guide": "The Michaelis-Menten equation is used to read the same table numerically: Vmax is the maximum velocity of the reaction between enzyme and drug (substrate) and stands for maximum effect, i.e. efficacy; Km is the concentration of drug at which the reaction velocity is half of Vmax and is proportional to 1/potency. So a competitive antagonist raises Km (potency falls) with Vmax untouched, while a non-competitive antagonist lowers Vmax with Km unchanged."
+  },
+  {
+   "id": "PHARM-U8-4",
+   "ch": 8,
+   "n": 4,
+   "title": "Receptors: Ligand Gated Ion Channel Receptors",
+   "sec": "Receptors: Ligand Gated Ion Channel Receptors · p21",
+   "qs": [
+    "PHARM-C8-044",
+    "PHARM-C8-045",
+    "PHARM-C8-046",
+    "PHARM-C8-047",
+    "PHARM-C8-048",
+    "PHARM-C8-049",
+    "PHARM-C8-050"
+   ],
+   "guide": "Receptors begin with the fastest acting type, the ligand gated ion channel receptors (LGICR). Their examples are tabulated by substrate: GABA-A conducts chloride, glutamate has the NMDA, AMPA and kainate subtypes, while the nicotinic receptor and 5-HT3 are listed with a dash. The note to remember is that GABA-B is a GPCR, not an ion channel."
+  },
+  {
+   "id": "PHARM-U8-5",
+   "ch": 8,
+   "n": 5,
+   "title": "Nicotinic Receptor Structure",
+   "sec": "Nicotinic Receptor Structure · p21",
+   "qs": [
+    "PHARM-C8-051",
+    "PHARM-C8-052",
+    "PHARM-C8-053",
+    "PHARM-C8-054",
+    "PHARM-C8-055",
+    "PHARM-C8-056",
+    "PHARM-C8-057"
+   ],
+   "guide": "The nicotinic receptor is a pentamer of α, α, β, δ and ε subunits surrounding a lumen through which Na+ enters. Acetylcholine acts on the α subunit to open the channel, which is why the α subunit is marked most important in a receptor. Functionally, the same receptor gives contraction on muscle and depolarisation on a ganglion."
+  },
+  {
+   "id": "PHARM-U8-6",
+   "ch": 8,
+   "n": 6,
+   "title": "Enzymatic Receptor",
+   "sec": "Enzymatic Receptor · p22",
+   "qs": [
+    "PHARM-C8-058",
+    "PHARM-C8-059",
+    "PHARM-C8-060",
+    "PHARM-C8-061",
+    "PHARM-C8-062",
+    "PHARM-C8-063",
+    "PHARM-C8-064",
+    "PHARM-C8-065",
+    "PHARM-C8-066",
+    "PHARM-C8-067",
+    "PHARM-C8-068"
+   ],
+   "guide": "An enzymatic receptor carries an intracellular enzymatic domain; the ligand binds the receptor and the enzyme acts, the classic example being tyrosine kinase, where phosphorylation of tyrosine leads to cell proliferation. The four tabulated types are tyrosine kinase receptors (EGFR, VEGF-R, Her-2/neu R, insulin/IGF R), Janus kinase receptors (leptin/cytokine, prolactin, growth hormone), STKR (TGFR) and the guanylate cyclase receptor (ANP, BNP → ↑ cGMP → vasodilation)."
+  },
+  {
+   "id": "PHARM-U8-7",
+   "ch": 8,
+   "n": 7,
+   "title": "Nuclear Receptor (NRT)",
+   "sec": "Nuclear Receptor (NRT) · p22",
+   "qs": [
+    "PHARM-C8-069",
+    "PHARM-C8-070",
+    "PHARM-C8-071",
+    "PHARM-C8-072",
+    "PHARM-C8-073",
+    "PHARM-C8-074",
+    "PHARM-C8-075",
+    "PHARM-C8-076",
+    "PHARM-C8-077"
+   ],
+   "guide": "Nuclear receptors are the slowest acting receptors because they work on gene transcription. Some already sit in the nucleus - estrogen, progesterone, vitamin A, T3/T4 and PPAR (α, δ, γ) receptors - while others (androgen, mineralocorticoid, glucocorticoid and vitamin D receptors) wait in the cytoplasm and translocate to the nucleus only upon ligand binding."
+  },
+  {
+   "id": "PHARM-U8-8",
+   "ch": 8,
+   "n": 8,
+   "title": "G Protein Coupled Receptor (GPCR)",
+   "sec": "G Protein Coupled Receptor (GPCR) · p22",
+   "qs": [
+    "PHARM-C8-078",
+    "PHARM-C8-079",
+    "PHARM-C8-080",
+    "PHARM-C8-081",
+    "PHARM-C8-082",
+    "PHARM-C8-083",
+    "PHARM-C8-084",
+    "PHARM-C8-085",
+    "PHARM-C8-086",
+    "PHARM-C8-087",
+    "PHARM-C8-088"
+   ],
+   "guide": "GPCRs - also called serpentine, 7 transmembrane or heptahelical receptors - are the most common target for drugs. The α subunit is the most important and carries intrinsic GTPase activity; activation exchanges GDP for GTP and hydrolysis of GTP switches the signal off. GPCRs are classified by their α subtypes: s → Gs, q → Gq and i → Gi."
+  },
+  {
+   "id": "PHARM-U8-9",
+   "ch": 8,
+   "n": 9,
+   "title": "Gs Subtype",
+   "sec": "Gs Subtype · p23",
+   "qs": [
+    "PHARM-C8-089",
+    "PHARM-C8-090",
+    "PHARM-C8-091",
+    "PHARM-C8-092",
+    "PHARM-C8-093",
+    "PHARM-C8-094",
+    "PHARM-C8-095",
+    "PHARM-C8-096",
+    "PHARM-C8-097",
+    "PHARM-C8-098",
+    "PHARM-C8-099",
+    "PHARM-C8-100",
+    "PHARM-C8-101",
+    "PHARM-C8-102",
+    "PHARM-C8-103",
+    "PHARM-C8-104",
+    "PHARM-C8-105",
+    "PHARM-C8-106",
+    "PHARM-C8-107",
+    "PHARM-C8-108"
+   ],
+   "guide": "Gs signals through αs-GTP to activate adenylate cyclase, raising cyclic AMP, which phosphodiesterase then metabolises. In cardiac and skeletal muscle cAMP causes contraction through calcium channel phosphorylation, while in smooth muscle it causes relaxation (myosin light chain phosphorylase activation and myosin light chain kinase inhibition) giving bronchodilation, vasodilation and uterine relaxation - the basis for ritodrine in labor, dobutamine in CHF and salbutamol in asthma (palpitations and tremors). Theophylline blocks phosphodiesterase 3, 4 in bronchi and milrinone blocks phosphodiesterase 3 in the heart, both used when β-blockers have already been given."
+  },
+  {
+   "id": "PHARM-U8-10",
+   "ch": 8,
+   "n": 10,
+   "title": "Gq Subtype",
+   "sec": "Gq Subtype · p23",
+   "qs": [
+    "PHARM-C8-109",
+    "PHARM-C8-110",
+    "PHARM-C8-111",
+    "PHARM-C8-112",
+    "PHARM-C8-113",
+    "PHARM-C8-114",
+    "PHARM-C8-115",
+    "PHARM-C8-116",
+    "PHARM-C8-117",
+    "PHARM-C8-118",
+    "PHARM-C8-119"
+   ],
+   "guide": "Gq works through αq-GTP to activate phospholipase C, which raises PIP2 and splits it into IP3 (a secondary messenger) and DAG. IP3 binds a receptor on the sarcoplasmic reticulum, releasing Ca2+ and causing smooth muscle constriction - the pathway behind oxytocin, angiotensin and vasopressin 1 receptor effects, with α1, M1 and M2 as the feeding receptors. A separate note records that phospholipase A2 is responsible for the synthesis of prostaglandins."
+  },
+  {
+   "id": "PHARM-U8-11",
+   "ch": 8,
+   "n": 11,
+   "title": "Gi Subtype",
+   "sec": "Gi Subtype · p24",
+   "qs": [
+    "PHARM-C8-120",
+    "PHARM-C8-121",
+    "PHARM-C8-122",
+    "PHARM-C8-123",
+    "PHARM-C8-124",
+    "PHARM-C8-125",
+    "PHARM-C8-126",
+    "PHARM-C8-127"
+   ],
+   "guide": "Gi is present in the heart, where it lowers heart rate. Its receptors - M2, α2, H3 and 5HT1 - are autoreceptors. The αi-GTP limb lowers cyclic AMP while the Go limb (β, γ) lowers Ca2+; both converge on opening K+ channels and so produce relaxation."
+  },
+  {
+   "id": "PHARM-U8-12",
+   "ch": 8,
+   "n": 12,
+   "title": "G12/13 Subtype",
+   "sec": "G12/13 Subtype · p24",
+   "qs": [
+    "PHARM-C8-128",
+    "PHARM-C8-129",
+    "PHARM-C8-130",
+    "PHARM-C8-131",
+    "PHARM-C8-132",
+    "PHARM-C8-133",
+    "PHARM-C8-134",
+    "PHARM-C8-135",
+    "PHARM-C8-136",
+    "PHARM-C8-137"
+   ],
+   "guide": "G12/13 signals through Rho-GTP, which activates Rho-kinase and produces smooth muscle contraction, vasoconstriction and trabecular meshwork contraction. Three Rho-kinase inhibitors are shown: belumosudil, a new drug for graft versus host disease (RHO kinase is involved in leukocytosis), fasudil for vasodilation in angina, and netarsudil, which increases trabecular outflow and is used in open-angle glaucoma."
+  }
+ ]
+}
