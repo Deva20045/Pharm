@@ -1,0 +1,1161 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C30-001",
+   "sec": "Classification, Sedation and Hypnosis",
+   "page": 120,
+   "q": "The classification of sedative-hypnotic drugs includes GABAA agonists, melatonin agonists and:",
+   "opts": [
+    "Dual orexin receptor antagonists (DORA)",
+    "Beta blockers",
+    "Opioids",
+    "Antihistamines"
+   ],
+   "ans": 0,
+   "exp": "The classification tree lists GABAA agonist, melatonin agonist and DORA. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-002",
+   "sec": "Classification, Sedation and Hypnosis",
+   "page": 120,
+   "q": "GABAA agonists include benzodiazepines, barbiturates and:",
+   "opts": [
+    "Z compounds",
+    "Zolpidem only",
+    "Melatonin",
+    "Doxepin"
+   ],
+   "ans": 0,
+   "exp": "The GABAA agonist branch lists benzodiazepine, barbiturate and Z compounds. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-003",
+   "sec": "Classification, Sedation and Hypnosis",
+   "page": 120,
+   "q": "Sedation is defined in the chapter as:",
+   "opts": [
+    "Anxiolysis/calming effect",
+    "Sleep induction",
+    "Muscle relaxation",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "The definition line says sedation: anxiolysis/calming effect. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-004",
+   "sec": "Classification, Sedation and Hypnosis",
+   "page": 120,
+   "q": "Hypnosis is defined in the chapter as:",
+   "opts": [
+    "Sleep inducer",
+    "Anxiolytic",
+    "Sedative",
+    "Anticonvulsant"
+   ],
+   "ans": 0,
+   "exp": "The definition line says hypnosis: sleep inducer. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-005",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Bicuculline is a:",
+   "opts": [
+    "GABA antagonist",
+    "GABA agonist",
+    "Benzodiazepine agonist",
+    "Cl- channel blocker"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels bicuculline as GABA antagonist. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-006",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "GABA opens the chloride channel, causing:",
+   "opts": [
+    "Inward Cl- movement",
+    "Outward Cl- movement",
+    "Na+ influx",
+    "K+ efflux"
+   ],
+   "ans": 0,
+   "exp": "The flow says inward Cl- movement. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-007",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Inward chloride movement produces:",
+   "opts": [
+    "Hyperpolarization",
+    "Depolarization",
+    "No change in potential",
+    "Action potential"
+   ],
+   "ans": 0,
+   "exp": "The flow says hyperpolarization. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-008",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Hyperpolarization of the neuron results in:",
+   "opts": [
+    "Sedation and hypnosis",
+    "Seizure",
+    "Excitation",
+    "Muscle spasm"
+   ],
+   "ans": 0,
+   "exp": "The flow ends at sedation and hypnosis. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-009",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The subunit mediating sedation and hypnotic effects is:",
+   "opts": [
+    "α1",
+    "α2",
+    "β",
+    "γ"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels α1: sedation hypnotic. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-010",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The subunit mediating other functions is:",
+   "opts": [
+    "α2",
+    "α1",
+    "δ",
+    "γ"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels α2: other functions. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-011",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Z compounds are used for sleep induction and maintenance and for:",
+   "opts": [
+    "Jet lag",
+    "Migraine",
+    "Anxiety",
+    "Depression"
+   ],
+   "ans": 0,
+   "exp": "The Z-drug uses list sleep induction + maintenance, jet lag. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-012",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The Z compounds listed are zolpidem, zaleplon and:",
+   "opts": [
+    "Eszopiclone",
+    "Zopiclone only",
+    "Zolmitriptan",
+    "Zafirlukast"
+   ],
+   "ans": 0,
+   "exp": "The Z-drug list gives zolpidem, zaleplon, eszopiclone. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-013",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Barbiturates increase the:",
+   "opts": [
+    "Duration of channel opening by GABA",
+    "Frequency of channel opening by GABA",
+    "Number of Cl- channels",
+    "GABA synthesis"
+   ],
+   "ans": 0,
+   "exp": "The barbiturate line says up duration of channel opening by GABA. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-014",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Benzodiazepines increase the:",
+   "opts": [
+    "Frequency of Cl- channel opening by GABA",
+    "Duration of channel opening",
+    "Number of receptors",
+    "Glutamate release"
+   ],
+   "ans": 0,
+   "exp": "The benzodiazepine line says up frequency of Cl- channel opening by GABA. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-015",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Besides increasing channel opening duration, barbiturates decrease release of:",
+   "opts": [
+    "Glutamate",
+    "GABA",
+    "Glycine",
+    "Dopamine"
+   ],
+   "ans": 0,
+   "exp": "The barbiturate line says down glutamate release. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-016",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "In high dose, barbiturates act as:",
+   "opts": [
+    "GABA mimetic",
+    "GABA antagonist",
+    "Glutamate agonist",
+    "Chloride blocker"
+   ],
+   "ans": 0,
+   "exp": "The line says in high dose leads to GABA mimetic. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-017",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Regarding safety, barbiturates are:",
+   "opts": [
+    "Less safe than benzodiazepines",
+    "Safer than benzodiazepines",
+    "Equally safe",
+    "Safe in overdose"
+   ],
+   "ans": 0,
+   "exp": "The barbiturate line says less safe. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-018",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The barbiturate named for clinical use is:",
+   "opts": [
+    "Phenobarbitone",
+    "Thiopentone",
+    "Pentobarbitone",
+    "Methohexital"
+   ],
+   "ans": 0,
+   "exp": "The line names phenobarbitone. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-019",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Phenobarbitone is DOC in:",
+   "opts": [
+    "Neonatal seizure",
+    "Status epilepticus",
+    "Absence seizure",
+    "Febrile seizure"
+   ],
+   "ans": 0,
+   "exp": "The phenobarbitone DOC line gives neonatal seizure. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-020",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Neonatal seizures are most commonly due to:",
+   "opts": [
+    "Hepatic ischemic encephalopathy",
+    "Hypocalcemia",
+    "Meningitis",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says m/c d/t hepatic ischemic encephalopathy. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-021",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The mechanism by which phenobarbitone controls neonatal seizures is:",
+   "opts": [
+    "↓Cerebral metabolic rate",
+    "↑Cerebral metabolic rate",
+    "Na+ channel block",
+    "Ca2+ channel block"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says down cerebral metabolic rate. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-022",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Phenobarbitone is also DOC in Crigler Najjar syndrome-II, where its MOA is:",
+   "opts": [
+    "Enzyme induction",
+    "Enzyme inhibition",
+    "Receptor blockade",
+    "Channel blockade"
+   ],
+   "ans": 0,
+   "exp": "The line says Crigler Najjar Syndrome-II (MOA by enzyme induction). (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-023",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The side effect of phenobarbitone noted is acute intermittent porphyria due to induction of:",
+   "opts": [
+    "α-aminolevulinic acid enzyme",
+    "Cytochrome oxidase",
+    "Heme oxygenase",
+    "Porphobilinogen deaminase"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says enzyme (α-aminolevulinic) induction leading to porphyria. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-024",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The inverse agonist at the benzodiazepine site is:",
+   "opts": [
+    "β-Carboline",
+    "Flumazenil",
+    "Bicuculline",
+    "Zolpidem"
+   ],
+   "ans": 0,
+   "exp": "The inverse agonist listed is β-carboline (experimental drug). (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-025",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Flumazenil is the antidote for:",
+   "opts": [
+    "BZD toxicity",
+    "Barbiturate toxicity",
+    "Opioid toxicity",
+    "Alcohol toxicity"
+   ],
+   "ans": 0,
+   "exp": "Flumazenil is annotated antidote: BZD toxicity. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-026",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Flumazenil has no use in barbiturate overdose because barbiturates act at a:",
+   "opts": [
+    "Different site",
+    "Same site",
+    "Higher affinity site",
+    "Lower affinity site"
+   ],
+   "ans": 0,
+   "exp": "The line says no use in barbiturate (different site). (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-027",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "Compared with barbiturates, benzodiazepines are:",
+   "opts": [
+    "More safe",
+    "Less safe",
+    "Equally safe",
+    "Contraindicated in all"
+   ],
+   "ans": 0,
+   "exp": "The benzodiazepine line says more safe. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-028",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "page": 120,
+   "q": "The characteristic side effect of benzodiazepines noted in the mechanism box is:",
+   "opts": [
+    "Anterograde amnesia",
+    "Retrograde amnesia",
+    "Purple glove syndrome",
+    "Blue pigmentation"
+   ],
+   "ans": 0,
+   "exp": "The benzodiazepine line says S/E anterograde amnesia. (Book p120)"
+  },
+  {
+   "id": "PHARM-C30-029",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Benzodiazepines metabolised in plasma use:",
+   "opts": [
+    "Pseudocholinesterase",
+    "CYP3A4",
+    "CYP2C9",
+    "Alcohol dehydrogenase"
+   ],
+   "ans": 0,
+   "exp": "The plasma metabolism line says (pseudocholinesterase). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-030",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Benzodiazepines metabolised in plasma are:",
+   "opts": [
+    "Ultra short acting",
+    "Long acting",
+    "Short acting",
+    "Longest acting"
+   ],
+   "ans": 0,
+   "exp": "The plasma line says ultra short acting. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-031",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The plasma-metabolised benzodiazepine used for sedation in short procedures is:",
+   "opts": [
+    "Remimazolam",
+    "Midazolam",
+    "Diazepam",
+    "Lorazepam"
+   ],
+   "ans": 0,
+   "exp": "The line says remimazolam used for sedation in short procedures. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-032",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Remimazolam is used for procedures lasting less than:",
+   "opts": [
+    "30 minutes",
+    "60 minutes",
+    "2 hours",
+    "5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says <30 min. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-033",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The longest acting benzodiazepine group undergoes phase I plus phase II:",
+   "opts": [
+    "Glucuronidation",
+    "Sulfation",
+    "Acetylation",
+    "Oxidation only"
+   ],
+   "ans": 0,
+   "exp": "The longest acting group is headed phase I + phase II glucuronidation. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-034",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Diazepam is used in status epilepticus, as a muscle relaxant and in:",
+   "opts": [
+    "Febrile seizure (rectal route)",
+    "Neonatal seizure",
+    "Absence seizure",
+    "Infantile spasm"
+   ],
+   "ans": 0,
+   "exp": "The diazepam use list includes febrile seizure (rectal route). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-035",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The benzodiazepines grouped as used in alcohol dependence are chlordiazepoxide and:",
+   "opts": [
+    "Chlorazepate",
+    "Chlordiazepam",
+    "Clorazepate only",
+    "Clonazepam"
+   ],
+   "ans": 0,
+   "exp": "The bracket of alcohol dependence covers chlordiazepoxide and chlorazepate. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-036",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Which drug is more preferred in alcohol dependence?",
+   "opts": [
+    "Chlorazepate",
+    "Chlordiazepoxide",
+    "Diazepam",
+    "Oxazepam"
+   ],
+   "ans": 0,
+   "exp": "The line says chlorazepate more preferred in alcohol dependence. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-037",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Alprazolam is used as an anxiolytic, particularly:",
+   "opts": [
+    "Before surgery",
+    "After surgery",
+    "During labor",
+    "In children"
+   ],
+   "ans": 0,
+   "exp": "The alprazolam line says use before surgery. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-038",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Flurazepam is used for insomnia and its side effect is:",
+   "opts": [
+    "Nightmare",
+    "Daytime sedation",
+    "Anterograde amnesia",
+    "Rebound insomnia"
+   ],
+   "ans": 0,
+   "exp": "The flurazepam S/E is nightmare. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-039",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Flunitrazepam has abuse potential for date rape because it is:",
+   "opts": [
+    "Tasteless",
+    "Colourless and odourless only",
+    "Fast acting only",
+    "Injectable"
+   ],
+   "ans": 0,
+   "exp": "The flunitrazepam line says date rape as it is tasteless. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-040",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The shortest acting benzodiazepines are those with faster glucuronidation, namely triazolam and:",
+   "opts": [
+    "Midazolam",
+    "Diazepam",
+    "Lorazepam",
+    "Temazepam"
+   ],
+   "ans": 0,
+   "exp": "The shortest acting group lists triazolam and midazolam. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-041",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Midazolam is used IV for status epilepticus and:",
+   "opts": [
+    "As an anesthetic",
+    "As an analgesic",
+    "As a muscle relaxant only",
+    "As an antidepressant"
+   ],
+   "ans": 0,
+   "exp": "The midazolam IV uses give status epilepticus and anesthetic. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-042",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The preferred route for midazolam in a child with acute repetitive seizure is:",
+   "opts": [
+    "Buccal/intranasal",
+    "Intravenous",
+    "Oral",
+    "Rectal"
+   ],
+   "ans": 0,
+   "exp": "The line says buccal/intranasal route preferred in child with acute repetitive seizure. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-043",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "Phase II only benzodiazepines are safe in liver failure because they have:",
+   "opts": [
+    "No metabolism in the liver",
+    "Fast hepatic metabolism",
+    "Active metabolites",
+    "Renal excretion only"
+   ],
+   "ans": 0,
+   "exp": "The phase II line says safe in liver failure (no metabolism in liver). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-044",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The phase II only benzodiazepines are safe in the elderly because they have:",
+   "opts": [
+    "No active metabolite",
+    "No metabolism",
+    "Long half-life",
+    "Renal clearance"
+   ],
+   "ans": 0,
+   "exp": "The line says safe in elderly (no active metabolite). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-045",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The mnemonic for phase II only benzodiazepines is:",
+   "opts": [
+    "LETO",
+    "GBS",
+    "DORA",
+    "VALPROIC"
+   ],
+   "ans": 0,
+   "exp": "The drug list is headed LETO. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-046",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "In the LETO mnemonic, L stands for lorazepam, which is DOC in:",
+   "opts": [
+    "Status epilepticus",
+    "Febrile seizure",
+    "Insomnia",
+    "Alcohol withdrawal only"
+   ],
+   "ans": 0,
+   "exp": "The lorazepam line says status epilepticus (DOC). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-047",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The benzodiazepine of choice for the treatment of insomnia in the LETO group is:",
+   "opts": [
+    "Temazepam",
+    "Estazolam",
+    "Oxazepam",
+    "Lorazepam"
+   ],
+   "ans": 0,
+   "exp": "The temazepam line says BZD of choice for insomnia treatment. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-048",
+   "sec": "Metabolism of Benzodiazepines",
+   "page": 121,
+   "q": "The remaining LETO drugs besides lorazepam and temazepam are estazolam and:",
+   "opts": [
+    "Oxazepam",
+    "Midazolam",
+    "Triazolam",
+    "Clonazepam"
+   ],
+   "ans": 0,
+   "exp": "The LETO list ends with oxazepam. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-049",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "DORA inhibits the receptors:",
+   "opts": [
+    "R1 + R2",
+    "R1 only",
+    "R2 only",
+    "R3"
+   ],
+   "ans": 0,
+   "exp": "The DORA MOA says inhibits R1 + R2. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-050",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "Orexin acts on R1 and R2 to increase:",
+   "opts": [
+    "Wakefulness",
+    "Sleep",
+    "Appetite",
+    "Blood pressure"
+   ],
+   "ans": 0,
+   "exp": "The diagram says orexin leads to up wakefulness, down stress. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-051",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "Besides increasing wakefulness, orexin:",
+   "opts": [
+    "Decreases stress",
+    "Increases stress",
+    "Increases appetite",
+    "Decreases heart rate"
+   ],
+   "ans": 0,
+   "exp": "The diagram line says up wakefulness, down stress. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-052",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "DORA drugs are used for:",
+   "opts": [
+    "Sleep induction & maintenance",
+    "Sleep induction only",
+    "Maintenance only",
+    "Anxiety"
+   ],
+   "ans": 0,
+   "exp": "The DORA use is sleep induction and maintenance. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-053",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "The side effect of DORA is sedation, so they should be avoided:",
+   "opts": [
+    "During the day",
+    "At night",
+    "With fatty meals",
+    "In the elderly"
+   ],
+   "ans": 0,
+   "exp": "The DORA S/E line says sedation (avoid during day). (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-054",
+   "sec": "Dual Orexin Receptor Antagonists (DORA)",
+   "page": 121,
+   "q": "The two DORA drugs listed are suvorexant and:",
+   "opts": [
+    "Daridorexant",
+    "Doxepin",
+    "Ramelteon",
+    "Agomelatine"
+   ],
+   "ans": 0,
+   "exp": "The DORA drug list gives suvorexant and daridorexant. (Book p121)"
+  },
+  {
+   "id": "PHARM-C30-055",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "Melatonin agonists act by stimulating the melatonin receptor:",
+   "opts": [
+    "R1 and R2",
+    "R1 only",
+    "R2 only",
+    "MT3 only"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says stimulate melatonin receptor R1, R2. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-056",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "The common use of melatonin agonists is:",
+   "opts": [
+    "Sleep induction",
+    "Sleep maintenance only",
+    "Anxiety",
+    "Depression"
+   ],
+   "ans": 0,
+   "exp": "The common use line says sleep induction. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-057",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "Compared with BZD/Z compounds, ramelteon is:",
+   "opts": [
+    "Less effective",
+    "More effective",
+    "Equally effective",
+    "More sedating"
+   ],
+   "ans": 0,
+   "exp": "The ramelteon line says less effective than BZD/Z-compound. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-058",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "Ramelteon causes:",
+   "opts": [
+    "Less sedation and less dependence",
+    "More sedation and more dependence",
+    "No effect on sedation",
+    "Severe dependence"
+   ],
+   "ans": 0,
+   "exp": "The ramelteon line says less sedation, less dependence. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-059",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "The oral bioavailability of ramelteon is:",
+   "opts": [
+    "2%",
+    "20%",
+    "50%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "The ramelteon line says oral bioavailability 2%. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-060",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "The other use of ramelteon apart from sleep induction is:",
+   "opts": [
+    "Jet lag",
+    "Migraine",
+    "Depression",
+    "Restless leg syndrome"
+   ],
+   "ans": 0,
+   "exp": "The ramelteon other use is jet lag. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-061",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "Agomelatine has an additional use in:",
+   "opts": [
+    "Resistant depression",
+    "Jet lag",
+    "Blind sleep disorder",
+    "Anxiety"
+   ],
+   "ans": 0,
+   "exp": "The agomelatine line says other use: resistant depression. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-062",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "Tasimelteon is used in the blind for:",
+   "opts": [
+    "Sleep/awake disorder",
+    "Depression",
+    "Jet lag",
+    "Restless leg syndrome"
+   ],
+   "ans": 0,
+   "exp": "The tasimelteon line says in blind for sleep/awake disorder. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-063",
+   "sec": "Melatonin Agonists",
+   "page": 122,
+   "q": "The sedation ranking noted on the page is:",
+   "opts": [
+    "DORA > Z-Compound > melatonin agonist",
+    "Melatonin agonist > DORA > Z compound",
+    "Z compound > DORA > melatonin agonist",
+    "All are equal"
+   ],
+   "ans": 0,
+   "exp": "The note says sedation: DORA > Z-Compound > melatonin agonist. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-064",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "The first step in managing insomnia is to check if the problem is in:",
+   "opts": [
+    "Sleep induction or sleep maintenance ± induction",
+    "Sleep induction only",
+    "Sleep maintenance only",
+    "Daytime sleepiness"
+   ],
+   "ans": 0,
+   "exp": "The flow branches into sleep induction and sleep maintenance +/- induction. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-065",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "The special patient factors in the insomnia algorithm are elderly, decreased cognition and:",
+   "opts": [
+    "Opioid abuse",
+    "Alcohol abuse",
+    "Smoking",
+    "Caffeine use"
+   ],
+   "ans": 0,
+   "exp": "The factors listed are elderly, down cognition and opioid abuse. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-066",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "In a patient with these special factors and a sleep induction problem, the drug used is:",
+   "opts": [
+    "Ramelteon",
+    "DORA",
+    "Z compound",
+    "Doxepin"
+   ],
+   "ans": 0,
+   "exp": "The sleep induction yes branch gives ramelteon. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-067",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "Without these special factors, a sleep induction problem is treated with DORA or:",
+   "opts": [
+    "Z compound",
+    "Doxepin",
+    "Ramelteon",
+    "Melatonin"
+   ],
+   "ans": 0,
+   "exp": "The sleep induction no branch gives DORA/Z-compound. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-068",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "For sleep maintenance ± induction in a patient with special factors, the first drug is:",
+   "opts": [
+    "DORA",
+    "Ramelteon",
+    "Z compound",
+    "Doxepin"
+   ],
+   "ans": 0,
+   "exp": "The maintenance yes branch starts with DORA. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-069",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "If DORA fails in that patient, the drug used is:",
+   "opts": [
+    "Doxepin",
+    "Z compound",
+    "Ramelteon",
+    "Melatonin"
+   ],
+   "ans": 0,
+   "exp": "The yes branch says no response then doxepin. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-070",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "For sleep maintenance ± induction in a patient without special factors, the first drug is:",
+   "opts": [
+    "DORA",
+    "Z compound",
+    "Doxepin",
+    "Ramelteon"
+   ],
+   "ans": 0,
+   "exp": "The maintenance no branch starts with DORA. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-071",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "If DORA fails in that patient, the next drug is a:",
+   "opts": [
+    "Z compound",
+    "Ramelteon",
+    "Doxepin",
+    "Melatonin"
+   ],
+   "ans": 0,
+   "exp": "The no branch says no response then Z compound. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-072",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "If the Z compound also fails in that patient, the last drug is:",
+   "opts": [
+    "Doxepin",
+    "Ramelteon",
+    "Melatonin",
+    "Agomelatine"
+   ],
+   "ans": 0,
+   "exp": "The no branch ends: no response then doxepin. (Book p122)"
+  },
+  {
+   "id": "PHARM-C30-073",
+   "sec": "Treatment of Insomnia",
+   "page": 122,
+   "q": "Melatonin supplement in insomnia has the advantage of:",
+   "opts": [
+    "No side effect",
+    "High efficacy",
+    "Rapid action",
+    "Low cost only"
+   ],
+   "ans": 0,
+   "exp": "The note says melatonin supplement advantage: no side effect. (Book p122)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U30-1",
+   "ch": 30,
+   "n": 1,
+   "title": "Classification, Sedation and Hypnosis",
+   "sec": "Classification, Sedation and Hypnosis · p120",
+   "qs": [
+    "PHARM-C30-001",
+    "PHARM-C30-002",
+    "PHARM-C30-003",
+    "PHARM-C30-004"
+   ],
+   "guide": "Sedative-hypnotic drugs are classified into GABAA agonists (benzodiazepines, barbiturates and Z compounds), melatonin agonists and dual orexin receptor antagonists (DORA). Sedation means an anxiolytic/calming effect, while hypnosis means inducing sleep."
+  },
+  {
+   "id": "PHARM-U30-2",
+   "ch": 30,
+   "n": 2,
+   "title": "GABAA Agonists: Benzodiazepines and Barbiturates",
+   "sec": "GABAA Agonists: Benzodiazepines and Barbiturates · p120",
+   "qs": [
+    "PHARM-C30-005",
+    "PHARM-C30-006",
+    "PHARM-C30-007",
+    "PHARM-C30-008",
+    "PHARM-C30-009",
+    "PHARM-C30-010",
+    "PHARM-C30-011",
+    "PHARM-C30-012",
+    "PHARM-C30-013",
+    "PHARM-C30-014",
+    "PHARM-C30-015",
+    "PHARM-C30-016",
+    "PHARM-C30-017",
+    "PHARM-C30-018",
+    "PHARM-C30-019",
+    "PHARM-C30-020",
+    "PHARM-C30-021",
+    "PHARM-C30-022",
+    "PHARM-C30-023",
+    "PHARM-C30-024",
+    "PHARM-C30-025",
+    "PHARM-C30-026",
+    "PHARM-C30-027",
+    "PHARM-C30-028"
+   ],
+   "guide": "GABA binds to its binding sites and opens the Cl- channel so inward Cl- movement hyperpolarises the cell and produces sedation and hypnosis; the alpha-1 subunit mediates sedation/hypnotic effects and alpha-2 other functions, while bicuculline acts as a GABA antagonist at the same site. Benzodiazepines are full agonists that increase the frequency of Cl- channel opening by GABA, are safer and can cause anterograde amnesia, whereas barbiturates increase the duration of channel opening, decrease glutamate release, act as GABA mimetics in high dose and are less safe. Phenobarbitone is DOC in neonatal seizure (commonest due to hepatic ischemic encephalopathy, acting by lowering cerebral metabolic rate) and in Crigler Najjar syndrome II (by enzyme induction), while its side effect is acute intermittent porphyria from enzyme (alpha-aminolevulinic) induction."
+  },
+  {
+   "id": "PHARM-U30-3",
+   "ch": 30,
+   "n": 3,
+   "title": "Metabolism of Benzodiazepines",
+   "sec": "Metabolism of Benzodiazepines · p121",
+   "qs": [
+    "PHARM-C30-029",
+    "PHARM-C30-030",
+    "PHARM-C30-031",
+    "PHARM-C30-032",
+    "PHARM-C30-033",
+    "PHARM-C30-034",
+    "PHARM-C30-035",
+    "PHARM-C30-036",
+    "PHARM-C30-037",
+    "PHARM-C30-038",
+    "PHARM-C30-039",
+    "PHARM-C30-040",
+    "PHARM-C30-041",
+    "PHARM-C30-042",
+    "PHARM-C30-043",
+    "PHARM-C30-044",
+    "PHARM-C30-045",
+    "PHARM-C30-046",
+    "PHARM-C30-047",
+    "PHARM-C30-048"
+   ],
+   "guide": "Benzodiazepines metabolised by plasma pseudocholinesterase are ultra short acting, and remimazolam is used for sedation in short procedures under 30 minutes. In the liver, drugs undergoing phase I + phase II glucuronidation are longest acting: diazepam (status epilepticus, muscle relaxant, febrile seizure by the rectal route), chlordiazepoxide and chlorazepate (used in alcohol dependence, chlorazepate more preferred), alprazolam (anxiolytic, used before surgery), flurazepam (insomnia, can cause nightmares) and flunitrazepam (abused in date rape because it is tasteless). Drugs with faster glucuronidation are shortest acting: triazolam and midazolam, the latter used IV for status epilepticus and anesthesia and by the buccal/intranasal route (preferred in children with acute repetitive seizures). Phase II only drugs are short acting, safe in liver failure and in the elderly (no active metabolite), remembered as LETO: lorazepam (DOC in status epilepticus), estazolam, temazepam (benzodiazepine of choice for insomnia) and oxazepam."
+  },
+  {
+   "id": "PHARM-U30-4",
+   "ch": 30,
+   "n": 4,
+   "title": "Dual Orexin Receptor Antagonists (DORA)",
+   "sec": "Dual Orexin Receptor Antagonists (DORA) · p121",
+   "qs": [
+    "PHARM-C30-049",
+    "PHARM-C30-050",
+    "PHARM-C30-051",
+    "PHARM-C30-052",
+    "PHARM-C30-053",
+    "PHARM-C30-054"
+   ],
+   "guide": "DORA drugs inhibit both orexin receptors R1 and R2. Orexin normally acts on R1 and R2 to increase wakefulness and decrease stress. They are used for sleep induction and maintenance, their side effect is sedation so they should be avoided during the day, and the two drugs are suvorexant and daridorexant."
+  },
+  {
+   "id": "PHARM-U30-5",
+   "ch": 30,
+   "n": 5,
+   "title": "Melatonin Agonists",
+   "sec": "Melatonin Agonists · p122",
+   "qs": [
+    "PHARM-C30-055",
+    "PHARM-C30-056",
+    "PHARM-C30-057",
+    "PHARM-C30-058",
+    "PHARM-C30-059",
+    "PHARM-C30-060",
+    "PHARM-C30-061",
+    "PHARM-C30-062",
+    "PHARM-C30-063"
+   ],
+   "guide": "Melatonin agonists stimulate the melatonin receptor R1 and R2 and are commonly used for sleep induction. Ramelteon is less effective than benzodiazepines/Z compounds but causes less sedation and less dependence, has only 2% oral bioavailability and is also used for jet lag. Agomelatine is used in resistant depression and tasimelteon is used in the blind for sleep/awake disorder. The sedation ranking on the page is DORA > Z compound > melatonin agonist."
+  },
+  {
+   "id": "PHARM-U30-6",
+   "ch": 30,
+   "n": 6,
+   "title": "Treatment of Insomnia",
+   "sec": "Treatment of Insomnia · p122",
+   "qs": [
+    "PHARM-C30-064",
+    "PHARM-C30-065",
+    "PHARM-C30-066",
+    "PHARM-C30-067",
+    "PHARM-C30-068",
+    "PHARM-C30-069",
+    "PHARM-C30-070",
+    "PHARM-C30-071",
+    "PHARM-C30-072",
+    "PHARM-C30-073"
+   ],
+   "guide": "In a patient complaining of insomnia, the clinician checks whether the problem is sleep induction or sleep maintenance with or without induction. If there is elderly status, decreased cognition or opioid abuse, sleep induction is treated with ramelteon and otherwise with DORA or a Z compound. For sleep maintenance with or without induction, the presence of elderly status/decreased cognition/opioid abuse leads to DORA and then doxepin if there is no response, while in their absence DORA is used first, then a Z compound and finally doxepin. Melatonin supplement can also be used to treat insomnia with the advantage of no side effects."
+  }
+ ]
+}

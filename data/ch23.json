@@ -1,0 +1,1096 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C23-001",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Antihypertensive drugs in the chapter are classified based on:",
+   "opts": [
+    "Preference for prescription (Rx)",
+    "Route of excretion",
+    "Colour of the tablet",
+    "Cost only"
+   ],
+   "ans": 0,
+   "exp": "The classification heading says 'based on preference for Rx'. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-002",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Under preference for Rx, first-line antihypertensives include ACE inhibitors/ARBs and:",
+   "opts": [
+    "Ca2+ channel blockers (CCBs)",
+    "Alpha blockers",
+    "Clonidine",
+    "Direct renin inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The first-line branch lists ACE inhibitors/ARBs, Ca2+ channel blockers and thiazides. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-003",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Which calcium channel blocker is named as the long-acting first-line CCB?",
+   "opts": [
+    "Amlodipine",
+    "Verapamil",
+    "Diltiazem",
+    "Nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The CCB line gives amlodipine (long acting). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-004",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The thiazide diuretic named as a first-line drug is:",
+   "opts": [
+    "Chlorthalidone",
+    "Furosemide",
+    "Acetazolamide",
+    "Spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The diuretic line gives thiazides with chlorthalidone. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-005",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Second-line antihypertensives include alpha blockers and:",
+   "opts": [
+    "Beta blockers",
+    "Thiazides",
+    "ACE inhibitors",
+    "Long-acting CCBs"
+   ],
+   "ans": 0,
+   "exp": "The second-line branch lists alpha blockers and beta blockers. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-006",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The alpha-2 agonist named as a second-line antihypertensive is:",
+   "opts": [
+    "Clonidine",
+    "Methyldopa",
+    "Dexmedetomidine",
+    "Brimonidine"
+   ],
+   "ans": 0,
+   "exp": "The second-line list gives alpha-2 agonist: clonidine. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-007",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Direct renin inhibitors are represented by:",
+   "opts": [
+    "Aliskiren",
+    "Captopril",
+    "Losartan",
+    "Eplerenone"
+   ],
+   "ans": 0,
+   "exp": "The second-line list gives DRI: aliskiren. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-008",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Which potassium-sparing drug appears in the second-line list?",
+   "opts": [
+    "Spironolactone",
+    "Amiloride",
+    "Triamterene",
+    "Finerenone"
+   ],
+   "ans": 0,
+   "exp": "The second-line list ends with spironolactone. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-009",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The age-based classification of antihypertensives is based on the levels of:",
+   "opts": [
+    "Renin",
+    "Aldosterone",
+    "Sodium",
+    "Catecholamines"
+   ],
+   "ans": 0,
+   "exp": "The heading says 'based on age for Rx (levels of renin)'. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-010",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Young (< 55 years) hypertension has a pathophysiology of genetic cause of HTN acting on a:",
+   "opts": [
+    "Normal blood vessel",
+    "Calcified vessel",
+    "Atherosclerotic plaque",
+    "Thrombosed vessel"
+   ],
+   "ans": 0,
+   "exp": "The young column starts: genetic cause of HTN down onto normal blood vessel. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-011",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "In the young hypertensive, the normal blood vessel upregulates:",
+   "opts": [
+    "Renin",
+    "Aldosterone",
+    "Natriuretic peptide",
+    "Endothelin"
+   ],
+   "ans": 0,
+   "exp": "The young column arrow says upregulates renin. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-012",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Young (< 55 years) hypertension is therefore labelled:",
+   "opts": [
+    "Hyperreninemic",
+    "Hyporeninemic",
+    "Normoreninemic",
+    "Renin independent"
+   ],
+   "ans": 0,
+   "exp": "The young column ends in hyperreninemic. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-013",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "In old (> 55 years) hypertension, the primary vascular pathology is:",
+   "opts": [
+    "Calcification/atherosclerosis of blood vessels",
+    "Genetic upregulation of renin",
+    "Renal artery stenosis only",
+    "Sympathetic overactivity only"
+   ],
+   "ans": 0,
+   "exp": "The old column starts with calcification/atherosclerosis of blood vessels. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-014",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The old-age vascular change is described as decreased vasodilatation with decreased elasticity and:",
+   "opts": [
+    "Increased stiffness",
+    "Increased compliance",
+    "Increased renin",
+    "Decreased afterload"
+   ],
+   "ans": 0,
+   "exp": "The old column label is down vasodilatation (down elasticity, up stiffness). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-015",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "Decreased vasodilatation and increased stiffness of old vessels leads to:",
+   "opts": [
+    "Increased blood pressure",
+    "Decreased blood pressure",
+    "Hyperreninemia",
+    "Increased renin release"
+   ],
+   "ans": 0,
+   "exp": "The old column arrow points from the elastic change to up blood pressure. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-016",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The rise in blood pressure in the elderly is followed by:",
+   "opts": [
+    "RAAS inactivation",
+    "RAAS activation",
+    "Renin upregulation",
+    "Aldosterone surge"
+   ],
+   "ans": 0,
+   "exp": "The old column says up blood pressure, then RAAS inactivation. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-017",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "RAAS inactivation in the elderly makes the hypertension:",
+   "opts": [
+    "Hyporeninemic",
+    "Hyperreninemic",
+    "Renin dependent",
+    "Renin secreting"
+   ],
+   "ans": 0,
+   "exp": "The old column says RAAS inactivation, then hyporeninemic. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-018",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The final step in the elderly pathophysiology column is:",
+   "opts": [
+    "Compensatory relaxation of blood vessels",
+    "Compensatory vasoconstriction",
+    "Renin upregulation",
+    "Sodium retention"
+   ],
+   "ans": 0,
+   "exp": "The old column ends with compensatory relaxation of BV. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-019",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The first-line (DOC) drug class for the young (< 55 years) is:",
+   "opts": [
+    "A. ACE inhibitors/ARBs",
+    "C. Calcium channel blockers",
+    "D. Thiazides",
+    "B. Beta blockers"
+   ],
+   "ans": 0,
+   "exp": "The Rx row for young gives A. ACE inhibitors/ARBs. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-020",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The first-line (DOC) drug class for the old (> 55 years) is:",
+   "opts": [
+    "C. Calcium channel blockers",
+    "A. ACE inhibitors/ARBs",
+    "D. Thiazides",
+    "B. Beta blockers"
+   ],
+   "ans": 0,
+   "exp": "The Rx row for old gives C. Calcium channel blockers. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-021",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "For co-morbidities in the young (< 55 years), the drug labelled B is:",
+   "opts": [
+    "Beta blockers (down renin)",
+    "Thiazides",
+    "Calcium channel blockers",
+    "Alpha blockers"
+   ],
+   "ans": 0,
+   "exp": "The co-morbidity row for young gives B. beta blockers (down renin). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-022",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "For co-morbidities in the old (> 55 years), the drug labelled D is:",
+   "opts": [
+    "Diuretics: thiazides",
+    "Beta blockers",
+    "ACE inhibitors",
+    "Calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "The co-morbidity row for old gives D. diuretics: thiazides. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-023",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The letter code assigned to ACE inhibitors/ARBs in the age table is:",
+   "opts": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "The table labels ACE inhibitors/ARBs as A. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-024",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The letter code assigned to beta blockers in the age table is:",
+   "opts": [
+    "B",
+    "A",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "The table labels beta blockers as B. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-025",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The letter code assigned to calcium channel blockers in the age table is:",
+   "opts": [
+    "C",
+    "A",
+    "B",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "The table labels calcium channel blockers as C. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-026",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "page": 89,
+   "q": "The letter code assigned to thiazides in the age table is:",
+   "opts": [
+    "D",
+    "B",
+    "C",
+    "A"
+   ],
+   "ans": 0,
+   "exp": "The table labels thiazides as D. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-027",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The clinical approach page deals with newly diagnosed hypertensive patients:",
+   "opts": [
+    "Without comorbidities",
+    "With diabetes only",
+    "With renal failure only",
+    "In pregnancy only"
+   ],
+   "ans": 0,
+   "exp": "The heading says newly diagnosed hypertensive without comorbidities. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-028",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "In the newly diagnosed patient, the flowchart first divides patients by:",
+   "opts": [
+    "Age (< 55 years vs > 55 years)",
+    "Sex",
+    "Race",
+    "Weight"
+   ],
+   "ans": 0,
+   "exp": "The first branch is down < 55 yrs and down > 55 yrs. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-029",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "For a patient younger than 55 years, the initial drug is:",
+   "opts": [
+    "ACE inhibitors/ARBs (down renin)",
+    "CCBs (no effect on renin)",
+    "Thiazide",
+    "Spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The < 55 yrs branch gives ACE inhibitors/ARBs (down renin). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-030",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "For a patient older than 55 years, the initial drug is:",
+   "opts": [
+    "CCBs (no effect on renin)",
+    "ACE inhibitors (down renin)",
+    "Beta blockers",
+    "Clonidine"
+   ],
+   "ans": 0,
+   "exp": "The > 55 yrs branch gives CCBs (no effect on renin). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-031",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The defining note for CCB use in this flowchart is that they have:",
+   "opts": [
+    "No effect on renin",
+    "Maximum renin suppression",
+    "Renin upregulation",
+    "Renin-independent diuresis"
+   ],
+   "ans": 0,
+   "exp": "The CCB branch is labelled 'no effect on renin'. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-032",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The step-up rule after the initial drug is failure of response:",
+   "opts": [
+    "Inspite of maximum dose after 1 month",
+    "Inspite of maximum dose after 1 year",
+    "At half dose after 1 week",
+    "Only after 3 months of minimum dose"
+   ],
+   "ans": 0,
+   "exp": "The box says no response inspite of maximum dose after 1 month. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-033",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "After failure of the first drug, the next step is:",
+   "opts": [
+    "A + C",
+    "A + B",
+    "C + D",
+    "A + D only"
+   ],
+   "ans": 0,
+   "exp": "The next line says A + C. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-034",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "A + C means the combination of:",
+   "opts": [
+    "ACE inhibitor/ARB plus calcium channel blocker",
+    "ACE inhibitor plus beta blocker",
+    "CCB plus thiazide",
+    "Beta blocker plus thiazide"
+   ],
+   "ans": 0,
+   "exp": "A is ACE inhibitors/ARBs and C is calcium channel blockers. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-035",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "If there is no response to A + C after one month, the next step is:",
+   "opts": [
+    "A + C + D (all first line drugs)",
+    "Add spironolactone",
+    "Add clonidine",
+    "Add a beta blocker"
+   ],
+   "ans": 0,
+   "exp": "The flowchart says A + C + D (all first line drugs). (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-036",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "Resistant hypertension is defined as no response to how many drugs?",
+   "opts": [
+    "3 drugs of which 1 is a diuretic",
+    "2 drugs of which 1 is a diuretic",
+    "4 drugs of which 2 are diuretics",
+    "1 drug at maximum dose"
+   ],
+   "ans": 0,
+   "exp": "The definition line says no response to 3 drugs of which 1 is diuretic. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-037",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The diuretic included among the first-line three drugs is a:",
+   "opts": [
+    "Thiazide (D)",
+    "Loop diuretic",
+    "Carbonic anhydrase inhibitor",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "D in the flowchart stands for thiazide diuretics. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-038",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The rationale for adding spironolactone in resistant hypertension is to counteract increased:",
+   "opts": [
+    "Aldosterone",
+    "Renin",
+    "Calcium",
+    "Uric acid"
+   ],
+   "ans": 0,
+   "exp": "The note says 'To counteract up aldosterone'. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-039",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "page": 89,
+   "q": "The final regimen for resistant hypertension in the flowchart is:",
+   "opts": [
+    "A + C + D + Spironolactone",
+    "A + C + D + Clonidine",
+    "A + B + C + D",
+    "A + C + spironolactone only"
+   ],
+   "ans": 0,
+   "exp": "The last line is A + C + D + spironolactone. (Book p89)"
+  },
+  {
+   "id": "PHARM-C23-040",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "ACE inhibitors/ARBs are preferred in hypertension with diabetes mellitus because they are:",
+   "opts": [
+    "Listed under DM in the comorbidity flowchart",
+    "Diuretics",
+    "Vasodilators only",
+    "Alpha blockers"
+   ],
+   "ans": 0,
+   "exp": "The DM bullet sits under ACE inhibitors/ARBs. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-041",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "ACE inhibitors/ARBs are used in CKD:",
+   "opts": [
+    "Without edema",
+    "With edema only",
+    "With hyperkalemia",
+    "With gout only"
+   ],
+   "ans": 0,
+   "exp": "The ACE/ARB column specifies CKD without edema. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-042",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Besides DM and CKD, ACE inhibitors/ARBs are recommended in nephrotic syndrome and:",
+   "opts": [
+    "Scleroderma",
+    "Raynaud disease",
+    "Migraine",
+    "Essential tremor"
+   ],
+   "ans": 0,
+   "exp": "The ACE/ARB column lists scleroderma after nephrotic syndrome. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-043",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Thiazides are used in hypertensive patients with CKD:",
+   "opts": [
+    "With edema",
+    "Without edema",
+    "With hyperkalemia",
+    "With migraine"
+   ],
+   "ans": 0,
+   "exp": "The thiazide column specifies CKD with edema. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-044",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Thiazides are used in hypertension with osteoporosis because they:",
+   "opts": [
+    "Increase Ca2+ reabsorption",
+    "Decrease Ca2+ reabsorption",
+    "Cause hypercalciuria",
+    "Cause hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Osteoporosis is listed under thiazides, which increase Ca2+ reabsorption. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-045",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "For renal insufficiency in the comorbidity flowchart, the specific drug named is:",
+   "opts": [
+    "Metolazone",
+    "Chlorthalidone",
+    "Furosemide",
+    "Indapamide"
+   ],
+   "ans": 0,
+   "exp": "The thiazide column lists renal insufficiency: metolazone (specific). (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-046",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Alpha blockers are the antihypertensive class chosen for:",
+   "opts": [
+    "Benign prostatic hyperplasia (BPH)",
+    "Diabetes mellitus",
+    "Migraine",
+    "Raynaud disease"
+   ],
+   "ans": 0,
+   "exp": "The alpha-blocker branch points to BPH. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-047",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "The alpha blocker named in the comorbidity flowchart is:",
+   "opts": [
+    "Prazosin",
+    "Tamsulosin",
+    "Phentolamine",
+    "Phenoxybenzamine"
+   ],
+   "ans": 0,
+   "exp": "The alpha-blocker column names prazosin. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-048",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Calcium channel blockers in the comorbidity flowchart are represented by:",
+   "opts": [
+    "Amlodipine",
+    "Verapamil",
+    "Diltiazem",
+    "Nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The CCB branch names amlodipine. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-049",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "CCBs are used in hypertension with:",
+   "opts": [
+    "Raynaud disease",
+    "BPH",
+    "Anxiety disorders",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "The CCB branch lists Raynaud disease and cyclosporine-induced HTN. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-050",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "CCBs are also indicated in hypertension due to:",
+   "opts": [
+    "Cyclosporine",
+    "Cyclophosphamide",
+    "Cisplatin",
+    "Cocaine"
+   ],
+   "ans": 0,
+   "exp": "The CCB branch says HTN d/t cyclosporine. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-051",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Beta blockers are indicated in hypertension with migraine and:",
+   "opts": [
+    "Essential tremor",
+    "Raynaud disease",
+    "BPH",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "The beta-blocker branch lists migraine and essential tremor. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-052",
+   "sec": "Hypertension with Comorbidities",
+   "page": 90,
+   "q": "Beta blockers are indicated in hypertension with anxiety disorders and:",
+   "opts": [
+    "Hyperthyroidism",
+    "Diabetes mellitus",
+    "Renal insufficiency",
+    "Nephrotic syndrome"
+   ],
+   "ans": 0,
+   "exp": "The beta-blocker branch lists hyperthyroidism and stable angina. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-053",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Severe hypertension is defined in the chapter as uncontrolled blood pressure of at least:",
+   "opts": [
+    "220/135 mmHg",
+    "180/110 mmHg",
+    "160/100 mmHg",
+    "140/90 mmHg"
+   ],
+   "ans": 0,
+   "exp": "The severe hypertension box gives 220/135 mmHg. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-054",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The step immediately after identifying severe hypertension is to assess for:",
+   "opts": [
+    "Signs of end-organ damage",
+    "Renin levels",
+    "Fundus only",
+    "Serum potassium"
+   ],
+   "ans": 0,
+   "exp": "The flowchart says assess for signs of end-organ damage. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-055",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Presence of end-organ damage in severe hypertension indicates:",
+   "opts": [
+    "Hypertensive emergency",
+    "Hypertensive urgency",
+    "White coat hypertension",
+    "Resistant hypertension"
+   ],
+   "ans": 0,
+   "exp": "The Present branch is labelled hypertensive emergency. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-056",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Absence of end-organ damage in severe hypertension indicates:",
+   "opts": [
+    "Hypertensive urgency",
+    "Hypertensive emergency",
+    "Malignant hypertension",
+    "Accelerated hypertension"
+   ],
+   "ans": 0,
+   "exp": "The Absent branch is labelled hypertensive urgency. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-057",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Hypertensive emergency is treated with:",
+   "opts": [
+    "IV drugs",
+    "Oral drugs",
+    "Sublingual drugs only",
+    "No drugs"
+   ],
+   "ans": 0,
+   "exp": "The emergency branch says Rx: IV drugs. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-058",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Hypertensive urgency is treated with:",
+   "opts": [
+    "Oral drugs",
+    "IV drugs",
+    "Intra-arterial drugs",
+    "IM drugs only"
+   ],
+   "ans": 0,
+   "exp": "The urgency branch says Rx: oral drugs. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-059",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Among IV drugs for hypertensive emergency, hydralazine is listed together with:",
+   "opts": [
+    "Enalaprilat",
+    "Captopril",
+    "Clonidine",
+    "Nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The IV list starts hydralazine, enalaprilat. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-060",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The diuretic listed for hypertensive emergency is:",
+   "opts": [
+    "Lasix (furosemide)",
+    "Mannitol",
+    "Acetazolamide",
+    "Spironolactone"
+   ],
+   "ans": 0,
+   "exp": "The IV list includes Lasix (furosemide). (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-061",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The drug labelled DOC in pregnancy for hypertensive emergency is:",
+   "opts": [
+    "Labetalol",
+    "Esmolol",
+    "Nitroglycerine",
+    "Nicardipine"
+   ],
+   "ans": 0,
+   "exp": "The IV list annotates labetalol: DOC in pregnancy. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-062",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Nicardipine is marked in the IV drug list as:",
+   "opts": [
+    "DOC and most effective",
+    "Least effective",
+    "Contraindicated",
+    "Oral alternative"
+   ],
+   "ans": 0,
+   "exp": "The DHP sub-list marks nicardipine (DOC) most effective. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-063",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Besides nicardipine, the other dihydropyridine listed for IV use is:",
+   "opts": [
+    "Clevidipine",
+    "Amlodipine",
+    "Nifedipine",
+    "Felodipine"
+   ],
+   "ans": 0,
+   "exp": "The DHP sub-list gives nicardipine and clevidipine. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-064",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "In hypertensive urgency, the oral DOC is:",
+   "opts": [
+    "Clonidine",
+    "Captopril",
+    "Nifedipine",
+    "Labetalol"
+   ],
+   "ans": 0,
+   "exp": "The oral list marks clonidine: DOC. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-065",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The ACE inhibitor listed for hypertensive urgency is:",
+   "opts": [
+    "Captopril",
+    "Enalaprilat",
+    "Lisinopril",
+    "Ramipril"
+   ],
+   "ans": 0,
+   "exp": "The oral list includes captopril. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-066",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The calcium channel blocker listed for hypertensive urgency is:",
+   "opts": [
+    "Nifedipine",
+    "Nicardipine",
+    "Clevidipine",
+    "Amlodipine"
+   ],
+   "ans": 0,
+   "exp": "The oral list includes nifedipine. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-067",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "Which of the following is NOT listed among the signs of end-organ damage?",
+   "opts": [
+    "Essential tremor",
+    "Encephalopathy",
+    "Retinopathy",
+    "Congestive heart failure"
+   ],
+   "ans": 0,
+   "exp": "The end organ damage box lists encephalopathy, retinopathy, CHF, pulmonary edema, renal failure and eclampsia. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-068",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The eye sign of end-organ damage listed is:",
+   "opts": [
+    "Retinopathy",
+    "Cataract",
+    "Glaucoma",
+    "Macular edema"
+   ],
+   "ans": 0,
+   "exp": "Retinopathy is listed in the end-organ damage box. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-069",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The pregnancy-related sign of end-organ damage listed is:",
+   "opts": [
+    "Eclampsia",
+    "Ectopic pregnancy",
+    "Hyperemesis",
+    "Abruptio placentae"
+   ],
+   "ans": 0,
+   "exp": "Eclampsia is the last entry in the end-organ damage box. (Book p90)"
+  },
+  {
+   "id": "PHARM-C23-070",
+   "sec": "Severe Hypertension: Emergency versus Urgency",
+   "page": 90,
+   "q": "The renal sign of end-organ damage listed is:",
+   "opts": [
+    "Renal failure",
+    "Renal stones",
+    "Nephrotic syndrome",
+    "Polyuria"
+   ],
+   "ans": 0,
+   "exp": "Renal failure is listed in the end-organ damage box. (Book p90)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U23-1",
+   "ch": 23,
+   "n": 1,
+   "title": "Mild to Moderate Hypertension: Classification and the Age-based Table",
+   "sec": "Mild to Moderate Hypertension: Classification and the Age-based Table · p89",
+   "qs": [
+    "PHARM-C23-001",
+    "PHARM-C23-002",
+    "PHARM-C23-003",
+    "PHARM-C23-004",
+    "PHARM-C23-005",
+    "PHARM-C23-006",
+    "PHARM-C23-007",
+    "PHARM-C23-008",
+    "PHARM-C23-009",
+    "PHARM-C23-010",
+    "PHARM-C23-011",
+    "PHARM-C23-012",
+    "PHARM-C23-013",
+    "PHARM-C23-014",
+    "PHARM-C23-015",
+    "PHARM-C23-016",
+    "PHARM-C23-017",
+    "PHARM-C23-018",
+    "PHARM-C23-019",
+    "PHARM-C23-020",
+    "PHARM-C23-021",
+    "PHARM-C23-022",
+    "PHARM-C23-023",
+    "PHARM-C23-024",
+    "PHARM-C23-025",
+    "PHARM-C23-026"
+   ],
+   "guide": "Antihypertensives are first classified by prescribing preference: first-line drugs are ACE inhibitors/ARBs, long-acting calcium channel blockers (amlodipine) and thiazide diuretics (chlorthalidone), while second-line drugs are alpha blockers, beta blockers, the alpha-2 agonist clonidine, direct renin inhibitors (aliskiren) and spironolactone. The age-based table then explains the renin logic: young hypertensives are hyperreninemic and respond to ACE inhibitors/ARBs, whereas old hypertensives are hyporeninemic and respond to calcium channel blockers."
+  },
+  {
+   "id": "PHARM-U23-2",
+   "ch": 23,
+   "n": 2,
+   "title": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension",
+   "sec": "Clinical Approach: Newly Diagnosed Hypertension and Resistant Hypertension · p89",
+   "qs": [
+    "PHARM-C23-027",
+    "PHARM-C23-028",
+    "PHARM-C23-029",
+    "PHARM-C23-030",
+    "PHARM-C23-031",
+    "PHARM-C23-032",
+    "PHARM-C23-033",
+    "PHARM-C23-034",
+    "PHARM-C23-035",
+    "PHARM-C23-036",
+    "PHARM-C23-037",
+    "PHARM-C23-038",
+    "PHARM-C23-039"
+   ],
+   "guide": "In a newly diagnosed hypertensive without comorbidities, the choice follows age: below 55 years start ACE inhibitors/ARBs (they lower renin), above 55 years start calcium channel blockers (no effect on renin). If there is no response despite maximum dose after one month, combine A + C; if still no response after another month add the third first-line drug to make A + C + D. Resistance to three drugs of which one is a diuretic defines resistant hypertension, which is treated by adding spironolactone to counteract the raised aldosterone."
+  },
+  {
+   "id": "PHARM-U23-3",
+   "ch": 23,
+   "n": 3,
+   "title": "Hypertension with Comorbidities",
+   "sec": "Hypertension with Comorbidities · p90",
+   "qs": [
+    "PHARM-C23-040",
+    "PHARM-C23-041",
+    "PHARM-C23-042",
+    "PHARM-C23-043",
+    "PHARM-C23-044",
+    "PHARM-C23-045",
+    "PHARM-C23-046",
+    "PHARM-C23-047",
+    "PHARM-C23-048",
+    "PHARM-C23-049",
+    "PHARM-C23-050",
+    "PHARM-C23-051",
+    "PHARM-C23-052"
+   ],
+   "guide": "The comorbidity flowchart picks the drug by the associated disease: ACE inhibitors/ARBs for diabetes mellitus, CKD without edema, nephrotic syndrome and scleroderma; thiazides for CKD with edema, osteoporosis and renal insufficiency (metolazone being specific); alpha blockers (prazosin) for BPH; calcium channel blockers (amlodipine) for Raynaud disease and cyclosporine-induced HTN; and beta blockers for migraine, essential tremor, anxiety disorders, hyperthyroidism and stable angina."
+  },
+  {
+   "id": "PHARM-U23-4",
+   "ch": 23,
+   "n": 4,
+   "title": "Severe Hypertension: Emergency versus Urgency",
+   "sec": "Severe Hypertension: Emergency versus Urgency · p90",
+   "qs": [
+    "PHARM-C23-053",
+    "PHARM-C23-054",
+    "PHARM-C23-055",
+    "PHARM-C23-056",
+    "PHARM-C23-057",
+    "PHARM-C23-058",
+    "PHARM-C23-059",
+    "PHARM-C23-060",
+    "PHARM-C23-061",
+    "PHARM-C23-062",
+    "PHARM-C23-063",
+    "PHARM-C23-064",
+    "PHARM-C23-065",
+    "PHARM-C23-066",
+    "PHARM-C23-067",
+    "PHARM-C23-068",
+    "PHARM-C23-069",
+    "PHARM-C23-070"
+   ],
+   "guide": "Severe hypertension means uncontrolled blood pressure of 220/135 mmHg or more, and the next step is to assess for signs of end-organ damage. If end-organ damage is present it is a hypertensive emergency treated with IV drugs (hydralazine, enalaprilat, furosemide, labetalol as DOC in pregnancy, esmolol, nitroglycerine, nitroprusside and dihydropyridines); if end-organ damage is absent it is a hypertensive urgency treated with oral drugs (clonidine as DOC, captopril and nifedipine). End-organ damage signs are encephalopathy, retinopathy, CHF, pulmonary edema, renal failure and eclampsia."
+  }
+ ]
+}

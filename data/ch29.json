@@ -1,0 +1,596 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C29-001",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The K+ channel openers listed in part 2 are ezogabine and:",
+   "opts": [
+    "Retigabine",
+    "Rufinamide",
+    "Perampanel",
+    "Felbamate"
+   ],
+   "ans": 0,
+   "exp": "The K+ channel opener line names ezogabine/retigabine. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-002",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Ezogabine/retigabine are not in use because:",
+   "opts": [
+    "Production stopped in 2017",
+    "They are too expensive",
+    "They are injectable only",
+    "They cause seizures"
+   ],
+   "ans": 0,
+   "exp": "The line says not in use (production stopped 2017). (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-003",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "A side effect of ezogabine/retigabine is blue pigmentation of:",
+   "opts": [
+    "Lips and nails",
+    "Sclera",
+    "Gums",
+    "Tongue"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says blue pigmentation in lips/nails. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-004",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The ocular side effect of ezogabine/retigabine is:",
+   "opts": [
+    "Retinal deposits",
+    "Corneal deposits",
+    "Cataract",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says retinal deposits. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-005",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The AMPA blockers listed are perampanel and:",
+   "opts": [
+    "Telampanel",
+    "Felbamate",
+    "Brivaracetam",
+    "Tiagabine"
+   ],
+   "ans": 0,
+   "exp": "The AMPA blocker line gives perampanel and telampanel. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-006",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The NMDA blocker listed in this group is:",
+   "opts": [
+    "Felbamate",
+    "Perampanel",
+    "Telampanel",
+    "Levetiracetam"
+   ],
+   "ans": 0,
+   "exp": "The NMDA blocker is felbamate. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-007",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Felbamate is used in GTCS/PS but is discontinued because of:",
+   "opts": [
+    "Bone marrow suppression and hepatotoxicity",
+    "Nephrotoxicity and ototoxicity",
+    "Severe rash only",
+    "Cardiotoxicity"
+   ],
+   "ans": 0,
+   "exp": "The felbamate S/E list gives bone marrow suppression and hepatotoxicity. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-008",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The four listed ways of increasing GABA effect are GABAA (Cl- channel) opener, reuptake inhibitor, GABA analogue and:",
+   "opts": [
+    "GABA transaminase inhibitor",
+    "GABA antagonist",
+    "GABA receptor blocker",
+    "Glutamate agonist"
+   ],
+   "ans": 0,
+   "exp": "The up GABA effect group lists these four mechanisms. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-009",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Cannabidiol is used in LGS and:",
+   "opts": [
+    "DS (Dravet syndrome)",
+    "SHE",
+    "JME",
+    "Rolandic epilepsy"
+   ],
+   "ans": 0,
+   "exp": "The cannabidiol line gives use: LGS, DS. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-010",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Cannabidiol is contraindicated in children below:",
+   "opts": [
+    "2 years",
+    "5 years",
+    "8 years",
+    "11 years"
+   ],
+   "ans": 0,
+   "exp": "The cannabidiol S/E line says C/I in children <2 year age. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-011",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The SV2A modulator group is used in GTCS, m.s. and:",
+   "opts": [
+    "Status epilepticus (S.E.)",
+    "Absence seizure",
+    "Atypical A.S.",
+    "Infantile spasm"
+   ],
+   "ans": 0,
+   "exp": "The SV2A line says use GTCS, m.s., S.E. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-012",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The drugs in the SV2A modulator group are levetiracetam and:",
+   "opts": [
+    "Brivaracetam",
+    "Felbamate",
+    "Ezogabine",
+    "Cannabidiol"
+   ],
+   "ans": 0,
+   "exp": "The group lists levetiracetam and brivaracetam. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-013",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The additional mechanism of levetiracetam is:",
+   "opts": [
+    "Ca2+ channel blocker",
+    "Na+ channel blocker",
+    "K+ channel opener",
+    "GABA transaminase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The levetiracetam line says additional MOA: Ca2+ channel blocker. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-014",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Levetiracetam is DOC for epilepsy in pregnancy because it is:",
+   "opts": [
+    "Least teratogenic",
+    "Most teratogenic",
+    "The oldest drug",
+    "Injectable"
+   ],
+   "ans": 0,
+   "exp": "The levetiracetam line says pregnancy DOC as least teratogenic. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-015",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The second and third choices for epilepsy in pregnancy are lamotrigine and:",
+   "opts": [
+    "Clonazepam",
+    "Phenytoin",
+    "Valproate",
+    "Carbamazepine"
+   ],
+   "ans": 0,
+   "exp": "The note ranks lamotrigine (2nd) and clonazepam (3rd). (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-016",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "The additional mechanism of brivaracetam is:",
+   "opts": [
+    "Na+ channel blocker",
+    "Ca2+ channel blocker",
+    "K+ channel opener",
+    "NMDA blocker"
+   ],
+   "ans": 0,
+   "exp": "The brivaracetam line says additional MOA: Na+ channel blocker. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-017",
+   "sec": "Classification of Drugs in Part 2",
+   "page": 118,
+   "q": "Part 2 notes that these drugs are commonly used in PS as:",
+   "opts": [
+    "Add-on drugs",
+    "Monotherapy DOC",
+    "IV only drugs",
+    "Second line in children only"
+   ],
+   "ans": 0,
+   "exp": "The classification note says common use PS; add on drugs. (Book p118)"
+  },
+  {
+   "id": "PHARM-C29-018",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The GABA analogues that act on the Ca2+ channel subunit are pregabalin and:",
+   "opts": [
+    "Gabapentin",
+    "Vigabatrin",
+    "Tiagabine",
+    "Baclofen"
+   ],
+   "ans": 0,
+   "exp": "The sketch labels GABA analogues: pregabalin/gabapentin. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-019",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The subunit of the Ca2+ channel blocked by these analogues is:",
+   "opts": [
+    "α2δ subunit",
+    "α1 subunit",
+    "β subunit",
+    "γ subunit"
+   ],
+   "ans": 0,
+   "exp": "The label says Ca2+ channel (α2δ subunit). (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-020",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "A use of pregabalin/gabapentin is:",
+   "opts": [
+    "Peripheral neuropathy",
+    "Central neuropathic pain only",
+    "Absence seizure",
+    "Migraine"
+   ],
+   "ans": 0,
+   "exp": "The uses list starts with peripheral neuropathy. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-021",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The post-viral neuralgia indication for these analogues is:",
+   "opts": [
+    "Post herpetic neuralgia",
+    "Post polio neuralgia",
+    "HIV neuropathy only",
+    "Diabetic amyotrophy"
+   ],
+   "ans": 0,
+   "exp": "The uses list gives post herpetic neuralgia. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-022",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Persistent leg movement is also known as:",
+   "opts": [
+    "Restless leg syndrome",
+    "Periodic limb myoclonus only",
+    "Akathisia",
+    "Chorea"
+   ],
+   "ans": 0,
+   "exp": "The uses list says persistent leg movement (restless leg syndrome). (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-023",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The pain indication for gabapentinoids is pain of:",
+   "opts": [
+    "Spinal cord injury",
+    "Bone metastasis",
+    "Visceral pain",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "The uses list ends with pain: spinal cord injury. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-024",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Regarding pharmacokinetics, pregabalin/gabapentin are:",
+   "opts": [
+    "Excreted unchanged with no drug interaction",
+    "Hepatically metabolized with many interactions",
+    "Protein bound highly",
+    "Renally metabolized"
+   ],
+   "ans": 0,
+   "exp": "The PK line says excreted unchanged, no drug interaction. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-025",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The side effect of pregabalin/gabapentin is somnolence, so they should be avoided:",
+   "opts": [
+    "In day time",
+    "At night",
+    "With food",
+    "In the elderly only"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says somnolence (avoid in day time). (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-026",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Tiagabine acts by blocking GABA:",
+   "opts": [
+    "Reuptake",
+    "Transaminase",
+    "Receptors",
+    "Synthesis"
+   ],
+   "ans": 0,
+   "exp": "The reuptake arrow is blocked by tiagabine. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-027",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Vigabatrin acts by blocking:",
+   "opts": [
+    "GABA transaminase",
+    "GABA reuptake",
+    "GABA receptors",
+    "Glutamate release"
+   ],
+   "ans": 0,
+   "exp": "The transaminase arrow is blocked by vigabatrin. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-028",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Vigabatrin is used in infantile spasm with:",
+   "opts": [
+    "Tuberous sclerosis",
+    "Neurofibromatosis",
+    "Sturge Weber syndrome",
+    "Rett syndrome"
+   ],
+   "ans": 0,
+   "exp": "The vigabatrin use says infantile spasm with tuberous sclerosis (TS). (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-029",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "In infantile spasm without tuberous sclerosis, the drug used is:",
+   "opts": [
+    "ACTH",
+    "Vigabatrin",
+    "Prednisolone only",
+    "Clonazepam"
+   ],
+   "ans": 0,
+   "exp": "The note says without T.S. leads to ACTH. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-030",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The important side effect of vigabatrin is:",
+   "opts": [
+    "Visual field defect",
+    "Retinal deposits",
+    "Optic neuritis",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "The vigabatrin S/E is visual field defect. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-031",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The mnemonic for GABAA chloride channel drugs is:",
+   "opts": [
+    "GBS",
+    "H/o GTCS",
+    "Tab VALPROIC",
+    "HYDANTOIN"
+   ],
+   "ans": 0,
+   "exp": "The GABAA mnemonic is GBS. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-032",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "In the GBS mnemonic, ganoxolone is used in:",
+   "opts": [
+    "Infantile spasm",
+    "Dravet syndrome",
+    "LGS",
+    "Absence seizure"
+   ],
+   "ans": 0,
+   "exp": "The ganoxolone line says use: infantile spasm. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-033",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Stiripentol, a GABAA acting drug, is used in:",
+   "opts": [
+    "Dravet syndrome",
+    "LGS",
+    "JME",
+    "SHE"
+   ],
+   "ans": 0,
+   "exp": "The stiripentol line says use: Dravet syndrome. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-034",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "Baclofen acts on GABAB receptors coupled to Gi in the:",
+   "opts": [
+    "Spinal cord",
+    "Brain cortex",
+    "Cerebellum",
+    "Thalamus"
+   ],
+   "ans": 0,
+   "exp": "The sketch places GABAB Gi in the spinal cord. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-035",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The use of baclofen noted in this chapter is:",
+   "opts": [
+    "ALS (amyotrophic lateral sclerosis)",
+    "Infantile spasm",
+    "Dravet syndrome",
+    "Restless leg syndrome"
+   ],
+   "ans": 0,
+   "exp": "The baclofen use is amyotrophic lateral sclerosis (ALS). (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-036",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The action produced by GABAB activation in the spinal cord is:",
+   "opts": [
+    "Muscle relaxation",
+    "Muscle contraction",
+    "Spasticity",
+    "Clonus"
+   ],
+   "ans": 0,
+   "exp": "The GABAB branch says action: muscle relaxation. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-037",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "The three actions of the GABAA chloride channel drugs listed are antiepileptic, anxiolytic and:",
+   "opts": [
+    "Sedation",
+    "Anesthesia",
+    "Analgesia",
+    "Amnesia"
+   ],
+   "ans": 0,
+   "exp": "The action list gives antiepileptic, sedation, anxiolytic. (Book p119)"
+  },
+  {
+   "id": "PHARM-C29-038",
+   "sec": "GABA-related Drugs and Miscellaneous Agents",
+   "page": 119,
+   "q": "In a JME patient not responding to first and second line therapy, the treatment is:",
+   "opts": [
+    "Polytherapy",
+    "Monotherapy at high dose",
+    "Surgery",
+    "Ketogenic diet"
+   ],
+   "ans": 0,
+   "exp": "The note says in JME not responding to 1st and 2nd line Rx, polytherapy. (Book p119)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U29-1",
+   "ch": 29,
+   "n": 1,
+   "title": "Classification of Drugs in Part 2",
+   "sec": "Classification of Drugs in Part 2 · p118",
+   "qs": [
+    "PHARM-C29-001",
+    "PHARM-C29-002",
+    "PHARM-C29-003",
+    "PHARM-C29-004",
+    "PHARM-C29-005",
+    "PHARM-C29-006",
+    "PHARM-C29-007",
+    "PHARM-C29-008",
+    "PHARM-C29-009",
+    "PHARM-C29-010",
+    "PHARM-C29-011",
+    "PHARM-C29-012",
+    "PHARM-C29-013",
+    "PHARM-C29-014",
+    "PHARM-C29-015",
+    "PHARM-C29-016",
+    "PHARM-C29-017"
+   ],
+   "guide": "Part 2 continues the classification with K+ channel openers (ezogabine/retigabine, whose production stopped in 2017 and which causes blue pigmentation of lips/nails and retinal deposits), drugs decreasing glutamate effect - AMPA blockers perampanel and telampanel, and the NMDA blocker felbamate (for GTCS/PS, no longer used, causing bone marrow suppression and hepatotoxicity) - drugs increasing GABA effect (GABAA channel openers, reuptake inhibitors, GABA transaminase inhibitors and GABA analogues) and miscellaneous drugs such as cannabidiol (for LGS and DS, with hepatotoxicity limiting use below 2 years) and the SV2A modulator group (levetiracetam and brivaracetam, used in GTCS, m.s. and status epilepticus). These are common in PS and are used as add-on drugs."
+  },
+  {
+   "id": "PHARM-U29-2",
+   "ch": 29,
+   "n": 2,
+   "title": "GABA-related Drugs and Miscellaneous Agents",
+   "sec": "GABA-related Drugs and Miscellaneous Agents · p119",
+   "qs": [
+    "PHARM-C29-018",
+    "PHARM-C29-019",
+    "PHARM-C29-020",
+    "PHARM-C29-021",
+    "PHARM-C29-022",
+    "PHARM-C29-023",
+    "PHARM-C29-024",
+    "PHARM-C29-025",
+    "PHARM-C29-026",
+    "PHARM-C29-027",
+    "PHARM-C29-028",
+    "PHARM-C29-029",
+    "PHARM-C29-030",
+    "PHARM-C29-031",
+    "PHARM-C29-032",
+    "PHARM-C29-033",
+    "PHARM-C29-034",
+    "PHARM-C29-035",
+    "PHARM-C29-036",
+    "PHARM-C29-037",
+    "PHARM-C29-038"
+   ],
+   "guide": "The GABA synapse sketch shows glutamate driving GABA formation with calcium entry; GABA analogues pregabalin and gabapentin act on the alpha-2-delta subunit of the Ca2+ channel and are used in peripheral neuropathy, post herpetic neuralgia, persistent leg movement (restless leg syndrome) and pain of spinal cord injury; they are excreted unchanged so there are no drug interactions and cause daytime somnolence. Tiagabine blocks GABA reuptake, while vigabatrin blocks GABA transaminase and is used in infantile spasm with tuberous sclerosis (without tuberous sclerosis ACTH is used) but causes visual field defects. GABAA chloride channels in the brain are opened by ganoxolone (infantile spasm), benzodiazepines, barbiturates and stiripentol (Dravet syndrome), whereas baclofen acts on GABAB Gi in the spinal cord and is used in amyotrophic lateral sclerosis; the shared actions are antiepileptic, sedation, anxiolysis and muscle relaxation. In JME not responding to first and second line drugs, polytherapy is used."
+  }
+ ]
+}

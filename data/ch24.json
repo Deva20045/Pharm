@@ -1,0 +1,1176 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C24-001",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "In the stable angina diagram, the coronary artery is narrowed by:",
+   "opts": [
+    "Atherosclerotic plaque",
+    "Acute spasm",
+    "Thrombus occlusion",
+    "Congenital anomaly"
+   ],
+   "ans": 0,
+   "exp": "The stable angina sketch labels the plaque inside the coronary artery. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-002",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "The reduction in blood supply in stable angina occurs in a manner described as:",
+   "opts": [
+    "Gradual",
+    "Sudden",
+    "Intermittent only",
+    "Reversible in seconds"
+   ],
+   "ans": 0,
+   "exp": "The arrow from the plaque is labelled gradual. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-003",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "Decreased blood supply to the myocardium in stable angina leads to decreased:",
+   "opts": [
+    "O2 supply to myocardium",
+    "O2 demand in myocardium",
+    "Heart rate",
+    "Preload"
+   ],
+   "ans": 0,
+   "exp": "The stable angina flow reads down blood supply, then down O2 supply to myocardium. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-004",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "The second determinant of the acute attack in stable angina is:",
+   "opts": [
+    "Physical exertion",
+    "Emotional stress only",
+    "Cold exposure",
+    "Smoking"
+   ],
+   "ans": 0,
+   "exp": "The diagram brings in physical exertion as the other arrow. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-005",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "Physical exertion acts by producing:",
+   "opts": [
+    "O2 demand up in myocardium",
+    "O2 supply up to myocardium",
+    "Coronary vasodilation",
+    "Reduced preload"
+   ],
+   "ans": 0,
+   "exp": "The exertion branch is labelled up O2 demand in myocardium. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-006",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "In stable angina, the two arms (down supply and up demand) converge to produce:",
+   "opts": [
+    "Acute attack: ischemic pain",
+    "Chronic stable pain",
+    "Silent infarction",
+    "Syncope"
+   ],
+   "ans": 0,
+   "exp": "Both arms merge at 'acute attack: ischemic pain'. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-007",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "Variant angina is also known as:",
+   "opts": [
+    "Prinzmetal angina",
+    "Decubitus angina",
+    "Nocturnal angina only",
+    "Angina equivalent"
+   ],
+   "ans": 0,
+   "exp": "The heading is 'Variant (Prinzmetal) Angina'. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-008",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "The primary mechanism of variant angina is:",
+   "opts": [
+    "Acute vasoconstriction (spasm)",
+    "Atherosclerotic plaque rupture",
+    "Thrombus formation",
+    "Increased O2 demand"
+   ],
+   "ans": 0,
+   "exp": "The variant angina flow begins with acute vasoconstriction (spasm). (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-009",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "Spasm in variant angina produces an acute fall in:",
+   "opts": [
+    "O2 supply to myocardium",
+    "O2 demand in myocardium",
+    "Preload",
+    "Afterload"
+   ],
+   "ans": 0,
+   "exp": "The variant flow says acute down O2 supply to myocardium. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-010",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "page": 91,
+   "q": "Variant angina occurs at rest or without the requirement of:",
+   "opts": [
+    "Physical exertion",
+    "Coronary spasm",
+    "Chest pain",
+    "ST elevation"
+   ],
+   "ans": 0,
+   "exp": "Unlike the stable branch, the variant branch has no exertion arrow; spasm alone causes the attack. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-011",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The drug of choice for the acute attack of angina is:",
+   "opts": [
+    "Sublingual nitroglycerine",
+    "Oral nitroglycerine",
+    "Sublingual nifedipine",
+    "IV diltiazem"
+   ],
+   "ans": 0,
+   "exp": "The acute attack line says DOC: sublingual nitroglycerine (NTG). (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-012",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The route of nitroglycerine for the acute attack is:",
+   "opts": [
+    "Sublingual",
+    "Oral",
+    "Intravenous",
+    "Transdermal"
+   ],
+   "ans": 0,
+   "exp": "The DOC line specifies sublingual NTG. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-013",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "In stable angina, sublingual NTG acts by decreasing:",
+   "opts": [
+    "Preload on heart",
+    "Afterload on heart",
+    "Heart rate",
+    "Contractility"
+   ],
+   "ans": 0,
+   "exp": "The MOA line for stable angina says down preload on heart. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-014",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "Reduction of preload in stable angina results in decreased:",
+   "opts": [
+    "Myocardial O2 demand",
+    "Myocardial O2 supply",
+    "Coronary flow",
+    "Heart rate"
+   ],
+   "ans": 0,
+   "exp": "The stable angina MOA ends in down myocardial O2 demand. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-015",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "In variant angina, sublingual NTG acts by producing:",
+   "opts": [
+    "Coronary vasodilation",
+    "Coronary vasoconstriction",
+    "Reduced preload only",
+    "AV nodal block"
+   ],
+   "ans": 0,
+   "exp": "The variant angina MOA line says coronary vasodilation. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-016",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "For long-term prophylaxis of variant angina, the drug of choice class is:",
+   "opts": [
+    "Calcium channel blocker",
+    "Beta blocker",
+    "Digoxin",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "The prophylaxis section marks calcium channel blocker (DOC). (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-017",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The CCB named as DOC for variant angina is:",
+   "opts": [
+    "Amlodipine",
+    "Verapamil",
+    "Diltiazem",
+    "Nicardipine"
+   ],
+   "ans": 0,
+   "exp": "The CCB DOC is named in pink as amlodipine. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-018",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The advantage of the chosen CCB for variant angina is that it is:",
+   "opts": [
+    "Long-acting",
+    "Short-acting",
+    "Highly lipophilic",
+    "Renally excreted"
+   ],
+   "ans": 0,
+   "exp": "The first advantage bullet says long-acting. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-019",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The second advantage of the chosen CCB is:",
+   "opts": [
+    "Less reflex tachycardia",
+    "More reflex tachycardia",
+    "No vasodilation",
+    "No oral use"
+   ],
+   "ans": 0,
+   "exp": "The second bullet says less reflex tachycardia. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-020",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "Long-acting nitrates are grouped in the prophylaxis section as:",
+   "opts": [
+    "Vasodilators",
+    "Anti-aggregants",
+    "Inotropes",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "The long-acting nitrate list is titled vasodilators. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-021",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "Which preparation of nitroglycerine is listed for long-term prophylaxis?",
+   "opts": [
+    "Oral, sustained release, patch and gel",
+    "Sublingual spray only",
+    "IV infusion only",
+    "Rectal suppository"
+   ],
+   "ans": 0,
+   "exp": "The NTG long-acting list gives oral, sustained release, patch, gel. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-022",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "Besides nitroglycerine, the long-acting nitrate listed first is:",
+   "opts": [
+    "Isosorbide dinitrate",
+    "Isosorbide mononitrate",
+    "Erythrityl tetranitrate",
+    "Pentaerythritol tetranitrate"
+   ],
+   "ans": 0,
+   "exp": "The list gives isosorbide dinitrate before isosorbide mononitrate. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-023",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "page": 91,
+   "q": "The second isosorbide preparation listed for prophylaxis is:",
+   "opts": [
+    "Isosorbide mononitrate",
+    "Isosorbide dinitrate",
+    "Nitroglycerine patch",
+    "Nitroglycerine gel"
+   ],
+   "ans": 0,
+   "exp": "The list ends with isosorbide mononitrate. (Book p91)"
+  },
+  {
+   "id": "PHARM-C24-024",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The first aim of therapy in stable angina is to decrease the:",
+   "opts": [
+    "Number of attacks",
+    "Mortality due to ASCVD",
+    "Heart rate only",
+    "Blood pressure only"
+   ],
+   "ans": 0,
+   "exp": "The aim branch on the left is down number of attacks. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-025",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The second aim of therapy in stable angina is to decrease:",
+   "opts": [
+    "Mortality d/t ASCVD",
+    "Number of attacks",
+    "Chest pain duration",
+    "Exercise tolerance"
+   ],
+   "ans": 0,
+   "exp": "The aim branch on the right is down mortality d/t ASCVD. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-026",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Which drug class among the attack-reducing agents is marked 'best'?",
+   "opts": [
+    "Beta blockers",
+    "Calcium channel blockers",
+    "Long-acting nitrates",
+    "Ranolazine"
+   ],
+   "ans": 0,
+   "exp": "The beta blocker line says (best - negative inotropes). (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-027",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Beta blockers are considered best because they are:",
+   "opts": [
+    "Negative inotropes",
+    "Positive inotropes",
+    "Vasodilators",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis reads 'best - negative inotropes'. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-028",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Which of the following is listed among the attack-reducing drugs?",
+   "opts": [
+    "Ivabradine",
+    "Aspirin",
+    "Statin",
+    "Enalapril"
+   ],
+   "ans": 0,
+   "exp": "Ivabradine is listed in the down-number-of-attacks column. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-029",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Which antiepileptic drug appears in the antianginal attack-reducing list?",
+   "opts": [
+    "Ranolazine",
+    "Phenytoin",
+    "Carbamazepine",
+    "Valproate"
+   ],
+   "ans": 0,
+   "exp": "Ranolazine is listed in the attack-reducing column. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-030",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The K+ channel opener listed for reducing attacks is:",
+   "opts": [
+    "Nicorandil",
+    "Minoxidil",
+    "Diazoxide",
+    "Cromakalim"
+   ],
+   "ans": 0,
+   "exp": "Nicorandil is listed in the attack-reducing column. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-031",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The Rho-kinase inhibitor listed is:",
+   "opts": [
+    "Fasudil",
+    "Bosentan",
+    "Trimetazidine",
+    "Allopurinol"
+   ],
+   "ans": 0,
+   "exp": "Fasudil is listed in the attack-reducing column. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-032",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The antigout drug listed for reducing anginal attacks is:",
+   "opts": [
+    "Allopurinol",
+    "Febuxostat",
+    "Colchicine",
+    "Probenecid"
+   ],
+   "ans": 0,
+   "exp": "Allopurinol appears in the attack-reducing list. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-033",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "The endothelin antagonist listed is:",
+   "opts": [
+    "Bosentan",
+    "Ambrisentan",
+    "Macitentan",
+    "Atrasentan"
+   ],
+   "ans": 0,
+   "exp": "The list ends with endothelin antagonist: bosentan. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-034",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Which drug group is listed for reducing mortality in stable angina?",
+   "opts": [
+    "Statins",
+    "Beta blockers",
+    "CCBs",
+    "Ranolazine"
+   ],
+   "ans": 0,
+   "exp": "The mortality column lists statins. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-035",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Aspirin reduces mortality in stable angina as an:",
+   "opts": [
+    "Anti-aggregant",
+    "Anti-coagulant",
+    "Anti-inflammatory only",
+    "Antipyretic"
+   ],
+   "ans": 0,
+   "exp": "Aspirin is labelled anti-aggregant. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-036",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "page": 92,
+   "q": "Besides statins and aspirin, the mortality-reducing group is:",
+   "opts": [
+    "ACE inhibitors/ARBs",
+    "CCBs",
+    "Nitrates",
+    "Ivabradine"
+   ],
+   "ans": 0,
+   "exp": "The mortality column lists ACE inhibitors/ARBs. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-037",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Ivabradine is described as an:",
+   "opts": [
+    "AHA bradycardiac drug",
+    "AHA tachycardiac drug",
+    "Inotrope",
+    "Diuretic"
+   ],
+   "ans": 0,
+   "exp": "The heading line calls ivabradine an AHA bradycardiac drug. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-038",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Ivabradine blocks which channels?",
+   "opts": [
+    "Funny (Na+/K+) channels",
+    "L-type Ca2+ channels",
+    "Delayed rectifier K+ channels",
+    "Late inward Na+ channels"
+   ],
+   "ans": 0,
+   "exp": "The MOA line says blocks funny (Na+/K+) channels. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-039",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "The current carried by the funny channels is abbreviated as:",
+   "opts": [
+    "If",
+    "Ih only",
+    "IK",
+    "ICa"
+   ],
+   "ans": 0,
+   "exp": "The MOA says funny channels (If current). (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-040",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Blockade by ivabradine occurs at the:",
+   "opts": [
+    "SA node",
+    "AV node",
+    "Purkinje fibres",
+    "Ventricular myocardium"
+   ],
+   "ans": 0,
+   "exp": "The MOA arrow says block SA node. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-041",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "The result of SA nodal blockade by ivabradine is:",
+   "opts": [
+    "Decreased heart rate",
+    "Increased heart rate",
+    "Decreased contractility",
+    "Increased contractility"
+   ],
+   "ans": 0,
+   "exp": "The first outcome is down heart rate. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-042",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Along with lowered heart rate, ivabradine preserves:",
+   "opts": [
+    "Normal contraction",
+    "Increased contractility",
+    "Decreased preload",
+    "AV block"
+   ],
+   "ans": 0,
+   "exp": "The second outcome is normal contraction. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-043",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "The FDA-approved use of ivabradine is:",
+   "opts": [
+    "Chronic CHF",
+    "Stable angina",
+    "POTS",
+    "Inappropriate sinus tachycardia"
+   ],
+   "ans": 0,
+   "exp": "The FDA approved line says chronic CHF. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-044",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Which of the following is an off-label use of ivabradine?",
+   "opts": [
+    "Stable angina",
+    "Chronic CHF",
+    "Hypertension",
+    "Atrial fibrillation"
+   ],
+   "ans": 0,
+   "exp": "Stable angina is listed under off-label uses. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-045",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Ivabradine is used off-label in inappropriate sinus tachycardia and:",
+   "opts": [
+    "Postural tachycardia syndrome (POTS)",
+    "Atrial flutter",
+    "WPW syndrome",
+    "Ventricular fibrillation"
+   ],
+   "ans": 0,
+   "exp": "The off-label list includes postural tachycardia syndrome (POTS). (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-046",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Ivabradine increases the risk of:",
+   "opts": [
+    "Atrial fibrillation",
+    "Ventricular fibrillation",
+    "Asystole",
+    "Heart block"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says up R/o atrial fibrillation. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-047",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "The increased atrial fibrillation risk with ivabradine is due to increased action of the:",
+   "opts": [
+    "Functional circuit",
+    "Accessory pathway",
+    "AV node",
+    "Purkinje system"
+   ],
+   "ans": 0,
+   "exp": "The S/E annotation says d/t up action of functional circuit. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-048",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Visual phenomena with ivabradine occur due to If channel block in the:",
+   "opts": [
+    "Retina",
+    "Cornea",
+    "Optic nerve",
+    "Ciliary body"
+   ],
+   "ans": 0,
+   "exp": "The S/E annotation says d/t If channel block in retina. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-049",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Luminous phenomena with ivabradine are described as:",
+   "opts": [
+    "Multiple coloured halos in the visual field",
+    "Complete blindness",
+    "Double vision",
+    "Loss of colour vision"
+   ],
+   "ans": 0,
+   "exp": "The luminous phenomena bullet describes multiple coloured halos in the visual field. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-050",
+   "sec": "Ivabradine",
+   "page": 92,
+   "q": "Phosphenes are described as:",
+   "opts": [
+    "Images of light perceived with closed eyes",
+    "Flashes only on eye movement",
+    "Halos around lights",
+    "Blurring of near vision"
+   ],
+   "ans": 0,
+   "exp": "The phosphenes bullet defines images of light perceived with closed eyes. (Book p92)"
+  },
+  {
+   "id": "PHARM-C24-051",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "At normal dose, ranolazine blocks:",
+   "opts": [
+    "Late inward Na+ (LINA+) channels",
+    "Funny channels",
+    "L-type Ca2+ channels",
+    "ATP-sensitive K+ channels"
+   ],
+   "ans": 0,
+   "exp": "The normal dose MOA line says blocks late inward Na+ (LINA+) channels. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-052",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "At high dose, ranolazine blocks the:",
+   "opts": [
+    "Delayed rectifier K+ channel",
+    "Rapidly activating K+ channel only",
+    "Na+/K+ ATPase",
+    "If channel"
+   ],
+   "ans": 0,
+   "exp": "The high dose MOA line says blocks delayed rectifier K+ channel. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-053",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Blockade of the delayed rectifier K+ channel by ranolazine blocks:",
+   "opts": [
+    "Repolarization",
+    "Depolarization",
+    "Conduction",
+    "Automaticity only"
+   ],
+   "ans": 0,
+   "exp": "The high dose line ends: blocks repolarization. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-054",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "In the ranolazine diagram, blockade of LINA+ channels leads to decreased:",
+   "opts": [
+    "Intracellular Na+",
+    "Intracellular Ca2+ immediately",
+    "Heart rate",
+    "Blood pressure"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows down Na+ inside the cell as the first step. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-055",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "The fall in intracellular Na+ reduces the activity of the:",
+   "opts": [
+    "Na+/Ca2+ exchanger",
+    "Na+/K+ ATPase",
+    "Na+/H+ antiporter",
+    "Na+-glucose cotransporter"
+   ],
+   "ans": 0,
+   "exp": "The diagram points from down Na+ to the Na+/Ca2+ exchanger. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-056",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Reduced Na+/Ca2+ exchanger activity lowers:",
+   "opts": [
+    "Intracellular Ca2+ in myocardium",
+    "Intracellular Na+",
+    "Extracellular Ca2+",
+    "Sarcoplasmic Ca2+ release only"
+   ],
+   "ans": 0,
+   "exp": "The next step is down intracellular Ca2+ in myocardium. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-057",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "The final hemodynamic consequence of the ranolazine cascade is decreased:",
+   "opts": [
+    "O2 demand",
+    "O2 supply",
+    "Blood pressure",
+    "Heart rate"
+   ],
+   "ans": 0,
+   "exp": "The cascade ends at down O2 demand. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-058",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "In a normal person, ranolazine maintains normal:",
+   "opts": [
+    "BP and HR",
+    "BP only",
+    "HR only",
+    "Cardiac output only"
+   ],
+   "ans": 0,
+   "exp": "The annotation says maintains normal BP and HR (in a normal person). (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-059",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "The FDA-approved use of ranolazine is:",
+   "opts": [
+    "Stable angina",
+    "Chronic CHF",
+    "Hypertension",
+    "Arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "The FDA approved line says stable angina. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-060",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Ranolazine is used off-label in hypertrophic obstructive cardiomyopathy and:",
+   "opts": [
+    "Ventricular tachycardia",
+    "Atrial fibrillation",
+    "Complete heart block",
+    "Sinus bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The off-label list gives HOCM and ventricular tachycardia. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-061",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "In ventricular tachycardia, ranolazine acts by decreasing Ca2+ in ventricle cells, thereby decreasing:",
+   "opts": [
+    "Excitability",
+    "Conduction velocity",
+    "Refractory period",
+    "Contractility only"
+   ],
+   "ans": 0,
+   "exp": "The off-label annotation reads down Ca2+ in ventricle cells, then down excitability. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-062",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Decreased ventricular excitability with ranolazine leads to decreased:",
+   "opts": [
+    "Heart rate",
+    "Blood pressure",
+    "Stroke volume",
+    "Preload"
+   ],
+   "ans": 0,
+   "exp": "The annotation chain ends at down HR. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-063",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Unlike ivabradine, ranolazine decreases the risk of:",
+   "opts": [
+    "Atrial fibrillation",
+    "Ventricular tachycardia",
+    "Heart failure",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says down risk of atrial fibrillation. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-064",
+   "sec": "Ranolazine",
+   "page": 93,
+   "q": "Ranolazine decreases HbA1C, which indicates it reverses:",
+   "opts": [
+    "Insulin resistance",
+    "Insulin secretion",
+    "Glucagon action",
+    "Renal glucose loss"
+   ],
+   "ans": 0,
+   "exp": "The S/E line says down HbA1C (reverses insulin resistance). (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-065",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Nicorandil acts as a:",
+   "opts": [
+    "K+ channel opener",
+    "K+ channel blocker",
+    "Rho-kinase inhibitor",
+    "Na+ channel blocker"
+   ],
+   "ans": 0,
+   "exp": "The nicorandil line says K+ channel opener. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-066",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "The vascular effect of nicorandil is:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "No vascular effect",
+    "Selective venoconstriction"
+   ],
+   "ans": 0,
+   "exp": "The nicorandil line ends with vasodilation. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-067",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Fasudil acts as a:",
+   "opts": [
+    "Rho-kinase inhibitor",
+    "K+ channel opener",
+    "pFox inhibitor",
+    "Endothelin antagonist"
+   ],
+   "ans": 0,
+   "exp": "The fasudil line says Rho-kinase inhibitor. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-068",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "The vascular effect of fasudil is:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Increased cardiac output",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The fasudil line ends with vasodilation. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-069",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Allopurinol is noted in the antianginal page for:",
+   "opts": [
+    "Vasodilatation, and is used in gout",
+    "Coronary spasm",
+    "Platelet inhibition",
+    "Cholesterol lowering"
+   ],
+   "ans": 0,
+   "exp": "The allopurinol line says d/t vasodilatation (used in Rx of gout). (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-070",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Bosentan is used in:",
+   "opts": [
+    "Pulmonary hypertension",
+    "Systemic hypertension",
+    "HOCM",
+    "Heart failure"
+   ],
+   "ans": 0,
+   "exp": "The bosentan line says in pulmonary hypertension. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-071",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Trimetazidine blocks:",
+   "opts": [
+    "pFox (partial fatty acid oxidase)",
+    "HMG-CoA reductase",
+    "Rho kinase",
+    "K+ channels"
+   ],
+   "ans": 0,
+   "exp": "The trimetazidine line says blocks pFox (partial fatty acid oxidase). (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-072",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Blocking pFox inhibits metabolism of triglycerides, which are the:",
+   "opts": [
+    "Source of ATP in heart",
+    "Source of glucose in heart",
+    "Cause of angina",
+    "Cause of spasm"
+   ],
+   "ans": 0,
+   "exp": "The parenthesis says TG: source of ATP in heart. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-073",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "Along with inhibiting TG metabolism, trimetazidine promotes:",
+   "opts": [
+    "Glycolysis in heart",
+    "Lipolysis in heart",
+    "Gluconeogenesis",
+    "Ketogenesis"
+   ],
+   "ans": 0,
+   "exp": "The arrow says promotes glycolysis in heart. (Book p93)"
+  },
+  {
+   "id": "PHARM-C24-074",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "page": 93,
+   "q": "The net effect of trimetazidine on the heart is:",
+   "opts": [
+    "Decreased O2 demand",
+    "Increased O2 demand",
+    "Increased heart rate",
+    "Increased contractility"
+   ],
+   "ans": 0,
+   "exp": "The trimetazidine chain ends at down O2 demand. (Book p93)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U24-1",
+   "ch": 24,
+   "n": 1,
+   "title": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal)",
+   "sec": "Etiopathogenesis of Angina: Stable versus Variant (Prinzmetal) · p91",
+   "qs": [
+    "PHARM-C24-001",
+    "PHARM-C24-002",
+    "PHARM-C24-003",
+    "PHARM-C24-004",
+    "PHARM-C24-005",
+    "PHARM-C24-006",
+    "PHARM-C24-007",
+    "PHARM-C24-008",
+    "PHARM-C24-009",
+    "PHARM-C24-010"
+   ],
+   "guide": "Stable angina begins with a coronary atherosclerotic plaque that gradually reduces blood supply to the myocardium, so O2 supply falls; physical exertion then raises O2 demand and the imbalance produces the acute attack of ischemic pain. Variant (Prinzmetal) angina has no plaque-dependent supply problem in its core diagram: the coronary artery undergoes acute vasoconstriction (spasm) which acutely drops O2 supply to the myocardium and causes the ischemic pain."
+  },
+  {
+   "id": "PHARM-U24-2",
+   "ch": 24,
+   "n": 2,
+   "title": "Management of Angina: Acute Attack and Long-term Prophylaxis",
+   "sec": "Management of Angina: Acute Attack and Long-term Prophylaxis · p91",
+   "qs": [
+    "PHARM-C24-011",
+    "PHARM-C24-012",
+    "PHARM-C24-013",
+    "PHARM-C24-014",
+    "PHARM-C24-015",
+    "PHARM-C24-016",
+    "PHARM-C24-017",
+    "PHARM-C24-018",
+    "PHARM-C24-019",
+    "PHARM-C24-020",
+    "PHARM-C24-021",
+    "PHARM-C24-022",
+    "PHARM-C24-023"
+   ],
+   "guide": "The acute attack of angina is treated with sublingual nitroglycerine as the drug of choice. Its mechanism differs by type: in stable angina it lowers preload on the heart, thereby lowering myocardial O2 demand, whereas in variant angina it acts by coronary vasodilation. For long-term prophylaxis of variant angina, a calcium channel blocker (amlodipine) is the drug of choice because it is long-acting and causes less reflex tachycardia; long-acting nitrates, which act as vasodilators, include oral/sustained-release/patch/gel nitroglycerin, isosorbide dinitrate and isosorbide mononitrate."
+  },
+  {
+   "id": "PHARM-U24-3",
+   "ch": 24,
+   "n": 3,
+   "title": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality)",
+   "sec": "Stable Angina: Aims of Therapy (Number of Attacks versus Mortality) · p92",
+   "qs": [
+    "PHARM-C24-024",
+    "PHARM-C24-025",
+    "PHARM-C24-026",
+    "PHARM-C24-027",
+    "PHARM-C24-028",
+    "PHARM-C24-029",
+    "PHARM-C24-030",
+    "PHARM-C24-031",
+    "PHARM-C24-032",
+    "PHARM-C24-033",
+    "PHARM-C24-034",
+    "PHARM-C24-035",
+    "PHARM-C24-036"
+   ],
+   "guide": "Stable angina therapy has two aims. The first is to reduce the number of attacks using calcium channel blockers, long-acting nitrates, beta blockers (best, as negative inotropes), ivabradine, ranolazine, nicorandil, fasudil, trimetazidine, allopurinol and the endothelin antagonist bosentan. The second aim is to reduce mortality due to atherosclerotic cardiovascular disease with statins, aspirin (an anti-aggregant) and ACE inhibitors/ARBs."
+  },
+  {
+   "id": "PHARM-U24-4",
+   "ch": 24,
+   "n": 4,
+   "title": "Ivabradine",
+   "sec": "Ivabradine · p92",
+   "qs": [
+    "PHARM-C24-037",
+    "PHARM-C24-038",
+    "PHARM-C24-039",
+    "PHARM-C24-040",
+    "PHARM-C24-041",
+    "PHARM-C24-042",
+    "PHARM-C24-043",
+    "PHARM-C24-044",
+    "PHARM-C24-045",
+    "PHARM-C24-046",
+    "PHARM-C24-047",
+    "PHARM-C24-048",
+    "PHARM-C24-049",
+    "PHARM-C24-050"
+   ],
+   "guide": "Ivabradine is described as an AHA bradycardiac drug: it blocks the funny (Na+/K+) channels carrying the If current, blocking the SA node to lower heart rate while contraction remains normal. FDA approved for chronic CHF, it is used off-label for stable angina, inappropriate sinus tachycardia and postural tachycardia syndrome. Adverse effects are a higher risk of atrial fibrillation (from increased action of the functional circuit) and visual phenomena from If channel block in the retina - luminous phenomena (multiple coloured halos) and phosphenes (images of light perceived with closed eyes)."
+  },
+  {
+   "id": "PHARM-U24-5",
+   "ch": 24,
+   "n": 5,
+   "title": "Ranolazine",
+   "sec": "Ranolazine · p93",
+   "qs": [
+    "PHARM-C24-051",
+    "PHARM-C24-052",
+    "PHARM-C24-053",
+    "PHARM-C24-054",
+    "PHARM-C24-055",
+    "PHARM-C24-056",
+    "PHARM-C24-057",
+    "PHARM-C24-058",
+    "PHARM-C24-059",
+    "PHARM-C24-060",
+    "PHARM-C24-061",
+    "PHARM-C24-062",
+    "PHARM-C24-063",
+    "PHARM-C24-064"
+   ],
+   "guide": "Ranolazine at normal dose blocks late inward sodium (LINA+) channels; at high dose it also blocks the delayed rectifier K+ channel, thereby blocking repolarization. Blocking late inward Na+ reduces intracellular Na+, which reduces Na+/Ca2+ exchanger activity, lowers intracellular Ca2+ in the myocardium and so lowers O2 demand, while BP and heart rate stay normal in a normal person. FDA approved for stable angina, it is used off-label in HOCM and ventricular tachycardia, and its notable effects are a reduced risk of atrial fibrillation and a fall in HbA1c that reverses insulin resistance."
+  },
+  {
+   "id": "PHARM-U24-6",
+   "ch": 24,
+   "n": 6,
+   "title": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine",
+   "sec": "Other Antianginal Drugs: Nicorandil, Fasudil, Allopurinol, Bosentan and Trimetazidine · p93",
+   "qs": [
+    "PHARM-C24-065",
+    "PHARM-C24-066",
+    "PHARM-C24-067",
+    "PHARM-C24-068",
+    "PHARM-C24-069",
+    "PHARM-C24-070",
+    "PHARM-C24-071",
+    "PHARM-C24-072",
+    "PHARM-C24-073",
+    "PHARM-C24-074"
+   ],
+   "guide": "The remaining antianginals act on distinct targets: nicorandil opens K+ channels and causes vasodilation; fasudil is a Rho-kinase inhibitor that causes vasodilation; allopurinol produces vasodilatation and is also used in gout; bosentan is used in pulmonary hypertension; and trimetazidine blocks partial fatty acid oxidase (pFox), inhibiting metabolism of triglycerides (the main source of ATP in the heart) while promoting glycolysis in the heart, so O2 demand falls."
+  }
+ ]
+}

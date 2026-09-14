@@ -35,13 +35,15 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 11: 33-36 DONE (86 qs, 7 units) |
 ### Autonomic Nervous System
 12: 37-41 DONE (99 qs, 9 units) | 13: 42-47 DONE (126 qs, 7 units) | 14: 48-51 DONE (99 qs, 5 units) | 15: 52-55 DONE (99 qs, 4 units) | 16: 56-57 DONE (86 qs, 6 units) | 17: 58-62 DONE (127 qs, 6 units) | 18: 63-68 DONE (129 qs, 9 units)
-### Cardiovascular System
+### Cardiovascular System  (COMPLETE)
 19: 69-73 DONE (112 qs, 7 units) | 20: 74-76 DONE (75 qs, 6 units) | 21: 77-82 DONE (130 qs, 8 units) |
-22: 83-88 DONE (136 qs, 7 units) | 23: 89-90 | 24: 91-93 | 25: 94-100
-### Renal System
-26: 101-105 | 27: 106-112
+22: 83-88 DONE (136 qs, 7 units) | 23: 89-90 DONE (70 qs, 4 units) | 24: 91-93 DONE (74 qs, 6 units) |
+25: 94-100 DONE (180 qs, 10 units)
+### Renal System  (COMPLETE)
+26: 101-105 DONE (119 qs, 8 units) | 27: 106-112 DONE (162 qs, 11 units)
 ### Central and Peripheral Nervous System
-28: 113-117 | 29: 118-119 | 30: 120-122 | 31: 123-126 | 32: 127-130 | 33: 131-133 |
+28: 113-117 DONE (118 qs, 10 units) | 29: 118-119 DONE (38 qs, 2 units) | 30: 120-122 DONE (73 qs, 6 units) |
+31: 123-126 | 32: 127-130 | 33: 131-133 |
 34: 134-140 | 35: 141-144 | 36: 145-149 | 37: 150-152
 ### Antimicrobials
 38: 153-154 | 39: 155-158 | 40: 159-163 | 41: 164-166 | 42: 167-170 | 43: 171-173 |
@@ -208,12 +210,69 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   (vasodilator classification, calcium channel blocker comparison/adverse effects/uses, hydralazine, minoxidil,
   diazoxide and fenoldopam, nitroglycerin mechanism/uses/tolerance/contraindications, isosorbide nitrates,
   sodium nitroprusside, RAAS physiology, ACE inhibition, contraindications, ACE inhibitors, ARBs, aliskiren and captopril test).
-- **TOTAL LIVE NOW: 2118 questions, 170 units, chapters 1-22.** General Pharmacology and Autonomic Nervous System are COMPLETE; Cardiovascular System chapters 19-22 are live.
+- DONE (session 7, this session): **ch23 "Antihypertensive Drugs"** (p89-90) - 70 qs, 4 units
+  (classification by Rx preference with 1st/2nd line lists; age table young <55 hyperreninemic vs old >55
+  hyporeninemic with A/B/C/D drug letters; clinical approach stepping A -> A+C -> A+C+D -> resistant HTN
+  + spironolactone; comorbidity flowchart DM/CKD/nephrotic/scleroderma, BPH, Raynaud, cyclosporine HTN,
+  migraine; severe HTN >=220/135 with end-organ damage -> emergency IV drugs vs urgency oral drugs,
+  labetalol DOC pregnancy, nicardipine DOC, clonidine DOC oral).
+- DONE (session 7): **ch24 "Antianginal Drugs"** (p91-93) - 74 qs, 6 units
+  (stable vs variant Prinzmetal angina pathogenesis; acute attack S/L NTG and its type-specific MOA;
+  variant prophylaxis CCB DOC amlodipine + long-acting nitrates; stable angina two aims - attacks vs
+  mortality; ivabradine funny channels/If, uses and visual phenomena; ranolazine LINA+/delayed rectifier
+  K+, HbA1c; nicorandil, fasudil, allopurinol, bosentan, trimetazidine pFox).
+- DONE (session 7): **ch25 "Hypolipidemic Drugs"** (p94-100) - 180 qs, 10 units
+  (full lipid physiology diagram - NPC1L1/ACAT/HSL/MTTP/LPL/AngPTL3 and every drug arrow; cholesterol
+  synthesis cascade + LDL receptor upregulation; PCSK9 and inclisiran/evolocumab/alirocumab; evinacumab,
+  lomitapide, FHC; niacin including PG-mediated flushing and aspirin; fibrates PPAR-alpha, gall stones,
+  uric acid; LDL drug flowchart; bile acid binding resins incl. the pregnancy exception and the
+  70/60/50/15-25% ranking; statins MOA and pleiotropic effects; statin PK - OATP1B1, CYP3A4 exceptions,
+  pravastatin, potency/T1/2/ceiling; statin side effects, C/I and the ASCVD risk/dose algorithm;
+  hypertriglyceridemia and FHC treatment flowcharts).
+- DONE (session 7): **ch26 "Diuretics: Part 1"** (p101-105) - 119 qs, 8 units
+  (definition and uses; CA inhibitors - site, drug list, PCT/TAL/CD physiology, MOA, all 8 effects incl.
+  metabolic acidosis uses, alkaline urine stones, catamenial epilepsy, hyperammonemia C/I cirrhosis,
+  aqueous/CSF effects, sulfonamide effects and weak CA inhibition of loops/thiazides; loop diuretics -
+  drugs incl. ethacrynic acid, TAL physiology with Ca/Mg compensation, MOA 25% filtered load and
+  compensatory uric acid/glucose/SNS/lipolysis, collecting duct H+/K+ effects, LOOP uses, DOC pulmonary
+  edema, and ear/ototoxicity rules).
+- DONE (session 7): **ch27 "Diuretics: Part 2"** (p106-112) - 162 qs, 11 units
+  (thiazides - metabolism-based drug list with chlorthalidone/metolazone specifics, MOA with Ca
+  reabsorption and vasodilation, effects/uses/erectile dysfunction, loop-like side-effect table;
+  K+ sparing - ENaC vs aldosterone blockers, MOA, spironolactone/eplerenone/finrenone, amiloride DOC
+  list incl. Li-induced DI and the thiazide-in-DI note, triamterene; mannitol incl. TURP irrigation,
+  electrolyte table and C/I; free water clearance and the diuretic effect table; vasopressin analogues
+  and antagonists with SIADH management; the full diuretics summary table).
+- DONE (session 7): **ch28 "Antiepileptic Drugs: Part 1"** (p113-117) - 118 qs, 10 units
+  (epilepsy types; GTCS and m.s. mechanisms and features; absence typical vs atypical with 3 Hz spike;
+  partial seizure SOL pathway; LGS and Dravet syndrome treatment mnemonics and duration rules; drug
+  classification; valproate Tab VALPROIC with L-carnitine; phenytoin HYDANTOIN and fosphenytoin;
+  carbamazepine incl. Rolandic epilepsy and SJS; lamotrigine and topiramate; oxcarbazepine,
+  zonisamide, lacosamide, rufinamide; SJS/HLA associations).
+- DONE (session 7): **ch29 "Antiepileptic Drugs: Part 2"** (p118-119) - 38 qs, 2 units
+  (ezogabine/retigabine, AMPA/NMDA blockers, cannabidiol, SV2A modulators levetiracetam and
+  brivaracetam with the pregnancy hierarchy; GABA synapse sketch with pregabalin/gabapentin,
+  tiagabine, vigabatrin, GBS mnemonic, baclofen and JME polytherapy note).
+- DONE (session 7): **ch30 "Sedative-Hypnotic Drugs"** (p120-122) - 73 qs, 6 units
+  (classification and definitions; GABA-A receptor mechanism with bicuculline, alpha subunits, Z-drugs,
+  barbiturates vs benzodiazepines, phenobarbitone DOC list, inverse agonist/antagonist/full agonist;
+  benzodiazepine metabolism groups with remimazolam, longest/shortest acting lists and LETO; DORA;
+  melatonin agonists incl. ramelteon/agomelatonin/tasimelteon and the sedation ranking; insomnia
+  treatment algorithm).
+- **TOTAL LIVE NOW: 2952 questions, 227 units, chapters 1-30.** General Pharmacology, Autonomic Nervous System, Cardiovascular System and Renal System are COMPLETE; Central/Peripheral Nervous System chapters 28-30 are live.
 - SESSION 4 NOTES: work/fixranges.py (auto-syncs unit [a,b] ranges from the q() order) and
   work/fixexp.py (forces exp to end "(Book p<page>)") were added to make the per-chapter pipeline
   less error-prone; run both before work/validate.py.
-- NEXT: **ch23 "Antihypertensive Drugs"** (book p89-90 = pdf p94-95), then ch24 (91-93) ...
-  (Continue Cardiovascular System).
+- SESSION 7 NOTES: `work/gen_ch23_30.py` is the generator for chapters 23-30 (same helper pattern as
+  gen_ch18_22.py: start/unit/q/end_unit/finish, one `finish()` per chapter). `work/crop.py` is a new
+  helper that renders a magnified CROP of any book page:
+  `python3 work/crop.py <book_page> <x0%> <y0%> <x1%> <y1%> [dpi]` -> work/pages/crop.png
+  (used to verify the FWC table, lipid index and loop-diuretic effect lists at 260-320 dpi).
+  Renders for this batch: `python3 work/render.py 89 122 140` (34 PNGs, 1157x1636 — fully legible).
+  Note: some scanned spreads are physically swapped in the PDF (e.g. book p92/p93, p106-p109 return in
+  a shuffled read order); the printed page number in the image is authoritative — always trust it.
+- NEXT: **ch31 "Opioids: Part 1"** (book p123-126 = pdf p128-131), then ch32 Opioids: Part 2 (127-130),
+  ch33 (131-133) ... (Continue Central and Peripheral Nervous System).
 
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
