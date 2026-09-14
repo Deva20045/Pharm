@@ -1,0 +1,1561 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C9-001",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "The label warning 'Caution: It is dangerous to take this preparation except under medical supervision' is displayed for:",
+   "opts": [
+    "Schedule G",
+    "Schedule H",
+    "Schedule H1",
+    "Schedule X"
+   ],
+   "ans": 0,
+   "exp": "The Schedule G row of the drug schedule table carries exactly this caution statement in the label display column. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-002",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Which drugs are listed under Schedule G?",
+   "opts": [
+    "Majority drugs such as antihypertensives and antidiabetics",
+    "Narcotic drugs only",
+    "Antibiotics only",
+    "Drugs marketed under generic names only"
+   ],
+   "ans": 0,
+   "exp": "The drug details column for schedule G reads 'majority drugs (Antihypertensive, Antidiabetics, etc.)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-003",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "The warning 'To be sold by retail on the prescription of a registered medical practitioner only' applies to:",
+   "opts": [
+    "Schedule H",
+    "Schedule G",
+    "Schedule P",
+    "Schedule Y"
+   ],
+   "ans": 0,
+   "exp": "This warning is written in the label display cell of schedule H. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-004",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "A Schedule H drug with Rx written in black:",
+   "opts": [
+    "Can be reissued with the same prescription",
+    "Can be sold without prescription",
+    "Needs a fresh prescription every time",
+    "Requires a special licence for sale"
+   ],
+   "ans": 0,
+   "exp": "The table states for Rx (in black): 'drugs can be reissued with same prescription'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-005",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "A Schedule H drug with NRx written in red:",
+   "opts": [
+    "Is issued only once with a recent prescription",
+    "Can be reissued with the same prescription",
+    "Requires no prescription",
+    "Is a schedule Y drug"
+   ],
+   "ans": 0,
+   "exp": "The NRx (in red) row states 'issue drug only once with recent prescription (to avoid abuse potential)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-006",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Which of these are examples of Schedule H NRx (red) drugs?",
+   "opts": [
+    "Codeine and benzodiazepines",
+    "Amphetamine and ketamine",
+    "Antihypertensives and antidiabetics",
+    "Thalidomide only"
+   ],
+   "ans": 0,
+   "exp": "The drug details for NRx (in red) list narcotic drugs, e.g. codeine, benzodiazepines. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-007",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Why is an NRx (red) schedule H drug issued only once against a recent prescription?",
+   "opts": [
+    "To avoid abuse potential",
+    "To prevent resistance",
+    "To reduce cost",
+    "To avoid expiry"
+   ],
+   "ans": 0,
+   "exp": "The parenthetical note in the NRx row reads '(To avoid abuse potential)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-008",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Antibiotics are placed in which schedule to prevent resistance?",
+   "opts": [
+    "Schedule H1",
+    "Schedule H",
+    "Schedule G",
+    "Schedule X"
+   ],
+   "ans": 0,
+   "exp": "The schedule H1 row reads 'Antibiotics to prevent resistance d/t unauthorized sale'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-009",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Schedule H1 was introduced in the year:",
+   "opts": [
+    "2013",
+    "2003",
+    "1993",
+    "2020"
+   ],
+   "ans": 0,
+   "exp": "The schedule H1 cell notes '(introduced in 2013)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-010",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Schedule H1 drugs must display:",
+   "opts": [
+    "Rx (in red)",
+    "NRx (in red)",
+    "XRx (in red)",
+    "No special label"
+   ],
+   "ans": 0,
+   "exp": "The label display for schedule H1 is Rx (in red). (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-011",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Narcotic and psychotropic drugs such as amphetamine, methylphenidate, ketamine and pentobarbital belong to:",
+   "opts": [
+    "Schedule X",
+    "Schedule H1",
+    "Schedule G",
+    "Schedule P"
+   ],
+   "ans": 0,
+   "exp": "The schedule X drug details list narcotic and psychotropic drugs with exactly these examples. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-012",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Which label is displayed for Schedule X drugs?",
+   "opts": [
+    "XRx (in red)",
+    "Rx (in red)",
+    "NRx (in red)",
+    "A caution statement"
+   ],
+   "ans": 0,
+   "exp": "The schedule X label display column shows XRx (in red). (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-013",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Schedule X drugs require special licence because:",
+   "opts": [
+    "The sale and manufacture is for drugs with high abuse potential",
+    "They are very expensive",
+    "They are antibiotics",
+    "They expire quickly"
+   ],
+   "ans": 0,
+   "exp": "The bullet under schedule X reads 'Require special license for manufacture and sale d/t high abuse potential'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-014",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "For Schedule X drugs, the retailer should maintain the register and prescription copy for a minimum of:",
+   "opts": [
+    "2 years",
+    "6 months",
+    "5 years",
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "The schedule X bullet states the retailer should maintain register and prescription copy for a minimum 2 years. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-015",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Schedule P deals with:",
+   "opts": [
+    "The expiry period of the drug",
+    "Clinical trials and import of new drugs",
+    "Drugs marketed under generic names only",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "The schedule P row reads 'About expiry period of drug'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-016",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Drugs marketed under generic names only fall under:",
+   "opts": [
+    "Schedule W",
+    "Schedule P",
+    "Schedule Y",
+    "Schedule H1"
+   ],
+   "ans": 0,
+   "exp": "The schedule W row states 'Drugs marketed under generic names only'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-017",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "Guidelines on clinical trials, import and manufacture of new drugs are given in:",
+   "opts": [
+    "Schedule Y",
+    "Schedule X",
+    "Schedule G",
+    "Schedule P"
+   ],
+   "ans": 0,
+   "exp": "The schedule Y row reads 'Guideline on clinical trials, import and manufacture of new drugs'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-018",
+   "sec": "Drug Schedules in India",
+   "page": 25,
+   "q": "For which three schedules is the label display column left blank (a dash)?",
+   "opts": [
+    "Schedule P, W and Y",
+    "Schedule G, H and X",
+    "Schedule H1, X and Y",
+    "Schedule G, P and Y"
+   ],
+   "ans": 0,
+   "exp": "In the table the label display cells of schedule P, W and Y each carry only a dash. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-019",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "The pregnancy drug categories are based on:",
+   "opts": [
+    "Safety : A > B > C",
+    "Efficacy : A > B > C",
+    "Cost : A > B > C",
+    "Half-life : A > B > C"
+   ],
+   "ans": 0,
+   "exp": "Under 'Pregnancy Drug Categories' the note reads 'Based on Safety : A > B > C'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-020",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "In an animal study, absence of risk plus maximum safety in humans corresponds to category:",
+   "opts": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "Category A has 'Absent to fetus' in human studies with maximum safety in the significance column. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-021",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Human studies are lacking but animal studies show the drug is safe (absent risk) in category:",
+   "opts": [
+    "B",
+    "A",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "Category B : human study lacking, animal studies absent (of risk) - 'safely prescribed'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-022",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Positive teratogenic effect in animals with human data not available corresponds to category:",
+   "opts": [
+    "C",
+    "B",
+    "D",
+    "X"
+   ],
+   "ans": 0,
+   "exp": "Category C shows 'Not available' for human studies and 'Positive Teratogenic' for animal studies. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-023",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Which categories show positive teratogenicity in human studies?",
+   "opts": [
+    "D and X",
+    "A and B",
+    "B and C",
+    "C only"
+   ],
+   "ans": 0,
+   "exp": "The human studies column reads 'Positive Teratogenic' for both category D and category X. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-024",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Category D drugs are used when:",
+   "opts": [
+    "The benefit is greater than the risk (e.g. valproate in JME)",
+    "There is maximum safety (e.g. vitamins)",
+    "They can never be used in pregnancy",
+    "Animal studies are absent"
+   ],
+   "ans": 0,
+   "exp": "The significance column for D reads 'used if benefit > Risk (e.g. valproate in JME)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-025",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Category X drugs are:",
+   "opts": [
+    "Absolutely contraindicated (e.g. thalidomide)",
+    "Used if benefit exceeds risk",
+    "Safely prescribed in pregnancy",
+    "Reserved for labour"
+   ],
+   "ans": 0,
+   "exp": "The significance column for X reads 'Absolute C/I (e.g. Thalidomide)'. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-026",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Which drug is the example given for category X?",
+   "opts": [
+    "Thalidomide",
+    "Valproate",
+    "Phenytoin",
+    "Warfarin"
+   ],
+   "ans": 0,
+   "exp": "Thalidomide is the example quoted for absolute contraindication in category X. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-027",
+   "sec": "Pregnancy Drug Categories",
+   "page": 25,
+   "q": "Valproate used in juvenile myoclonic epilepsy is quoted as an example for category:",
+   "opts": [
+    "D",
+    "C",
+    "X",
+    "B"
+   ],
+   "ans": 0,
+   "exp": "Category D's example of benefit exceeding risk is valproate in JME. (Book p25)"
+  },
+  {
+   "id": "PHARM-C9-028",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "A prescription/legend drug is:",
+   "opts": [
+    "A Schedule H drug",
+    "A drug other than schedule G, H and X",
+    "A drug for rare diseases",
+    "A drug with a false label"
+   ],
+   "ans": 0,
+   "exp": "Type 1 in the list reads 'Prescription/Legend drug : schedule H drug'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-029",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "Over the counter (OTC) drugs are defined as:",
+   "opts": [
+    "Drugs other than Schedule G, H and X",
+    "Only schedule H drugs",
+    "Drugs for rare diseases",
+    "Drugs of abuse"
+   ],
+   "ans": 0,
+   "exp": "Type 2 defines OTC drugs as drugs other than schedule G, H, X. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-030",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "Orphan drugs are:",
+   "opts": [
+    "Drugs for rare diseases with low availability",
+    "Drugs of abuse",
+    "Drugs manufactured under another drug's name",
+    "Drugs with unwanted substances"
+   ],
+   "ans": 0,
+   "exp": "Type 3 defines orphan drugs as drugs for rare diseases, with a downward arrow for availability. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-031",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "Cocaine, heroin and methamphetamine are examples of:",
+   "opts": [
+    "Street/illicit drugs of abuse",
+    "Orphan drugs",
+    "Spurious drugs",
+    "Prototype drugs"
+   ],
+   "ans": 0,
+   "exp": "Type 4, 'Street/illicit drug', gives cocaine, heroin and methamphetamine as drugs of abuse. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-032",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "A spurious drug is one which is:",
+   "opts": [
+    "Manufactured under a name belonging to another drug (imitation), or does not solve the intended purpose",
+    "Sold only on prescription",
+    "Given a false label while containing the correct drug",
+    "Marketed under a generic name"
+   ],
+   "ans": 0,
+   "exp": "The two bullets under spurious drug describe an imitation of another drug's name and a product that does not solve the intended purpose (e.g. wrong dosage). (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-033",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "A drug carrying false information on its label is a:",
+   "opts": [
+    "Misbranded drug",
+    "Spurious drug",
+    "Adulterated drug",
+    "Prototype drug"
+   ],
+   "ans": 0,
+   "exp": "Type 6 defines a misbranded drug as a drug with false information on the label. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-034",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "An adulterated drug is one that:",
+   "opts": [
+    "Contains an unwanted substance",
+    "Has false label information",
+    "Is imported illegally",
+    "Is used for rare diseases"
+   ],
+   "ans": 0,
+   "exp": "Type 7 defines an adulterated drug as a drug with an unwanted substance in it. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-035",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "The prototype drug of the opioids is:",
+   "opts": [
+    "Morphine",
+    "Codeine",
+    "Pethidine",
+    "Fentanyl"
+   ],
+   "ans": 0,
+   "exp": "Type 8 defines a prototype drug as the parental/most commonly used drug of a group, and gives morphine for all opioids as the example. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-036",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "A prototype drug is defined as:",
+   "opts": [
+    "The parental/most commonly used drug of a group",
+    "The newest drug of a group",
+    "The cheapest drug of a group",
+    "A drug with no known receptor"
+   ],
+   "ans": 0,
+   "exp": "The definition reads 'Parental / most common used drug of a group'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-037",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "A P (Personal) drug is developed for a disease based on:",
+   "opts": [
+    "STEP criteria",
+    "GCP guidelines",
+    "CPCSEA guidelines",
+    "AND gate criteria"
+   ],
+   "ans": 0,
+   "exp": "Type 9 states 'P (Personal) drug : Developed for a disease based on STEP criteria'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-038",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "The STEP criteria for a personal drug include:",
+   "opts": [
+    "Safety, tolerability, efficacy and price",
+    "Safety, toxicity and efficacy only",
+    "Speed, toxicity, efficacy and price",
+    "Safety, tolerability, expiry and potency"
+   ],
+   "ans": 0,
+   "exp": "The four bullets under STEP are safety, tolerability, efficacy and price. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-039",
+   "sec": "Types of Drugs",
+   "page": 26,
+   "q": "An orphan receptor is:",
+   "opts": [
+    "A receptor without a known ligand",
+    "A receptor for an orphan drug",
+    "A receptor with two ligands",
+    "A nuclear receptor"
+   ],
+   "ans": 0,
+   "exp": "The note box beside the drug types states 'Orphan receptor : Receptor without a known ligand'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-040",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Before any clinical trial, a new drug must first undergo:",
+   "opts": [
+    "Preclinical trials",
+    "Phase I trial",
+    "Phase II trial",
+    "Phase IV surveillance"
+   ],
+   "ans": 0,
+   "exp": "The drug development flow begins with the preclinical trials (in animals) oval before clinical trials (in humans). (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-041",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Preclinical trials are known as:",
+   "opts": [
+    "Non-mandatory trials conducted in animals",
+    "Mandatory trials in humans",
+    "Postmarketing surveillance",
+    "Phase 0 microdosing studies"
+   ],
+   "ans": 0,
+   "exp": "In the flow chart the preclinical trials are marked 'non mandatory' and '(in animals)', while phases I-IV are labelled mandatory. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-042",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "In the drug development flow chart, phases I, II, III and IV are labelled:",
+   "opts": [
+    "Mandatory",
+    "Non-mandatory",
+    "Optional",
+    "Ethical committee phases"
+   ],
+   "ans": 0,
+   "exp": "The bracket spanning phases I to IV in the flow chart is labelled 'mandatory'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-043",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Phase I clinical trials are conducted in:",
+   "opts": [
+    "Normal healthy individuals",
+    "Patients only",
+    "Pregnant women",
+    "Children"
+   ],
+   "ans": 0,
+   "exp": "The flow chart marks phase I with 'normal healthy individuals'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-044",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Clinical trials as a whole are conducted in:",
+   "opts": [
+    "Humans",
+    "Animals",
+    "Tissue culture only",
+    "Computer models"
+   ],
+   "ans": 0,
+   "exp": "The central oval of the flow chart reads 'Clinical Trials (In Humans)'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-045",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Which phases involve patients in the flow chart?",
+   "opts": [
+    "Phase II onwards",
+    "Phase I onwards",
+    "Only phase IV",
+    "Only phase 0"
+   ],
+   "ans": 0,
+   "exp": "The flow chart labels the later phases 'Patients' after the healthy individuals of phase I. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-046",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "The first step of preclinical trials is to:",
+   "opts": [
+    "Draft a protocol (expectation of drug / information of animals)",
+    "Submit to the human ethical committee",
+    "Obtain CDSCO approval",
+    "Submit a new drug application"
+   ],
+   "ans": 0,
+   "exp": "Step 1 of the PCT sequence is 'Draft a Protocol (Expectation of drug / information of animals)'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-047",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "The protocol of a preclinical trial is submitted to the:",
+   "opts": [
+    "Animal Ethical Committee (AEC)",
+    "Human Ethical Committee",
+    "CDSCO in New Delhi",
+    "Pharmacy Council"
+   ],
+   "ans": 0,
+   "exp": "Step 2 of preclinical trials is 'Submit to Animal Ethical Committee (AEC)'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-048",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "Preclinical trials are conducted under:",
+   "opts": [
+    "CPCSEA guidelines",
+    "GCP guidelines",
+    "ICH guidelines",
+    "Schedule Y only"
+   ],
+   "ans": 0,
+   "exp": "The last step of the PCT flow reads 'Conduct PCT under CPCSEA guidelines'. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-049",
+   "sec": "Drug Development and Preclinical Trials",
+   "page": 26,
+   "q": "In the preclinical trial sequence, what follows the approval of permission?",
+   "opts": [
+    "Conducting the PCT under CPCSEA guidelines",
+    "Filing the NDA",
+    "Phase 0 microdosing",
+    "Phase I enrolment"
+   ],
+   "ans": 0,
+   "exp": "The sequence is draft protocol → submit to AEC → permission approved → conduct PCT under CPCSEA guidelines. (Book p26)"
+  },
+  {
+   "id": "PHARM-C9-050",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "The first step in the prerequisite for a clinical trial is:",
+   "opts": [
+    "Draft a protocol",
+    "Submit to the human ethical committee",
+    "Permission approved",
+    "Conduct CT under GCP"
+   ],
+   "ans": 0,
+   "exp": "The clinical trial prerequisite list begins 'Draft a Protocol'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-051",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "The clinical trial protocol is submitted to the:",
+   "opts": [
+    "Human Ethical Committee",
+    "Animal Ethical Committee",
+    "CDSCO",
+    "Institutional pharmacy"
+   ],
+   "ans": 0,
+   "exp": "Step 2 of the prerequisite reads 'Submit to Human Ethical Committee'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-052",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "Clinical trials are conducted under:",
+   "opts": [
+    "GCP (Good Clinical Practice) guidelines",
+    "CPCSEA guidelines",
+    "Schedule P",
+    "Schedule W"
+   ],
+   "ans": 0,
+   "exp": "The final prerequisite step states 'Conduct CT under GCP guidelines (Good Clinical Practice)'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-053",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "Phase 0 of a clinical trial involves:",
+   "opts": [
+    "Microdosing with 100 mcg or 1/100th of the normal dose",
+    "Therapeutic doses in patients",
+    "Postmarketing surveillance",
+    "Confirmation of efficacy in thousands"
+   ],
+   "ans": 0,
+   "exp": "Phase 0 is defined on the page as microdosing : dose of 100 mcg or 1/100th of normal dose. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-054",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "Phase 0 is carried out in:",
+   "opts": [
+    "Normal healthy volunteers",
+    "Patients",
+    "Pregnant women",
+    "Elderly patients only"
+   ],
+   "ans": 0,
+   "exp": "After microdosing the flow specifies 'in normal healthy volunteers'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-055",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "In phase 0, the drug given is:",
+   "opts": [
+    "Radioligand bound drug",
+    "A supratherapeutic dose",
+    "An intravenous bolus of the full dose",
+    "A depot preparation"
+   ],
+   "ans": 0,
+   "exp": "The phase 0 flow reads 'Radioligand bound drug'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-056",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "The purpose of phase 0 is to determine:",
+   "opts": [
+    "Pharmacokinetics and pharmacodynamics",
+    "Long term adverse drug reactions",
+    "Confirmatory efficacy",
+    "Cost effectiveness"
+   ],
+   "ans": 0,
+   "exp": "The phase 0 flow states 'Determine pharmacokinetics and pharmacodynamics'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-057",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "In phase 0, if the results are abnormal (toxicity/efficacy), the action is to:",
+   "opts": [
+    "Abort the trial",
+    "Proceed to phase I",
+    "Repeat the microdose",
+    "Proceed directly to phase III"
+   ],
+   "ans": 0,
+   "exp": "The branching in phase 0 reads 'If normal → Phase I' and 'If abnormal (Toxicity/efficacy) → Abort trial'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-058",
+   "sec": "Clinical Trials: Prerequisite and Phase 0",
+   "page": 27,
+   "q": "In phase 0, a normal result leads to:",
+   "opts": [
+    "Phase I",
+    "Abort trial",
+    "Phase IV",
+    "New drug application"
+   ],
+   "ans": 0,
+   "exp": "The 'if normal' limb of the phase 0 flow leads to phase I. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-059",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase I is described as:",
+   "opts": [
+    "Human pharmacology and toxicity study",
+    "Therapeutic exploratory trial",
+    "Therapeutic confirmatory trial",
+    "Postmarketing surveillance"
+   ],
+   "ans": 0,
+   "exp": "The table's heading for phase I reads 'Human Pharmacology and Toxicity Study'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-060",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase II is described as:",
+   "opts": [
+    "Therapeutic exploratory trial",
+    "Human pharmacology and toxicity study",
+    "Therapeutic confirmatory trial",
+    "Postmarketing surveillance"
+   ],
+   "ans": 0,
+   "exp": "The heading over the phase II column is 'Therapeutic Exploratory Trial'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-061",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase III is described as:",
+   "opts": [
+    "Therapeutic confirmatory trial",
+    "Therapeutic exploratory trial",
+    "Human pharmacology and toxicity study",
+    "Postmarketing surveillance"
+   ],
+   "ans": 0,
+   "exp": "The heading over the phase III column is 'Therapeutic Confirmatory Trial'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-062",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase IV is described as:",
+   "opts": [
+    "Postmarketing surveillance",
+    "Therapeutic confirmatory trial",
+    "Therapeutic exploratory trial",
+    "Human pharmacology and toxicity study"
+   ],
+   "ans": 0,
+   "exp": "The heading over the phase IV column is 'Post marketing surveillance'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-063",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The aim of phase I is to determine:",
+   "opts": [
+    "Toxicity, maximum tolerable dose, pharmacokinetics and pharmacodynamics",
+    "Efficacy only",
+    "Long term adverse drug reactions",
+    "Efficacy confirmation"
+   ],
+   "ans": 0,
+   "exp": "The aim cell of phase I lists toxicity, maximum tolerable dose, pharmacokinetics and pharmacodynamics. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-064",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Maximum tolerable dose is determined in:",
+   "opts": [
+    "Phase I",
+    "Phase II",
+    "Phase III",
+    "Phase IV"
+   ],
+   "ans": 0,
+   "exp": "Maximum tolerable dose appears in the aim list of phase I. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-065",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The aim of phase II is to:",
+   "opts": [
+    "Determine efficacy",
+    "Confirm efficacy",
+    "Detect rare ADRs",
+    "Study toxicity in animals"
+   ],
+   "ans": 0,
+   "exp": "The aim cell for phase II reads 'To determine efficacy'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-066",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The aim of phase III is to:",
+   "opts": [
+    "Confirm efficacy",
+    "Determine efficacy",
+    "Detect long term ADRs",
+    "Fix the dose for animals"
+   ],
+   "ans": 0,
+   "exp": "The aim cell for phase III reads 'To confirm efficacy'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-067",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The aim of phase IV is to determine:",
+   "opts": [
+    "Long term/rare adverse drug reactions (ADR)",
+    "Efficacy in a few patients",
+    "Maximum tolerable dose",
+    "Pharmacokinetics in volunteers"
+   ],
+   "ans": 0,
+   "exp": "The phase IV aim cell reads 'To determine long term/rare Adverse Drug Reactions (ADR)'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-068",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase I subjects are:",
+   "opts": [
+    "Normal healthy volunteers",
+    "Patients only",
+    "Pregnant women",
+    "Both patients and healthy volunteers equally"
+   ],
+   "ans": 0,
+   "exp": "The subjects row of phase I lists 'Normal Healthy volunteers'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-069",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The subjects in phases II, III and IV are:",
+   "opts": [
+    "Patients",
+    "Normal healthy volunteers",
+    "Animals",
+    "Healthy volunteers in phase II and patients later"
+   ],
+   "ans": 0,
+   "exp": "The subjects row reads 'Patients' for phase II, III and IV. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-070",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "For toxic drugs such as anti-HIV and anticancer agents:",
+   "opts": [
+    "Phases I and II are done simultaneously in patients",
+    "Phase I is skipped entirely",
+    "Only phase IV is done",
+    "Phase I is done in animals"
+   ],
+   "ans": 0,
+   "exp": "The subjects cell notes 'Patients : For toxic drugs (Eg : Anti-HIV, Anticancer) → Phase I and II simultaneously done'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-071",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The sample size in phase I is:",
+   "opts": [
+    "30-100",
+    "100-500",
+    "500-3000",
+    "Many thousands"
+   ],
+   "ans": 0,
+   "exp": "The sample size row gives 30-100 for phase I. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-072",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The sample size in phase II is:",
+   "opts": [
+    "100-500",
+    "30-100",
+    "500-3000",
+    "Many thousands"
+   ],
+   "ans": 0,
+   "exp": "The sample size row gives 100-500 for phase II. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-073",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The sample size in phase III is:",
+   "opts": [
+    "500-3000",
+    "100-500",
+    "30-100",
+    "Many thousands"
+   ],
+   "ans": 0,
+   "exp": "The sample size row gives 500-3000 for phase III. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-074",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The sample size in phase IV is:",
+   "opts": [
+    "Many thousands",
+    "500-3000",
+    "100-500",
+    "30-100"
+   ],
+   "ans": 0,
+   "exp": "The sample size row gives 'many thousands' for phase IV. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-075",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The duration of phase I is:",
+   "opts": [
+    "1-2 yrs",
+    "2-3 yrs",
+    "3-5 yrs",
+    "Not specified"
+   ],
+   "ans": 0,
+   "exp": "The duration row gives 1-2 yrs for phase I. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-076",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The duration of phase II is:",
+   "opts": [
+    "2-3 yrs",
+    "1-2 yrs",
+    "3-5 yrs",
+    "Not specified"
+   ],
+   "ans": 0,
+   "exp": "The duration row gives 2-3 yrs for phase II. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-077",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The duration of phase III is:",
+   "opts": [
+    "3-5 yrs",
+    "2-3 yrs",
+    "1-2 yrs",
+    "Not specified"
+   ],
+   "ans": 0,
+   "exp": "The duration row gives 3-5 yrs for phase III. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-078",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The duration of phase IV is:",
+   "opts": [
+    "Not specified",
+    "3-5 yrs",
+    "5-10 yrs",
+    "1-2 yrs"
+   ],
+   "ans": 0,
+   "exp": "In the duration row, phase IV is written as 'Not specified'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-079",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The study design of phase I is:",
+   "opts": [
+    "Open type",
+    "Randomized control trial",
+    "RCT/RUCT",
+    "Double blind"
+   ],
+   "ans": 0,
+   "exp": "The study design row gives 'Open type' for phase I. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-080",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The study design of phase IV is:",
+   "opts": [
+    "Open type",
+    "Blinded",
+    "RCT/RUCT",
+    "Randomized control trial"
+   ],
+   "ans": 0,
+   "exp": "The study design row gives 'Open type' for phase IV. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-081",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The study design of phase III is:",
+   "opts": [
+    "RCT/RUCT",
+    "Open type",
+    "Blinded only",
+    "Uncontrolled"
+   ],
+   "ans": 0,
+   "exp": "The study design row gives 'RCT/RUCT' for phase III. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-082",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The note on study designs of phases II and III says:",
+   "opts": [
+    "Blinded > Open",
+    "Open > Blinded",
+    "Only open studies are used",
+    "Only blinded studies are used"
+   ],
+   "ans": 0,
+   "exp": "Above the study design cells for phases II and III the table writes 'Blinded > Open'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-083",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase II study design involves:",
+   "opts": [
+    "Randomized control trial",
+    "Open type",
+    "RCT/RUCT",
+    "Case control study"
+   ],
+   "ans": 0,
+   "exp": "The study design row for phase II reads 'Randomized Control Trial'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-084",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "R UCT stands for:",
+   "opts": [
+    "Random uncontrolled trial",
+    "Randomised unique control trial",
+    "Retrospective uncontrolled trial",
+    "Rapid unblinded clinical trial"
+   ],
+   "ans": 0,
+   "exp": "The footnote below the table expands RUCT as 'Random uncontrolled Trial'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-085",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase II trials are conducted at:",
+   "opts": [
+    "Unicentric centres",
+    "Multicentric centres",
+    "No fixed centre",
+    "Only in New Delhi"
+   ],
+   "ans": 0,
+   "exp": "The centers row gives 'Unicentric' for phase II. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-086",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Phase III trials are conducted at:",
+   "opts": [
+    "Multicentric centres",
+    "Unicentric centres",
+    "A single centre only",
+    "Only in animals"
+   ],
+   "ans": 0,
+   "exp": "The centers row gives 'multicentric' for phase III. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-087",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The centres row for phases I and IV is:",
+   "opts": [
+    "A dash (-), i.e. not specified",
+    "Unicentric",
+    "Multicentric",
+    "Two centres"
+   ],
+   "ans": 0,
+   "exp": "In the centers row, both phase I and phase IV carry only a dash. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-088",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Maximum failure rate is seen in:",
+   "opts": [
+    "Phase II",
+    "Phase I",
+    "Phase III",
+    "Phase IV"
+   ],
+   "ans": 0,
+   "exp": "The failure rate row writes 'maximum' under phase II and dashes elsewhere. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-089",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "The failure rate in phases I, III and IV is:",
+   "opts": [
+    "Shown as a dash (-)",
+    "Maximum",
+    "Minimum",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "The failure rate row shows a dash for phases I, III and IV, with 'maximum' only in phase II. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-090",
+   "sec": "Mandatory Phases of Clinical Trials",
+   "page": 27,
+   "q": "Irrespective of population size, all multicentric studies belong to:",
+   "opts": [
+    "Phase III",
+    "Phase II",
+    "Phase I",
+    "Phase IV"
+   ],
+   "ans": 0,
+   "exp": "The note below the table states 'irrespective of population size, all multicentric studies → Phase III'. (Book p27)"
+  },
+  {
+   "id": "PHARM-C9-091",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "IND stands for:",
+   "opts": [
+    "Investigational New Drug",
+    "Indian New Drug",
+    "Investigational Narcotic Drug",
+    "Initial New Dose"
+   ],
+   "ans": 0,
+   "exp": "The approval flow begins with 'IND (Investigational New Drug)'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-092",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "Before submitting a new drug application, one must:",
+   "opts": [
+    "Confirm efficacy and safety for use",
+    "Obtain a schedule X licence",
+    "Complete phase V",
+    "Publish results in a journal"
+   ],
+   "ans": 0,
+   "exp": "The second step of the approval flow is 'Confirm efficacy and safety for use'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-093",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "The New Drug Application (NDA) in India is submitted to:",
+   "opts": [
+    "CDSCO in New Delhi",
+    "WHO",
+    "FDA",
+    "ICMR in Mumbai"
+   ],
+   "ans": 0,
+   "exp": "The flow states 'Submit New Drug Application (NDA) to CDSCO in New Delhi'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-094",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "CDSCO stands for:",
+   "opts": [
+    "Central Drugs Standard Control Organisation",
+    "Central Drug Safety Control Office",
+    "Clinical Drugs Standards Committee Organisation",
+    "Central Directorate of Schedule Control Organisation"
+   ],
+   "ans": 0,
+   "exp": "The bracket after CDSCO expands it as 'Central Drugs Standard Control Organisation'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-095",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "The step immediately after submitting the NDA to CDSCO is:",
+   "opts": [
+    "Approval of drug",
+    "Phase V study",
+    "Phase I trial",
+    "Microdosing"
+   ],
+   "ans": 0,
+   "exp": "The last step of the approval flow is 'Approval of Drug'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-096",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "Phase V is also called:",
+   "opts": [
+    "Pharmaco epidemiology",
+    "Postmarketing surveillance",
+    "Therapeutic confirmatory trial",
+    "Human pharmacology study"
+   ],
+   "ans": 0,
+   "exp": "The phase V heading reads 'Phase V : Pharmaco epidemiology'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-097",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "The aim of phase V is:",
+   "opts": [
+    "To validate the toxicity claimed in phase IV",
+    "To determine efficacy",
+    "To confirm efficacy",
+    "To fix the maximum tolerable dose"
+   ],
+   "ans": 0,
+   "exp": "Phase V's aim is stated as 'To validate toxicity claimed in Phase IV'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-098",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "The types of epidemiological studies used in phase V are:",
+   "opts": [
+    "Case control / cohort study",
+    "Randomized control trial",
+    "Open label study",
+    "Microdosing study"
+   ],
+   "ans": 0,
+   "exp": "The second bullet of phase V reads 'Epidemiological studies : Case Control / Cohort Study'. (Book p28)"
+  },
+  {
+   "id": "PHARM-C9-099",
+   "sec": "Approval in Phase III and Phase V",
+   "page": 28,
+   "q": "Which of these correctly orders the phases?",
+   "opts": [
+    "Phase 0 → I → II → III → IV → V",
+    "Phase I → 0 → II → III → IV → V",
+    "Phase 0 → I → III → II → IV → V",
+    "Phase I → II → III → V → IV"
+   ],
+   "ans": 0,
+   "exp": "The book presents phase 0 (microdosing) first, then the mandatory phases I-IV, and finally phase V pharmacoepidemiology. (Book p28)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U9-1",
+   "ch": 9,
+   "n": 1,
+   "title": "Drug Schedules in India",
+   "sec": "Drug Schedules in India · p25",
+   "qs": [
+    "PHARM-C9-001",
+    "PHARM-C9-002",
+    "PHARM-C9-003",
+    "PHARM-C9-004",
+    "PHARM-C9-005",
+    "PHARM-C9-006",
+    "PHARM-C9-007",
+    "PHARM-C9-008",
+    "PHARM-C9-009",
+    "PHARM-C9-010",
+    "PHARM-C9-011",
+    "PHARM-C9-012",
+    "PHARM-C9-013",
+    "PHARM-C9-014",
+    "PHARM-C9-015",
+    "PHARM-C9-016",
+    "PHARM-C9-017",
+    "PHARM-C9-018"
+   ],
+   "guide": "Indian drug schedules are read off the label: Schedule G carries the caution that the preparation is dangerous except under medical supervision and covers majority drugs such as antihypertensives and antidiabetics; Schedule H needs a registered practitioner's prescription, with Rx (in black) reusable on the same prescription and NRx (in red) for narcotics like codeine and benzodiazepines, issued once to avoid abuse potential; Schedule H1 (introduced in 2013) shows Rx in red and covers antibiotics against resistance; Schedule X shows XRx in red for narcotic/psychotropic drugs (amphetamine, methylphenidate, ketamine, pentobarbital) needing special licence and a register with prescription copy kept 2 years. Schedule P concerns expiry period, Schedule W generic-name marketing and Schedule Y clinical trials, import and manufacture of new drugs."
+  },
+  {
+   "id": "PHARM-U9-2",
+   "ch": 9,
+   "n": 2,
+   "title": "Pregnancy Drug Categories",
+   "sec": "Pregnancy Drug Categories · p25",
+   "qs": [
+    "PHARM-C9-019",
+    "PHARM-C9-020",
+    "PHARM-C9-021",
+    "PHARM-C9-022",
+    "PHARM-C9-023",
+    "PHARM-C9-024",
+    "PHARM-C9-025",
+    "PHARM-C9-026",
+    "PHARM-C9-027"
+   ],
+   "guide": "Pregnancy categories are ranked by safety A > B > C. Category A has risk absent to the fetus with maximum safety; B lacks human studies but is absent in animals and is safely prescribed; C has no human data with positive teratogenicity in animals; D and X are positive teratogenic in humans, D being used if benefit > risk (valproate in JME) and X being absolutely contraindicated (thalidomide)."
+  },
+  {
+   "id": "PHARM-U9-3",
+   "ch": 9,
+   "n": 3,
+   "title": "Types of Drugs",
+   "sec": "Types of Drugs · p26",
+   "qs": [
+    "PHARM-C9-028",
+    "PHARM-C9-029",
+    "PHARM-C9-030",
+    "PHARM-C9-031",
+    "PHARM-C9-032",
+    "PHARM-C9-033",
+    "PHARM-C9-034",
+    "PHARM-C9-035",
+    "PHARM-C9-036",
+    "PHARM-C9-037",
+    "PHARM-C9-038",
+    "PHARM-C9-039"
+   ],
+   "guide": "Nine drug types are listed: prescription/legend (schedule H), OTC (anything other than schedule G, H, X), orphan drugs for rare diseases with low availability, street/illicit drugs of abuse (cocaine, heroin, methamphetamine), spurious drugs (imitating another drug's name or failing the intended purpose), misbranded drugs (false label information), adulterated drugs (unwanted substance), prototype drugs - the parental/most used drug of a group, e.g. morphine for opioids - and P (personal) drugs chosen on STEP criteria: safety, tolerability, efficacy and price. An orphan receptor is a receptor without a known ligand."
+  },
+  {
+   "id": "PHARM-U9-4",
+   "ch": 9,
+   "n": 4,
+   "title": "Drug Development and Preclinical Trials",
+   "sec": "Drug Development and Preclinical Trials · p26",
+   "qs": [
+    "PHARM-C9-040",
+    "PHARM-C9-041",
+    "PHARM-C9-042",
+    "PHARM-C9-043",
+    "PHARM-C9-044",
+    "PHARM-C9-045",
+    "PHARM-C9-046",
+    "PHARM-C9-047",
+    "PHARM-C9-048",
+    "PHARM-C9-049"
+   ],
+   "guide": "Development starts with non-mandatory preclinical trials in animals, which must be completed before the mandatory human phases I-IV. Preclinical steps are: draft a protocol describing the expectation of the drug and information on animals, submit it to the Animal Ethical Committee (AEC), get permission approved, then conduct the PCT under CPCSEA guidelines. The flow chart then enters clinical trials in humans, phase I being done in normal healthy individuals and later phases in patients."
+  },
+  {
+   "id": "PHARM-U9-5",
+   "ch": 9,
+   "n": 5,
+   "title": "Clinical Trials: Prerequisite and Phase 0",
+   "sec": "Clinical Trials: Prerequisite and Phase 0 · p27",
+   "qs": [
+    "PHARM-C9-050",
+    "PHARM-C9-051",
+    "PHARM-C9-052",
+    "PHARM-C9-053",
+    "PHARM-C9-054",
+    "PHARM-C9-055",
+    "PHARM-C9-056",
+    "PHARM-C9-057",
+    "PHARM-C9-058"
+   ],
+   "guide": "A clinical trial opens with prerequisites: draft a protocol, submit it to the Human Ethical Committee, obtain approval, then conduct it under GCP (Good Clinical Practice) guidelines. Phase 0 is microdosing with 100 mcg or 1/100th of the normal dose as a radioligand-bound drug in normal healthy volunteers to determine pharmacokinetics and pharmacodynamics; if normal the trial moves to phase I, if abnormal (toxicity/efficacy) the trial is aborted."
+  },
+  {
+   "id": "PHARM-U9-6",
+   "ch": 9,
+   "n": 6,
+   "title": "Mandatory Phases of Clinical Trials",
+   "sec": "Mandatory Phases of Clinical Trials · p27",
+   "qs": [
+    "PHARM-C9-059",
+    "PHARM-C9-060",
+    "PHARM-C9-061",
+    "PHARM-C9-062",
+    "PHARM-C9-063",
+    "PHARM-C9-064",
+    "PHARM-C9-065",
+    "PHARM-C9-066",
+    "PHARM-C9-067",
+    "PHARM-C9-068",
+    "PHARM-C9-069",
+    "PHARM-C9-070",
+    "PHARM-C9-071",
+    "PHARM-C9-072",
+    "PHARM-C9-073",
+    "PHARM-C9-074",
+    "PHARM-C9-075",
+    "PHARM-C9-076",
+    "PHARM-C9-077",
+    "PHARM-C9-078",
+    "PHARM-C9-079",
+    "PHARM-C9-080",
+    "PHARM-C9-081",
+    "PHARM-C9-082",
+    "PHARM-C9-083",
+    "PHARM-C9-084",
+    "PHARM-C9-085",
+    "PHARM-C9-086",
+    "PHARM-C9-087",
+    "PHARM-C9-088",
+    "PHARM-C9-089",
+    "PHARM-C9-090"
+   ],
+   "guide": "The mandatory phases table compares the four phases: phase I (human pharmacology and toxicity study) determines toxicity, maximum tolerable dose, pharmacokinetics and pharmacodynamics in 30-100 normal healthy volunteers over 1-2 years in an open design; phase II (therapeutic exploratory trial) determines efficacy in 100-500 patients over 2-3 years by randomized control trial at a unicentric centre, and carries the maximum failure rate; phase III (therapeutic confirmatory trial) confirms efficacy in 500-3000 patients over 3-5 years by RCT/RUCT at multicentric centres; phase IV (postmarketing surveillance) looks for long term/rare ADRs in many thousands of patients in an open design. For toxic drugs such as anti-HIV and anticancer agents phases I and II are done simultaneously in patients, blinded designs are preferred over open in phases II-III, and all multicentric studies are phase III irrespective of population size."
+  },
+  {
+   "id": "PHARM-U9-7",
+   "ch": 9,
+   "n": 7,
+   "title": "Approval in Phase III and Phase V",
+   "sec": "Approval in Phase III and Phase V · p28",
+   "qs": [
+    "PHARM-C9-091",
+    "PHARM-C9-092",
+    "PHARM-C9-093",
+    "PHARM-C9-094",
+    "PHARM-C9-095",
+    "PHARM-C9-096",
+    "PHARM-C9-097",
+    "PHARM-C9-098",
+    "PHARM-C9-099"
+   ],
+   "guide": "The approval pathway runs from IND (Investigational New Drug) through confirming efficacy and safety for use, to a New Drug Application (NDA) submitted to CDSCO - Central Drugs Standard Control Organisation - in New Delhi, and ends with approval of the drug. Phase V is pharmacoepidemiology: its aim is to validate the toxicity claimed in phase IV using epidemiological studies, namely case control or cohort studies."
+  }
+ ]
+}
