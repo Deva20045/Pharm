@@ -28,7 +28,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 
 ## Chapter page map (book pages) — 74 chapters, all LISTED in app from day one ("Soon" until live)
 ### General Pharmacology
-1: p1 (NEXT) | 2: 2-4 | 3: 5-8 | 4: 9-10 | 5: 11-14 | 6: 15-17 | 7: 18-19 | 8: 20-24 |
+1: p1 DONE (22 qs, 3 units) | 2: 2-4 | 3: 5-8 | 4: 9-10 | 5: 11-14 | 6: 15-17 | 7: 18-19 | 8: 20-24 |
 9: 25-28 | 10: 29-32 | 11: 33-36
 ### Autonomic Nervous System
 12: 37-41 | 13: 42-47 | 14: 48-51 | 15: 52-55 | 16: 56-57 | 17: 58-62 | 18: 63-68
@@ -74,9 +74,11 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 4. Commit+push after each chapter so progress is never lost.
 
 ## Status
-- DONE: repo skeleton (pulse-pharm-complete.html with all 74 chapters listed, index.html
-  redirect, work/ pipeline, this tracker). Source PDF moved to uploads/.
-- NEXT: ch1 "Introduction to Pharmacokinetics and Pharmacodynamics" (book p1 = pdf p6; 1 page).
+- DONE (2026-09-14): repo skeleton (pulse-pharm-complete.html with all 74 chapters listed,
+  index.html redirect, work/ pipeline, this tracker). Source PDF moved to uploads/.
+- DONE (2026-09-14): **ch1 "Introduction to Pharmacokinetics and Pharmacodynamics"**
+  (book p1 = pdf p6) — 22 qs, 3 units; validated, merged, integrity ✓, ch1 LIVE.
+- NEXT: ch2 "Pharmacokinetics: Absorption - Part 1" (book p2-4 = pdf p7-9).
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects → pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo → Settings → Pages → "Deploy from a branch" → main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
