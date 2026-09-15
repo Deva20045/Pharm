@@ -1,0 +1,1441 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C60-001",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Arachidonic acid via COX forms:",
+   "opts": [
+    "Prostaglandins and Thromboxane A2",
+    "Only leukotrienes",
+    "Only prostaglandins",
+    "Only thromboxane"
+   ],
+   "ans": 0,
+   "exp": "COX -> Prostaglandins Thromboxane A2. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-002",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Prostaglandins mediate:",
+   "opts": [
+    "Pain, Pyrexia, Inflammation",
+    "Only platelet aggregation",
+    "Only bronchoconstriction",
+    "Only chemotaxis"
+   ],
+   "ans": 0,
+   "exp": "Prostaglandins mediate Pain Pyrexia Inflammation. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-003",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Thromboxane A2 causes:",
+   "opts": [
+    "Platelet aggregation",
+    "Bronchoconstriction only",
+    "Vasodilation only",
+    "Only pain"
+   ],
+   "ans": 0,
+   "exp": "Thromboxane A2 Platelet aggregation. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-004",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Arachidonic acid via 5-LOX forms:",
+   "opts": [
+    "Leukotrienes C4 and D4 (Broncho constrictors)",
+    "Prostaglandins",
+    "Thromboxane",
+    "Only PG I2"
+   ],
+   "ans": 0,
+   "exp": "Leukotrienes C4 D4 (Broncho constrictors). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-005",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "NSAIDs inhibit COX:",
+   "opts": [
+    "Reversibly except aspirin which is irreversible",
+    "All irreversibly",
+    "All reversibly including aspirin",
+    "Only COX II"
+   ],
+   "ans": 0,
+   "exp": "All are reversible NSAIDs except aspirin Irreversible (Aspirin). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-006",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Zileuton inhibits:",
+   "opts": [
+    "5-LOX",
+    "COX I",
+    "COX II",
+    "Only COX I and II"
+   ],
+   "ans": 0,
+   "exp": "5-LOX X Zileuton. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-007",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "Montelukast/zafrleukast block:",
+   "opts": [
+    "Leukotriene C4/D4 receptors",
+    "COX I",
+    "5-LOX",
+    "Thromboxane receptor"
+   ],
+   "ans": 0,
+   "exp": "Montelukast/zafrleukast X Leukotrienes. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-008",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "COX stands for:",
+   "opts": [
+    "CycloOxygenase",
+    "LipoOxygenase",
+    "Cyclic Oxygenase",
+    "Carbon Oxygenase"
+   ],
+   "ans": 0,
+   "exp": "COX: CycloOxygenase. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-009",
+   "sec": "Eicosanoid Synthesis and Inhibitors",
+   "page": 237,
+   "q": "LOX stands for:",
+   "opts": [
+    "LipoOxygenase",
+    "CycloOxygenase",
+    "Lipid Oxygenase",
+    "LipoXxygenase"
+   ],
+   "ans": 0,
+   "exp": "LOX: LipoOxygenase. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-010",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Prostaglandin E1 common use is:",
+   "opts": [
+    "Maintain patency of Ductus arteriosus",
+    "Close PDA",
+    "Only for PPH",
+    "Only for glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Common use: maintain patency of Ductus arteriosus. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-011",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Misoprostol uses are:",
+   "opts": [
+    "NSAID induced gastric ulcer, Abortion, Post Partum Hemorrhage (Least effective)",
+    "Only PPH",
+    "Only abortion",
+    "Only gastric ulcer"
+   ],
+   "ans": 0,
+   "exp": "Misoprostol: NSAID induced gastric ulcer, Abortion, Post Partum Hemorrhage (Least effective). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-012",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Least effective drug for PPH is:",
+   "opts": [
+    "Misoprostol",
+    "Dinoprostone",
+    "Carboprost",
+    "Oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Post Partum Hemorrhage (Least effective). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-013",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Alprostadil is used for:",
+   "opts": [
+    "Erectile dysfunction (ED)",
+    "PDA maintenance",
+    "PPH",
+    "Cervical ripening"
+   ],
+   "ans": 0,
+   "exp": "Alprostadil use Erectile dysfunction (ED). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-014",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "DOC for erectile dysfunction is:",
+   "opts": [
+    "Sildenafil",
+    "Alprostadil",
+    "Phentolamine",
+    "Trazadone"
+   ],
+   "ans": 0,
+   "exp": "Sildenafil: DOC. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-015",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Drugs used in ED include:",
+   "opts": [
+    "Phentolamine, Bremelanotide, Naltrexone, Ketanserin, Sildenafil DOC, Alprostadil, Trazadone, Alviptadil",
+    "Only sildenafil",
+    "Only alprostadil",
+    "Only phentolamine"
+   ],
+   "ans": 0,
+   "exp": "Drugs used in ED: Phentolamine, Bremelanotide, Naltrexone, Ketanserin, Sildenafil DOC, Alprostadil, Trazadone, Alviptadil. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-016",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Dinoprostone is:",
+   "opts": [
+    "Prostaglandin E2",
+    "Prostaglandin E1",
+    "Prostaglandin F2α",
+    "Prostaglandin I2"
+   ],
+   "ans": 0,
+   "exp": "Prostaglandin E2: Dinoprostone. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-017",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Dinoprostone uses are:",
+   "opts": [
+    "PPH and Cervical ripening DOC",
+    "Only PPH",
+    "Only glaucoma",
+    "Only ED"
+   ],
+   "ans": 0,
+   "exp": "Use PPH Cervical ripening: DOC. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-018",
+   "sec": "Prostaglandin E1 and E2 Analogs",
+   "page": 237,
+   "q": "Cervical ripening DOC is:",
+   "opts": [
+    "Dinoprostone",
+    "Misoprostol",
+    "Carboprost",
+    "Oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Cervical ripening: DOC. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-019",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Prostaglandin I2a use is:",
+   "opts": [
+    "Pulmonary HTN (D/t vasodilation)",
+    "Maintain PDA",
+    "Cervical ripening",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Use: Pulmonary HTN (D/t vasodilation). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-020",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Epoprostenol is:",
+   "opts": [
+    "Recombinant PGI2",
+    "PGE1",
+    "PGF2α",
+    "PGD2"
+   ],
+   "ans": 0,
+   "exp": "Epoprostenol: Recombinant PGI2. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-021",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "PGI2 analogs are:",
+   "opts": [
+    "Iloprost, Beraprost, Treprostinil",
+    "Misoprostol and alprostadil",
+    "Latanoprost and bimatoprost",
+    "Only selexipag"
+   ],
+   "ans": 0,
+   "exp": "Iloprost, Beraprost, Treprostinil PGI2 analogs. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-022",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Selexipag is:",
+   "opts": [
+    "PGI2 receptor agonist",
+    "PGE1 analog",
+    "PGF2α analog",
+    "PGI2 analog itself"
+   ],
+   "ans": 0,
+   "exp": "Selexipag: PGI2 receptor agonist. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-023",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Other drugs used in PHTN are:",
+   "opts": [
+    "Endothelin antagonists Bosentan, Ambrisentan",
+    "Only sildenafil",
+    "Only alprostadil",
+    "Only calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "Other Drugs used in PHTN: Endothelin antagonists Bosentan Ambrisentan. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-024",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Prostaglandin F2α drugs are:",
+   "opts": [
+    "Carboprost and Latanoprost & Bimatoprost",
+    "Misoprostol and alprostadil",
+    "Epoprostenol only",
+    "Only dinoprostone"
+   ],
+   "ans": 0,
+   "exp": "Prostaglandin F2α: Drugs. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-025",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Carboprost uses are:",
+   "opts": [
+    "PPH & Abortion",
+    "Only glaucoma",
+    "Only ED",
+    "Only cervical ripening"
+   ],
+   "ans": 0,
+   "exp": "Carboprost: PPH & Abortion. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-026",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Latanoprost & Bimatoprost eye drops DOC for:",
+   "opts": [
+    "Open angle glaucoma and Normal Tension glaucoma",
+    "Only closed angle glaucoma",
+    "Only PPH",
+    "Only ED"
+   ],
+   "ans": 0,
+   "exp": "DOC Open angle glaucoma (N) Tension glaucoma. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-027",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "PGF2α side effects are:",
+   "opts": [
+    "Heterochromia iridis, Dry/Sandy eyes, Macular edema, Hypertrichosis",
+    "Only cataract",
+    "Only glaucoma",
+    "Only blindness"
+   ],
+   "ans": 0,
+   "exp": "S/E: Heterochromia iridis, Dry/Sandy eyes, macular edema, Hypertrichosis. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-028",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "Hypertrichosis as side effect is used for:",
+   "opts": [
+    "Rx of Hypotrichosis",
+    "Only cosmetic",
+    "Only for alopecia areata",
+    "Only for glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Hypertrichosis (Use: Rx of Hypotrichosis). (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-029",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "page": 237,
+   "q": "PGF2α C/I is:",
+   "opts": [
+    "Uveitis",
+    "Cataract",
+    "Only glaucoma",
+    "Only PPH"
+   ],
+   "ans": 0,
+   "exp": "C/I: uveitis. (Book p237)"
+  },
+  {
+   "id": "PHARM-C60-030",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Non selective COX inhibitors inhibit:",
+   "opts": [
+    "Both COX I & COX II",
+    "Only COX I",
+    "Only COX II",
+    "Only LOX"
+   ],
+   "ans": 0,
+   "exp": "(-) both COX I & COX II. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-031",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Acetaminophen (Paracetamol) mechanism includes:",
+   "opts": [
+    "(-) COX I & II -> ↓ PG synthesis and (+) TRPV1 and Cannabinoid receptors",
+    "Only COX II inhibition",
+    "Only LOX inhibition",
+    "Only TRPV1 inhibition"
+   ],
+   "ans": 0,
+   "exp": "Mechanism: (-) COX I & II (+) TRPV1 Cannabinoid receptors. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-032",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Paracetamol PG synthesis effects are:",
+   "opts": [
+    "Analgesia, Antipyrexia, Antiinflammatory (Poor effect)",
+    "Only analgesia",
+    "Only antipyrexia",
+    "Only anti-inflammatory strong"
+   ],
+   "ans": 0,
+   "exp": "↓ PG synthesis: Analgesia, Antipyrexia, Antiinflammatory (Poor effect). (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-033",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Paracetamol hepatotoxicity is:",
+   "opts": [
+    "Most common cause of drug induced liver failure",
+    "Rare cause",
+    "Only with alcohol",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "M/C cause of drug induced liver failure. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-034",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Paracetamol hepatotoxic metabolite is:",
+   "opts": [
+    "NAPQI (Paracetamol metabolite)",
+    "Glutathione itself",
+    "Only sulfate conjugate",
+    "Only glucuronide"
+   ],
+   "ans": 0,
+   "exp": "NAPQI (Paracetamol metabolite). (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-035",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "NAPQI depletes:",
+   "opts": [
+    "Glutathione (Free radical scavenger)",
+    "Only albumin",
+    "Only bilirubin",
+    "Only glucose"
+   ],
+   "ans": 0,
+   "exp": "Depletes Glutathione (Free radical scavenger). (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-036",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Free radical damage to liver on HPE shows:",
+   "opts": [
+    "Centrilobular necrosis + Periportal sparing",
+    "Only periportal necrosis",
+    "Only centrilobular sparing",
+    "Panlobular necrosis"
+   ],
+   "ans": 0,
+   "exp": "On HPE Centrilobular necrosis + Periportal sparing. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-037",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Most common cause of drug poisoning is:",
+   "opts": [
+    "Paracetamol",
+    "Aspirin",
+    "Ibuprofen",
+    "Warfarin"
+   ],
+   "ans": 0,
+   "exp": "M/C cause of drug poisoning: Paracetamol. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-038",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Paracetamol poisoning symptoms include:",
+   "opts": [
+    "Renal tubular necrosis, Hypoglycemic coma, Hepatotoxicity",
+    "Only hepatotoxicity",
+    "Only renal failure",
+    "Only coma"
+   ],
+   "ans": 0,
+   "exp": "Symptoms: Renal tubular necrosis, Hypoglycemic coma, Hepatotoxicity. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-039",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Paracetamol toxic dose is:",
+   "opts": [
+    "150-250 mg/kg or >10 g",
+    "50-100 mg/kg",
+    "<5 g",
+    "Only >20 g"
+   ],
+   "ans": 0,
+   "exp": "Dose: 150-250 mg/kg or >10 g. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-040",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Fatal dose of paracetamol is:",
+   "opts": [
+    ">20 g",
+    ">10 g",
+    ">5 g",
+    ">30 g"
+   ],
+   "ans": 0,
+   "exp": "Fatal: >20 g. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-041",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Prediction of hepatotoxicity uses:",
+   "opts": [
+    "Rumack Mathew Nomogram",
+    "Only clinical features",
+    "Only LFT",
+    "Only INR"
+   ],
+   "ans": 0,
+   "exp": "Prediction of hepatotoxicity: Rumack Mathew Nomogram. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-042",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Rumack Mathew graph axes are:",
+   "opts": [
+    "Plasma concentration vs Time",
+    "Dose vs weight",
+    "Only concentration",
+    "Only time"
+   ],
+   "ans": 0,
+   "exp": "Graph Plasma concentration vs Time. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-043",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Graph zones are:",
+   "opts": [
+    "Safe zone and unsafe zone",
+    "Only safe zone",
+    "Only unsafe zone",
+    "No zones"
+   ],
+   "ans": 0,
+   "exp": "Safe zone Unsafe zone. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-044",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Cutoffs on nomogram are:",
+   "opts": [
+    "4 hr and 10 hr up to 24 hr",
+    "Only 4 hr",
+    "Only 10 hr",
+    "Only 24 hr"
+   ],
+   "ans": 0,
+   "exp": "4 hr 10 hr 24 hr. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-045",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "Management <4 hr of consumption:",
+   "opts": [
+    "Charcoal",
+    "NAC only",
+    "Liver transplant",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "<4 hr of consumption: Charcoal. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-046",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "DOC for paracetamol poisoning is:",
+   "opts": [
+    "N-acetyl cysteine",
+    "Charcoal only",
+    "Liver transplant directly",
+    "Only dialysis"
+   ],
+   "ans": 0,
+   "exp": "DOC: N-acetyl cysteine. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-047",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol",
+   "page": 238,
+   "q": "If no response to NAC:",
+   "opts": [
+    "Fulminant hepatic failure -> Emergency liver transplant",
+    "Only charcoal again",
+    "Only observation",
+    "Only dialysis"
+   ],
+   "ans": 0,
+   "exp": "No response Fulminant hepatic failure Emergency liver transplant. (Book p238)"
+  },
+  {
+   "id": "PHARM-C60-048",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin 50-325 mg OD is:",
+   "opts": [
+    "Antiaggregant",
+    "Analgesic antipyretic",
+    "Anti-inflammatory",
+    "Only antipyretic"
+   ],
+   "ans": 0,
+   "exp": "50-325 mg OD: Antiaggregant. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-049",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin 325-650 mg SOS (max 4 doses/day) is:",
+   "opts": [
+    "Analgesic, Antipyretic",
+    "Antiaggregant only",
+    "Anti-inflammatory only",
+    "Only antiaggregant"
+   ],
+   "ans": 0,
+   "exp": "325-650 mg SOS (max 4doses/day): Analgesic, Antipyretic. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-050",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin 3-4 g/day (Divided doses) is:",
+   "opts": [
+    "Anti-inflammatory",
+    "Only antiaggregant",
+    "Only analgesic",
+    "Only antipyretic"
+   ],
+   "ans": 0,
+   "exp": "3-4 g/day (Divided doses): Anti-inflammatory. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-051",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin uses include:",
+   "opts": [
+    "Antiaggregant, Rheumatoid arthritis, Rheumatic arthritis, Essential thrombocythemia, Kawasaki disease, ↓ Risk of colon cancer",
+    "Only antiaggregant",
+    "Only analgesic",
+    "Only PPH"
+   ],
+   "ans": 0,
+   "exp": "Uses list. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-052",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "DOC for niacin induced flushing is:",
+   "opts": [
+    "Aspirin",
+    "Only laropiprant",
+    "Only clopidogrel",
+    "Only paracetamol"
+   ],
+   "ans": 0,
+   "exp": "Niacin induced flushing: DOC. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-053",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Most common S/E of aspirin is:",
+   "opts": [
+    "Bleeding",
+    "Reye syndrome",
+    "Salicylism",
+    "Tinnitus only"
+   ],
+   "ans": 0,
+   "exp": "Bleeding: m/c. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-054",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Reye Syndrome is:",
+   "opts": [
+    "Viral fever in children + Aspirin -> Hepatic Encephalopathy",
+    "Only hepatic failure",
+    "Only encephalopathy",
+    "Only with paracetamol"
+   ],
+   "ans": 0,
+   "exp": "Reye Syndrome: Viral fever in children Aspirin -> Hepatic Encephalopathy. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-055",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Salicylism (Toxicity) dose is:",
+   "opts": [
+    ">10 g",
+    ">20 g",
+    ">5 g",
+    ">15 g"
+   ],
+   "ans": 0,
+   "exp": "Dose >10g. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-056",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Clinical features of salicylism include:",
+   "opts": [
+    "Seizures, Tinnitus, Hyperglycemia, Metabolic acidosis",
+    "Only seizures",
+    "Only tinnitus",
+    "Only metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Seizures, Tinnitus, Hyperglycemia, Metabolic acidosis. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-057",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Rx of aspirin toxicity is:",
+   "opts": [
+    "Symptomatic and Dialysis in severe toxicity",
+    "Only charcoal",
+    "Only NAC",
+    "Only liver transplant"
+   ],
+   "ans": 0,
+   "exp": "Rx of toxicity: Symptomatic, Dialysis: Severe toxicity. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-058",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin C/I include:",
+   "opts": [
+    "Viral fever in children, Gout: (-) uric acid excretion, With warfarin: ↑ Risk of bleeding",
+    "Only viral fever",
+    "Only gout",
+    "Only warfarin"
+   ],
+   "ans": 0,
+   "exp": "C/I: Viral fever in children, Gout, With warfarin. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-059",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin in gout:",
+   "opts": [
+    "Decreases uric acid excretion",
+    "Increases excretion",
+    "No effect",
+    "Only increases metabolism"
+   ],
+   "ans": 0,
+   "exp": "Gout: (-) uric acid excretion. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-060",
+   "sec": "Aspirin: Dose Dependent Effects and Uses",
+   "page": 239,
+   "q": "Aspirin with warfarin:",
+   "opts": [
+    "Increases risk of bleeding",
+    "Decreases bleeding",
+    "No interaction",
+    "Only decreases warfarin effect"
+   ],
+   "ans": 0,
+   "exp": "With warfarin: ↑ Risk of bleeding. (Book p239)"
+  },
+  {
+   "id": "PHARM-C60-061",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Indomethacin mechanism is:",
+   "opts": [
+    "(-) COX, (-) Phospholipase A & C, (-) Leucocyte Proliferation & migration",
+    "Only COX inhibition",
+    "Only LOX inhibition",
+    "Only phospholipase A"
+   ],
+   "ans": 0,
+   "exp": "Mechanism: (-) COX (-) Phospholipase A & C (-) Leucocyte Proliferation migration. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-062",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Indomethacin use acute gout is:",
+   "opts": [
+    "DOC",
+    "Second line",
+    "Not used",
+    "Only prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Acute gout: DOC. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-063",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Indomethacin uses also include:",
+   "opts": [
+    "Bartter syndrome and Paroxysmal hemicrania",
+    "Only gout",
+    "Only PDA",
+    "Only pain"
+   ],
+   "ans": 0,
+   "exp": "Bartter syndrome, Paroxysmal hemicrania. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-064",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Indomethacin S/E is:",
+   "opts": [
+    "Frontal headache",
+    "Occipital headache",
+    "Only GI ulcer",
+    "Only renal failure"
+   ],
+   "ans": 0,
+   "exp": "Frontal headache. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-065",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Sulindac is:",
+   "opts": [
+    "Indomethacin derivative: Similar uses",
+    "Ibuprofen derivative",
+    "Aspirin derivative",
+    "Paracetamol derivative"
+   ],
+   "ans": 0,
+   "exp": "Indomethacin derivative: Similar uses. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-066",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Sulindac blocks:",
+   "opts": [
+    "FAP (Familial Adenomatous Polyposis): ↓ Risk of colon carcinoma",
+    "Only pain",
+    "Only gout",
+    "Only PDA"
+   ],
+   "ans": 0,
+   "exp": "Blocks FAP (Familial Adenomatous Polyposis): ↓ Risk of colon carcinoma. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-067",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Sulindac also decreases risk of:",
+   "opts": [
+    "Breast & prostate cancer",
+    "Only colon",
+    "Only lung",
+    "Only skin"
+   ],
+   "ans": 0,
+   "exp": "↓ Risk of Breast & prostate cancer. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-068",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Ibuprofen uses are:",
+   "opts": [
+    "Analgesic & Anti-inflammatory and Patent ductus arteriosus: DOC for closure (India)",
+    "Only analgesic",
+    "Only PDA worldwide",
+    "Only gout"
+   ],
+   "ans": 0,
+   "exp": "Analgesic & Anti-inflammatory, Patent ductus arteriosus: DOC for closure (India). (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-069",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Ibuprofen S/E is:",
+   "opts": [
+    "Most common drug inducing Aseptic meningitis and Toxic amblyopia/Blurred vision",
+    "Only GI ulcer",
+    "Only renal failure",
+    "Only hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "M/C drug inducing Aseptic meningitis, Toxic amblyopia/Blurred vision. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-070",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "PDA worldwide DOC is:",
+   "opts": [
+    "Indomethacin",
+    "Ibuprofen",
+    "Paracetamol",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "Note: PDA world wide DOC is Indomethacin. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-071",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Ketoprofen mechanism includes:",
+   "opts": [
+    "(-) COX, (-) LOX, Stabilizes lysosome, (-) Bradykinin",
+    "Only COX",
+    "Only LOX",
+    "Only bradykinin"
+   ],
+   "ans": 0,
+   "exp": "Mechanism: (-) COX (-) LOX Stabilizes lysosome (-) Bradykinin. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-072",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Flurbiprofen use is:",
+   "opts": [
+    "Eye drops Prevent Intra-operative miosis",
+    "Only oral for pain",
+    "Only for gout",
+    "Only for PDA"
+   ],
+   "ans": 0,
+   "exp": "Use: Eye drops Prevent Intra-operative miosis. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-073",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Piroxicam property is:",
+   "opts": [
+    "Enterohepatic circulation: Longest acting, Slow onset of action: Analgesic in chronic pain",
+    "Shortest acting",
+    "No enterohepatic",
+    "Fast onset for acute pain"
+   ],
+   "ans": 0,
+   "exp": "Enterohepatic circulation: Longest acting, Slow onset of action: Analgesic in chronic pain. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-074",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Ketorolac potency is:",
+   "opts": [
+    "Increased potency",
+    "Decreased potency",
+    "Same as ibuprofen",
+    "Only weak"
+   ],
+   "ans": 0,
+   "exp": "↑ Potency. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-075",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "page": 240,
+   "q": "Ketorolac uses are:",
+   "opts": [
+    "Acute pain: Oral/Parenteral, Migraine: Intranasal spray, Ocular pain/Inflammation: Eye drops",
+    "Only acute pain oral",
+    "Only migraine",
+    "Only ocular"
+   ],
+   "ans": 0,
+   "exp": "Uses: Acute pain: Oral/Parenteral, Migraine: Intranasal spray, Ocular pain/Inflammation: Eye drops. (Book p240)"
+  },
+  {
+   "id": "PHARM-C60-076",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Diclofenac T1/2 is:",
+   "opts": [
+    "Short T1/2 but Long acting d/t concentration in joints",
+    "Long T1/2 and long acting",
+    "Short T1/2 short acting",
+    "Long T1/2 short acting"
+   ],
+   "ans": 0,
+   "exp": "Short T1/2, Long acting d/t concentration in joints. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-077",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Diclofenac S/E are:",
+   "opts": [
+    "Hepatotoxic and GI ulcers",
+    "Only GI ulcers",
+    "Only hepatotoxic",
+    "Only renal failure"
+   ],
+   "ans": 0,
+   "exp": "Hepatotoxic, GI ulcers. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-078",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "GI ulcers with diclofenac decreased by:",
+   "opts": [
+    "Formulation with misoprostol",
+    "Formulation with paracetamol",
+    "Only dose reduction",
+    "Only food intake"
+   ],
+   "ans": 0,
+   "exp": "↓ By formulation with misoprostol. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-079",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Diclofenac uses include:",
+   "opts": [
+    "Rheumatoid arthritis, Psoriatic arthritis, Ankylosing spondylitis, Gout, Dysmenorrhea, Acute pain",
+    "Only rheumatoid",
+    "Only gout",
+    "Only dysmenorrhea"
+   ],
+   "ans": 0,
+   "exp": "Uses: Rheumatoid arthritis, Psoriatic arthritis, Ankylosing spondylitis, Gout, Dysmenorrhea, Acute pain. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-080",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Naproxen is:",
+   "opts": [
+    "Enantiomer",
+    "Only racemate",
+    "Only prodrug",
+    "Only active metabolite"
+   ],
+   "ans": 0,
+   "exp": "Enantiomer. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-081",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Nabumetone (Naproxen derivative) is:",
+   "opts": [
+    "Non-acidic, Long acting (OD)",
+    "Acidic short acting",
+    "Only IV",
+    "Only topical"
+   ],
+   "ans": 0,
+   "exp": "Non-acidic, Long acting (OD). (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-082",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II inhibitors oral are:",
+   "opts": [
+    "Celecoxib and Etoricoxib",
+    "Only celecoxib",
+    "Only rofecoxib",
+    "Only valdecoxib"
+   ],
+   "ans": 0,
+   "exp": "Oral Celecoxib, Enterocoxib. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-083",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II parenteral IV is:",
+   "opts": [
+    "Parecoxib: Use: Acute pain (Post-op)",
+    "Celecoxib IV",
+    "Etoricoxib IV",
+    "Rofecoxib IV"
+   ],
+   "ans": 0,
+   "exp": "Parenteral (IV) Parecoxib: Use: Acute pain (Post-op). (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-084",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II anti-inflammatory uses are:",
+   "opts": [
+    "Rheumatoid arthritis, Rheumatic arthritis, Psoriatic arthritis, Ankylosing spondylitis, Gout",
+    "Only rheumatoid",
+    "Only gout",
+    "Only dysmenorrhea"
+   ],
+   "ans": 0,
+   "exp": "Anti-inflammatory: Rheumatoid, Rheumatic, Psoriatic, Ankylosing, Gout. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-085",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II pain uses are:",
+   "opts": [
+    "3rd line drugs for Dysmenorrhea and Acute pain",
+    "1st line for all pain",
+    "Only for chronic pain",
+    "Only for post-op"
+   ],
+   "ans": 0,
+   "exp": "Pain: 3rd line drugs, Dysmenorrhea, Acute pain. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-086",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II most common S/E is:",
+   "opts": [
+    "Hypersensitivity rash",
+    "GI ulcer only",
+    "Cardiotoxicity only",
+    "Nephrotoxicity only"
+   ],
+   "ans": 0,
+   "exp": "M/C: Hypersensitivity rash. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-087",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II nephrotoxicity is:",
+   "opts": [
+    "Renal papillary necrosis",
+    "Only ATN",
+    "Only glomerulonephritis",
+    "Only nephrotic"
+   ],
+   "ans": 0,
+   "exp": "Nephrotoxicity: Renal papillary necrosis. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-088",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Cardiotoxic selective COX II are:",
+   "opts": [
+    "Refecoxib & Valdecoxib",
+    "Celecoxib only",
+    "Parecoxib only",
+    "All selective"
+   ],
+   "ans": 0,
+   "exp": "Cardiotoxicity: Refecoxib & Valdecoxib. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-089",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Peptic ulcer risk:",
+   "opts": [
+    "Non-selective > Selective COX II (-)",
+    "Selective > Non-selective",
+    "Equal",
+    "No ulcer with either"
+   ],
+   "ans": 0,
+   "exp": "Non-selective > Selective COX II (-). (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-090",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "DOC for NSAID induced peptic ulcer is:",
+   "opts": [
+    "PPIs",
+    "H2 blockers",
+    "Misoprostol only",
+    "Antacids only"
+   ],
+   "ans": 0,
+   "exp": "DOC: PPIs. (Book p241)"
+  },
+  {
+   "id": "PHARM-C60-091",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "page": 241,
+   "q": "Selective COX II drug interactions decrease:",
+   "opts": [
+    "Effect of antihypertensive drugs, Lithium clearance -> Toxicity, Effect of diuretics (Furosemide)",
+    "Only antihypertensives",
+    "Only lithium",
+    "Only diuretics"
+   ],
+   "ans": 0,
+   "exp": "↓ Effect of antihypertensive, ↓ Lithium clearance -> Toxicity, ↓ Effect of diuretics (Furosemide). (Book p241)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U60-1",
+   "ch": 60,
+   "n": 1,
+   "title": "Eicosanoid Synthesis and Inhibitors",
+   "sec": "Eicosanoid Synthesis and Inhibitors · p237",
+   "qs": [
+    "PHARM-C60-001",
+    "PHARM-C60-002",
+    "PHARM-C60-003",
+    "PHARM-C60-004",
+    "PHARM-C60-005",
+    "PHARM-C60-006",
+    "PHARM-C60-007",
+    "PHARM-C60-008",
+    "PHARM-C60-009"
+   ],
+   "guide": "Arachidonic acid via COX I and II forms prostaglandins mediating pain, pyrexia and inflammation and thromboxane A2 causing platelet aggregation; via 5-LOX forms leukotrienes C4 and D4 which are bronchoconstrictors. NSAIDs inhibit COX I and II reversibly except aspirin which is irreversible; zileuton inhibits 5-LOX; montelukast/zafrlukast block leukotriene receptors. COX is cyclooxygenase and LOX is lipooxygenase."
+  },
+  {
+   "id": "PHARM-U60-2",
+   "ch": 60,
+   "n": 2,
+   "title": "Prostaglandin E1 and E2 Analogs",
+   "sec": "Prostaglandin E1 and E2 Analogs · p237",
+   "qs": [
+    "PHARM-C60-010",
+    "PHARM-C60-011",
+    "PHARM-C60-012",
+    "PHARM-C60-013",
+    "PHARM-C60-014",
+    "PHARM-C60-015",
+    "PHARM-C60-016",
+    "PHARM-C60-017",
+    "PHARM-C60-018"
+   ],
+   "guide": "Prostaglandin E1 common use is maintaining patency of ductus arteriosus. Misoprostol is used for NSAID induced gastric ulcer, abortion and post partum hemorrhage least effective; alprostadil is used for erectile dysfunction ED. Drugs used in ED include phentolamine, bremelanotide, naltrexone, ketanserin, sildenafil DOC, alprostadil, trazadone and alviptadil. Prostaglandin E2 dinoprostone is used for PPH and cervical ripening DOC."
+  },
+  {
+   "id": "PHARM-U60-3",
+   "ch": 60,
+   "n": 3,
+   "title": "Prostaglandin I2, F2α and Other PHTN Drugs",
+   "sec": "Prostaglandin I2, F2α and Other PHTN Drugs · p237",
+   "qs": [
+    "PHARM-C60-019",
+    "PHARM-C60-020",
+    "PHARM-C60-021",
+    "PHARM-C60-022",
+    "PHARM-C60-023",
+    "PHARM-C60-024",
+    "PHARM-C60-025",
+    "PHARM-C60-026",
+    "PHARM-C60-027",
+    "PHARM-C60-028",
+    "PHARM-C60-029"
+   ],
+   "guide": "Prostaglandin I2 use is pulmonary hypertension due to vasodilation; drugs are epoprostenol recombinant PGI2, iloprost, beraprost and treprostinil as PGI2 analogs and selexipag as PGI2 receptor agonist; other PHTN drugs are endothelin antagonists bosentan and ambrisentan. Prostaglandin F2α drugs carboprost for PPH and abortion and latanoprost and bimatoprost eye drops DOC for open angle glaucoma and normal tension glaucoma with side effects heterochromia iridis, dry/sandy eyes, macular edema and hypertrichosis used for hypotrichosis, contraindicated in uveitis."
+  },
+  {
+   "id": "PHARM-U60-4",
+   "ch": 60,
+   "n": 4,
+   "title": "Non-Selective COX Inhibitors: Paracetamol",
+   "sec": "Non-Selective COX Inhibitors: Paracetamol · p238",
+   "qs": [
+    "PHARM-C60-030",
+    "PHARM-C60-031",
+    "PHARM-C60-032",
+    "PHARM-C60-033",
+    "PHARM-C60-034",
+    "PHARM-C60-035",
+    "PHARM-C60-036",
+    "PHARM-C60-037",
+    "PHARM-C60-038",
+    "PHARM-C60-039",
+    "PHARM-C60-040",
+    "PHARM-C60-041",
+    "PHARM-C60-042",
+    "PHARM-C60-043",
+    "PHARM-C60-044",
+    "PHARM-C60-045",
+    "PHARM-C60-046",
+    "PHARM-C60-047"
+   ],
+   "guide": "Non-selective COX inhibitors inhibit both COX I and COX II. Acetaminophen paracetamol mechanism is inhibition of COX I and II decreasing PG synthesis giving analgesia, antipyrexia and poor anti-inflammatory effect, plus activation of TRPV1 receptors and cannabinoid receptors. It is most common cause of drug induced liver failure via NAPQI metabolite depleting glutathione free radical scavenger causing free radical damage showing centrilobular necrosis with periportal sparing on HPE. It is also most common cause of drug poisoning with symptoms renal tubular necrosis, hypoglycemic coma and hepatotoxicity; dose 150-250 mg/kg or >10 g, fatal >20 g, prediction by Rumack Mathew Nomogram with plasma concentration vs time graph safe zone below and unsafe zone above at 4 hr and 10 hr cutoffs up to 24 hr; management <4 hr charcoal, DOC N-acetyl cysteine, if no response fulminant hepatic failure needs emergency liver transplant."
+  },
+  {
+   "id": "PHARM-U60-5",
+   "ch": 60,
+   "n": 5,
+   "title": "Aspirin: Dose Dependent Effects and Uses",
+   "sec": "Aspirin: Dose Dependent Effects and Uses · p239",
+   "qs": [
+    "PHARM-C60-048",
+    "PHARM-C60-049",
+    "PHARM-C60-050",
+    "PHARM-C60-051",
+    "PHARM-C60-052",
+    "PHARM-C60-053",
+    "PHARM-C60-054",
+    "PHARM-C60-055",
+    "PHARM-C60-056",
+    "PHARM-C60-057",
+    "PHARM-C60-058",
+    "PHARM-C60-059",
+    "PHARM-C60-060"
+   ],
+   "guide": "Aspirin dose dependent effect: 50-325 mg OD antiaggregant, 325-650 mg SOS max 4 doses/day analgesic antipyretic, 3-4 g/day divided doses anti-inflammatory. Uses: antiaggregant, rheumatoid arthritis, rheumatic arthritis, niacin induced flushing DOC, essential thrombocythemia, Kawasaki disease, decreased risk of colon cancer. Side effects: bleeding most common, Reye syndrome viral fever in children aspirin leads to hepatic encephalopathy, salicylism toxicity dose >10 g with clinical features seizures, tinnitus, hyperglycemia, metabolic acidosis treated symptomatically and dialysis in severe toxicity. Contraindications: viral fever in children, gout decreased uric acid excretion, with warfarin increased bleeding risk."
+  },
+  {
+   "id": "PHARM-U60-6",
+   "ch": 60,
+   "n": 6,
+   "title": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac",
+   "sec": "Other Non-Selective NSAIDs: Indomethacin to Ketorolac · p240",
+   "qs": [
+    "PHARM-C60-061",
+    "PHARM-C60-062",
+    "PHARM-C60-063",
+    "PHARM-C60-064",
+    "PHARM-C60-065",
+    "PHARM-C60-066",
+    "PHARM-C60-067",
+    "PHARM-C60-068",
+    "PHARM-C60-069",
+    "PHARM-C60-070",
+    "PHARM-C60-071",
+    "PHARM-C60-072",
+    "PHARM-C60-073",
+    "PHARM-C60-074",
+    "PHARM-C60-075"
+   ],
+   "guide": "Indomethacin inhibits COX, phospholipase A and C, and leucocyte proliferation and migration; uses acute gout DOC, Bartter syndrome and paroxysmal hemicrania; side effect frontal headache. Sulindac is indomethacin derivative with similar uses, blocks FAP familial adenomatous polyposis decreasing colon carcinoma risk and decreasing breast and prostate cancer risk. Ibuprofen uses analgesic anti-inflammatory and PDA closure DOC for closure in India with side effects aseptic meningitis most common drug inducing and toxic amblyopia/blurred vision; note PDA worldwide DOC is indomethacin. Ketoprofen inhibits COX, LOX, stabilizes lysosome and inhibits bradykinin; flurbiprofen eye drops prevent intra-operative miosis; piroxicam has enterohepatic circulation longest acting with slow onset for chronic pain; ketorolac has increased potency used for acute pain oral/parenteral, migraine intranasal spray and ocular pain/inflammation eye drops."
+  },
+  {
+   "id": "PHARM-U60-7",
+   "ch": 60,
+   "n": 7,
+   "title": "Diclofenac, Naproxen and Selective COX II Inhibitors",
+   "sec": "Diclofenac, Naproxen and Selective COX II Inhibitors · p241",
+   "qs": [
+    "PHARM-C60-076",
+    "PHARM-C60-077",
+    "PHARM-C60-078",
+    "PHARM-C60-079",
+    "PHARM-C60-080",
+    "PHARM-C60-081",
+    "PHARM-C60-082",
+    "PHARM-C60-083",
+    "PHARM-C60-084",
+    "PHARM-C60-085",
+    "PHARM-C60-086",
+    "PHARM-C60-087",
+    "PHARM-C60-088",
+    "PHARM-C60-089",
+    "PHARM-C60-090",
+    "PHARM-C60-091"
+   ],
+   "guide": "Diclofenac has short half life but long acting due to concentration in joints with side effects hepatotoxic and GI ulcers decreased by formulation with misoprostol; uses rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, gout, dysmenorrhea and acute pain. Naproxen is an enantiomer; nabumetone is naproxen derivative non-acidic long acting OD. Selective COX II inhibitors classification oral celecoxib and etoricoxib, parenteral IV parecoxib for acute post-op pain; uses anti-inflammatory rheumatoid, rheumatic, psoriatic, ankylosing, gout and pain third line dysmenorrhea acute pain; side effects most common hypersensitivity rash, nephrotoxicity renal papillary necrosis, cardiotoxicity rofecoxib and valdecoxib, peptic ulcer non-selective greater than selective, DOC PPIs; drug interactions decrease effect of antihypertensives, decrease lithium clearance leading to toxicity and decrease effect of diuretics furosemide."
+  }
+ ]
+}

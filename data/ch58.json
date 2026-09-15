@@ -1,0 +1,1166 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C58-001",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Histamine effects are due to:",
+   "opts": [
+    "Its receptors",
+    "Only H1",
+    "Only H2",
+    "Only H3"
+   ],
+   "ans": 0,
+   "exp": "Effects are d/t its receptors. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-002",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Histamine receptors are:",
+   "opts": [
+    "GPCR (G protein coupled receptors)",
+    "Ion channel receptors",
+    "Nuclear receptors",
+    "Tyrosine kinase receptors"
+   ],
+   "ans": 0,
+   "exp": "Receptors: GPCR. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-003",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H1 receptor location and subtype are:",
+   "opts": [
+    "Post-synaptic, Gq",
+    "Presynaptic Gi",
+    "Leucocyte Gi",
+    "Post-synaptic Gs"
+   ],
+   "ans": 0,
+   "exp": "H1 Post-synaptic Gq. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-004",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H1 function and use are:",
+   "opts": [
+    "Increased Ca2+, Allergy/motion sickness",
+    "Increased cAMP, Peptic ulcer",
+    "Decreased histamine, narcolepsy",
+    "Mediates chemotaxis"
+   ],
+   "ans": 0,
+   "exp": "H1 ↑Ca2+ Allergy/motion sickness. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-005",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H2 receptor location and subtype are:",
+   "opts": [
+    "Post-synaptic, Gs",
+    "Presynaptic Gi",
+    "Leucocyte Gi",
+    "Post-synaptic Gq"
+   ],
+   "ans": 0,
+   "exp": "H2 Post-synaptic Gs. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-006",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H2 function and use are:",
+   "opts": [
+    "Increased cAMP, Peptic ulcer disease",
+    "Increased Ca2+, allergy",
+    "Decreased histamine, narcolepsy",
+    "Mediates chemotaxis"
+   ],
+   "ans": 0,
+   "exp": "H2 ↑cAMP Peptic ulcer disease. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-007",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H3 receptor location and subtype are:",
+   "opts": [
+    "Presynaptic, Gi",
+    "Post-synaptic Gq",
+    "Leucocyte Gi",
+    "Post-synaptic Gs"
+   ],
+   "ans": 0,
+   "exp": "H3 Presynaptic Gi. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-008",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H3 function is:",
+   "opts": [
+    "Decreases histamine in synapse (-) H1 H2",
+    "Increases Ca2+",
+    "Increases cAMP",
+    "Mediates chemotaxis"
+   ],
+   "ans": 0,
+   "exp": "↓ Histamine in synapse (-) H1 H2. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-009",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H3 use is:",
+   "opts": [
+    "Pitolisant: In narcolepsy -> increased wakefulness",
+    "Allergy/motion sickness",
+    "Peptic ulcer",
+    "No drugs currently"
+   ],
+   "ans": 0,
+   "exp": "Pitolisant: In narcolepsy ↑wakefulness. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-010",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H4 receptor location and function are:",
+   "opts": [
+    "Leucocyte, mediates chemotaxis",
+    "Post-synaptic, increases Ca2+",
+    "Presynaptic, decreases histamine",
+    "Post-synaptic, increases cAMP"
+   ],
+   "ans": 0,
+   "exp": "H4 Leucocyte mediates chemotaxis. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-011",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "H4 drugs currently:",
+   "opts": [
+    "No drugs currently",
+    "Pitolisant",
+    "Cetirizine",
+    "Famotidine"
+   ],
+   "ans": 0,
+   "exp": "No drugs currently. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-012",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Effects of increased Ca2+ include:",
+   "opts": [
+    "Bronchoconstriction",
+    "Increased HCl release only",
+    "Increased HR only",
+    "Decreased GI contractions"
+   ],
+   "ans": 0,
+   "exp": "Effects of ↑Ca2+: Bronchoconstriction. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-013",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Vasodilatation is due to:",
+   "opts": [
+    "Increased Ca2+",
+    "Increased cAMP only",
+    "Gi activation only",
+    "Decreased Ca2+"
+   ],
+   "ans": 0,
+   "exp": "Vasodilatation effect of ↑Ca2+. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-014",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Increased GI contractions are due to:",
+   "opts": [
+    "Increased Ca2+",
+    "Increased cAMP",
+    "Gi",
+    "No receptor"
+   ],
+   "ans": 0,
+   "exp": "↑ GI contractions. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-015",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Wakefulness and decreased appetite are due to:",
+   "opts": [
+    "Increased Ca2+",
+    "Increased cAMP",
+    "Gi only",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "Wakefulness, ↓ Appetite. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-016",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Itching (PNS mediated) is due to:",
+   "opts": [
+    "Increased Ca2+",
+    "Increased cAMP",
+    "Gi",
+    "No receptor"
+   ],
+   "ans": 0,
+   "exp": "Itching (PNS mediated). (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-017",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Effects of increased cAMP in heart are:",
+   "opts": [
+    "Increased contraction and HR",
+    "Decreased contraction",
+    "No effect",
+    "Only vasodilation"
+   ],
+   "ans": 0,
+   "exp": "Heart: ↑ Contraction & HR. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-018",
+   "sec": "Histamine Receptors and Effects",
+   "page": 230,
+   "q": "Effect of increased cAMP in stomach is:",
+   "opts": [
+    "Increased HCl release",
+    "Decreased HCl",
+    "No effect",
+    "Increased pepsin only"
+   ],
+   "ans": 0,
+   "exp": "Stomach: ↑HCl release. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-019",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation H1 blockers are:",
+   "opts": [
+    "Less potent",
+    "More potent",
+    "Equally potent",
+    "Most potent antihistaminic"
+   ],
+   "ans": 0,
+   "exp": "First Generation Less potent. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-020",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation BBB crossing is:",
+   "opts": [
+    "Cross Blood-Brain Barrier -> Sedating",
+    "Does not cross BBB -> Non-sedating",
+    "No sedation",
+    "Only peripheral"
+   ],
+   "ans": 0,
+   "exp": "Cross Blood-Brain Barrier -> Sedating. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-021",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation muscarinic effect is:",
+   "opts": [
+    "Muscarinic receptors blocker",
+    "Do not block muscarinic",
+    "Only H2 block",
+    "Only H3 block"
+   ],
+   "ans": 0,
+   "exp": "Muscarinic receptors blocker. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-022",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation are preferred as:",
+   "opts": [
+    "Antimuscarinics",
+    "Antihistaminics",
+    "Prokinetics",
+    "Antiemetics only"
+   ],
+   "ans": 0,
+   "exp": "Preferred antimuscarinics. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-023",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation C/I are:",
+   "opts": [
+    "Elderly, children, pilots, drivers",
+    "Only elderly",
+    "Only children",
+    "Only hypertensives"
+   ],
+   "ans": 0,
+   "exp": "C/I: Elderly, children, pilots, drivers. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-024",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "First generation S/E is:",
+   "opts": [
+    "Nausea & vomiting d/t delayed gastric emptying",
+    "Only sedation",
+    "Only dry mouth",
+    "Only urinary retention"
+   ],
+   "ans": 0,
+   "exp": "S/E: Nausea & vomiting d/t delayed gastric emptying. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-025",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "Second generation potency is:",
+   "opts": [
+    "More potent",
+    "Less potent",
+    "Equal",
+    "No potency"
+   ],
+   "ans": 0,
+   "exp": "Second Generation more potent. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-026",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "Second generation BBB is:",
+   "opts": [
+    "Does not cross BBB -> Non-sedating",
+    "Crosses BBB -> Sedating",
+    "Crosses partially",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "Does not cross BBB -> Non-sedating. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-027",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "Second generation muscarinic blocking:",
+   "opts": [
+    "Do not block muscarinic receptors",
+    "Block muscarinic",
+    "Block nicotinic",
+    "Block adrenergic"
+   ],
+   "ans": 0,
+   "exp": "Do not block muscarinic receptors. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-028",
+   "sec": "H1 Blockers: Classification",
+   "page": 230,
+   "q": "Second generation preferred as:",
+   "opts": [
+    "Antihistaminics",
+    "Antimuscarinics",
+    "Prokinetics",
+    "Sedatives"
+   ],
+   "ans": 0,
+   "exp": "Preferred antihistaminics. (Book p230)"
+  },
+  {
+   "id": "PHARM-C58-029",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "General use of 1st generation H1 blockers is:",
+   "opts": [
+    "Non-allergic rhinitis",
+    "Allergic rhinitis only",
+    "Urticaria only",
+    "Peptic ulcer"
+   ],
+   "ans": 0,
+   "exp": "General use: Non-allergic rhinitis. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-030",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Drugs with maximum antimuscarinic effect are:",
+   "opts": [
+    "Promethazine, Diphenhydramine, Dimenhydrinate",
+    "Cetirizine and loratadine",
+    "Fexofenadine only",
+    "Azelastine only"
+   ],
+   "ans": 0,
+   "exp": "Promethazine, Diphenhydramine, Dimenhydrinate: maximum antimuscarinic effect. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-031",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Promethazine/diphenhydramine/dimenhydrinate for motion sickness:",
+   "opts": [
+    "Taken 1 hr before travel (Oral)",
+    "Taken after travel",
+    "IV only",
+    "Topical only"
+   ],
+   "ans": 0,
+   "exp": "Motion sickness: Taken 1 hr before travel (Oral). (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-032",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Promethazine etc for EPS:",
+   "opts": [
+    "Acute dystonia",
+    "Tardive dyskinesia only",
+    "Akathisia only",
+    "Only parkinsonism"
+   ],
+   "ans": 0,
+   "exp": "EPS (Extra Pyramidal symptoms): Acute dystonia. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-033",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Meniere disease treated with promethazine group for:",
+   "opts": [
+    "Vertigo",
+    "Hearing loss only",
+    "Tinnitus only",
+    "Allergy only"
+   ],
+   "ans": 0,
+   "exp": "Meniere disease: vertigo. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-034",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Promethazine, Diphenhydramine as:",
+   "opts": [
+    "Local anaesthetic",
+    "Only antihistaminic",
+    "Only antiemetic",
+    "Only sedative"
+   ],
+   "ans": 0,
+   "exp": "Promethazine, Diphenhydramine: Local anaesthetic. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-035",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Dimenhydrinate used for:",
+   "opts": [
+    "Insomnia",
+    "Only motion sickness",
+    "Only allergy",
+    "Only vertigo"
+   ],
+   "ans": 0,
+   "exp": "Dimenhydrinate: Insomnia. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-036",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Promethazine for chemotherapy induced:",
+   "opts": [
+    "Nausea & vomiting",
+    "Only allergy",
+    "Only insomnia",
+    "Only motion sickness"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy induced nausea & vomiting. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-037",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Promethazine S/E alpha1 blockade causes:",
+   "opts": [
+    "Hypotension",
+    "Hypertension",
+    "Tachycardia only",
+    "No effect"
+   ],
+   "ans": 0,
+   "exp": "S/E: α1 blockade -> Hypotension. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-038",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Doxinate is:",
+   "opts": [
+    "Doxylamine + Vitamin B6",
+    "Doxylamine + Vitamin C",
+    "Chlorpheniramine + B6",
+    "Promethazine + B6"
+   ],
+   "ans": 0,
+   "exp": "Doxinate: Doxylamine + Vitamin B6. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-039",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "DOC for morning sickness is:",
+   "opts": [
+    "Doxylamine (Doxinate)",
+    "Promethazine",
+    "Chlorpheniramine",
+    "Cetirizine"
+   ],
+   "ans": 0,
+   "exp": "DOC: morning sickness. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-040",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Least sedating 1st gen drug is:",
+   "opts": [
+    "Chlorpheniramine",
+    "Promethazine",
+    "Diphenhydramine",
+    "Dimenhydrinate"
+   ],
+   "ans": 0,
+   "exp": "Chlorpheniramine: Least sedating 1st gen drug. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-041",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Chlorpheniramine preferred for:",
+   "opts": [
+    "Day time use",
+    "Night time use",
+    "Only in elderly",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Preferred: Day time use. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-042",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Meclizine/cyclizine used for:",
+   "opts": [
+    "Motion sickness",
+    "Urticaria only",
+    "Allergic rhinitis only",
+    "Peptic ulcer"
+   ],
+   "ans": 0,
+   "exp": "Meclizine/cyclizine: motion sickness. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-043",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Doxepin is:",
+   "opts": [
+    "Tricyclic Antidepressants",
+    "Only antihistaminic",
+    "Only antimuscarinic",
+    "Only topical"
+   ],
+   "ans": 0,
+   "exp": "Doxepin: Tricyclic Antidepressants. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-044",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Cyproheptadine is:",
+   "opts": [
+    "5HT2 blocker",
+    "H1 blocker only",
+    "H2 blocker",
+    "H3 blocker"
+   ],
+   "ans": 0,
+   "exp": "Cyproheptadine: 5HT2 blocker. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-045",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Hydroxyzine anti pruritic effect -> Rx of:",
+   "opts": [
+    "Skin allergies",
+    "Peptic ulcer",
+    "Motion sickness only",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Anti pruritic effect -> Rx of skin allergies. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-046",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "Hydroxyzine other effects are:",
+   "opts": [
+    "Anxiolytic and antiemetic",
+    "Only antipruritic",
+    "Only sedative",
+    "Only local anaesthetic"
+   ],
+   "ans": 0,
+   "exp": "Anxiolytic, Antiemetic. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-047",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "page": 231,
+   "q": "DOC for motion sickness is:",
+   "opts": [
+    "Transdermal scopolamine patch",
+    "Promethazine",
+    "Chlorpheniramine",
+    "Cetirizine"
+   ],
+   "ans": 0,
+   "exp": "DOC for motion sickness: Transdermal scopolamine patch. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-048",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "DOC for urticaria is:",
+   "opts": [
+    "Second generation H1 blockers",
+    "First generation",
+    "Steroids",
+    "No drug"
+   ],
+   "ans": 0,
+   "exp": "DOC: urticaria. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-049",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "As supplements for allergic rhinitis (Hay fever DOC Steroids):",
+   "opts": [
+    "Second generation H1 blockers",
+    "First generation only",
+    "No role",
+    "Only topical"
+   ],
+   "ans": 0,
+   "exp": "As supplements: Allergic rhinitis (Hay fever->DOC: Steroids). (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-050",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Cetirizine is:",
+   "opts": [
+    "Hydroxyzine derivative",
+    "Promethazine derivative",
+    "Loratadine derivative",
+    "Terfenadine derivative"
+   ],
+   "ans": 0,
+   "exp": "Cetirizine: Hydroxyzine derivative. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-051",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Most sedating 2nd gen drug is:",
+   "opts": [
+    "Cetirizine",
+    "Fexofenadine",
+    "Loratadine",
+    "Desloratadine"
+   ],
+   "ans": 0,
+   "exp": "Most sedating 2nd gen drug. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-052",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Levocetirizine is:",
+   "opts": [
+    "More potent isomer of cetirizine, lesser dose requirement",
+    "Less potent isomer",
+    "Same potency",
+    "Prodrug of cetirizine"
+   ],
+   "ans": 0,
+   "exp": "More potent isomer of cetirizine, Lesser dose requirement. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-053",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Astemizole & Terfenadine risk is:",
+   "opts": [
+    "QT prolongation -> Torsades (Hence banned)",
+    "No QT risk",
+    "Only sedation",
+    "Only antimuscarinic"
+   ],
+   "ans": 0,
+   "exp": "↑ Risk of QT prolongation -> Torsades (Hence banned). (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-054",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Fexofenadine is:",
+   "opts": [
+    "Terfenadine derivative: No QT prolongation",
+    "Astemizole derivative with QT prolongation",
+    "Cetirizine derivative",
+    "Loratadine derivative"
+   ],
+   "ans": 0,
+   "exp": "Fexofenadine: Terfenadine derivative: No QT prolongation. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-055",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Least sedating antihistaminic is:",
+   "opts": [
+    "Fexofenadine",
+    "Cetirizine",
+    "Chlorpheniramine",
+    "Promethazine"
+   ],
+   "ans": 0,
+   "exp": "Least sedating antihistaminic. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-056",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Loratadine metabolite is:",
+   "opts": [
+    "Desloratidine, most potent antihistaminic",
+    "Fexofenadine, least sedating",
+    "Cetirizine, most sedating",
+    "Azelastine, topical only"
+   ],
+   "ans": 0,
+   "exp": "Loratidine metabolite -> Desloratidine: most potent antihistaminic. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-057",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Most potent antihistaminic is:",
+   "opts": [
+    "Desloratidine",
+    "Cetirizine",
+    "Fexofenadine",
+    "Chlorpheniramine"
+   ],
+   "ans": 0,
+   "exp": "Most potent antihistaminic. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-058",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Rupatadine:",
+   "opts": [
+    "(-)Platelet activating factor -> Anti-inflammatory",
+    "Only H1 blocker",
+    "Only antimuscarinic",
+    "Only sedative"
+   ],
+   "ans": 0,
+   "exp": "(-)Platelet activating factor -> Anti-inflammatory. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-059",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Topical antihistaminic drugs are:",
+   "opts": [
+    "Azelastine, Epinastine, Alcaftadine, Levocarbastine, Olopatadine",
+    "Cetirizine and loratadine",
+    "Promethazine only",
+    "Chlorpheniramine only"
+   ],
+   "ans": 0,
+   "exp": "Topical Drugs: Azelastine, Epinastine, Alcaftadine, Levocarbastine, Olopatadine. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-060",
+   "sec": "Second Generation H1 Blockers and Topical Agents",
+   "page": 231,
+   "q": "Topical antihistaminics uses are:",
+   "opts": [
+    "Allergic rhinitis, Allergic conjunctivitis",
+    "Only urticaria",
+    "Only motion sickness",
+    "Only peptic ulcer"
+   ],
+   "ans": 0,
+   "exp": "Uses: Allergic rhinitis, Allergic conjunctivitis. (Book p231)"
+  },
+  {
+   "id": "PHARM-C58-061",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Kininogen via kallikrein forms:",
+   "opts": [
+    "Kallidin and bradykinin",
+    "Only bradykinin 1",
+    "Only kallidin",
+    "Only histamine"
+   ],
+   "ans": 0,
+   "exp": "Kininogen Kallidrein -> Kallidin Bradykinin. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-062",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Bradykinin stimulates:",
+   "opts": [
+    "Bradykinin 1 and Bradykinin 2",
+    "Only B1",
+    "Only B2",
+    "Only H1"
+   ],
+   "ans": 0,
+   "exp": "Bradykinin 1 Bradykinin 2. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-063",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Bradykinin 1/2 activation increases:",
+   "opts": [
+    "Prostaglandins and Nitric Oxide",
+    "Only prostaglandins",
+    "Only NO",
+    "Only histamine"
+   ],
+   "ans": 0,
+   "exp": "↑Prostaglandins ↑Nitric Oxide. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-064",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Prostaglandins cause:",
+   "opts": [
+    "Pain and inflammation",
+    "Vasodilation only",
+    "Only itching",
+    "Only fever"
+   ],
+   "ans": 0,
+   "exp": "Pain Inflammation. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-065",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Nitric oxide causes:",
+   "opts": [
+    "Vasodilation",
+    "Pain",
+    "Inflammation",
+    "Bronchoconstriction"
+   ],
+   "ans": 0,
+   "exp": "Nitric Oxide Vasodilation. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-066",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Kallikrein antagonists are:",
+   "opts": [
+    "Aprotinin, Lanadelumab, Berotralstat, Ecallantide",
+    "Icatibant only",
+    "Danazol only",
+    "Only aprotinin"
+   ],
+   "ans": 0,
+   "exp": "Antagonists: Aprotinin Lanadelumab Berotralstat Ecallantide. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-067",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Icatibant blocks:",
+   "opts": [
+    "Bradykinin 2 receptor",
+    "Kallikrein",
+    "Bradykinin 1 only",
+    "Histamine H1"
+   ],
+   "ans": 0,
+   "exp": "Icatibant (-) Bradykinin 2. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-068",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Aprotinin MOA is:",
+   "opts": [
+    "Plasmin (-) : Antifibrinolytic",
+    "Kallikrein (+)",
+    "Bradykinin (+)",
+    "Histamine (-)"
+   ],
+   "ans": 0,
+   "exp": "Plasmin (-): Antifibrinolytic. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-069",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Aprotinin use is:",
+   "opts": [
+    "Decreased risk of bleeding post CABG (Coronary Artery Bypass Grafting)",
+    "Increased bleeding",
+    "Only angioedema",
+    "Only prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Uses: ↓ Risk of bleeding post CABG. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-070",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Hereditary angioedema Rx DOC is:",
+   "opts": [
+    "C1 Esterase inhibitor (C1 Esterase -)",
+    "Icatibant",
+    "Ecallantide",
+    "Danazol"
+   ],
+   "ans": 0,
+   "exp": "DOC: C1 Esterase (-). (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-071",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Alternatives for hereditary angioedema Rx are:",
+   "opts": [
+    "Icatibant & Ecallantide",
+    "Lanadelumab & Berotralstat",
+    "Danazol only",
+    "Aprotinin only"
+   ],
+   "ans": 0,
+   "exp": "Alternatives: Icatibant & Ecallantide. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-072",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Prophylaxis of hereditary angioedema DOC is:",
+   "opts": [
+    "Danazol",
+    "C1 esterase",
+    "Icatibant",
+    "EACA only"
+   ],
+   "ans": 0,
+   "exp": "Prophylaxis DOC: Danazol. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-073",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Alternatives for prophylaxis are:",
+   "opts": [
+    "Lanadelumab & Berotralstat",
+    "Icatibant & Ecallantide",
+    "Aprotinin only",
+    "C1 esterase only"
+   ],
+   "ans": 0,
+   "exp": "Alternatives: Lanadelumab & Berotralstat. (Book p232)"
+  },
+  {
+   "id": "PHARM-C58-074",
+   "sec": "Bradykinin and Hereditary Angioedema",
+   "page": 232,
+   "q": "Pre surgery prophylaxis for hereditary angioedema is:",
+   "opts": [
+    "Epsilon-AminoCaproic Acid (EACA)",
+    "Danazol",
+    "Icatibant",
+    "C1 esterase"
+   ],
+   "ans": 0,
+   "exp": "Pre surgery: Epsilon-AminoCaproic Acid (EACA). (Book p232)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U58-1",
+   "ch": 58,
+   "n": 1,
+   "title": "Histamine Receptors and Effects",
+   "sec": "Histamine Receptors and Effects · p230",
+   "qs": [
+    "PHARM-C58-001",
+    "PHARM-C58-002",
+    "PHARM-C58-003",
+    "PHARM-C58-004",
+    "PHARM-C58-005",
+    "PHARM-C58-006",
+    "PHARM-C58-007",
+    "PHARM-C58-008",
+    "PHARM-C58-009",
+    "PHARM-C58-010",
+    "PHARM-C58-011",
+    "PHARM-C58-012",
+    "PHARM-C58-013",
+    "PHARM-C58-014",
+    "PHARM-C58-015",
+    "PHARM-C58-016",
+    "PHARM-C58-017",
+    "PHARM-C58-018"
+   ],
+   "guide": "Histamine effects are due to its receptors which are GPCRs. H1 is post-synaptic Gq increasing Ca2+ used for allergy/motion sickness; H2 is post-synaptic Gs increasing cAMP used for peptic ulcer; H3 is presynaptic Gi decreasing histamine in synapse used for wakefulness via pitolisant in narcolepsy; H4 is on leucocytes Gi mediating chemotaxis with no drugs currently. Increased Ca2+ causes bronchoconstriction, vasodilatation, increased GI contractions, wakefulness, decreased appetite and itching via PNS; increased cAMP increases heart contraction and HR and stomach HCl release."
+  },
+  {
+   "id": "PHARM-U58-2",
+   "ch": 58,
+   "n": 2,
+   "title": "H1 Blockers: Classification",
+   "sec": "H1 Blockers: Classification · p230",
+   "qs": [
+    "PHARM-C58-019",
+    "PHARM-C58-020",
+    "PHARM-C58-021",
+    "PHARM-C58-022",
+    "PHARM-C58-023",
+    "PHARM-C58-024",
+    "PHARM-C58-025",
+    "PHARM-C58-026",
+    "PHARM-C58-027",
+    "PHARM-C58-028"
+   ],
+   "guide": "First generation H1 blockers are less potent, cross blood-brain barrier causing sedation, block muscarinic receptors so preferred as antimuscarinics, contraindicated in elderly, children, pilots and drivers, and cause nausea and vomiting due to delayed gastric emptying. Second generation are more potent, do not cross BBB so non-sedating, do not block muscarinic receptors and are preferred as antihistaminics."
+  },
+  {
+   "id": "PHARM-U58-3",
+   "ch": 58,
+   "n": 3,
+   "title": "First Generation H1 Blockers: Specific Drugs and Uses",
+   "sec": "First Generation H1 Blockers: Specific Drugs and Uses · p231",
+   "qs": [
+    "PHARM-C58-029",
+    "PHARM-C58-030",
+    "PHARM-C58-031",
+    "PHARM-C58-032",
+    "PHARM-C58-033",
+    "PHARM-C58-034",
+    "PHARM-C58-035",
+    "PHARM-C58-036",
+    "PHARM-C58-037",
+    "PHARM-C58-038",
+    "PHARM-C58-039",
+    "PHARM-C58-040",
+    "PHARM-C58-041",
+    "PHARM-C58-042",
+    "PHARM-C58-043",
+    "PHARM-C58-044",
+    "PHARM-C58-045",
+    "PHARM-C58-046",
+    "PHARM-C58-047"
+   ],
+   "guide": "Promethazine, diphenhydramine and dimenhydrinate have maximum antimuscarinic effect and are used for motion sickness taken 1 hr before travel orally, for acute dystonia in EPS, for vertigo in Meniere disease, promethazine and diphenhydramine also as local anaesthetic, dimenhydrinate for insomnia, promethazine for chemotherapy induced nausea vomiting with side effect alpha1 blockade causing hypotension. Doxylamine with vitamin B6 as doxinate is DOC for morning sickness. Chlorpheniramine is least sedating first gen and preferred for daytime use; meclizine/cyclizine for motion sickness; doxepin is a tricyclic antidepressant; cyproheptadine is a 5HT2 blocker; hydroxyzine has antipruritic effect for skin allergies, anxiolytic and antiemetic. DOC for motion sickness is transdermal scopolamine patch."
+  },
+  {
+   "id": "PHARM-U58-4",
+   "ch": 58,
+   "n": 4,
+   "title": "Second Generation H1 Blockers and Topical Agents",
+   "sec": "Second Generation H1 Blockers and Topical Agents · p231",
+   "qs": [
+    "PHARM-C58-048",
+    "PHARM-C58-049",
+    "PHARM-C58-050",
+    "PHARM-C58-051",
+    "PHARM-C58-052",
+    "PHARM-C58-053",
+    "PHARM-C58-054",
+    "PHARM-C58-055",
+    "PHARM-C58-056",
+    "PHARM-C58-057",
+    "PHARM-C58-058",
+    "PHARM-C58-059",
+    "PHARM-C58-060"
+   ],
+   "guide": "Second generation uses are urticaria DOC and as supplements for allergic rhinitis where hay fever DOC is steroids. Cetirizine is a hydroxyzine derivative and most sedating second gen; levocetirizine is its more potent isomer requiring lesser dose; astemizole and terfenadine increase QT prolongation causing torsades hence banned; fexofenadine is a terfenadine derivative with no QT prolongation and least sedating; loratadine metabolite desloratadine is most potent antihistaminic; rupatadine blocks platelet activating factor giving anti-inflammatory effect. Topical drugs azelastine, epinastine, alcaftadine, levocarbastine and olopatadine are used for allergic rhinitis and allergic conjunctivitis."
+  },
+  {
+   "id": "PHARM-U58-5",
+   "ch": 58,
+   "n": 5,
+   "title": "Bradykinin and Hereditary Angioedema",
+   "sec": "Bradykinin and Hereditary Angioedema · p232",
+   "qs": [
+    "PHARM-C58-061",
+    "PHARM-C58-062",
+    "PHARM-C58-063",
+    "PHARM-C58-064",
+    "PHARM-C58-065",
+    "PHARM-C58-066",
+    "PHARM-C58-067",
+    "PHARM-C58-068",
+    "PHARM-C58-069",
+    "PHARM-C58-070",
+    "PHARM-C58-071",
+    "PHARM-C58-072",
+    "PHARM-C58-073",
+    "PHARM-C58-074"
+   ],
+   "guide": "Kininogen via kallikrein forms kallidin and bradykinin which stimulate bradykinin 1 and 2 receptors increasing prostaglandins causing pain and inflammation and nitric oxide causing vasodilation. Kallikrein antagonists are aprotinin, lanadelumab, berotralstat and ecallantide; icatibant blocks bradykinin 2 receptor. Aprotinin also inhibits plasmin giving antifibrinolytic effect used to decrease bleeding post CABG. Hereditary angioedema treatment DOC is C1 esterase inhibitor deficiency replacement, alternatives icatibant and ecallantide; prophylaxis DOC danazol, alternatives lanadelumab and berotralstat, pre-surgery epsilon-aminocaproic acid EACA."
+  }
+ ]
+}

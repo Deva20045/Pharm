@@ -1,0 +1,921 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C57-001",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "TSH acts on:",
+   "opts": [
+    "TSH-Receptor to increase production",
+    "Na+-I- symporter only",
+    "Thyroglobulin receptor only",
+    "TPO directly"
+   ],
+   "ans": 0,
+   "exp": "(T) TSH-Receptor Production ↑. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-002",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Na+-I- symporter transports:",
+   "opts": [
+    "I-",
+    "Na+ only",
+    "T3/T4",
+    "Thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "Na+-I- Symporter I-. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-003",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Thyroid peroxidase (TPO) mediates:",
+   "opts": [
+    "Organification (1) and Coupling (2)",
+    "Only organification",
+    "Only coupling",
+    "Thiol endopeptidase action"
+   ],
+   "ans": 0,
+   "exp": "TPO (1) Organification (2) Coupling. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-004",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Organification is:",
+   "opts": [
+    "(1) step inhibited by thioamides",
+    "Release step",
+    "Deiodination",
+    "TG breakdown"
+   ],
+   "ans": 0,
+   "exp": "(1): Organification. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-005",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Coupling is:",
+   "opts": [
+    "(2) step inhibited by thioamides",
+    "Organification",
+    "Release",
+    "Deiodination"
+   ],
+   "ans": 0,
+   "exp": "(2): Coupling. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-006",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "MIT and DIT form:",
+   "opts": [
+    "T3 and T4",
+    "Only T3",
+    "Only T4",
+    "Reverse T3 only"
+   ],
+   "ans": 0,
+   "exp": "MIT TPO DIT -> T3 T4. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-007",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "T3 and T4 are stored as:",
+   "opts": [
+    "Thyroglobulin (TG) in colloid (Storage)",
+    "Free hormones in blood",
+    "Only in follicular cells",
+    "In parafollicular cells"
+   ],
+   "ans": 0,
+   "exp": "Thyroglobulin (TG) Colloid (Storage) T3 T4. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-008",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Thiol endopeptidase:",
+   "opts": [
+    "Breaks TG to release T3/T4",
+    "Synthesizes TG",
+    "Organifies iodide",
+    "Converts T4 to T3"
+   ],
+   "ans": 0,
+   "exp": "Thiol endopeptidase: Breaks TG. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-009",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Release of T3/T4 is:",
+   "opts": [
+    "Inhibited by iodide excess",
+    "Stimulated by iodide",
+    "Not regulated",
+    "Only via TPO"
+   ],
+   "ans": 0,
+   "exp": "Release (-) with iodide. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-010",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Peripheral conversion T4 to T3 is by:",
+   "opts": [
+    "5-deiodinase",
+    "TPO",
+    "Thiol endopeptidase",
+    "Na+-I- symporter"
+   ],
+   "ans": 0,
+   "exp": "T4 5-deiodinase (-) -> T3. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-011",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "T3 is:",
+   "opts": [
+    "Active hormone",
+    "Inactive",
+    "Storage form",
+    "Prodrug only"
+   ],
+   "ans": 0,
+   "exp": "T3 (active). (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-012",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Thyroglobulin receptor is indicated by:",
+   "opts": [
+    "Uptake arrow for TG",
+    "TSH receptor",
+    "Na+ symporter",
+    "TPO enzyme"
+   ],
+   "ans": 0,
+   "exp": "Diagram: Thyroglobulin Receptor. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-013",
+   "sec": "Thyroid Physiology and Sites of Drug Action",
+   "page": 227,
+   "q": "Drugs inhibiting Na+-I- symporter would:",
+   "opts": [
+    "Decrease iodide uptake",
+    "Increase T3 release",
+    "Increase coupling",
+    "Block deiodinase only"
+   ],
+   "ans": 0,
+   "exp": "Na+-I- Symporter (-) reduces I-. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-014",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Thioamide drugs are:",
+   "opts": [
+    "Propylthiouracil (PTU) and carbimazole (prodrug) -> methimazole",
+    "Potassium iodide and Lugol iodine",
+    "Radioactive iodine",
+    "Levothyroxine and liothyronine"
+   ],
+   "ans": 0,
+   "exp": "Thioamide drugs: Propylthiouracil (PTU), Carbimazole (Prodrug). (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-015",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Carbimazole is:",
+   "opts": [
+    "Prodrug converted to methimazole, longer acting",
+    "Active drug itself",
+    "Short acting only",
+    "Not a thioamide"
+   ],
+   "ans": 0,
+   "exp": "Carbimazole (Prodrug): Longer acting -> methimazole. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-016",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "PTU T1/2 is:",
+   "opts": [
+    "Short: multiple dosing",
+    "Long: once daily dosing",
+    "Very long weekly",
+    "Intermediate BD"
+   ],
+   "ans": 0,
+   "exp": "PTU T1/2 Short: multiple dosing. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-017",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Methimazole T1/2 is:",
+   "opts": [
+    "Long: once daily dosing",
+    "Short: multiple dosing",
+    "Ultra-short",
+    "Only IV"
+   ],
+   "ans": 0,
+   "exp": "Methimazole long: Once daily dosing. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-018",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "PTU side effect is:",
+   "opts": [
+    "Hepatotoxic",
+    "Teratogenic cutis aplasia",
+    "Cholestatic jaundice",
+    "Scalp defect"
+   ],
+   "ans": 0,
+   "exp": "S/E Hepatotoxic for PTU. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-019",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Methimazole teratogenic effects are:",
+   "opts": [
+    "Cutis Aplasia: scalp defect, choanal/esophageal atresia",
+    "Hepatotoxicity only",
+    "Rash only",
+    "Agranulocytosis only"
+   ],
+   "ans": 0,
+   "exp": "1. Teratogenic -> Cutis Aplasia: Scalp defect choanal/esophageal Atresia. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-020",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Methimazole also causes:",
+   "opts": [
+    "Cholestatic jaundice",
+    "Hepatocellular necrosis only",
+    "No liver effect",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "2. Cholestatic Jaundice. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-021",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Common side effects of thioamides are:",
+   "opts": [
+    "Maculopapular rash (m/c), agranulocytosis, arthralgia",
+    "Only hepatotoxicity",
+    "Only rash",
+    "Only agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Common S/E: maculopapular Rash (m/c), Agranulocytosis, Arthralgia. (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-022",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "page": 227,
+   "q": "Most common side effect of thioamides is:",
+   "opts": [
+    "Maculopapular rash",
+    "Agranulocytosis",
+    "Arthralgia",
+    "Hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Maculopapular Rash (m/c). (Book p227)"
+  },
+  {
+   "id": "PHARM-C57-023",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "PTU is preferred in:",
+   "opts": [
+    "1st trimester pregnancy (less teratogenic) and thyroid storm",
+    "2nd and 3rd trimester",
+    "Only in elderly",
+    "Only prior to surgery"
+   ],
+   "ans": 0,
+   "exp": "Use: In pregnancy: 1st trimester (Less Teratogenic) Thyroid storm. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-024",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "Methimazole is:",
+   "opts": [
+    "Commonly prescribed",
+    "Rarely used",
+    "Only for thyroid storm",
+    "Only IV"
+   ],
+   "ans": 0,
+   "exp": "Commonly Prescribed. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-025",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "Methimazole in pregnancy is used in:",
+   "opts": [
+    "2nd and 3rd trimester (less hepatotoxic)",
+    "1st trimester",
+    "Only 1st trimester",
+    "Never in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "In pregnancy: 2nd and 3rd trimester (less Hepatotoxic). (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-026",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "Thyroid storm first drug is:",
+   "opts": [
+    "Beta blockers to prevent atrial fibrillation",
+    "PTU",
+    "Methimazole",
+    "Potassium iodide"
+   ],
+   "ans": 0,
+   "exp": "Note: management of thyroid storm 1st drug -> Beta Blockers: To prevent Atrial fibrillation. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-027",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "If beta blockers contraindicated in thyroid storm due to asthma/COPD:",
+   "opts": [
+    "Verapamil/Diltiazem",
+    "Continue beta blockers",
+    "Stop all treatment",
+    "Use only KI"
+   ],
+   "ans": 0,
+   "exp": "If C/I: Asthma/COPD Verapamil/Diltiazem. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-028",
+   "sec": "Thioamide Uses and Thyroid Storm Management",
+   "page": 228,
+   "q": "Other drugs in thyroid storm are:",
+   "opts": [
+    "Steroid, KI",
+    "Only beta blockers",
+    "Only PTU",
+    "Only methimazole"
+   ],
+   "ans": 0,
+   "exp": "Other drugs: Steroid, KI. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-029",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Thioendopeptidase inhibitors are:",
+   "opts": [
+    "Potassium iodide (10%) and Lugol iodine (5%)",
+    "PTU and methimazole",
+    "Steroids and beta blockers",
+    "Radioactive iodine"
+   ],
+   "ans": 0,
+   "exp": "Drugs: Potassium iodide (10%) Lugol iodine (5%). (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-030",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "MOA of iodides is:",
+   "opts": [
+    "Inhibits Release of T3/T4",
+    "Inhibits organification only",
+    "Stimulates release",
+    "Blocks 5-deiodinase"
+   ],
+   "ans": 0,
+   "exp": "MOA: Inhibits Release of T3/T4. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-031",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Iodides are:",
+   "opts": [
+    "Fastest-acting antithyroid drugs",
+    "Slowest acting",
+    "No effect on release",
+    "Only for hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Fastest-acting Antithyroid drugs. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-032",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Iodides develop:",
+   "opts": [
+    "Tolerance: cannot be used as long-term therapy",
+    "No tolerance",
+    "Dependence",
+    "Only short tolerance of 1 day"
+   ],
+   "ans": 0,
+   "exp": "Develop tolerance: Cannot be used as long-term therapy. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-033",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Extra benefits of iodides are:",
+   "opts": [
+    "Decreased size of thyroid (makes it firm) and decreased blood vessels in gland (decreased bleeding)",
+    "Increased size only",
+    "Increased vascularity",
+    "No surgical benefit"
+   ],
+   "ans": 0,
+   "exp": "Extra benefits: ↓ Size of thyroid: makes it firm ↓ Blood vessels in gland: ↓ Bleeding. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-034",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Iodides are used:",
+   "opts": [
+    "Prior to surgery",
+    "As long-term monotherapy",
+    "In pregnancy alone",
+    "Only in thyroid storm"
+   ],
+   "ans": 0,
+   "exp": "Used Prior to Surgery. (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-035",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Lugol iodine concentration is:",
+   "opts": [
+    "5%",
+    "10%",
+    "1%",
+    "0.5%"
+   ],
+   "ans": 0,
+   "exp": "Lugol iodine (5%). (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-036",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides",
+   "page": 228,
+   "q": "Potassium iodide concentration is:",
+   "opts": [
+    "10%",
+    "5%",
+    "1%",
+    "20%"
+   ],
+   "ans": 0,
+   "exp": "Potassium iodide (10%). (Book p228)"
+  },
+  {
+   "id": "PHARM-C57-037",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "5-deiodinase inhibitors / peripheral conversion (T4-T3) inhibitors are:",
+   "opts": [
+    "PTU, steroids, beta-blocker, amiodarone",
+    "Only PTU",
+    "Only amiodarone",
+    "Potassium iodide and Lugol iodine"
+   ],
+   "ans": 0,
+   "exp": "5-Deiodinase inhibitors: PTU Steroids Beta-blocker Amiodarone. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-038",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "I131 is used for:",
+   "opts": [
+    "Thyroid ablation",
+    "Thyroid scan",
+    "Only hypothyroidism treatment",
+    "Only for medullary ca"
+   ],
+   "ans": 0,
+   "exp": "I131: Thyroid Ablation. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-039",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "I123 is used for:",
+   "opts": [
+    "Thyroid scan",
+    "Thyroid ablation",
+    "Only for Graves",
+    "Only for hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "I123: Thyroid Scan. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-040",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Radioactive iodine for hyperthyroidism is preferred in:",
+   "opts": [
+    "Elderly and patient with arrhythmia",
+    "Children and pregnant women",
+    "Only in young adults",
+    "Only first trimester"
+   ],
+   "ans": 0,
+   "exp": "Hyperthyroidism -> In Elderly, Patient with Arrhythmia. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-041",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Radioactive iodine is used in thyroid carcinoma except:",
+   "opts": [
+    "Medullary carcinoma",
+    "Papillary carcinoma",
+    "Follicular carcinoma",
+    "Anaplastic carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Thyroid Carcinoma (Except: medullary ca). (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-042",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Recurrent Graves disease is treated with:",
+   "opts": [
+    "Radioactive iodine",
+    "Only surgery",
+    "Only thioamides lifelong",
+    "Only beta blockers"
+   ],
+   "ans": 0,
+   "exp": "Recurrent Graves disease. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-043",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Side effect of I131 is:",
+   "opts": [
+    "Radiation thyroiditis -> increased T3/T4",
+    "Decreased T3/T4 immediately",
+    "No thyroiditis",
+    "Only hypothyroidism without rise"
+   ],
+   "ans": 0,
+   "exp": "S/E: Radiation Thyroiditis -> ↑ T3/T4. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-044",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Management to prevent radiation thyroiditis includes:",
+   "opts": [
+    "Premedicate patient with methimazole",
+    "Premedicate with PTU only",
+    "No premedication needed",
+    "Give KI only"
+   ],
+   "ans": 0,
+   "exp": "Rx: Premedicate patient with methimazole. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-045",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Methimazole timing around I131 therapy is:",
+   "opts": [
+    "Start methimazole, stop before 3 days I131 therapy, Day I131 given, restart after 3 days",
+    "Continue methimazole during I131",
+    "Stop 10 days before",
+    "Never restart after"
+   ],
+   "ans": 0,
+   "exp": "Start methimazole Stop before 3 days I131 therapy Day I131 given Restart After 3 days. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-046",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Long term side effects of I131 are:",
+   "opts": [
+    "Life long hypothyroidism and secondary cancers",
+    "Only transient hyperthyroidism",
+    "Only alopecia",
+    "Only GI upset"
+   ],
+   "ans": 0,
+   "exp": "Life long Hypothyroidism, Secondary cancers. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-047",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "page": 229,
+   "q": "Radioactive iodine is contraindicated in:",
+   "opts": [
+    "Pregnancy",
+    "Elderly",
+    "Patient with arrhythmia",
+    "Recurrent Graves"
+   ],
+   "ans": 0,
+   "exp": "C/I: Pregnancy. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-048",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Levothyroxine (Le) is:",
+   "opts": [
+    "T4 salt, longer acting",
+    "T3 salt, shorter acting",
+    "T3 salt longer acting",
+    "T4 salt shorter acting"
+   ],
+   "ans": 0,
+   "exp": "Levothyroxine (Le) [T4 salt] Longer Acting. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-049",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Liothyronine (Li) is:",
+   "opts": [
+    "T3 salt, shorter acting",
+    "T4 salt longer acting",
+    "T4 salt shorter",
+    "Only IV"
+   ],
+   "ans": 0,
+   "exp": "Liothyronine (Li) [T3 salt] Shorter Acting. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-050",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Levothyroxine is DOC for:",
+   "opts": [
+    "Replacement in hypothyroidism (DOC)",
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Thyroid scan"
+   ],
+   "ans": 0,
+   "exp": "Replacement in Hypothyroidism (DOC). (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-051",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Levothyroxine oral administration is:",
+   "opts": [
+    "Empty stomach 30 min before breakfast",
+    "With food",
+    "With calcium",
+    "At bedtime with milk"
+   ],
+   "ans": 0,
+   "exp": "Empty Stomach 30 min before breakfast. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-052",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Levothyroxine for thyroid cancer is used to:",
+   "opts": [
+    "Decrease TSH, oral route",
+    "Increase TSH",
+    "Only IV",
+    "Only for medullary ca"
+   ],
+   "ans": 0,
+   "exp": "Thyroid cancer (↓ TSH): Oral Route. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-053",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Levothyroxine for myxedema coma is given:",
+   "opts": [
+    "IV route",
+    "Oral only",
+    "IM only",
+    "Not used"
+   ],
+   "ans": 0,
+   "exp": "Myxedema coma: IV Route. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-054",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Liothyronine prior to I131 therapy is:",
+   "opts": [
+    "Used prior to I131 therapy",
+    "Not used",
+    "Only for hypothyroidism replacement",
+    "Only for hyperthyroidism"
+   ],
+   "ans": 0,
+   "exp": "Prior to I131 Therapy. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-055",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Myxedema coma IV treatment is:",
+   "opts": [
+    "Le + Li + steroid",
+    "Only Le",
+    "Only Li",
+    "Only steroid"
+   ],
+   "ans": 0,
+   "exp": "Myxedema coma: IV Route Rx: Le + Li + steroid. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-056",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "Side effects of levothyroxine are:",
+   "opts": [
+    "Thyrotoxicosis, osteoporosis, atrial fibrillation",
+    "Only weight gain",
+    "Only bradycardia",
+    "Only rash"
+   ],
+   "ans": 0,
+   "exp": "S/E: Thyrotoxicosis Osteoporosis Atrial fibrillation. (Book p229)"
+  },
+  {
+   "id": "PHARM-C57-057",
+   "sec": "Treatment of Hypothyroidism",
+   "page": 229,
+   "q": "In patient with arrhythmia on levothyroxine:",
+   "opts": [
+    "Decrease dose",
+    "Increase dose",
+    "Stop permanently",
+    "Add beta blocker only"
+   ],
+   "ans": 0,
+   "exp": "Atrial fibrillation: ↓ Dose in Patient of arrhythmia. (Book p229)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U57-1",
+   "ch": 57,
+   "n": 1,
+   "title": "Thyroid Physiology and Sites of Drug Action",
+   "sec": "Thyroid Physiology and Sites of Drug Action · p227",
+   "qs": [
+    "PHARM-C57-001",
+    "PHARM-C57-002",
+    "PHARM-C57-003",
+    "PHARM-C57-004",
+    "PHARM-C57-005",
+    "PHARM-C57-006",
+    "PHARM-C57-007",
+    "PHARM-C57-008",
+    "PHARM-C57-009",
+    "PHARM-C57-010",
+    "PHARM-C57-011",
+    "PHARM-C57-012",
+    "PHARM-C57-013"
+   ],
+   "guide": "TSH acting on TSH-receptor increases production via Na+/I- symporter, thyroid peroxidase (TPO) and thiol endopeptidase. Iodide enters via Na+-I- symporter, undergoes organification (1) and coupling (2) by TPO to form MIT/DIT and then T3/T4 stored in colloid as thyroglobulin (TG). Thiol endopeptidase breaks TG to release T3/T4; T4 is peripherally converted by 5-deiodinase to active T3."
+  },
+  {
+   "id": "PHARM-U57-2",
+   "ch": 57,
+   "n": 2,
+   "title": "Thioamide Drugs: Propylthiouracil and Methimazole",
+   "sec": "Thioamide Drugs: Propylthiouracil and Methimazole · p227",
+   "qs": [
+    "PHARM-C57-014",
+    "PHARM-C57-015",
+    "PHARM-C57-016",
+    "PHARM-C57-017",
+    "PHARM-C57-018",
+    "PHARM-C57-019",
+    "PHARM-C57-020",
+    "PHARM-C57-021",
+    "PHARM-C57-022"
+   ],
+   "guide": "Thioamide drugs for hyperthyroidism are propylthiouracil (PTU) and carbimazole which is a prodrug converted to methimazole and is longer acting. PTU has short half life requiring multiple dosing and is hepatotoxic; methimazole has long half life with once daily dosing but is teratogenic causing cutis aplasia with scalp defect and choanal/esophageal atresia plus cholestatic jaundice. Common side effects for both are maculopapular rash most common, agranulocytosis and arthralgia."
+  },
+  {
+   "id": "PHARM-U57-3",
+   "ch": 57,
+   "n": 3,
+   "title": "Thioamide Uses and Thyroid Storm Management",
+   "sec": "Thioamide Uses and Thyroid Storm Management · p228",
+   "qs": [
+    "PHARM-C57-023",
+    "PHARM-C57-024",
+    "PHARM-C57-025",
+    "PHARM-C57-026",
+    "PHARM-C57-027",
+    "PHARM-C57-028"
+   ],
+   "guide": "PTU is preferred in first trimester of pregnancy because it is less teratogenic and is also used in thyroid storm; methimazole is commonly prescribed and is preferred in second and third trimester because it is less hepatotoxic. In thyroid storm the first drug is beta blockers to prevent atrial fibrillation, if contraindicated due to asthma/COPD use verapamil/diltiazem, plus other drugs steroid and potassium iodide."
+  },
+  {
+   "id": "PHARM-U57-4",
+   "ch": 57,
+   "n": 4,
+   "title": "Thiol Endopeptidase Inhibitors: Iodides",
+   "sec": "Thiol Endopeptidase Inhibitors: Iodides · p228",
+   "qs": [
+    "PHARM-C57-029",
+    "PHARM-C57-030",
+    "PHARM-C57-031",
+    "PHARM-C57-032",
+    "PHARM-C57-033",
+    "PHARM-C57-034",
+    "PHARM-C57-035",
+    "PHARM-C57-036"
+   ],
+   "guide": "Potassium iodide 10% and Lugol iodine 5% inhibit release of T3/T4 and are the fastest-acting antithyroid drugs, but they develop tolerance and cannot be used as long-term therapy. Extra benefits are decreased size of thyroid making it firm and decreased blood vessels in gland reducing bleeding, so they are used prior to surgery."
+  },
+  {
+   "id": "PHARM-U57-5",
+   "ch": 57,
+   "n": 5,
+   "title": "Peripheral Conversion Inhibitors and Radioactive Iodine",
+   "sec": "Peripheral Conversion Inhibitors and Radioactive Iodine · p229",
+   "qs": [
+    "PHARM-C57-037",
+    "PHARM-C57-038",
+    "PHARM-C57-039",
+    "PHARM-C57-040",
+    "PHARM-C57-041",
+    "PHARM-C57-042",
+    "PHARM-C57-043",
+    "PHARM-C57-044",
+    "PHARM-C57-045",
+    "PHARM-C57-046",
+    "PHARM-C57-047"
+   ],
+   "guide": "5-deiodinase inhibitors blocking peripheral conversion of T4 to T3 are PTU, steroids, beta blockers and amiodarone. Radioactive iodine I131 is used for thyroid ablation and I123 for thyroid scan. Uses of I131 are hyperthyroidism in elderly, patient with arrhythmia, thyroid carcinoma except medullary carcinoma, and recurrent Graves disease. Side effects include radiation thyroiditis with increased T3/T4 treated by premedicating with methimazole stopping 3 days before I131, giving I131 on the day, restarting after 3 days, plus lifelong hypothyroidism and secondary cancers; it is contraindicated in pregnancy."
+  },
+  {
+   "id": "PHARM-U57-6",
+   "ch": 57,
+   "n": 6,
+   "title": "Treatment of Hypothyroidism",
+   "sec": "Treatment of Hypothyroidism · p229",
+   "qs": [
+    "PHARM-C57-048",
+    "PHARM-C57-049",
+    "PHARM-C57-050",
+    "PHARM-C57-051",
+    "PHARM-C57-052",
+    "PHARM-C57-053",
+    "PHARM-C57-054",
+    "PHARM-C57-055",
+    "PHARM-C57-056",
+    "PHARM-C57-057"
+   ],
+   "guide": "Levothyroxine (Le) T4 salt is longer acting and is DOC for replacement in hypothyroidism given orally on empty stomach 30 min before breakfast; it is also used for thyroid cancer to suppress TSH orally and for myxedema coma IV. Liothyronine (Li) T3 salt is shorter acting, used prior to I131 therapy and for myxedema coma IV as Le + Li + steroid. Side effects of levothyroxine are thyrotoxicosis, osteoporosis and atrial fibrillation requiring dose reduction in patients with arrhythmia."
+  }
+ ]
+}
