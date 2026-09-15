@@ -45,12 +45,12 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 28: 113-117 DONE (118 qs, 10 units) | 29: 118-119 DONE (38 qs, 2 units) | 30: 120-122 DONE (73 qs, 6 units) |
 31: 123-126 DONE (127 qs, 10 units) | 32: 127-130 DONE (113 qs, 10 units) | 33: 131-133 DONE (74 qs, 7 units) |
 34: 134-140 DONE (169 qs, 12 units) | 35: 141-144 DONE (104 qs, 9 units) | 36: 145-149 DONE (153 qs, 15 units) | 37: 150-152 DONE (65 qs, 4 units)
-### Antimicrobials
+### Antimicrobials  (COMPLETE)
 38: 153-154 DONE (52 qs, 4 units) | 39: 155-158 DONE (83 qs, 4 units) | 40: 159-163 DONE (105 qs, 5 units) | 41: 164-166 DONE (61 qs, 5 units) | 42: 167-170 DONE (100 qs, 8 units) | 43: 171-173 DONE (77 qs, 8 units) |
 44: 174-179 DONE (144 qs, 10 units) | 45: 180-183 DONE (70 qs, 6 units) | 46: 184-188 DONE (105 qs, 7 units) |
-47: 189-192 | 48: 193-198 | 49: 199-204 | 50: 205-206
+47: 189-192 DONE (86 qs, 8 units) | 48: 193-198 DONE (116 qs, 10 units) | 49: 199-204 DONE (108 qs, 12 units) | 50: 205-206 DONE (43 qs, 7 units)
 ### Endocrine System
-51: 207-210 | 52: 211-214 | 53: 215-217 | 54: 218-220 | 55: 221-223 | 56: 224-226 | 57: 227-229
+51: 207-210 DONE (70 qs, 8 units) | 52: 211-214 DONE (77 qs, 9 units) | 53: 215-217 DONE (51 qs, 8 units) | 54: 218-220 DONE (42 qs, 3 units) | 55: 221-223 DONE (54 qs, 5 units) | 56: 224-226 | 57: 227-229
 ### Autacoids
 58: 230-232 | 59: 233-236 | 60: 237-241 | 61: 242-243 | 62: 244-246
 ### Hematology
@@ -82,7 +82,7 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 3. Find NEXT chapter below, run the pipeline above (source PDF is IN the repo at uploads/).
 4. Commit+push after each chapter so progress is never lost.
 
-## Status  (last updated: 2026-09-14, session 9)
+## Status  (last updated: 2026-09-15, session 10)
 - DONE: repo skeleton (all 74 chapters listed, index.html redirect, work/ pipeline, this tracker).
 - DONE: **ch1** Introduction to Pharmacokinetics and Pharmacodynamics (p1) - 22 qs, 3 units.
 - DONE: **ch2** Absorption - Part 1 (p2-4) - 85 qs, 9 units
@@ -360,14 +360,161 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   1-year finite course and Hep-D DOC; hepatitis C IFN and ribavirin routes incl. inhaled RSV DOC, DAA
   2/3-drug TOC with ritonavir-boosted paritaprevir and the -buvir/-asvir/-previr suffix key, plus the
   interferon note with palivizumab/nirsevimab).
-- **TOTAL LIVE NOW: 4554 questions, 351 units, chapters 1-46.** Antimicrobials are live through
-  Non-Retroviral Drugs; only Anti-Retroviral (47) onwards remain in this section.
-- SESSION 9 NOTES: source pages p167-188 rendered at 180 dpi and read line-by-line from the scanned book
-  (two zoom crops verified the fidaxomicin "t-RNA polymerase inhibitor" wording on p173 and the
-  supradiaphragmatic/intradiaphragmatic anaerobic table on p172). `work/gen_ch42_46.py` is the reproducible
-  generator for this batch (same start/unit/q/facts/finish helper pattern). Duplicate-stem audit run across
-  the batch; validation, deterministic rebuild, integrity check and Node inline-JS syntax check all pass.
-- NEXT: **ch47 "Anti-Retroviral Drugs"** (book p189-192), then ch48 Anti-Mycobacterial (p193-198).
+- **TOTAL LIVE NOW: 5201 questions, 421 units, chapters 1-55.** Antimicrobials section is COMPLETE
+  (through Anti-Protozoal ch49 + Anti-Helminthic ch50); Endocrine System live through Steroids (ch55).
+- DONE (session 10): **ch47 "Anti-Retroviral Drugs"** (p189-192) - 86 qs, 8 units
+  (HIV replication cycle diagram - RNA virus/CD4 tropism, attachment CD4-ibalizumab + CCR5-maraviroc,
+  GP41-enfuvirtide fusion only-GP41, capsid-lenacapavir, GP120-fostemsavir, uncoating/reverse
+  transcription/integration in human nucleus, protease assembly->immature->maturation->mature exits;
+  classification RTI(NRTI/NNRTI)/PI/integrase/attachment; NRTI nucleoside analogs HIV1+2 with
+  mitochondrial toxicity, lamivudine least toxic, emtricitabine palm-sole pigmentation, tenofovir
+  nephrotoxicity+bone density age<10/weight<30, 2NRTI+DTG regimen, PrEP, abacavir HLA B5701 SJS,
+  didanosine/stavudine abandoned, zidovudine children marrow suppression C/I anemia; NNRTI only HIV-1
+  3rd line, nevirapine perinatal DOC fatal hepatotoxicity zidovudine alternative, 5-drug list; PI <6yr/<20kg
+  CYP3A4 except nelfinavir 2C19, all CYP3A4 inhibitors, insulin resistance triad, GI dose-limiting,
+  hemophilia bleeding, saquinavir least vs ritonavir most potent booster, LPV/r 90/10 MI, atazanavir acid
+  pH no insulin resistance stones+bilirubin also indinavir, darunavir food, boosters all except nelfinavir,
+  cobicistat with atazanavir/darunavir/elvitegravir; integrase 4 drugs DTG preferred; attachment
+  inhibitors routes; WHO 1st-line table TDF+3TC+DTG / ABC+3TC+DTG 6-10yr / ABC+3TC+LPV/r <6yr,
+  pregnancy not-on-ART/already-on-ART/NVP-exposure rows + index).
+- DONE (session 10): **ch48 "Anti-Mycobacterial Drugs"** (p193-198) - 116 qs, 10 units
+  (mycolic acid pathway diagram Kat-G catalase-peroxidase -> INH(a) -> acyl protein reductase Inh-A +
+  kinase Kas-A -> mycolic acid -> cell wall with ethionamide convergence; MOA table H mycolic/R RNA
+  polymerase/Z pnc-a pyrazinaminidase acidic pH pyrazinoic acid fatty acid/E arabinosyl transferase;
+  resistance Kat-G most severe+ethionamide cross, Inh-A overexpression, rpo-b, pnc-a, Emb-b; H/R/Z/E
+  comparison cidal-static, first non-infective H, R maximum, sites intra/extra, persisters R>Z,
+  excretion liver H/R/Z safest R, kidney E unsafe; S/E table - INH B6 haem anemia GABA seizure
+  neuropsych, rifampicin red-orange lenses flu-like intermittent stop-permanently purpura enzyme inducer
+  least rifabutin uveitis, Z most hepatotoxic Z>H>R>E hyperuricemia arthralgia, E optic neuritis green>red;
+  INH toxicity IV pyridoxine 1g/gm max 5g; rifapentine+INH weekly latent; group A/B/C second line;
+  new drugs bedaquiline ATP synthase 165d 99% albumin <2.8, delamanid/pretomanid free radicals+mycolic,
+  MDR/pre-XDR/XDR definitions, food advice, QT C/I arrhythmia, pregnancy safe only Bdq; old drugs
+  ethionamide cidal hypo thyroid, PAS DHPS static rifampicin C/I; regimens HRZE 2+4, shorter oral Bdq
+  months table, injectable alternative, long oral 18-20 months, BPaL doses 200/400-200/1200;
+  leprosy first/second line static-cidal split, clofazimine TB cidal leprosy static ichthyosis crystals,
+  lepra type1/type2 DOC steroids thalidomide most effective; WHO supervised/monthly + non-supervised/daily
+  dose table adults 10-14 <14-40kg; rifampicin-resistance 6/18 month regimens; MAC EAR azithromycin
+  immunomodulator).
+- DONE (session 10): **ch49 "Anti-Protozoal Drugs"** (p199-204) - 108 qs, 12 units
+  (amoebiasis diagram luminal diloxanide/iodoquinol/paromomycin DOC radical cure vs symptomatic
+  nitazoxanide/emetine/metronidazole DOC + chloroquine hepatic only; nitroimidazoles 5 drugs India DOC
+  metronidazole west tinidazole, free radicals, TOC metronidazole f/b paromomycin, DOC list giardia/
+  amoebae/infra-diaphragmatic anaerobes/tetanus/trichomonas/bacterial vaginosis, disulfiram red-brown
+  urine, cefazolin+metro surgical prophylaxis, clue cells; leishmaniasis visceral LAmB IV + miltefosine
+  oral PKDL pregnancy C/I nausea diarrhea, sitamaquine alternative, cutaneous sodium stibogluconate;
+  trypanosomiasis East suramin/melarsoprol, West pentamidine/eflornithine fexinidazole 2019, Chagas
+  benznidazole nifurtimox; cryptosporidiasis nitazoxanide from niclosamide PFOR green urine resistant
+  giardia H.pylori off-label; babesiosis TOC atovaquone+azithromycin all severity, earlier quinine+
+  clindamycin mild; plasmodium life cycle diagram sporozoites infective humans hypnozoite dormancy
+  merozoites RBC erythrocytic schizont rupture fever chills gametocytes infective mosquito integrated
+  blood meal; drug stages hypnozoiticidal primaquine 14d tafenoquine single radical cure terminal
+  prophylaxis vivax-ovale only, gametocidal primaquine+artemisinin, schizontocidal fast DOC + slow,
+  1fast+1slow; artemisinin most potent fastest free radicals C/I 1st trimester artesunate IV+oral,
+  no monotherapy/prophylaxis, severe falciparum 48hr artesunate infusion; uncomplicated malaria vivax
+  CQ+primaquine post-partum, CQ-resistant pregnant 1st quinine+clindamycin 2nd-3rd ACT, ACT sulfadoxine
+  pyrimethamine all states vs artemether lumefantrine north-east, alternatives not safe pregnancy;
+  chloroquine haem products efflux resistance uses mono/SLE/PCT bull's eye whorl cornea; quinine alpha
+  block insulin K+ QT cinchonism black water; mefloquine neuropsychiatric conduction C/I quinine
+  halofantrine, prophylaxis <6wk doxycycline 2d-4wk vs >=6wk mefloquine 250mg 2wk-4wk, atovaquone
+  proguanil mosquito ovulation, clindamycin safe children pregnancy).
+- DONE (session 10): **ch50 "Anti-Helminthic Drugs"** (p205-206) - 43 qs, 7 units
+  (benzimidazoles 4 drugs mebendazole west/albendazole India prodrug sulfoxide liver microtubule glucose
+  ATP; nematode DOC tree albendazole round/whip/hook/enterobius/trichinella, ivermectin strongyloides
+  onchocerca, DEC loa loa filariasis TOC IDA, metronidazole dracunculiasis; cestodes albendazole
+  neurocysticercosis echinococcus vs praziquantel intestinal T.solium T.saginata H.nana D.latum with
+  steroids first priority perilesional edema; trematodes triclabendazole fasciola vs praziquantel other
+  liver/lung flukes schistosoma, albendazole ineffective trematodes; ivermectin glutamate chloride tonic
+  paralysis scabies oral DOC Mazzotti DEC; praziquantel Ca2+ spastic = pyrantel metrifonate, metrifonate
+  AChE S.haematobium; pyrantel Nm receptors soil transmitted; piperazine GABA Cl- flaccid soil transmitted).
+- DONE (session 10): **ch51 "Antidiabetic Drugs: Part 1"** (p207-210) - 70 qs, 8 units
+  (DM type I/II persistently raised glucose; physiology diagram SGLT1 absorption, alpha glucosidase
+  disaccharides, GLP-1/GIP DPP-4 short t1/2, Gs/q beta cell ATP-sensitive K+ block GLUT-1, post-prandial
+  facilitated diffusion, insulin+amylin receptor GLUT-4, amylin+GLP-1 delayed gastric emptying dampens
+  PPH, SGLT2 renal reabsorption, liver gluconeogenesis fasting; drug classification alpha-GI, GLP-1
+  related (agonist/DPP4/dual), miscellaneous bromocriptine colesevelam, amylin analog, insulin, OHA 5
+  mechanisms sotagliflozin 2019, T1DM insulin+amylin vs T2DM all, hypoglycemia via-insulin; insulin
+  duration table ultra-short Afrezza fastest just-before-food, monomeric glulisine lispro aspart 15min,
+  regular 60min slow-acting-short, PPH vs maintenance split, NPH+lente BD/TDS intermediate, detemir
+  protein binding glargine acidic degludec hexameric longest OD/BD; routes inhaled Afrezza lung
+  capillaries, SC all others, IV regular hyperkalemia DKA DOC; regimen 1 PPH + 1 maintenance same syringe
+  regular drawn first cloudy NPH, infusion in-patients no peak; injection sites abdomen m/c periumbilical
+  lipodystrophy faster reliable, thigh antero-lateral, buttocks, arm; Afrezza cartridges blue4 green8
+  yellow12 cough lung cancer C/I asthma COPD smokers; lente zinc ultralente 70% long crystals semilente
+  30% short powder; S/E hypoglycemia m/c proportional shorter-acting higher glargine peakless,
+  hypokalemia, lipodystrophy rotation >=1 inch).
+- DONE (session 10): **ch52 "Antidiabetic Drugs: Part 2"** (p211-214) - 77 qs, 9 units
+  (insulin-releasers classification GLP-1 related vs ATP-sensitive K+ inhibitors common hypoglycemia;
+  GLP-1 agonists liraglutide OD vs dulaglutide/albiglutide/semaglutide weekly S/C oral semaglutide,
+  pancreatitis nausea delayed emptying weight loss appetite DOC obesity oral>S/C semaglutide>liraglutide;
+  DPP-IV decreased metabolism weight neutral 4 -gliptins oral pancreatitis angioedema ACE DAA6
+  lymphocyte infections C/I renal failure except linagliptin liver; tirzepatide dual S/C > pure;
+  sulfonylurea vs meglitinide table large/small, long/short, maintenance/PPH, hypoglycemia weight gain
+  HSL thin diabetics alcohol disulfiram, glyburide glibenclamide glimepiride gliclazide vs nateglinide
+  phenylalanine repaglinide, insulin highest overall; TZD PPAR-gamma GLUT-4 adipocyte pioglitazone
+  rosiglitazone ENaC edema CHF macular edema fracture females Ca bladder hepatotoxic; metformin AMPK
+  blocks gluconeogenesis DOC T1+T2 prophylaxis PCOS anovulation NASH antipsychotic obesity FDA,
+  metabolic acidosis mitochondrial aerobic glycolysis B12 calcium dependent weight loss GAMs mnemonic;
+  SGLT2 cana/dapa/empa + sotagliflozin dual kidney+intestine CHF preload diuresis mortality, Na+
+  diuresis hypotension dehydration glucose UTI candida rare fracture elderly Fournier's urosepsis;
+  alpha-glucosidase acarbose voglibose miglitol T2DM only during meal flatulence m/c osmotic diarrhea;
+  pramlintide S/C delayed emptying T1+T2 different syringe 50% insulin cut nausea weight loss off-label;
+  CVS mortality SGLT2+GLP-1; metformin C/I alcoholism COPD renal liver CHF smoking not).
+- DONE (session 10): **ch53 "Drugs Acting on Reproductive System"** (p215-217) - 51 qs, 8 units
+  (hypothalamo-pituitary axis pulsatile GnRH Gs/q gonadotroph LH/FSH females ovulation estrogen
+  progesterone males spermatogenesis testosterone; agonists goserelin buserelin nafarelin leuprolide
+  intermittent increased LH/FSH infertility anovulation oligospermia delayed puberty vs continuous
+  initial increase then decrease receptor downregulation precocious puberty estrogen dependent ER+
+  breast endometriosis fibroids testosterone prostate DOC goserelin; gonadorelin diagnosis
+  hypothalamic/pituitary anovulation; antagonists ganirelix cetrorelix abarelix elagolix decreased
+  LH/FSH; SERM table tamoxifen treatment ER+ premenopausal vs raloxifene prophylaxis osteoporosis
+  post-menopausal uterine Ca only tamoxifen thrombosis hot flashes, toremifene ospemifene dyspareunia;
+  clomiphene partial agonist pituitary positive feedback GnRH LH ovulation DOC anovulation without PCOS
+  letrozole with PCOS; fulvestrant ER block 100x resistant post-menopausal; elacestrant ESR1 mutation;
+  ulipristal SPRM emergency contraception 30mg 5d vs levonorgestrel India DOC 1.5mg 73h or 0.75x2 12h;
+  5-alpha reductase testosterone DHT finasteride dutasteride alopecia 1mg BPH size weight tamsulosin
+  silodosin symptomatic DOC; androgen receptor blockers flutamide bicalutamide enzalutamide apalutamide
+  add-on prostate hirsutism gynecomastia impotence > 5ARI; aromatase inhibitors adipocytes post-menopausal
+  exemestane letrozole DOC ER+ breast + PCOS anovulation, gender change leuprolide).
+- DONE (session 10): **ch54 "Growth Hormone and Related Drugs"** (p218-220) - 42 qs, 3 units
+  (physiology diagram GHRH Gs/q + somatostatin Gi -, somatotrophic cell, GH direct receptor linear
+  growth, liver IGF-1 + IGF BP-3 plasma, IGF-1 receptor glucose inside cell, GH inhibits insulin,
+  somatostatin decreases GH+TSH; dwarfism GHRH analogs sermorelin macimorelin tesamorelin diagnostic
+  GH increase hypothalamic vs no change pituitary; GH analogs somatrem somatropin SMALL small
+  gestational age malabsorption short bowel teduglutide GLP-2 AIDS wasting decreased length, CHILDREN
+  carpal tunnel hyperglycemia ICP leukemia DM, C/I retinopathy neoplasia; IGF-1 analogs mecasermin
+  rinfabate longer hypoglycemia lipohypertrophy IGF-1 deficiency GHR mutation anti-GH Ab; acromegaly
+  somatostatin analogs pasireotide octreotide LAR lanreotide 30 days S/C I/M hypothyroidism gall
+  stones SOMAT secretory diarrhea DM AIDS radiolabeled diagnosis metabolic glucagonoma DOC insulinoma
+  diazoxide variceal terlipressin acromegaly thyrotrope; pegvisomant GH receptor blocker resistant
+  acromegaly LFT adenoma size GHRH hypertrophy MRI IGF-1 visual field chiasma).
+- DONE (session 10): **ch55 "Steroids"** (p221-223) - 54 qs, 5 units
+  (development tree cortisol -> hydrocortisone least potent shortest 8-12h GC1x MC1x DOC replacement
+  Addison CAH after birth insufficient immune suppression; double bond prednisone/prednisolone 12-36h
+  GC4x MC0.8x + methyl water soluble methylprednisolone GC5x MC0.8x; fluoride pure GCs minimal BP
+  triamcinolone 12-36h GC5x MC0, betamethasone/dexamethasone 36-72h GC30x MC0 dexamethasone longest
+  most potent; uses inflammation IL-1 IL-6 TNF down IL-10 annexin-1 up lymphocyte redistribution
+  apoptosis RA gout AS, immunity GVHD rejection myasthenia, neoplasia leukemia lymphoma, CAH fetus
+  dexamethasone virilization, preterm surfactant 24mg/48h dex 6mg q6h x4 beta 12mg q24h x2;
+  Cushing diagram brain psychosis depression insomnia, eye topical glaucoma systemic posterior
+  sub-capsular cataract, hair thinning, gastric ulcers, myopathy, striae, osteoporosis Ca excretion
+  secondary hypercalcemia use, thin skin bruises; metabolic decreased GLUT-4 hyperglycemia DM
+  lipodystrophy lemon-on-stick insulin blocks lipolysis central obesity limbs GLUT-4 down thin
+  extremities buffalo hump; C/I infections exceptions H. influenzae meningitis covid pneumonia only
+  mortality drug; mineralocorticoids fludrocortisone hydrocortisone+fluorine GC15x MC150x Addison
+  with hydrocortisone postural hypotension DOC midodrine, aldosterone GC0 MC500x pure most potent).
+- **SESSION 10 NOTES:** source pages p189-223 re-rendered at 180 dpi and read line-by-line from the scanned
+  book; zoom crops verified bedaquiline "165 days" + "albumin <2.8 mg/dl" (p195), BPaL doses "400 mg OD
+  first week -> 200 mg 3x/week, linezolid 1200 mg" (p196), levonorgestrel "within 73h" wording (p217),
+  glucocorticoid potencies (p221) and the GH(-)->insulin arrow (p218). The session-9 leftover generator
+  stubs were REWRITTEN (the old gen_ch50_52.py had pramlintide questions misplaced inside the ch50
+  benzimidazoles unit; gen_ch53_55.py was missing its ch53 opening block) as three reproducible
+  generators: work/gen_ch47_49.py, work/gen_ch50_52.py, work/gen_ch53_55.py (same start/unit/q/facts/
+  finish helper pattern). An earlier partial remote push of this batch (commit 112f22d, 613 q / 60 u,
+  built from those buggy stubs) was merged and superseded; the stale per-chapter stubs work/gen_ch47.py
+  .. gen_ch55.py were deleted so the three batch generators are the single reproducible source.
+  Duplicate-stem audit across the batch (and against ch44-46): NONE. Validation,
+  deterministic rebuild, integrity check and Node inline-JS syntax check all pass.
+- NEXT: **ch56 (book p224-226)** and ch57 (p227-229) to finish the Endocrine System, then Autacoids.
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).

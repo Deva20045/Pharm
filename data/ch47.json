@@ -1,0 +1,1376 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C47-001",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "HIV is a:",
+   "opts": [
+    "RNA virus",
+    "DNA virus",
+    "Double-stranded DNA virus",
+    "Prion"
+   ],
+   "ans": 0,
+   "exp": "Human immunodeficiency virus: RNA virus. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-002",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The tropism of HIV is for:",
+   "opts": [
+    "CD4 cells",
+    "CD8 cells",
+    "B cells",
+    "Platelets"
+   ],
+   "ans": 0,
+   "exp": "HIV: tropism for CD4 cells. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-003",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The drug shown acting at GP41 on the replication cycle is:",
+   "opts": [
+    "Enfuvirtide",
+    "Maraviroc",
+    "Ibalizumab",
+    "Fostemsavir"
+   ],
+   "ans": 0,
+   "exp": "GP41 - enfuvirtide. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-004",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Ibalizumab acts at:",
+   "opts": [
+    "CD4",
+    "CCR5",
+    "GP41",
+    "GP120"
+   ],
+   "ans": 0,
+   "exp": "Attachment: CD4 - ibalizumab. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-005",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Maraviroc acts at:",
+   "opts": [
+    "CCR5",
+    "CD4",
+    "GP120",
+    "GP41"
+   ],
+   "ans": 0,
+   "exp": "Attachment: CCR5 - maraviroc. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-006",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The drug acting at GP120 is:",
+   "opts": [
+    "Fostemsavir",
+    "Enfuvirtide",
+    "Maraviroc",
+    "Lenacapavir"
+   ],
+   "ans": 0,
+   "exp": "GP120 - fostemsavir. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-007",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The drug acting on the capsid is:",
+   "opts": [
+    "Lenacapavir",
+    "Fostemsavir",
+    "Ibalizumab",
+    "Enfuvirtide"
+   ],
+   "ans": 0,
+   "exp": "Capsid - lenacapavir. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-008",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Fusion of HIV with the host cell membrane occurs through:",
+   "opts": [
+    "GP41 only",
+    "GP120 only",
+    "GP41 and GP120 together",
+    "CD4 and CCR5 together"
+   ],
+   "ans": 0,
+   "exp": "Fusion (only GP41) is labelled on the diagram. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-009",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The first event after fusion inside the host cell is:",
+   "opts": [
+    "Removal of capsid",
+    "Reverse transcription",
+    "Integration",
+    "Budding"
+   ],
+   "ans": 0,
+   "exp": "Fusion -> capsid removed -> RNA exposed. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-010",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Viral RNA is converted into DNA by:",
+   "opts": [
+    "Reverse transcriptase",
+    "Integrase",
+    "Protease",
+    "RNA polymerase"
+   ],
+   "ans": 0,
+   "exp": "RNA --(reverse transcriptase)--> DNA. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-011",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Viral DNA is integrated into human DNA by:",
+   "opts": [
+    "Integrase",
+    "Reverse transcriptase",
+    "Protease",
+    "Ligase"
+   ],
+   "ans": 0,
+   "exp": "DNA --(integrase)--> integration into human DNA. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-012",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Integration of viral DNA takes place in the:",
+   "opts": [
+    "Human nucleus",
+    "Cytoplasm",
+    "Viral capsid",
+    "Golgi apparatus"
+   ],
+   "ans": 0,
+   "exp": "Integration is drawn inside the human nucleus. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-013",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "After integration, transcription and translation occur in the:",
+   "opts": [
+    "Human nucleus",
+    "Cytoplasm",
+    "Viral capsid",
+    "Free ribosomes of blood"
+   ],
+   "ans": 0,
+   "exp": "Transcription + translation are drawn in the human nucleus. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-014",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "Protease assembly directly produces:",
+   "opts": [
+    "Immature virus",
+    "Mature virus",
+    "Proviral DNA",
+    "Empty capsids"
+   ],
+   "ans": 0,
+   "exp": "Protease assembly -> immature virus. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-015",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The step converting immature virus into mature virus is:",
+   "opts": [
+    "Protease maturation",
+    "Integrase action",
+    "Reverse transcription",
+    "Uncoating"
+   ],
+   "ans": 0,
+   "exp": "Immature virus --(protease maturation)--> mature virus. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-016",
+   "sec": "HIV Replication Cycle and Drug Targets",
+   "page": 189,
+   "q": "The mature virus finally:",
+   "opts": [
+    "Exits the cell and invades other CD4 cells",
+    "Remains dormant in the nucleus",
+    "Is destroyed inside the cell",
+    "Infects CD8 cells"
+   ],
+   "ans": 0,
+   "exp": "Mature virus exits cells and invades other CD4 cells. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-017",
+   "sec": "Classification of Anti-Retroviral Drugs",
+   "page": 189,
+   "q": "The four groups of anti-retroviral drugs are:",
+   "opts": [
+    "Reverse transcriptase inhibitors, protease inhibitors, integrase inhibitors and attachment inhibitors",
+    "NRTIs, NNRTIs, exit and release inhibitors",
+    "Antiherpes, anti-HIV, anti-HBV and anti-HCV",
+    "Attachment, uncoating, assembly and release inhibitors"
+   ],
+   "ans": 0,
+   "exp": "Classification: RTIs, protease inhibitors, integrase inhibitors, attachment inhibitors. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-018",
+   "sec": "Classification of Anti-Retroviral Drugs",
+   "page": 189,
+   "q": "Reverse transcriptase inhibitors are divided into:",
+   "opts": [
+    "Nucleoside RTI (NRTI) and non-nucleoside RTI (NNRTI)",
+    "Nucleotide and nucleoside analogs only",
+    "Competitive and non-competitive inhibitors",
+    "Purine and pyrimidine analogs"
+   ],
+   "ans": 0,
+   "exp": "RTIs: NRTI and NNRTI. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-019",
+   "sec": "Classification of Anti-Retroviral Drugs",
+   "page": 189,
+   "q": "Enfuvirtide, ibalizumab, maraviroc, fostemsavir and lenacapavir all belong to:",
+   "opts": [
+    "Attachment inhibitors",
+    "Protease inhibitors",
+    "Integrase inhibitors",
+    "Reverse transcriptase inhibitors"
+   ],
+   "ans": 0,
+   "exp": "Drugs acting at GP41/CD4/CCR5/GP120/capsid = attachment inhibitors. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-020",
+   "sec": "Classification of Anti-Retroviral Drugs",
+   "page": 189,
+   "q": "Dolutegravir belongs to:",
+   "opts": [
+    "Integrase inhibitors",
+    "Protease inhibitors",
+    "NRTIs",
+    "NNRTIs"
+   ],
+   "ans": 0,
+   "exp": "Dolutegravir: integrase inhibitor. (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-021",
+   "sec": "Classification of Anti-Retroviral Drugs",
+   "page": 189,
+   "q": "Ritonavir belongs to:",
+   "opts": [
+    "Protease inhibitors",
+    "Integrase inhibitors",
+    "NRTIs",
+    "Attachment inhibitors"
+   ],
+   "ans": 0,
+   "exp": "Ritonavir: protease inhibitor (booster). (Book p189)"
+  },
+  {
+   "id": "PHARM-C47-022",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Nucleoside reverse transcriptase inhibitors are:",
+   "opts": [
+    "Nucleoside analogs",
+    "Nucleotide analogs only",
+    "Non-competitive enzyme blockers",
+    "Protease analogs"
+   ],
+   "ans": 0,
+   "exp": "NRTI: nucleoside analogs. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-023",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "NRTIs are effective against:",
+   "opts": [
+    "HIV 1 and HIV 2",
+    "Only HIV 1",
+    "Only HIV 2",
+    "HIV and influenza"
+   ],
+   "ans": 0,
+   "exp": "NRTI effective against HIV 1 + HIV 2 (contrast NNRTI: only HIV-1). (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-024",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The class side effect of NRTIs is:",
+   "opts": [
+    "Mitochondrial toxicity (myopathy, neuropathy)",
+    "Nephrotoxicity",
+    "Pulmonary fibrosis",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "NRTI S/E: mitochondrial toxicity -> myopathy, neuropathy. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-025",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The least toxic NRTI is:",
+   "opts": [
+    "Lamivudine",
+    "Stavudine",
+    "Zidovudine",
+    "Didanosine"
+   ],
+   "ans": 0,
+   "exp": "Drugs: least toxic NRTI - lamivudine. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-026",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Emtricitabine is a derivative of:",
+   "opts": [
+    "Lamivudine",
+    "Tenofovir",
+    "Abacavir",
+    "Zidovudine"
+   ],
+   "ans": 0,
+   "exp": "Emtricitabine: derivative of lamivudine. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-027",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The side effect of emtricitabine is:",
+   "opts": [
+    "Pigmentation of palms and soles",
+    "Pancreatitis",
+    "Lactic acidosis",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "Emtricitabine S/E: pigmentation of palms and soles (photo shown). (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-028",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The side effects of tenofovir are:",
+   "opts": [
+    "Nephrotoxicity and decreased bone density",
+    "Hepatotoxicity and pancreatitis",
+    "Myopathy and cardiomyopathy",
+    "Pigmentation and rash"
+   ],
+   "ans": 0,
+   "exp": "Tenofovir S/E: nephrotoxicity (C/I in renal failure) + decreased bone density. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-029",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "In HIV treatment, tenofovir is contraindicated in:",
+   "opts": [
+    "Renal failure",
+    "Liver failure",
+    "Heart failure",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Tenofovir nephrotoxicity: C/I in renal failure. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-030",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Safety of tenofovir is unknown (use as C/I) in:",
+   "opts": [
+    "Age <10 yr and weight <30 kg",
+    "Age <18 yr of any weight",
+    "Pregnancy only",
+    "Elderly above 65 yr"
+   ],
+   "ans": 0,
+   "exp": "Drug safety unknown in age <10 yr, weight <30 kg - use C/I. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-031",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The HIV treatment regimen is:",
+   "opts": [
+    "2 NRTIs (lamivudine/emtricitabine + tenofovir) + 1 other drug (dolutegravir)",
+    "3 NRTIs together",
+    "1 NRTI + 1 NNRTI only",
+    "Tenofovir monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Use: 2 NRTIs (Lamivudine/Emtricitabine + Tenofovir) + 1 other drug (Dolutegravir). (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-032",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The pre-exposure prophylaxis (PrEP) regimen is:",
+   "opts": [
+    "2 drugs (lamivudine/emtricitabine + tenofovir)",
+    "Tenofovir alone",
+    "Zidovudine + lamivudine",
+    "2 NRTIs + dolutegravir"
+   ],
+   "ans": 0,
+   "exp": "PrEP regimen: 2 drugs (lamivudine/emtricitabine + tenofovir). (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-033",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "If tenofovir is contraindicated, the NRTI used is:",
+   "opts": [
+    "Abacavir",
+    "Didanosine",
+    "Stavudine",
+    "Zalcitabine"
+   ],
+   "ans": 0,
+   "exp": "If tenofovir C/I: abacavir. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-034",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Abacavir is associated with:",
+   "opts": [
+    "HLA B5701 gene",
+    "HLA B1502 gene",
+    "HLA DR4",
+    "HLA B27"
+   ],
+   "ans": 0,
+   "exp": "Abacavir: associated with HLA B5701 gene. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-035",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The side effect of abacavir is:",
+   "opts": [
+    "Steven Johnson syndrome",
+    "Fatal hepatotoxicity",
+    "Bone marrow suppression",
+    "Nephrotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Abacavir S/E: Steven Johnson syndrome. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-036",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Didanosine is not used currently due to:",
+   "opts": [
+    "Pancreatitis",
+    "Peripheral neuropathy",
+    "Nephrotoxicity",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "Didanosine not used: D/t pancreatitis. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-037",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Stavudine is not used currently due to:",
+   "opts": [
+    "Increased peripheral neuropathy",
+    "Pancreatitis",
+    "Renal stones",
+    "Anemia"
+   ],
+   "ans": 0,
+   "exp": "Stavudine not used: D/t increased peripheral neuropathy. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-038",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Zidovudine is currently used in:",
+   "opts": [
+    "Children",
+    "Only adults",
+    "Only pregnant women",
+    "No group - it is withdrawn"
+   ],
+   "ans": 0,
+   "exp": "NRTIs not used currently note: zidovudine used in children. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-039",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "The side effects of zidovudine are:",
+   "opts": [
+    "Bone marrow suppression and myopathy",
+    "Nephrotoxicity and stones",
+    "Pigmentation and SJS",
+    "Hepatotoxicity and gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "Zidovudine S/E: bone marrow suppression, myopathy. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-040",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "page": 190,
+   "q": "Zidovudine is contraindicated in:",
+   "opts": [
+    "Anemia",
+    "Hypertension",
+    "Diabetes",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "Zidovudine: C/I in anemia. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-041",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "NNRTIs are effective against:",
+   "opts": [
+    "Only HIV-1",
+    "HIV-1 and HIV-2",
+    "HIV-2 only",
+    "All retroviruses"
+   ],
+   "ans": 0,
+   "exp": "NNRTI effective against: only HIV-1. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-042",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "NNRTIs are used as:",
+   "opts": [
+    "3rd line drugs (due to increased resistance)",
+    "1st line drugs",
+    "Only in PrEP",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "NNRTI use: 3rd line drug (D/t increased resistance). (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-043",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "The DOC for perinatal HIV transmission is:",
+   "opts": [
+    "Nevirapine",
+    "Efavirenz",
+    "Rilpivirine",
+    "Doravirine"
+   ],
+   "ans": 0,
+   "exp": "Nevirapine: DOC for perinatal HIV transmission. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-044",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "The side effect of nevirapine is:",
+   "opts": [
+    "Fatal hepatotoxicity",
+    "Nephrotoxicity",
+    "Renal stones",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Nevirapine S/E: fatal hepatotoxicity. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-045",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "The alternative drug for perinatal HIV transmission is:",
+   "opts": [
+    "Zidovudine",
+    "Abacavir",
+    "Etravirine",
+    "Delavirdine"
+   ],
+   "ans": 0,
+   "exp": "Alternative for perinatal HIV transmission: zidovudine. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-046",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "All of the following are NNRTIs EXCEPT:",
+   "opts": [
+    "Raltegravir",
+    "Efavirenz",
+    "Etravirine",
+    "Doravirine"
+   ],
+   "ans": 0,
+   "exp": "NNRTI drugs: nevirapine, efavirenz, etravirine, doravirine, rilpivirine; raltegravir is an integrase inhibitor. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-047",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "page": 190,
+   "q": "Rilpivirine belongs to:",
+   "opts": [
+    "NNRTIs",
+    "NRTIs",
+    "Integrase inhibitors",
+    "Attachment inhibitors"
+   ],
+   "ans": 0,
+   "exp": "NNRTI drugs 4-5: doravirine, rilpivirine. (Book p190)"
+  },
+  {
+   "id": "PHARM-C47-048",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Protease inhibitors are used due to increased benefit in:",
+   "opts": [
+    "Age <6 yr and weight <20 kg",
+    "Age >18 yr adults",
+    "Only adolescents",
+    "Elderly above 60 yr"
+   ],
+   "ans": 0,
+   "exp": "PI use D/t increased benefit: age <6 yr, weight <20 kg. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-049",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Protease inhibitors are metabolized by:",
+   "opts": [
+    "CYP3A4 (except nelfinavir: CYP2C19)",
+    "CYP2D6 only",
+    "CYP2C9",
+    "Flavin monooxygenases"
+   ],
+   "ans": 0,
+   "exp": "Metabolized by CYP3A4 except nelfinavir: CYP2C19. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-050",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "All protease inhibitors are:",
+   "opts": [
+    "CYP3A4 enzyme inhibitors",
+    "CYP3A4 enzyme inducers",
+    "CYP2C19 inhibitors",
+    "Enzyme inducers of metabolism"
+   ],
+   "ans": 0,
+   "exp": "All PIs are CYP3A4 enzyme inhibitors. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-051",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The side effect of protease inhibitors producing hyperglycemia, hyperlipidemia and lipodystrophy is:",
+   "opts": [
+    "Insulin resistance",
+    "Insulin hypersensitivity",
+    "Beta cell destruction",
+    "Thyroid dysfunction"
+   ],
+   "ans": 0,
+   "exp": "PI S/E: insulin resistance -> hyperglycemia, hyperlipidemia, lipodystrophy. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-052",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The dose limiting side effect of protease inhibitors is:",
+   "opts": [
+    "GI upset",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Rash"
+   ],
+   "ans": 0,
+   "exp": "PI S/E: GI upset - dose limiting side effect. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-053",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Protease inhibitors increase the risk of bleeding in:",
+   "opts": [
+    "Hemophiliacs",
+    "Von Willebrand disease",
+    "Thrombocytopenia",
+    "Vitamin K deficiency"
+   ],
+   "ans": 0,
+   "exp": "PI S/E: increased risk of bleeding in hemophiliacs. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-054",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The least potent enzyme inhibitor among protease inhibitors is:",
+   "opts": [
+    "Saquinavir",
+    "Ritonavir",
+    "Darunavir",
+    "Atazanavir"
+   ],
+   "ans": 0,
+   "exp": "Saquinavir: least potent enzyme inhibitor. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-055",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The side effect of lopinavir is:",
+   "opts": [
+    "MI (myocardial infarction)",
+    "Renal stones",
+    "Unconjugated hyperbilirubinemia",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Lopinavir S/E: MI. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-056",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Lopinavir is formulated with ritonavir in the ratio:",
+   "opts": [
+    "90%/10% (LPV/r)",
+    "50%/50%",
+    "10%/90%",
+    "80%/20%"
+   ],
+   "ans": 0,
+   "exp": "Lopinavir formulated with ritonavir (LPV/r: 90%/10%). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-057",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The most potent enzyme inhibitor among protease inhibitors is:",
+   "opts": [
+    "Ritonavir",
+    "Saquinavir",
+    "Lopinavir",
+    "Nelfinavir"
+   ],
+   "ans": 0,
+   "exp": "Ritonavir: most potent enzyme inhibitor. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-058",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Ritonavir is used as a:",
+   "opts": [
+    "Booster - inhibits metabolism and increases t 1/2",
+    "Primary antiretroviral monotherapy",
+    "Integrase inhibitor",
+    "Nucleoside analog"
+   ],
+   "ans": 0,
+   "exp": "Ritonavir use: booster - inhibits metabolism (increases t 1/2). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-059",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Atazanavir requires which condition for absorption?",
+   "opts": [
+    "Acidic pH (antacids are C/I)",
+    "Alkaline pH",
+    "Neutral pH with food only",
+    "Bile salts"
+   ],
+   "ans": 0,
+   "exp": "Atazanavir: requires acidic pH for absorption (antacid C/I). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-060",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The protease inhibitor with no insulin resistance is:",
+   "opts": [
+    "Atazanavir",
+    "Ritonavir",
+    "Lopinavir",
+    "Saquinavir"
+   ],
+   "ans": 0,
+   "exp": "Atazanavir: no insulin resistance. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-061",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "The side effects of atazanavir are:",
+   "opts": [
+    "Renal stones and unconjugated hyperbilirubinemia",
+    "Pancreatitis and neuropathy",
+    "MI and myopathy",
+    "Hepatotoxicity and rash"
+   ],
+   "ans": 0,
+   "exp": "Atazanavir S/E: renal stones + unconjugated hyperbilirubinemia. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-062",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Renal stones and unconjugated hyperbilirubinemia are also seen with:",
+   "opts": [
+    "Indinavir",
+    "Darunavir",
+    "Nelfinavir",
+    "Saquinavir"
+   ],
+   "ans": 0,
+   "exp": "Atazanavir S/E note: also seen with indinavir. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-063",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Darunavir should be taken:",
+   "opts": [
+    "With food (increased absorption)",
+    "Empty stomach",
+    "With antacids",
+    "With milk only"
+   ],
+   "ans": 0,
+   "exp": "Darunavir: taken with food (increased absorption). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-064",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "All protease inhibitors can be used as boosters EXCEPT:",
+   "opts": [
+    "Nelfinavir",
+    "Ritonavir",
+    "Darunavir",
+    "Atazanavir"
+   ],
+   "ans": 0,
+   "exp": "Note: all protease inhibitors can be boosters except nelfinavir. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-065",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Cobicistat is:",
+   "opts": [
+    "A CYP3A4 inhibitor used to replace ritonavir",
+    "An integrase inhibitor",
+    "An NRTI prodrug",
+    "A CYP3A4 inducer"
+   ],
+   "ans": 0,
+   "exp": "Note: cobicistat (CYP3A4 inhibitor) - to replace ritonavir. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-066",
+   "sec": "Protease Inhibitors",
+   "page": 191,
+   "q": "Cobicistat is available with:",
+   "opts": [
+    "Atazanavir, darunavir and elvitegravir",
+    "Zidovudine and lamivudine",
+    "Nevirapine and efavirenz",
+    "Tenofovir alone"
+   ],
+   "ans": 0,
+   "exp": "Cobicistat available with: atazanavir - darunavir - elvitegravir. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-067",
+   "sec": "Integrase Inhibitors",
+   "page": 191,
+   "q": "The integrase inhibitors are:",
+   "opts": [
+    "Raltegravir, elvitegravir, bictegravir and dolutegravir (preferred)",
+    "Ritonavir and cobicistat",
+    "Efavirenz and nevirapine",
+    "Enfuvirtide and maraviroc"
+   ],
+   "ans": 0,
+   "exp": "Integrase inhibitors: raltegravir, elvitegravir, bictegravir, dolutegravir (preferred). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-068",
+   "sec": "Integrase Inhibitors",
+   "page": 191,
+   "q": "The preferred integrase inhibitor is:",
+   "opts": [
+    "Dolutegravir",
+    "Raltegravir",
+    "Elvitegravir",
+    "Bictegravir"
+   ],
+   "ans": 0,
+   "exp": "Integrase inhibitors: dolutegravir (preferred). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-069",
+   "sec": "Integrase Inhibitors",
+   "page": 191,
+   "q": "Dolutegravir serves as:",
+   "opts": [
+    "The 1 other drug added to 2 NRTIs in the treatment regimen",
+    "An NNRTI used in PrEP alone",
+    "A protease booster",
+    "An attachment inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Treatment regimen: 2 NRTIs + 1 other drug = dolutegravir (integrase inhibitor). (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-070",
+   "sec": "Integrase Inhibitors",
+   "page": 191,
+   "q": "Bictegravir belongs to:",
+   "opts": [
+    "Integrase inhibitors",
+    "NRTIs",
+    "Attachment inhibitors",
+    "Protease inhibitors"
+   ],
+   "ans": 0,
+   "exp": "Integrase inhibitor list: raltegravir, elvitegravir, bictegravir, dolutegravir. (Book p191)"
+  },
+  {
+   "id": "PHARM-C47-071",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The use of attachment inhibitors is:",
+   "opts": [
+    "Resistant HIV",
+    "First line treatment alone",
+    "PrEP in healthy adults",
+    "Perinatal prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Attachment inhibitors use: resistant HIV. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-072",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The GP41 inhibitor (fusion blocker) is:",
+   "opts": [
+    "Enfuvirtide",
+    "Ibalizumab",
+    "Fostemsavir",
+    "Vicriviroc"
+   ],
+   "ans": 0,
+   "exp": "GP41 inhibitor (fusion blocker): enfuvirtide. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-073",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The route of enfuvirtide is:",
+   "opts": [
+    "S/C",
+    "Oral",
+    "I/V",
+    "Inhalational"
+   ],
+   "ans": 0,
+   "exp": "Enfuvirtide route: S/C. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-074",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The CD4 blocker is:",
+   "opts": [
+    "Ibalizumab",
+    "Maraviroc",
+    "Lenacapavir",
+    "Fostemsavir"
+   ],
+   "ans": 0,
+   "exp": "CD4 blocker: ibalizumab. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-075",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The route of ibalizumab is:",
+   "opts": [
+    "I/V",
+    "Oral",
+    "S/C",
+    "Topical"
+   ],
+   "ans": 0,
+   "exp": "Ibalizumab route: I/V. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-076",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The GP120 blocker is:",
+   "opts": [
+    "Fostemsavir",
+    "Enfuvirtide",
+    "Maraviroc",
+    "Raltegravir"
+   ],
+   "ans": 0,
+   "exp": "GP120 blocker: fostemsavir. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-077",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The CCR5 blockers are:",
+   "opts": [
+    "Maraviroc and vicriviroc",
+    "Fostemsavir and lenacapavir",
+    "Enfuvirtide and ibalizumab",
+    "Raltegravir and dolutegravir"
+   ],
+   "ans": 0,
+   "exp": "CCR5 blocker: maraviroc, vicriviroc. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-078",
+   "sec": "Attachment Inhibitors",
+   "page": 192,
+   "q": "The capsid blocker is:",
+   "opts": [
+    "Lenacapavir",
+    "Maraviroc",
+    "Ibalizumab",
+    "Fostemsavir"
+   ],
+   "ans": 0,
+   "exp": "Capsid blocker: lenacapavir. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-079",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "The preferred 1st line regimen for adults and children with age >10 yrs and weight >30 kg is:",
+   "opts": [
+    "TDF + 3TC + DTG",
+    "ABC + 3TC + DTG",
+    "ABC + 3TC + LPV/r",
+    "TDF + 3TC + NVP"
+   ],
+   "ans": 0,
+   "exp": "Age >10 yrs & weight >30 kg: TDF + 3TC + DTG. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-080",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "The preferred 1st line regimen for children 6-10 yrs (weight 20-30 kg) is:",
+   "opts": [
+    "ABC + 3TC + DTG",
+    "TDF + 3TC + DTG",
+    "ABC + 3TC + LPV/r",
+    "TDF + 3TC + LPV/r"
+   ],
+   "ans": 0,
+   "exp": "Children 6-10 yrs, weight 20-30 kg: ABC + 3TC + DTG. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-081",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "The preferred 1st line regimen for age <6 years (weight <20 kg) is:",
+   "opts": [
+    "ABC + 3TC + LPV/r",
+    "TDF + 3TC + DTG",
+    "ABC + 3TC + DTG",
+    "TDF + 3TC + NVP"
+   ],
+   "ans": 0,
+   "exp": "Age <6 years, weight <20 kg: ABC + 3TC + LPV/r. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-082",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "In pregnancy/lactation not on any ART, the preferred regimen is:",
+   "opts": [
+    "TDF + 3TC + DTG",
+    "Continue same ART",
+    "ABC + 3TC + LPV/r",
+    "NVP monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy not on any ART: TDF + 3TC + DTG. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-083",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "In pregnancy/lactation already on ART:",
+   "opts": [
+    "Continue same ART",
+    "Switch to TDF + 3TC + DTG",
+    "Stop ART till delivery",
+    "Switch to ABC + 3TC + DTG"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy already on ART: continue same ART. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-084",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "In pregnancy with exposure to NVP in previous pregnancy:",
+   "opts": [
+    "TDF + 3TC + DTG",
+    "Continue NVP alone",
+    "ABC + 3TC + LPV/r",
+    "Avoid all ART"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy with NVP exposure in previous pregnancy: TDF + 3TC + DTG. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-085",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "In the regimen index, 3TC stands for:",
+   "opts": [
+    "Lamivudine",
+    "Emtricitabine",
+    "Abacavir",
+    "Dolutegravir"
+   ],
+   "ans": 0,
+   "exp": "Index: 3TC - lamivudine. (Book p192)"
+  },
+  {
+   "id": "PHARM-C47-086",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "page": 192,
+   "q": "In the regimen index, ABC and LPV/r stand for:",
+   "opts": [
+    "Abacavir and lopinavir/ritonavir",
+    "Adefovir and lopinavir/rifampicin",
+    "Abacavir and lamivudine/ritonavir",
+    "Amikacin and lopinavir/ritonavir"
+   ],
+   "ans": 0,
+   "exp": "Index: ABC - abacavir; LPV/r - lopinavir/ritonavir. (Book p192)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U47-1",
+   "ch": 47,
+   "n": 1,
+   "title": "HIV Replication Cycle and Drug Targets",
+   "sec": "HIV Replication Cycle and Drug Targets · p189",
+   "qs": [
+    "PHARM-C47-001",
+    "PHARM-C47-002",
+    "PHARM-C47-003",
+    "PHARM-C47-004",
+    "PHARM-C47-005",
+    "PHARM-C47-006",
+    "PHARM-C47-007",
+    "PHARM-C47-008",
+    "PHARM-C47-009",
+    "PHARM-C47-010",
+    "PHARM-C47-011",
+    "PHARM-C47-012",
+    "PHARM-C47-013",
+    "PHARM-C47-014",
+    "PHARM-C47-015",
+    "PHARM-C47-016"
+   ],
+   "guide": "HIV is an RNA virus with tropism for CD4 cells. The replication diagram shows attachment at CD4 and CCR5, fusion through GP41 (only GP41), uncoating with capsid removal, reverse transcription of RNA to DNA, integration of viral DNA into human DNA inside the human nucleus, transcription and translation, protease assembly into immature virus and protease maturation into mature virus which exits and invades other CD4 cells. Drugs drawn on the cycle: GP41 - enfuvirtide, CD4 - ibalizumab, CCR5 - maraviroc, GP120 - fostemsavir and capsid - lenacapavir."
+  },
+  {
+   "id": "PHARM-U47-2",
+   "ch": 47,
+   "n": 2,
+   "title": "Classification of Anti-Retroviral Drugs",
+   "sec": "Classification of Anti-Retroviral Drugs · p189",
+   "qs": [
+    "PHARM-C47-017",
+    "PHARM-C47-018",
+    "PHARM-C47-019",
+    "PHARM-C47-020",
+    "PHARM-C47-021"
+   ],
+   "guide": "Anti-retroviral drugs are divided into four groups: reverse transcriptase inhibitors (RTIs), protease inhibitors, integrase inhibitors and attachment inhibitors. RTIs are further divided into nucleoside RTIs (NRTI) and non-nucleoside RTIs (NNRTI)."
+  },
+  {
+   "id": "PHARM-U47-3",
+   "ch": 47,
+   "n": 3,
+   "title": "Nucleoside Reverse Transcriptase Inhibitors (NRTI)",
+   "sec": "Nucleoside Reverse Transcriptase Inhibitors (NRTI) · p190",
+   "qs": [
+    "PHARM-C47-022",
+    "PHARM-C47-023",
+    "PHARM-C47-024",
+    "PHARM-C47-025",
+    "PHARM-C47-026",
+    "PHARM-C47-027",
+    "PHARM-C47-028",
+    "PHARM-C47-029",
+    "PHARM-C47-030",
+    "PHARM-C47-031",
+    "PHARM-C47-032",
+    "PHARM-C47-033",
+    "PHARM-C47-034",
+    "PHARM-C47-035",
+    "PHARM-C47-036",
+    "PHARM-C47-037",
+    "PHARM-C47-038",
+    "PHARM-C47-039",
+    "PHARM-C47-040"
+   ],
+   "guide": "NRTIs are nucleoside analogs effective against HIV 1 and HIV 2 with the class side effect of mitochondrial toxicity (myopathy, neuropathy). Lamivudine is the least toxic NRTI; emtricitabine (lamivudine derivative) causes pigmentation of palms and soles; tenofovir causes nephrotoxicity (C/I renal failure) and decreased bone density with safety unknown below age 10 yr or 30 kg. Treatment: 2 NRTIs (lamivudine/emtricitabine + tenofovir) + 1 other drug (dolutegravir); PrEP uses the same 2 NRTIs; if tenofovir is C/I use abacavir (HLA B5701 gene, Steven Johnson syndrome). Didanosine (pancreatitis) and stavudine (peripheral neuropathy) are abandoned; zidovudine is still used in children causing bone marrow suppression and myopathy, C/I in anemia."
+  },
+  {
+   "id": "PHARM-U47-4",
+   "ch": 47,
+   "n": 4,
+   "title": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI)",
+   "sec": "Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI) · p190",
+   "qs": [
+    "PHARM-C47-041",
+    "PHARM-C47-042",
+    "PHARM-C47-043",
+    "PHARM-C47-044",
+    "PHARM-C47-045",
+    "PHARM-C47-046",
+    "PHARM-C47-047"
+   ],
+   "guide": "NNRTIs are effective against only HIV-1 and are third line drugs because of increased resistance. Nevirapine is the DOC for perinatal HIV transmission but causes fatal hepatotoxicity; the alternative for perinatal transmission is zidovudine. The other NNRTIs are efavirenz, etravirine, doravirine and rilpivirine."
+  },
+  {
+   "id": "PHARM-U47-5",
+   "ch": 47,
+   "n": 5,
+   "title": "Protease Inhibitors",
+   "sec": "Protease Inhibitors · p191",
+   "qs": [
+    "PHARM-C47-048",
+    "PHARM-C47-049",
+    "PHARM-C47-050",
+    "PHARM-C47-051",
+    "PHARM-C47-052",
+    "PHARM-C47-053",
+    "PHARM-C47-054",
+    "PHARM-C47-055",
+    "PHARM-C47-056",
+    "PHARM-C47-057",
+    "PHARM-C47-058",
+    "PHARM-C47-059",
+    "PHARM-C47-060",
+    "PHARM-C47-061",
+    "PHARM-C47-062",
+    "PHARM-C47-063",
+    "PHARM-C47-064",
+    "PHARM-C47-065",
+    "PHARM-C47-066"
+   ],
+   "guide": "Protease inhibitors are used in children below 6 yr or below 20 kg for increased benefit, are metabolized by CYP3A4 (except nelfinavir: CYP2C19) and all of them inhibit CYP3A4. Side effects: hepatotoxicity, insulin resistance (hyperglycemia, hyperlipidemia, lipodystrophy), GI upset as the dose-limiting effect and increased bleeding in hemophiliacs. Saquinavir is the least potent enzyme inhibitor, ritonavir the most potent and is used as a booster (raises t 1/2); lopinavir (MI, LPV/r 90%/10%) is formulated with ritonavir; atazanavir needs acidic pH (antacid C/I), has no insulin resistance and causes renal stones with unconjugated hyperbilirubinemia (also indinavir); darunavir is taken with food. All PIs can be boosters except nelfinavir; cobicistat (CYP3A4 inhibitor) replaces ritonavir and is available with atazanavir, darunavir and elvitegravir."
+  },
+  {
+   "id": "PHARM-U47-6",
+   "ch": 47,
+   "n": 6,
+   "title": "Integrase Inhibitors",
+   "sec": "Integrase Inhibitors · p191",
+   "qs": [
+    "PHARM-C47-067",
+    "PHARM-C47-068",
+    "PHARM-C47-069",
+    "PHARM-C47-070"
+   ],
+   "guide": "The integrase inhibitors are raltegravir, elvitegravir, bictegravir and dolutegravir, of which dolutegravir is the preferred agent and the \"1 other drug\" added to two NRTIs in the standard treatment regimen."
+  },
+  {
+   "id": "PHARM-U47-7",
+   "ch": 47,
+   "n": 7,
+   "title": "Attachment Inhibitors",
+   "sec": "Attachment Inhibitors · p192",
+   "qs": [
+    "PHARM-C47-071",
+    "PHARM-C47-072",
+    "PHARM-C47-073",
+    "PHARM-C47-074",
+    "PHARM-C47-075",
+    "PHARM-C47-076",
+    "PHARM-C47-077",
+    "PHARM-C47-078"
+   ],
+   "guide": "Attachment inhibitors are used in resistant HIV and act at every entry structure: GP41 - enfuvirtide (fusion blocker, S/C route), CD4 - ibalizumab (I/V route), GP120 - fostemsavir, CCR5 - maraviroc and vicriviroc, and capsid - lenacapavir."
+  },
+  {
+   "id": "PHARM-U47-8",
+   "ch": 47,
+   "n": 8,
+   "title": "HIV Treatment Guidelines (Preferred 1st Line Regimens)",
+   "sec": "HIV Treatment Guidelines (Preferred 1st Line Regimens) · p192",
+   "qs": [
+    "PHARM-C47-079",
+    "PHARM-C47-080",
+    "PHARM-C47-081",
+    "PHARM-C47-082",
+    "PHARM-C47-083",
+    "PHARM-C47-084",
+    "PHARM-C47-085",
+    "PHARM-C47-086"
+   ],
+   "guide": "Adults and children with age >10 yrs and weight >30 kg get TDF + 3TC + DTG; children 6-10 yrs (weight 20-30 kg) get ABC + 3TC + DTG; age <6 years (weight <20 kg) gets ABC + 3TC + LPV/r. In pregnancy/lactation: not on any ART - TDF + 3TC + DTG; already on ART - continue same ART; exposure to NVP in previous pregnancy - TDF + 3TC + DTG. Index: TDF tenofovir, 3TC lamivudine, DTG dolutegravir, ABC abacavir, LPV/r lopinavir/ritonavir."
+  }
+ ]
+}
