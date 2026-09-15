@@ -61,13 +61,13 @@ choice — if four genuine near-misses do not exist, use FILL (typed blank) or M
 ### Hematology
 63: 247-250 DONE (62 qs, 6 units) | 64: 251-255 DONE (110 qs, 6 units)
 ### Respiratory System
-65: 256-258 DONE (31 qs, 5 units) | 66: 259-260
+65: 256-258 DONE (31 qs, 5 units) | 66: 259-260 DONE (35 qs, 8 units)
 ### Gastrointestinal Drugs
-67: 261-265 | 68: 266-268 | 69: 269-271
+67: 261-265 DONE (64 qs, 12 units) | 68: 266-268 DONE (38 qs, 6 units) | 69: 269-271 DONE (31 qs, 5 units)
 ### Immunomodulators
-70: 272-275
-### Anti-neoplastic Agents
-71: 276-281 | 72: 282-285 | 73: 286-289 | 74: 290-293
+70: 272-275 DONE (37 qs, 6 units)
+### Anti-neoplastic Agents  (COMPLETE — ALL 74 CHAPTERS LIVE)
+71: 276-281 DONE (59 qs, 9 units) | 72: 282-285 DONE (33 qs, 7 units) | 73: 286-289 DONE (43 qs, 6 units) | 74: 290-293 DONE (31 qs, 7 units)
 
 ## Pipeline per chapter
 1. `python3 work/render.py <book_a> <book_b> 100`  (renders work/pages/bNNN.png from uploads/ PDF)
@@ -672,10 +672,97 @@ choice — if four genuine near-misses do not exist, use FILL (typed blank) or M
   mast cell stabilizers inhibit Ca2+ channels prevent degranulation ↓histamine cromolyn nedocromil oral food allergy systemic mastocytosis nasal allergic rhinitis eye allergic conjunctivitis inhalational mild asthma
   least toxic preferred children ketotifen mast cell + ↑NO prophylaxis allergen asthma, monoclonal omalizumab anti IgE SC q2-4 wks resistant asthma allergic rhinitis chronic urticaria food allergy dose weight IgE titer
   C/I atopic dermatitis ↑↑IgE IL-4 dupilumab IL-4 receptor T-helper IL-5 reslizumab mepolizumab IL-5 receptor benralizumab eosinophils maturation survival severe eosinophilic asthma atopic dermatitis).
-- **TOTAL LIVE NOW: 5554 questions, 480 units, chapters 1-65.** Endocrine System COMPLETE (through Bone 56 + Thyroid 57); Autacoids COMPLETE (Anti-histaminics 58, Serotonin 59, Eicosanoids 60, Gout 61, RA 62); Hematology COMPLETE (Anti-aggregants 63, Anticoagulants 64); Respiratory live through Bronchial Asthma 65.
+- **TOTAL LIVE NOW: 5925 questions, 546 units, chapters 1-74 — THE ENTIRE BOOK IS LIVE.** Respiratory COMPLETE (Asthma 65, Antitussives 66); GI COMPLETE (PUD 67, Prokinetics/Antiemetics 68, Laxatives/Antidiarrheal 69); Immunomodulators COMPLETE (70); Anti-neoplastic COMPLETE (Intro 71, Non-CCS 72, CCS 73, Miscellaneous 74).
+- DONE (session 13): **ch66 "Antitussives"** (p259-260) - 35 qs, 8 units
+  (central preferred → peripheral if no response; central non-opioids dextromethorphan NMDA S/E abuse+agitation mild cough,
+  noscapine spasmodic, levopropoxyphene mild; opioids codeine max abuse/ethylmorphine least S/E mild-moderate, morphine+methadone severe,
+  constipation+abuse (+); misc diphenhydramine H1/muscarinic mild, aprepitant NK1 severe, gabapentin/pregabalin chronic idiopathic;
+  peripheral local anesthetics (-) stretch receptors, moguisteine K+ channels, cromolyn persistent depolarisation; expectorant guaifenesin
+  only FDA gastric→reflex bronchial, iodides/hypertonic saline non-FDA; mucolytics sulphydryl N-acetyl/methyl/ethyl cysteine, ↑sialomucin
+  carbocisteine/letosteine/erdosteine/stepronin, depolymerise bromhexine/ambroxol, DNase CF; productive syrup expectorant+mucolytic+
+  salbutamol+phenylephrine).
+- DONE (session 13): **ch67 "Peptic Ulcer Disease"** (p261-265) - 64 qs, 12 units
+  (anti-secretory most effective PPI DOC/H2/anticholinergics M1 pirenzepine+telenzepine; gastroprotective cover ulcer; antacids neutralize;
+  physiology D-cells somatostatin ⊣ gastrin H.pylori kills D-cells, G-cells gastrin (+)ECL+CCK-2B, ECL histamine H2, ganglion M1→ACh→M3,
+  parietal H+ pumps; natezepide CCK-2B blocker gastrinoma; PPI t½ 1.5-2 h irreversible effect stops 3-5 d acid labile max rabeprazole min
+  pantoprazole 30-60 min before food HCl activation; omeprazole most potent enzyme inhibitor racemic S slow CYP2C19 ↑toxicity
+  antidepressants/antipsychotics ↓tamoxifen ↓clopidogrel; esomeprazole longer; pantoprazole least potent enzyme inhibitor; rabeprazole
+  longest/fastest/most potent PPI; Barrett's life-long; bleed IV basic pH; pneumonia/pseudomembranous enterocolitis; ↓Ca/Mg/B12/Fe;
+  hypergastrinemia; H2 cimetidine least potent+enzyme inhibitor+antiandrogenic/↑prolactin, famotidine most potent, basal acid post-op
+  pneumonia DOC, neurotoxicity IV/elderly/cimetidine, rapid IV blocks Gs ↓HR/BP infuse 30 min; misoprostol PGE1 EP2/4 ↑mucin+HCO3 EP3 ↓HCl
+  200 mcg QID most specific DOC PPI C/I IBD; sucralfate octasulfate+Al polymerised by HCl radiation proctitis hypophosphatemia bezoars C/I
+  renal failure antacids prevent polymerisation; bismuth subsalicylate/subcitrate cover+mucin+antibacterial Reye's neurotoxic; antacids Mg
+  diarrhoea Al constipation bleeding ulcer q30 min uncomplicated 1&3 h GERD DOC pregnancy/children C/I renal; alginate reflux; simethicone
+  surfactant).
+- DONE (session 13): **ch68 "Prokinetics and Antiemetics"** (p266-268) - 38 qs, 6 units
+  (cranio-caudal gastroparesis; erythromycin/mitemcinal (+) motilin, dexloxiglumide (-) CCK, 5HT4 ↑ACh, D2 blockers; heteroreceptors;
+  cisapride/tegaserod banned QT; mosapride/prucalopride GERD+chronic constipation; metoclopramide normal (-)D2 high (+)5HT4+(-)5HT3,
+  (-)D2+(-)5HT3 prokinetic+antiemetic, domperidone (-)D2 less potent minor BBB, EPS acute dystonia earliest, hyperprolactinemia severe vs
+  mild prolactin stimulation; 5HT3 ondansetron shortest early DOC palonosetron longest+most potent late min QT dolasetron max QT post-op/
+  post-RT DOC morning sickness C/I apomorphine; NK1 late DOC fosaprepitant IV aprepitant severe cough; cannabinoids dronabinol/nabilone Gi
+  ↓5HT/Dop/NE no α1 hypotension+blood shot eyes; levosulpiride post-op/gastroparesis, olanzapine CINV+transdermal patch 4.5 h before
+  travel, scopolamine DOC motion, doxylamine DOC morning, antihistamines motion; dexamethasone add-on CINV).
+- DONE (session 13): **ch69 "Laxatives and Antidiarrheal Drugs"** (p269-271) - 31 qs, 5 units
+  (laxative formed stool vs purgative pre-op; probiotics bacillus clausii/lactobacillus/saccharomyces vs prebiotics psyllium/bran/
+  methylcellulose symbiotics; stimulants bisacodyl/senna/cascara inflammation→nerve→contraction night >10 d atonic hypokalemia melanosis
+  coli C/I obstruction castor oil ricinoleic; osmotic Mg C/I renal Na C/I CHF sugars saturated fatty acids 2nd line lactulose NH3→NH4+
+  flatulence PEG DOC IBS-C; docusate surfactants mineral oil aspiration tenapanor Na+/H+ lubiprostone type-2 Cl- linaclotide/plecanatide
+  guanylate cyclase cGMP CFTR; opioids loperamide DOC non-secretory eluxadoline μ&κ/δ resins biliary alosetron females ischemic colitis
+  octreotide secretory HIV/DM/chemo pancreatitis dumping racecadotril enkephalin children crofelemer CFTR HIV).
+- DONE (session 13): **ch70 "Immunomodulators"** (p272-275) - 37 qs, 6 units
+  (MHC→calcineurin→NFATc dephos→NFATc+NFATn→↑IL-2; steroids block mediators+apoptosis; cyclosporin/tacrolimus calcineurin; basiliximab/
+  daclizumab IL-2R CD25; everolimus/sirolimus mTOR; azathioprine/methotrexate S-phase; muromonab CD3; alemtuzumab CD52; GVHD+rejection
+  prophylaxis all drugs, rejection treatment activated lymphocytes; first line cyclosporine rescue tacrolimus; DOC cyclosporine lichen
+  planus/atopic/steroid-resistant UC+nephrotic/MG/RA/Behcet's; S/E tacrolimus>cyclosporine hirsutism gum hyperplasia hyperlipidemia
+  hyperuricemia; mTOR G1-S sirolimus stent coating uvoretinitis temsirolimus RCC everolimus RCC/angiomyolipoma/pancreatic/ER+ breast/
+  astrocytoma lymphocytes hate mTOR; daclizumab MS basiliximab prophylaxis muromonab cytokine release C/I fever+chills alemtuzumab;
+  abatacept/belatacept CD80/86 alefacept CD3 drug-resistant; azathioprine 6-MP TPMT; MMF IMP dehydrogenase C/I azathioprine 1st line
+  cardiac/bone marrow; IL-1 anakinra RA DOC CAPS JIA/Still's canakinumab rilonacept acute gout; T-cell CD28-CD80/86 CD2-LFA-3; thalidomide
+  sedative banned phocomelia reintroduced Catch PROGRAMMES SPORT Channel).
+- DONE (session 13): **ch71 "Introduction to Anticancer Drugs"** (p276-281) - 59 qs, 9 units
+  (classification non-CCS alkylating/platinum/antitumor antibiotics; S-phase anti-metabolites topo I&II HDAC hydroxyurea; M-phase vinca/
+  taxanes/epothilones/eribulin/estramustine; DLT bone marrow; ECL ↑5HT 5HT3 + substance P NK1 CINV severe cisplatin 4 drugs moderate
+  carboplatin mild dexamethasone; DOC brain temozolomide head-neck cisplatin/cetuximab esophagus+gastric cisplatin colorectal 5FU
+  FOLFOX/FOLFIRI/FOLFIRINOX anal 5FU+mitomycin-C urogenital cisplatin ±nivo/pembro prostate goserelin; retinoblastoma VEC lung cisplatin+
+  etoposide HCC sorafenib pancreatic FOLFIRINOX pheo vincristine+cyclophosphamide+dacarbazine RCC pembrolizumab osteosarcoma MAP+ifosfamide;
+  SCLC limited vs extensive +pembro; NSCLC mutation(-) chemo+ICP double ICP nivo+ipi Keynote189; EGFR 1st gefitinib/erlotinib T790M 2nd
+  afatinib/dacomitinib 3rd osmertinib L858R; ALK crizotinib L1196 2nd alectinib/brigatinib(T790)/ceritinib G1202R 3rd lorlatinib; breast
+  ER tamoxifen/letrozole/fulvestrant/elacestrant ESR-1 Her2 trastuzumab/neratinib/pertuzumab/lapatinib triple DCP+pembro BRCA olaparib;
+  ALL VPAD AML cytarabine+ida/dauno FLT3 midostaurin CLL FCR; CML imatinib DOC GIST 2nd dasatinib/nilotinib/bosutinib 3rd ponatinib
+  asciminib allosteric omacetaxine BCR-ABL TNF-α; Hodgkin ABVD → nivo/pembro NHL low FCR high R-CHOP hairy cladribine PV/ET/sickle
+  hydroxyurea myeloma bortezomib+lenalidomide+dexa; organ S/E vincristine SIADH cytarabine cerebellar cisplatin oto/nephro NS+mannitol+
+  amifostine bleo>busulfan pulmonary doxo/dauno cardio dexrazoxane MTX cirrhosis irinotecan diarrhea loperamide ifosfamide cystitis mesna
+  capecitabine hand-foot B6 pemetrexed folinic+B12 flagellate bleomycin).
+- DONE (session 13): **ch72 "Non-Cell Cycle Specific Drugs"** (p282-285) - 33 qs, 7 units
+  (AA devoid of H binds N7 guanine G≡T check gates secondary AML; cyclophosphamide prodrug 4-hydroxy phosphoramide cytotoxic acrolein
+  cystitis mesna chloroacetaldehyde GTCS/ataxia uses female/kids/Wegener's/nephrotic; ifosfamide I>C mechlorethamine vesication rapid IV
+  melphalan myeloma chlorambucil CLL; nitrosoureas BBB neutropenia streptozocin β-islet; dacarbazine/procarbazine Hodgkin's MAO+disulfiram
+  temozolomide brain; busulfan pulmonary fibrosis; PC bivalent cisplatin/carboplatin quadrivalent oxaliplatin Cl-diuresis; anthracyclines
+  topo-II S-phase Fe radical G2 cardiotoxicity dexrazoxane doxo osteosarcoma/Hodgkin ida/dauno+cytarabine AML epirubicin breast valrubicin
+  bladder mitoxantrone MS/AML red urine; bleomycin hydrolase type-II pneumocyte flagellate; actinomycin-D RNA polymerase chorio/Wilms
+  radiation recall; mitomycin-C topo-II anal Ca ocular corneal topical synechiae HUS).
+- DONE (session 13): **ch73 "Cell Cycle Specific Drugs"** (p286-289) - 43 qs, 6 units
+  (antifolates fdUMP ternary TS dUMP/TMP DHFR MTX RECIPE leucovorin bicarbonate cirrhosis pemetrexed mesothelioma/NSCLC B12; purine de-novo
+  lymphocytes 6MP ALL allopurinol ↓75% fludarabine CL/NHL cladribine hairy DOC pentostatin ADA clofarabine/nelarabine resistant ALL;
+  pyrimidine 5FU TS IV capecitabine oral prodrug B6 gemcitabine HUS azacitidine/decitabine demethylation 5q lenalidomide cytarabine
+  cerebellar ×7d; topo-I irinotecan delayed diarrhea loperamide topotecan ovarian topo-II etoposide teniposide childhood ALL; HD blockers
+  vorinostat/romidepsin cutaneous belinostat peripheral panobinostat myeloma; hydroxyurea RDR SPECiaL DOC leg ulcer; vinca block β-tubulin
+  polymerization vincristine children SIADH max neuropathy vinblastine Hodgkin's/testicular vinorelbine NSCLC; taxanes ↑polymerization
+  paclitaxel castor oil hypersensitivity nab water soluble docetaxel polysorbate H2O retention CHF; ixabepilone/eribulin breast estramustine
+  prostate gynecomastia).
+- DONE (session 13): **ch74 "Miscellaneous Drugs"** (p290-293) - 31 qs, 7 units
+  (L-asparaginase IV breaks asparagine ALL ↓protein hyperglycemia/hyperlipidemia/hemorrhage/hypercoagulation hypersensitivity; retinoic
+  acid PML chr17 RARα/chr15 PML DOC arsenic trioxide pulmonary syndrome differentiating supra-physiological; proteasome bortezomib/
+  carfilzomib myeloma thrombocytopenia neuropathy +lenalidomide+dexa+daratumumab; MAbs humanised -zumab trastuzumab chimeric -ximab
+  abciximab murine -omab ibritumomab human -umab adalimumab stems -tu/-ci/-li/-tox/-os/-vi hybridoma; EGFR cetuximab/panitumumab gefitinib/
+  erlotinib HER2 trastuzumab main/pertuzumab lapatinib/neratinib VEGF macular ramucirumab GIT vandetanib medullary thyroid axitinib/sunitinib
+  RCC sorafenib DOC HCC lenvatinib CD20 rituximab/ofatumumab; ICP PD1 nivo/dostarlimab/cemiplimab/pembro CTLA4 ipilimumab CD80/86 PDL1
+  durvalumab/avelumab/atezolizumab breast pembro; BTK ibrutinib/acalabrutinib CLL/mantle/marginal/Waldenstrom; MAPK BRAF vemurafenib/
+  dabrafenib/encorafenib MEK trametinib/selumetinib/binimetinib melanoma 1+1; hedgehog glasdegib elderly AML sonidegib basal cell; PI3-K
+  alpelisib breast+fluvestrant idelalisib/duvelisib CLL).
 - **SESSION 11 NOTES:** source pages p224-258 rendered at 180 dpi and read line-by-line; crops verified osteonecrosis jaw image (p225), teriparatide max 2 yr note (p226), potassium iodide 10% vs Lugol 5% (p228), I131 timing diagram (p229), fexofenadine least sedating (p232), triptan durations 27 hr frovatriptan vs 6 hr naratriptan (p234), ergot gangrene feet m/c (p235), zileuton vs montelukast (p238-239), diclofenac short T1/2 long acting joints (p241), allopurinol HLA-B-5801 SJS (p242), uricosuric add-on > mono (p243), DMARD anchor methotrexate (p244), hydroxychloroquine Bull eye ≤5 mg/kg (p245), platelet aggregation diagram abciximab/aspirin/clopidogrel/vorapaxar (p247), hit & run definition (p248), UFH vs LMWH table AP+long vs AP+short vs AP only (p252), warfarin factor decline order VII first II last (p254), fibrinolytic BRAIN mnemonic (p255), theophylline 5-15 mg/L normal (p256), ICS soft steroids ciclesonide beclomethasone (p257), omalizumab weight+IgE titer dosing (p258). Generator work/gen_ch56_65.py is single reproducible source for this batch.
 - **SESSION 12 (quality audit):** User reported options were too predictable — you could pick the longest / most complete choice without knowing the fact. Audit of live data: ch1–55 only 2.4% of 5201 questions had dummy "Only X" distractors (left as CHOOSE). ch56–65 were 44–85% "Only X" pads with a uniquely-longest correct option. Rewrote ch56–65 on the same book facts / unit path as **353 questions** (103 CHOOSE / 211 FILL / 39 MATCH), 0 dummy-Only, 0 length-giveaway. Quiz engine now supports CHOOSE (4 near-miss options), FILL (typed blank + aliases), MATCH (tap-to-pair). `work/validate.py` warns on dummy pads. `work/quiz_runtime.js` + `work/patch_engine.py` are the runtime source. Validation, rebuild, integrity, Node syntax PASS. Counts: ch56 40/6, ch57 36/6, ch58 31/5, ch59 34/7, ch60 54/7, ch61 24/6, ch62 29/5, ch63 28/6, ch64 46/6, ch65 31/5.
-- NEXT: **ch66 Antitussives (p259-260)** — new chapters must ship mixed CHOOSE/FILL/MATCH with near-miss distractors, never "Only X" pads. Then GI drugs.
+- NEXT: **none — ALL 74 CHAPTERS ARE LIVE (book complete, p1-293).** Future sessions: quality audits / refinements only. Keep the mixed CHOOSE/FILL/MATCH near-miss standard for any new or reworked content.
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).

@@ -1,0 +1,595 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C72-001",
+   "sec": "Alkylating Agents: MOA and Secondary Carcinoma",
+   "page": 282,
+   "type": "fill",
+   "q": "The alkyl group of alkylating agents is devoid of the ____ atom.",
+   "blank": "H",
+   "aliases": [
+    "H",
+    "hydrogen"
+   ],
+   "exp": "Alkyl group: devoid of 'H' atom (Book p282)"
+  },
+  {
+   "id": "PHARM-C72-002",
+   "sec": "Alkylating Agents: MOA and Secondary Carcinoma",
+   "page": 282,
+   "type": "fill",
+   "q": "AA binds with the H atom on guanine at the ____ position.",
+   "blank": "N7",
+   "aliases": [
+    "N7",
+    "N-7",
+    "N 7"
+   ],
+   "exp": "AA bind with H atom on guanine (N7 position of guanine) (Book p282)"
+  },
+  {
+   "id": "PHARM-C72-003",
+   "sec": "Alkylating Agents: MOA and Secondary Carcinoma",
+   "page": 282,
+   "type": "mcq",
+   "q": "Guanine mispairing with thymidine produces which abnormal DNA pair?",
+   "opts": [
+    "G≡T",
+    "A=T",
+    "G≡C",
+    "T≡A"
+   ],
+   "ans": 0,
+   "exp": "Guanine mispairing with thymidine → G≡T abnormal DNA formation (Book p282)"
+  },
+  {
+   "id": "PHARM-C72-004",
+   "sec": "Alkylating Agents: MOA and Secondary Carcinoma",
+   "page": 282,
+   "type": "mcq",
+   "q": "If check gates are not functional, abnormal DNA proliferates → secondary carcinoma; the m/c secondary cancer (with platinum compounds & alkylating agents) is:",
+   "opts": [
+    "AML",
+    "ALL",
+    "CML",
+    "CLL"
+   ],
+   "ans": 0,
+   "exp": "Secondary carcinoma: AML (m/c) — seen with platinum compound & alkylating agent (Book p282)"
+  },
+  {
+   "id": "PHARM-C72-005",
+   "sec": "Nitrogen Mustards",
+   "page": 282,
+   "type": "match",
+   "q": "Match the hepatic fate of cyclophosphamide to its consequence.",
+   "left": [
+    "Phosphoramide (mustard)",
+    "Acrolein",
+    "Chloroacetaldehyde",
+    "Inactive compound"
+   ],
+   "right": [
+    "Cytotoxicity",
+    "Hemorrhagic cystitis — prevented by mesna",
+    "Neurotoxicity: GTCS, ataxia",
+    "Excreted"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Phosphoramide mustard → cytotoxicity; acrolein → hemorrhagic cystitis (mesna); chloroacetaldehyde → neurotoxicity (GTCS, ataxia); inactive → excreted (Book p282)"
+  },
+  {
+   "id": "PHARM-C72-006",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "fill",
+   "q": "Prodrug cyclophosphamide's active form is ____.",
+   "blank": "4-hydroxy cyclophosphamide",
+   "aliases": [
+    "4-hydroxy cyclophosphamide",
+    "4-hydroxycyclophosphamide"
+   ],
+   "exp": "Cyclophosphamide → 4-hydroxy cyclophosphamide (active) (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-007",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "match",
+   "q": "Match the cyclophosphamide use-group to its cancers.",
+   "left": [
+    "Female",
+    "Kids",
+    "DOC in"
+   ],
+   "right": [
+    "Breast Ca, ovary Ca",
+    "Neuroblastoma, Wilms tumor, ALL, NHL",
+    "Wegener's granulomatosis, steroid-dependent nephrotic syndrome"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Female: breast/ovary; kids: neuroblastoma, Wilms, ALL, NHL; DOC: Wegener's, steroid-dependent nephrotic syndrome (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-008",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "fill",
+   "q": "Ifosfamide (I > C) causes hemorrhagic cystitis and ____.",
+   "blank": "neurotoxicity",
+   "aliases": [
+    "neurotoxicity"
+   ],
+   "exp": "S/E I > C: hemorrhagic cystitis, neurotoxicity (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-009",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "fill",
+   "q": "Mechlorethamine's vesication is prevented by rapid ____.",
+   "blank": "I/V infusion",
+   "aliases": [
+    "I/V infusion",
+    "IV infusion",
+    "rapid IV infusion"
+   ],
+   "exp": "S/E vesication (prevention: rapid I/V infusion) (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-010",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "fill",
+   "q": "Melphalan is used for ____.",
+   "blank": "multiple myeloma",
+   "aliases": [
+    "multiple myeloma",
+    "myeloma"
+   ],
+   "exp": "Melphalan use: multiple myeloma (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-011",
+   "sec": "Nitrogen Mustards",
+   "page": 283,
+   "type": "fill",
+   "q": "Chlorambucil is used for ____.",
+   "blank": "chronic lymphocytic leukemia",
+   "aliases": [
+    "chronic lymphocytic leukemia",
+    "CLL",
+    "chronic lymphocytic leukaemia"
+   ],
+   "exp": "Chlorambucil use: chronic lymphocytic leukemia (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-012",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "Carmustine, lomustine and semustine treat brain tumors because of good ____ penetration.",
+   "blank": "BBB",
+   "aliases": [
+    "BBB",
+    "blood brain barrier"
+   ],
+   "exp": "Brain tumor (good BBB penetration) (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-013",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "The nitrosoureas' side effect is ____.",
+   "blank": "neutropenia",
+   "aliases": [
+    "neutropenia"
+   ],
+   "exp": "S/E: neutropenia (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-014",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "DOC for pancreatic β-islet cell tumor: ____.",
+   "blank": "streptozocin",
+   "aliases": [
+    "streptozocin",
+    "streptozotocin"
+   ],
+   "exp": "Streptozocin — DOC: pancreatic β-islet cell tumor (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-015",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "Dacarbazine and procarbazine (methylation AA agents) are used in ____ ; S/E: MAO inhibition and disulfiram-like reaction.",
+   "blank": "Hodgkin's disease",
+   "aliases": [
+    "Hodgkin's disease",
+    "Hodgkin's",
+    "Hodgkins disease"
+   ],
+   "exp": "Use: Hodgkin's disease; S/E MAO inhibition, disulfiram like reaction (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-016",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "The methylating AA agent that is DOC for brain tumor is ____.",
+   "blank": "temozolomide",
+   "aliases": [
+    "temozolomide"
+   ],
+   "exp": "Temozolomide — DOC: brain tumor (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-017",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "page": 283,
+   "type": "fill",
+   "q": "Busulfan (use: chronic myeloid leukemia) causes ____ as its S/E.",
+   "blank": "pulmonary fibrosis",
+   "aliases": [
+    "pulmonary fibrosis"
+   ],
+   "exp": "Busulfan S/E: pulmonary fibrosis (Book p283)"
+  },
+  {
+   "id": "PHARM-C72-018",
+   "sec": "Platinum Compounds",
+   "page": 284,
+   "type": "match",
+   "q": "Match the platinum fact.",
+   "left": [
+    "Bivalent PC",
+    "Quadrivalent PC",
+    "Platinum compounds overall"
+   ],
+   "right": [
+    "Cisplatin and carboplatin",
+    "Oxaliplatin",
+    "Effects like alkylating agents (bind N7 guanine)"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Bivalent: cisplatin, carboplatin; quadrivalent: oxaliplatin; effects like alkylating agents (Book p284)"
+  },
+  {
+   "id": "PHARM-C72-019",
+   "sec": "Platinum Compounds",
+   "page": 284,
+   "type": "fill",
+   "q": "Cisplatin nephrotoxicity prevention: 1–2 ltr NS → ____ diuresis (inactivates cisplatin), plus mannitol and amifostine.",
+   "blank": "Cl-",
+   "aliases": [
+    "Cl-",
+    "chloride",
+    "Cl"
+   ],
+   "exp": "Cl- diuresis (inactivates cisplatin) (Book p284)"
+  },
+  {
+   "id": "PHARM-C72-020",
+   "sec": "Platinum Compounds",
+   "page": 284,
+   "type": "fill",
+   "q": "Oxaliplatin (colorectal & pancreatic Ca) has the S/E ____.",
+   "blank": "peripheral neuropathy",
+   "aliases": [
+    "peripheral neuropathy",
+    "neuropathy"
+   ],
+   "exp": "S/E: peripheral neuropathy (Book p284)"
+  },
+  {
+   "id": "PHARM-C72-021",
+   "sec": "Platinum Compounds",
+   "page": 284,
+   "type": "fill",
+   "q": "Carboplatin is less toxic than cisplatin but causes ____ suppression.",
+   "blank": "bone marrow",
+   "aliases": [
+    "bone marrow",
+    "marrow"
+   ],
+   "exp": "S/E: bone marrow suppression (Book p284)"
+  },
+  {
+   "id": "PHARM-C72-022",
+   "sec": "Anthracyclines",
+   "page": 284,
+   "type": "mcq",
+   "q": "Anthracycline MOA includes:",
+   "opts": [
+    "Topo-II inhibition (S-phase) + Fe-dependent free radicals (G2-phase); cardiotoxicity prevented by dexrazoxane",
+    "Topo-I inhibition (S-phase) with radical-independent cardiotoxicity prevented by amifostine",
+    "RNA polymerase inhibition (G2-phase) with nephrotoxicity prevented by mannitol Cl-diuresis",
+    "Microtubule stabilization (M-phase) with neuropathy prevented by vitamin B6 supplement"
+   ],
+   "ans": 0,
+   "exp": "Inhibit topoisomerase-II → S-phase; free radical (needs Fe) → G2-phase; S/E cardiotoxicity; prevention dexrazoxane (Book p284)"
+  },
+  {
+   "id": "PHARM-C72-023",
+   "sec": "Anthracyclines",
+   "page": 285,
+   "type": "match",
+   "q": "Match the anthracycline to its use.",
+   "left": [
+    "Doxorubicin/adriamycin",
+    "Idarubicin & daunorubicin (+ cytarabine)",
+    "Epirubicin",
+    "Valrubicin"
+   ],
+   "right": [
+    "Osteosarcoma, Hodgkin's lymphoma",
+    "AML",
+    "Breast Ca",
+    "Bladder Ca"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Doxorubicin: osteosarcoma, Hodgkin's; idarubicin/daunorubicin + cytarabine: AML; epirubicin: breast; valrubicin: bladder (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-024",
+   "sec": "Anthracyclines",
+   "page": 285,
+   "type": "fill",
+   "q": "Mitoxantrone is used in multiple sclerosis and ____.",
+   "blank": "myelogenic leukemia (AML)",
+   "aliases": [
+    "myelogenic leukemia (AML)",
+    "AML",
+    "myelogenic leukemia",
+    "myelogenous leukemia"
+   ],
+   "exp": "Mitoxantrone: multiple sclerosis, myelogenic leukemia (AML) (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-025",
+   "sec": "Anthracyclines",
+   "page": 285,
+   "type": "fill",
+   "q": "Red urine is seen with doxorubicin and ____.",
+   "blank": "daunorubicin",
+   "aliases": [
+    "daunorubicin"
+   ],
+   "exp": "Red urine with doxorubicin, daunorubicin (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-026",
+   "sec": "Bleomycin",
+   "page": 285,
+   "type": "fill",
+   "q": "Deficiency of ____ hydrolase (responsible for bleomycin metabolism) explains bleomycin's lung and skin toxicity.",
+   "blank": "bleomycin",
+   "aliases": [
+    "bleomycin"
+   ],
+   "exp": "Deficiency of bleomycin hydrolase → pulmonary fibrosis, flagellate dermatitis (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-027",
+   "sec": "Bleomycin",
+   "page": 285,
+   "type": "fill",
+   "q": "Bleomycin pulmonary fibrosis is due to type-____ pneumocyte damage.",
+   "blank": "II",
+   "aliases": [
+    "II",
+    "2",
+    "type II",
+    "type-2"
+   ],
+   "exp": "Pulmonary fibrosis (type-II pneumocyte damage) (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-028",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "fill",
+   "q": "Actinomycin-D/dactinomycin binds to DNA and inhibits ____ polymerase.",
+   "blank": "RNA",
+   "aliases": [
+    "RNA"
+   ],
+   "exp": "Binds to DNA → inhibits RNA polymerase (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-029",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "fill",
+   "q": "Actinomycin-D is used for choriocarcinoma and ____ tumor.",
+   "blank": "Wilms",
+   "aliases": [
+    "Wilms",
+    "Wilms tumor",
+    "wilms"
+   ],
+   "exp": "Use: choriocarcinoma, Wilms tumor (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-030",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "fill",
+   "q": "Skin turns red when CT follows prior RT in the same area — the ____ syndrome.",
+   "blank": "radiation recall",
+   "aliases": [
+    "radiation recall",
+    "radiation recall syndrome"
+   ],
+   "exp": "Radiation recall syndrome (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-031",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "mcq",
+   "q": "Radiation recall syndrome is seen with:",
+   "opts": [
+    "Dactinomycin, doxorubicin, daunorubicin",
+    "Cisplatin, carboplatin, oxaliplatin",
+    "Vincristine, vinblastine, paclitaxel",
+    "Carmustine, lomustine, semustine"
+   ],
+   "ans": 0,
+   "exp": "Seen in: dactinomycin, doxorubicin, daunorubicin (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-032",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "fill",
+   "q": "Mitomycin-C (topo-II inhibitor, like alkylating agent) has the S/E ____.",
+   "blank": "HUS",
+   "aliases": [
+    "HUS",
+    "hemolytic uremic syndrome",
+    "haemolytic uraemic syndrome"
+   ],
+   "exp": "S/E: HUS (Book p285)"
+  },
+  {
+   "id": "PHARM-C72-033",
+   "sec": "Actinomycin-D and Mitomycin-C",
+   "page": 285,
+   "type": "fill",
+   "q": "Ocular mitomycin-C prevents ____ scarring; topical prevents synechiae/stenosis in laryngo-tracheal & nasal surgery.",
+   "blank": "corneal",
+   "aliases": [
+    "corneal"
+   ],
+   "exp": "Ocular: prevents corneal scarring (Book p285)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U72-1",
+   "ch": 72,
+   "n": 1,
+   "title": "Alkylating Agents: MOA and Secondary Carcinoma",
+   "sec": "Alkylating Agents: MOA and Secondary Carcinoma · p282",
+   "qs": [
+    "PHARM-C72-001",
+    "PHARM-C72-002",
+    "PHARM-C72-003",
+    "PHARM-C72-004"
+   ],
+   "guide": "Alkyl group devoid of H; binds H on guanine N7; guanine mispairs with thymidine (G≡T). Functional check gates → cytotoxic death; non-functional → proliferation → secondary carcinoma, AML m/c (platinum & AA)."
+  },
+  {
+   "id": "PHARM-U72-2",
+   "ch": 72,
+   "n": 2,
+   "title": "Nitrogen Mustards",
+   "sec": "Nitrogen Mustards · p282",
+   "qs": [
+    "PHARM-C72-005",
+    "PHARM-C72-006",
+    "PHARM-C72-007",
+    "PHARM-C72-008",
+    "PHARM-C72-009",
+    "PHARM-C72-010",
+    "PHARM-C72-011"
+   ],
+   "guide": "Cyclophosphamide prodrug → 4-hydroxy (active); liver splits: phosphoramide mustard (cytotoxic), acrolein (hemorrhagic cystitis, mesna), chloroacetaldehyde (GTCS/ataxia), inactive excreted. Uses female/kids/Wegener's/nephrotic. Ifosfamide I>C cystitis+neuro. Mechlorethamine vesication (rapid IV). Melphalan myeloma; chlorambucil CLL."
+  },
+  {
+   "id": "PHARM-U72-3",
+   "ch": 72,
+   "n": 3,
+   "title": "Nitrosoureas, Methylating and Miscellaneous AA",
+   "sec": "Nitrosoureas, Methylating and Miscellaneous AA · p283",
+   "qs": [
+    "PHARM-C72-012",
+    "PHARM-C72-013",
+    "PHARM-C72-014",
+    "PHARM-C72-015",
+    "PHARM-C72-016",
+    "PHARM-C72-017"
+   ],
+   "guide": "Nitrosoureas (carmustine/lomustine/semustine): brain tumor (BBB), neutropenia. Streptozocin: pancreatic β-islet DOC. Methylating: dacarbazine/procarbazine Hodgkin's (MAO inhibition, disulfiram-like); temozolomide brain tumor DOC. Busulfan CML, pulmonary fibrosis."
+  },
+  {
+   "id": "PHARM-U72-4",
+   "ch": 72,
+   "n": 4,
+   "title": "Platinum Compounds",
+   "sec": "Platinum Compounds · p284",
+   "qs": [
+    "PHARM-C72-018",
+    "PHARM-C72-019",
+    "PHARM-C72-020",
+    "PHARM-C72-021"
+   ],
+   "guide": "Bivalent cisplatin/carboplatin; quadrivalent oxaliplatin; effects like AA. Cisplatin nephro: NS → Cl- diuresis, mannitol, amifostine. Oxaliplatin colorectal/pancreatic, peripheral neuropathy. Carboplatin less toxic, marrow suppression."
+  },
+  {
+   "id": "PHARM-U72-5",
+   "ch": 72,
+   "n": 5,
+   "title": "Anthracyclines",
+   "sec": "Anthracyclines · p284",
+   "qs": [
+    "PHARM-C72-022",
+    "PHARM-C72-023",
+    "PHARM-C72-024",
+    "PHARM-C72-025"
+   ],
+   "guide": "Topo-II (S-phase) + Fe-radical (G2-phase); cardiotoxicity (dexrazoxane). Doxorubicin osteosarcoma/Hodgkin's; idarubicin/daunorubicin+cytarabine AML; epirubicin breast; valrubicin bladder; mitoxantrone MS/AML. Red urine doxorubicin/daunorubicin."
+  },
+  {
+   "id": "PHARM-U72-6",
+   "ch": 72,
+   "n": 6,
+   "title": "Bleomycin",
+   "sec": "Bleomycin · p285",
+   "qs": [
+    "PHARM-C72-026",
+    "PHARM-C72-027"
+   ],
+   "guide": "MOA like anthracyclin. Hodgkin's, testicular Ca. Bleomycin hydrolase deficiency → pulmonary fibrosis (type-II pneumocyte) + flagellate dermatitis."
+  },
+  {
+   "id": "PHARM-U72-7",
+   "ch": 72,
+   "n": 7,
+   "title": "Actinomycin-D and Mitomycin-C",
+   "sec": "Actinomycin-D and Mitomycin-C · p285",
+   "qs": [
+    "PHARM-C72-028",
+    "PHARM-C72-029",
+    "PHARM-C72-030",
+    "PHARM-C72-031",
+    "PHARM-C72-032",
+    "PHARM-C72-033"
+   ],
+   "guide": "Actinomycin-D binds DNA → inhibits RNA polymerase; choriocarcinoma, Wilms; radiation recall (also doxorubicin/daunorubicin). Mitomycin-C topo-II/AA-like; IV anal Ca, ocular corneal scarring, topical synechiae; S/E HUS."
+  }
+ ]
+}
