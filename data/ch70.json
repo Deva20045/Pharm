@@ -1,0 +1,688 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C70-001",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "mcq",
+   "q": "Step 1: MHC presents foreign antigens to local immune cells. Which drug blocks production of inflammatory mediators by these local immune cells?",
+   "opts": [
+    "Steroids",
+    "Cyclosporine",
+    "Muromonab",
+    "Sirolimus"
+   ],
+   "ans": 0,
+   "exp": "Steroids block production of inflammatory mediators by local immune cells (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-002",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "fill",
+   "q": "Activated calcineurin removes PO4 from ____ (NFATc-PO4 → NFATc).",
+   "blank": "NFATc",
+   "aliases": [
+    "NFATc",
+    "NFAT",
+    "NFAT-c"
+   ],
+   "exp": "Calcineurin dephosphorylates NFATc-PO4 → NFATc (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-003",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "fill",
+   "q": "NFATc + NFATn in the nucleus ↑ transcription factor for ____ synthesis.",
+   "blank": "IL-2",
+   "aliases": [
+    "IL-2",
+    "interleukin-2",
+    "interleukin 2"
+   ],
+   "exp": "↑ transcription factor for IL-2 (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-004",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "match",
+   "q": "Match the immunomodulator pair to its action.",
+   "left": [
+    "Cyclosporin, tacrolimus",
+    "Basiliximab, daclizumab",
+    "Everolimus, sirolimus",
+    "Azathioprine, methotrexate"
+   ],
+   "right": [
+    "Blocks calcineurin",
+    "Blocks IL-2 receptor (CD25)",
+    "Blocks mTOR protein",
+    "Blocks S-phase in cell cycle"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Cyclosporin/tacrolimus → calcineurin; basiliximab/daclizumab → IL-2R CD25; everolimus/sirolimus → mTOR; azathioprine/methotrexate → S-phase (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-005",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "match",
+   "q": "Match the agent acting on activated lymphocytes to its target.",
+   "left": [
+    "Muromonab",
+    "Alemtuzumab",
+    "Steroids (on lymphocytes)"
+   ],
+   "right": [
+    "Blocks CD3",
+    "Blocks CD52",
+    "Induces apoptosis of activated lymphocytes"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Muromonab → CD3; alemtuzumab → CD52; steroids induce apoptosis of activated lymphocytes (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-006",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "fill",
+   "q": "The IL-2 receptor on the CD-8 cell is also called ____.",
+   "blank": "CD25",
+   "aliases": [
+    "CD25",
+    "CD-25"
+   ],
+   "exp": "IL-2 receptor/CD-25 (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-007",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "match",
+   "q": "Match the transplant scenario to the drug policy.",
+   "left": [
+    "GVHD (treatment & prophylaxis)",
+    "Graft rejection — prophylaxis",
+    "Graft rejection — treatment"
+   ],
+   "right": [
+    "All drugs used",
+    "All drugs used as well",
+    "Drugs acting on activated lymphocytes"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "GVHD treatment & prophylaxis and rejection prophylaxis: all drugs; rejection treatment: drugs acting on activated lymphocytes (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-008",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table",
+   "page": 272,
+   "type": "mcq",
+   "q": "Treatment of graft rejection specifically uses:",
+   "opts": [
+    "Drugs acting on activated lymphocytes",
+    "All immunomodulators equally",
+    "Drugs blocking the S-phase only",
+    "MHC-blocking antibodies"
+   ],
+   "ans": 0,
+   "exp": "Graft rejection treatment: drugs acting on activated lymphocytes (Book p272)"
+  },
+  {
+   "id": "PHARM-C70-009",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "Calcineurin inhibitors work by ↓ ____ synthesis.",
+   "blank": "IL-2",
+   "aliases": [
+    "IL-2",
+    "interleukin-2"
+   ],
+   "exp": "MOA: ↓ IL-2 synthesis (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-010",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "mcq",
+   "q": "First line for GVHD/graft rejection is cyclosporine (less effective, less toxic). The second-line 'rescue drug' (more effective, more toxic) is:",
+   "opts": [
+    "Tacrolimus",
+    "Cyclosporine",
+    "Sirolimus",
+    "Azathioprine"
+   ],
+   "ans": 0,
+   "exp": "No response → second line tacrolimus (rescue drug: more effective, more toxic) (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-011",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "For skin disorders (lichen planus, atopic dermatitis), steroid-resistant ulcerative colitis & nephrotic syndrome, myasthenia gravis, RA and Behcet's disease, the DOC is ____.",
+   "blank": "cyclosporine",
+   "aliases": [
+    "cyclosporine",
+    "cyclosporin"
+   ],
+   "exp": "DOC: cyclosporine (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-012",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "match",
+   "q": "Match the calcineurin-inhibitor S/E pattern to its list.",
+   "left": [
+    "With both (tacrolimus & cyclosporine)",
+    "With cyclosporine specifically",
+    "Overall S/E order"
+   ],
+   "right": [
+    "Neurotoxicity, nephrotoxicity, hepatotoxicity, hyperkalemia, hyperglycemia",
+    "Hirsutism, hyperplasia of gums, hyperlipidemia, hyperuricemia",
+    "Tacrolimus > cyclosporine"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Both: neuro/nephro/hepatotoxicity, hyperkalemia, hyperglycemia; cyclosporine adds hirsutism, gum hyperplasia, hyperlipidemia, hyperuricemia; S/E tacrolimus > cyclosporine (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-013",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "Side effects overall are greater with ____ than with cyclosporine.",
+   "blank": "tacrolimus",
+   "aliases": [
+    "tacrolimus"
+   ],
+   "exp": "Tacrolimus > cyclosporine (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-014",
+   "sec": "Calcineurin Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "Cyclosporine-specific S/E: hirsutism and ____ of gums.",
+   "blank": "hyperplasia",
+   "aliases": [
+    "hyperplasia",
+    "gingival hyperplasia",
+    "hyperplasia of gums"
+   ],
+   "exp": "Hyperplasia of gums (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-015",
+   "sec": "mTOR Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "mTOR inhibitors block the ____ phase of cell proliferation.",
+   "blank": "G1-S",
+   "aliases": [
+    "G1-S",
+    "G1 - S",
+    "G1 to S",
+    "G1–S"
+   ],
+   "exp": "Blocks G1–S phase of cell proliferation (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-016",
+   "sec": "mTOR Inhibitors",
+   "page": 273,
+   "type": "mcq",
+   "q": "Sirolimus (rapamycin) is used for:",
+   "opts": [
+    "GVHD & graft rejection add-on, cardiac stent coating, uvoretinitis",
+    "Renal cell cancer, angiomyolipoma, pancreatic cancer, astrocytoma",
+    "Rheumatoid arthritis, CAPS, JIA and Still's disease",
+    "Multiple sclerosis and acute graft rejection prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Sirolimus: GVHD, graft rejection add-on, cardiac stent coating, uvoretinitis (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-017",
+   "sec": "mTOR Inhibitors",
+   "page": 273,
+   "type": "fill",
+   "q": "Temsirolimus is used for ____ cancer.",
+   "blank": "renal cell",
+   "aliases": [
+    "renal cell",
+    "renal cell cancer"
+   ],
+   "exp": "Temsirolimus: renal cell cancer (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-018",
+   "sec": "mTOR Inhibitors",
+   "page": 273,
+   "type": "mcq",
+   "q": "Everolimus covers which cancer set?",
+   "opts": [
+    "Renal cell cancer, renal angiomyolipoma, pancreatic cancer, ER(+) breast cancer, astrocytoma",
+    "CML, pancreatic cancer, malignant melanoma, sarcoidosis, Behcet's disease",
+    "Renal cell cancer, cardiac stent coating, uvoretinitis, GVHD add-on",
+    "CAPS, Still's disease, acute gout, RA and multiple sclerosis"
+   ],
+   "ans": 0,
+   "exp": "Everolimus: renal cell cancer, renal angiomyolipoma, pancreatic cancer, ER(+) breast cancer, astrocytoma (Book p273)"
+  },
+  {
+   "id": "PHARM-C70-019",
+   "sec": "mTOR Inhibitors",
+   "page": 274,
+   "type": "fill",
+   "q": "In 'Lymphocytes hate mTOR', the raised-lipid item is ____ (hyperlipidemia).",
+   "blank": "raised lipids",
+   "aliases": [
+    "raised lipids",
+    "hyperlipidemia",
+    "raised lipids (hyperlipidemia)"
+   ],
+   "exp": "Lymphocele, HUS, myelosuppression, thrombocytopenia, oral ulcers, raised lipids (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-020",
+   "sec": "Other Immunomodulators: Antibodies",
+   "page": 274,
+   "type": "match",
+   "q": "Match the antibody to its MOA/use.",
+   "left": [
+    "Daclizumab",
+    "Basiliximab",
+    "Muromonab",
+    "Alemtuzumab"
+   ],
+   "right": [
+    "IL-2R/CD25 inhibitor → multiple sclerosis",
+    "IL-2R/CD25 inhibitor → prophylaxis of acute graft rejection",
+    "CD3 inhibitor → Rx of acute graft rejection",
+    "CD52 inhibitor → graft rejection & multiple sclerosis"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Daclizumab → MS; basiliximab → acute rejection prophylaxis; muromonab → Rx acute rejection; alemtuzumab → rejection & MS (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-021",
+   "sec": "Other Immunomodulators: Antibodies",
+   "page": 274,
+   "type": "fill",
+   "q": "Muromonab's S/E is ____ syndrome, C/I with fever + chills.",
+   "blank": "cytokine release",
+   "aliases": [
+    "cytokine release",
+    "cytokine release syndrome"
+   ],
+   "exp": "Cytokine release syndrome (C/I: fever + chills) (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-022",
+   "sec": "Other Immunomodulators: Antibodies",
+   "page": 274,
+   "type": "match",
+   "q": "Match the T-cell-activation blocker to its target.",
+   "left": [
+    "Abatacept / belatacept",
+    "Alefacept",
+    "Azathioprine"
+   ],
+   "right": [
+    "Blocks CD80/86 → inhibits T cell activation",
+    "Blocks CD3 → inhibits T cell activation",
+    "Blocks S-phase of cell cycle"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Abatacept/belatacept → CD80/86; alefacept → CD3; azathioprine → S-phase (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-023",
+   "sec": "Other Immunomodulators: Antibodies",
+   "page": 274,
+   "type": "fill",
+   "q": "Belatacept is used for prophylaxis of graft rejection in ____ transplant.",
+   "blank": "renal",
+   "aliases": [
+    "renal",
+    "kidney"
+   ],
+   "exp": "Prophylaxis of graft rejection in renal transplant (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-024",
+   "sec": "Other Immunomodulators: Antibodies",
+   "page": 274,
+   "type": "fill",
+   "q": "Alefacept gives prophylaxis of ____ graft rejection.",
+   "blank": "drug-resistant",
+   "aliases": [
+    "drug-resistant",
+    "drug resistant"
+   ],
+   "exp": "Prophylaxis of drug-resistant graft rejection (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-025",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "fill",
+   "q": "Azathioprine is a prodrug of ____.",
+   "blank": "6-mercaptopurine",
+   "aliases": [
+    "6-mercaptopurine",
+    "6-MP",
+    "6 mercaptopurine"
+   ],
+   "exp": "Prodrug of 6-mercaptopurine (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-026",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 275,
+   "type": "fill",
+   "q": "Azathioprine/6-MP are metabolized by ____ (TPMT); deficiency ↑ risk of toxicity.",
+   "blank": "thiopurine methyltransferase",
+   "aliases": [
+    "thiopurine methyltransferase",
+    "TPMT"
+   ],
+   "exp": "Metabolized by thiopurine methyltransferase (TPMT) → ↑ toxicity if enzyme deficient (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-027",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "mcq",
+   "q": "Mycophenolate mofetil is selectively lymphotoxic because it:",
+   "opts": [
+    "Inhibits IMP dehydrogenase → blocks de-novo purine synthesis, the lymphocyte's only purine pathway",
+    "Blocks salvage purine synthesis equally in all dividing cells",
+    "Inhibits pyrimidine de-novo synthesis, hitting all immune cells alike",
+    "Blocks IL-2 receptor CD25, silencing T-cell proliferation signals"
+   ],
+   "ans": 0,
+   "exp": "Inhibits IMP dehydrogenase → de-novo purine synthesis (only pathway in lymphocytes) → selective toxicity (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-028",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "fill",
+   "q": "Mycophenolate mofetil is ____ with azathioprine.",
+   "blank": "C/I",
+   "aliases": [
+    "C/I",
+    "contraindicated"
+   ],
+   "exp": "C/I with azathioprine (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-029",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "mcq",
+   "q": "In transplant, mycophenolate is:",
+   "opts": [
+    "First-line in cardiac/bone marrow transplant; 2nd line in other transplants",
+    "2nd line in cardiac transplant; first-line elsewhere",
+    "First-line everywhere",
+    "Used only in rheumatoid arthritis"
+   ],
+   "ans": 0,
+   "exp": "Cardiac/bone marrow transplant: first-line; other transplant: 2nd line (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-030",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "match",
+   "q": "Match the IL-1 inhibitor to its use.",
+   "left": [
+    "Anakinra",
+    "Canakinumab",
+    "Rilonacept"
+   ],
+   "right": [
+    "RA; DOC in CAPS; Rx of JIA/Still's disease",
+    "CAPS, Still's disease",
+    "Acute gout"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Anakinra → RA, DOC CAPS, JIA/Still's; canakinumab → CAPS, Still's; rilonacept → acute gout (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-031",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "page": 274,
+   "type": "fill",
+   "q": "CAPS = ____ associated periodic syndrome (anakinra is DOC).",
+   "blank": "cryopyrin",
+   "aliases": [
+    "cryopyrin",
+    "Cryopyrin"
+   ],
+   "exp": "Cryopyrin associated periodic syndrome (Book p274)"
+  },
+  {
+   "id": "PHARM-C70-032",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "fill",
+   "q": "For T-cell activation, T-cell CD28 binds APC ____ while CD2 binds LFA-3.",
+   "blank": "CD80/86",
+   "aliases": [
+    "CD80/86",
+    "CD 80/86",
+    "CD80/86",
+    "CD80-86"
+   ],
+   "exp": "CD28–CD80/86 and CD2–LFA-3 drive T-cell activation (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-033",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "fill",
+   "q": "Thalidomide was introduced as a ____ and banned for morning sickness due to phocomelia.",
+   "blank": "sedative/hypnotic",
+   "aliases": [
+    "sedative/hypnotic",
+    "sedative",
+    "hypnotic",
+    "sedative hypnotic"
+   ],
+   "exp": "Introduced as sedative/hypnotic; banned d/t phocomelia in newborn (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-034",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "mcq",
+   "q": "Thalidomide was reintroduced for all of the following effects EXCEPT:",
+   "opts": [
+    "Antibacterial effect",
+    "Anti-inflammatory effect",
+    "Immunomodulatory effect",
+    "Anti-angiogenic effect"
+   ],
+   "ans": 0,
+   "exp": "Reintroduced d/t anti-inflammatory, immunomodulatory, anti-neoplastic, anti-angiogenic effects (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-035",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "mcq",
+   "q": "The 'Catch PROGRAMMES' uses of thalidomide include all EXCEPT:",
+   "opts": [
+    "Hepatocellular carcinoma",
+    "CML and multiple myeloma",
+    "Erythema nodosum leprosum and sarcoidosis",
+    "Behcet's disease and AIDS-related aphthous ulcer"
+   ],
+   "ans": 0,
+   "exp": "Uses: CML, pancreatic cancer, RA, oro-ocular genital syndrome (Behcet's), GVHD/graft rejection, AIDS aphthous ulcer, multiple myeloma, malignant melanoma, erythema nodosum leprosum, sarcoidosis (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-036",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "fill",
+   "q": "In the 'SPORT Channel' S/E mnemonic, the final C stands for ____.",
+   "blank": "constipation",
+   "aliases": [
+    "constipation"
+   ],
+   "exp": "Sedation, peripheral neuropathy, phocomelia, ocular S/E, rash, thrombosis, constipation (Book p275)"
+  },
+  {
+   "id": "PHARM-C70-037",
+   "sec": "Thalidomide",
+   "page": 275,
+   "type": "fill",
+   "q": "Oro-ocular genital syndrome treated by thalidomide is ____ disease.",
+   "blank": "Behcet's",
+   "aliases": [
+    "Behcet's",
+    "Behcet",
+    "Behcet's disease"
+   ],
+   "exp": "Oro-ocular genital syndrome (Behcet's disease) (Book p275)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U70-1",
+   "ch": 70,
+   "n": 1,
+   "title": "Mechanism of Action Ladder and Drug-Action Table",
+   "sec": "Mechanism of Action Ladder and Drug-Action Table · p272",
+   "qs": [
+    "PHARM-C70-001",
+    "PHARM-C70-002",
+    "PHARM-C70-003",
+    "PHARM-C70-004",
+    "PHARM-C70-005",
+    "PHARM-C70-006",
+    "PHARM-C70-007",
+    "PHARM-C70-008"
+   ],
+   "guide": "MHC presents antigen → calcineurin (steroids block mediators) → NFATc dephosphorylation → NFATc+NFATn → ↑IL-2 transcription. IL-2R = CD25 (basiliximab/daclizumab). mTOR (everolimus/sirolimus) G1→S; azathioprine/methotrexate S-phase. Muromonab CD3; alemtuzumab CD52; steroids apoptosis. GVHD & rejection prophylaxis: all drugs; rejection treatment: drugs on activated lymphocytes."
+  },
+  {
+   "id": "PHARM-U70-2",
+   "ch": 70,
+   "n": 2,
+   "title": "Calcineurin Inhibitors",
+   "sec": "Calcineurin Inhibitors · p273",
+   "qs": [
+    "PHARM-C70-009",
+    "PHARM-C70-010",
+    "PHARM-C70-011",
+    "PHARM-C70-012",
+    "PHARM-C70-013",
+    "PHARM-C70-014"
+   ],
+   "guide": "↓IL-2 synthesis. First line cyclosporine (less effective/less toxic); rescue tacrolimus (more effective/more toxic). DOC cyclosporine for skin disorders, steroid-resistant UC/nephrotic, MG, RA, Behcet's. S/E both: neuro/nephro/hepatotoxicity, hyperkalemia, hyperglycemia; cyclosporine adds hirsutism, gum hyperplasia, hyperlipidemia, hyperuricemia; tacrolimus > cyclosporine."
+  },
+  {
+   "id": "PHARM-U70-3",
+   "ch": 70,
+   "n": 3,
+   "title": "mTOR Inhibitors",
+   "sec": "mTOR Inhibitors · p273",
+   "qs": [
+    "PHARM-C70-015",
+    "PHARM-C70-016",
+    "PHARM-C70-017",
+    "PHARM-C70-018",
+    "PHARM-C70-019"
+   ],
+   "guide": "Block G1–S. Sirolimus (rapamycin): GVHD/rejection add-on, cardiac stent coating, uvoretinitis. Temsirolimus: renal cell cancer. Everolimus: renal cell cancer, angiomyolipoma, pancreatic, ER(+) breast, astrocytoma. S/E 'Lymphocytes hate mTOR': lymphocele, HUS, myelosuppression, thrombocytopenia, oral ulcers, raised lipids."
+  },
+  {
+   "id": "PHARM-U70-4",
+   "ch": 70,
+   "n": 4,
+   "title": "Other Immunomodulators: Antibodies",
+   "sec": "Other Immunomodulators: Antibodies · p274",
+   "qs": [
+    "PHARM-C70-020",
+    "PHARM-C70-021",
+    "PHARM-C70-022",
+    "PHARM-C70-023",
+    "PHARM-C70-024"
+   ],
+   "guide": "Daclizumab → MS; basiliximab → acute rejection prophylaxis (both IL-2R/CD25). Muromonab CD3 → Rx acute rejection, cytokine release syndrome (C/I fever+chills). Alemtuzumab CD52. Abatacept/belatacept CD80/86 (belatacept renal transplant); alefacept CD3 → drug-resistant rejection."
+  },
+  {
+   "id": "PHARM-U70-5",
+   "ch": 70,
+   "n": 5,
+   "title": "Azathioprine, Mycophenolate and IL-1 Inhibitors",
+   "sec": "Azathioprine, Mycophenolate and IL-1 Inhibitors · p274",
+   "qs": [
+    "PHARM-C70-025",
+    "PHARM-C70-026",
+    "PHARM-C70-027",
+    "PHARM-C70-028",
+    "PHARM-C70-029",
+    "PHARM-C70-030",
+    "PHARM-C70-031"
+   ],
+   "guide": "Azathioprine = prodrug of 6-MP; TPMT deficiency ↑ toxicity; blocks S-phase. MMF inhibits IMP dehydrogenase (de-novo purines, lymphocyte-only pathway); C/I with azathioprine; 1st line cardiac/bone-marrow, 2nd line others. IL-1 inhibitors: anakinra (RA, DOC CAPS, JIA/Still's), canakinumab (CAPS, Still's), rilonacept (acute gout)."
+  },
+  {
+   "id": "PHARM-U70-6",
+   "ch": 70,
+   "n": 6,
+   "title": "Thalidomide",
+   "sec": "Thalidomide · p275",
+   "qs": [
+    "PHARM-C70-032",
+    "PHARM-C70-033",
+    "PHARM-C70-034",
+    "PHARM-C70-035",
+    "PHARM-C70-036",
+    "PHARM-C70-037"
+   ],
+   "guide": "CD28–CD80/86, CD2–LFA-3 = T-cell activation. Thalidomide: sedative/hypnotic → banned (phocomelia) → reintroduced (anti-inflammatory/immunomodulatory/anti-neoplastic/anti-angiogenic). Uses Catch PROGRAMMES; S/E SPORT Channel (sedation, peripheral neuropathy, phocomelia, ocular, rash, thrombosis, constipation)."
+  }
+ ]
+}
