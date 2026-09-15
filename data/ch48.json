@@ -1,0 +1,1846 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C48-001",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The gene producing catalase peroxidase that activates isoniazid is:",
+   "opts": [
+    "Kat-G gene",
+    "Inh A gene",
+    "Kas-A gene",
+    "rpo-b gene"
+   ],
+   "ans": 0,
+   "exp": "Diagram 1: Kat-G gene -> catalase peroxidase. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-002",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Intracellular isoniazid is activated to:",
+   "opts": [
+    "INH(a) by catalase peroxidase",
+    "INH(b) by pyrazinaminidase",
+    "Pyrazinoic acid by catalase",
+    "Acyl protein by kinase"
+   ],
+   "ans": 0,
+   "exp": "Inh --(catalase peroxidase)--> INH(a). (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-003",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The gene for acyl protein kinase is:",
+   "opts": [
+    "Kas-A gene",
+    "Kat-G gene",
+    "pnc-a gene",
+    "Emb-b gene"
+   ],
+   "ans": 0,
+   "exp": "Diagram 2: Kas-A gene -> acyl protein kinase. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-004",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The gene controlling acyl protein reductase is:",
+   "opts": [
+    "Inh A gene",
+    "Kat-G gene",
+    "Kas-A gene",
+    "rpo-b gene"
+   ],
+   "ans": 0,
+   "exp": "Diagram 3: Inh A gene -> acyl protein reductase. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-005",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Acyl protein reductase and acyl protein kinase act on:",
+   "opts": [
+    "Mycolic acid synthesis",
+    "Peptidoglycan cross linking",
+    "RNA synthesis",
+    "Folate synthesis"
+   ],
+   "ans": 0,
+   "exp": "Both enzymes -> mycolic acid synthesis -> cell wall. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-006",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Mycolic acid synthesis is required for the:",
+   "opts": [
+    "Cell wall",
+    "Ribosome",
+    "Nucleus",
+    "Capsule only"
+   ],
+   "ans": 0,
+   "exp": "Mycolic acid synthesis -> cell wall. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-007",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The drug acting along with isoniazid on acyl protein reductase is:",
+   "opts": [
+    "Ethionamide",
+    "Ethambutol",
+    "Pyrazinamide",
+    "PAS"
+   ],
+   "ans": 0,
+   "exp": "Ethionamide points to acyl protein reductase in the diagram. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-008",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The MOA of isoniazid is:",
+   "opts": [
+    "Inhibits mycolic acid synthesis, inhibiting cell wall",
+    "Inhibits RNA polymerase",
+    "Inhibits arabinosyl transferase",
+    "Inhibits folate synthesis"
+   ],
+   "ans": 0,
+   "exp": "MOA: H inhibits mycolic acid synthesis -> inhibits cell wall. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-009",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The MOA of rifampicin is:",
+   "opts": [
+    "Inhibits RNA polymerase",
+    "Inhibits mycolic acid synthesis",
+    "Inhibits arabinosyl transferase",
+    "Inhibits fatty acid synthesis"
+   ],
+   "ans": 0,
+   "exp": "MOA: R inhibits RNA polymerase. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-010",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Pyrazinamide is converted to pyrazinoic acid by:",
+   "opts": [
+    "Pyrazinaminidase (pnc-a gene) in acidic pH",
+    "Catalase peroxidase in neutral pH",
+    "Arylsulfatase in alkaline pH",
+    "Beta lactamase at any pH"
+   ],
+   "ans": 0,
+   "exp": "Pyrazinamide --(pyrazinaminidase, pnc-a gene) + acidic pH--> pyrazinoic acid. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-011",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Pyrazinoic acid acts by:",
+   "opts": [
+    "Inhibiting fatty acid synthesis",
+    "Inhibiting RNA polymerase",
+    "Blocking arabinosyl transferase",
+    "Inhibiting DHPS"
+   ],
+   "ans": 0,
+   "exp": "Pyrazinoic acid -> inhibits fatty acid synthesis. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-012",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The MOA of ethambutol is:",
+   "opts": [
+    "Inhibits arabinosyl transferase",
+    "Inhibits mycolic acid synthesis",
+    "Inhibits RNA polymerase",
+    "Inhibits fatty acid synthesis"
+   ],
+   "ans": 0,
+   "exp": "MOA: E inhibits arabinosyl transferase. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-013",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The most severe mechanism of INH resistance is:",
+   "opts": [
+    "Kat-G gene mutation",
+    "Inh A gene overexpression",
+    "rpo-b mutation",
+    "Emb-b mutation"
+   ],
+   "ans": 0,
+   "exp": "Kat-G gene mutation: most severe. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-014",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "Inh A gene overexpression causes:",
+   "opts": [
+    "Cross resistance to ethionamide",
+    "Cross resistance to rifampicin",
+    "Cross resistance to pyrazinamide",
+    "No cross resistance"
+   ],
+   "ans": 0,
+   "exp": "Inh A gene overexpression -> cross resistance to ethionamide. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-015",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The mechanism of rifampicin resistance is:",
+   "opts": [
+    "rpo-b gene mutation",
+    "Kat-G mutation",
+    "pnc-a mutation",
+    "Emb-b mutation"
+   ],
+   "ans": 0,
+   "exp": "R resistance: rpo-b gene mutation. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-016",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The mechanism of pyrazinamide resistance is:",
+   "opts": [
+    "pnc-a gene mutation",
+    "rpo-b mutation",
+    "Kas-A mutation",
+    "Inh A overexpression"
+   ],
+   "ans": 0,
+   "exp": "Z resistance: pnc-a gene mutation. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-017",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "page": 193,
+   "q": "The mechanism of ethambutol resistance is:",
+   "opts": [
+    "Emb-b gene mutation",
+    "pnc-a mutation",
+    "Kat-G mutation",
+    "rpo-b mutation"
+   ],
+   "ans": 0,
+   "exp": "E resistance: Emb-b gene mutation. (Book p193)"
+  },
+  {
+   "id": "PHARM-C48-018",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The first drug to make TB patients non-infective is:",
+   "opts": [
+    "Isoniazid (cidal)",
+    "Ethambutol (static)",
+    "Pyrazinamide",
+    "Rifampicin"
+   ],
+   "ans": 0,
+   "exp": "H: cidal, 1st drug to make patients non-infective. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-019",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "Bactericidal action is maximum with:",
+   "opts": [
+    "Rifampicin",
+    "Isoniazid",
+    "Pyrazinamide",
+    "Ethambutol"
+   ],
+   "ans": 0,
+   "exp": "R: cidal (maximum). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-020",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The bacteriostatic first-line anti-TB drug is:",
+   "opts": [
+    "Ethambutol",
+    "Rifampicin",
+    "Pyrazinamide",
+    "Isoniazid"
+   ],
+   "ans": 0,
+   "exp": "E: static. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-021",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The drugs acting at both intracellular and extracellular sites are:",
+   "opts": [
+    "Isoniazid and rifampicin",
+    "Pyrazinamide and ethambutol",
+    "Pyrazinamide only",
+    "Ethambutol only"
+   ],
+   "ans": 0,
+   "exp": "Site of action: H, R - intracellular + extracellular. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-022",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The first-line anti-TB drug acting only intracellularly is:",
+   "opts": [
+    "Pyrazinamide",
+    "Ethambutol",
+    "Isoniazid",
+    "Rifampicin"
+   ],
+   "ans": 0,
+   "exp": "Site: Z - intracellular. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-023",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The first-line anti-TB drug acting only extracellularly is:",
+   "opts": [
+    "Ethambutol",
+    "Pyrazinamide",
+    "Rifampicin",
+    "Isoniazid"
+   ],
+   "ans": 0,
+   "exp": "Site: E - extracellular. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-024",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "Rifampicin is active against replicating bacteria and:",
+   "opts": [
+    "Non-replicating bacteria (persisters) - R > Z",
+    "Only replicating bacteria",
+    "Only dormant spores",
+    "Persisters only, not replicating"
+   ],
+   "ans": 0,
+   "exp": "Active agonist: replicating + non-replicating bacteria (persisters) R > Z. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-025",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "Pyrazinamide is active against non-replicating persisters; isoniazid and ethambutol act on:",
+   "opts": [
+    "Replicating bacteria only",
+    "Persisters only",
+    "Both equally",
+    "Dormant spores"
+   ],
+   "ans": 0,
+   "exp": "H: replicating bacteria; E: replicating bacteria. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-026",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The organ of excretion of isoniazid and pyrazinamide is:",
+   "opts": [
+    "Liver",
+    "Kidney",
+    "Lung",
+    "Milk"
+   ],
+   "ans": 0,
+   "exp": "Excretion: H - liver; Z - liver. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-027",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "Rifampicin is the safest anti-TB drug in renal failure because:",
+   "opts": [
+    "Maximum excretion is by liver",
+    "It is not metabolized at all",
+    "It is completely dialyzed",
+    "It acts only in the kidney"
+   ],
+   "ans": 0,
+   "exp": "R: liver - maximum excretion, safest in renal failure. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-028",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "page": 194,
+   "q": "The most unsafe first-line anti-TB drug in renal failure is:",
+   "opts": [
+    "Ethambutol",
+    "Rifampicin",
+    "Isoniazid",
+    "Pyrazinamide"
+   ],
+   "ans": 0,
+   "exp": "E: kidney (most unsafe in renal failure). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-029",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The side effects of isoniazid are due to:",
+   "opts": [
+    "Decreased vitamin B6 (pyridoxine)",
+    "Vitamin B6 excess",
+    "Zinc deficiency",
+    "Pyridoxine independent action"
+   ],
+   "ans": 0,
+   "exp": "H S/E: decreased vit B6 (pyridoxine). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-030",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Decreased haem due to isoniazid causes:",
+   "opts": [
+    "Anemia",
+    "Polycythemia",
+    "Methemoglobinemia",
+    "Hemochromatosis"
+   ],
+   "ans": 0,
+   "exp": "INH: decreased haem -> anemia. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-031",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Decreased GABA due to isoniazid causes:",
+   "opts": [
+    "Seizure",
+    "Migraine",
+    "Parkinsonism",
+    "Myopathy"
+   ],
+   "ans": 0,
+   "exp": "INH: decreased GABA -> seizure. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-032",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The neuropsychiatric side effects of isoniazid are:",
+   "opts": [
+    "Neuropathies, hallucination, memory loss and euphoria",
+    "Optic neuritis and red-green blindness",
+    "Renal stones and hyperuricemia",
+    "Deafness and vertigo"
+   ],
+   "ans": 0,
+   "exp": "INH: neuropathies, hallucination, memory loss, euphoria. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-033",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The side effect of rifampicin in urine and secretions is:",
+   "opts": [
+    "Red/orange discoloration",
+    "Blue-green discoloration",
+    "Black discoloration",
+    "No discoloration"
+   ],
+   "ans": 0,
+   "exp": "R S/E 1: red/orange - urine, secretions. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-034",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Rifampicin red/orange secretions cause staining of:",
+   "opts": [
+    "Contact lenses",
+    "Spectacles",
+    "Dentures",
+    "Wound drains"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin: secretion (contact lens staining). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-035",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Flu-like respiratory symptoms with rifampicin are seen with:",
+   "opts": [
+    "Intermittent dosing",
+    "Daily dosing",
+    "Food intake",
+    "Overdose only"
+   ],
+   "ans": 0,
+   "exp": "R S/E 2: respiratory symptoms, flu-like (intermittent dosing). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-036",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Rifampicin pulmonary syndrome and purpura require:",
+   "opts": [
+    "Stopping the drug permanently",
+    "Reducing the dose",
+    "Continuing with antihistamines",
+    "Weekly monitoring only"
+   ],
+   "ans": 0,
+   "exp": "R S/E 3-4: pulmonary syndrome + purpura -> stop permanently. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-037",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Purpura with rifampicin is due to:",
+   "opts": [
+    "Decreased platelets",
+    "Increased platelets",
+    "Vessel wall defect",
+    "Factor VIII antibodies"
+   ],
+   "ans": 0,
+   "exp": "R S/E: purpura (decreased platelets). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-038",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Rifampicin is an enzyme inducer reducing the effects of other drugs; the induction is least with:",
+   "opts": [
+    "Rifabutin",
+    "Rifampicin itself",
+    "Rifapentine",
+    "Rifaximin"
+   ],
+   "ans": 0,
+   "exp": "R: enzyme inducer (reduces effects of other drugs) - least with rifabutin. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-039",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The side effect of rifabutin is:",
+   "opts": [
+    "Uveitis",
+    "Optic neuritis",
+    "Keratitis",
+    "Retinopathy"
+   ],
+   "ans": 0,
+   "exp": "Rifabutin S/E: uveitis. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-040",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The most hepatotoxic anti-TB drug is:",
+   "opts": [
+    "Pyrazinamide",
+    "Isoniazid",
+    "Rifampicin",
+    "Ethambutol"
+   ],
+   "ans": 0,
+   "exp": "Z: most hepatotoxic. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-041",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The order of hepatotoxicity of anti-TB drugs is:",
+   "opts": [
+    "Z > H > R > E",
+    "H > R > Z > E",
+    "R > Z > H > E",
+    "E > Z > R > H"
+   ],
+   "ans": 0,
+   "exp": "Most hepatotoxic: Z > H > R > E. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-042",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The metabolic side effects of pyrazinamide are:",
+   "opts": [
+    "Hyperuricemia and arthralgia",
+    "Hypouricemia",
+    "Hypokalemia",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "Z S/E: hyperuricemia; arthralgia. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-043",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The eye toxicity of ethambutol is:",
+   "opts": [
+    "Optic neuritis with red-green colour blindness (green > red)",
+    "Cataract with night blindness",
+    "Retinal detachment",
+    "Painless ptosis"
+   ],
+   "ans": 0,
+   "exp": "E S/E: eye toxicity - optic neuritis; red green colour blindness (green > red). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-044",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "In ethambutol colour blindness, the affected order is:",
+   "opts": [
+    "Green more than red",
+    "Red more than green",
+    "Blue more than green",
+    "Equal for all colours"
+   ],
+   "ans": 0,
+   "exp": "Ethambutol: red green colour blindness (green > red). (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-045",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The treatment of INH toxicity (seizure) is:",
+   "opts": [
+    "IV pyridoxine 1 g for each gram of INH",
+    "IV pyridoxine 5 g fixed dose",
+    "Oral vitamin B6 100 mg",
+    "Naloxone infusion"
+   ],
+   "ans": 0,
+   "exp": "Toxicity: seizure - treatment IV pyridoxine 1 g for each gm of INH. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-046",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "The maximum dose of IV pyridoxine in INH toxicity is:",
+   "opts": [
+    "5 g",
+    "1 g",
+    "10 g",
+    "15 g"
+   ],
+   "ans": 0,
+   "exp": "Max dose of IV pyridoxine: 5 g. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-047",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "page": 194,
+   "q": "Rifapentine with INH is used for:",
+   "opts": [
+    "Prophylaxis/latent TB, once weekly",
+    "Daily treatment of MDR TB",
+    "XDR TB salvage",
+    "Only extrapulmonary TB"
+   ],
+   "ans": 0,
+   "exp": "Other features: rifapentine with INH - use prophylaxis/latent TB; once weekly. (Book p194)"
+  },
+  {
+   "id": "PHARM-C48-048",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "The use of second-line anti-TB drugs is:",
+   "opts": [
+    "Resistant TB",
+    "New sputum positive TB",
+    "Latent TB prophylaxis",
+    "Only pediatric TB"
+   ],
+   "ans": 0,
+   "exp": "Second line anti TB drugs: use resistant TB. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-049",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "Group A of second-line anti-TB drugs includes:",
+   "opts": [
+    "All 3 drugs - levofloxacin or moxifloxacin, bedaquiline and linezolid",
+    "Only the fluoroquinolones",
+    "Clofazimine and cycloserine",
+    "Ethambutol and delamanid"
+   ],
+   "ans": 0,
+   "exp": "Group A: include all 3 drugs - Lfx or Mfx, Bdq, Lzd. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-050",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "Group B of second-line anti-TB drugs includes:",
+   "opts": [
+    "1 or both - clofazimine and cycloserine or terizidone",
+    "Bedaquiline and linezolid",
+    "Delamanid and PAS",
+    "Amikacin and ethionamide"
+   ],
+   "ans": 0,
+   "exp": "Group B: include 1 or both - Clofazimine (Cfz), Cycloserine (Cs) or Terizidone (Trd). (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-051",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "Group C drugs are used when:",
+   "opts": [
+    "Group A or B cannot be added",
+    "Always added first",
+    "Only in pregnancy",
+    "Only in children under 6 yr"
+   ],
+   "ans": 0,
+   "exp": "Group C: used when group A or B cannot be added. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-052",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "All of the following are Group C drugs EXCEPT:",
+   "opts": [
+    "Levofloxacin",
+    "Ethambutol",
+    "Delamanid",
+    "Imipenem-cilastatin"
+   ],
+   "ans": 0,
+   "exp": "Group C: ethambutol, delamanid, pyrazinamide, imipenem-cilastatin or meropenem, amikacin or streptomycin, ethionamide or prothionamide, PAS; levofloxacin is group A. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-053",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "The injectable antibiotics of Group C are:",
+   "opts": [
+    "Amikacin or streptomycin",
+    "Gentamicin or tobramycin",
+    "Vancomycin or teicoplanin",
+    "Ceftriaxone or cefixime"
+   ],
+   "ans": 0,
+   "exp": "Group C: amikacin (Am) or streptomycin (S). (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-054",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "page": 195,
+   "q": "Ethionamide or prothionamide and PAS belong to:",
+   "opts": [
+    "Group C",
+    "Group A",
+    "Group B",
+    "First line drugs"
+   ],
+   "ans": 0,
+   "exp": "Group C: ethionamide (Eto) or prothionamide (Pto); P aminosalicylic acid (PAS). (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-055",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "The new anti-TB drugs are:",
+   "opts": [
+    "Bedaquiline and nitroimidazoles (delamanid, pretomanid)",
+    "Cycloserine and PAS",
+    "Ethionamide and prothionamide",
+    "Amikacin and capreomycin"
+   ],
+   "ans": 0,
+   "exp": "New drugs table: bedaquiline + nitroimidazoles (delamanid, pretomanid). (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-056",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "The MOA of bedaquiline is:",
+   "opts": [
+    "Inhibits mycobacterial ATP synthase",
+    "Inhibits RNA polymerase",
+    "Produces free radicals",
+    "Inhibits arabinosyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Bedaquiline MOA: inhibits mycobacterial ATP synthase. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-057",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Delamanid kills non-replicating bacteria by:",
+   "opts": [
+    "Producing free radicals",
+    "Inhibiting ATP synthase",
+    "Blocking RNA polymerase",
+    "Inhibiting folate"
+   ],
+   "ans": 0,
+   "exp": "Nitroimidazoles: produces free radicals - kills non-replicating bacteria. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-058",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Delamanid kills replicating bacteria by:",
+   "opts": [
+    "Inhibiting mycolic acid synthesis",
+    "Producing free radicals",
+    "ATP synthase block",
+    "DNA gyrase block"
+   ],
+   "ans": 0,
+   "exp": "Nitroimidazoles: inhibits mycolic acid synthesis - kills replicating bacteria. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-059",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "MDR TB is defined as:",
+   "opts": [
+    "Resistance to H + R",
+    "Resistance to H only",
+    "Resistance to any 3 drugs",
+    "Resistance to FQ + group A"
+   ],
+   "ans": 0,
+   "exp": "Use: MDR TB - resistance to H + R. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-060",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Pre-XDR TB is:",
+   "opts": [
+    "Resistance to H + R + FQ or any group A drug",
+    "Resistance to H + R only",
+    "H + R + FQ + any group A",
+    "Single drug resistance"
+   ],
+   "ans": 0,
+   "exp": "Pre-XDR: resistance to H + R + FQ or any group A. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-061",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "XDR TB is:",
+   "opts": [
+    "H + R + FQ + any group A drug resistance",
+    "H + R + FQ only",
+    "H + R only",
+    "MDR + streptomycin"
+   ],
+   "ans": 0,
+   "exp": "XDR: H + R + FQ + any group A. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-062",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Bedaquiline, delamanid and pretomanid should be taken:",
+   "opts": [
+    "With food (increased absorption)",
+    "Empty stomach",
+    "With milk only",
+    "With antacids"
+   ],
+   "ans": 0,
+   "exp": "Advice: drug should be taken with food (increased absorption). (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-063",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Bedaquiline is sequestered in tissue with a long half life of:",
+   "opts": [
+    "165 days allowing intermittent dosing 3 times/weekly",
+    "24 hours with daily dosing",
+    "5 days with weekly dosing",
+    "30 days with monthly dosing"
+   ],
+   "ans": 0,
+   "exp": "PK: sequestered in tissue - long t 1/2 (165 days); intermittent dosing 3 times/weekly. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-064",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Bedaquiline is 99% bound to plasma proteins and metabolized by albumin; it is contraindicated if albumin is:",
+   "opts": [
+    "<2.8 mg/dl",
+    "<3.5 g/dl",
+    "<1.8 g/dl",
+    "<5 g/dl"
+   ],
+   "ans": 0,
+   "exp": "PK: plasma protein binding 99% (high), metabolized by albumin -> C/I if albumin <2.8 mg/dl. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-065",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "The metabolism and excretion of bedaquiline are:",
+   "opts": [
+    "Metabolism liver, excretion kidney",
+    "Both renal",
+    "Both biliary",
+    "Pulmonary excretion"
+   ],
+   "ans": 0,
+   "exp": "PK: metabolism - liver; excreted - kidney. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-066",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "The side effects of bedaquiline and delamanid are:",
+   "opts": [
+    "QT prolongation (C/I in arrhythmia)",
+    "Hepatotoxicity only",
+    "Nephrotoxicity",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "S/E: bedaquiline and delamanid - QT prolongation; C/I in arrhythmia. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-067",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "Safety of the new anti-TB drugs in pregnancy:",
+   "opts": [
+    "Bedaquiline safe; delamanid and pretomanid not safe",
+    "All three are safe",
+    "All three are unsafe",
+    "Only pretomanid is safe"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy: bedaquiline safe in pregnancy; delamanid not safe; pretomanid not safe. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-068",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "page": 195,
+   "q": "The nitroimidazole NOT associated with QT prolongation in the table is:",
+   "opts": [
+    "Pretomanid",
+    "Delamanid",
+    "Bedaquiline",
+    "None - all three prolong QT"
+   ],
+   "ans": 0,
+   "exp": "S/E row: pretomanid column shows \"-\"; QT prolongation listed for bedaquiline and delamanid. (Book p195)"
+  },
+  {
+   "id": "PHARM-C48-069",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "page": 196,
+   "q": "The old anti-TB drugs are:",
+   "opts": [
+    "Ethionamide and para amino salicylic acid",
+    "Cycloserine and terizidone",
+    "Amikacin and capreomycin",
+    "Rifabutin and rifapentine"
+   ],
+   "ans": 0,
+   "exp": "Old drugs: ethionamide; para amino salicylic acid. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-070",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "page": 196,
+   "q": "The MOA of ethionamide is:",
+   "opts": [
+    "Inhibits mycolic acid synthesis (cidal)",
+    "Inhibits DHPS (static)",
+    "Inhibits RNA polymerase",
+    "Inhibits arabinosyl transferase"
+   ],
+   "ans": 0,
+   "exp": "Ethionamide MOA: inhibits mycolic acid synthesis (cidal). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-071",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "page": 196,
+   "q": "The side effect of ethionamide is:",
+   "opts": [
+    "Hypothyroidism",
+    "Hyperthyroidism",
+    "Optic neuritis",
+    "Nephrotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Ethionamide S/E: hypothyroidism. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-072",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "page": 196,
+   "q": "The MOA of para amino salicylic acid is:",
+   "opts": [
+    "Inhibits DHPS (static)",
+    "Inhibits mycolic acid synthesis (cidal)",
+    "Inhibits RNA polymerase",
+    "Inhibits pyrazinamidase"
+   ],
+   "ans": 0,
+   "exp": "PAS MOA: inhibits DHPS (static). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-073",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "page": 196,
+   "q": "PAS is contraindicated with rifampicin because of:",
+   "opts": [
+    "Decreased absorption",
+    "Increased hepatotoxicity",
+    "Antagonism at DHPS",
+    "Enzyme induction"
+   ],
+   "ans": 0,
+   "exp": "PAS C/I: with rifampicin (decreased absorption). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-074",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The regimen for a new/previously treated TB case is:",
+   "opts": [
+    "HRZE 2 months (intensive) + HRE 4 months (continuous)",
+    "HRE 6 months total",
+    "HRZE 6 months continuous",
+    "HZ 4 months + HRE 2 months"
+   ],
+   "ans": 0,
+   "exp": "New/previously treated case: intensive HRZE 2 months; continuous HRE 4 months. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-075",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The intensive phase for a new TB case is:",
+   "opts": [
+    "HRZE for 2 months",
+    "HRE for 2 months",
+    "HRZE for 4 months",
+    "HZE for 6 months"
+   ],
+   "ans": 0,
+   "exp": "Intensive phase: HRZE (2 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-076",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The continuous phase for a new TB case is:",
+   "opts": [
+    "HRE for 4 months",
+    "HRZE for 4 months",
+    "HRE for 2 months",
+    "HRZ for 6 months"
+   ],
+   "ans": 0,
+   "exp": "Continuous phase: HRE (4 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-077",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The shorter oral bedaquiline-containing regimen is used for:",
+   "opts": [
+    "Rifampicin resistant or MDR TB",
+    "New pulmonary TB",
+    "Latent TB",
+    "XDR TB only"
+   ],
+   "ans": 0,
+   "exp": "Shorter oral bedaquiline containing regimen: rifampicin resistant or MDR TB. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-078",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The intensive phase of the shorter oral bedaquiline regimen is:",
+   "opts": [
+    "Bdq (6 months) + Lfx, Cfz, Z, E, H, Eto (4-6 months)",
+    "Bdq 2 months alone",
+    "Injection for 6 months",
+    "Lfx alone 6 months"
+   ],
+   "ans": 0,
+   "exp": "Intensive: Bdq (6 months); Lfx, Cfz, Z, E, H, Eto (4-6 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-079",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The continuous phase of the shorter oral bedaquiline regimen is:",
+   "opts": [
+    "Lfx, Cfz, Z, E (5 months)",
+    "HRE 4 months",
+    "Bdq 5 months",
+    "Eto 5 months"
+   ],
+   "ans": 0,
+   "exp": "Continuous phase: Lfx, Cfz, Z, E (5 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-080",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "In the shorter oral bedaquiline regimen, till 4 months and months 5-6 the drugs are:",
+   "opts": [
+    "Lfx, Cfz, Z, E, Bdq with high doses H, Eto; then months 5-6 Lfx, Cfz, Z, E, Bdq",
+    "Bdq alone till 6 months",
+    "Injections till 6 months",
+    "High dose H alone"
+   ],
+   "ans": 0,
+   "exp": "Till 4 months: Lfx, Cfz, Z, E, Bdq + high doses H, Eto; 5th & 6th months: Lfx, Cfz, Z, E, Bdq. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-081",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "In the shorter oral bedaquiline regimen, months 7 to 9 include:",
+   "opts": [
+    "Lfx, Cfz, Z, E",
+    "Bdq continues till 9 months",
+    "High dose H and Eto",
+    "Km/Am injections"
+   ],
+   "ans": 0,
+   "exp": "7th till 9th months: Lfx, Cfz, Z, E. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-082",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The alternative shorter injectable containing regimen includes:",
+   "opts": [
+    "Mfx, Km/Am, Eto, Cfz, Z, H, E (4-6 months) then Mfx, Cfz, Z, E (5 months)",
+    "Bdq 6 months + 5 months",
+    "PAS + Cs for 9 months",
+    "Lzd 6 months only"
+   ],
+   "ans": 0,
+   "exp": "Shorter injectable containing regimen (alternative): intensive Mfx, Km/Am, Eto, Cfz, Z, H, E (4-6 month); continuous Mfx, Cfz, Z, E (5 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-083",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The long oral MDR/XDR regimen is:",
+   "opts": [
+    "Bdq (6 months) + Lfx, Lzd, Cfz, Cs (18-20 months)",
+    "9 months HRZE",
+    "6 months Bdq alone",
+    "24-30 months injections"
+   ],
+   "ans": 0,
+   "exp": "Long oral MDR/XDR regimen: Bdq (6 months) + Lfx, Lzd, Cfz, Cs (18-20 months). (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-084",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "The BPaL regimen (pilot) is used for:",
+   "opts": [
+    "MDR TB with FQ resistance",
+    "New TB cases",
+    "Latent TB",
+    "XDR TB only"
+   ],
+   "ans": 0,
+   "exp": "BPaL regimen (pilot): MDR TB with FQ resistance. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-085",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "In BPaL, the dose of pretomanid is:",
+   "opts": [
+    "200 mg OD daily for 26 weeks",
+    "400 mg daily for 24 weeks",
+    "200 mg three times a week",
+    "600 mg weekly"
+   ],
+   "ans": 0,
+   "exp": "BPaL: pretomanid 200 mg OD daily for 26 weeks. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-086",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "In BPaL, the dose of bedaquiline is:",
+   "opts": [
+    "400 mg OD daily for the first week, then 200 mg three times a week for 24 weeks",
+    "400 mg throughout 26 weeks",
+    "200 mg daily for 26 weeks",
+    "200 mg weekly for 24 weeks"
+   ],
+   "ans": 0,
+   "exp": "BPaL: bedaquiline 400 mg OD daily for the first week of treatment; 200 mg three times a week for 24 weeks. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-087",
+   "sec": "Drug Regimens for TB",
+   "page": 196,
+   "q": "In BPaL, the dose of linezolid is:",
+   "opts": [
+    "1200 mg once daily for 24 weeks",
+    "600 mg once daily for 26 weeks",
+    "1200 mg weekly",
+    "300 mg daily for 6 months"
+   ],
+   "ans": 0,
+   "exp": "BPaL: linezolid 1200 mg once daily for 24 weeks. (Book p196)"
+  },
+  {
+   "id": "PHARM-C48-088",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The first line anti-leprosy drugs are:",
+   "opts": [
+    "Rifampicin, dapsone and clofazimine",
+    "Clarithromycin, minocycline and ofloxacin",
+    "Thalidomide and steroids",
+    "Ethionamide and PAS"
+   ],
+   "ans": 0,
+   "exp": "First line: 1. rifampicin, 2. dapsone, 3. clofazimine. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-089",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The most cidal anti-leprosy drug is:",
+   "opts": [
+    "Rifampicin",
+    "Dapsone",
+    "Clofazimine",
+    "Minocycline"
+   ],
+   "ans": 0,
+   "exp": "First line: rifampicin - most cidal. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-090",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "Dapsone is a:",
+   "opts": [
+    "DHPS inhibitor and static drug",
+    "RNA polymerase inhibitor, cidal",
+    "Free radical producer",
+    "ATP synthase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Dapsone: DHPS inhibitor; static drug. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-091",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The most common side effect of dapsone is:",
+   "opts": [
+    "Hemolysis in G6PD deficiency",
+    "Methemoglobinemia only",
+    "Optic neuritis",
+    "Gray baby syndrome"
+   ],
+   "ans": 0,
+   "exp": "Dapsone S/E: hemolysis in G6PD deficiency (m/c). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-092",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The MOA of clofazimine is:",
+   "opts": [
+    "Free radical production",
+    "DHPS inhibition",
+    "RNA polymerase inhibition",
+    "ATP synthase inhibition"
+   ],
+   "ans": 0,
+   "exp": "Clofazimine MOA: free radical production. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-093",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "Clofazimine in TB is:",
+   "opts": [
+    "Cidal",
+    "Static",
+    "Inactive",
+    "Bacteriolytic only"
+   ],
+   "ans": 0,
+   "exp": "Clofazimine: in TB - cidal effect. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-094",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "Clofazimine in leprosy is:",
+   "opts": [
+    "Static",
+    "Cidal",
+    "Sterilizing",
+    "Fungicidal"
+   ],
+   "ans": 0,
+   "exp": "Clofazimine: in leprosy - static effect. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-095",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The side effects of clofazimine are:",
+   "opts": [
+    "Ichthyosis and deposition of crystals in GIT mucosa",
+    "Hemolysis and methemoglobinemia",
+    "Gray baby syndrome",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Clofazimine S/E: ichthyosis; deposition of crystals in GIT mucosa. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-096",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The second line static anti-leprosy drugs are:",
+   "opts": [
+    "Clarithromycin and minocycline",
+    "Ofloxacin and moxifloxacin",
+    "Dapsone and clofazimine",
+    "Rifampicin and ethambutol"
+   ],
+   "ans": 0,
+   "exp": "Second line: clarithromycin, minocycline - static. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-097",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The cidal fluoroquinolones used in leprosy are:",
+   "opts": [
+    "Ofloxacin and moxifloxacin",
+    "Ciprofloxacin and norfloxacin",
+    "Levofloxacin and gemifloxacin",
+    "Pefloxacin only"
+   ],
+   "ans": 0,
+   "exp": "Second line 3. FQ: ofloxacin, moxifloxacin - cidal. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-098",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The DOC for type 1 lepra reaction is:",
+   "opts": [
+    "Steroids",
+    "Thalidomide",
+    "Clofazimine",
+    "NSAIDs"
+   ],
+   "ans": 0,
+   "exp": "Lepra reaction type 1: DOC steroids. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-099",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The DOC for type 2 lepra reaction is:",
+   "opts": [
+    "Steroids",
+    "Thalidomide",
+    "Dapsone",
+    "Antihistamines"
+   ],
+   "ans": 0,
+   "exp": "Lepra reaction type 2: DOC steroids. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-100",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The alternative drugs for type 2 lepra reaction are:",
+   "opts": [
+    "Clofazimine and thalidomide (most effective)",
+    "Steroids alone",
+    "Minocycline and ofloxacin",
+    "Rifampicin rechallenge"
+   ],
+   "ans": 0,
+   "exp": "Type 2 alternative drugs: clofazimine; thalidomide (most effective). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-101",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "page": 197,
+   "q": "The most effective drug for type 2 lepra reaction is:",
+   "opts": [
+    "Thalidomide",
+    "Clofazimine",
+    "Steroids",
+    "Dapsone"
+   ],
+   "ans": 0,
+   "exp": "Alternative drugs for type 2: thalidomide (most effective). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-102",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "In WHO leprosy guidelines, supervised doses are given:",
+   "opts": [
+    "Once a month",
+    "Once a day",
+    "Once a week",
+    "Twice a week"
+   ],
+   "ans": 0,
+   "exp": "WHO guidelines: supervised (once a month). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-103",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "Non-supervised leprosy doses are given:",
+   "opts": [
+    "Once a day",
+    "Once a month",
+    "Once a week",
+    "Alternate weeks"
+   ],
+   "ans": 0,
+   "exp": "WHO guidelines: non-supervised (once a day). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-104",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The supervised adult leprosy doses are:",
+   "opts": [
+    "Rifampicin 600 mg + clofazimine 300 mg",
+    "Rifampicin 450 mg + clofazimine 150 mg",
+    "Dapsone 100 mg + clofazimine 50 mg",
+    "Rifampicin 10 mg/kg + clofazimine 6 mg/kg"
+   ],
+   "ans": 0,
+   "exp": "Supervised adults: rifampicin 600 mg, clofazimine 300 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-105",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The supervised doses for children 10-14 years are:",
+   "opts": [
+    "Rifampicin 450 mg + clofazimine 150 mg",
+    "Rifampicin 600 mg + clofazimine 300 mg",
+    "Rifampicin 10 mg/kg + clofazimine 6 mg/kg",
+    "Dapsone 100 mg + clofazimine 50 mg"
+   ],
+   "ans": 0,
+   "exp": "Children 10-14 years: rifampicin 450 mg, clofazimine 150 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-106",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The supervised doses for children <14 years or <40 kg are:",
+   "opts": [
+    "Rifampicin 10 mg/kg + clofazimine 6 mg/kg",
+    "Rifampicin 450 mg fixed dose",
+    "Dapsone 100 mg + clofazimine 50 mg",
+    "Rifampicin 600 mg + clofazimine 300 mg"
+   ],
+   "ans": 0,
+   "exp": "Children <14 years or <40 kg: rifampicin 10 mg/kg, clofazimine 6 mg/kg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-107",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The non-supervised adult leprosy doses are:",
+   "opts": [
+    "Dapsone 100 mg + clofazimine 50 mg",
+    "Rifampicin 600 mg daily",
+    "Dapsone 50 mg alone",
+    "Clofazimine 300 mg daily"
+   ],
+   "ans": 0,
+   "exp": "Non-supervised adults: dapsone 100 mg, clofazimine 50 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-108",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The non-supervised doses for children 10-14 years are:",
+   "opts": [
+    "Dapsone 50 mg + clofazimine 50 mg (alternate day)",
+    "Dapsone 100 mg daily",
+    "Clofazimine 150 mg daily",
+    "Rifampicin 450 mg monthly"
+   ],
+   "ans": 0,
+   "exp": "Children 10-14 years: dapsone 50 mg + clofazimine 50 mg (alternate day). (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-109",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "The non-supervised doses for children <14 years or <40 kg are:",
+   "opts": [
+    "Dapsone 2 mg/kg + clofazimine 1 mg/kg",
+    "Dapsone 50 mg fixed",
+    "Clofazimine 6 mg/kg",
+    "Rifampicin 10 mg/kg daily"
+   ],
+   "ans": 0,
+   "exp": "Children <14 yr or <40 kg: dapsone 2 mg/kg, clofazimine 1 mg/kg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-110",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "In rifampicin-resistant leprosy, the first 6 months daily regimen is:",
+   "opts": [
+    "Ofloxacin 400 mg + minocycline 100 mg + clofazimine 50 mg (or ofloxacin 400 mg + clarithromycin 500 mg + clofazimine 50 mg)",
+    "Dapsone + rifampicin daily",
+    "Thalidomide + steroids",
+    "Ofloxacin alone"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin resistance, first 6 months (daily): ofloxacin 400 mg + minocycline 100 mg + clofazimine 50 mg / ofloxacin 400 mg + clarithromycin 500 mg + clofazimine 50 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-111",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "In rifampicin-resistant leprosy, the next 18 months daily regimen is:",
+   "opts": [
+    "Ofloxacin 400 mg or minocycline 100 mg + clofazimine 50 mg (or ofloxacin 400 mg + clofazimine 50 mg)",
+    "All three drugs continue unchanged",
+    "Rifampicin is rechallenged",
+    "Dapsone monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Next 18 months (daily): ofloxacin 400 mg or minocycline 100 mg + clofazimine 50 mg / ofloxacin 400 mg + clofazimine 50 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-112",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "page": 197,
+   "q": "In rifampicin and ofloxacin resistant leprosy, the regimen is:",
+   "opts": [
+    "Clarithromycin 500 mg + minocycline 100 mg + clofazimine 50 mg (daily), then clarithromycin 500 mg or minocycline 100 mg + clofazimine 50 mg",
+    "Ofloxacin is continued",
+    "Rifampicin is rechallenged",
+    "Dapsone + clofazimine"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin and ofloxacin resistance: first 6 months clarithromycin 500 mg + minocycline 100 mg + clofazimine 50 mg; next 18 months clarithromycin 500 mg or minocycline 100 mg + clofazimine 50 mg. (Book p197)"
+  },
+  {
+   "id": "PHARM-C48-113",
+   "sec": "Drugs for Mycobacterium Avium Complex",
+   "page": 198,
+   "q": "The regimen for Mycobacterium avium complex uses the mnemonic:",
+   "opts": [
+    "EAR",
+    "MAC",
+    "EARS",
+    "ERA"
+   ],
+   "ans": 0,
+   "exp": "Regimen mnemonic: EAR. (Book p198)"
+  },
+  {
+   "id": "PHARM-C48-114",
+   "sec": "Drugs for Mycobacterium Avium Complex",
+   "page": 198,
+   "q": "The drugs in the MAC regimen are:",
+   "opts": [
+    "Ethambutol, azithromycin and rifampicin",
+    "Clarithromycin, amikacin and ethambutol",
+    "Isoniazid, pyrazinamide and ethambutol",
+    "Dapsone, clofazimine and minocycline"
+   ],
+   "ans": 0,
+   "exp": "EAR: ethambutol, azithromycin, rifampicin. (Book p198)"
+  },
+  {
+   "id": "PHARM-C48-115",
+   "sec": "Drugs for Mycobacterium Avium Complex",
+   "page": 198,
+   "q": "Azithromycin can be used in macrolide resistance due to:",
+   "opts": [
+    "Immunomodulator effect",
+    "Higher ribosomal affinity",
+    "Renal excretion",
+    "Dose escalation"
+   ],
+   "ans": 0,
+   "exp": "Azithromycin: can be used in macrolide resistance - immunomodulator effect. (Book p198)"
+  },
+  {
+   "id": "PHARM-C48-116",
+   "sec": "Drugs for Mycobacterium Avium Complex",
+   "page": 198,
+   "q": "The drug NOT part of the EAR regimen for MAC is:",
+   "opts": [
+    "Clarithromycin",
+    "Ethambutol",
+    "Azithromycin",
+    "Rifampicin"
+   ],
+   "ans": 0,
+   "exp": "MAC mnemonic EAR: ethambutol, azithromycin, rifampicin - no clarithromycin. (Book p198)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U48-1",
+   "ch": 48,
+   "n": 1,
+   "title": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance",
+   "sec": "First Line Anti-TB Drugs: Mycolic Acid Pathway, MOA and Resistance · p193",
+   "qs": [
+    "PHARM-C48-001",
+    "PHARM-C48-002",
+    "PHARM-C48-003",
+    "PHARM-C48-004",
+    "PHARM-C48-005",
+    "PHARM-C48-006",
+    "PHARM-C48-007",
+    "PHARM-C48-008",
+    "PHARM-C48-009",
+    "PHARM-C48-010",
+    "PHARM-C48-011",
+    "PHARM-C48-012",
+    "PHARM-C48-013",
+    "PHARM-C48-014",
+    "PHARM-C48-015",
+    "PHARM-C48-016",
+    "PHARM-C48-017"
+   ],
+   "guide": "The diagram shows isoniazid entering the bacterium and being activated by catalase peroxidase (Kat-G gene) to INH(a); ethionamide also acts here. INH(a) works on acyl protein reductase (Inh A gene) and acyl protein kinase (Kas-A gene), both driving mycolic acid synthesis for the cell wall. MOA: H inhibits mycolic acid synthesis (cell wall), R inhibits RNA polymerase, Z is activated by pyrazinaminidase (pnc-a gene) in acidic pH to pyrazinoic acid which inhibits fatty acid synthesis, and E inhibits arabinosyl transferase. Resistance: Kat-G mutation most severe with cross resistance to ethionamide, Inh A overexpression, rpo-b (R), pnc-a (Z), Emb-b (E)."
+  },
+  {
+   "id": "PHARM-U48-2",
+   "ch": 48,
+   "n": 2,
+   "title": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion",
+   "sec": "First Line Anti-TB Drugs: Comparison of Nature, Site, Activity and Excretion · p194",
+   "qs": [
+    "PHARM-C48-018",
+    "PHARM-C48-019",
+    "PHARM-C48-020",
+    "PHARM-C48-021",
+    "PHARM-C48-022",
+    "PHARM-C48-023",
+    "PHARM-C48-024",
+    "PHARM-C48-025",
+    "PHARM-C48-026",
+    "PHARM-C48-027",
+    "PHARM-C48-028"
+   ],
+   "guide": "Isoniazid is cidal and the first drug to make patients non-infective; rifampicin is cidal with maximum action; pyrazinamide is cidal; ethambutol is static. Site of action: H and R intracellular + extracellular, Z only intracellular, E only extracellular. Activity: H and E on replicating bacteria only; R and Z also on non-replicating persisters (R > Z). Excretion: H, R and Z by liver (R gives maximum excretion and is safest in renal failure); E by kidney and is the most unsafe in renal failure."
+  },
+  {
+   "id": "PHARM-U48-3",
+   "ch": 48,
+   "n": 3,
+   "title": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment",
+   "sec": "Side Effects of First Line Anti-TB Drugs and INH Toxicity Treatment · p194",
+   "qs": [
+    "PHARM-C48-029",
+    "PHARM-C48-030",
+    "PHARM-C48-031",
+    "PHARM-C48-032",
+    "PHARM-C48-033",
+    "PHARM-C48-034",
+    "PHARM-C48-035",
+    "PHARM-C48-036",
+    "PHARM-C48-037",
+    "PHARM-C48-038",
+    "PHARM-C48-039",
+    "PHARM-C48-040",
+    "PHARM-C48-041",
+    "PHARM-C48-042",
+    "PHARM-C48-043",
+    "PHARM-C48-044",
+    "PHARM-C48-045",
+    "PHARM-C48-046",
+    "PHARM-C48-047"
+   ],
+   "guide": "Isoniazid decreases vitamin B6 (pyridoxine) causing decreased haem (anemia) and decreased GABA (seizure), neuropathies, hallucination, memory loss and euphoria. Rifampicin gives red/orange urine and secretions (contact lens staining), flu-like respiratory symptoms with intermittent dosing, pulmonary syndrome and purpura (stop permanently), and is an enzyme inducer - least with rifabutin (S/E uveitis). Pyrazinamide is the most hepatotoxic (Z > H > R > E) and causes hyperuricemia, arthralgia and peripheral neuropathy. Ethambutol causes optic neuritis with red-green colour blindness (green > red). INH toxicity is treated with IV pyridoxine 1 g per gram of INH (max 5 g). Rifapentine with INH is used once weekly for prophylaxis/latent TB."
+  },
+  {
+   "id": "PHARM-U48-4",
+   "ch": 48,
+   "n": 4,
+   "title": "Second Line Anti-TB Drugs: Groups A, B and C",
+   "sec": "Second Line Anti-TB Drugs: Groups A, B and C · p195",
+   "qs": [
+    "PHARM-C48-048",
+    "PHARM-C48-049",
+    "PHARM-C48-050",
+    "PHARM-C48-051",
+    "PHARM-C48-052",
+    "PHARM-C48-053",
+    "PHARM-C48-054"
+   ],
+   "guide": "Second line drugs are used for resistant TB. Group A includes all 3 drugs: levofloxacin or moxifloxacin, bedaquiline and linezolid. Group B includes 1 or both: clofazimine and cycloserine or terizidone. Group C is used when group A or B cannot be added: ethambutol, delamanid, pyrazinamide, imipenem-cilastatin or meropenem, amikacin or streptomycin, ethionamide or prothionamide and PAS."
+  },
+  {
+   "id": "PHARM-U48-5",
+   "ch": 48,
+   "n": 5,
+   "title": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid)",
+   "sec": "New Anti-TB Drugs: Bedaquiline and Nitroimidazoles (Delamanid, Pretomanid) · p195",
+   "qs": [
+    "PHARM-C48-055",
+    "PHARM-C48-056",
+    "PHARM-C48-057",
+    "PHARM-C48-058",
+    "PHARM-C48-059",
+    "PHARM-C48-060",
+    "PHARM-C48-061",
+    "PHARM-C48-062",
+    "PHARM-C48-063",
+    "PHARM-C48-064",
+    "PHARM-C48-065",
+    "PHARM-C48-066",
+    "PHARM-C48-067",
+    "PHARM-C48-068"
+   ],
+   "guide": "Bedaquiline inhibits mycobacterial ATP synthase. Nitroimidazoles: delamanid and pretomanid produce free radicals killing non-replicating bacteria and inhibit mycolic acid synthesis killing replicating bacteria. Use: MDR TB (resistance to H + R), pre-XDR (H + R + FQ or any group A) and XDR (H + R + FQ + any group A); drugs should be taken with food for increased absorption. Bedaquiline is sequestered in tissue with long t 1/2 (165 days) allowing intermittent dosing 3 times/weekly, is 99% protein bound metabolized by albumin (C/I if albumin <2.8 mg/dl), metabolized in liver and excreted by kidney. Side effects: QT prolongation with C/I in arrhythmia for bedaquiline and delamanid; bedaquiline is safe in pregnancy while delamanid and pretomanid are not safe."
+  },
+  {
+   "id": "PHARM-U48-6",
+   "ch": 48,
+   "n": 6,
+   "title": "Old Anti-TB Drugs: Ethionamide and PAS",
+   "sec": "Old Anti-TB Drugs: Ethionamide and PAS · p196",
+   "qs": [
+    "PHARM-C48-069",
+    "PHARM-C48-070",
+    "PHARM-C48-071",
+    "PHARM-C48-072",
+    "PHARM-C48-073"
+   ],
+   "guide": "Ethionamide inhibits mycolic acid synthesis (cidal) with side effect of hypothyroidism. Para amino salicylic acid inhibits DHPS (static) and is contraindicated with rifampicin due to decreased absorption."
+  },
+  {
+   "id": "PHARM-U48-7",
+   "ch": 48,
+   "n": 7,
+   "title": "Drug Regimens for TB",
+   "sec": "Drug Regimens for TB · p196",
+   "qs": [
+    "PHARM-C48-074",
+    "PHARM-C48-075",
+    "PHARM-C48-076",
+    "PHARM-C48-077",
+    "PHARM-C48-078",
+    "PHARM-C48-079",
+    "PHARM-C48-080",
+    "PHARM-C48-081",
+    "PHARM-C48-082",
+    "PHARM-C48-083",
+    "PHARM-C48-084",
+    "PHARM-C48-085",
+    "PHARM-C48-086",
+    "PHARM-C48-087"
+   ],
+   "guide": "New/previously treated case: HRZE 2 months intensive + HRE 4 months continuous. Rifampicin resistant or MDR TB: shorter oral bedaquiline-containing regimen - Bdq 6 months with Lfx, Cfz, Z, E, H, Eto for 4-6 months, then Lfx, Cfz, Z, E for 5 months (months 4 and 5-6 add Bdq with high dose H and Eto; months 7-9 Lfx, Cfz, Z, E). Alternative shorter injectable regimen: Mfx, Km/Am, Eto, Cfz, Z, H, E (4-6 months) then Mfx, Cfz, Z, E (5 months). Long oral MDR/XDR regimen: Bdq 6 months + Lfx, Lzd, Cfz, Cs for 18-20 months. BPaL (pilot) for MDR TB with FQ resistance: pretomanid 200 mg OD daily x 26 weeks; bedaquiline 400 mg OD for first week then 200 mg three times a week for 24 weeks; linezolid 1200 mg once daily for 24 weeks."
+  },
+  {
+   "id": "PHARM-U48-8",
+   "ch": 48,
+   "n": 8,
+   "title": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction",
+   "sec": "Anti-Leprosy Drugs: First Line, Second Line and Lepra Reaction · p197",
+   "qs": [
+    "PHARM-C48-088",
+    "PHARM-C48-089",
+    "PHARM-C48-090",
+    "PHARM-C48-091",
+    "PHARM-C48-092",
+    "PHARM-C48-093",
+    "PHARM-C48-094",
+    "PHARM-C48-095",
+    "PHARM-C48-096",
+    "PHARM-C48-097",
+    "PHARM-C48-098",
+    "PHARM-C48-099",
+    "PHARM-C48-100",
+    "PHARM-C48-101"
+   ],
+   "guide": "First line: rifampicin (most cidal), dapsone (DHPS inhibitor, static, S/E hemolysis in G6PD deficiency - most common) and clofazimine (free radical production; cidal in TB but static in leprosy; S/E ichthyosis and crystal deposition in GIT mucosa). Second line: clarithromycin and minocycline (static); fluoroquinolones ofloxacin and moxifloxacin (cidal). Lepra reaction type 1: DOC steroids; type 2: DOC steroids with alternatives clofazimine and thalidomide (most effective)."
+  },
+  {
+   "id": "PHARM-U48-9",
+   "ch": 48,
+   "n": 9,
+   "title": "WHO Guidelines for Leprosy Treatment and Drug Resistance",
+   "sec": "WHO Guidelines for Leprosy Treatment and Drug Resistance · p197",
+   "qs": [
+    "PHARM-C48-102",
+    "PHARM-C48-103",
+    "PHARM-C48-104",
+    "PHARM-C48-105",
+    "PHARM-C48-106",
+    "PHARM-C48-107",
+    "PHARM-C48-108",
+    "PHARM-C48-109",
+    "PHARM-C48-110",
+    "PHARM-C48-111",
+    "PHARM-C48-112"
+   ],
+   "guide": "Supervised doses (once a month): adults rifampicin 600 mg + clofazimine 300 mg; children 10-14 years rifampicin 450 mg + clofazimine 150 mg; children <14 years or <40 kg rifampicin 10 mg/kg + clofazimine 6 mg/kg. Non-supervised (once a day): adults dapsone 100 mg + clofazimine 50 mg; children 10-14 years dapsone 50 mg + clofazimine 50 mg alternate day; small children dapsone 2 mg/kg + clofazimine 1 mg/kg. Rifampicin resistance regimens (daily): first 6 months ofloxacin 400 mg + minocycline 100 mg + clofazimine 50 mg (or with clarithromycin 500 mg); next 18 months ofloxacin 400 mg or minocycline 100 mg + clofazimine 50 mg. Rifampicin + ofloxacin resistance: clarithromycin 500 mg + minocycline 100 mg + clofazimine 50 mg."
+  },
+  {
+   "id": "PHARM-U48-10",
+   "ch": 48,
+   "n": 10,
+   "title": "Drugs for Mycobacterium Avium Complex",
+   "sec": "Drugs for Mycobacterium Avium Complex · p198",
+   "qs": [
+    "PHARM-C48-113",
+    "PHARM-C48-114",
+    "PHARM-C48-115",
+    "PHARM-C48-116"
+   ],
+   "guide": "The MAC regimen uses the mnemonic EAR: ethambutol, azithromycin and rifampicin. Azithromycin can be used even in macrolide resistance because of its immunomodulator effect."
+  }
+ ]
+}

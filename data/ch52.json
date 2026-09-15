@@ -1,0 +1,1251 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C52-001",
+   "sec": "Drugs That Increase Release of Insulin: Classification",
+   "page": 211,
+   "q": "The drugs that increase release of insulin are grouped into:",
+   "opts": [
+    "GLP-1 related drugs and inhibitors of ATP-sensitive K+ channels",
+    "Biguanides and thiazolidinediones",
+    "SGLT blockers and alpha-glucosidase inhibitors",
+    "Amylin analogs and insulin"
+   ],
+   "ans": 0,
+   "exp": "Classification: GLP-1 related drugs + inhibitors of ATP-sensitive K+ channels. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-002",
+   "sec": "Drugs That Increase Release of Insulin: Classification",
+   "page": 211,
+   "q": "The GLP-1 related drug groups are:",
+   "opts": [
+    "GLP-1 agonists, DPP-IV inhibitors and dual GLP-1 & GIP agonist",
+    "Sulfonylureas and meglitinides",
+    "Biguanides and glitazones",
+    "Insulin and amylin analogs"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 related: GLP-1 agonist, DPP-IV inhibitors, dual GLP-1 & GIP agonist. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-003",
+   "sec": "Drugs That Increase Release of Insulin: Classification",
+   "page": 211,
+   "q": "The inhibitors of ATP-sensitive K+ channels are:",
+   "opts": [
+    "Sulfonylureas and meglitinides",
+    "DPP-4 inhibitors and GLP-1 agonists",
+    "Metformin and acarbose",
+    "Pioglitazone and rosiglitazone"
+   ],
+   "ans": 0,
+   "exp": "Inhibitors of ATP sensitive K+ channels: sulfonylureas, meglitinides. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-004",
+   "sec": "Drugs That Increase Release of Insulin: Classification",
+   "page": 211,
+   "q": "The common side effect of insulin-releasing drugs is:",
+   "opts": [
+    "Hypoglycemia",
+    "Pancreatitis",
+    "Lactic acidosis",
+    "Weight loss always"
+   ],
+   "ans": 0,
+   "exp": "Common S/E: hypoglycemia. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-005",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The GLP-1 agonist with OD (once daily) dosage is:",
+   "opts": [
+    "Liraglutide",
+    "Dulaglutide",
+    "Albiglutide",
+    "Semaglutide S/C"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 agonists: liraglutide - OD dosage. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-006",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The GLP-1 agonists given once a week are:",
+   "opts": [
+    "Dulaglutide, albiglutide and semaglutide",
+    "Liraglutide and exenatide",
+    "Only albiglutide",
+    "Lixisenatide and liraglutide"
+   ],
+   "ans": 0,
+   "exp": "Once a week dosage: dulaglutide, albiglutide, semaglutide. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-007",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The route of GLP-1 agonists is:",
+   "opts": [
+    "S/C (except oral semaglutide)",
+    "Oral only",
+    "I/M weekly",
+    "Intranasal"
+   ],
+   "ans": 0,
+   "exp": "Route: S/C; oral semaglutide (OD dosage). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-008",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The side effects of GLP-1 agonists include all EXCEPT:",
+   "opts": [
+    "Weight gain",
+    "Pancreatitis",
+    "Nausea & vomiting",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "S/E: pancreatitis; nausea & vomiting (D/t delayed gastric emptying); weight loss (D/t decreased appetite). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-009",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "Nausea and vomiting with GLP-1 agonists occur due to:",
+   "opts": [
+    "Delayed gastric emptying",
+    "Increased gastric motility",
+    "Vagal stimulation",
+    "Direct chemoreceptor trigger zone toxicity"
+   ],
+   "ans": 0,
+   "exp": "S/E: nausea & vomiting (D/t delayed gastric emptying). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-010",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "Weight loss with GLP-1 agonists occurs due to:",
+   "opts": [
+    "Decreased appetite",
+    "Malabsorption",
+    "Increased metabolism",
+    "Nausea only"
+   ],
+   "ans": 0,
+   "exp": "Weight loss (D/t decreased appetite). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-011",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The DOC for obesity among GLP-1 agonists is:",
+   "opts": [
+    "Semaglutide",
+    "Liraglutide",
+    "Dulaglutide",
+    "Albiglutide"
+   ],
+   "ans": 0,
+   "exp": "Weight loss - DOC for obesity. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-012",
+   "sec": "GLP-1 Agonists",
+   "page": 211,
+   "q": "The correct efficacy order for weight loss (obesity) is:",
+   "opts": [
+    "Oral semaglutide > S/C semaglutide > S/C liraglutide",
+    "S/C liraglutide > oral semaglutide",
+    "Dulaglutide > semaglutide",
+    "All are equal"
+   ],
+   "ans": 0,
+   "exp": "Oral semaglutide > S/C semaglutide > S/C liraglutide. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-013",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "The MOA of DPP-IV inhibitors is:",
+   "opts": [
+    "Decreased metabolism of GLP-1",
+    "Stimulation of GLP-1 secretion",
+    "Direct insulin release",
+    "GLP-1 receptor antagonism"
+   ],
+   "ans": 0,
+   "exp": "DPP-IV inhibitors MOA: decreased metabolism of GLP-1. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-014",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "DPP-IV inhibitors are weight-neutral because:",
+   "opts": [
+    "Only endogenous GLP-1 action is increased",
+    "They block appetite centers",
+    "They increase GLP-1 supraphysiologically",
+    "They cause nausea reducing intake"
+   ],
+   "ans": 0,
+   "exp": "Note: DPP-IV inhibitors are weight-neutral drugs as only endogenous GLP-1 action increases. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-015",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "The DPP-IV inhibitors are:",
+   "opts": [
+    "Sitagliptin, saxagliptin, alogliptin and linagliptin",
+    "Liraglutide and semaglutide",
+    "Repaglinide and nateglinide",
+    "Cana and empagliflozin"
+   ],
+   "ans": 0,
+   "exp": "DPP-IV inhibitors: sitagliptin, saxagliptin, alogliptin, linagliptin. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-016",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "The route of DPP-IV inhibitors is:",
+   "opts": [
+    "Oral",
+    "Subcutaneous",
+    "Intravenous",
+    "Inhalational"
+   ],
+   "ans": 0,
+   "exp": "DPP-IV inhibitors route: oral. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-017",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "The side effects of DPP-IV inhibitors include all EXCEPT:",
+   "opts": [
+    "Hypoglycemia (weight-neutral)",
+    "Pancreatitis",
+    "Angioedema",
+    "Increased infections"
+   ],
+   "ans": 0,
+   "exp": "S/E: pancreatitis; angioedema; increased risk of infections. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-018",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "Angioedema with DPP-IV inhibitors has increased risk with:",
+   "opts": [
+    "ACE inhibitors",
+    "ARBs",
+    "Beta blockers",
+    "Calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "S/E: angioedema (increased risk with ACE inhibitors). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-019",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "DPP-IV inhibitors increase risk of infections by:",
+   "opts": [
+    "Blocking DAA6 in lymphocytes",
+    "Suppressing neutrophils",
+    "Blocking complement",
+    "Inhibiting immunoglobulin synthesis"
+   ],
+   "ans": 0,
+   "exp": "S/E: increased risk of infections - by blocking DAA6 in lymphocytes. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-020",
+   "sec": "DPP-IV Inhibitors",
+   "page": 211,
+   "q": "DPP-IV inhibitors are contraindicated in renal failure EXCEPT:",
+   "opts": [
+    "Linagliptin (excretion by liver)",
+    "Sitagliptin",
+    "Saxagliptin",
+    "Alogliptin"
+   ],
+   "ans": 0,
+   "exp": "C/I: renal failure (except linagliptin D/t excretion by liver). (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-021",
+   "sec": "Dual GLP-1 and GIP Agonist",
+   "page": 211,
+   "q": "The dual GLP-1 & GIP agonist is:",
+   "opts": [
+    "Tirzepatide",
+    "Semaglutide",
+    "Liraglutide",
+    "Exenatide"
+   ],
+   "ans": 0,
+   "exp": "Dual GLP-1 & GIP agonist drug: tirzepatide. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-022",
+   "sec": "Dual GLP-1 and GIP Agonist",
+   "page": 211,
+   "q": "The route of tirzepatide is:",
+   "opts": [
+    "S/C",
+    "Oral",
+    "I/V",
+    "Transdermal"
+   ],
+   "ans": 0,
+   "exp": "Tirzepatide route: S/C. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-023",
+   "sec": "Dual GLP-1 and GIP Agonist",
+   "page": 211,
+   "q": "The efficiency of tirzepatide compared to pure GLP-1 agonists is:",
+   "opts": [
+    "Greater",
+    "Lesser",
+    "Equal",
+    "Unknown"
+   ],
+   "ans": 0,
+   "exp": "Efficiency: > pure GLP-1 agonist. (Book p211)"
+  },
+  {
+   "id": "PHARM-C52-024",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Insulin release with sulfonylureas is:",
+   "opts": [
+    "Large amount",
+    "Small amount",
+    "Glucose dependent only",
+    "Basal only"
+   ],
+   "ans": 0,
+   "exp": "Table: insulin release - sulfonylureas large amount; meglitinides small amount. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-025",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Meglitinides release insulin in:",
+   "opts": [
+    "Small amount",
+    "Large amount",
+    "Bolus bursts",
+    "No amount"
+   ],
+   "ans": 0,
+   "exp": "Meglitinides: small amount of insulin release. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-026",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The duration of action of sulfonylureas is:",
+   "opts": [
+    "Long acting",
+    "Short acting",
+    "Ultra-short",
+    "Intermediate only"
+   ],
+   "ans": 0,
+   "exp": "T 1/2: sulfonylureas long acting; meglitinides short acting. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-027",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The use of meglitinides is:",
+   "opts": [
+    "Management of post-prandial hyperglycemia",
+    "Maintenance of blood glucose",
+    "DKA treatment",
+    "Prophylaxis of DM"
+   ],
+   "ans": 0,
+   "exp": "Meglitinides use: management of post-prandial hyperglycemia. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-028",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The use of sulfonylureas is:",
+   "opts": [
+    "Maintenance of blood glucose",
+    "Only post-prandial control",
+    "DKA",
+    "GDM first choice"
+   ],
+   "ans": 0,
+   "exp": "Sulfonylureas use: maintenance of blood glucose. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-029",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The side effects of sulfonylureas are:",
+   "opts": [
+    "Hypoglycemia and weight gain (S/E sulfonylureas > meglitinides)",
+    "Weight loss and lactic acidosis",
+    "Pancreatitis and angioedema",
+    "Edema and fractures"
+   ],
+   "ans": 0,
+   "exp": "S/E: hypoglycemia; weight gain (S/E sulfonylureas > meglitinides). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-030",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Weight gain with sulfonylureas occurs due to:",
+   "opts": [
+    "Block of hormone sensitive lipase",
+    "Increased appetite center stimulation",
+    "Insulin edema",
+    "Decreased metabolism"
+   ],
+   "ans": 0,
+   "exp": "Weight gain (D/t block of hormone sensitive lipase). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-031",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Weight gain with sulfonylureas is beneficially used in:",
+   "opts": [
+    "Thin diabetics",
+    "Obese diabetics",
+    "All T1DM",
+    "Gestational diabetes"
+   ],
+   "ans": 0,
+   "exp": "Weight gain: used in thin diabetics. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-032",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Sulfonylureas are contraindicated with alcohol because of:",
+   "opts": [
+    "Disulfiram-like effect",
+    "Severe hypoglycemia only",
+    "Lactic acidosis",
+    "Hepatotoxicity"
+   ],
+   "ans": 0,
+   "exp": "C/I: alcohol consumption - causes disulfiram-like effect. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-033",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The sulfonylurea drugs are:",
+   "opts": [
+    "Glyburide (AKA glibenclamide), glimepiride and gliclazide",
+    "Nateglinide and repaglinide",
+    "Sitagliptin and vildagliptin",
+    "Pioglitazone and rosiglitazone"
+   ],
+   "ans": 0,
+   "exp": "Sulfonylurea drugs: glyburide (AKA glibenclamide), glimepiride, gliclazide. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-034",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "Nateglinide is a:",
+   "opts": [
+    "Phenylalanine derivative (meglitinide)",
+    "Sulfonylurea",
+    "Biguanide",
+    "DPP-IV inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Meglitinide drugs: nateglinide (phenylalanine derivative), repaglinide. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-035",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "page": 212,
+   "q": "The highest overall risk of hypoglycemia is with:",
+   "opts": [
+    "Insulin, then sulfonylureas",
+    "Meglitinides",
+    "DPP-IV inhibitors",
+    "Metformin"
+   ],
+   "ans": 0,
+   "exp": "Note: risk of hypoglycemia - insulin (highest overall) > sulfonylureas. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-036",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "Thiazolidinediones are OHAs which:",
+   "opts": [
+    "Decrease insulin resistance",
+    "Increase insulin release",
+    "Block SGLT2",
+    "Inhibit gluconeogenesis"
+   ],
+   "ans": 0,
+   "exp": "Thiazolidinediones: oral hypoglycemic agents which decrease insulin resistance. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-037",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "The thiazolidinedione drugs are:",
+   "opts": [
+    "Pioglitazone and rosiglitazone",
+    "Metformin and phenformin",
+    "Glimepiride and gliclazide",
+    "Canagliflozin and dapagliflozin"
+   ],
+   "ans": 0,
+   "exp": "TZD drugs: pioglitazone, rosiglitazone. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-038",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "The MOA of thiazolidinediones is:",
+   "opts": [
+    "Stimulate PPAR-gamma -> increased GLUT-4 production and adipocyte proliferation",
+    "Block ATP-sensitive K+ channels",
+    "Stimulate AMP kinase",
+    "Inhibit DPP-4"
+   ],
+   "ans": 0,
+   "exp": "MOA: stimulate PPAR-gamma -> increased GLUT-4 production (decreased insulin resistance) + adipocyte proliferation. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-039",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "Edema with thiazolidinediones occurs due to:",
+   "opts": [
+    "Retention of Na+ & water (block of ENaC)",
+    "Heart failure only",
+    "Hypoalbuminemia",
+    "Increased ADH"
+   ],
+   "ans": 0,
+   "exp": "S/E: retention of Na+ & water (D/t block of ENaC) -> edema & CHF. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-040",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "The serious cardiac side effect of thiazolidinediones is:",
+   "opts": [
+    "Congestive heart failure (edema)",
+    "MI always",
+    "Arrhythmia",
+    "Pericarditis"
+   ],
+   "ans": 0,
+   "exp": "S/E: edema & congestive heart failure (CHF). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-041",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "The eye side effect of thiazolidinediones is:",
+   "opts": [
+    "Macular edema (must be differentiated from diabetic etiology)",
+    "Papilledema",
+    "Optic neuritis",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "S/E: macular edema - must be differentiated from diabetic etiology. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-042",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "Thiazolidinediones increase the risk of:",
+   "opts": [
+    "Bone fracture in females and Ca bladder",
+    "Fracture in males only",
+    "Prostate cancer",
+    "Pancreatic cancer"
+   ],
+   "ans": 0,
+   "exp": "S/E: bone fracture in females; increased risk for Ca bladder. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-043",
+   "sec": "Thiazolidinediones",
+   "page": 212,
+   "q": "The hepatic side effect of thiazolidinediones is:",
+   "opts": [
+    "Hepatotoxic",
+    "Hepato-protective effect",
+    "No liver effect",
+    "Chronic hepatitis C cure"
+   ],
+   "ans": 0,
+   "exp": "S/E: hepatotoxic. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-044",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "The biguanide drug is:",
+   "opts": [
+    "Metformin",
+    "Phenformin (currently used)",
+    "Pioglitazone",
+    "Acarbose"
+   ],
+   "ans": 0,
+   "exp": "Biguanide drug: metformin. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-045",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Biguanides act by causing:",
+   "opts": [
+    "Decreased hepatic glucose production",
+    "Increased insulin release",
+    "Increased GLUT-4 only",
+    "Block of SGLT2"
+   ],
+   "ans": 0,
+   "exp": "Biguanides: OHA causing decreased hepatic glucose production. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-046",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "The MOA of metformin is:",
+   "opts": [
+    "Stimulates AMPK which blocks gluconeogenesis",
+    "Blocks ATP-sensitive K+ channels",
+    "Stimulates PPAR-gamma",
+    "Inhibits SGLT2"
+   ],
+   "ans": 0,
+   "exp": "MOA: stimulates AMPK (adenosine monophosphate kinase) -> blocks gluconeogenesis. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-047",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Metformin is the DOC for:",
+   "opts": [
+    "Treatment & prophylaxis of both T1 & T2 DM",
+    "Only T2DM treatment",
+    "Only prediabetes",
+    "GDM first trimester"
+   ],
+   "ans": 0,
+   "exp": "Use: DOC for treatment & prophylaxis of both T1 & T2 DM. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-048",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Metformin is used in PCOS for:",
+   "opts": [
+    "Treatment of anovulation (due to decreased insulin resistance)",
+    "Ovulation induction via FSH",
+    "Hyperandrogenism block directly",
+    "Contraception"
+   ],
+   "ans": 0,
+   "exp": "Use: PCOS - treatment of anovulation (D/t decreased insulin resistance). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-049",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Metformin is used in:",
+   "opts": [
+    "Non-alcoholic steatohepatitis (NASH)",
+    "Alcoholic cirrhosis",
+    "Acute hepatitis A",
+    "Hepatocellular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Use: non-alcoholic steatohepatitis (NASH). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-050",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "The only FDA-approved drug for antipsychotic induced obesity is:",
+   "opts": [
+    "Metformin",
+    "Orlistat",
+    "Semaglutide",
+    "Topiramate"
+   ],
+   "ans": 0,
+   "exp": "Use: antipsychotic induced obesity - only FDA-approved drug. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-051",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Metabolic acidosis with metformin occurs due to:",
+   "opts": [
+    "Inhibition of mitochondrial aerobic glycolysis",
+    "Renal bicarbonate loss",
+    "Lactate overproduction in muscles only",
+    "Ketoacid formation"
+   ],
+   "ans": 0,
+   "exp": "S/E: metabolic acidosis - inhibition of mitochondrial aerobic glycolysis. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-052",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Metformin decreases absorption of:",
+   "opts": [
+    "Vitamin B12",
+    "Vitamin D",
+    "Iron",
+    "Folate"
+   ],
+   "ans": 0,
+   "exp": "S/E: decreased absorption of vit B12. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-053",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "Vitamin B12 malabsorption with metformin is prevented by:",
+   "opts": [
+    "Ca2+ supplements (Ca2+ dependent absorption)",
+    "B12 injections always",
+    "Folate supplements",
+    "Stopping metformin"
+   ],
+   "ans": 0,
+   "exp": "S/E: decreased vit B12 absorption - prevented by Ca2+ supplements (D/t Ca2+ dependent absorption). (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-054",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "The weight effect of metformin is:",
+   "opts": [
+    "Weight loss",
+    "Weight gain",
+    "Weight neutral always",
+    "Initial gain then loss"
+   ],
+   "ans": 0,
+   "exp": "S/E: weight loss. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-055",
+   "sec": "Biguanides: Metformin",
+   "page": 212,
+   "q": "The mnemonic for drugs causing weight loss is:",
+   "opts": [
+    "GAMs (GLP-1 agonist, Amylin analogue, Metformin, SGLT-2 blockers)",
+    "GAMS - Gliclazide, Acarbose...",
+    "WEIGHT loss mnemonic",
+    "SLIM mnemonic"
+   ],
+   "ans": 0,
+   "exp": "Note: drugs causing weight loss - mnemonic GAMs: GLP-1 agonist, Amylin analogue, metformin, SGLT-2 blockers. (Book p212)"
+  },
+  {
+   "id": "PHARM-C52-056",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The SGLT-2 blocker drugs are:",
+   "opts": [
+    "Canagliflozin, dapagliflozin and empagliflozin",
+    "Sotagliflozin only",
+    "Metformin and acarbose",
+    "Sitagliptin and linagliptin"
+   ],
+   "ans": 0,
+   "exp": "Drugs: canagliflozin, dapagliflozin, empagliflozin - SGLT-2 blocker. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-057",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The dual SGLT-1 & 2 blocker is:",
+   "opts": [
+    "Sotagliflozin",
+    "Empagliflozin",
+    "Canagliflozin",
+    "Dapagliflozin"
+   ],
+   "ans": 0,
+   "exp": "Sotagliflozin: SGLT-1 & 2 blocker. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-058",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The MOA of SGLT blockers is:",
+   "opts": [
+    "Decreased glucose reabsorption in kidney (SGLT-2) and small intestine (SGLT-1)",
+    "Increased renal glucose reabsorption",
+    "Blocking GLUT-4",
+    "Inhibiting gluconeogenesis"
+   ],
+   "ans": 0,
+   "exp": "MOA: decreased glucose reabsorption in kidney (SGLT-2) and small intestine (SGLT-1). (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-059",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "SGLT blockers decrease mortality in chronic CHF by:",
+   "opts": [
+    "Decreasing preload due to diuresis",
+    "Improving contractility",
+    "Reducing afterload",
+    "Blocking renin"
+   ],
+   "ans": 0,
+   "exp": "Use: chronic CHF (to decrease mortality) - decreased preload D/t diuresis. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-060",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The common side effects due to increased Na+ in urine with SGLT blockers are:",
+   "opts": [
+    "Diuresis, hypotension and dehydration",
+    "Hyperkalemia",
+    "Edema",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "S/E common: D/t increased Na+ in urine - diuresis, hypotension, dehydration. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-061",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The common side effects due to glucose in urine with SGLT blockers are:",
+   "opts": [
+    "Increased risk of UTI and vaginal infections (e.g. Candida)",
+    "Renal stones",
+    "Crystalluria with hematuria",
+    "Neurogenic bladder"
+   ],
+   "ans": 0,
+   "exp": "S/E: D/t glucose in urine - increased risk of UTI; increased risk of vaginal infections (e.g. Candida). (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-062",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "The rare side effects of SGLT blockers are:",
+   "opts": [
+    "Bone fracture, Fournier's gangrene and urosepsis",
+    "Pancreatitis and angioedema",
+    "Lactic acidosis",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Rare: bone fracture; Fournier's gangrene; urosepsis. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-063",
+   "sec": "SGLT Blockers",
+   "page": 213,
+   "q": "Bone fracture incidence with SGLT blockers is increased in:",
+   "opts": [
+    "Elderly, both male & female",
+    "Only young males",
+    "Only premenopausal females",
+    "Children"
+   ],
+   "ans": 0,
+   "exp": "Rare: bone fracture - incidence increased in elderly, male & female. (Book p213)"
+  },
+  {
+   "id": "PHARM-C52-064",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The alpha-glucosidase inhibitors are:",
+   "opts": [
+    "Acarbose, voglibose and miglitol",
+    "Metformin and buformin",
+    "Sitagliptin and saxagliptin",
+    "Pramlintide and liraglutide"
+   ],
+   "ans": 0,
+   "exp": "Alpha-glucosidase inhibitors: acarbose, voglibose, miglitol. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-065",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "Alpha-glucosidase inhibitors are used for post-prandial hyperglycemia in:",
+   "opts": [
+    "T2DM only",
+    "T1DM only",
+    "Both T1 and T2DM",
+    "GDM only"
+   ],
+   "ans": 0,
+   "exp": "Use: post-prandial hyperglycemia in T2DM only. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-066",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "Alpha-glucosidase inhibitors are taken:",
+   "opts": [
+    "During meal (after few bites)",
+    "60 min before meal",
+    "2 hours after meal",
+    "At bedtime"
+   ],
+   "ans": 0,
+   "exp": "Dosage: during meal (after few bites). (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-067",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The most common side effect of alpha-glucosidase inhibitors is:",
+   "opts": [
+    "Flatulence (intestinal flora acting on undigested starch & disaccharides)",
+    "Osmotic diarrhea",
+    "Hypoglycemia",
+    "Lactic acidosis"
+   ],
+   "ans": 0,
+   "exp": "S/E: flatulence (m/c) - D/t intestinal flora acting on undigested starch & disaccharides. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-068",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The other side effect of alpha-glucosidase inhibitors is:",
+   "opts": [
+    "Osmotic diarrhea",
+    "Constipation",
+    "Steatorrhea with fat",
+    "Melena"
+   ],
+   "ans": 0,
+   "exp": "S/E: osmotic diarrhea. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-069",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The amylin analog drug is:",
+   "opts": [
+    "Pramlintide",
+    "Exenatide",
+    "Lixisenatide",
+    "Dulaglutide"
+   ],
+   "ans": 0,
+   "exp": "Amylin analog: pramlintide. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-070",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The route of pramlintide is:",
+   "opts": [
+    "Subcutaneous",
+    "Oral",
+    "Intravenous",
+    "Intranasal"
+   ],
+   "ans": 0,
+   "exp": "Pramlintide route: S/C. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-071",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The MOA of pramlintide is:",
+   "opts": [
+    "Delays gastric emptying",
+    "Blocks glucagon receptor",
+    "Stimulates insulin release",
+    "Blocks SGLT1"
+   ],
+   "ans": 0,
+   "exp": "Pramlintide MOA: delays gastric emptying. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-072",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "Pramlintide decreases post-prandial hyperglycemia in:",
+   "opts": [
+    "Both T1 & T2 DM",
+    "T1DM only",
+    "T2DM only",
+    "GDM only"
+   ],
+   "ans": 0,
+   "exp": "Use: decreased post-prandial hyperglycemia in both T1 & T2 DM. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-073",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "When pramlintide is used with insulin:",
+   "opts": [
+    "Use a different syringe and decrease insulin dose by 50%",
+    "Mix in the same syringe",
+    "Increase insulin dose by 50%",
+    "Stop insulin"
+   ],
+   "ans": 0,
+   "exp": "If used with insulin: use different syringe; decrease insulin dose by 50%. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-074",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The side effects of pramlintide are:",
+   "opts": [
+    "Nausea & vomiting and weight loss (off-label use in obesity)",
+    "Weight gain and edema",
+    "Hypokalemia",
+    "Pancreatitis only"
+   ],
+   "ans": 0,
+   "exp": "S/E: nausea & vomiting; weight loss - off-label use in obesity. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-075",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "Decreased CVS mortality is seen with:",
+   "opts": [
+    "SGLT2 blockers and GLP-1 agonists",
+    "Sulfonylureas and meglitinides",
+    "Acarbose and miglitol",
+    "Insulin and pramlintide"
+   ],
+   "ans": 0,
+   "exp": "Note: decreased CVS mortality seen in SGLT2 blocker and GLP-1 agonist. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-076",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "The contraindications of metformin (increased lactic acidosis) are:",
+   "opts": [
+    "Chronic alcoholism, severe lung disease (COPD), renal failure, liver failure and CHF",
+    "Smoking",
+    "Obesity",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "C/I of metformin: increased lactic acidosis - chronic alcoholism, severe lung disease (COPD), renal failure, liver failure, CHF. (Book p214)"
+  },
+  {
+   "id": "PHARM-C52-077",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "page": 214,
+   "q": "Which of the following is NOT a contraindication to metformin?",
+   "opts": [
+    "Smoking (does not increase lactic acidosis)",
+    "Chronic alcoholism",
+    "Severe COPD",
+    "Heart failure"
+   ],
+   "ans": 0,
+   "exp": "Smoking does not increase lactic acidosis: not C/I in metformin use. (Book p214)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U52-1",
+   "ch": 52,
+   "n": 1,
+   "title": "Drugs That Increase Release of Insulin: Classification",
+   "sec": "Drugs That Increase Release of Insulin: Classification · p211",
+   "qs": [
+    "PHARM-C52-001",
+    "PHARM-C52-002",
+    "PHARM-C52-003",
+    "PHARM-C52-004"
+   ],
+   "guide": "Two groups: GLP-1 related drugs (GLP-1 agonists, DPP-IV inhibitors, dual GLP-1 & GIP agonist) and inhibitors of ATP-sensitive K+ channels (sulfonylureas and meglitinides). The common side effect of all is hypoglycemia."
+  },
+  {
+   "id": "PHARM-U52-2",
+   "ch": 52,
+   "n": 2,
+   "title": "GLP-1 Agonists",
+   "sec": "GLP-1 Agonists · p211",
+   "qs": [
+    "PHARM-C52-005",
+    "PHARM-C52-006",
+    "PHARM-C52-007",
+    "PHARM-C52-008",
+    "PHARM-C52-009",
+    "PHARM-C52-010",
+    "PHARM-C52-011",
+    "PHARM-C52-012"
+   ],
+   "guide": "Drugs: liraglutide (OD dosage) and dulaglutide, albiglutide, semaglutide (once a week dosage); route S/C except oral semaglutide (OD dosage). Side effects: pancreatitis, nausea & vomiting (due to delayed gastric emptying) and weight loss (due to decreased appetite) - DOC for obesity with oral semaglutide > S/C semaglutide > S/C liraglutide."
+  },
+  {
+   "id": "PHARM-U52-3",
+   "ch": 52,
+   "n": 3,
+   "title": "DPP-IV Inhibitors",
+   "sec": "DPP-IV Inhibitors · p211",
+   "qs": [
+    "PHARM-C52-013",
+    "PHARM-C52-014",
+    "PHARM-C52-015",
+    "PHARM-C52-016",
+    "PHARM-C52-017",
+    "PHARM-C52-018",
+    "PHARM-C52-019",
+    "PHARM-C52-020"
+   ],
+   "guide": "MOA: decreased metabolism of GLP-1 (weight-neutral drugs as only endogenous GLP-1 action increases). Drugs: sitagliptin, saxagliptin, alogliptin, linagliptin. Route: oral. Side effects: pancreatitis, angioedema (increased risk with ACE inhibitors) and increased risk of infections by blocking DAA6 in lymphocytes. C/I: renal failure except linagliptin (excretion by liver)."
+  },
+  {
+   "id": "PHARM-U52-4",
+   "ch": 52,
+   "n": 4,
+   "title": "Dual GLP-1 and GIP Agonist",
+   "sec": "Dual GLP-1 and GIP Agonist · p211",
+   "qs": [
+    "PHARM-C52-021",
+    "PHARM-C52-022",
+    "PHARM-C52-023"
+   ],
+   "guide": "Drug: tirzepatide. Route: S/C. Efficiency: greater than pure GLP-1 agonists."
+  },
+  {
+   "id": "PHARM-U52-5",
+   "ch": 52,
+   "n": 5,
+   "title": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides",
+   "sec": "Inhibitors of ATP-Sensitive K+ Channels: Sulfonylureas vs Meglitinides · p212",
+   "qs": [
+    "PHARM-C52-024",
+    "PHARM-C52-025",
+    "PHARM-C52-026",
+    "PHARM-C52-027",
+    "PHARM-C52-028",
+    "PHARM-C52-029",
+    "PHARM-C52-030",
+    "PHARM-C52-031",
+    "PHARM-C52-032",
+    "PHARM-C52-033",
+    "PHARM-C52-034",
+    "PHARM-C52-035"
+   ],
+   "guide": "Sulfonylureas release large amounts of insulin, are long acting and used for maintenance of blood glucose; meglitinides release small amounts, are short acting and manage post-prandial hyperglycemia. Side effects (sulfonylureas > meglitinides): hypoglycemia and weight gain (due to block of hormone sensitive lipase) used in thin diabetics. Sulfonylurea C/I: alcohol consumption causing disulfiram-like effect. Drugs: glyburide (AKA glibenclamide), glimepiride, gliclazide; nateglinide (phenylalanine derivative) and repaglinide. Note: risk of hypoglycemia - insulin (highest overall) > sulfonylureas."
+  },
+  {
+   "id": "PHARM-U52-6",
+   "ch": 52,
+   "n": 6,
+   "title": "Thiazolidinediones",
+   "sec": "Thiazolidinediones · p212",
+   "qs": [
+    "PHARM-C52-036",
+    "PHARM-C52-037",
+    "PHARM-C52-038",
+    "PHARM-C52-039",
+    "PHARM-C52-040",
+    "PHARM-C52-041",
+    "PHARM-C52-042",
+    "PHARM-C52-043"
+   ],
+   "guide": "Oral hypoglycemic agents which decrease insulin resistance. Drugs: pioglitazone and rosiglitazone. MOA: stimulate PPAR-gamma -> increased GLUT-4 production (decreasing insulin resistance) and adipocyte proliferation. Side effects: retention of Na+ & water (due to block of ENaC) causing edema & congestive heart failure; macular edema (must be differentiated from diabetic etiology); bone fracture in females; increased risk for Ca bladder; hepatotoxic."
+  },
+  {
+   "id": "PHARM-U52-7",
+   "ch": 52,
+   "n": 7,
+   "title": "Biguanides: Metformin",
+   "sec": "Biguanides: Metformin · p212",
+   "qs": [
+    "PHARM-C52-044",
+    "PHARM-C52-045",
+    "PHARM-C52-046",
+    "PHARM-C52-047",
+    "PHARM-C52-048",
+    "PHARM-C52-049",
+    "PHARM-C52-050",
+    "PHARM-C52-051",
+    "PHARM-C52-052",
+    "PHARM-C52-053",
+    "PHARM-C52-054",
+    "PHARM-C52-055"
+   ],
+   "guide": "OHA causing decreased hepatic glucose production. MOA: stimulates AMPK (adenosine monophosphate kinase) which blocks gluconeogenesis. Use: DOC for treatment & prophylaxis of both T1 & T2 DM; PCOS (treatment of anovulation due to decreased insulin resistance); non-alcoholic steatohepatitis (NASH); antipsychotic induced obesity - only FDA-approved drug. Side effects: metabolic acidosis (inhibition of mitochondrial aerobic glycolysis), decreased absorption of vit B12 (prevented by Ca2+ supplements - Ca2+ dependent absorption) and weight loss. Note: drugs causing weight loss - mnemonic GAMs: GLP-1 agonist, Amylin analogue, Metformin, SGLT-2 blockers."
+  },
+  {
+   "id": "PHARM-U52-8",
+   "ch": 52,
+   "n": 8,
+   "title": "SGLT Blockers",
+   "sec": "SGLT Blockers · p213",
+   "qs": [
+    "PHARM-C52-056",
+    "PHARM-C52-057",
+    "PHARM-C52-058",
+    "PHARM-C52-059",
+    "PHARM-C52-060",
+    "PHARM-C52-061",
+    "PHARM-C52-062",
+    "PHARM-C52-063"
+   ],
+   "guide": "Drugs: canagliflozin, dapagliflozin and empagliflozin (SGLT-2 blockers) and sotagliflozin (SGLT-1 & 2 blocker). MOA: decreased glucose reabsorption in kidney (SGLT-2) and small intestine (SGLT-1). Use: DM and chronic CHF (to decrease mortality by decreasing preload due to diuresis). Common side effects: due to increased Na+ in urine - diuresis, hypotension, dehydration; due to glucose in urine - increased risk of UTI and vaginal infections (e.g. Candida). Rare: bone fracture (incidence increased in elderly, male & female), Fournier's gangrene and urosepsis."
+  },
+  {
+   "id": "PHARM-U52-9",
+   "ch": 52,
+   "n": 9,
+   "title": "Alpha-Glucosidase Inhibitors and Amylin Analog",
+   "sec": "Alpha-Glucosidase Inhibitors and Amylin Analog · p214",
+   "qs": [
+    "PHARM-C52-064",
+    "PHARM-C52-065",
+    "PHARM-C52-066",
+    "PHARM-C52-067",
+    "PHARM-C52-068",
+    "PHARM-C52-069",
+    "PHARM-C52-070",
+    "PHARM-C52-071",
+    "PHARM-C52-072",
+    "PHARM-C52-073",
+    "PHARM-C52-074",
+    "PHARM-C52-075",
+    "PHARM-C52-076",
+    "PHARM-C52-077"
+   ],
+   "guide": "Alpha-glucosidase inhibitors: acarbose, voglibose and miglitol; use - post-prandial hyperglycemia in T2DM only; dosage - during meal (after few bites); side effects - flatulence (m/c, due to intestinal flora acting on undigested starch & disaccharides) and osmotic diarrhea. Amylin analog: pramlintide - S/C, delays gastric emptying, decreases post-prandial hyperglycemia in both T1 & T2 DM; if used with insulin use a different syringe and decrease insulin dose by 50%; side effects nausea & vomiting and weight loss (off-label use in obesity). Note: decreased CVS mortality seen with SGLT2 blockers and GLP-1 agonists. C/I of metformin (increased lactic acidosis): chronic alcoholism, severe lung disease (COPD), renal failure, liver failure and CHF; smoking does not increase lactic acidosis - not a C/I in metformin use."
+  }
+ ]
+}
