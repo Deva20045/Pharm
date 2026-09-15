@@ -1,0 +1,1016 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C51-001",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Diabetes mellitus type 1 and type 2 are characterized by:",
+   "opts": [
+    "Persistently increased blood glucose levels",
+    "Episodic hypoglycemia",
+    "Low HbA1c",
+    "Post-prandial hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The opening note: DM type 1/type 2 - persistently increased blood glucose levels. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-002",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "In the small intestine, disaccharides are broken down by:",
+   "opts": [
+    "alpha-glucosidase",
+    "SGLT2",
+    "DPP-4",
+    "Amylase only"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows disaccharides acted on by alpha-glucosidase. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-003",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Glucose absorption from the small intestine occurs via:",
+   "opts": [
+    "SGLT1",
+    "SGLT2",
+    "GLUT-4",
+    "DPP-4"
+   ],
+   "ans": 0,
+   "exp": "The small-intestine absorptive arrow is labelled SGLT1. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-004",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "GLP and GLP-1 are metabolized in plasma by:",
+   "opts": [
+    "DPP-4 enzyme giving short half-life",
+    "CYP3A4 giving long half-life",
+    "Renal peptidases only",
+    "Alpha-glucosidase"
+   ],
+   "ans": 0,
+   "exp": "The note: GLP & GLP-1 metabolised in plasma by DPP4 enzyme, leading to short half-life. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-005",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Insulin release from beta cells is triggered by:",
+   "opts": [
+    "Block of ATP-sensitive K+ channels via SUR receptor",
+    "Opening of ATP-sensitive K+ channels",
+    "Block of GLUT-1",
+    "Activation of alpha-glucosidase"
+   ],
+   "ans": 0,
+   "exp": "The beta-cell flow: SUR receptor blocks the ATP-sensitive K+ channel, then ATP formation and insulin release. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-006",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "The sequence inside beta cells after SUR receptor stimulation is:",
+   "opts": [
+    "ATP-sensitive K+ channel block, then ATP formation, then release",
+    "ATP formation, then K+ channel opening, then release",
+    "GLUT-1 block, then release",
+    "cAMP fall, then release"
+   ],
+   "ans": 0,
+   "exp": "The diagram numbers: block of ATP-sensitive K+ channel, then ATP formation, then release. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-007",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Insulin acts with which co-secreted peptide on the insulin receptor?",
+   "opts": [
+    "Amylin",
+    "GLP-1",
+    "GIP",
+    "Somatostatin"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows insulin + amylin acting on the insulin receptor. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-008",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "After insulin receptor activation, glucose entry into cells occurs via:",
+   "opts": [
+    "GLUT-4 becoming extracellular",
+    "GLUT-1 becoming extracellular",
+    "SGLT2 insertion",
+    "SUR receptor internalization"
+   ],
+   "ans": 0,
+   "exp": "The flow: insulin receptor acts on GLUT-4, which becomes extracellular, then glucose uptake. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-009",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Uptake of glucose after the post-prandial surge occurs by:",
+   "opts": [
+    "Facilitated diffusion (concentration dependent)",
+    "Active transport via SGLT2",
+    "Simple diffusion only",
+    "Pinocytosis"
+   ],
+   "ans": 0,
+   "exp": "The note: after post-prandial surge, concentration dependent uptake of glucose (facilitated diffusion). (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-010",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "The D-marked mechanism that dampens post-prandial hyperglycemia is:",
+   "opts": [
+    "Delayed gastric emptying",
+    "Renal gluconeogenesis",
+    "Hepatic glycogenolysis",
+    "Insulin degradation"
+   ],
+   "ans": 0,
+   "exp": "The D note: delayed gastric emptying (dampens post-prandial hyper glycemia). (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-011",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Kidneys reabsorb glucose from urine via:",
+   "opts": [
+    "SGLT2 (active transport)",
+    "SGLT1 (passive)",
+    "GLUT-2",
+    "DPP-4"
+   ],
+   "ans": 0,
+   "exp": "The kidney box: reabsorbed from urine via SGLT2 (active transport). (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-012",
+   "sec": "Physiology of Glucose Metabolism",
+   "page": 207,
+   "q": "Gluconeogenesis shown in the diagram occurs during:",
+   "opts": [
+    "Fasting",
+    "Post-prandial state",
+    "Insulin excess",
+    "Exercise only"
+   ],
+   "ans": 0,
+   "exp": "The liver/lower diagram notes gluconeogenesis during fasting. (Book p207)"
+  },
+  {
+   "id": "PHARM-C51-013",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The side effect of GLP-1 related drugs is:",
+   "opts": [
+    "Pancreatitis",
+    "Lipodystrophy",
+    "Lactic acidosis",
+    "Hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "The GLP1-related branch: side effect pancreatitis. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-014",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "GLP-1 agonists act by:",
+   "opts": [
+    "Increasing insulin release",
+    "Blocking insulin release",
+    "Increasing glucagon",
+    "Blocking gastric emptying only"
+   ],
+   "ans": 0,
+   "exp": "The branch: GLP1 agonists (increased insulin release). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-015",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "Which GLP-1 related subgroup is a dual agonist?",
+   "opts": [
+    "Dual GLP1 & GIP agonist",
+    "DPP-4 inhibitor",
+    "Amylin analog",
+    "SGLT2 blocker"
+   ],
+   "ans": 0,
+   "exp": "The branch lists dual GLP1 & GIP agonist. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-016",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The amylin analog acts by:",
+   "opts": [
+    "Delaying gastric emptying",
+    "Blocking SGLT2",
+    "Blocking ATP-sensitive K+ channels",
+    "Inhibiting gluconeogenesis"
+   ],
+   "ans": 0,
+   "exp": "The amylin analog branch: delays gastric emptying. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-017",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The miscellaneous anti-diabetic drugs listed are:",
+   "opts": [
+    "Bromocriptine and colesevelam",
+    "Metformin and pioglitazone",
+    "Sotagliflozin and dapagliflozin",
+    "NPH and lente"
+   ],
+   "ans": 0,
+   "exp": "The miscellaneous branch: bromocriptine, colesevelam. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-018",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "OHA mechanism 1, raising insulin release, works by:",
+   "opts": [
+    "Blocking ATP-sensitive K+ channels",
+    "Opening ATP-sensitive K+ channels",
+    "Blocking SUR receptor antagonism",
+    "Stimulating alpha-glucosidase"
+   ],
+   "ans": 0,
+   "exp": "The OHA list: 1. increased insulin release (block ATP-sensitive K+ channels). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-019",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The OHA example given for decreasing insulin resistance is:",
+   "opts": [
+    "Pioglitazone",
+    "Metformin",
+    "Sitagliptin",
+    "Glipizide"
+   ],
+   "ans": 0,
+   "exp": "The list: decreased insulin resistance e.g. pioglitazone. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-020",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The OHA example for inhibition of gluconeogenesis is:",
+   "opts": [
+    "Metformin",
+    "Pioglitazone",
+    "Colesevelam",
+    "Liraglutide"
+   ],
+   "ans": 0,
+   "exp": "The list: inhibit gluconeogenesis e.g. metformin. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-021",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "Blocking SGLT1 alone treats diabetes by:",
+   "opts": [
+    "Blocking reabsorption by kidneys",
+    "Blocking gastric emptying",
+    "Raising insulin release",
+    "Reducing insulin resistance"
+   ],
+   "ans": 0,
+   "exp": "The OHA list item 4: block SGLT1 (block reabsorption by kidneys). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-022",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The drug that blocks BOTH SGLT1 and SGLT2, approved in 2019, is:",
+   "opts": [
+    "Sotagliflozin",
+    "Dapagliflozin",
+    "Empagliflozin",
+    "Canagliflozin"
+   ],
+   "ans": 0,
+   "exp": "The list: block SGLT1 & SGLT2 - sotagliflozin: approved in 2019. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-023",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "Drugs used in T1DM are:",
+   "opts": [
+    "Insulin & amylin analogue",
+    "All anti-diabetic drugs",
+    "Only OHA",
+    "Only alpha-glucosidase inhibitors"
+   ],
+   "ans": 0,
+   "exp": "The note: T1DM - insulin & amylin analogue. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-024",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "Drugs used in T2DM are:",
+   "opts": [
+    "All anti-diabetic drugs",
+    "Only insulin",
+    "Insulin & amylin analog only",
+    "Only sulfonylureas"
+   ],
+   "ans": 0,
+   "exp": "The note: T2DM - all anti-diabetic drugs. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-025",
+   "sec": "Drugs Used: Classification",
+   "page": 208,
+   "q": "The side effect of drugs that act via insulin is:",
+   "opts": [
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Pancreatitis",
+    "Lactic acidosis"
+   ],
+   "ans": 0,
+   "exp": "The note: side effect of drugs that act via insulin - hypoglycemia. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-026",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Ultra-short acting insulin is taken:",
+   "opts": [
+    "Just before food (B/F)",
+    "60 min before food",
+    "Once daily at night",
+    "Only during fasting"
+   ],
+   "ans": 0,
+   "exp": "The ultra-short acting branch: just before food/B/F. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-027",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The fastest acting insulin is:",
+   "opts": [
+    "Afrezza",
+    "Lispro",
+    "Glulisine",
+    "Regular insulin"
+   ],
+   "ans": 0,
+   "exp": "The branch labels Afrezza (fastest acting). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-028",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Fast-acting rDNA monomeric insulins include:",
+   "opts": [
+    "Glulisine, lispro, aspart",
+    "NPH, lente, detemir",
+    "Glargine, degludec, detemir",
+    "Regular, NPH, lente"
+   ],
+   "ans": 0,
+   "exp": "The fast-acting list: glulisine, lispro, aspart. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-029",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Fast-acting rDNA monomeric insulins are given:",
+   "opts": [
+    "15 min before food",
+    "60 min before food",
+    "With food only",
+    "After food"
+   ],
+   "ans": 0,
+   "exp": "The bracket: 15 min B/F. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-030",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Regular insulin is taken:",
+   "opts": [
+    "60 min before food",
+    "15 min before food",
+    "Just before food",
+    "At bedtime"
+   ],
+   "ans": 0,
+   "exp": "The slow-acting line: regular insulin 60 min B/F. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-031",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Ultra-short and short acting insulins are used for:",
+   "opts": [
+    "Management of post-prandial hyperglycemia",
+    "Maintenance of blood glucose",
+    "Treatment of DKA only",
+    "Treatment of hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "The bracket under short acting: for management of post-prandial hyperglycemia. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-032",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The intermediate acting insulins are:",
+   "opts": [
+    "NPH and Lente",
+    "Detemir and glargine",
+    "Lispro and aspart",
+    "Regular and degludec"
+   ],
+   "ans": 0,
+   "exp": "The intermediate branch: neutral protamine Hagedorn (NPH), Lente. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-033",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The dosing of intermediate acting insulins is:",
+   "opts": [
+    "BD / TDS",
+    "OD / BD",
+    "Once weekly",
+    "Only TDS"
+   ],
+   "ans": 0,
+   "exp": "The intermediate branch: dosing BD/TDS. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-034",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The long acting insulin with increased plasma protein binding is:",
+   "opts": [
+    "Detemir",
+    "Glargine",
+    "Degludec",
+    "NPH"
+   ],
+   "ans": 0,
+   "exp": "The long acting list: detemir (increased plasma protein binding). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-035",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Glargine is characterized by:",
+   "opts": [
+    "Acidic pH",
+    "Hexameric structure",
+    "Protamine content",
+    "Zinc crystals only"
+   ],
+   "ans": 0,
+   "exp": "The list: glargine (acidic pH). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-036",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The hexameric, longest acting insulin is:",
+   "opts": [
+    "Degludec",
+    "Glargine",
+    "Detemir",
+    "Lente"
+   ],
+   "ans": 0,
+   "exp": "The list: degludec (hexameric), marked longest acting. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-037",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The dosing of long acting insulins is:",
+   "opts": [
+    "OD / BD",
+    "BD / TDS",
+    "Thrice weekly",
+    "Once weekly"
+   ],
+   "ans": 0,
+   "exp": "The long acting branch: dosing OD/BD. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-038",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "Long acting insulins are used for:",
+   "opts": [
+    "Maintenance of blood glucose",
+    "Post-prandial hyperglycemia",
+    "Emergency hyperkalemia",
+    "Gestational diabetes screening"
+   ],
+   "ans": 0,
+   "exp": "The bracket under long acting: for maintenance of blood glucose. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-039",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The inhaled insulin absorbed through lung capillaries is:",
+   "opts": [
+    "Afrezza",
+    "NPH",
+    "Insulin glargine",
+    "Regular insulin"
+   ],
+   "ans": 0,
+   "exp": "The route block: inhalational - Afrezza (absorbed through lung capillaries: fastest action). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-040",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "The route for all insulins other than Afrezza is:",
+   "opts": [
+    "Subcutaneous",
+    "Inhalational",
+    "Intravenous",
+    "Intramuscular"
+   ],
+   "ans": 0,
+   "exp": "The route block: subcutaneous - all other insulins. (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-041",
+   "sec": "Insulin: Duration of Action",
+   "page": 208,
+   "q": "IV regular insulin is used in:",
+   "opts": [
+    "Hyperkalemia and diabetic ketoacidosis (DOC)",
+    "Hypokalemia only",
+    "Chronic maintenance therapy",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The I/V block: regular insulin used in hyperkalemia and DKA (DOC). (Book p208)"
+  },
+  {
+   "id": "PHARM-C51-042",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "The standard insulin regimen consists of:",
+   "opts": [
+    "1 insulin for PPH management + 1 insulin for maintenance of blood glucose",
+    "2 insulins for maintenance only",
+    "Only regular insulin TDS",
+    "3 insulins of different durations"
+   ],
+   "ans": 0,
+   "exp": "The regimen line: 1 insulin for management of PPH + 1 insulin for maintenance of blood glucose. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-043",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "When mixing in one syringe, the combination and order are:",
+   "opts": [
+    "NPH + regular, regular drawn first",
+    "Regular + NPH, NPH drawn first",
+    "Glargine + lispro, lispro first",
+    "Degludec + aspart, degludec first"
+   ],
+   "ans": 0,
+   "exp": "The regimen: NPH + regular insulin in same syringe, regular drawn first. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-044",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Regular insulin is drawn first to prevent:",
+   "opts": [
+    "Contamination of vial with cloudy NPH",
+    "Loss of potency of NPH",
+    "Air embolism",
+    "Adsorption to syringe"
+   ],
+   "ans": 0,
+   "exp": "The note: regular drawn first to prevent contamination of vial with cloudy NPH. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-045",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Continuous insulin infusion is preferred in:",
+   "opts": [
+    "In-patient cases",
+    "All outpatients",
+    "Children only",
+    "Pregnancy only"
+   ],
+   "ans": 0,
+   "exp": "The block: continuous infusion - preferred in in-patient cases. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-046",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Continuous infusion lowers hypoglycemia risk because:",
+   "opts": [
+    "There is no peak in plasma concentration",
+    "The dose is smaller",
+    "Absorption is slower",
+    "It avoids the kidney"
+   ],
+   "ans": 0,
+   "exp": "The note: decreased risk of hypoglycemia (no peak in plasma concentration). (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-047",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "The most common site of s/c insulin injection is:",
+   "opts": [
+    "Abdomen",
+    "Upper arm",
+    "Thigh",
+    "Buttocks"
+   ],
+   "ans": 0,
+   "exp": "The sites figure: abdomen m/c. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-048",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "The abdominal site to EXCLUDE is:",
+   "opts": [
+    "Periumbical site (increased risk of lipodystrophy)",
+    "Upper abdomen",
+    "Flanks",
+    "Lower abdomen entirely"
+   ],
+   "ans": 0,
+   "exp": "The abdomen note: except periumbical site (d/t increased risk of lipodystrophy). (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-049",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Advantages of the abdomen as injection site:",
+   "opts": [
+    "Faster & most reliable absorption",
+    "Painless injection",
+    "No infection risk",
+    "Longest duration of action"
+   ],
+   "ans": 0,
+   "exp": "The abdomen bullet: advantages - faster & most reliable absorption. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-050",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Other s/c injection sites listed are:",
+   "opts": [
+    "Upper arm, antero-lateral thigh, upper area of buttocks",
+    "Anterior thigh and flank",
+    "Deltoid only",
+    "Lumbar region and calf"
+   ],
+   "ans": 0,
+   "exp": "The figure labels: upper arm, antero-lateral aspect of thigh, upper area of buttocks. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-051",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Afrezza cartridges are color-coded as:",
+   "opts": [
+    "Blue 4U, green 8U, yellow 12U",
+    "Blue 12U, green 8U, yellow 4U",
+    "Red 4U, blue 8U, green 12U",
+    "Blue 2U, green 4U, yellow 8U"
+   ],
+   "ans": 0,
+   "exp": "The Afrezza block: blue 4U, green 8U, yellow 12U. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-052",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Side effects of inhaled Afrezza are:",
+   "opts": [
+    "Cough and increased risk of lung cancer",
+    "Lipodystrophy and hypokalemia",
+    "Pancreatitis",
+    "Lactic acidosis"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: cough, increased risk of lung cancer. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-053",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Afrezza is contraindicated in:",
+   "opts": [
+    "Bronchial asthma/COPD and smokers",
+    "Diabetics with nephropathy",
+    "Elderly only",
+    "Pregnant women only"
+   ],
+   "ans": 0,
+   "exp": "The C/I list: bronchial asthma/COPD, smokers. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-054",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Lente insulin is formed by precipitating:",
+   "opts": [
+    "Insulin + zinc",
+    "Insulin + protamine",
+    "Insulin + phenol",
+    "Insulin + albumin"
+   ],
+   "ans": 0,
+   "exp": "The lente block: insulin + zinc precipitates into. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-055",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "Ultralente and semilente are respectively:",
+   "opts": [
+    "Long acting white crystals and short acting white powder",
+    "Short acting crystals and long acting powder",
+    "Both intermediate acting",
+    "Both long acting liquids"
+   ],
+   "ans": 0,
+   "exp": "The block: ultralente long acting white crystals, semilente short acting white powder. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-056",
+   "sec": "Insulin Regimen and Injection Sites",
+   "page": 209,
+   "q": "The 70%/30% mix under lente refers to:",
+   "opts": [
+    "Ultralente 70% + semilente 30% = intermediate acting Lente",
+    "Regular 70% + NPH 30%",
+    "Lispro 70% + glargine 30%",
+    "Detemir 70% + degludec 30%"
+   ],
+   "ans": 0,
+   "exp": "The 70%/30% bracket ends in Lente intermediate acting. (Book p209)"
+  },
+  {
+   "id": "PHARM-C51-057",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "The MOST COMMON side effect of insulin is:",
+   "opts": [
+    "Hypoglycemia",
+    "Lipodystrophy",
+    "Hypokalemia",
+    "Weight gain"
+   ],
+   "ans": 0,
+   "exp": "The list: 1. hypoglycemia (m/c). (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-058",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "Risk of hypoglycemia is proportional to:",
+   "opts": [
+    "Plasma concentration",
+    "Injection site",
+    "Dose frequency only",
+    "Insulin origin"
+   ],
+   "ans": 0,
+   "exp": "The line: plasma concentration proportional to risk of hypoglycemia. (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-059",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "Which insulins carry the HIGHEST hypoglycemia risk?",
+   "opts": [
+    "Shorter acting insulins",
+    "Long acting insulins",
+    "Intermediate acting insulins",
+    "All equally"
+   ],
+   "ans": 0,
+   "exp": "The bullet: shorter acting, then increased risk. (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-060",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "The insulin with a smooth peakless graph (lowest peak-related risk) is:",
+   "opts": [
+    "Glargine (long-acting)",
+    "Afrezza",
+    "Regular insulin",
+    "Lispro"
+   ],
+   "ans": 0,
+   "exp": "The bullet: smooth peakless graph - glargine (long-acting). (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-061",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "In the plasma concentration graph, the insulin with the HIGHEST, sharpest peak is:",
+   "opts": [
+    "A: Afrezza",
+    "LA: long acting",
+    "IA: intermediate acting",
+    "R: regular insulin"
+   ],
+   "ans": 0,
+   "exp": "The graph shows A with the tallest earliest peak, followed by FA, R, IA, LA. (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-062",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "The second side effect of insulin listed is:",
+   "opts": [
+    "Hypokalemia",
+    "Hypoglycemia",
+    "Lipodystrophy",
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "The list: 2. hypokalemia. (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-063",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "Lipodystrophy from insulin includes:",
+   "opts": [
+    "Lipo-hypertrophy and lipo-atrophy",
+    "Only lipo-atrophy",
+    "Only hirsutism",
+    "Skin necrosis only"
+   ],
+   "ans": 0,
+   "exp": "The photos: lipo-hypertrophy and lipo-atrophy. (Book p210)"
+  },
+  {
+   "id": "PHARM-C51-064",
+   "sec": "Side Effects of Insulins",
+   "page": 210,
+   "q": "Prevention of insulin lipodystrophy is:",
+   "opts": [
+    "Rotation of injection site with >=1 inch between each site",
+    "Use of IM route",
+    "Zinc-free insulin",
+    "Prophylactic antihistamines"
+   ],
+   "ans": 0,
+   "exp": "The prevention line: rotation of site of injection with >=1 inch between each site. (Book p210)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U51-1",
+   "ch": 51,
+   "n": 1,
+   "title": "Physiology of Glucose Metabolism",
+   "sec": "Physiology of Glucose Metabolism · p207",
+   "qs": [
+    "PHARM-C51-001",
+    "PHARM-C51-002",
+    "PHARM-C51-003",
+    "PHARM-C51-004",
+    "PHARM-C51-005",
+    "PHARM-C51-006",
+    "PHARM-C51-007",
+    "PHARM-C51-008",
+    "PHARM-C51-009",
+    "PHARM-C51-010",
+    "PHARM-C51-011",
+    "PHARM-C51-012"
+   ],
+   "guide": "Diabetes mellitus, type 1 or type 2, means persistently raised blood glucose. Food is broken down in the small intestine where disaccharides are split by alpha-glucosidase and glucose is absorbed via SGLT1, raising GLP-1 and glucose in systemic circulation; GLP and GLP-1 are metabolized in plasma by the DPP-4 enzyme, giving them a short half-life. After the post-prandial surge, concentration-dependent glucose uptake occurs by facilitated diffusion. In beta cells, glucose acting through the SUR receptor blocks ATP-sensitive potassium channels, ATP formation rises and insulin is released; insulin plus amylin act on the insulin receptor, GLUT-4 becomes extracellular and glucose uptake follows. Three dampening/disposal points are marked D: alpha-glucosidase, renal SGLT2 reabsorption and delayed gastric emptying, which dampens post-prandial hyperglycemia; the liver drives gluconeogenesis during fasting."
+  },
+  {
+   "id": "PHARM-U51-2",
+   "ch": 51,
+   "n": 2,
+   "title": "Drugs Used: Classification",
+   "sec": "Drugs Used: Classification · p208",
+   "qs": [
+    "PHARM-C51-013",
+    "PHARM-C51-014",
+    "PHARM-C51-015",
+    "PHARM-C51-016",
+    "PHARM-C51-017",
+    "PHARM-C51-018",
+    "PHARM-C51-019",
+    "PHARM-C51-020",
+    "PHARM-C51-021",
+    "PHARM-C51-022",
+    "PHARM-C51-023",
+    "PHARM-C51-024",
+    "PHARM-C51-025"
+   ],
+   "guide": "Anti-diabetic drugs fall into alpha-glucosidase inhibitors, GLP-1 related drugs (GLP-1 agonists that raise insulin release, DPP-4 inhibitors and dual GLP-1 & GIP agonists - class side effect pancreatitis), amylin analogs that delay gastric emptying, miscellaneous agents bromocriptine and colesevelam, insulin, and oral hypoglycemic agents with five mechanisms: raise insulin release by blocking ATP-sensitive K+ channels, lower insulin resistance (pioglitazone), inhibit gluconeogenesis (metformin), block SGLT1, or block both SGLT1 and SGLT2 (sotagliflozin, approved 2019). T1DM uses insulin and amylin analog; T2DM can use all anti-diabetic drugs; any drug acting via insulin causes hypoglycemia."
+  },
+  {
+   "id": "PHARM-U51-3",
+   "ch": 51,
+   "n": 3,
+   "title": "Insulin: Duration of Action",
+   "sec": "Insulin: Duration of Action · p208",
+   "qs": [
+    "PHARM-C51-026",
+    "PHARM-C51-027",
+    "PHARM-C51-028",
+    "PHARM-C51-029",
+    "PHARM-C51-030",
+    "PHARM-C51-031",
+    "PHARM-C51-032",
+    "PHARM-C51-033",
+    "PHARM-C51-034",
+    "PHARM-C51-035",
+    "PHARM-C51-036",
+    "PHARM-C51-037",
+    "PHARM-C51-038",
+    "PHARM-C51-039",
+    "PHARM-C51-040",
+    "PHARM-C51-041"
+   ],
+   "guide": "By duration: ultra-short acting insulins are given just before food, fastest being inhaled Afrezza; short acting splits into fast-acting rDNA monomeric insulins - glulisine, lispro, aspart, 15 minutes before food - and slow-acting regular insulin 60 minutes before food; these manage post-prandial hyperglycemia. Intermediate acting: NPH (neutral protamine Hagedorn) and Lente, dosed BD/TDS. Long acting: detemir (increased plasma protein binding), glargine (acidic pH) and degludec (hexameric), the longest acting, dosed OD/BD for maintenance of blood glucose. Routes: inhaled Afrezza is absorbed through lung capillaries (fastest), all others subcutaneous, and IV regular insulin is used in hyperkalemia and is DOC in diabetic ketoacidosis."
+  },
+  {
+   "id": "PHARM-U51-4",
+   "ch": 51,
+   "n": 4,
+   "title": "Insulin Regimen and Injection Sites",
+   "sec": "Insulin Regimen and Injection Sites · p209",
+   "qs": [
+    "PHARM-C51-042",
+    "PHARM-C51-043",
+    "PHARM-C51-044",
+    "PHARM-C51-045",
+    "PHARM-C51-046",
+    "PHARM-C51-047",
+    "PHARM-C51-048",
+    "PHARM-C51-049",
+    "PHARM-C51-050",
+    "PHARM-C51-051",
+    "PHARM-C51-052",
+    "PHARM-C51-053",
+    "PHARM-C51-054",
+    "PHARM-C51-055",
+    "PHARM-C51-056"
+   ],
+   "guide": "The standard regimen is 1 insulin for post-prandial hyperglycemia management plus 1 insulin for maintenance of blood glucose. If both are subcutaneous they can go in the same syringe as NPH + regular, drawing regular first to prevent contaminating the vial with cloudy NPH, or in different syringes. Continuous infusion with regular insulin is preferred in in-patients because there is no plasma peak, lowering hypoglycemia risk. Injection sites: abdomen is most common - except periumbilical skin (increased lipodystrophy risk) - with faster, most reliable absorption; alternatives are upper arm, antero-lateral thigh and upper buttock area. Afrezza comes as powder in color-coded cartridges: blue 4U, green 8U, yellow 12U; side effects are cough and increased lung cancer risk; it is contraindicated in bronchial asthma/COPD and smokers. Lente is insulin + zinc precipitated into long-acting white crystals (ultralente) and short-acting white powder (semilente), mixed 70%/30% as intermediate-acting Lente."
+  },
+  {
+   "id": "PHARM-U51-5",
+   "ch": 51,
+   "n": 5,
+   "title": "Side Effects of Insulins",
+   "sec": "Side Effects of Insulins · p210",
+   "qs": [
+    "PHARM-C51-057",
+    "PHARM-C51-058",
+    "PHARM-C51-059",
+    "PHARM-C51-060",
+    "PHARM-C51-061",
+    "PHARM-C51-062",
+    "PHARM-C51-063",
+    "PHARM-C51-064"
+   ],
+   "guide": "Hypoglycemia is the most common side effect; plasma concentration is proportional to hypoglycemia risk, so shorter acting insulins carry higher risk, while glargine's smooth peakless long-acting curve keeps risk low (the plasma concentration graph orders A, FA, R, IA and LA). Hypokalemia is second; lipodystrophy - lipo-hypertrophy and lipo-atrophy - is third, prevented by rotating injection sites at least 1 inch apart."
+  }
+ ]
+}

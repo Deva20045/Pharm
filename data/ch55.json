@@ -1,0 +1,851 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C55-001",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The endogenous glucocorticoid replicated ex-vivo is:",
+   "opts": [
+    "Cortisol",
+    "Aldosterone",
+    "Corticosterone",
+    "DHEA"
+   ],
+   "ans": 0,
+   "exp": "The flowchart starts with endogenous glucocorticoid (cortisol) replicated ex-vivo. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-002",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Hydrocortisone is characterized as:",
+   "opts": [
+    "Least potent, shortest acting (t½ 8-12 hrs)",
+    "Most potent, longest acting",
+    "Pure glucocorticoid",
+    "Water-soluble methyl derivative"
+   ],
+   "ans": 0,
+   "exp": "The flowchart: hydrocortisone (least potent, shortest acting) t½ 8-12 hrs. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-003",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The glucocorticoid : mineralocorticoid potency of hydrocortisone is:",
+   "opts": [
+    "1x and 1x",
+    "4x and 0.8x",
+    "5x and 0",
+    "30x and 0"
+   ],
+   "ans": 0,
+   "exp": "The effect block: glucocorticoid 1x > mineralocorticoid 1x. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-004",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Hydrocortisone is DOC for replacement in:",
+   "opts": [
+    "Addison's disease and CAH after birth",
+    "CAH fetus",
+    "Preterm labour",
+    "Postural hypotension"
+   ],
+   "ans": 0,
+   "exp": "The use block: DOC for replacement - Addison's disease; congenital adrenal hyperplasia (CAH) after birth. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-005",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The disadvantage of hydrocortisone is:",
+   "opts": [
+    "Insufficient immune suppression",
+    "Excessive immune suppression",
+    "No mineralocorticoid effect",
+    "Poor oral absorption"
+   ],
+   "ans": 0,
+   "exp": "The flowchart: disadvantages - insufficient immune suppression. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-006",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Adding a double bond to hydrocortisone produces:",
+   "opts": [
+    "Prednisone/prednisolone",
+    "Methylprednisolone directly",
+    "Triamcinolone",
+    "Fludrocortisone"
+   ],
+   "ans": 0,
+   "exp": "The arrow: addition of double bond leads to prednisone/prednisolone. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-007",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The half-life of prednisone/prednisolone is:",
+   "opts": [
+    "12-36 hrs",
+    "8-12 hrs",
+    "36-72 hrs",
+    "1-2 hrs"
+   ],
+   "ans": 0,
+   "exp": "The block: prednisone/prednisolone t½ 12-36 hrs. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-008",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The effect of prednisone/prednisolone is:",
+   "opts": [
+    "Glucocorticoid 4x, mineralocorticoid 0.8x",
+    "Glucocorticoid 1x, mineralocorticoid 1x",
+    "Glucocorticoid 5x, mineralocorticoid 0",
+    "Glucocorticoid 30x, mineralocorticoid 0"
+   ],
+   "ans": 0,
+   "exp": "The effect block: glucocorticoid 4x, mineralocorticoid 0.8x. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-009",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Adding a methyl group to prednisolone makes it:",
+   "opts": [
+    "Water soluble as methylprednisolone",
+    "Lipid soluble",
+    "Longer acting 36-72 h",
+    "Pure mineralocorticoid"
+   ],
+   "ans": 0,
+   "exp": "The arrow: + methyl group (water soluble) leads to methylprednisolone. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-010",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The effect of methylprednisolone is:",
+   "opts": [
+    "Glucocorticoid 5x, mineralocorticoid 0.8x",
+    "Glucocorticoid 4x, mineralocorticoid 0.8x",
+    "Glucocorticoid 15x, mineralocorticoid 150x",
+    "Glucocorticoid 30x, mineralocorticoid 0"
+   ],
+   "ans": 0,
+   "exp": "The methylprednisolone block: glucocorticoid 5x, mineralocorticoid 0.8x. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-011",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Adding fluoride produces the drugs:",
+   "opts": [
+    "Triamcinolone and betamethasone/dexamethasone",
+    "Prednisone and methylprednisolone",
+    "Fludrocortisone only",
+    "Cortisone and hydrocortisone"
+   ],
+   "ans": 0,
+   "exp": "The + fluoride branch leads to triamcinolone and betamethasone/dexamethasone. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-012",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Triamcinolone is described as:",
+   "opts": [
+    "Pure glucocorticoid (minimal effect on BP), glucocorticoid 5x, mineralocorticoid 0",
+    "Mixed glucocorticoid-mineralocorticoid",
+    "Most potent glucocorticoid 30x",
+    "Mineralocorticoid 150x"
+   ],
+   "ans": 0,
+   "exp": "The triamcinolone block: pure glucocorticoids (minimal effect on BP), glucocorticoid 5x, mineralocorticoid 0. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-013",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The half-life of betamethasone/dexamethasone is:",
+   "opts": [
+    "36-72 hrs",
+    "12-36 hrs",
+    "8-12 hrs",
+    "2-4 hrs"
+   ],
+   "ans": 0,
+   "exp": "The block: betamethasone/dexamethasone t½ 36-72 hrs. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-014",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The glucocorticoid potency of betamethasone/dexamethasone is:",
+   "opts": [
+    "30x with mineralocorticoid 0",
+    "5x with mineralocorticoid 0",
+    "15x with mineralocorticoid 150x",
+    "4x with mineralocorticoid 0.8x"
+   ],
+   "ans": 0,
+   "exp": "The effect block: glucocorticoid 30x, mineralocorticoid 0. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-015",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "The glucocorticoid with longest action and most potency is:",
+   "opts": [
+    "Dexamethasone",
+    "Hydrocortisone",
+    "Prednisolone",
+    "Triamcinolone"
+   ],
+   "ans": 0,
+   "exp": "The red note: dexamethasone - longest acting, most potent. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-016",
+   "sec": "Development of Glucocorticoids",
+   "page": 221,
+   "q": "Which pair shares pure glucocorticoid action (mineralocorticoid 0)?",
+   "opts": [
+    "Triamcinolone and dexamethasone",
+    "Prednisolone and methylprednisolone",
+    "Hydrocortisone and cortisone",
+    "Fludrocortisone and aldosterone"
+   ],
+   "ans": 0,
+   "exp": "Both triamcinolone and betamethasone/dexamethasone blocks show mineralocorticoid 0. (Book p221)"
+  },
+  {
+   "id": "PHARM-C55-017",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "Inflammatory mediators whose production is DECREASED by glucocorticoids are:",
+   "opts": [
+    "IL-1, IL-6, TNF-alpha",
+    "IL-10 and Annexin 1",
+    "IL-2 and interferon-gamma only",
+    "Bradykinin and serotonin"
+   ],
+   "ans": 0,
+   "exp": "The MOA bullet: decreased production of inflammatory mediators (IL-1, IL-6, TNF-alpha). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-018",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "Anti-inflammatory mediators INCREASED by glucocorticoids are:",
+   "opts": [
+    "IL-10 and Annexin 1",
+    "IL-1 and IL-6",
+    "TNF-alpha and IL-8",
+    "Histamine and bradykinin"
+   ],
+   "ans": 0,
+   "exp": "The bullet: increased anti-inflammatory mediators (IL-10, Annexin 1). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-019",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "The cellular immune effects of glucocorticoids written are:",
+   "opts": [
+    "Lymphocyte redistribution & apoptosis",
+    "Lymphocyte proliferation",
+    "Neutrophil apoptosis",
+    "Macrophage activation"
+   ],
+   "ans": 0,
+   "exp": "The bullet: lymphocyte redistribution & apoptosis. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-020",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "Examples of inflammatory conditions treated with glucocorticoids are:",
+   "opts": [
+    "Rheumatoid arthritis, gout, ankylosing spondylitis",
+    "Gout, gouty nephropathy, urolithiasis",
+    "RA, SLE only",
+    "OA and fibromyalgia"
+   ],
+   "ans": 0,
+   "exp": "The example line: rheumatoid arthritis, gout, ankylosing spondylitis etc. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-021",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "Examples where glucocorticoids DECREASE immunity include:",
+   "opts": [
+    "Graft vs host disease, graft rejection, myasthenia gravis",
+    "AIDS and tuberculosis",
+    "Leukemia and lymphoma",
+    "CAH and preterm labour"
+   ],
+   "ans": 0,
+   "exp": "The use-2 line: graft vs host disease, graft rejection, myasthenia gravis. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-022",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "The neoplasia uses of glucocorticoids are:",
+   "opts": [
+    "Leukemia and lymphoma",
+    "Solid breast tumors",
+    "Melanoma",
+    "Glioblastoma only"
+   ],
+   "ans": 0,
+   "exp": "The use-3 line: neoplasia - e.g. leukemia, lymphoma. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-023",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "In CAH fetus, dexamethasone is used to:",
+   "opts": [
+    "Prevent virilization",
+    "Mature surfactant",
+    "Induce labour",
+    "Treat hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "The use-4 line: CAH fetus - dexamethasone used to prevent virilization. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-024",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "Steroids in preterm labour act by:",
+   "opts": [
+    "Surfactant maturation",
+    "Uterine relaxation only",
+    "Cervical ripening",
+    "Antibiotic synergy"
+   ],
+   "ans": 0,
+   "exp": "The use-5 line: preterm labour - surfactant maturation. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-025",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "The total steroid dose written for preterm labour is:",
+   "opts": [
+    "24 mg in 48 hrs",
+    "12 mg in 24 hrs",
+    "6 mg in 48 hrs",
+    "36 mg in 72 hrs"
+   ],
+   "ans": 0,
+   "exp": "The dose line: 24 mg in 48 hrs. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-026",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "The dexamethasone regimen for preterm labour is:",
+   "opts": [
+    "4 times (6 mg q6h)",
+    "2 times (12 mg q24h)",
+    "4 times (12 mg q6h)",
+    "Single 24 mg dose"
+   ],
+   "ans": 0,
+   "exp": "The dose block: dexamethasone 4 times (6 mg q6h). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-027",
+   "sec": "Uses of Glucocorticoids",
+   "page": 222,
+   "q": "The betamethasone regimen for preterm labour is:",
+   "opts": [
+    "2 times (12 mg q24h)",
+    "4 times (6 mg q6h)",
+    "2 times (6 mg q12h)",
+    "3 times (8 mg q8h)"
+   ],
+   "ans": 0,
+   "exp": "The dose block: betamethasone 2 times (12 mg q24h). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-028",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Topical steroid use in the eye causes:",
+   "opts": [
+    "Glaucoma",
+    "Posterior sub-capsular cataract",
+    "Optic neuritis",
+    "Papilledema"
+   ],
+   "ans": 0,
+   "exp": "The eye block: topical - glaucoma. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-029",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Systemic steroid eye side effect is:",
+   "opts": [
+    "Cataract (posterior sub-capsular)",
+    "Open angle glaucoma",
+    "Retinopathy",
+    "Uveitis"
+   ],
+   "ans": 0,
+   "exp": "The eye block: systemic - cataract (posterior sub-capsular). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-030",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Long term steroid brain effects are:",
+   "opts": [
+    "Psychosis, depression, insomnia",
+    "Seizures and tremor",
+    "Parkinsonism",
+    "Memory improvement"
+   ],
+   "ans": 0,
+   "exp": "The brain block: psychosis, depression, insomnia. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-031",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "The GIT side effect of steroids is:",
+   "opts": [
+    "Gastric ulcers",
+    "Osmotic diarrhea",
+    "Pancreatitis",
+    "Esophageal varices"
+   ],
+   "ans": 0,
+   "exp": "The GIT label: gastric ulcers. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-032",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "The muscle side effect of steroids is:",
+   "opts": [
+    "Myopathy",
+    "Rhabdomyolysis",
+    "Myotonia",
+    "Malignant hyperthermia"
+   ],
+   "ans": 0,
+   "exp": "The muscle label: myopathy. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-033",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Steroid osteoporosis occurs due to:",
+   "opts": [
+    "Increased Ca++ excretion",
+    "Decreased Ca++ excretion",
+    "Increased Ca++ absorption",
+    "Vitamin D excess"
+   ],
+   "ans": 0,
+   "exp": "The bone label: osteoporosis (D/t increased Ca++ excretion). (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-034",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Hypercalcemia is a secondary use of steroids because they:",
+   "opts": [
+    "Increase Ca++ excretion",
+    "Increase Ca++ absorption",
+    "Stimulate osteoblasts",
+    "Increase vitamin D"
+   ],
+   "ans": 0,
+   "exp": "The bone note: secondary use of steroids - hypercalcemia. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-035",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Skin effects of steroids include:",
+   "opts": [
+    "Thin skin and multiple bruises",
+    "Hyperpigmentation and thick skin",
+    "Alopecia with scarring",
+    "Ichthyosis"
+   ],
+   "ans": 0,
+   "exp": "The skin block: thin skin, multiple bruises. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-036",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Which Cushing feature relates to hair?",
+   "opts": [
+    "Thinning of hair",
+    "Hypertrichosis",
+    "Curly regrowth",
+    "Early greying"
+   ],
+   "ans": 0,
+   "exp": "The label at the head: thinning of hair. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-037",
+   "sec": "Side Effects: Cushing's Syndrome",
+   "page": 222,
+   "q": "Abdominal striae in Cushing's syndrome are:",
+   "opts": [
+    "Purple-red stretch marks from skin thinning",
+    "Surgical scars",
+    "Bruises over the abdomen only",
+    "Linear rashes from allergy"
+   ],
+   "ans": 0,
+   "exp": "The figure labels abdominal striae as a body wall feature of Cushing's syndrome. (Book p222)"
+  },
+  {
+   "id": "PHARM-C55-038",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "Steroids decrease production of:",
+   "opts": [
+    "GLUT-4",
+    "Insulin",
+    "Glucagon",
+    "SGLT-2"
+   ],
+   "ans": 0,
+   "exp": "The metabolic block: decreased GLUT 4 production. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-039",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "The hyperglycemia caused by steroids progresses to:",
+   "opts": [
+    "Diabetes mellitus",
+    "Diabetic ketoacidosis only",
+    "Hypoglycemia",
+    "Metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "The flow: hyperglycemia then diabetes mellitus. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-040",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "The appearance of steroid lipodystrophy is described as:",
+   "opts": [
+    "Lemon on stick",
+    "Buffalo on stick",
+    "Apple on table",
+    "Pear shape"
+   ],
+   "ans": 0,
+   "exp": "The lipodystrophy line: lemon on stick appearances. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-041",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "Central obesity in steroid lipodystrophy is due to:",
+   "opts": [
+    "Increased insulin blocking lipolysis",
+    "Increased GLUT-4 in adipose",
+    "Decreased cortisol receptor",
+    "Enhanced lipolysis centrally"
+   ],
+   "ans": 0,
+   "exp": "The chain: increased insulin blocks lipolysis, leading to central obesity. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-042",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "Thin extremities develop because:",
+   "opts": [
+    "Decreased GLUT-4 in limbs (glucose unavailable) causes lipolysis",
+    "Muscle hypertrophy burns fat",
+    "Insulin acts only centrally",
+    "Limb vessels are spared"
+   ],
+   "ans": 0,
+   "exp": "The chain: decreased GLUT 4 in limbs (glucose unavailable), lipolysis, thin extremities. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-043",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "The third feature of steroid lipodystrophy listed is:",
+   "opts": [
+    "Buffalo hump",
+    "Moon face only",
+    "Supraclavicular sparing",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "Item 3: buffalo hump. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-044",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "The contraindication of steroids written is:",
+   "opts": [
+    "Infections",
+    "Pregnancy",
+    "Diabetes",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "The C/I line: infections. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-045",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "Exceptions where steroids are allowed despite infection are:",
+   "opts": [
+    "H. influenzae meningitis and Covid pneumonia",
+    "Pulmonary TB and fungal sepsis",
+    "Chickenpox and herpes zoster",
+    "All bacterial meningitis"
+   ],
+   "ans": 0,
+   "exp": "The exception list: H. influenza meningitis; covid pneumonia. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-046",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions",
+   "page": 223,
+   "q": "In Covid pneumonia, steroids are notable as:",
+   "opts": [
+    "The only drug that decreases mortality",
+    "The only antiviral",
+    "Purely symptomatic agents",
+    "Contraindicated"
+   ],
+   "ans": 0,
+   "exp": "The red note: covid pneumonia - only drug that decreases mortality. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-047",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "Fludrocortisone is chemically:",
+   "opts": [
+    "Hydrocortisone + fluorine",
+    "Cortisol + methyl group",
+    "Prednisolone + double bond",
+    "Aldosterone acetate"
+   ],
+   "ans": 0,
+   "exp": "The line: fludrocortisone (exogenous) - hydrocortisone + flourine. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-048",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "The effect profile of fludrocortisone is:",
+   "opts": [
+    "Glucocorticoid 15x, mineralocorticoid 150x",
+    "Glucocorticoid 150x, mineralocorticoid 15x",
+    "Glucocorticoid 0, mineralocorticoid 500x",
+    "Glucocorticoid 30x, mineralocorticoid 0"
+   ],
+   "ans": 0,
+   "exp": "The effect block: glucocorticoid 15x, mineralocorticoid 150x. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-049",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "In adrenal insufficiency (Addison's disease), the regimen is:",
+   "opts": [
+    "Hydrocortisone + fludrocortisone",
+    "Fludrocortisone alone",
+    "Aldosterone + hydrocortisone",
+    "Dexamethasone + fludrocortisone"
+   ],
+   "ans": 0,
+   "exp": "The use line: adrenal insufficiency (Addison's disease) - hydrocortisone + fludrocortisone. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-050",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "In postural hypotension, fludrocortisone is used but the DOC is:",
+   "opts": [
+    "Midodrine",
+    "Fludrocortisone",
+    "Aldosterone",
+    "Dexamethasone"
+   ],
+   "ans": 0,
+   "exp": "The use line: postural hypotension (DOC midodrine). (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-051",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "The endogenous mineralocorticoid is:",
+   "opts": [
+    "Aldosterone",
+    "Fludrocortisone",
+    "Cortisol",
+    "Desoxycorticosterone"
+   ],
+   "ans": 0,
+   "exp": "The block: aldosterone (endogenous). (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-052",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "Aldosterone's effect profile is:",
+   "opts": [
+    "Glucocorticoid 0, mineralocorticoid 500x",
+    "Glucocorticoid 15x, mineralocorticoid 150x",
+    "Glucocorticoid 1x, mineralocorticoid 1x",
+    "Glucocorticoid 0, mineralocorticoid 150x"
+   ],
+   "ans": 0,
+   "exp": "The effect block: glucocorticoid 0, mineralocorticoid 500x. (Book p223)"
+  },
+  {
+   "id": "PHARM-C55-053",
+   "sec": "Mineralocorticoids",
+   "page": 223,
+   "q": "The pure & most potent mineralocorticoid is:",
+   "opts": [
+    "Aldosterone",
+    "Fludrocortisone",
+    "Dexamethasone",
+    "Triamcinolone"
+   ],
+   "ans": 0,
+   "exp": "The note: mineralocorticoid 500x (pure & most potent mineralocorticoid). (Book p223)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U55-1",
+   "ch": 55,
+   "n": 1,
+   "title": "Development of Glucocorticoids",
+   "sec": "Development of Glucocorticoids · p221",
+   "qs": [
+    "PHARM-C55-001",
+    "PHARM-C55-002",
+    "PHARM-C55-003",
+    "PHARM-C55-004",
+    "PHARM-C55-005",
+    "PHARM-C55-006",
+    "PHARM-C55-007",
+    "PHARM-C55-008",
+    "PHARM-C55-009",
+    "PHARM-C55-010",
+    "PHARM-C55-011",
+    "PHARM-C55-012",
+    "PHARM-C55-013",
+    "PHARM-C55-014",
+    "PHARM-C55-015",
+    "PHARM-C55-016"
+   ],
+   "guide": "Endogenous cortisol replicated ex-vivo gives hydrocortisone - least potent, shortest acting (t½ 8-12 h), glucocorticoid 1x and mineralocorticoid 1x; it is DOC for replacement in Addison's disease and CAH after birth, but gives insufficient immune suppression. Adding a double bond gives prednisone/prednisolone (t½ 12-36 h; glucocorticoid 4x, mineralocorticoid 0.8x); adding a methyl group (water soluble) gives methylprednisolone (glucocorticoid 5x, mineralocorticoid 0.8x). Adding fluoride gives triamcinolone (pure glucocorticoid 5x, mineralocorticoid 0, minimal BP effect) and betamethasone/dexamethasone (t½ 36-72 h, glucocorticoid 30x, mineralocorticoid 0) - dexamethasone being longest acting and most potent."
+  },
+  {
+   "id": "PHARM-U55-2",
+   "ch": 55,
+   "n": 2,
+   "title": "Uses of Glucocorticoids",
+   "sec": "Uses of Glucocorticoids · p222",
+   "qs": [
+    "PHARM-C55-017",
+    "PHARM-C55-018",
+    "PHARM-C55-019",
+    "PHARM-C55-020",
+    "PHARM-C55-021",
+    "PHARM-C55-022",
+    "PHARM-C55-023",
+    "PHARM-C55-024",
+    "PHARM-C55-025",
+    "PHARM-C55-026",
+    "PHARM-C55-027"
+   ],
+   "guide": "Glucocorticoids decrease inflammation by reducing production of inflammatory mediators (IL-1, IL-6, TNF-alpha), raising anti-inflammatory mediators (IL-10, Annexin 1) and causing lymphocyte redistribution and apoptosis - e.g. rheumatoid arthritis, gout, ankylosing spondylitis. They decrease immunity - e.g. graft vs host disease, graft rejection, myasthenia gravis - and treat neoplasia such as leukemia and lymphoma. Dexamethasone is given in CAH fetus to prevent virilization; in preterm labour steroids mature surfactant, dosed 24 mg over 48 hours - dexamethasone 4 times (6 mg q6h) or betamethasone 2 times (12 mg q24h)."
+  },
+  {
+   "id": "PHARM-U55-3",
+   "ch": 55,
+   "n": 3,
+   "title": "Side Effects: Cushing's Syndrome",
+   "sec": "Side Effects: Cushing's Syndrome · p222",
+   "qs": [
+    "PHARM-C55-028",
+    "PHARM-C55-029",
+    "PHARM-C55-030",
+    "PHARM-C55-031",
+    "PHARM-C55-032",
+    "PHARM-C55-033",
+    "PHARM-C55-034",
+    "PHARM-C55-035",
+    "PHARM-C55-036",
+    "PHARM-C55-037"
+   ],
+   "guide": "Cushing's syndrome effects by organ: eye - topical steroids cause glaucoma while systemic use causes posterior sub-capsular cataract; brain (long term use) - psychosis, depression, insomnia; thinning of hair; GIT - gastric ulcers; muscle - myopathy; abdominal striae; bone - osteoporosis from increased Ca++ excretion (hypercalcemia being a secondary use of steroids); skin - thin skin and multiple bruises."
+  },
+  {
+   "id": "PHARM-U55-4",
+   "ch": 55,
+   "n": 4,
+   "title": "Metabolic Side Effects, Contraindications and Exceptions",
+   "sec": "Metabolic Side Effects, Contraindications and Exceptions · p223",
+   "qs": [
+    "PHARM-C55-038",
+    "PHARM-C55-039",
+    "PHARM-C55-040",
+    "PHARM-C55-041",
+    "PHARM-C55-042",
+    "PHARM-C55-043",
+    "PHARM-C55-044",
+    "PHARM-C55-045",
+    "PHARM-C55-046"
+   ],
+   "guide": "Steroids decrease GLUT-4 production causing hyperglycemia that progresses to diabetes mellitus, and lipodystrophy with lemon-on-stick appearance: raised insulin blocks lipolysis causing central obesity, while decreased GLUT-4 in limbs (glucose unavailable) drives lipolysis and thin extremities; buffalo hump completes the picture. Contraindication is infections, with exceptions: H. influenzae meningitis and Covid pneumonia - the only drug that decreases mortality."
+  },
+  {
+   "id": "PHARM-U55-5",
+   "ch": 55,
+   "n": 5,
+   "title": "Mineralocorticoids",
+   "sec": "Mineralocorticoids · p223",
+   "qs": [
+    "PHARM-C55-047",
+    "PHARM-C55-048",
+    "PHARM-C55-049",
+    "PHARM-C55-050",
+    "PHARM-C55-051",
+    "PHARM-C55-052",
+    "PHARM-C55-053"
+   ],
+   "guide": "Fludrocortisone is exogenous - hydrocortisone plus fluorine - with glucocorticoid 15x and mineralocorticoid 150x effects; uses: adrenal insufficiency (Addison's disease) as hydrocortisone plus fludrocortisone, and postural hypotension (whose DOC is midodrine). Aldosterone is endogenous with glucocorticoid 0 and mineralocorticoid 500x - the pure and most potent mineralocorticoid."
+  }
+ ]
+}

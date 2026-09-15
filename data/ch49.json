@@ -1,0 +1,1571 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C49-001",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "Asymptomatic intestinal amoebiasis is treated with:",
+   "opts": [
+    "Luminal amoebicidal drugs (act within lumen)",
+    "Only metronidazole",
+    "Chloroquine",
+    "Emetine"
+   ],
+   "ans": 0,
+   "exp": "The intestinal-asymptomatic branch: drugs luminal amoebicidal drugs (act within lumen). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-002",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "Which is NOT listed as a luminal amoebicidal drug?",
+   "opts": [
+    "Metronidazole",
+    "Diloxanide furoate",
+    "Iodoquinol",
+    "Paromomycin"
+   ],
+   "ans": 0,
+   "exp": "The luminal list: diloxanide furoate, iodoquinol, paromomycin. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-003",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "The DOC among luminal amoebicidal drugs is:",
+   "opts": [
+    "Paromomycin",
+    "Diloxanide furoate",
+    "Iodoquinol",
+    "Emetine"
+   ],
+   "ans": 0,
+   "exp": "The list marks paromomycin (DOC). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-004",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "The aim of treating asymptomatic luminal amoebiasis is:",
+   "opts": [
+    "Radical cure",
+    "Symptom relief only",
+    "Suppression of cysts for life",
+    "Prevention of hepatic spread only"
+   ],
+   "ans": 0,
+   "exp": "Below the luminal drugs: aim - radical cure. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-005",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "Drugs listed for symptomatic intestinal amoebiasis include:",
+   "opts": [
+    "Nitazoxanide, emetine, metronidazole (DOC)",
+    "Diloxanide furoate, iodoquinol, paromomycin",
+    "Chloroquine only",
+    "Sodium stibogluconate"
+   ],
+   "ans": 0,
+   "exp": "The symptomatic branch lists nitazoxanide, emetine, metronidazole (DOC). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-006",
+   "sec": "Amoebiasis",
+   "page": 199,
+   "q": "Chloroquine in amoebiasis is used only for:",
+   "opts": [
+    "Hepatic (extra-intestinal) amoebiasis",
+    "Luminal intestinal amoebiasis",
+    "Asymptomatic cyst passers",
+    "Amoebic colitis"
+   ],
+   "ans": 0,
+   "exp": "The extra-intestinal branch: chloroquine (only for hepatic). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-007",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "The nitroimidazole that is DOC in India is:",
+   "opts": [
+    "Metronidazole",
+    "Tinidazole",
+    "Secnidazole",
+    "Satranidazole"
+   ],
+   "ans": 0,
+   "exp": "The drug list marks metronidazole (DOC in India). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-008",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "Tinidazole is DOC in:",
+   "opts": [
+    "Western countries",
+    "India",
+    "North-eastern states only",
+    "Africa"
+   ],
+   "ans": 0,
+   "exp": "The list marks tinidazole (DOC in western countries). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-009",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "Which drug listed under nitroimidazoles is used in American trypanosomiasis?",
+   "opts": [
+    "Benznidazole",
+    "Secnidazole",
+    "Metronidazole",
+    "Tinidazole"
+   ],
+   "ans": 0,
+   "exp": "Benznidazole appears in the nitroimidazole list; it is the Chagas DOC on p200. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-010",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "The MOA of nitroimidazoles is:",
+   "opts": [
+    "Free radical production",
+    "Blocking microtubules",
+    "Inhibiting PFOR enzyme",
+    "Inhibiting DNA gyrase"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: free radical production. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-011",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "TOC for amoebiasis is:",
+   "opts": [
+    "Metronidazole followed by paromomycin",
+    "Paromomycin followed by metronidazole",
+    "Metronidazole followed by chloroquine",
+    "Tinidazole followed by emetine"
+   ],
+   "ans": 0,
+   "exp": "The line: TOC for amoebiasis - metronidazole f/b paromomycin. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-012",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "A nitroimidazole side effect requiring alcohol abstinence is:",
+   "opts": [
+    "Disulfiram-like reaction",
+    "Green urine",
+    "Bull's eye retinopathy",
+    "Hemolysis"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line: disulfiram-like reaction (C/I with alcohol). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-013",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "The urine color change with nitroimidazoles is:",
+   "opts": [
+    "Red-brown urine",
+    "Green urine",
+    "Orange-red urine",
+    "Black urine"
+   ],
+   "ans": 0,
+   "exp": "The second side effect: red-brown urine. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-014",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "Metronidazole covers anaerobes located:",
+   "opts": [
+    "Infra-diaphragmatic",
+    "Supra-diaphragmatic",
+    "Only intra-abdominal",
+    "Only pelvic"
+   ],
+   "ans": 0,
+   "exp": "The uses list: anaerobes (infra diaphragmatic). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-015",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "Metronidazole is the DOC in all EXCEPT:",
+   "opts": [
+    "Amoebic liver abscess",
+    "Trichomoniasis",
+    "Bacterial vaginosis",
+    "Ascariasis"
+   ],
+   "ans": 0,
+   "exp": "Uses listed: giardiasis, amoebiasis, anaerobes, tetanus, trichomoniasis, bacterial vaginosis. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-016",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "The surgical prophylaxis combination for infra-diaphragmatic surgery is:",
+   "opts": [
+    "Cefazolin + metronidazole",
+    "Ceftriaxone + metronidazole",
+    "Ampicillin + gentamicin",
+    "Clindamycin + gentamicin"
+   ],
+   "ans": 0,
+   "exp": "The note: cefazolin + metronidazole - surgical prophylaxis (infra diaphragm). (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-017",
+   "sec": "Nitroimidazoles",
+   "page": 199,
+   "q": "Bacterial vaginosis shows:",
+   "opts": [
+    "Clue cells in foul-smelling, dirty white discharge",
+    "Strawberry cervix",
+    "Bull's eye rash",
+    "Green urine"
+   ],
+   "ans": 0,
+   "exp": "The note: bacterial vaginosis - clue cells in foul-smelling, dirty white discharge. (Book p199)"
+  },
+  {
+   "id": "PHARM-C49-018",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The spectrum of nitazoxanide includes all EXCEPT:",
+   "opts": [
+    "Anti-fungal",
+    "Anti-protozoal",
+    "Anti-helminthic",
+    "Anti-viral"
+   ],
+   "ans": 0,
+   "exp": "The spectrum bracket: anti-protozoal, anti-helminthic, anti-bacterial, anti-viral. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-019",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The side effect of nitazoxanide is:",
+   "opts": [
+    "Green urine",
+    "Red-brown urine",
+    "Red-orange urine",
+    "Blue urine"
+   ],
+   "ans": 0,
+   "exp": "The line: side effect green urine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-020",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The DOC in resistant giardiasis is:",
+   "opts": [
+    "Nitazoxanide",
+    "Metronidazole",
+    "Tinidazole",
+    "Paromomycin"
+   ],
+   "ans": 0,
+   "exp": "Other uses: DOC in resistant giardiasis. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-021",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The off-label use of nitazoxanide is:",
+   "opts": [
+    "H. pylori infection (D/t resistance to macrolides)",
+    "Amoebic hepatitis",
+    "Malaria prophylaxis",
+    "Chagas disease"
+   ],
+   "ans": 0,
+   "exp": "The note: off label use H. pylori infection (D/t resistance to macrolides). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-022",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The DOC of cryptosporidiasis is:",
+   "opts": [
+    "Nitazoxanide",
+    "Metronidazole",
+    "Paromomycin",
+    "Albendazole"
+   ],
+   "ans": 0,
+   "exp": "The cryptosporidiasis block: nitazoxanide (DOC). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-023",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "Nitazoxanide was sourced from:",
+   "opts": [
+    "Niclosamide (anti-helminthic drug)",
+    "Metronidazole",
+    "Chloroquine",
+    "Emetine"
+   ],
+   "ans": 0,
+   "exp": "The source line: niclosamide (anti-helminthic drug). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-024",
+   "sec": "Nitazoxanide",
+   "page": 200,
+   "q": "The MOA of nitazoxanide is:",
+   "opts": [
+    "Inhibits PFOR enzyme, blocking electron transport",
+    "Free radical production only",
+    "Inhibits ATP synthase",
+    "Binds haemoglobin"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: inhibits PFOR enzyme - blocks electron transport. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-025",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "The DOC of visceral leishmaniasis (kala azar) is:",
+   "opts": [
+    "IV liposomal amphotericin B (LAmB)",
+    "Oral miltefosine",
+    "Sodium stibogluconate",
+    "Pentamidine"
+   ],
+   "ans": 0,
+   "exp": "The visceral DOC: IV liposomal amphotericin B (LAmB). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-026",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "Liposomal amphotericin B is preferred over conventional formulations because of:",
+   "opts": [
+    "Decreased nephrotoxicity",
+    "Decreased hepatotoxicity",
+    "Better oral absorption",
+    "Lower cost"
+   ],
+   "ans": 0,
+   "exp": "The parenthetical under LAmB: decreased nephrotoxicity. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-027",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "The oral drug for visceral leishmaniasis is:",
+   "opts": [
+    "Miltefosine",
+    "Sitamaquine",
+    "Paromomycin",
+    "Sodium stibogluconate"
+   ],
+   "ans": 0,
+   "exp": "The visceral block: oral - miltefosine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-028",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "The DOC for post-kala azar dermal leishmaniasis is:",
+   "opts": [
+    "Miltefosine",
+    "LAmB",
+    "Sodium stibogluconate",
+    "Pentamidine"
+   ],
+   "ans": 0,
+   "exp": "The note: miltefosine - also DOC for post-kala azar dermal leishmaniasis. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-029",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "Side effects of miltefosine include:",
+   "opts": [
+    "Nausea, vomiting and diarrhea",
+    "Hemolysis and methemoglobinemia",
+    "Bull's eye retinopathy",
+    "QT prolongation"
+   ],
+   "ans": 0,
+   "exp": "The side-effect bracket: nausea & vomiting, diarrhea. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-030",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "Miltefosine is contraindicated in pregnancy because it is:",
+   "opts": [
+    "Teratogenic",
+    "Abortifacient only",
+    "Nephrotoxic",
+    "Hepatotoxic"
+   ],
+   "ans": 0,
+   "exp": "The C/I line: pregnancy (D/t teratogenic effect). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-031",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "Which is an alternative drug for visceral leishmaniasis?",
+   "opts": [
+    "Sitamaquine",
+    "Sodium stibogluconate",
+    "Fexinidazole",
+    "Suramin"
+   ],
+   "ans": 0,
+   "exp": "The alternatives list: paromomycin, pentamidine, sitamaquine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-032",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "The DOC of cutaneous leishmaniasis is:",
+   "opts": [
+    "Sodium stibogluconate",
+    "Miltefosine",
+    "LAmB",
+    "Sitamaquine"
+   ],
+   "ans": 0,
+   "exp": "The cutaneous branch: DOC sodium stibogluconate. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-033",
+   "sec": "Leishmaniasis",
+   "page": 200,
+   "q": "Which is an alternative drug for cutaneous leishmaniasis?",
+   "opts": [
+    "Pentamidine",
+    "Miltefosine",
+    "Suramin",
+    "Eflornithine"
+   ],
+   "ans": 0,
+   "exp": "Cutaneous alternatives: LAmB, paromomycin, pentamidine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-034",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "Early East African sleeping sickness is treated with:",
+   "opts": [
+    "IV suramin",
+    "IV pentamidine",
+    "IV melarsoprol",
+    "IV eflornithine"
+   ],
+   "ans": 0,
+   "exp": "The East African early branch: IV suramin. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-035",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "Late East African trypanosomiasis is treated with:",
+   "opts": [
+    "IV melarsoprol",
+    "IV suramin",
+    "IV pentamidine",
+    "Oral fexinidazole only"
+   ],
+   "ans": 0,
+   "exp": "The East African late branch: IV melarsoprol. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-036",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "Early West African sleeping sickness is treated with:",
+   "opts": [
+    "IV pentamidine",
+    "IV suramin",
+    "IV eflornithine",
+    "IV melarsoprol"
+   ],
+   "ans": 0,
+   "exp": "The West African early branch: IV pentamidine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-037",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "Late West African trypanosomiasis is treated with:",
+   "opts": [
+    "IV eflornithine",
+    "IV pentamidine",
+    "IV suramin",
+    "Benznidazole"
+   ],
+   "ans": 0,
+   "exp": "The West African late branch: IV eflornithine. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-038",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "The oral alternative (approved 2018) for trypanosomiasis described as cheaper and easier is:",
+   "opts": [
+    "Fexinidazole",
+    "Nifurtimox",
+    "Miltefosine",
+    "Benznidazole"
+   ],
+   "ans": 0,
+   "exp": "The note: oral fexinidazole (approved 2018) - cheaper, easier alternative. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-039",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "African sleeping sickness is also called:",
+   "opts": [
+    "Sleeping sickness",
+    "Chagas disease",
+    "Kala azar",
+    "Guinea worm disease"
+   ],
+   "ans": 0,
+   "exp": "The branch heading: African (sleeping sickness). (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-040",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "The DOC of American trypanosomiasis (Chagas disease) is:",
+   "opts": [
+    "Benznidazole",
+    "Nifurtimox",
+    "Suramin",
+    "Miltefosine"
+   ],
+   "ans": 0,
+   "exp": "The American branch: DOC benznidazole. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-041",
+   "sec": "Trypanosomiasis",
+   "page": 200,
+   "q": "The alternative drug for Chagas disease is:",
+   "opts": [
+    "Nifurtimox",
+    "Fexinidazole",
+    "Eflornithine",
+    "Melarsoprol"
+   ],
+   "ans": 0,
+   "exp": "The American branch: alternative nifurtimox. (Book p200)"
+  },
+  {
+   "id": "PHARM-C49-042",
+   "sec": "Babesiosis",
+   "page": 201,
+   "q": "The current TOC for babesiosis (mild, moderate & severe) is:",
+   "opts": [
+    "Atovaquone + azithromycin",
+    "Quinine + clindamycin",
+    "Chloroquine + primaquine",
+    "Artesunate + clindamycin"
+   ],
+   "ans": 0,
+   "exp": "The TOC line: atovaquone + azithromycin (for mild, moderate & severe). (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-043",
+   "sec": "Babesiosis",
+   "page": 201,
+   "q": "In the earlier TOC, mild-to-moderate babesiosis was treated with:",
+   "opts": [
+    "Quinine + clindamycin",
+    "Atovaquone + azithromycin",
+    "Suramin",
+    "Pentamidine"
+   ],
+   "ans": 0,
+   "exp": "The note: earlier TOC - mild to moderate: quinine + clindamycin. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-044",
+   "sec": "Babesiosis",
+   "page": 201,
+   "q": "In the earlier TOC, severe babesiosis was treated with:",
+   "opts": [
+    "Atovaquone + azithromycin",
+    "Quinine + clindamycin",
+    "Mefloquine",
+    "Artesunate"
+   ],
+   "ans": 0,
+   "exp": "The note: severe - atovaquone + azithromycin. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-045",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "The infective form of Plasmodium for humans injected by the mosquito is:",
+   "opts": [
+    "Sporozoites",
+    "Merozoites",
+    "Gametocytes",
+    "Hypnozoites"
+   ],
+   "ans": 0,
+   "exp": "The diagram: sporozoites (infective form for humans) from the mosquito bite. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-046",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "Sporozoites first travel to and enter:",
+   "opts": [
+    "Liver",
+    "RBCs",
+    "Spleen",
+    "Bone marrow"
+   ],
+   "ans": 0,
+   "exp": "The cycle: travels via blood stream, enters hepatic schizont in liver. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-047",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "The dormant form within the hepatic schizont is the:",
+   "opts": [
+    "Hypnozoite",
+    "Gametocyte",
+    "Trophozoite",
+    "Sporozoite"
+   ],
+   "ans": 0,
+   "exp": "The liver diagram shows dormancy leading to hypnozoite. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-048",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "Rupture of erythrocytic schizonts within RBCs causes:",
+   "opts": [
+    "Fever and chills",
+    "Relapse",
+    "Transmission to mosquito",
+    "Hepatomegaly"
+   ],
+   "ans": 0,
+   "exp": "The cycle: rupture leads to symptoms - increased fever, chills. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-049",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "The infective form of Plasmodium for the mosquito is:",
+   "opts": [
+    "Gametocytes",
+    "Sporozoites",
+    "Merozoites",
+    "Hypnozoites"
+   ],
+   "ans": 0,
+   "exp": "The diagram: gametocytes (infective form for mosquito). (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-050",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "Gametocytes are taken up by the mosquito:",
+   "opts": [
+    "Ingested with blood meal",
+    "Through fecal contamination",
+    "Via salivary glands directly",
+    "Through skin penetration"
+   ],
+   "ans": 0,
+   "exp": "The cycle: gametocytes ingested with blood meal by mosquito. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-051",
+   "sec": "Plasmodium Life Cycle",
+   "page": 201,
+   "q": "Merozoites released from the liver infect:",
+   "opts": [
+    "RBCs",
+    "Liver cells again only",
+    "WBCs",
+    "Platelets"
+   ],
+   "ans": 0,
+   "exp": "The cycle: liver rupture releases merozoites which infect RBC. (Book p201)"
+  },
+  {
+   "id": "PHARM-C49-052",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Hypnozoiticidal drugs:",
+   "opts": [
+    "Prevent relapse",
+    "Block transmission",
+    "Treat acute RBC infection only",
+    "Prevent infection"
+   ],
+   "ans": 0,
+   "exp": "The hypnozoiticidal block: prevents relapse. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-053",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Hypnozoite-eradicating schedules written are:",
+   "opts": [
+    "Primaquine x 14 days or tafenoquine single dose",
+    "Chloroquine x 3 days",
+    "Artesunate x 7 days",
+    "Mefloquine weekly x 4"
+   ],
+   "ans": 0,
+   "exp": "The block: primaquine x 14 days; tafenoquine single dose. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-054",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Primaquine/tafenoquine given along with treatment achieves:",
+   "opts": [
+    "Radical cure",
+    "Terminal prophylaxis only",
+    "Blood schizontocidal cure",
+    "Transmission block only"
+   ],
+   "ans": 0,
+   "exp": "The bracket: along with treatment - radical cure. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-055",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The alternative purpose of the primaquine/tafenoquine course named is:",
+   "opts": [
+    "Terminal prophylaxis",
+    "Causal prophylaxis",
+    "Suppressive therapy",
+    "Pre-erythrocytic vaccine effect"
+   ],
+   "ans": 0,
+   "exp": "The bracket lists radical cure and terminal prophylaxis. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-056",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Hypnozoites are seen ONLY in:",
+   "opts": [
+    "Vivax and ovale",
+    "Falciparum and vivax",
+    "Malariae and ovale",
+    "All species"
+   ],
+   "ans": 0,
+   "exp": "The block: hypnozoite seen only in vivax, ovale. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-057",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Gametocidal drugs act by:",
+   "opts": [
+    "Blocking transmission of malaria",
+    "Preventing relapse",
+    "Curing acute infection",
+    "Blocking liver entry"
+   ],
+   "ans": 0,
+   "exp": "The block: gametocidal drugs - blocks transmission of malaria. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-058",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Drugs listed as gametocidal are:",
+   "opts": [
+    "Primaquine and artemisinin group",
+    "Chloroquine and quinine",
+    "Mefloquine and doxycycline",
+    "Sulfadoxine-pyrimethamine only"
+   ],
+   "ans": 0,
+   "exp": "The block: primaquine, artemisinin group of drugs. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-059",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The regimen for treatment of malaria is:",
+   "opts": [
+    "1 fast acting + 1 slow acting",
+    "2 fast acting drugs",
+    "Only slow acting drugs",
+    "3 fast acting drugs"
+   ],
+   "ans": 0,
+   "exp": "The line: 1 fast acting + 1 slow acting. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-060",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The most potent and fastest acting schizontocidal drugs are:",
+   "opts": [
+    "Artemisinin group",
+    "Chloroquine",
+    "Quinine",
+    "Mefloquine"
+   ],
+   "ans": 0,
+   "exp": "The artemisinin block: most potent and fastest acting schizontocidal drugs. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-061",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The MOA of artemisinins is:",
+   "opts": [
+    "Free radical production (C/I in 1st trimester of pregnancy)",
+    "Heme polymerase inhibition",
+    "DHFR inhibition",
+    "Block of K+ channels"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: free radical production, C/I in 1st trimester of pregnancy. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-062",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Which artemisinin is available both IV and oral?",
+   "opts": [
+    "Artesunate",
+    "Artemether",
+    "Dihydroartemisinin",
+    "Arteether"
+   ],
+   "ans": 0,
+   "exp": "The drug list: artesunate IV & oral; artemether and DHA only oral. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-063",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The artemisinins that are ONLY oral are:",
+   "opts": [
+    "Artemether and dihydroartemisinin",
+    "Artesunate only",
+    "Artesunate and artemether",
+    "DHA and artesunate"
+   ],
+   "ans": 0,
+   "exp": "The bracket groups artemether and dihydroartemisinin as only oral. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-064",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The disadvantage of artemisinins due to short action:",
+   "opts": [
+    "Cannot be used as monotherapy or prophylaxis",
+    "Cannot be combined with other drugs",
+    "Cannot be given IV",
+    "Cannot be used in children"
+   ],
+   "ans": 0,
+   "exp": "The disadvantage block: can't be used as monotherapy; can't be used for prophylaxis. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-065",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "The DOC for severe falciparum malaria is:",
+   "opts": [
+    "Continuous IV infusion artesunate for 48 hr (followed by treatment regimen)",
+    "IM artemether for 3 days",
+    "Oral quinine for 7 days",
+    "IV chloroquine infusion"
+   ],
+   "ans": 0,
+   "exp": "The uses block: severe falciparum malaria DOC - continuous IV artesunate 48 hr followed by treatment regimen. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-066",
+   "sec": "Stages of Drug Action and Artemisinins",
+   "page": 202,
+   "q": "Besides severe falciparum malaria, artemisinins are used in:",
+   "opts": [
+    "Uncomplicated malaria",
+    "Vivax relapse only",
+    "Malaria prophylaxis",
+    "Babesiosis prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "The second use: uncomplicated malaria. (Book p202)"
+  },
+  {
+   "id": "PHARM-C49-067",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "TOC of vivax malaria is:",
+   "opts": [
+    "Chloroquine (DOC) x 3 d + primaquine x 14 d/tafenoquine single dose",
+    "ACT for 3 days",
+    "Quinine + clindamycin",
+    "Artesunate IV x 7 days"
+   ],
+   "ans": 0,
+   "exp": "The vivax branch: chloroquine (DOC) x 3 d + primaquine x 14 d/tafenoquine single dose. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-068",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "In pregnant vivax malaria, primaquine/tafenoquine is:",
+   "opts": [
+    "Given post-partum (not safe)",
+    "Given in reduced dose",
+    "Given in first trimester only",
+    "Replaced by chloroquine"
+   ],
+   "ans": 0,
+   "exp": "The vivax branch: pregnant - given post-partum (not safe). (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-069",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "In chloroquine-resistant falciparum malaria, the first-trimester pregnant woman gets:",
+   "opts": [
+    "Quinine (DOC) + clindamycin",
+    "ACT",
+    "Quinine + doxycycline",
+    "Sulfadoxine-pyrimethamine"
+   ],
+   "ans": 0,
+   "exp": "The pregnant female branch: 1st trimester quinine (DOC) + clindamycin. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-070",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "A second/third trimester pregnant woman with falciparum malaria gets:",
+   "opts": [
+    "ACT",
+    "Quinine (DOC) + clindamycin",
+    "Quinine + tetracycline",
+    "Chloroquine"
+   ],
+   "ans": 0,
+   "exp": "The pregnant branch: 2nd & 3rd trimester - ACT. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-071",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "The ACT combination for ALL Indian states is:",
+   "opts": [
+    "Oral artesunate + sulfadoxine + pyrimethamine",
+    "Oral artemether + lumefantrine",
+    "Artesunate + clindamycin",
+    "Artemether + primaquine"
+   ],
+   "ans": 0,
+   "exp": "ACT list item 1: artesunate + SP - all Indian states. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-072",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "The ACT combination reserved for NORTH-EASTERN states is:",
+   "opts": [
+    "Oral artemether + lumefantrine",
+    "Oral artesunate + sulfadoxine + pyrimethamine",
+    "Artemether + doxycycline",
+    "Artesunate + mefloquine"
+   ],
+   "ans": 0,
+   "exp": "ACT list item 2: artemether + lumefantrine - north-eastern states. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-073",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "In the normal population with falciparum malaria, alternatives to ACT include:",
+   "opts": [
+    "Quinine + one of tetracycline/doxycycline/clindamycin",
+    "Chloroquine + primaquine",
+    "Artemether + SP",
+    "Mefloquine monotherapy"
+   ],
+   "ans": 0,
+   "exp": "The normal population branch: ACT, alternatives quinine + one of tetracycline, doxycycline, clindamycin. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-074",
+   "sec": "Treatment of Uncomplicated Malaria",
+   "page": 203,
+   "q": "Among the quinine-combination alternatives for falciparum malaria, the drugs NOT safe in pregnancy are:",
+   "opts": [
+    "Tetracycline and doxycycline",
+    "Clindamycin and quinine",
+    "Tetracycline and clindamycin",
+    "All three alternatives"
+   ],
+   "ans": 0,
+   "exp": "The bracket marks tetracycline/doxycycline not safe in pregnancy. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-075",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "The MOA of chloroquine is:",
+   "opts": [
+    "Binds to haemoglobin leading to toxic haem products",
+    "Free radical production",
+    "Inhibits PFOR enzyme",
+    "Blocks microtubules"
+   ],
+   "ans": 0,
+   "exp": "The chloroquine block: MOA binds to haemoglobin - toxic haem products. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-076",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Mechanism of chloroquine resistance is:",
+   "opts": [
+    "Drug efflux from vacuole of cells",
+    "Drug inactivation by catalase",
+    "Target gene amplification",
+    "Ribosomal mutation"
+   ],
+   "ans": 0,
+   "exp": "The block: mechanism of resistance - drug efflux from vacuole of cells. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-077",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "An INFECTIOUS use of chloroquine listed besides malaria is:",
+   "opts": [
+    "Hepatic amoebiasis",
+    "Giardiasis",
+    "Babesiosis",
+    "Trypanosomiasis"
+   ],
+   "ans": 0,
+   "exp": "Infectious uses: malaria, hepatic amoebiasis, infectious mononucleosis. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-078",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Which NON-infectious use of chloroquine is listed?",
+   "opts": [
+    "Rheumatoid arthritis",
+    "Gout",
+    "Psoriasis",
+    "Atopic dermatitis"
+   ],
+   "ans": 0,
+   "exp": "Non-infectious uses: RA, SLE, discoid LE, porphyria cutanea tarda. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-079",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Chloroquine is used in all of these non-infectious conditions EXCEPT:",
+   "opts": [
+    "Porphyria cutanea tarda",
+    "SLE",
+    "Discoid LE",
+    "Lichen planus"
+   ],
+   "ans": 0,
+   "exp": "The list has RA, SLE, discoid LE, porphyria cutanea tarda. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-080",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "The characteristic ocular side effect of chloroquine is:",
+   "opts": [
+    "Bull's eye retinopathy",
+    "Optic neuritis",
+    "Red-green color blindness",
+    "Uveitis"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line: bull's eye retinopathy. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-081",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Bull's eye retinopathy of chloroquine shows:",
+   "opts": [
+    "Multiple concentric circles + whorl-like corneal deposits",
+    "Optic disc pallor only",
+    "Retinal hemorrhages",
+    "Cherry red spot"
+   ],
+   "ans": 0,
+   "exp": "The description: multiple concentric circles + whorl-like corneal deposits. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-082",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Quinine is used in:",
+   "opts": [
+    "Resistant malaria",
+    "Uncomplicated vivax malaria as DOC",
+    "Malaria prophylaxis",
+    "Babesiosis as TOC"
+   ],
+   "ans": 0,
+   "exp": "The quinine block: use - resistant malaria. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-083",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Quinine's alpha-blocker side effect causes:",
+   "opts": [
+    "Hypotension",
+    "Hypertension",
+    "Bradycardia",
+    "Uterine contraction"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: alpha blocker - hypotension. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-084",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Quinine increases insulin release causing:",
+   "opts": [
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Ketoacidosis",
+    "Insulin resistance"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: increased insulin release - hypoglycemia. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-085",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Quinine blocks K+ channels causing:",
+   "opts": [
+    "QT prolongation",
+    "QT shortening",
+    "QRS widening only",
+    "Sinus bradycardia"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: block K+ channels - QT prolongation. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-086",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Cinchonism, with tinnitus and vertigo, is derived from the:",
+   "opts": [
+    "Cinchona plant",
+    "Artemisia annua plant",
+    "Poppy plant",
+    "Rauwolfia plant"
+   ],
+   "ans": 0,
+   "exp": "The note: cinchonism (derived from cinchona plant): tinnitus, vertigo. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-087",
+   "sec": "Chloroquine and Quinine",
+   "page": 203,
+   "q": "Inadequate doses of quinine lead to:",
+   "opts": [
+    "Black water fever",
+    "Cinchonism",
+    "Bull's eye retinopathy",
+    "Hemolysis in G6PD deficiency"
+   ],
+   "ans": 0,
+   "exp": "The line: if inadequate doses - black water fever. (Book p203)"
+  },
+  {
+   "id": "PHARM-C49-088",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Mefloquine is used for resistant malaria and prophylaxis when travel duration is:",
+   "opts": [
+    ">=6 weeks",
+    "<6 weeks",
+    "<2 days",
+    "Any duration"
+   ],
+   "ans": 0,
+   "exp": "The mefloquine use line: prophylaxis of malaria for travel >=6 wks. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-089",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "A characteristic side effect of mefloquine is:",
+   "opts": [
+    "Neuropsychiatric effects",
+    "Bull's eye retinopathy",
+    "Green urine",
+    "Hemolysis"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: neuropsychiatric effects. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-090",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Mefloquine causes conduction block, so it is contraindicated with:",
+   "opts": [
+    "Quinine and halofantrine",
+    "Artesunate and lumefantrine",
+    "Chloroquine and primaquine",
+    "Atovaquone and proguanil"
+   ],
+   "ans": 0,
+   "exp": "The line: conduction block (C/I with quinine & halofantrine). (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-091",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "For travel <6 weeks, malaria prophylaxis is:",
+   "opts": [
+    "Doxycycline 100 mg OD",
+    "Mefloquine 250 mg/week",
+    "Atovaquone-proguanil daily",
+    "Primaquine weekly"
+   ],
+   "ans": 0,
+   "exp": "The prophylaxis note: <6 weeks - doxycycline 100 mg OD. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-092",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Doxycycline prophylaxis (<6 weeks travel) is started and stopped:",
+   "opts": [
+    "Start 2 days before travel, stop 4 weeks after",
+    "Start 2 weeks before, stop 4 weeks after",
+    "Start 1 day before, stop 1 week after",
+    "Start on arrival, stop at departure"
+   ],
+   "ans": 0,
+   "exp": "The note: start 2 days before travel, stop 4 weeks after travel. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-093",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Mefloquine prophylaxis (>=6 weeks travel) dosing written is:",
+   "opts": [
+    "250 mg/week, start 2 weeks before, stop 4 weeks after travel",
+    "250 mg/week, start 2 days before, stop 2 days after",
+    "100 mg OD, start 2 weeks before",
+    "250 mg OD, start 1 week before"
+   ],
+   "ans": 0,
+   "exp": "The note: mefloquine 250 mg/week, start 2 weeks before travel, stop 4 weeks after. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-094",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Both prophylaxis schedules share which stop rule?",
+   "opts": [
+    "Stop 4 weeks after travel",
+    "Stop at return",
+    "Stop 1 week after travel",
+    "Stop 4 weeks before travel"
+   ],
+   "ans": 0,
+   "exp": "Both columns end: stop 4 weeks after travel. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-095",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Atovaquone + proguanil is used for:",
+   "opts": [
+    "Resistant malaria",
+    "Babesiosis TOC",
+    "Vivax relapse prevention",
+    "Cryptosporidiasis"
+   ],
+   "ans": 0,
+   "exp": "The block: use - resistant malaria. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-096",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "The written MOA note for atovaquone-proguanil says proguanil inhibits:",
+   "opts": [
+    "Ovulation in mosquito",
+    "Liver schizogony",
+    "RBC invasion",
+    "Hemozoin formation"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: proguanil inhibits ovulation in mosquito. (Book p204)"
+  },
+  {
+   "id": "PHARM-C49-097",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "page": 204,
+   "q": "Among tetracycline/doxycycline/clindamycin for resistant malaria, the one safe in children and pregnancy is:",
+   "opts": [
+    "Clindamycin",
+    "Doxycycline",
+    "Tetracycline",
+    "All three"
+   ],
+   "ans": 0,
+   "exp": "The block: clindamycin is safe for use children & pregnancy. (Book p204)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U49-1",
+   "ch": 49,
+   "n": 1,
+   "title": "Amoebiasis",
+   "sec": "Amoebiasis · p199",
+   "qs": [
+    "PHARM-C49-001",
+    "PHARM-C49-002",
+    "PHARM-C49-003",
+    "PHARM-C49-004",
+    "PHARM-C49-005",
+    "PHARM-C49-006"
+   ],
+   "guide": "Amoebiasis is split into intestinal and extra-intestinal (hepatic) disease. Asymptomatic intestinal carriers get luminal amoebicidal drugs that act within the lumen - diloxanide furoate, iodoquinol and paromomycin (DOC) - with the aim of radical cure. Symptomatic disease uses nitazoxanide, emetine and metronidazole (DOC), while hepatic amoebiasis can additionally be treated with chloroquine, which is only used for hepatic disease."
+  },
+  {
+   "id": "PHARM-U49-2",
+   "ch": 49,
+   "n": 2,
+   "title": "Nitroimidazoles",
+   "sec": "Nitroimidazoles · p199",
+   "qs": [
+    "PHARM-C49-007",
+    "PHARM-C49-008",
+    "PHARM-C49-009",
+    "PHARM-C49-010",
+    "PHARM-C49-011",
+    "PHARM-C49-012",
+    "PHARM-C49-013",
+    "PHARM-C49-014",
+    "PHARM-C49-015",
+    "PHARM-C49-016",
+    "PHARM-C49-017"
+   ],
+   "guide": "The nitroimidazoles are tinidazole (DOC in western countries), satranidazole, secnidazole, benznidazole and metronidazole (DOC in India). They act by free radical production; the treatment of cure for amoebiasis is metronidazole followed by paromomycin. Side effects are a disulfiram-like reaction (contraindicated with alcohol) and red-brown urine. Uses of metronidazole (DOC): giardiasis, amoebiasis, infra-diaphragmatic anaerobes, tetanus, trichomoniasis and bacterial vaginosis. Cefazolin plus metronidazole is surgical prophylaxis for infra-diaphragmatic surgery, and bacterial vaginosis shows clue cells in foul-smelling dirty white discharge."
+  },
+  {
+   "id": "PHARM-U49-3",
+   "ch": 49,
+   "n": 3,
+   "title": "Nitazoxanide",
+   "sec": "Nitazoxanide · p200",
+   "qs": [
+    "PHARM-C49-018",
+    "PHARM-C49-019",
+    "PHARM-C49-020",
+    "PHARM-C49-021",
+    "PHARM-C49-022",
+    "PHARM-C49-023",
+    "PHARM-C49-024"
+   ],
+   "guide": "Nitazoxanide has a four-way spectrum: anti-protozoal, anti-helminthic, anti-bacterial and anti-viral. Its side effect is green urine, it is the DOC in resistant giardiasis, and it has an off-label use in H. pylori infection because of macrolide resistance. In cryptosporidiasis nitazoxanide is the DOC; the drug was sourced from niclosamide (an anti-helminthic), and its MOA is inhibition of the PFOR enzyme, blocking electron transport."
+  },
+  {
+   "id": "PHARM-U49-4",
+   "ch": 49,
+   "n": 4,
+   "title": "Leishmaniasis",
+   "sec": "Leishmaniasis · p200",
+   "qs": [
+    "PHARM-C49-025",
+    "PHARM-C49-026",
+    "PHARM-C49-027",
+    "PHARM-C49-028",
+    "PHARM-C49-029",
+    "PHARM-C49-030",
+    "PHARM-C49-031",
+    "PHARM-C49-032",
+    "PHARM-C49-033"
+   ],
+   "guide": "Visceral leishmaniasis (kala azar) DOC is IV liposomal amphotericin B, which has decreased nephrotoxicity; oral miltefosine - also the DOC for post-kala azar dermal leishmaniasis - causes nausea, vomiting and diarrhea and is contraindicated in pregnancy due to teratogenicity. Visceral alternatives are paromomycin, pentamidine and sitamaquine. Cutaneous leishmaniasis DOC is sodium stibogluconate, with LAmB, paromomycin and pentamidine as alternatives."
+  },
+  {
+   "id": "PHARM-U49-5",
+   "ch": 49,
+   "n": 5,
+   "title": "Trypanosomiasis",
+   "sec": "Trypanosomiasis · p200",
+   "qs": [
+    "PHARM-C49-034",
+    "PHARM-C49-035",
+    "PHARM-C49-036",
+    "PHARM-C49-037",
+    "PHARM-C49-038",
+    "PHARM-C49-039",
+    "PHARM-C49-040",
+    "PHARM-C49-041"
+   ],
+   "guide": "African sleeping sickness is staged by species: East African - early IV suramin, late IV melarsoprol; West African - early IV pentamidine, late IV eflornithine; oral fexinidazole (approved 2018) is the cheaper, easier alternative. American Chagas disease DOC is benznidazole with nifurtimox as alternative."
+  },
+  {
+   "id": "PHARM-U49-6",
+   "ch": 49,
+   "n": 6,
+   "title": "Babesiosis",
+   "sec": "Babesiosis · p201",
+   "qs": [
+    "PHARM-C49-042",
+    "PHARM-C49-043",
+    "PHARM-C49-044"
+   ],
+   "guide": "The treatment of choice for babesiosis - mild, moderate or severe - is atovaquone plus azithromycin. Earlier TOC split by severity: quinine plus clindamycin for mild-to-moderate disease and atovaquone-azithromycin for severe disease."
+  },
+  {
+   "id": "PHARM-U49-7",
+   "ch": 49,
+   "n": 7,
+   "title": "Plasmodium Life Cycle",
+   "sec": "Plasmodium Life Cycle · p201",
+   "qs": [
+    "PHARM-C49-045",
+    "PHARM-C49-046",
+    "PHARM-C49-047",
+    "PHARM-C49-048",
+    "PHARM-C49-049",
+    "PHARM-C49-050",
+    "PHARM-C49-051"
+   ],
+   "guide": "The mosquito bite injects sporozoites, the infective form for humans, which travel via the bloodstream and enter the liver. In hepatic schizonts some parasites stay dormant as hypnozoites while others replicate; rupture releases merozoites that infect RBCs, forming erythrocytic schizonts whose rupture causes fever and chills. Some merozoites form gametocytes - the infective form for the mosquito, taken up with a blood meal."
+  },
+  {
+   "id": "PHARM-U49-8",
+   "ch": 49,
+   "n": 8,
+   "title": "Stages of Drug Action and Artemisinins",
+   "sec": "Stages of Drug Action and Artemisinins · p202",
+   "qs": [
+    "PHARM-C49-052",
+    "PHARM-C49-053",
+    "PHARM-C49-054",
+    "PHARM-C49-055",
+    "PHARM-C49-056",
+    "PHARM-C49-057",
+    "PHARM-C49-058",
+    "PHARM-C49-059",
+    "PHARM-C49-060",
+    "PHARM-C49-061",
+    "PHARM-C49-062",
+    "PHARM-C49-063",
+    "PHARM-C49-064",
+    "PHARM-C49-065",
+    "PHARM-C49-066"
+   ],
+   "guide": "Hypnozoiticidal drugs prevent relapse - primaquine for 14 days or single-dose tafenoquine - given along with treatment for radical cure or as terminal prophylaxis; hypnozoites are seen only in vivax and ovale. Gametocidal drugs (primaquine, artemisinin group) block transmission. Erythrocytic schizontocidals are fast acting (DOC) or slow acting, and the treatment regimen combines 1 fast acting + 1 slow acting drug. Artemisinins are the most potent and fastest acting schizontocidals, acting by free radical production and contraindicated in the first trimester; artesunate is IV and oral while artemether and dihydroartemisinin are only oral. Because they are short acting they cannot be monotherapy or prophylaxis. Severe falciparum malaria DOC is continuous IV artesunate infusion for 48 hours followed by a treatment regimen; uncomplicated malaria is another use."
+  },
+  {
+   "id": "PHARM-U49-9",
+   "ch": 49,
+   "n": 9,
+   "title": "Treatment of Uncomplicated Malaria",
+   "sec": "Treatment of Uncomplicated Malaria · p203",
+   "qs": [
+    "PHARM-C49-067",
+    "PHARM-C49-068",
+    "PHARM-C49-069",
+    "PHARM-C49-070",
+    "PHARM-C49-071",
+    "PHARM-C49-072",
+    "PHARM-C49-073",
+    "PHARM-C49-074"
+   ],
+   "guide": "Vivax malaria: TOC chloroquine (DOC) for 3 days plus primaquine x 14 days or single-dose tafenoquine; in pregnancy the primaquine/tafenoquine part is given post-partum because it is not safe. Chloroquine-resistant falciparum malaria: pregnant first trimester gets quinine (DOC) + clindamycin, second and third trimesters get ACT; the normal population gets ACT, or quinine + one of tetracycline, doxycycline (both not safe in pregnancy) or clindamycin. ACT options: oral artesunate + sulfadoxine + pyrimethamine for all Indian states, or oral artemether + lumefantrine for north-eastern states."
+  },
+  {
+   "id": "PHARM-U49-10",
+   "ch": 49,
+   "n": 10,
+   "title": "Chloroquine and Quinine",
+   "sec": "Chloroquine and Quinine · p203",
+   "qs": [
+    "PHARM-C49-075",
+    "PHARM-C49-076",
+    "PHARM-C49-077",
+    "PHARM-C49-078",
+    "PHARM-C49-079",
+    "PHARM-C49-080",
+    "PHARM-C49-081",
+    "PHARM-C49-082",
+    "PHARM-C49-083",
+    "PHARM-C49-084",
+    "PHARM-C49-085",
+    "PHARM-C49-086",
+    "PHARM-C49-087"
+   ],
+   "guide": "Chloroquine binds haemoglobin to generate toxic haem products; resistance develops by drug efflux from the vacuole of cells. Infectious uses: malaria, hepatic amoebiasis, infectious mononucleosis; non-infectious: rheumatoid arthritis, SLE, discoid LE and porphyria cutanea tarda. Its classic side effect is bull's eye retinopathy with multiple concentric circles plus whorl-like corneal deposits. Quinine is used in resistant malaria; side effects are alpha-blockade (hypotension), increased insulin release (hypoglycemia), potassium-channel block (QT prolongation), cinchonism from the cinchona plant (tinnitus, vertigo) and black water fever if doses are inadequate."
+  },
+  {
+   "id": "PHARM-U49-11",
+   "ch": 49,
+   "n": 11,
+   "title": "Mefloquine, Malaria Prophylaxis and Other Drugs",
+   "sec": "Mefloquine, Malaria Prophylaxis and Other Drugs · p204",
+   "qs": [
+    "PHARM-C49-088",
+    "PHARM-C49-089",
+    "PHARM-C49-090",
+    "PHARM-C49-091",
+    "PHARM-C49-092",
+    "PHARM-C49-093",
+    "PHARM-C49-094",
+    "PHARM-C49-095",
+    "PHARM-C49-096",
+    "PHARM-C49-097"
+   ],
+   "guide": "Mefloquine treats resistant malaria and provides prophylaxis for travel of 6 weeks or more; side effects are neuropsychiatric effects and conduction block (contraindicated with quinine and halofantrine). Prophylaxis by travel duration: below 6 weeks uses doxycycline 100 mg OD starting 2 days before travel and stopping 4 weeks after; 6 weeks or more uses mefloquine 250 mg/week starting 2 weeks before and stopping 4 weeks after. Atovaquone + proguanil is for resistant malaria; proguanil inhibits ovulation in the mosquito. Tetracycline, doxycycline and clindamycin are for resistant malaria, with clindamycin safe in children and pregnancy."
+  }
+ ]
+}

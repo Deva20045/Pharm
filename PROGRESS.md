@@ -45,12 +45,13 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 28: 113-117 DONE (118 qs, 10 units) | 29: 118-119 DONE (38 qs, 2 units) | 30: 120-122 DONE (73 qs, 6 units) |
 31: 123-126 DONE (127 qs, 10 units) | 32: 127-130 DONE (113 qs, 10 units) | 33: 131-133 DONE (74 qs, 7 units) |
 34: 134-140 DONE (169 qs, 12 units) | 35: 141-144 DONE (104 qs, 9 units) | 36: 145-149 DONE (153 qs, 15 units) | 37: 150-152 DONE (65 qs, 4 units)
-### Antimicrobials
+### Antimicrobials  (COMPLETE)
 38: 153-154 DONE (52 qs, 4 units) | 39: 155-158 DONE (83 qs, 4 units) | 40: 159-163 DONE (105 qs, 5 units) | 41: 164-166 DONE (61 qs, 5 units) | 42: 167-170 DONE (100 qs, 8 units) | 43: 171-173 DONE (77 qs, 8 units) |
 44: 174-179 DONE (144 qs, 10 units) | 45: 180-183 DONE (70 qs, 6 units) | 46: 184-188 DONE (105 qs, 7 units) |
-47: 189-192 | 48: 193-198 | 49: 199-204 | 50: 205-206
+47: 189-192 DONE (79 qs, 7 units) | 48: 193-198 DONE (112 qs, 9 units) | 49: 199-204 DONE (97 qs, 11 units) | 50: 205-206 DONE (37 qs, 4 units)
 ### Endocrine System
-51: 207-210 | 52: 211-214 | 53: 215-217 | 54: 218-220 | 55: 221-223 | 56: 224-226 | 57: 227-229
+51: 207-210 DONE (64 qs, 5 units) | 52: 211-214 DONE (73 qs, 7 units) | 53: 215-217 DONE (55 qs, 7 units) |
+54: 218-220 DONE (43 qs, 5 units) | 55: 221-223 DONE (53 qs, 5 units) | 56: 224-226 | 57: 227-229
 ### Autacoids
 58: 230-232 | 59: 233-236 | 60: 237-241 | 61: 242-243 | 62: 244-246
 ### Hematology

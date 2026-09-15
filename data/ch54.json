@@ -1,0 +1,701 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C54-001",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "The hypothalamic hormone that stimulates GH release (+) is:",
+   "opts": [
+    "GHRH",
+    "Somatostatin",
+    "Insulin",
+    "IGF-1"
+   ],
+   "ans": 0,
+   "exp": "The diagram: hypothalamus gives GHRH (+) to the pituitary somatotrophic cell. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-002",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "Somatostatin from the hypothalamus acts on the pituitary via:",
+   "opts": [
+    "Gi receptor (-)",
+    "Gs/Gq receptor (+)",
+    "IGF-1 receptor",
+    "GH receptor"
+   ],
+   "ans": 0,
+   "exp": "The legend: somatostatin uses Gi receptor with (-) effect. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-003",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "GHRH acts on the somatotrophic cell through:",
+   "opts": [
+    "Gs/Gq receptor",
+    "Gi receptor",
+    "Nuclear receptor",
+    "Tyrosine kinase receptor only"
+   ],
+   "ans": 0,
+   "exp": "The legend: GHRH uses Gs/Gq receptor. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-004",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "GH acts on the liver to:",
+   "opts": [
+    "Increase IGF-1",
+    "Decrease IGF-1",
+    "Release insulin",
+    "Release glucagon"
+   ],
+   "ans": 0,
+   "exp": "The diagram: GH (+) liver leads to increased IGF-1. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-005",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "IGF-1 travels in plasma bound to:",
+   "opts": [
+    "IGF BP-3",
+    "Albumin only",
+    "GH binding protein",
+    "Corticosteroid binding globulin"
+   ],
+   "ans": 0,
+   "exp": "The plasma box: IGF-1 + IGF BP-3. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-006",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "The effect of GH on insulin is:",
+   "opts": [
+    "Inhibition (-)",
+    "Stimulation (+)",
+    "No effect",
+    "Conversion to IGF-1"
+   ],
+   "ans": 0,
+   "exp": "The diagram arrow: GH (-) insulin. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-007",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "Direct GH action on the cell increases:",
+   "opts": [
+    "Linear growth and glucose inside cell",
+    "Glycogen storage only",
+    "Insulin secretion",
+    "IGF BP-3 synthesis"
+   ],
+   "ans": 0,
+   "exp": "The cell circle: linear growth and increased glucose inside cell. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-008",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "The IGF-1 receptor mediates:",
+   "opts": [
+    "Increased glucose which helps in linear growth",
+    "Decreased glucose uptake",
+    "Insulin release",
+    "TSH release"
+   ],
+   "ans": 0,
+   "exp": "The legend: IGF-1 receptor - increased glucose which helps in linear growth. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-009",
+   "sec": "Growth Hormone Physiology and Actions",
+   "page": 218,
+   "q": "Besides lowering GH, somatostatin also lowers:",
+   "opts": [
+    "TSH",
+    "ACTH",
+    "LH",
+    "Prolactin"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic line: somatostatin - decreased GH, decreased TSH. (Book p218)"
+  },
+  {
+   "id": "PHARM-C54-010",
+   "sec": "Dwarfism: GHRH Analogs",
+   "page": 219,
+   "q": "The GHRH analogs listed are:",
+   "opts": [
+    "Sermorelin, macimorelin, tesamorelin",
+    "Somatrem, somatropin, mecasermin",
+    "Pasireotide, octreotide, lanreotide",
+    "Pegvisomant, diazoxide"
+   ],
+   "ans": 0,
+   "exp": "The drugs list: sermorelin, macimorelin, tesamorelin. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-011",
+   "sec": "Dwarfism: GHRH Analogs",
+   "page": 219,
+   "q": "GHRH analogs in dwarfism are used for:",
+   "opts": [
+    "Diagnostic dwarfism",
+    "Routine growth promotion",
+    "Acromegaly treatment",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "The use line: diagnostic dwarfism. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-012",
+   "sec": "Dwarfism: GHRH Analogs",
+   "page": 219,
+   "q": "After the GHRH analog is given, a rise in GH indicates:",
+   "opts": [
+    "Hypothalamic cause",
+    "Pituitary cause",
+    "Receptor resistance",
+    "Ectopic GH source"
+   ],
+   "ans": 0,
+   "exp": "The flow: increased GH - hypothalamic cause. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-013",
+   "sec": "Dwarfism: GHRH Analogs",
+   "page": 219,
+   "q": "No change in GH after the GHRH analog indicates:",
+   "opts": [
+    "Pituitary cause",
+    "Hypothalamic cause",
+    "Drug resistance",
+    "Laboratory error"
+   ],
+   "ans": 0,
+   "exp": "The flow: GH no change - pituitary cause. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-014",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The GH analogs listed are:",
+   "opts": [
+    "Somatrem and somatropin",
+    "Mecasermin and rinfabate",
+    "Sermorelin and tesamorelin",
+    "Octreotide and lanreotide"
+   ],
+   "ans": 0,
+   "exp": "The drugs list: somatrem, somatropin. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-015",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The mnemonic for uses of GH analogs is:",
+   "opts": [
+    "SMALL",
+    "CHILDREN",
+    "SOMAT",
+    "GAMS"
+   ],
+   "ans": 0,
+   "exp": "The use block: use SMALL. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-016",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "In the SMALL mnemonic, 'S' stands for:",
+   "opts": [
+    "Small for gestational age baby",
+    "Short bowel syndrome",
+    "Somatotrophin deficiency",
+    "Septo-optic dysplasia"
+   ],
+   "ans": 0,
+   "exp": "The list: small for gestational age baby. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-017",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "Malabsorption with short bowel syndrome is treated with GH analogs plus:",
+   "opts": [
+    "Teduglutide (GLP-2 agonist)",
+    "Liraglutide (GLP-1 agonist)",
+    "Tirzepatide",
+    "Diazoxide"
+   ],
+   "ans": 0,
+   "exp": "The note: other drug teduglutide - GLP-2 agonist. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-018",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The wasting condition in SMALL mnemonic is:",
+   "opts": [
+    "AIDS related wasting",
+    "Cancer cachexia",
+    "TB wasting",
+    "Anorexia nervosa"
+   ],
+   "ans": 0,
+   "exp": "The list: AIDS related wasting. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-019",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The mnemonic for side effects of GH analogs is:",
+   "opts": [
+    "CHILDREN",
+    "SMALL",
+    "SOMAT",
+    "EAR"
+   ],
+   "ans": 0,
+   "exp": "The S/E block: S/E CHILDREN. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-020",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "In CHILDREN, the C and H stand for:",
+   "opts": [
+    "Carpal tunnel syndrome, Hyperglycemia",
+    "Cardiomyopathy, Hypoglycemia",
+    "Cataract, Hypertension",
+    "Craniopathy, Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "The list: carpal tunnel syndrome, hyperglycemia. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-021",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The CHILDREN mnemonic includes leukemia and:",
+   "opts": [
+    "Diabetes mellitus",
+    "Thyrotoxicosis",
+    "Addison disease",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "The list ends: leukemia, diabetes mellitus (with intracranial pressure rise). (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-022",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "Contraindications of GH analogs are:",
+   "opts": [
+    "Retinopathy and neoplasia",
+    "Anemia and gout",
+    "Asthma and smoking",
+    "Renal and liver failure"
+   ],
+   "ans": 0,
+   "exp": "The C/I list: retinopathy, neoplasia. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-023",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "The IGF-1 analogs listed are:",
+   "opts": [
+    "Mecasermin and mecasermin rinfabate",
+    "Somatropin and somatrem",
+    "Sermorelin and macimorelin",
+    "Pegvisomant and pasireotide"
+   ],
+   "ans": 0,
+   "exp": "The drugs list: mecasermin; mecasermin rinfabate (longer acting). (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-024",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "Side effects of IGF-1 analogs are:",
+   "opts": [
+    "Hypoglycemia and lipo-hypertrophy",
+    "Hyperglycemia and lipo-atrophy",
+    "Gall stones and hypothyroidism",
+    "Carpal tunnel syndrome"
+   ],
+   "ans": 0,
+   "exp": "The S/E list: hypoglycemia, lipo-hypertrophy. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-025",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "IGF-1 analogs are used in dwarfism due to:",
+   "opts": [
+    "IGF-1 deficiency, GHR mutation, anti-GH antibodies",
+    "Only hypothalamic GHRH deficiency",
+    "Pituitary adenoma",
+    "Somatostatinoma"
+   ],
+   "ans": 0,
+   "exp": "The use list: IGF-1 deficiency, GHR mutation, anti-GH Ab. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-026",
+   "sec": "GH and IGF-1 Analogs",
+   "page": 219,
+   "q": "IGF-1 analogs bypass which level of defect?",
+   "opts": [
+    "Both GHR mutation and anti-GH antibodies",
+    "Only liver failure",
+    "Only nutritional deficiency",
+    "Pituitary tumor mass effect"
+   ],
+   "ans": 0,
+   "exp": "The uses (GHR mutation, anti-GH Ab) show action beyond GH itself. (Book p219)"
+  },
+  {
+   "id": "PHARM-C54-027",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The somatostatin analogs listed are:",
+   "opts": [
+    "Pasireotide, octreotide LAR depot, lanreotide",
+    "Sermorelin, tesamorelin, macimorelin",
+    "Octreotide, diazoxide, terlipressin",
+    "Pegvisomant, somatropin, somatrem"
+   ],
+   "ans": 0,
+   "exp": "The drugs list: pasireotide, octreotide LAR depot, lanreotide. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-028",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "Octreotide LAR depot and lanreotide are long acting for about:",
+   "opts": [
+    "30 days",
+    "7 days",
+    "24 hours",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "The bracket: long acting (30 days). (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-029",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The routes of somatostatin analogs are:",
+   "opts": [
+    "S/C and I/M",
+    "Oral and S/C",
+    "IV and oral",
+    "Only intranasal"
+   ],
+   "ans": 0,
+   "exp": "The route list: S/C, I/M. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-030",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "Side effects of somatostatin analogs are:",
+   "opts": [
+    "Hypothyroidism and gall stones",
+    "Hyperthyroidism and kidney stones",
+    "Optic neuritis and gout",
+    "Lipodystrophy and hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "The S/E list: hypothyroidism, gall stones. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-031",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The mnemonic for uses of somatostatin analogs is:",
+   "opts": [
+    "SOMAT",
+    "SMALL",
+    "CHILDREN",
+    "EAR"
+   ],
+   "ans": 0,
+   "exp": "The use block: use SOMAT. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-032",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The 'S' in SOMAT is secretory diarrhea, also seen in diarrhea associated with:",
+   "opts": [
+    "DM & AIDS",
+    "Cholera only",
+    "IBS only",
+    "Celiac disease"
+   ],
+   "ans": 0,
+   "exp": "The line: secretory diarrhea - also in diarrhea a/w DM & AIDS. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-033",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "Radiolabeled octreotide is used to diagnose:",
+   "opts": [
+    "Pituitary adenoma",
+    "Pancreatic cyst",
+    "Hepatoma",
+    "Medullary carcinoma thyroid"
+   ],
+   "ans": 0,
+   "exp": "The line: octreotide (radiolabeled) for diagnosis of pituitary adenoma. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-034",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "In metabolic tumors, the DOC of glucagonoma is:",
+   "opts": [
+    "Octreotide (somatostatin analog)",
+    "Diazoxide",
+    "Terlipressin",
+    "Pasireotide only"
+   ],
+   "ans": 0,
+   "exp": "The metabolic tumors list: glucagonoma (DOC) under octreotide. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-035",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The DOC of insulinoma among metabolic tumors is:",
+   "opts": [
+    "Diazoxide",
+    "Octreotide",
+    "Terlipressin",
+    "Lanreotide"
+   ],
+   "ans": 0,
+   "exp": "The list: insulinoma (DOC diazoxide). (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-036",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "In acute variceal bleed, the DOC written is:",
+   "opts": [
+    "Terlipressin",
+    "Diazoxide",
+    "Octreotide",
+    "Somatropin"
+   ],
+   "ans": 0,
+   "exp": "The list: acute variceal bleed (DOC terlipressin). (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-037",
+   "sec": "Acromegaly: Somatostatin Analogs",
+   "page": 220,
+   "q": "The SOMAT mnemonic's T includes thyrotrope adenoma and:",
+   "opts": [
+    "Acromegaly",
+    "TSH-secreting tumor only",
+    "Thyroid carcinoma",
+    "Tetany"
+   ],
+   "ans": 0,
+   "exp": "The use list: acromegaly, thyrotrope adenoma. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-038",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "The MOA of pegvisomant is:",
+   "opts": [
+    "GH receptor blocker",
+    "Somatostatin analog",
+    "GHRH antagonist",
+    "Dopamine agonist"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: GH receptor blocker. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-039",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "Pegvisomant is used in:",
+   "opts": [
+    "Resistant acromegaly",
+    "First line acromegaly",
+    "Dwarfism",
+    "Secretory diarrhea"
+   ],
+   "ans": 0,
+   "exp": "The use line: resistant acromegaly. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-040",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "Pegvisomant hepatotoxicity requires:",
+   "opts": [
+    "Monitoring LFT",
+    "Weekly CBC",
+    "Monthly ECG",
+    "Visual field charting only"
+   ],
+   "ans": 0,
+   "exp": "The S/E line: hepatotoxicity (monitor LFT). (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-041",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "Pegvisomant can increase adenoma size because:",
+   "opts": [
+    "Increased GHRH leads to somatotrophin cell hypertrophy",
+    "It stimulates GH receptors",
+    "It converts to IGF-1",
+    "It blocks apoptosis"
+   ],
+   "ans": 0,
+   "exp": "The note: increased GHRH (+) leads to somatotrophin cell hypertrophy. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-042",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "The three monitoring parameters written for pegvisomant are:",
+   "opts": [
+    "MRI size, IGF-1 levels, visual field",
+    "LFT, CBC, ECG",
+    "GH level, glucose, weight",
+    "TSH, prolactin, cortisol"
+   ],
+   "ans": 0,
+   "exp": "The monitor list: monitor size MRI, monitor IGF-1 levels, monitor visual field. (Book p220)"
+  },
+  {
+   "id": "PHARM-C54-043",
+   "sec": "Pegvisomant",
+   "page": 220,
+   "q": "Visual field monitoring in pegvisomant is needed because:",
+   "opts": [
+    "Adenoma near optic chiasma",
+    "Retinopathy risk",
+    "Papilledema",
+    "Cortical blindness"
+   ],
+   "ans": 0,
+   "exp": "The note: monitor visual field - adenoma near optic chiasma. (Book p220)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U54-1",
+   "ch": 54,
+   "n": 1,
+   "title": "Growth Hormone Physiology and Actions",
+   "sec": "Growth Hormone Physiology and Actions · p218",
+   "qs": [
+    "PHARM-C54-001",
+    "PHARM-C54-002",
+    "PHARM-C54-003",
+    "PHARM-C54-004",
+    "PHARM-C54-005",
+    "PHARM-C54-006",
+    "PHARM-C54-007",
+    "PHARM-C54-008",
+    "PHARM-C54-009"
+   ],
+   "guide": "Hypothalamic GHRH stimulates (+, Gs/Gq receptor) while somatostatin inhibits (-, Gi receptor) the pituitary somatotrophic cell. GH acts (+) on the liver to raise IGF-1, which circulates bound to IGF BP-3 and promotes linear growth; GH also acts (+) directly on cells for linear growth, moving glucose inside the cell via the IGF-1 receptor. GH inhibits (-) insulin. Mnemonic: GHRH raises GH; somatostatin lowers GH and TSH."
+  },
+  {
+   "id": "PHARM-U54-2",
+   "ch": 54,
+   "n": 2,
+   "title": "Dwarfism: GHRH Analogs",
+   "sec": "Dwarfism: GHRH Analogs · p219",
+   "qs": [
+    "PHARM-C54-010",
+    "PHARM-C54-011",
+    "PHARM-C54-012",
+    "PHARM-C54-013"
+   ],
+   "guide": "For diagnostic workup of dwarfism, GHRH analogs - sermorelin, macimorelin and tesamorelin - are given: a rise in GH indicates a hypothalamic cause, while no GH change indicates a pituitary cause."
+  },
+  {
+   "id": "PHARM-U54-3",
+   "ch": 54,
+   "n": 3,
+   "title": "GH and IGF-1 Analogs",
+   "sec": "GH and IGF-1 Analogs · p219",
+   "qs": [
+    "PHARM-C54-014",
+    "PHARM-C54-015",
+    "PHARM-C54-016",
+    "PHARM-C54-017",
+    "PHARM-C54-018",
+    "PHARM-C54-019",
+    "PHARM-C54-020",
+    "PHARM-C54-021",
+    "PHARM-C54-022",
+    "PHARM-C54-023",
+    "PHARM-C54-024",
+    "PHARM-C54-025",
+    "PHARM-C54-026"
+   ],
+   "guide": "GH analogs somatrem and somatropin have uses mnemonic SMALL: small for gestational age baby, malabsorption with short bowel syndrome (the other drug is teduglutide, a GLP-2 agonist), AIDS related wasting, and decreased length. Side effects mnemonic CHILDREN: carpal tunnel syndrome, hyperglycemia, intracranial pressure rise, leukemia, diabetes mellitus; contraindications are retinopathy and neoplasia. IGF-1 analogs are mecasermin and mecasermin rinfabate (longer acting); side effects hypoglycemia and lipo-hypertrophy; used in dwarfism due to IGF-1 deficiency, GHR mutation and anti-GH antibodies."
+  },
+  {
+   "id": "PHARM-U54-4",
+   "ch": 54,
+   "n": 4,
+   "title": "Acromegaly: Somatostatin Analogs",
+   "sec": "Acromegaly: Somatostatin Analogs · p220",
+   "qs": [
+    "PHARM-C54-027",
+    "PHARM-C54-028",
+    "PHARM-C54-029",
+    "PHARM-C54-030",
+    "PHARM-C54-031",
+    "PHARM-C54-032",
+    "PHARM-C54-033",
+    "PHARM-C54-034",
+    "PHARM-C54-035",
+    "PHARM-C54-036",
+    "PHARM-C54-037"
+   ],
+   "guide": "For GH excess, somatostatin analogs - pasireotide, octreotide LAR depot and lanreotide (long acting, 30 days) - are given S/C or I/M; side effects hypothyroidism and gall stones. Uses mnemonic SOMAT: secretory diarrhea (also in diarrhea with DM and AIDS), octreotide radiolabeled to diagnose pituitary adenoma, metabolic tumors (glucagonoma DOC; insulinoma DOC diazoxide), acute variceal bleed (DOC terlipressin), acromegaly and thyrotrope adenoma."
+  },
+  {
+   "id": "PHARM-U54-5",
+   "ch": 54,
+   "n": 5,
+   "title": "Pegvisomant",
+   "sec": "Pegvisomant · p220",
+   "qs": [
+    "PHARM-C54-038",
+    "PHARM-C54-039",
+    "PHARM-C54-040",
+    "PHARM-C54-041",
+    "PHARM-C54-042",
+    "PHARM-C54-043"
+   ],
+   "guide": "Pegvisomant is a GH receptor blocker used in resistant acromegaly. Its side effects are hepatotoxicity (monitor LFTs) and increased adenoma size - raised GHRH drives somatotrophin cell hypertrophy. Monitoring: MRI for size, IGF-1 levels and visual fields because the adenoma may sit near the optic chiasma."
+  }
+ ]
+}

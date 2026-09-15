@@ -1,0 +1,901 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C53-001",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "GnRH is released from the hypothalamus in which pattern?",
+   "opts": [
+    "Pulsatile release",
+    "Continuous release",
+    "Only nocturnal release",
+    "Random tonic release"
+   ],
+   "ans": 0,
+   "exp": "The axis diagram labels GnRH (pulsatile release). (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-002",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "GnRH acts on which receptor of pituitary gonadotroph cells?",
+   "opts": [
+    "Gs/Gq receptor",
+    "Gi receptor",
+    "Nuclear receptor",
+    "Ligand-gated chloride channel"
+   ],
+   "ans": 0,
+   "exp": "The note: Gs/Gq receptor on pituitary gonadotroph cells. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-003",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "GnRH increases pituitary release of:",
+   "opts": [
+    "LH/FSH",
+    "ACTH",
+    "GH",
+    "TSH"
+   ],
+   "ans": 0,
+   "exp": "The flow: pituitary gland then increased LH/FSH. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-004",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "In females, the LH surge produces:",
+   "opts": [
+    "Ovulation",
+    "Spermatogenesis",
+    "Testosterone synthesis",
+    "Luteolysis"
+   ],
+   "ans": 0,
+   "exp": "The female branch: ovulation (LH surge). (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-005",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "LH/FSH in females stimulates synthesis of:",
+   "opts": [
+    "Estrogen and progesterone",
+    "Testosterone and DHT",
+    "Inhibin only",
+    "Relaxin only"
+   ],
+   "ans": 0,
+   "exp": "The female branch: synthesis of estrogen, progesterone. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-006",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "In males, LH/FSH effects written are:",
+   "opts": [
+    "Spermatogenesis and testosterone",
+    "Ovulation and estrogen",
+    "Milk ejection",
+    "Sperm capacitation only"
+   ],
+   "ans": 0,
+   "exp": "The male branch: spermatogenesis, testosterone. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-007",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "The GnRH agonists listed are:",
+   "opts": [
+    "Goserelin, buserelin, nafarelin, leuprolide",
+    "Ganirelix, cetrorelix, abarelix, elagolix",
+    "Gonadorelin, clomiphene, letrozole",
+    "Flutamide, bicalutamide, enzalutamide"
+   ],
+   "ans": 0,
+   "exp": "The agonist branch lists goserelin, buserelin, nafarelin, leuprolide. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-008",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "GnRH antagonists produce which hormonal change?",
+   "opts": [
+    "Decreased LH/FSH",
+    "Increased LH/FSH",
+    "Initial increase then decrease",
+    "No hormonal change"
+   ],
+   "ans": 0,
+   "exp": "The antagonist branch: decreased LH/FSH. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-009",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "The GnRH antagonists listed are:",
+   "opts": [
+    "Ganirelix, cetrorelix, abarelix, elagolix",
+    "Goserelin, buserelin, nafarelin, leuprolide",
+    "Finasteride, dutasteride",
+    "Tamoxifen, raloxifene"
+   ],
+   "ans": 0,
+   "exp": "The antagonist list: ganirelix, cetrorelix, abarelix, elagolix. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-010",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Intermittent dosing of GnRH agonists produces:",
+   "opts": [
+    "Increased LH/FSH",
+    "Decreased LH/FSH",
+    "Biphasic LH/FSH",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "The agonist split: intermittent dosing - increased LH/FSH. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-011",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Intermittent GnRH agonist dosing is used in infertility due to:",
+   "opts": [
+    "Anovulation and oligospermia",
+    "Fibroids and endometriosis",
+    "Precocious puberty",
+    "Prostate cancer"
+   ],
+   "ans": 0,
+   "exp": "The use block: infertility d/t anovulation, oligospermia. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-012",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Intermittent GnRH agonist dosing is also used in:",
+   "opts": [
+    "Delayed puberty",
+    "Precocious puberty",
+    "Fibroids",
+    "ER positive breast cancer"
+   ],
+   "ans": 0,
+   "exp": "The second use: delayed puberty. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-013",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Continuous dosing of GnRH agonists causes LH/FSH to:",
+   "opts": [
+    "Initially increase, then decrease due to receptor downregulation",
+    "Steadily increase",
+    "Immediately decrease",
+    "Remain unchanged"
+   ],
+   "ans": 0,
+   "exp": "The continuous-dosing note: LH/FSH initial increased, then decreased (D/t receptor downregulation). (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-014",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Continuous GnRH agonist dosing is used in:",
+   "opts": [
+    "Precocious puberty",
+    "Delayed puberty",
+    "Anovulatory infertility",
+    "Oligospermia"
+   ],
+   "ans": 0,
+   "exp": "The continuous-dosing use: precocious puberty. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-015",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Estrogen dependent conditions treated with continuous GnRH agonists are:",
+   "opts": [
+    "ER positive breast cancer, endometriosis, fibroids",
+    "Prostate and testicular cancer",
+    "Precocious puberty",
+    "Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "The estrogen dependent conditions branch lists ER positive breast cancer, endometriosis, fibroids. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-016",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "The DOC among GnRH agonists for prostate cancer is:",
+   "opts": [
+    "Goserelin",
+    "Nafarelin",
+    "Buserelin",
+    "Leuprolide"
+   ],
+   "ans": 0,
+   "exp": "The note: testosterone dependent cancers - prostate cancer (DOC goserelin). (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-017",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "The GnRH analog used to diagnose the cause of hypogonadism is:",
+   "opts": [
+    "Gonadorelin",
+    "Leuprolide",
+    "Elagolix",
+    "Cetrorelix"
+   ],
+   "ans": 0,
+   "exp": "The block: GnRH analog - gonadorelin. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-018",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "Gonadorelin distinguishes hypogonadism due to:",
+   "opts": [
+    "Hypothalamic vs pituitary cause",
+    "Ovarian vs testicular cause",
+    "Primary vs tertiary cause",
+    "Acquired vs congenital cause"
+   ],
+   "ans": 0,
+   "exp": "The use line: diagnosis of cause of hypogonadism (hypothalamic/pituitary). (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-019",
+   "sec": "GnRH and GnRH-Related Drugs",
+   "page": 215,
+   "q": "The second listed use of gonadorelin is:",
+   "opts": [
+    "Anovulation",
+    "Fibroids",
+    "Hirsutism",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "The use list: anovulation. (Book p215)"
+  },
+  {
+   "id": "PHARM-C53-020",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "The use of tamoxifen written is:",
+   "opts": [
+    "Treatment of ER (+) breast cancer",
+    "Prophylaxis of ER (+) breast cancer",
+    "Post-menopausal osteoporosis",
+    "Dyspareunia"
+   ],
+   "ans": 0,
+   "exp": "The SERM table: tamoxifen use - treatment of ER(+) breast cancer. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-021",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Tamoxifen is used in which age group?",
+   "opts": [
+    "Premenopausal females",
+    "Post-menopausal females",
+    "Only males",
+    "Children"
+   ],
+   "ans": 0,
+   "exp": "The age-group row: tamoxifen - premenopausal females. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-022",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Raloxifene uses are:",
+   "opts": [
+    "Prophylaxis of ER (+) breast cancer and post-menopausal osteoporosis in high-risk females",
+    "Treatment of ER (+) breast cancer only",
+    "Dyspareunia only",
+    "Anovulation"
+   ],
+   "ans": 0,
+   "exp": "The raloxifene column: prophylaxis of ER(+) breast cancer; post-menopausal osteoporosis in females with high risk for ER(+) Ca breast. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-023",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Raloxifene is used in which age group?",
+   "opts": [
+    "Post-menopausal females",
+    "Premenopausal females",
+    "Adolescents",
+    "Elderly males"
+   ],
+   "ans": 0,
+   "exp": "The age-group row: raloxifene - post-menopausal females. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-024",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Uterine carcinoma as a SERM side effect is seen with:",
+   "opts": [
+    "Only tamoxifen",
+    "Only raloxifene",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "The side-effect row: uterine carcinoma (only tamoxifen). (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-025",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Shared SERM side effects listed besides uterine carcinoma are:",
+   "opts": [
+    "Thrombosis and hot flashes",
+    "Gynecomastia and impotence",
+    "Bone fracture and edema",
+    "Pancreatitis and angioedema"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: thrombosis, hot flashes. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-026",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "The other SERM used for treatment of ER(+) breast cancer is:",
+   "opts": [
+    "Toremifene",
+    "Ospemifene",
+    "Fulvestrant",
+    "Letrozole"
+   ],
+   "ans": 0,
+   "exp": "The other SERMs: toremifene - treatment of ER(+) breast cancer. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-027",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs)",
+   "page": 216,
+   "q": "Ospemifene is used for:",
+   "opts": [
+    "Post-menopausal dyspareunia",
+    "Osteoporosis",
+    "ER(+) breast cancer prophylaxis",
+    "Anovulation"
+   ],
+   "ans": 0,
+   "exp": "The line: ospemifene - post menopausal dyspareunia. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-028",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "Clomiphene citrate acts as:",
+   "opts": [
+    "Partial agonist at pituitary estrogen receptor",
+    "Full agonist at ovarian ER",
+    "ER blocker at breast",
+    "Aromatase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: partial agonist at pituitary estrogen receptor. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-029",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "The ovulation cascade after clomiphene is:",
+   "opts": [
+    "Positive feedback to hypothalamus, increased GnRH, increased LH, ovulation",
+    "Increased FSH only, ovulation",
+    "Decreased GnRH, decreased LH, ovulation",
+    "Direct ovarian stimulation"
+   ],
+   "ans": 0,
+   "exp": "The flow: positive feedback to hypothalamus, then GnRH up, then LH up, then ovulation. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-030",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "Clomiphene is DOC for anovulation:",
+   "opts": [
+    "Without PCOS",
+    "With PCOS",
+    "In post-menopausal women",
+    "With fibroids"
+   ],
+   "ans": 0,
+   "exp": "The use line: DOC for anovulation without PCOS. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-031",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "DOC for anovulation WITH PCOS is:",
+   "opts": [
+    "Letrozole",
+    "Clomiphene",
+    "Tamoxifen",
+    "Gonadorelin"
+   ],
+   "ans": 0,
+   "exp": "The note: DOC for anovulation with PCOS is letrozole. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-032",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "The MOA of fulvestrant is:",
+   "opts": [
+    "Blocks ER at breast",
+    "Partial agonist at pituitary ER",
+    "Blocks aromatase",
+    "Degrades GnRH receptor"
+   ],
+   "ans": 0,
+   "exp": "The fulvestrant block: MOA blocks ER at breast. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-033",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "Fulvestrant potency compared with tamoxifen is:",
+   "opts": [
+    "100x tamoxifen",
+    "10x tamoxifen",
+    "Equal",
+    "1/100th"
+   ],
+   "ans": 0,
+   "exp": "The line: potency 100x tamoxifen. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-034",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "Fulvestrant is used in:",
+   "opts": [
+    "Resistant post-menopausal breast cancer",
+    "Premenopausal breast cancer first line",
+    "Osteoporosis",
+    "Dyspareunia"
+   ],
+   "ans": 0,
+   "exp": "The use line: resistant post-menopausal breast cancer. (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-035",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "page": 216,
+   "q": "Elacestrant is used for ER-positive breast cancer with:",
+   "opts": [
+    "ESR1 mutation (estrogen receptor 1)",
+    "BRCA1 mutation",
+    "HER2 amplification",
+    "P53 mutation"
+   ],
+   "ans": 0,
+   "exp": "The line: ER +ve breast cancer with ESR1 mutation (estrogen receptor 1). (Book p216)"
+  },
+  {
+   "id": "PHARM-C53-036",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM)",
+   "page": 217,
+   "q": "The SPRM listed is:",
+   "opts": [
+    "Ulipristal",
+    "Ospemifene",
+    "Raloxifene",
+    "Pramlintide"
+   ],
+   "ans": 0,
+   "exp": "The SPRM block: ulipristal. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-037",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM)",
+   "page": 217,
+   "q": "The use of ulipristal written is:",
+   "opts": [
+    "Emergency contraception",
+    "Treatment of fibroids only",
+    "Habitual abortion",
+    "Endometriosis"
+   ],
+   "ans": 0,
+   "exp": "The use line: emergency contraception. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-038",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM)",
+   "page": 217,
+   "q": "The ulipristal dose for emergency contraception is:",
+   "opts": [
+    "30 mg single dose within 5 days of unprotected intercourse",
+    "1.5 mg single dose within 72 hours",
+    "0.75 mg two doses 12 hours apart",
+    "30 mg weekly"
+   ],
+   "ans": 0,
+   "exp": "The dose line: 30 mg single dose within 5d of unprotected intercourse. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-039",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM)",
+   "page": 217,
+   "q": "DOC for emergency contraception in India is:",
+   "opts": [
+    "Levonorgestrel",
+    "Ulipristal",
+    "Mifepristone",
+    "Ethinyl estradiol"
+   ],
+   "ans": 0,
+   "exp": "The note: DOC for emergency contraception in India - levonorgestrel. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-040",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM)",
+   "page": 217,
+   "q": "The levonorgestrel emergency contraception regimen is:",
+   "opts": [
+    "1.5 mg single dose within 72 h, or 0.75 mg two doses 12 h apart within 72 h",
+    "30 mg single dose within 5 days",
+    "1.5 mg daily for 5 days",
+    "0.75 mg single dose within 120 h"
+   ],
+   "ans": 0,
+   "exp": "The note: 1.5 mg single dose within 72h (or) 0.75 mg two doses 12h apart within 72h of unprotected intercourse. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-041",
+   "sec": "5-Alpha Reductase Inhibitors",
+   "page": 217,
+   "q": "The MOA of 5-alpha reductase inhibitors is:",
+   "opts": [
+    "Blocking testosterone to dihydrotestosterone (DHT) conversion",
+    "Blocking testosterone receptors",
+    "Blocking aromatase",
+    "Blocking LH release"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: testosterone blocked from becoming dihydrotestosterone (DHT). (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-042",
+   "sec": "5-Alpha Reductase Inhibitors",
+   "page": 217,
+   "q": "The 5-alpha reductase inhibitors listed are:",
+   "opts": [
+    "Finasteride / dutasteride",
+    "Flutamide / bicalutamide",
+    "Exemestane / letrozole",
+    "Tamsulosin / silodosin"
+   ],
+   "ans": 0,
+   "exp": "The drugs line: finasteride / dutasteride. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-043",
+   "sec": "5-Alpha Reductase Inhibitors",
+   "page": 217,
+   "q": "Finasteride is DOC for androgenic alopecia at the dose of:",
+   "opts": [
+    "1 mg",
+    "5 mg",
+    "10 mg",
+    "0.1 mg"
+   ],
+   "ans": 0,
+   "exp": "The use line: DOC for androgenic alopecia (dose 1 mg). (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-044",
+   "sec": "5-Alpha Reductase Inhibitors",
+   "page": 217,
+   "q": "In BPH, 5-alpha reductase inhibitors:",
+   "opts": [
+    "Reduce size & weight of prostate, improving outcome",
+    "Only relax the prostatic smooth muscle",
+    "Dissolve prostatic calculi",
+    "Increase urine flow by CNS action"
+   ],
+   "ans": 0,
+   "exp": "The BPH line: reduces size & weight of prostate, improving outcome. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-045",
+   "sec": "5-Alpha Reductase Inhibitors",
+   "page": 217,
+   "q": "The note stating the DOC for BPH names:",
+   "opts": [
+    "Tamsulosin / silodosin",
+    "Finasteride / dutasteride",
+    "Flutamide / bicalutamide",
+    "Enzalutamide / apalutamide"
+   ],
+   "ans": 0,
+   "exp": "The note: DOC for BPH - tamsulosin / silodosin. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-046",
+   "sec": "Androgen Receptor Blockers",
+   "page": 217,
+   "q": "The androgen receptor blockers listed are:",
+   "opts": [
+    "Flutamide, bicalutamide, enzalutamide, apalutamide",
+    "Finasteride, dutasteride, minoxidil",
+    "Letrozole, exemestane, anastrozole",
+    "Tamsulosin, silodosin, alfuzosin"
+   ],
+   "ans": 0,
+   "exp": "The drug list: flutamide, bicalutamide, enzalutamide, apalutamide. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-047",
+   "sec": "Androgen Receptor Blockers",
+   "page": 217,
+   "q": "Androgen receptor blockers are used as:",
+   "opts": [
+    "Add-on drug for prostate cancer",
+    "First line monotherapy for BPH",
+    "DOC for alopecia",
+    "Emergency contraception"
+   ],
+   "ans": 0,
+   "exp": "The use line: add-on drug for prostate cancer. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-048",
+   "sec": "Androgen Receptor Blockers",
+   "page": 217,
+   "q": "The second use of androgen receptor blockers is:",
+   "opts": [
+    "Hirsutism",
+    "Alopecia",
+    "Gynecomastia",
+    "Infertility"
+   ],
+   "ans": 0,
+   "exp": "The use list: hirsutism. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-049",
+   "sec": "Androgen Receptor Blockers",
+   "page": 217,
+   "q": "Side effects are more common with which drug class?",
+   "opts": [
+    "Androgen receptor blockers > 5-alpha reductase inhibitors",
+    "5-alpha reductase inhibitors > androgen receptor blockers",
+    "Aromatase inhibitors > AR blockers",
+    "Both are equal"
+   ],
+   "ans": 0,
+   "exp": "The note: seen in androgen receptor blockers > 5-alpha reductase inhibitors. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-050",
+   "sec": "Androgen Receptor Blockers",
+   "page": 217,
+   "q": "Side effects of androgen receptor blockers listed are:",
+   "opts": [
+    "Gynecomastia and impotence",
+    "Osteoporosis and hot flashes",
+    "Thrombosis and uterine carcinoma",
+    "Dyspareunia and weight gain"
+   ],
+   "ans": 0,
+   "exp": "The side-effect list: gynecomastia, impotence. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-051",
+   "sec": "Aromatase Inhibitors",
+   "page": 217,
+   "q": "Aromatase inhibitors act in:",
+   "opts": [
+    "Adipocytes of post-menopausal females",
+    "Testicular Sertoli cells",
+    "Ovarian theca cells of premenopausal women",
+    "Pituitary gonadotrophs"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: in adipocytes of post-menopausal females. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-052",
+   "sec": "Aromatase Inhibitors",
+   "page": 217,
+   "q": "The reaction blocked by aromatase inhibitors is:",
+   "opts": [
+    "Testosterone to estrogen",
+    "Testosterone to DHT",
+    "Cholesterol to pregnenolone",
+    "Estradiol to estrone"
+   ],
+   "ans": 0,
+   "exp": "The flow: testosterone blocked (aromatase) from becoming estrogen. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-053",
+   "sec": "Aromatase Inhibitors",
+   "page": 217,
+   "q": "The aromatase inhibitors listed are:",
+   "opts": [
+    "Exemestane and letrozole",
+    "Finasteride and dutasteride",
+    "Tamoxifen and raloxifene",
+    "Goserelin and leuprolide"
+   ],
+   "ans": 0,
+   "exp": "The drug list: exemestane, letrozole. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-054",
+   "sec": "Aromatase Inhibitors",
+   "page": 217,
+   "q": "Aromatase inhibitors are DOC for:",
+   "opts": [
+    "Post-menopausal ER(+) Ca breast and anovulation D/t PCOS",
+    "Premenopausal ER(+) Ca breast",
+    "All cases of anovulation",
+    "Prostate cancer"
+   ],
+   "ans": 0,
+   "exp": "The use block: DOC for post-menopausal ER(+) Ca breast; anovulation D/t PCOS. (Book p217)"
+  },
+  {
+   "id": "PHARM-C53-055",
+   "sec": "Aromatase Inhibitors",
+   "page": 217,
+   "q": "The DOC in gender change surgeries is:",
+   "opts": [
+    "Leuprolide",
+    "Letrozole",
+    "Flutamide",
+    "Goserelin"
+   ],
+   "ans": 0,
+   "exp": "The note: DOC in gender change surgeries - leuprolide. (Book p217)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U53-1",
+   "ch": 53,
+   "n": 1,
+   "title": "GnRH and GnRH-Related Drugs",
+   "sec": "GnRH and GnRH-Related Drugs · p215",
+   "qs": [
+    "PHARM-C53-001",
+    "PHARM-C53-002",
+    "PHARM-C53-003",
+    "PHARM-C53-004",
+    "PHARM-C53-005",
+    "PHARM-C53-006",
+    "PHARM-C53-007",
+    "PHARM-C53-008",
+    "PHARM-C53-009",
+    "PHARM-C53-010",
+    "PHARM-C53-011",
+    "PHARM-C53-012",
+    "PHARM-C53-013",
+    "PHARM-C53-014",
+    "PHARM-C53-015",
+    "PHARM-C53-016",
+    "PHARM-C53-017",
+    "PHARM-C53-018",
+    "PHARM-C53-019"
+   ],
+   "guide": "Hypothalamic GnRH is released in pulsatile fashion, acting on Gs/Gq receptors of pituitary gonadotroph cells to raise LH/FSH: in females this drives ovulation (LH surge) and synthesis of estrogen and progesterone; in males, spermatogenesis and testosterone. GnRH agonists - goserelin, buserelin, nafarelin, leuprolide - given intermittently raise LH/FSH and treat infertility due to anovulation or oligospermia plus delayed puberty; continuous dosing first raises then lowers LH/FSH by receptor downregulation, treating precocious puberty, estrogen-dependent conditions (ER-positive breast cancer, endometriosis, fibroids) and testosterone-dependent prostate cancer (DOC goserelin). GnRH antagonists - ganirelix, cetrorelix, abarelix, elagolix - directly lower LH/FSH. Gonadorelin, the GnRH analog, diagnoses the cause of hypogonadism (hypothalamic vs pituitary) and treats anovulation."
+  },
+  {
+   "id": "PHARM-U53-2",
+   "ch": 53,
+   "n": 2,
+   "title": "Selective Estrogen Receptor Modulators (SERMs)",
+   "sec": "Selective Estrogen Receptor Modulators (SERMs) · p216",
+   "qs": [
+    "PHARM-C53-020",
+    "PHARM-C53-021",
+    "PHARM-C53-022",
+    "PHARM-C53-023",
+    "PHARM-C53-024",
+    "PHARM-C53-025",
+    "PHARM-C53-026",
+    "PHARM-C53-027"
+   ],
+   "guide": "Tamoxifen treats ER-positive breast cancer in premenopausal females; raloxifene provides prophylaxis of ER-positive breast cancer and treats post-menopausal osteoporosis in females at high risk for ER-positive breast cancer, used in post-menopausal females. Shared side effects are thrombosis and hot flashes, while uterine carcinoma occurs only with tamoxifen. Other SERMs: toremifene treats ER-positive breast cancer and ospemifene treats post-menopausal dyspareunia."
+  },
+  {
+   "id": "PHARM-U53-3",
+   "ch": 53,
+   "n": 3,
+   "title": "SERDs: Clomiphene, Fulvestrant, Elacestrant",
+   "sec": "SERDs: Clomiphene, Fulvestrant, Elacestrant · p216",
+   "qs": [
+    "PHARM-C53-028",
+    "PHARM-C53-029",
+    "PHARM-C53-030",
+    "PHARM-C53-031",
+    "PHARM-C53-032",
+    "PHARM-C53-033",
+    "PHARM-C53-034",
+    "PHARM-C53-035"
+   ],
+   "guide": "Clomiphene citrate is a partial agonist at pituitary estrogen receptors: the positive feedback to the hypothalamus raises GnRH, raising LH and triggering ovulation; it is DOC for anovulation WITHOUT PCOS, while letrozole is DOC when PCOS is present. Fulvestrant blocks ER at breast, is 100 times more potent than tamoxifen and treats resistant post-menopausal breast cancer. Elacestrant is used for ER-positive breast cancer with ESR1 (estrogen receptor 1) mutation."
+  },
+  {
+   "id": "PHARM-U53-4",
+   "ch": 53,
+   "n": 4,
+   "title": "Selective Progesterone Receptor Modulator (SPRM)",
+   "sec": "Selective Progesterone Receptor Modulator (SPRM) · p217",
+   "qs": [
+    "PHARM-C53-036",
+    "PHARM-C53-037",
+    "PHARM-C53-038",
+    "PHARM-C53-039",
+    "PHARM-C53-040"
+   ],
+   "guide": "Ulipristal is the SPRM used for emergency contraception - 30 mg single dose within 5 days of unprotected intercourse. The DOC for emergency contraception in India is levonorgestrel: 1.5 mg single dose within 72 hours, or 0.75 mg two doses 12 hours apart within 72 hours of unprotected intercourse."
+  },
+  {
+   "id": "PHARM-U53-5",
+   "ch": 53,
+   "n": 5,
+   "title": "5-Alpha Reductase Inhibitors",
+   "sec": "5-Alpha Reductase Inhibitors · p217",
+   "qs": [
+    "PHARM-C53-041",
+    "PHARM-C53-042",
+    "PHARM-C53-043",
+    "PHARM-C53-044",
+    "PHARM-C53-045"
+   ],
+   "guide": "Finasteride and dutasteride block conversion of testosterone to dihydrotestosterone (DHT). Uses: DOC for androgenic alopecia at 1 mg dose; in benign prostatic hyperplasia they reduce the size and weight of the prostate, improving outcome. The DOC for BPH overall, however, is tamsulosin or silodosin."
+  },
+  {
+   "id": "PHARM-U53-6",
+   "ch": 53,
+   "n": 6,
+   "title": "Androgen Receptor Blockers",
+   "sec": "Androgen Receptor Blockers · p217",
+   "qs": [
+    "PHARM-C53-046",
+    "PHARM-C53-047",
+    "PHARM-C53-048",
+    "PHARM-C53-049",
+    "PHARM-C53-050"
+   ],
+   "guide": "Flutamide, bicalutamide, enzalutamide and apalutamide block androgen receptors. Uses: add-on drug for prostate cancer and hirsutism. Side effects are more frequent than with 5-alpha reductase inhibitors: gynecomastia and impotence."
+  },
+  {
+   "id": "PHARM-U53-7",
+   "ch": 53,
+   "n": 7,
+   "title": "Aromatase Inhibitors",
+   "sec": "Aromatase Inhibitors · p217",
+   "qs": [
+    "PHARM-C53-051",
+    "PHARM-C53-052",
+    "PHARM-C53-053",
+    "PHARM-C53-054",
+    "PHARM-C53-055"
+   ],
+   "guide": "In adipocytes of post-menopausal females, aromatase converts testosterone to estrogen; exemestane and letrozole block this step. Uses - DOC for post-menopausal ER-positive carcinoma breast and for anovulation due to PCOS. The DOC in gender change surgeries is leuprolide."
+  }
+ ]
+}

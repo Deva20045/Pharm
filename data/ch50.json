@@ -1,0 +1,601 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C50-001",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "The benzimidazole most common in WESTERN countries is:",
+   "opts": [
+    "Mebendazole",
+    "Albendazole",
+    "Thiabendazole",
+    "Triclabendazole"
+   ],
+   "ans": 0,
+   "exp": "The drug list: mebendazole - m/c in western countries. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-002",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "The benzimidazole most common in INDIA is:",
+   "opts": [
+    "Albendazole",
+    "Mebendazole",
+    "Triclabendazole",
+    "Thiabendazole"
+   ],
+   "ans": 0,
+   "exp": "Albendazole is marked m/c in India. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-003",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "Which is NOT a benzimidazole listed?",
+   "opts": [
+    "Praziquantel",
+    "Mebendazole",
+    "Triclabendazole",
+    "Thiabendazole"
+   ],
+   "ans": 0,
+   "exp": "The list: mebendazole, triclabendazole, thiabendazole, albendazole. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-004",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "Albendazole is a:",
+   "opts": [
+    "Prodrug",
+    "Active drug directly",
+    "Metabolite",
+    "Enzyme inducer"
+   ],
+   "ans": 0,
+   "exp": "The albendazole line: prodrug. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-005",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "The active drug of albendazole formed in the liver is:",
+   "opts": [
+    "Albendazole sulfoxide",
+    "Albendazole sulfone",
+    "Albendazole N-oxide",
+    "Fenbendazole"
+   ],
+   "ans": 0,
+   "exp": "The line: active drug - albendazole sulfoxide (in liver). (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-006",
+   "sec": "Benzimidazoles",
+   "page": 205,
+   "q": "The MOA of albendazole is:",
+   "opts": [
+    "Blocks microtubules in intestinal cells of helminths, decreasing glucose absorption (decreased ATP)",
+    "Stimulates glutamate-gated chloride channels",
+    "Stimulates Ca2+ channels",
+    "Inhibits ACh esterase"
+   ],
+   "ans": 0,
+   "exp": "The MOA line: blocks microtubules in intestinal cells of helminths, leading to down glucose absorption (down ATP). (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-007",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "The DOC column for round worm, whip worm, hook worm, Enterobius vermicularis and Trichinella spiralis is:",
+   "opts": [
+    "Albendazole",
+    "Ivermectin",
+    "DEC",
+    "Metronidazole"
+   ],
+   "ans": 0,
+   "exp": "The nematode DOC tree lists these under albendazole. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-008",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "Ivermectin is the DOC for:",
+   "opts": [
+    "Strongyloides and Onchocerca volvulus",
+    "Round worm and whip worm",
+    "Loa loa and filariasis",
+    "Dracunculiasis"
+   ],
+   "ans": 0,
+   "exp": "The ivermectin branch: strongyloides, onchocerca volvulus. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-009",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "Onchocerca volvulus causes:",
+   "opts": [
+    "River blindness",
+    "Dracunculiasis",
+    "Filariasis",
+    "Neurocysticercosis"
+   ],
+   "ans": 0,
+   "exp": "The branch writes onchocerca volvulus (river blindness). (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-010",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "The DOC for Loa loa is:",
+   "opts": [
+    "Diethylcarbamazine (DEC)",
+    "Ivermectin",
+    "Albendazole",
+    "Praziquantel"
+   ],
+   "ans": 0,
+   "exp": "The DEC branch lists Loa loa. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-011",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "The TOC for filariasis is:",
+   "opts": [
+    "IDA (ivermectin, DEC, albendazole)",
+    "DEC monotherapy",
+    "Ivermectin monotherapy",
+    "Praziquantel + albendazole"
+   ],
+   "ans": 0,
+   "exp": "The filariasis note: TOC IDA (ivermedtin, DEC, albendazole). (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-012",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "The drug listed as DOC for dracunculiasis is:",
+   "opts": [
+    "Metronidazole",
+    "DEC",
+    "Ivermectin",
+    "Thiabendazole"
+   ],
+   "ans": 0,
+   "exp": "The metronidazole branch: dracunculiasis. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-013",
+   "sec": "Common Helminths and Drugs: Nematodes",
+   "page": 205,
+   "q": "Which nematode infection is treated with metronidazole as DOC?",
+   "opts": [
+    "Dracunculiasis",
+    "Strongyloidiasis",
+    "Onchocerciasis",
+    "Trichinellosis"
+   ],
+   "ans": 0,
+   "exp": "Only dracunculiasis sits under metronidazole in the DOC tree. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-014",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "The DOC for neurocysticercosis (T. solium) is:",
+   "opts": [
+    "Albendazole",
+    "Praziquantel",
+    "Mebendazole",
+    "DEC"
+   ],
+   "ans": 0,
+   "exp": "The cestode DOC tree lists neurocysticercosis under albendazole. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-015",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "The FIRST PRIORITY of treatment of neurocysticercosis is:",
+   "opts": [
+    "Steroids (to decrease perilesional edema)",
+    "Albendazole immediately",
+    "Praziquantel immediately",
+    "Surgery"
+   ],
+   "ans": 0,
+   "exp": "The note: first priority of treatment of neurocysticercosis is steroids (to down perilesional edema). (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-016",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "The DOC for echinococcus is:",
+   "opts": [
+    "Albendazole",
+    "Praziquantel",
+    "Mebendazole",
+    "Niclosamide"
+   ],
+   "ans": 0,
+   "exp": "The cestode DOC tree lists echinococcus under albendazole. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-017",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "Praziquantel as cestode DOC covers:",
+   "opts": [
+    "Intestinal T. solium, T. saginata, H. nana, D. latum",
+    "Neurocysticercosis and echinococcus",
+    "Fasciola hepatica",
+    "Schistosoma only"
+   ],
+   "ans": 0,
+   "exp": "The praziquantel branch lists intestinal T. solium, T. saginata, H. nana, D. latum. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-018",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "The DOC for Fasciola hepatica is:",
+   "opts": [
+    "Triclabendazole",
+    "Praziquantel",
+    "Albendazole",
+    "Mebendazole"
+   ],
+   "ans": 0,
+   "exp": "The trematode DOC tree: triclabendazole - fasciola hepatica. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-019",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "Under praziquantel, the trematodes covered are:",
+   "opts": [
+    "Other liver flukes, all lung flukes, schistosoma",
+    "Only Fasciola hepatica",
+    "Only schistosoma",
+    "Cestodes only"
+   ],
+   "ans": 0,
+   "exp": "The praziquantel trematode branch lists other liver flukes, all lung flukes, schistosoma. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-020",
+   "sec": "Cestodes and Trematodes",
+   "page": 205,
+   "q": "The note about albendazole and flukes states albendazole is:",
+   "opts": [
+    "Ineffective against trematodes",
+    "DOC for trematodes",
+    "DOC for lung flukes",
+    "Effective against all flukes"
+   ],
+   "ans": 0,
+   "exp": "The note: albendazole ineffective against trematodes. (Book p205)"
+  },
+  {
+   "id": "PHARM-C50-021",
+   "sec": "Cestodes and Trematodes",
+   "page": 206,
+   "q": "Schistosoma DOC among the trematode drugs is:",
+   "opts": [
+    "Praziquantel",
+    "Triclabendazole",
+    "Albendazole",
+    "Metrifonate only"
+   ],
+   "ans": 0,
+   "exp": "Schistosoma is listed in the praziquantel branch of the trematode DOC tree. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-022",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The MOA of ivermectin is:",
+   "opts": [
+    "Stimulates glutamate sensitive chloride channels leading to tonic paralysis",
+    "Stimulates Ca2+ channels causing spastic paralysis",
+    "Stimulates GABA-sensitive Cl- channels",
+    "Inhibits ACh esterase"
+   ],
+   "ans": 0,
+   "exp": "The ivermectin block: stimulates glutamate sensitive chloride channels, then tonic paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-023",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The type of paralysis caused by ivermectin is:",
+   "opts": [
+    "Tonic paralysis",
+    "Flaccid paralysis",
+    "Spastic paralysis",
+    "No paralysis"
+   ],
+   "ans": 0,
+   "exp": "The arrow under ivermectin MOA ends in tonic paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-024",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The other use of ivermectin written is:",
+   "opts": [
+    "Oral DOC in scabies",
+    "Oral DOC in pediculosis",
+    "DOC in malaria",
+    "DOC in giardiasis"
+   ],
+   "ans": 0,
+   "exp": "The line: other uses - oral DOC in scabies. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-025",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The side effect of ivermectin is:",
+   "opts": [
+    "Mazzotti-like reaction (D/t dying parasite)",
+    "Bull's eye retinopathy",
+    "Green urine",
+    "Disulfiram-like reaction"
+   ],
+   "ans": 0,
+   "exp": "The side-effect line: mazzotti-like reaction (d/t dying parasite). (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-026",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Features of the Mazzotti-like reaction include:",
+   "opts": [
+    "Rash and lymphadenopathy",
+    "Hemolysis and methemoglobinemia",
+    "Optic neuritis",
+    "QT prolongation"
+   ],
+   "ans": 0,
+   "exp": "The bracket under Mazzotti-like: rash, lymphadenopathy. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-027",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Besides ivermectin, the Mazzotti-like reaction is also seen with:",
+   "opts": [
+    "DEC",
+    "Albendazole",
+    "Praziquantel",
+    "Piperazine"
+   ],
+   "ans": 0,
+   "exp": "The note: also seen in DEC. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-028",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The MOA of praziquantel is:",
+   "opts": [
+    "Stimulates Ca2+ channels leading to spastic paralysis",
+    "Stimulates glutamate Cl- channels",
+    "Blocks microtubules",
+    "Stimulates GABA Cl- channels"
+   ],
+   "ans": 0,
+   "exp": "The praziquantel block: stimulates Ca2+ channels, spastic paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-029",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Besides praziquantel, spastic paralysis is also caused by:",
+   "opts": [
+    "Pyrantel pamoate and metrifonate",
+    "Piperazine and ivermectin",
+    "Albendazole and mebendazole",
+    "DEC and ivermectin"
+   ],
+   "ans": 0,
+   "exp": "The line: also caused by pyrantel pamoate, metrifonate. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-030",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The MOA of metrifonate is:",
+   "opts": [
+    "Inhibits ACh esterase leading to increased ACh",
+    "Stimulates Nn receptors",
+    "Blocks Ca2+ channels",
+    "Stimulates GABA Cl- channels"
+   ],
+   "ans": 0,
+   "exp": "The metrifonate block: MOA inhibits ACh esterase, increased ACh. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-031",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Metrifonate is used for:",
+   "opts": [
+    "Schistosoma haematobium",
+    "Fasciola hepatica",
+    "T. saginata",
+    "Onchocerca volvulus"
+   ],
+   "ans": 0,
+   "exp": "The metrifonate use line: schistosoma haematobium. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-032",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Pyrantel pamoate acts by:",
+   "opts": [
+    "Stimulating Nn receptors causing spastic paralysis",
+    "Blocking Nn receptors",
+    "Stimulating GABA Cl- channels",
+    "Blocking microtubules"
+   ],
+   "ans": 0,
+   "exp": "The pyrantel block: stimulates Nn receptors, spastic paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-033",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The use of pyrantel pamoate written is:",
+   "opts": [
+    "Earlier used for soil transmitted helminths",
+    "DOC for filariasis",
+    "DOC for scabies",
+    "DOC for schistosomiasis"
+   ],
+   "ans": 0,
+   "exp": "The use line: earlier used for soil transmitted helminths. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-034",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "The MOA of piperazine is:",
+   "opts": [
+    "Stimulates GABA sensitive Cl- channels causing flaccid paralysis",
+    "Stimulates glutamate Cl- channels",
+    "Stimulates Ca2+ channels",
+    "Inhibits AChE"
+   ],
+   "ans": 0,
+   "exp": "The piperazine block: stimulates GABA sensitive Cl- channels, flaccid paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-035",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Flaccid paralysis of worms is produced by:",
+   "opts": [
+    "Piperazine",
+    "Ivermectin",
+    "Praziquantel",
+    "Pyrantel pamoate"
+   ],
+   "ans": 0,
+   "exp": "Only piperazine's arrow ends in flaccid paralysis. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-036",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Piperazine is used for:",
+   "opts": [
+    "Soil transmitted helminths",
+    "Filariasis",
+    "River blindness",
+    "Schistosoma haematobium"
+   ],
+   "ans": 0,
+   "exp": "The piperazine use line: soil transmitted helminths. (Book p206)"
+  },
+  {
+   "id": "PHARM-C50-037",
+   "sec": "Specifics of Drugs",
+   "page": 206,
+   "q": "Which drug pair correctly matches paralysis type?",
+   "opts": [
+    "Ivermectin - tonic; praziquantel - spastic; piperazine - flaccid",
+    "Ivermectin - spastic; praziquantel - tonic; piperazine - flaccid",
+    "Ivermectin - flaccid; praziquantel - tonic; piperazine - spastic",
+    "All three cause spastic paralysis"
+   ],
+   "ans": 0,
+   "exp": "Ivermectin gives tonic, praziquantel spastic, piperazine flaccid paralysis. (Book p206)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U50-1",
+   "ch": 50,
+   "n": 1,
+   "title": "Benzimidazoles",
+   "sec": "Benzimidazoles · p205",
+   "qs": [
+    "PHARM-C50-001",
+    "PHARM-C50-002",
+    "PHARM-C50-003",
+    "PHARM-C50-004",
+    "PHARM-C50-005",
+    "PHARM-C50-006"
+   ],
+   "guide": "The benzimidazoles are mebendazole (most common in western countries), triclabendazole, thiabendazole and albendazole - a prodrug, most common in India, activated in the liver to albendazole sulfoxide. Its MOA is blocking microtubules in the intestinal cells of helminths, reducing glucose absorption and thus ATP."
+  },
+  {
+   "id": "PHARM-U50-2",
+   "ch": 50,
+   "n": 2,
+   "title": "Common Helminths and Drugs: Nematodes",
+   "sec": "Common Helminths and Drugs: Nematodes · p205",
+   "qs": [
+    "PHARM-C50-007",
+    "PHARM-C50-008",
+    "PHARM-C50-009",
+    "PHARM-C50-010",
+    "PHARM-C50-011",
+    "PHARM-C50-012",
+    "PHARM-C50-013"
+   ],
+   "guide": "Nematode DOCs: albendazole covers round worm, whip worm, hook worm, Enterobius vermicularis and Trichinella spiralis; ivermectin covers Strongyloides and Onchocerca volvulus (river blindness); diethylcarbamazine covers Loa loa and filariasis, whose TOC is IDA (ivermectin, DEC, albendazole); metronidazole covers dracunculiasis."
+  },
+  {
+   "id": "PHARM-U50-3",
+   "ch": 50,
+   "n": 3,
+   "title": "Cestodes and Trematodes",
+   "sec": "Cestodes and Trematodes · p205",
+   "qs": [
+    "PHARM-C50-014",
+    "PHARM-C50-015",
+    "PHARM-C50-016",
+    "PHARM-C50-017",
+    "PHARM-C50-018",
+    "PHARM-C50-019",
+    "PHARM-C50-020",
+    "PHARM-C50-021"
+   ],
+   "guide": "Cestode DOCs: albendazole for neurocysticercosis (T. solium) and echinococcus; praziquantel for intestinal T. solium, T. saginata, H. nana and D. latum. First priority in neurocysticercosis treatment is steroids to reduce perilesional edema. Trematode DOCs: triclabendazole for Fasciola hepatica; praziquantel for other liver flukes, all lung flukes and schistosoma; albendazole is ineffective against trematodes."
+  },
+  {
+   "id": "PHARM-U50-4",
+   "ch": 50,
+   "n": 4,
+   "title": "Specifics of Drugs",
+   "sec": "Specifics of Drugs · p206",
+   "qs": [
+    "PHARM-C50-022",
+    "PHARM-C50-023",
+    "PHARM-C50-024",
+    "PHARM-C50-025",
+    "PHARM-C50-026",
+    "PHARM-C50-027",
+    "PHARM-C50-028",
+    "PHARM-C50-029",
+    "PHARM-C50-030",
+    "PHARM-C50-031",
+    "PHARM-C50-032",
+    "PHARM-C50-033",
+    "PHARM-C50-034",
+    "PHARM-C50-035",
+    "PHARM-C50-036",
+    "PHARM-C50-037"
+   ],
+   "guide": "Ivermectin stimulates glutamate-sensitive chloride channels causing tonic paralysis; it is also the oral DOC in scabies, and causes a Mazzotti-like reaction (rash, lymphadenopathy) from dying parasites, also seen with DEC. Praziquantel stimulates Ca2+ channels causing spastic paralysis, as do pyrantel pamoate (Nn receptors) and metrifonate. Metrifonate inhibits ACh esterase raising ACh and is used for Schistosoma haematobium. Pyrantel pamoate was earlier used for soil-transmitted helminths. Piperazine stimulates GABA-sensitive Cl- channels causing flaccid paralysis and is used for soil-transmitted helminths."
+  }
+ ]
+}
