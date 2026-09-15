@@ -1,0 +1,951 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C56-001",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "PTH and vitamin D3 act in bone remodeling by:",
+   "opts": [
+    "Inducing synthesis of RANK ligand (Step-I)",
+    "Directly killing osteoclasts",
+    "Inhibiting sclerostin",
+    "Activating calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Step-I: Induce Synthesis of RANK ligand - PTH/Vit D3 (+). (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-002",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Step-II of bone remodeling is:",
+   "opts": [
+    "RANK ligand activates RANK receptor",
+    "Change in structure of osteoclast",
+    "Osteoclast damages bone",
+    "Activation of osteoblast"
+   ],
+   "ans": 0,
+   "exp": "Step-II: RANK ligand activates RANK receptor. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-003",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Step-III of bone remodeling is:",
+   "opts": [
+    "Change in structure of osteoclast with ruffled borders",
+    "Osteoclast damages bone",
+    "Activation of osteoblast",
+    "Bone formation at site of injury"
+   ],
+   "ans": 0,
+   "exp": "Step-III: Change in structure of Osteoclast, Ruffled borders. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-004",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Step-IV of bone remodeling is:",
+   "opts": [
+    "Osteoclast damages bone (Bone resorption)",
+    "Activation of osteoblast",
+    "Bone formation at site of injury",
+    "Synthesis of RANK ligand"
+   ],
+   "ans": 0,
+   "exp": "Step-IV: Osteoclast damages bone (Bone resorption). (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-005",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Step-V of bone remodeling is:",
+   "opts": [
+    "Activation of osteoblast",
+    "Bone resorption",
+    "Change in osteoclast structure",
+    "RANK ligand synthesis"
+   ],
+   "ans": 0,
+   "exp": "Step-V: Activation of Osteoblast. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-006",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Step-VI of bone remodeling is:",
+   "opts": [
+    "Bone formation at site of injury",
+    "Bone resorption",
+    "RANK ligand synthesis",
+    "Ruffled border formation"
+   ],
+   "ans": 0,
+   "exp": "Step-VI: Bone formation at site of injury. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-007",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "RANK ligand is produced by:",
+   "opts": [
+    "Osteoblast",
+    "Osteoclast",
+    "Osteocyte only",
+    "Chondrocyte"
+   ],
+   "ans": 0,
+   "exp": "Diagram: Osteoblast -> RANK ligand. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-008",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "RANK receptor is present on:",
+   "opts": [
+    "Osteoclast",
+    "Osteoblast",
+    "Osteocyte",
+    "Fibroblast"
+   ],
+   "ans": 0,
+   "exp": "Rank receptor on osteoclast. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-009",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "PTH analog teriparatide acts in bone remodeling by:",
+   "opts": [
+    "(+) Stimulating osteoblast leading to Step-V activation",
+    "Killing osteoclast directly",
+    "Inhibiting RANK ligand",
+    "Blocking sclerostin only"
+   ],
+   "ans": 0,
+   "exp": "PTH analog (Teriparatide) (+) Osteoblast -> Step V. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-010",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Raloxifene acts on bone by:",
+   "opts": [
+    "(+) Estrogen -> inhibits bone resorption",
+    "Inhibiting sclerostin",
+    "Directly killing osteoclast",
+    "Stimulating osteoblast only"
+   ],
+   "ans": 0,
+   "exp": "Raloxifene -> (+) Estrogen -> X Bone resorption. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-011",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Calcium analogs act by:",
+   "opts": [
+    "Fastest hypocalcemia via (+) Calcitonin -> inhibits bone resorption",
+    "Inhibiting RANK ligand",
+    "Stimulating sclerostin",
+    "Blocking PTH"
+   ],
+   "ans": 0,
+   "exp": "Calcium Analogs (Fastest Hypocalcemia) -> (+) Calcitonin. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-012",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Sclerostin inhibits:",
+   "opts": [
+    "Bone formation",
+    "Bone resorption",
+    "RANK ligand",
+    "Calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Diagram: Sclerostin X Bone formation. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-013",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Romosozumab acts by:",
+   "opts": [
+    "Inhibiting sclerostin (X Sclerostin)",
+    "Inhibiting RANK ligand",
+    "Stimulating estrogen",
+    "Blocking calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Romosozumab X Sclerostin. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-014",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Strontium ranelate action is:",
+   "opts": [
+    "(+) Bone formation + (-) Bone reabsorption",
+    "Only inhibits resorption",
+    "Only stimulates formation",
+    "Inhibits both formation and resorption"
+   ],
+   "ans": 0,
+   "exp": "Note: Strontium Ranolate Action (+) Bone formation + (-) Bone Reabsorption. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-015",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Denosumab acts in the remodeling diagram by:",
+   "opts": [
+    "Blocking osteoblast to osteoclast signal (X)",
+    "Killing mature osteoclasts",
+    "Inhibiting sclerostin",
+    "Stimulating estrogen"
+   ],
+   "ans": 0,
+   "exp": "Denosumab X between Osteoblast and Osteoclast. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-016",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "page": 224,
+   "q": "Bisphosphonates in the remodeling diagram are:",
+   "opts": [
+    "DOC for max hypocalcemia, Kill osteoclast",
+    "Fastest hypocalcemia",
+    "Only inhibit sclerostin",
+    "Only act on osteoblast"
+   ],
+   "ans": 0,
+   "exp": "Bisphosphonates (DOC) (max Hypocalcemia) Kill osteoclast. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-017",
+   "sec": "Bisphosphonates: MOA and Pharmacology",
+   "page": 224,
+   "q": "The MOA of bisphosphonates is:",
+   "opts": [
+    "Inhibits Farnesyl Pyrophosphate Synthase in Osteoclasts -> Apoptosis of Osteoclasts",
+    "Inhibits RANK ligand",
+    "Inhibits sclerostin",
+    "Stimulates osteoblast GLP-2 receptors"
+   ],
+   "ans": 0,
+   "exp": "MOA: Inhibits Farnesyl Pyrophosphate Synthase in Osteoclasts -> Apoptosis of Osteoclasts. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-018",
+   "sec": "Bisphosphonates: MOA and Pharmacology",
+   "page": 224,
+   "q": "Bisphosphonates are DOC for:",
+   "opts": [
+    "Maximum hypocalcemia",
+    "Fastest hypocalcemia",
+    "Hypercalcemia with fastest action",
+    "Only Paget disease"
+   ],
+   "ans": 0,
+   "exp": "Bisphosphonates (DOC) (max Hypocalcemia). (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-019",
+   "sec": "Bisphosphonates: MOA and Pharmacology",
+   "page": 224,
+   "q": "The fastest hypocalcemia is produced by:",
+   "opts": [
+    "Calcium analogs (calcitonin)",
+    "Bisphosphonates",
+    "Denosumab",
+    "Raloxifene"
+   ],
+   "ans": 0,
+   "exp": "Calcium Analogs (Fastest Hypocalcemia). (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-020",
+   "sec": "Bisphosphonates: MOA and Pharmacology",
+   "page": 224,
+   "q": "The pharmacokinetics of bisphosphonates is:",
+   "opts": [
+    "Poor oral absorption",
+    "High oral absorption",
+    "Complete IV absorption only",
+    "Lipid soluble high absorption"
+   ],
+   "ans": 0,
+   "exp": "Pharmacokinetics: Poor oral absorption. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-021",
+   "sec": "Bisphosphonates: MOA and Pharmacology",
+   "page": 224,
+   "q": "Due to poor oral absorption, bisphosphonates should be:",
+   "opts": [
+    "Taken on empty stomach",
+    "Taken with milk",
+    "Taken with calcium",
+    "Taken with food"
+   ],
+   "ans": 0,
+   "exp": "Poor oral absorption -> Taken on empty stomach. (Book p224)"
+  },
+  {
+   "id": "PHARM-C56-022",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "IV bisphosphonates are:",
+   "opts": [
+    "Pamidronate and zoledronate",
+    "Risedronate and alendronate",
+    "Ibandronate only",
+    "Etidronate only"
+   ],
+   "ans": 0,
+   "exp": "Drugs and Route: IV: Pamidronate, Zoledronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-023",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Pamidronate dosing is:",
+   "opts": [
+    "3 monthly",
+    "Once yearly",
+    "Once daily",
+    "Once weekly"
+   ],
+   "ans": 0,
+   "exp": "Pamidronate: 3 monthly. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-024",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Zoledronate dosing and properties are:",
+   "opts": [
+    "Preferred, once yearly, longest acting, more potent",
+    "Least potent, daily",
+    "Only for Paget",
+    "Only oral"
+   ],
+   "ans": 0,
+   "exp": "Zoledronate: Preferred, Once yearly, Longest acting, more potent. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-025",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "IV bisphosphonates are given for:",
+   "opts": [
+    "3 years",
+    "5 years",
+    "1 year",
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "IV: for 3 years. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-026",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Oral bisphosphonates are:",
+   "opts": [
+    "Risedronate and alendronate",
+    "Pamidronate and zoledronate",
+    "Etidronate only",
+    "Clodronate only"
+   ],
+   "ans": 0,
+   "exp": "Oral: Risedronate, Alendronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-027",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Risedronate dosing is:",
+   "opts": [
+    "OD (once daily)",
+    "3 monthly",
+    "Once yearly",
+    "BD"
+   ],
+   "ans": 0,
+   "exp": "Risedronate: OD. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-028",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Alendronate is:",
+   "opts": [
+    "Preferred oral bisphosphonate, OD",
+    "IV only",
+    "Weekly only",
+    "Not preferred"
+   ],
+   "ans": 0,
+   "exp": "Alendronate Preferred OD. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-029",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "Oral bisphosphonates are given for:",
+   "opts": [
+    "5 years",
+    "3 years",
+    "1 year",
+    "2 years"
+   ],
+   "ans": 0,
+   "exp": "Oral for 5 years. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-030",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "The DOC for osteoporosis is:",
+   "opts": [
+    "Alendronate",
+    "Zoledronate",
+    "Pamidronate",
+    "Risedronate"
+   ],
+   "ans": 0,
+   "exp": "Use: DOC: Osteoporosis: Alendronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-031",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "If intolerance to alendronate in osteoporosis:",
+   "opts": [
+    "Zoledronate",
+    "Pamidronate",
+    "Risedronate",
+    "Stop therapy"
+   ],
+   "ans": 0,
+   "exp": "Alendronate Intolerance -> Zoledronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-032",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "For hypercalcemia of malignancy:",
+   "opts": [
+    "Start zoledronate",
+    "Start alendronate",
+    "Start pamidronate only",
+    "Start risedronate"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia of malignancy -> Start zoledronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-033",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "page": 225,
+   "q": "For Paget disease of bone:",
+   "opts": [
+    "Start zoledronate",
+    "Start alendronate first",
+    "Start risedronate only",
+    "Start calcitonin first"
+   ],
+   "ans": 0,
+   "exp": "Paget disease -> Start zoledronate. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-034",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "The side effect of oral bisphosphonates is:",
+   "opts": [
+    "Esophagitis",
+    "Gastritis with bleeding",
+    "Osteosarcoma",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "Side effect: Oral route: Esophagitis. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-035",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "Prevention of bisphosphonate esophagitis includes:",
+   "opts": [
+    "Take drug with full glass of water",
+    "Take with milk",
+    "Take at bedtime",
+    "Take with antacids"
+   ],
+   "ans": 0,
+   "exp": "Prevention: i. Take drug with full glass of water. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-036",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "Second prevention of esophagitis is:",
+   "opts": [
+    "Do not lie down for 30 min",
+    "Lie down immediately",
+    "Take with calcium",
+    "Take on empty bladder"
+   ],
+   "ans": 0,
+   "exp": "ii. Do not lie down for 30 min. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-037",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "IV > Oral route side effects include:",
+   "opts": [
+    "Bone fracture, hypercalcemia (maximum), osteonecrosis of jaw",
+    "Only esophagitis",
+    "Only renal stones",
+    "Only alopecia"
+   ],
+   "ans": 0,
+   "exp": "IV > Oral Route: Bone fracture, Hypercalcemia (maximum), Osteonecrosis of jaw. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-038",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "The characteristic fracture with bisphosphonates is:",
+   "opts": [
+    "Femoral chalk-stick fracture",
+    "Colles fracture",
+    "Vertebral compression only",
+    "Scaphoid fracture"
+   ],
+   "ans": 0,
+   "exp": "Bone fracture: Femoral chalk-stick fracture (Characteristic fracture). (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-039",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "The DOC for bisphosphonate-induced femoral chalk-stick fracture is:",
+   "opts": [
+    "Teriparatide",
+    "Zoledronate",
+    "Alendronate",
+    "Denosumab"
+   ],
+   "ans": 0,
+   "exp": "DOC: Teriparatide. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-040",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "Osteonecrosis of jaw is a side effect of:",
+   "opts": [
+    "Bisphosphonates (IV > Oral)",
+    "Only calcitonin",
+    "Only teriparatide",
+    "Only raloxifene"
+   ],
+   "ans": 0,
+   "exp": "Osteonecrosis of jaw side effect. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-041",
+   "sec": "Bisphosphonates: Side Effects and Prevention",
+   "page": 225,
+   "q": "The IV bisphosphonate side effect of hypercalcemia is:",
+   "opts": [
+    "Maximum hypercalcemia",
+    "No hypercalcemia",
+    "Only hypocalcemia",
+    "Mild hypercalcemia only"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia (maximum). (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-042",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "The MOA of denosumab is:",
+   "opts": [
+    "Inhibits RANK ligand",
+    "Inhibits sclerostin",
+    "Inhibits farnesyl pyrophosphate synthase",
+    "Stimulates PTH receptor"
+   ],
+   "ans": 0,
+   "exp": "Denosumab MOA: Inhibits RANK ligand. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-043",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "Denosumab is used in:",
+   "opts": [
+    "Post menopausal Osteoporosis",
+    "Hypercalcemia of malignancy only",
+    "Paget disease DOC",
+    "Only in men"
+   ],
+   "ans": 0,
+   "exp": "Use: Post menopausal Osteoporosis. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-044",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "Raloxifene is a:",
+   "opts": [
+    "SERM that increases estrogen effect on bone",
+    "Bisphosphonate",
+    "Calcitonin analog",
+    "PTH analog"
+   ],
+   "ans": 0,
+   "exp": "Raloxifene is SERM, Estrogen agonist on bone. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-045",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "Calcitonin analog uses are:",
+   "opts": [
+    "Osteoporosis -> Intranasal Route, Paget disease -> S/C Route",
+    "Only IV for osteoporosis",
+    "Only oral for Paget",
+    "Only for hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "Use: Osteoporosis -> Intranasal Route, Paget disease -> S/C Route. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-046",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "The side effect of calcitonin analog is:",
+   "opts": [
+    "Increased risk of cancer",
+    "Osteonecrosis of jaw",
+    "Chalk-stick fracture",
+    "Esophagitis"
+   ],
+   "ans": 0,
+   "exp": "S/E: ↑ Risk of cancer. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-047",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "Intranasal route is used for calcitonin in:",
+   "opts": [
+    "Osteoporosis",
+    "Paget disease",
+    "Hypercalcemia of malignancy",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Osteoporosis -> Intranasal Route. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-048",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog",
+   "page": 225,
+   "q": "S/C route for calcitonin is used in:",
+   "opts": [
+    "Paget disease",
+    "Osteoporosis",
+    "Hypercalcemia only",
+    "Only for nasal polyps"
+   ],
+   "ans": 0,
+   "exp": "Paget disease -> S/C Route. (Book p225)"
+  },
+  {
+   "id": "PHARM-C56-049",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "The PTH analog used as anabolic drug is:",
+   "opts": [
+    "Teriparatide",
+    "Abaloparatide",
+    "Romosozumab",
+    "Denosumab"
+   ],
+   "ans": 0,
+   "exp": "PTH Analog: Teriparatide. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-050",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "The side effect of teriparatide is:",
+   "opts": [
+    "Osteosarcoma",
+    "Osteonecrosis of jaw",
+    "Esophagitis",
+    "Chalk-stick fracture"
+   ],
+   "ans": 0,
+   "exp": "S/E: Osteosarcoma. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-051",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "Teriparatide is contraindicated in:",
+   "opts": [
+    "Paget disease",
+    "Osteoporosis",
+    "Hypercalcemia of malignancy",
+    "Postmenopausal osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "C/I: Paget disease. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-052",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "Maximum duration of teriparatide use is:",
+   "opts": [
+    "2 years",
+    "3 years",
+    "5 years",
+    "Lifelong"
+   ],
+   "ans": 0,
+   "exp": "Use: maximum use for 2 years. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-053",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "PTHrP analog is:",
+   "opts": [
+    "Abaloparatide",
+    "Teriparatide",
+    "Romosozumab",
+    "Calcitonin"
+   ],
+   "ans": 0,
+   "exp": "PTHrP Analog: Abaloparatide. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-054",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "Romosozumab MOA is:",
+   "opts": [
+    "Inhibits Sclerostin",
+    "Inhibits RANK ligand",
+    "Inhibits farnesyl pyrophosphate synthase",
+    "Stimulates RANK ligand"
+   ],
+   "ans": 0,
+   "exp": "Romosozumab MOA: Inhibits Sclerostin. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-055",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "Postmenopausal osteoporosis first line DOC is:",
+   "opts": [
+    "Alendronate (DOC)",
+    "Zoledronate",
+    "Denosumab",
+    "Teriparatide"
+   ],
+   "ans": 0,
+   "exp": "Note: Post menopausal Osteoporosis: Start: Alendronate (DOC). (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-056",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "After alendronate intolerance, next drug is:",
+   "opts": [
+    "Zoledronate",
+    "Denosumab",
+    "Teriparatide",
+    "Raloxifene"
+   ],
+   "ans": 0,
+   "exp": "Intolerance -> Zolendronate. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-057",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "After zoledronate intolerance, next step is:",
+   "opts": [
+    "Check for Risk of fracture",
+    "Stop treatment",
+    "Start calcium only",
+    "Start estrogen only"
+   ],
+   "ans": 0,
+   "exp": "Zolendronate Intolerance -> Check for Risk of fracture. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-058",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "High fracture risk after bisphosphonate intolerance gets:",
+   "opts": [
+    "Denosumab",
+    "Teriparatide",
+    "Romosozumab",
+    "Alendronate again"
+   ],
+   "ans": 0,
+   "exp": "High: Denosumab. (Book p226)"
+  },
+  {
+   "id": "PHARM-C56-059",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "page": 226,
+   "q": "Very high fracture risk gets:",
+   "opts": [
+    "Anabolic drugs: Teriparatide, Romosozumab",
+    "Only calcium",
+    "Only bisphosphonates",
+    "Only denosumab"
+   ],
+   "ans": 0,
+   "exp": "Very high: Anabolic Drugs: Teriparatide, Romosozumab. (Book p226)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U56-1",
+   "ch": 56,
+   "n": 1,
+   "title": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling",
+   "sec": "Calcium Homeostasis: RANK-RANKL Physiology and Steps of Bone Remodeling · p224",
+   "qs": [
+    "PHARM-C56-001",
+    "PHARM-C56-002",
+    "PHARM-C56-003",
+    "PHARM-C56-004",
+    "PHARM-C56-005",
+    "PHARM-C56-006",
+    "PHARM-C56-007",
+    "PHARM-C56-008",
+    "PHARM-C56-009",
+    "PHARM-C56-010",
+    "PHARM-C56-011",
+    "PHARM-C56-012",
+    "PHARM-C56-013",
+    "PHARM-C56-014",
+    "PHARM-C56-015",
+    "PHARM-C56-016"
+   ],
+   "guide": "PTH and vitamin D3 stimulate osteoblasts to synthesize RANK ligand (Step-I). RANK ligand activates RANK receptor on osteoclast precursors (Step-II), causing structural change with ruffled borders (Step-III) and bone resorption (Step-IV). The resorption triggers osteoblast activation (Step-V) and new bone formation at the injury site (Step-VI). Strontium ranelate is unique with dual action — it increases bone formation and decreases bone resorption."
+  },
+  {
+   "id": "PHARM-U56-2",
+   "ch": 56,
+   "n": 2,
+   "title": "Bisphosphonates: MOA and Pharmacology",
+   "sec": "Bisphosphonates: MOA and Pharmacology · p224",
+   "qs": [
+    "PHARM-C56-017",
+    "PHARM-C56-018",
+    "PHARM-C56-019",
+    "PHARM-C56-020",
+    "PHARM-C56-021"
+   ],
+   "guide": "Bisphosphonates inhibit farnesyl pyrophosphate synthase in osteoclasts, leading to apoptosis of osteoclasts. They are the DOC when maximum hypocalcemia is needed. Their oral absorption is poor, so they must be taken on an empty stomach for adequate bioavailability."
+  },
+  {
+   "id": "PHARM-U56-3",
+   "ch": 56,
+   "n": 3,
+   "title": "Bisphosphonates: Route, Dosing and Clinical Uses",
+   "sec": "Bisphosphonates: Route, Dosing and Clinical Uses · p225",
+   "qs": [
+    "PHARM-C56-022",
+    "PHARM-C56-023",
+    "PHARM-C56-024",
+    "PHARM-C56-025",
+    "PHARM-C56-026",
+    "PHARM-C56-027",
+    "PHARM-C56-028",
+    "PHARM-C56-029",
+    "PHARM-C56-030",
+    "PHARM-C56-031",
+    "PHARM-C56-032",
+    "PHARM-C56-033"
+   ],
+   "guide": "Intravenous bisphosphonates — pamidronate every 3 months and zoledronate preferred, once yearly, longest acting and more potent — are used for 3 years. Oral bisphosphonates — risedronate once daily and alendronate preferred once daily — are used for 5 years. For osteoporosis the DOC is alendronate, and if intolerant switch to zoledronate; for hypercalcemia of malignancy and Paget disease start with zoledronate directly."
+  },
+  {
+   "id": "PHARM-U56-4",
+   "ch": 56,
+   "n": 4,
+   "title": "Bisphosphonates: Side Effects and Prevention",
+   "sec": "Bisphosphonates: Side Effects and Prevention · p225",
+   "qs": [
+    "PHARM-C56-034",
+    "PHARM-C56-035",
+    "PHARM-C56-036",
+    "PHARM-C56-037",
+    "PHARM-C56-038",
+    "PHARM-C56-039",
+    "PHARM-C56-040",
+    "PHARM-C56-041"
+   ],
+   "guide": "Oral bisphosphonates cause esophagitis, prevented by taking the drug with a full glass of water and not lying down for 30 minutes. IV bisphosphonates more commonly cause bone fractures including the characteristic femoral chalk-stick fracture whose DOC is teriparatide, maximum hypercalcemia as a paradox, and osteonecrosis of the jaw shown in the clinical photograph."
+  },
+  {
+   "id": "PHARM-U56-5",
+   "ch": 56,
+   "n": 5,
+   "title": "Denosumab, Raloxifene and Calcitonin Analog",
+   "sec": "Denosumab, Raloxifene and Calcitonin Analog · p225",
+   "qs": [
+    "PHARM-C56-042",
+    "PHARM-C56-043",
+    "PHARM-C56-044",
+    "PHARM-C56-045",
+    "PHARM-C56-046",
+    "PHARM-C56-047",
+    "PHARM-C56-048"
+   ],
+   "guide": "Denosumab is a monoclonal antibody that inhibits RANK ligand and is used in postmenopausal osteoporosis. Calcitonin analog is used intranasally for osteoporosis and subcutaneously for Paget disease, but increases the risk of cancer. Raloxifene is a SERM that mimics estrogen action on bone to inhibit resorption."
+  },
+  {
+   "id": "PHARM-U56-6",
+   "ch": 56,
+   "n": 6,
+   "title": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm",
+   "sec": "Anabolic Drugs and Postmenopausal Osteoporosis Algorithm · p226",
+   "qs": [
+    "PHARM-C56-049",
+    "PHARM-C56-050",
+    "PHARM-C56-051",
+    "PHARM-C56-052",
+    "PHARM-C56-053",
+    "PHARM-C56-054",
+    "PHARM-C56-055",
+    "PHARM-C56-056",
+    "PHARM-C56-057",
+    "PHARM-C56-058",
+    "PHARM-C56-059"
+   ],
+   "guide": "Anabolic drugs build bone: teriparatide is a PTH analog with side effect osteosarcoma, contraindicated in Paget disease and limited to maximum 2 years; abaloparatide is a PTH-related peptide analog; romosozumab inhibits sclerostin. The treatment algorithm for postmenopausal osteoporosis starts with alendronate DOC, if intolerant switch to zoledronate, if still intolerant check fracture risk — high risk gets denosumab and very high risk gets anabolic drugs teriparatide or romosozumab."
+  }
+ ]
+}

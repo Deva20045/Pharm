@@ -50,13 +50,13 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 44: 174-179 DONE (144 qs, 10 units) | 45: 180-183 DONE (70 qs, 6 units) | 46: 184-188 DONE (105 qs, 7 units) |
 47: 189-192 DONE (86 qs, 8 units) | 48: 193-198 DONE (116 qs, 10 units) | 49: 199-204 DONE (108 qs, 12 units) | 50: 205-206 DONE (43 qs, 7 units)
 ### Endocrine System
-51: 207-210 DONE (70 qs, 8 units) | 52: 211-214 DONE (77 qs, 9 units) | 53: 215-217 DONE (51 qs, 8 units) | 54: 218-220 DONE (42 qs, 3 units) | 55: 221-223 DONE (54 qs, 5 units) | 56: 224-226 | 57: 227-229
+51: 207-210 DONE (70 qs, 8 units) | 52: 211-214 DONE (77 qs, 9 units) | 53: 215-217 DONE (51 qs, 8 units) | 54: 218-220 DONE (42 qs, 3 units) | 55: 221-223 DONE (54 qs, 5 units) | 56: 224-226 DONE (59 qs, 6 units) | 57: 227-229 DONE (57 qs, 6 units)
 ### Autacoids
-58: 230-232 | 59: 233-236 | 60: 237-241 | 61: 242-243 | 62: 244-246
+58: 230-232 DONE (74 qs, 5 units) | 59: 233-236 DONE (75 qs, 7 units) | 60: 237-241 DONE (91 qs, 7 units) | 61: 242-243 DONE (35 qs, 6 units) | 62: 244-246 DONE (53 qs, 5 units)
 ### Hematology
-63: 247-250 | 64: 251-255
+63: 247-250 DONE (62 qs, 6 units) | 64: 251-255 DONE (110 qs, 6 units)
 ### Respiratory System
-65: 256-258 | 66: 259-260
+65: 256-258 DONE (61 qs, 5 units) | 66: 259-260
 ### Gastrointestinal Drugs
 67: 261-265 | 68: 266-268 | 69: 269-271
 ### Immunomodulators
@@ -514,7 +514,162 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   .. gen_ch55.py were deleted so the three batch generators are the single reproducible source.
   Duplicate-stem audit across the batch (and against ch44-46): NONE. Validation,
   deterministic rebuild, integrity check and Node inline-JS syntax check all pass.
-- NEXT: **ch56 (book p224-226)** and ch57 (p227-229) to finish the Endocrine System, then Autacoids.
+
+- DONE (session 11, this session): **ch56 "Drugs Acting on Bone"** (p224-226) - 59 qs, 6 units
+  (calcium homeostasis diagram Step-I RANK ligand synthesis PTH/Vit D3 (+), Step-II RANK activates RANK,
+  Step-III ruffled borders, Step-IV bone resorption, Step-V osteoblast activation, Step-VI bone formation,
+  teriparatide (+) osteoblast, raloxifene (+) estrogen, calcium analogs fastest hypocalcemia (+) calcitonin,
+  sclerostin inhibits formation, romosozumab inhibits sclerostin, strontium ranelate dual (+) formation (-) resorption,
+  denosumab X osteoblast->osteoclast, bisphosphonates DOC max hypocalcemia kill; MOA farnesyl pyrophosphate
+  synthase apoptosis, poor oral absorption empty stomach; IV pamidronate 3 monthly, zoledronate preferred
+  once yearly longest most potent for 3 years, oral risedronate OD alendronate preferred OD for 5 years,
+  osteoporosis DOC alendronate intolerance zoledronate, hypercalcemia malignancy and Paget start zoledronate,
+  oral S/E esophagitis prevention full glass water no lie 30 min, IV > oral bone fracture femoral chalk-stick
+  DOC teriparatide hypercalcemia maximum osteonecrosis jaw; denosumab RANK ligand postmenopausal osteoporosis,
+  calcitonin intranasal osteoporosis S/C Paget cancer risk; anabolic teriparatide osteosarcoma C/I Paget max 2 yr,
+  abaloparatide PTHrP, romosozumab sclerostin inhibitor, algorithm alendronate -> zoledronate -> fracture risk high denosumab very high anabolic).
+- DONE (session 11): **ch57 "Drugs Acting on Thyroid"** (p227-229) - 57 qs, 6 units
+  (physiology Na+-I- symporter TPO organification (1) coupling (2) MIT DIT T3 T4 thyroglobulin TG colloid
+  thiol endopeptidase breaks TG release T4 5-deiodinase active T3; thioamides PTU carbimazole prodrug longer
+  methimazole, PTU short multiple hepatotoxic vs methimazole long OD teratogenic cutis aplasia scalp choanal/esophageal
+  atresia cholestatic jaundice, common maculopapular rash m/c agranulocytosis arthralgia; uses PTU 1st trimester
+  less teratogenic + thyroid storm vs methimazole commonly prescribed 2nd-3rd trimester less hepatotoxic,
+  thyroid storm 1st drug beta blockers prevent AF if C/I asthma/COPD verapamil/diltiazem other steroid KI;
+  thiol endopeptidase inhibitors KI 10% Lugol 5% inhibits release fastest-acting tolerance not long-term
+  decreased size firm decreased vessels bleeding prior surgery; 5-deiodinase inhibitors PTU steroids beta-blocker
+  amiodarone; radioactive I131 ablation I123 scan uses elderly arrhythmia carcinoma except medullary recurrent Graves,
+  S/E radiation thyroiditis ↑T3/T4 premedicate methimazole stop 3 days before I131 day given restart after 3 days lifelong
+  hypothyroidism secondary cancers C/I pregnancy; hypothyroidism levothyroxine Le T4 longer DOC replacement empty stomach
+  30 min breakfast thyroid cancer ↓TSH oral myxedema coma IV vs liothyronine Li T3 shorter prior I131 myxedema coma
+  Le+Li+steroid, S/E thyrotoxicosis osteoporosis atrial fibrillation dose ↓ in arrhythmia).
+- DONE (session 11): **ch58 "Anti-histaminics"** (p230-232) - 74 qs, 5 units
+  (histamine receptors GPCR H1 post-synaptic Gq ↑Ca2+ allergy/motion, H2 post Gs ↑cAMP peptic ulcer,
+  H3 presynaptic Gi ↓histamine pitolisant narcolepsy wakefulness, H4 leucocyte Gi chemotaxis no drugs;
+  ↑Ca2+ bronchoconstriction vasodilation ↑GI wakefulness ↓appetite itching PNS, ↑cAMP heart ↑contraction HR stomach ↑HCl;
+  H1 blockers first gen less potent cross BBB sedating muscarinic blocker preferred antimuscarinics C/I elderly children pilots drivers
+  S/E nausea vomiting delayed emptying vs second gen more potent non-sedating no muscarinic preferred antihistaminics;
+  promethazine diphenhydramine dimenhydrinate max antimuscarinic uses motion sickness 1 hr before oral EPS acute dystonia
+  Meniere vertigo local anaesthetic dimenhydrinate insomnia promethazine chemo nausea vomiting α1 hypotension;
+  doxylamine + B6 doxinate DOC morning sickness, chlorpheniramine least sedating 1st gen day time, meclizine/cyclizine motion,
+  doxepin TCA, cyproheptadine 5HT2 blocker, hydroxyzine antipruritic skin allergies anxiolytic antiemetic,
+  DOC motion sickness transdermal scopolamine patch; second gen DOC urticaria supplement allergic rhinitis hay fever DOC steroids
+  cetirizine hydroxyzine derivative most sedating 2nd gen levocetirizine more potent lesser dose astemizole terfenadine QT torsades banned
+  fexofenadine terfenadine derivative no QT least sedating, loratadine metabolite desloratadine most potent, rupatadine PAF anti-inflammatory,
+  topical azelastine epinastine alcaftadine levocarbastine olopatadine allergic rhinitis conjunctivitis;
+  bradykinin production kininogen kallikrein kallidin bradykinin B1 B2 ↑PG pain inflammation ↑NO vasodilation antagonists aprotinin
+  lanadelumab berotralstat ecallantide icatibant B2 blocker aprotinin plasmin antifibrinolytic ↓bleeding post CABG, hereditary angioedema
+  Rx DOC C1 esterase alternatives icatibant ecallantide prophylaxis DOC danazol alternatives lanadelumab berotralstat pre surgery EACA).
+- DONE (session 11): **ch59 "Serotonin-related Drugs"** (p233-236) - 75 qs, 7 units
+  (7 types 5-HT1-7 all GPCRs exception 5-HT3 ion channel, 5-HT1A presynaptic serotonergic Gi buspirone epsapirone gepirone
+  non-benzo anxiolytics ↓5-HT2 ↓anxiety; 5-HT1B/1D/1F CN V trigeminal Gi CN V nucleus ganglion axon CGRP CGRP receptor meningeal
+  vessel dilation edema compression migraine headache, 5-HT1F lasmiditan CN V nucleus, triptans 5-HT1B/1D axon ↓CGRP,
+  CGRP ligand blockers eptinezumab fremanezumab galcanezumab parenteral prophylaxis, receptor blockers erenumab atogepant PO prophylaxis
+  rimegepant PO acute, triptans approved acute; triptans MOA 5-HT1B ↓CGRP vasoconstriction differ PK>PD rate absorption ∝ efficacy potency,
+  oral frovatriptan 27 hrs > naratriptan 6 hrs slow absorption long slow prolonged attack, fast rizatriptan fastest sumatriptan zolmitriptan
+  eletriptan almotriptan short fast preferred acute, nasal zolmitriptan sumatriptan, SC/rectal sumatriptan overall fastest,
+  S/E coronary vasoconstriction chest pain jaw/neck sweating arrhythmia C/I IHD MI/angina no stroke/TIA ischemic bowel HTN/PVD Raynaud/Burger
+  specific naratriptan liver/renal eletriptan liver zolmitriptan WPW; other acute lasmiditan rimegepant ergotamine nonselective vasoconstrictor
+  gangrene feet m/c dihydroergotamine less potent better same S/E C/I as triptans D2 chlorpromazine metoclopramide NSAID paracetamol mild-moderate
+  ketorolac severe opioids intranasal butorphanol oral codeine pregnancy DOC paracetamol no response codeine/caffeine/metoclopramide no response
+  sumatriptan choice may block placental flow; prophylaxis mnemonic Flunarizine Can PREVENT flunarizine cyproheptadine/candesartan/clonidine
+  pizotifen/propranolol DOC GABA gabapentin valproate nortiptyline topiramate methysergide; 5-HT2 antagonist cyproheptadine H1 m migraine prophylaxis
+  serotonin syndrome carcinoid cold urticaria AIDS weight gain pizotifen migraine methysergide migraine fibrosis pulmonary cardiac retroperitoneal
+  flibanserin 5HT2A - +5HT1A agonist HSDD females, lorcaserin obesity banned cancer; obesity anorexia liraglutide phentermine lipolysis inhibitor orlistat
+  stimulator mirabegron unknown topiramate naltrexone bupropion 5-HT3 antiemetics 5-HT4 prokinetics banned rimonabant suicidal lorcaserin cancer
+  phenylpropanolamine stroke sibutramine MI).
+- DONE (session 11): **ch60 "Eicosanoids"** (p237-241) - 91 qs, 7 units
+  (synthesis arachidonic acid COX I II -> PG pain pyrexia inflammation + thromboxane A2 platelet aggregation, 5-LOX -> leukotrienes C4 D4
+  bronchoconstrictors, reversible NSAIDs except aspirin irreversible, zileuton 5-LOX, montelukast/zafirlukast leukotriene block;
+  PGE1 maintain PDA misoprostol NSAID gastric ulcer abortion PPH least effective alprostadil ED sildenafil DOC ED drugs phentolamine
+  bremelanotide naltrexone ketanserin trazadone alviptadil, PGE2 dinoprostone PPH cervical ripening DOC, PGI2 pulmonary HTN vasodilation
+  epoprostenol recombinant iloprost beraprost treprostinil analogs selexipag receptor agonist endothelin bosentan ambrisentan,
+  PGF2α carboprost PPH abortion latanoprost bimatoprost eye drops DOC open angle normal tension glaucoma S/E heterochromia iridis
+  dry/sandy eyes macular edema hypertrichosis hypotrichosis use C/I uveitis; non-selective COX inhibitors acetaminophen MOA COX I II ↓PG analgesia
+  antipyrexia poor antiinflammatory + TRPV1 cannabinoid receptors hepatotoxicity m/c drug induced liver failure NAPQI depletes glutathione
+  free radical centrilobular necrosis periportal sparing m/c drug poisoning symptoms renal tubular necrosis hypoglycemic coma hepatotoxicity
+  dose 150-250 mg/kg >10 g fatal >20 g Rumack Mathew nomogram plasma concentration vs time safe unsafe 4 hr 10 hr 24 hr management <4 hr charcoal
+  DOC NAC no response fulminant hepatic failure emergency transplant; aspirin dose dependent 50-325 OD antiaggregant 325-650 SOS analgesic antipyretic
+  3-4 g/day anti-inflammatory uses antiaggregant RA rheumatic arthritis niacin flushing DOC essential thrombocythemia Kawasaki ↓colon cancer
+  S/E bleeding m/c Reye viral fever children hepatic encephalopathy salicylism >10 g seizures tinnitus hyperglycemia metabolic acidosis Rx symptomatic
+  dialysis severe C/I viral fever children gout (-) uric acid excretion warfarin ↑bleeding; indomethacin (-) COX phospholipase A&C leucocyte proliferation
+  migration acute gout DOC Bartter paroxysmal hemicrania frontal headache, sulindac indomethacin derivative FAP ↓colon carcinoma ↓breast prostate,
+  ibuprofen analgesic anti-inflammatory PDA closure DOC India aseptic meningitis toxic amblyopia blurred PDA worldwide DOC indomethacin,
+  ketoprofen (-) COX (-) LOX stabilizes lysosome (-) bradykinin, flurbiprofen eye drops prevent intra-op miosis, piroxicam enterohepatic longest
+  slow onset chronic pain, ketorolac ↑potency acute pain oral/parenteral migraine intranasal ocular pain eye drops, diclofenac short T1/2 long acting
+  joints hepatotoxic GI ulcers ↓ with misoprostol uses RA psoriatic ankylosing gout dysmenorrhea acute pain, naproxen enantiomer nabumetone non-acidic
+  long OD, selective COX II oral celecoxib etoricoxib parenteral parecoxib acute post-op uses anti-inflammatory RA rheumatic psoriatic ankylosing gout
+  pain 3rd line dysmenorrhea acute S/E hypersensitivity rash m/c renal papillary necrosis cardiotoxicity rofecoxib valdecoxib peptic ulcer non-selective >
+  selective DOC PPIs drug interactions ↓ antihypertensive ↓ lithium clearance toxicity ↓ diuretics furosemide).
+- DONE (session 11): **ch61 "Gout"** (p242-243) - 35 qs, 6 units
+  (acute aim ↓inflammation symptomatic relief NSAIDs no response steroid DOC indomethacin multiple MOA, colchicine (-)microtubules chemotaxis
+  migration leucocytes ↓IL-1 neutrophils inhibit phagocytosis S/E nausea vomiting diarrhoea marrow suppression alopecia; chronic aim prevent acute ↓uric acid
+  (-) synthesis xanthine oxidase inhibitors ↑ excretion uricosuric ↑ metabolism uricase analogues; allopurinol DOC chronic gout tumor lysis Lesch Nyhan
+  organ transplant S/E hypersensitivity m/c SJS HLA-B-5801 (-) orotidylate decarboxylase orotic aciduria DRESS, oxypurinol orphan allopurinol
+  hypersensitivity, febuxostat intolerance inadequate response ↑cardiovascular death, class xanthinuria xanthine stones acute gout prevention NSAID/colchicine
+  3-6 months interaction inhibit 6-MP/azathioprine ↑toxicity; uricosurics probenecid sulfinpyrazone add on > mono benzbromarone lesinraud most effective
+  add on only S/E ↑urate stones C/I h/o renal stones ↑calcium stones precipitate acute gout prophylaxis needed C/I renal failure except benzbromarone
+  lesinraud mild-moderate renal failure miscellaneous losartan HTN atorvastatin ↑LDL fenofibrate ↑TG; uricase analogues no metabolism humans pegloticase
+  resistant gout IV q2 wks rasburicase DOC high risk tumor lysis leukemia CLL S/E hemolysis G6PD methemoglobinemia).
+- DONE (session 11): **ch62 "Rheumatoid Arthritis"** (p244-246) - 53 qs, 5 units
+  (acute flare mild-moderate NSAIDs aspirin diclofenac > celecoxib severe steroids unresponsive NSAIDs 1-2 joints intra-articular triamcinolone >2 joints oral
+  prednisolone; long term DMARDs conventional biological JAK inhibitors conventional methotrexate hydroxychloroquine sulfasalazine leflunomide cyclosporin
+  azathioprine mycophenolate cyclophosphamide biological TNF IL-1 IL-6 abatacept CD-20 JAK tofacitinib baricitinib upadacitinib immunosuppression ↑infection
+  not combined; methotrexate anchor DOC new Dx 2-4 wks inadequate 3-6 months add HCQ+sulfasalazine OR abatacept OR biological -> other biological or JAK,
+  MOA inhibit DHFR ↓THF purine lymphocyte toxicity increased adenosine anti-inflammatory hepatic fibrosis S/E hepatotoxicity cirrhosis ALT/AST q3-6 months
+  nephrotoxicity crystalluria marrow suppression DHFR THF; hydroxychloroquine inhibit lymphocyte proliferation stabilizes lysosomes mild monotherapy
+  moderate-severe add on S/E Bull eye retinopathy ≤5 mg/kg/day ophthalmology yearly; sulfasalazine gut 5 ASA not absorbed ulcerative colitis + sulfonamide
+  inhibits lymphocyte mild RA mono moderate-severe add on; TNF α infliximab adalimumab certolizumab etanercept golimumab IV/SC uses Alpha Inhibitors Prevent RA
+  ankylosing IBD psoriatic plaque psoriasis RA S/E GIT ulcers perforation ↑infection ↑secondary skin cancers C/I hepatitis B reactivation CHF;
+  IL-6 tocilizumab sarilumab RA cytokine storm COVID-19, IL-1 anakinra least effective least preferred, CD-20 rituximab anticancer abatacept CD 80/86 T cell
+  belatacept related graft v/s host; JAK (-) cytokines baricitinib RA upadacitinib RA psoriatic atopic dermatitis ruxolitinib GVHD myelofibrosis polycythemia vera
+  unresponsive hydroxyurea abrocitinib atopic dermatitis tofacitinib psoriatic ulcerative colitis juvenile idiopathic ankylosing RA).
+- DONE (session 11): **ch63 "Anti-aggregants and Hematopoietic Agents"** (p247-250) - 62 qs, 6 units
+  (physiology collagen vWF (+) platelet GP IIb/IIIa X abciximab COX-1 X aspirin thromboxane A2 ADP P2Y12 X clopidogrel phospholipids ↑ thrombin fibrinogen fibrin
+  mesh permanent clot PAR X vorapaxar aggregation; aspirin irreversible COX-1 ↓TxA2 50-325 OD 2° prophylaxis ACS ischemic stroke Rx ACS essential thrombocythemia
+  Kawasaki antiphospholipid bleeding pre-op continue aspirin stop clopidogrel 7 days; ADP/P2Y12 irreversible clopidogrel ticlopidine prasugrel reversible
+  competitive cangrelor adenosine analog T1/2 3-6 min IV PCI MI non-competitive ticagrelor long oral PCI MI Rx ACS 2° MI hit & run irreversible ADP aspirin PPIs ↑T1/2;
+  clopidogrel prodrug CYP2C19 polymorphisms blunted ↓effect worsen MI omeprazole competitive -, same as aspirin combined stent; ticlopidine toxicity GI
+  nausea vomiting diarrhea agranulocytosis TTP-HUS 2° stroke resistant; prasugrel most potent fastest ↑intracranial bleed C/I stroke TIA PCI MI;
+  vorapaxar PAR - 2° MI unstable angina single/combined aspirin/clopidogrel ↑intracranial bleed C/I stroke/TIA; GP IIb/IIIa abciximab blocks GPIIb/IIIa vitronectin
+  shortest T1/2 max affinity longest acting eptifibatide longest T1/2 min affinity shortest acting uses PCI MI ACS route IV/intra-coronary tirofiban;
+  erythropoiesis EPO epoetin alpha darbepoetin longer clinically preferred DOC anemia CRF dialysis zidovudine/anticancer premature infants S/E HTN iron deficiency
+  thrombosis pure red cell aplasia flu like peginesatide CKD; granulopoiesis G-CSF ↑potent ↓toxic lenograstim filgrastim m/c multiple SC/IV lipegfilgrastim
+  pegfilgrastim long single chemo cycle neutropenia myelodysplasia aplastic anemia HIV chemotherapy bone pain GM-CSF ↓potent ↑toxic sargramostim capillary leak;
+  thrombopoiesis romiplostim eltrombopag ITP portal vein thrombosis AML new avatrombopag lusutrombopag prevent procedural bleeding liver cirrhosis
+  IL-11 oprelvekin chemo induced thrombocytopenia fluid retention CHF edema).
+- DONE (session 11): **ch64 "Anticoagulants and Fibrinolytics"** (p251-255) - 110 qs, 6 units
+  (coagulation X->Xa oral Xa inhibitors prothrombin II->thrombin IIa direct thrombin inhibitors fibrinogen->fibrin, anticoagulation protein C&S antithrombin III
+  protease breaks IIa Xa XIa XIIa (+) indirect thrombin inhibitors; direct oral dabigatran apixaban edoxaban rivaroxaban DOAC/NOAC no monitoring Rx DVT DOC prophylaxis
+  DVT non-valvular AF parenteral HIT DOC argatroban aPTT hirudin lepirudin stopped desirudin SC DVT prophylaxis synthetic bivalirudin argatroban PCI MI C/I renal failure
+  except argatroban hepatic other no monitoring LMWH fondaparinux bleeding antidotes dabigatran idarucizumab oral Xa andexanet alfa decoy; indirect UFH
+  glycosaminoglycans mast cells MALT porcine mucosa AP attached long chain HPS antithrombin III breaks Xa long chain binds IIa table UFH AP+long HPS Xa=IIa poor bioavailability
+  prophylaxis SC BD Rx IV QID RES metabolism DOC renal failure short aPTT protamine effective neutralizes HPS HIT ↑↑ vs LMWH AP+short HPS Xa>IIa ↑ bioavailability SC OD kidney excreted
+  contraindicated renal failure long anti-Xa renal obese elderly children less effective HIT ↑ vs fondaparinux AP only only Xa max no monitoring not effective none;
+  HIT antibodies HPS cross platelet factor 4 aggregation thrombosis venous>arterial F>m surgical cancer not severe cause UFH>LMWH Rx same thrombosis treatment
+  argatroban DOC fondaparinux platelet >150k start warfarin/DOAC duration 4 wks major event 3 months uses UFH catheter thrombosis concurrent thrombolysis LMWH/fondaparinux DOC Rx thrombosis
+  C/I TEACHER thrombocytopenia endocarditis alcoholics cirrhosis severe HTN eye/neurosurgery renal failure LMWH/fondaparinux S/E AHOT alopecia hemorrhage/hyperkalemia osteoporosis thrombosis HIT;
+  warfarin VKOR ↓active Vit K (+) gamma carboxylase factors II VII IX X protein C&S VII first decline C&S second II last minimum 5 days effect first 5 days rapid ↓C&S thrombosis skin necrosis C/I HIT
+  prophylaxis DVT DOC DOAC heparin bridge LMWH 5 days thrombosis prophylaxis preferred valvular AF non-valvular renal failure Pgp - severe mitral stenosis DOC antiphospholipid splanchnic vein
+  S/E bleeding skin necrosis limbs breast penile worsens HIT alopecia blue feet teratogenic nasal mid facial hypoplasia stippled epiphyseal calcification C/I pregnancy except mechanical valve
+  monitoring PT/INR target 2-3 normal 0.9-1.3 INR 3-10 stop restart INR normal INR >10 asymptomatic stop + vit K restart symptomatic bleeding stop 4 factor PTC > FFP + IV vit K ciraparantag antidote all except warfarin;
+  fibrinolysis plasminogen TPA plasmin breaks fibrin streptokinase binds plasminogen exposes TPA ↑plasmin clot non-specific breaks clot+plasma ↑bleeding ↑dose recombinant tPA alteplase duteplase reteplase
+  tenecteplase most clot specific single dose clot specific uses STEMI never NSTEMI/unstable massive PE peripheral thrombosis C/I BRAIN brain tumour/aneurysm recent Sx/trauma aortic dissection
+  intracranial hemorrhage NSTEMI S/E bleeding Rx antifibrinolytics X plasmin EACA epsilon aminocaproic acid tranexamic acid uses thrombolytics bleeding procedural hemophilia GIT trauma surgical menorrhagia C/I upper GU bleed ischemia hypotension myopathy).
+- DONE (session 11): **ch65 "Bronchial Asthma"** (p256-258) - 61 qs, 5 units
+  (pathophysiology allergen -> mast cell lysis -> histamine -> bronchoconstriction Rx bronchodilators inflammation Rx steroids classification β2 agonists
+  anticholinergics methylxanthines; methylxanthine MOA bronchodilation PDE3>PDE4 ↑cAMP relax smooth adenosine antagonism anti-inflammatory PDE4 roflumilast COPD
+  histone deacetylase steroids also stimulate ↑IL-10 apoptosis neutrophils drugs oral theophylline > aminophylline add on persistent BA IV aminophylline > theophylline acute exacerbation
+  S/E PDE4 20-25 mg/L GI nausea vomiting headache adenosine >30 mg/L arrhythmia PDE3 seizures low TI theophylline N 5-15 toxicity >20; ICS fluticasone most potent mometasone budesonide ciclesonide
+  beclomethasone soft ↓S/E airway metabolism flunisolide least potent uses persistent BA EIA aspirin bronchoconstriction DOC intermittent <2/wk S/E hoarseness m/c
+  oropharyngeal candidiasis good inhaler technique systemic minimal note intermittent 0-5 SABA 6-11 SABA+ICS SABA before ICS >12 FDC ICS + pMDI formoterol ↓number severity;
+  systemic oral prednisone/prednisolone IV hydrocortisone faster > methylprednisolone persistent if ICS fails acute oral > IV MOA ↓mucus ↓inflammatory mediators ↑β2 receptors ↑β2 agonist effect complementary;
+  accessory antileukotrienes 5-LOX zileuton LTC4/LTD4 montelukast zafirlukast pranlukast uses persistent add-on ICS EIA allergic rhinitis montelukast S/E hepatotoxicity max zileuton Churg-Strauss montelukast zafirlukast,
+  mast cell stabilizers inhibit Ca2+ channels prevent degranulation ↓histamine cromolyn nedocromil oral food allergy systemic mastocytosis nasal allergic rhinitis eye allergic conjunctivitis inhalational mild asthma
+  least toxic preferred children ketotifen mast cell + ↑NO prophylaxis allergen asthma, monoclonal omalizumab anti IgE SC q2-4 wks resistant asthma allergic rhinitis chronic urticaria food allergy dose weight IgE titer
+  C/I atopic dermatitis ↑↑IgE IL-4 dupilumab IL-4 receptor T-helper IL-5 reslizumab mepolizumab IL-5 receptor benralizumab eosinophils maturation survival severe eosinophilic asthma atopic dermatitis).
+- **TOTAL LIVE NOW: 5878 questions, 480 units, chapters 1-65.** Endocrine System COMPLETE (through Bone 56 + Thyroid 57); Autacoids COMPLETE (Anti-histaminics 58, Serotonin 59, Eicosanoids 60, Gout 61, RA 62); Hematology COMPLETE (Anti-aggregants 63, Anticoagulants 64); Respiratory live through Bronchial Asthma 65.
+- **SESSION 11 NOTES:** source pages p224-258 rendered at 180 dpi and read line-by-line; crops verified osteonecrosis jaw image (p225), teriparatide max 2 yr note (p226), potassium iodide 10% vs Lugol 5% (p228), I131 timing diagram (p229), fexofenadine least sedating (p232), triptan durations 27 hr frovatriptan vs 6 hr naratriptan (p234), ergot gangrene feet m/c (p235), zileuton vs montelukast (p238-239), diclofenac short T1/2 long acting joints (p241), allopurinol HLA-B-5801 SJS (p242), uricosuric add-on > mono (p243), DMARD anchor methotrexate (p244), hydroxychloroquine Bull eye ≤5 mg/kg (p245), platelet aggregation diagram abciximab/aspirin/clopidogrel/vorapaxar (p247), hit & run definition (p248), UFH vs LMWH table AP+long vs AP+short vs AP only (p252), warfarin factor decline order VII first II last (p254), fibrinolytic BRAIN mnemonic (p255), theophylline 5-15 mg/L normal (p256), ICS soft steroids ciclesonide beclomethasone (p257), omalizumab weight+IgE titer dosing (p258). Generator work/gen_ch56_65.py is single reproducible source for this batch (same start/unit/q/facts/finish pattern). Validation, deterministic rebuild, integrity and Node syntax all PASS.
+- NEXT: **ch66 Antitussives (p259-260)** to start Respiratory completion, then GI drugs.
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).

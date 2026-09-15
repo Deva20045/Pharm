@@ -1,0 +1,996 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C63-001",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Blood vessel injury releases:",
+   "opts": [
+    "Collagen, vWF (+) Platelet",
+    "Only collagen",
+    "Only vWF",
+    "Only thrombin"
+   ],
+   "ans": 0,
+   "exp": "Blood vessel injury Release Collagen, vWF (+) Platelet. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-002",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "GP IIb/IIIa is blocked by:",
+   "opts": [
+    "Abciximab",
+    "Aspirin",
+    "Clopidogrel",
+    "Vorapaxar"
+   ],
+   "ans": 0,
+   "exp": "(+) X Abciximab GP IIb/IIIa. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-003",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "COX-1 is blocked by:",
+   "opts": [
+    "Aspirin",
+    "Abciximab",
+    "Clopidogrel",
+    "Vorapaxar"
+   ],
+   "ans": 0,
+   "exp": "(+) X Aspirin COX-1. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-004",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "COX-1 produces:",
+   "opts": [
+    "Thromboxane A2 -> Platelet Aggregation",
+    "Only ADP",
+    "Only phospholipids",
+    "Only fibrin"
+   ],
+   "ans": 0,
+   "exp": "COX-1 (+) Thromboxane A2. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-005",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "ADP acts on:",
+   "opts": [
+    "P2Y12 receptor blocked by Clopidogrel",
+    "GP IIb/IIIa",
+    "COX-1",
+    "PAR"
+   ],
+   "ans": 0,
+   "exp": "ADP (+) P2Y12 X Clopidogrel. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-006",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Increased phospholipids increase:",
+   "opts": [
+    "Thrombin production -> Fibrinogen -> Fibrin mesh -> Permanent clot",
+    "Only collagen",
+    "Only vWF",
+    "Only ADP"
+   ],
+   "ans": 0,
+   "exp": "↑ Phospholipids ↑ Production Thrombin Fibrinogen -> Fibrin mesh formation Permanent clot. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-007",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "PAR is blocked by:",
+   "opts": [
+    "Vorapaxar",
+    "Aspirin",
+    "Clopidogrel",
+    "Abciximab"
+   ],
+   "ans": 0,
+   "exp": "Vorapaxar X PAR Platelet Aggregation. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-008",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin mechanism is:",
+   "opts": [
+    "Irreversible (-) COX-1 -> ↓ Thromboxane A2",
+    "Reversible COX-1",
+    "Only COX-2",
+    "Only LOX"
+   ],
+   "ans": 0,
+   "exp": "Aspirin Irreversible (-) COX-1 -> ↓ Thromboxane A2. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-009",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin dose for antiplatelet is:",
+   "opts": [
+    "50-325 mg OD",
+    "325-650 mg SOS",
+    "3-4 g/day",
+    ">10 g"
+   ],
+   "ans": 0,
+   "exp": "50-325 mg OD. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-010",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin use 2° prophylaxis:",
+   "opts": [
+    "Acute coronary syndrome (ACS) and Ischemic stroke",
+    "Only ACS",
+    "Only stroke",
+    "Only Kawasaki"
+   ],
+   "ans": 0,
+   "exp": "2° prophylaxis Acute coronary syndrome (ACS), Ischemic stroke. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-011",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin Rx of ACS:",
+   "opts": [
+    "Used for Rx of ACS",
+    "Only prophylaxis",
+    "Not used",
+    "Only for Kawasaki"
+   ],
+   "ans": 0,
+   "exp": "Rx of ACS. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-012",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin other uses:",
+   "opts": [
+    "Essential Thrombocythemia, Kawasaki disease, Antiphospholipid antibody syndrome",
+    "Only essential thrombocythemia",
+    "Only Kawasaki",
+    "Only antiphospholipid"
+   ],
+   "ans": 0,
+   "exp": "Essential Thrombocythemia, Kawasaki disease, Antiphospholipid antibody syndrome. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-013",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Aspirin S/E is:",
+   "opts": [
+    "Bleeding",
+    "Only thrombosis",
+    "Only hypertension",
+    "Only rash"
+   ],
+   "ans": 0,
+   "exp": "Bleeding. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-014",
+   "sec": "Physiology of Platelet Aggregation and Aspirin",
+   "page": 247,
+   "q": "Pre-op with aspirin and clopidogrel:",
+   "opts": [
+    "Continue aspirin, Stop clopidogrel x 7 days pre-op",
+    "Stop both",
+    "Continue both",
+    "Stop aspirin only"
+   ],
+   "ans": 0,
+   "exp": "Pre-op: Continue aspirin, Stop clopidogrel x 7 days pre-op. (Book p247)"
+  },
+  {
+   "id": "PHARM-C63-015",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Irreversible ADP/P2Y12 inhibitors are:",
+   "opts": [
+    "Clopidogrel, Ticlopidine, Prasugrel",
+    "Cangrelor and ticagrelor",
+    "Only clopidogrel",
+    "Only prasugrel"
+   ],
+   "ans": 0,
+   "exp": "Irreversible Clopidogrel Ticlopidine Prasugrel. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-016",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Reversible competitive ADP inhibitor is:",
+   "opts": [
+    "Cangrelor",
+    "Ticagrelor",
+    "Clopidogrel",
+    "Prasugrel"
+   ],
+   "ans": 0,
+   "exp": "Competitive Cangrelor. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-017",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Cangrelor is:",
+   "opts": [
+    "Adenosine analog, T1/2 3-6 min (Short acting), Route I/V, Use PCI in MI",
+    "Long acting oral",
+    "Only for stroke",
+    "Only for ACS"
+   ],
+   "ans": 0,
+   "exp": "Adenosine analog T1/2 3-6 min (Short acting) Route I/V Use PCI in MI. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-018",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Reversible non-competitive ADP inhibitor is:",
+   "opts": [
+    "Ticagrelor",
+    "Cangrelor",
+    "Clopidogrel",
+    "Ticlopidine"
+   ],
+   "ans": 0,
+   "exp": "Non-competitive Ticagrelor. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-019",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Ticagrelor is:",
+   "opts": [
+    "Long acting, Route Oral, Use PCI in MI, Rx of ACS, 2° prophylaxis of MI",
+    "Short acting IV only",
+    "Only for stroke prophylaxis",
+    "Only for PCI in MI only"
+   ],
+   "ans": 0,
+   "exp": "Long acting Route Oral Use PCI in MI Rx of ACS 2° prophylaxis of MI. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-020",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "page": 248,
+   "q": "Hit & run drugs are:",
+   "opts": [
+    "Irreversible ADP(-)/P2Y12 (-), Aspirin, PPIs: Bind irreversibly to target -> ↑ T1/2 period",
+    "Only reversible drugs",
+    "Only aspirin",
+    "Only PPIs"
+   ],
+   "ans": 0,
+   "exp": "Hit & run drugs: Irreversible ADP(-)/P2Y12 (-), Aspirin, PPIs Bind irreversibly to target -> ↑ T1/2 period. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-021",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Clopidogrel is:",
+   "opts": [
+    "Prodrug CYP2C19 Activated",
+    "Active drug itself",
+    "Only CYP3A4 activated",
+    "Only renal excretion"
+   ],
+   "ans": 0,
+   "exp": "Prodrug CYP2C19 Activated. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-022",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "CYP2C19 polymorphisms cause:",
+   "opts": [
+    "Blunted clopidogrel -> ↓Effect -> Worsen MI",
+    "Increased effect",
+    "No effect",
+    "Only increased bleeding"
+   ],
+   "ans": 0,
+   "exp": "Polymorphisms -> Blunted clopidogrel -> ↓Effect -> Worsen MI. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-023",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Omeprazole interaction with clopidogrel:",
+   "opts": [
+    "Competitive (-) of clopidogrel because CYP2C19 metabolizes omeprazole",
+    "Increases clopidogrel effect",
+    "No interaction",
+    "Only decreases omeprazole effect"
+   ],
+   "ans": 0,
+   "exp": "Metabolizes Omeprazole -> Competitive (-) of clopidogrel. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-024",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Clopidogrel use is:",
+   "opts": [
+    "Same as aspirin and combined with aspirin for patient on stent",
+    "Only same as aspirin",
+    "Only for stent",
+    "Only for stroke"
+   ],
+   "ans": 0,
+   "exp": "Same as aspirin, Combined with aspirin for patient on stent. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-025",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Ticlopidine toxicity includes:",
+   "opts": [
+    "GI: Nausea/Vomiting/Diarrhea, Agranulocytosis, TTP-HUS complex",
+    "Only GI",
+    "Only agranulocytosis",
+    "Only TTP-HUS"
+   ],
+   "ans": 0,
+   "exp": "↑↑ Toxicity GI Nausea/Vomiting/Diarrhea Agranulocytosis TTP-HUS complex. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-026",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Ticlopidine use is:",
+   "opts": [
+    "2° stroke prophylaxis in resistant cases",
+    "Only PCI in MI",
+    "Only ACS",
+    "Only first line stroke"
+   ],
+   "ans": 0,
+   "exp": "2° stroke prophylaxis in resistant cases. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-027",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Prasugrel is:",
+   "opts": [
+    "Most potent + Fastest acting",
+    "Least potent",
+    "Slowest acting",
+    "Only moderate potency"
+   ],
+   "ans": 0,
+   "exp": "Most potent + Fastest acting. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-028",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Prasugrel risk is:",
+   "opts": [
+    "↑ Risk of Intracranial bleed",
+    "Only GI bleed",
+    "Only rash",
+    "Only thrombosis"
+   ],
+   "ans": 0,
+   "exp": "↑ Risk of Intracranial bleed. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-029",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Prasugrel C/I is:",
+   "opts": [
+    "H/o stroke, TIA",
+    "Only renal failure",
+    "Only liver failure",
+    "Only age >65"
+   ],
+   "ans": 0,
+   "exp": "C/I: h/o stroke, TIA. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-030",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel",
+   "page": 248,
+   "q": "Prasugrel use is:",
+   "opts": [
+    "PCI in MI",
+    "Only stroke prophylaxis",
+    "Only ACS",
+    "Only stable angina"
+   ],
+   "ans": 0,
+   "exp": "Use: PCI in MI. (Book p248)"
+  },
+  {
+   "id": "PHARM-C63-031",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Vorapaxar mechanism is:",
+   "opts": [
+    "PAR (-)",
+    "COX-1 (-)",
+    "P2Y12 (-)",
+    "GP IIb/IIIa (-)"
+   ],
+   "ans": 0,
+   "exp": "PAR (-). (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-032",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Vorapaxar use is:",
+   "opts": [
+    "2° prophylaxis MI and Unstable angina",
+    "Only MI",
+    "Only unstable angina",
+    "Only stroke"
+   ],
+   "ans": 0,
+   "exp": "2° prophylaxis MI, Unstable angina. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-033",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Vorapaxar can be:",
+   "opts": [
+    "Single agent/Combined: Aspirin/Clopidogrel",
+    "Only single agent",
+    "Only with heparin",
+    "Only with warfarin"
+   ],
+   "ans": 0,
+   "exp": "Single agent/Combined: Aspirin/Clopidogrel. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-034",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Vorapaxar S/E is:",
+   "opts": [
+    "Increased risk of intracranial bleed -> C/I in Stroke/TIA",
+    "Only GI bleed",
+    "Only rash",
+    "Only thrombocytopenia"
+   ],
+   "ans": 0,
+   "exp": "↑ Risk of intracranial bleed -> C/I in Stroke/TIA. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-035",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Glycoprotein IIb/IIIa inhibitor abciximab:",
+   "opts": [
+    "Blocks GPIIb/IIIa and vitronectin",
+    "Only blocks GPIIb/IIIa",
+    "Only blocks vitronectin",
+    "Only blocks COX-1"
+   ],
+   "ans": 0,
+   "exp": "Abciximab Blocks GPIIb/IIIa Vitronectin. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-036",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Abciximab pharmacokinetics:",
+   "opts": [
+    "Shortest T1/2, maximum affinity -> Longest acting",
+    "Longest T1/2 minimum affinity -> Shortest acting",
+    "Only short acting",
+    "Only long acting"
+   ],
+   "ans": 0,
+   "exp": "Shortest T1/2, maximum affinity -> Longest acting. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-037",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Eptifibatide pharmacokinetics:",
+   "opts": [
+    "Longest T1/2 + minimum affinity -> Shortest acting",
+    "Shortest T1/2 max affinity -> Longest acting",
+    "Only long acting",
+    "Only intermediate"
+   ],
+   "ans": 0,
+   "exp": "Longest T1/2 + minimum affinity -> Shortest acting. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-038",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "GP IIb/IIIa inhibitors uses are:",
+   "opts": [
+    "PCI in MI and ACS",
+    "Only PCI in MI",
+    "Only ACS",
+    "Only stroke"
+   ],
+   "ans": 0,
+   "exp": "Uses: PCI in MI, ACS. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-039",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "GP IIb/IIIa inhibitors route is:",
+   "opts": [
+    "IV/Intra-coronary",
+    "Only oral",
+    "Only SC",
+    "Only IM"
+   ],
+   "ans": 0,
+   "exp": "Route: IV/Intra-coronary. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-040",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "page": 249,
+   "q": "Other GP IIb/IIIa drug is:",
+   "opts": [
+    "Tirofiban",
+    "Only abciximab",
+    "Only eptifibatide",
+    "Only vorapaxar"
+   ],
+   "ans": 0,
+   "exp": "Other Drugs: Tirofiban. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-041",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "EPO analogs are:",
+   "opts": [
+    "Epoetin alpha and Darbepoetin",
+    "Only epoetin alpha",
+    "Only darbepoetin",
+    "Only peginesatide"
+   ],
+   "ans": 0,
+   "exp": "Erythropoietin (EPO) analogs Epoetin alpha Darbepoetin. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-042",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "Darbepoetin is:",
+   "opts": [
+    "Longer acting (Clinically preferred)",
+    "Shorter acting",
+    "Same as epoetin",
+    "Only for dialysis"
+   ],
+   "ans": 0,
+   "exp": "Longer acting (Clinically preferred). (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-043",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "EPO analogs DOC for anemia due to:",
+   "opts": [
+    "CRF, Dialysis, Zidovudine/Anticancer drugs, Premature infants",
+    "Only CRF",
+    "Only dialysis",
+    "Only zidovudine"
+   ],
+   "ans": 0,
+   "exp": "DOC: Anemia d/t CRF, Dialysis, Zidovudine/Anticancer drugs, Premature infants. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-044",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "EPO analogs S/E are:",
+   "opts": [
+    "HTN, Iron deficiency, Thrombosis, Pure red cell aplasia, Flu like symptoms",
+    "Only HTN",
+    "Only thrombosis",
+    "Only flu like symptoms"
+   ],
+   "ans": 0,
+   "exp": "S/E: HTN, Iron deficiency, Thrombosis, Pure red cell aplasia, Flu like symptoms. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-045",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "EPO Receptor Agonist is:",
+   "opts": [
+    "Peginesatide: Anemia of CKD (CRF)",
+    "Epoetin alpha",
+    "Darbepoetin",
+    "Only filgrastim"
+   ],
+   "ans": 0,
+   "exp": "EPO Receptor Agonists Peginesatide: Anemia of CKD (CRF). (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-046",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF analog is:",
+   "opts": [
+    "Granulocyte Colony Stimulating Factor, ↑ Potent, ↓ Toxic",
+    "GM-CSF",
+    "Only toxic",
+    "Only less potent"
+   ],
+   "ans": 0,
+   "exp": "G-CSF analog (Granulocyte Colony Stimulating Factor) ↑ Potent, ↓ Toxic. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-047",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF analog drugs are:",
+   "opts": [
+    "Lenograstim and Filgrastim (m/c used)",
+    "Only lenograstim",
+    "Only filgrastim",
+    "Only sargramostim"
+   ],
+   "ans": 0,
+   "exp": "Drugs: Lenograstim, Filgrastim: m/c used. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-048",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF route is:",
+   "opts": [
+    "Multiple dose s/c or I/V",
+    "Only oral",
+    "Only IV single dose",
+    "Only SC single dose"
+   ],
+   "ans": 0,
+   "exp": "Route: multiple dose s/c or I/V. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-049",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF derivatives are:",
+   "opts": [
+    "Lipegfilgrastin and Pegfilgrastim",
+    "Only lipegfilgrastin",
+    "Only pegfilgrastim",
+    "Only filgrastim"
+   ],
+   "ans": 0,
+   "exp": "Derivatives Lipegfilgrastin Pegfilgrastim. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-050",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF derivatives property is:",
+   "opts": [
+    "Long acting, Single dose in a chemotherapy cycle",
+    "Short acting multiple dose",
+    "Only for HIV",
+    "Only for aplastic anemia"
+   ],
+   "ans": 0,
+   "exp": "Long acting, Single dose in a chemotherapy cycle. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-051",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF uses neutropenia d/t:",
+   "opts": [
+    "Myelodysplasia, Aplastic anemia, HIV, Chemotherapy",
+    "Only chemotherapy",
+    "Only HIV",
+    "Only aplastic anemia"
+   ],
+   "ans": 0,
+   "exp": "Neutropenia d/t myelodysplasia, Aplastic anemia, HIV, Chemotherapy. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-052",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "G-CSF S/E is:",
+   "opts": [
+    "Bone pain",
+    "Capillary leak",
+    "Only fever",
+    "Only rash"
+   ],
+   "ans": 0,
+   "exp": "Bone pain. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-053",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "GM-CSF analog is:",
+   "opts": [
+    "G macrophage-CSF, ↓ Potent, ↑ Toxic, Sargramostim",
+    "G-CSF",
+    "Only more potent",
+    "Only less toxic"
+   ],
+   "ans": 0,
+   "exp": "GM-CSF Analog (G macrophage -CSF) ↓ Potent, ↑ Toxic. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-054",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "page": 249,
+   "q": "Sargramostim S/E is:",
+   "opts": [
+    "Capillary leak syndrome",
+    "Bone pain",
+    "Only fever",
+    "Only rash"
+   ],
+   "ans": 0,
+   "exp": "S/E: Capillary leak syndrome. (Book p249)"
+  },
+  {
+   "id": "PHARM-C63-055",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Thrombopoietin agonist drugs are:",
+   "opts": [
+    "Romiplostim and Eltrombopag",
+    "Only romiplostim",
+    "Only eltrombopag",
+    "Only oprelvekin"
+   ],
+   "ans": 0,
+   "exp": "Drugs Romiplostim, Eltrombopag. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-056",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Thrombopoietin agonist use is:",
+   "opts": [
+    "ITP (Immune Thrombocytopenic Purpura)",
+    "Only chemotherapy thrombocytopenia",
+    "Only aplastic anemia",
+    "Only HIV"
+   ],
+   "ans": 0,
+   "exp": "Use: ITP (Immune Thrombocytopenic Purpura). (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-057",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Thrombopoietin agonist S/E are:",
+   "opts": [
+    "Portal vein thrombosis and Acute myeloid leukemia",
+    "Only portal vein thrombosis",
+    "Only AML",
+    "Only bleeding"
+   ],
+   "ans": 0,
+   "exp": "S/E Portal vein thrombosis, Acute myeloid leukemia. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-058",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "New thrombopoietin drugs are:",
+   "opts": [
+    "Avatrombopag and Lusutrombopag",
+    "Only avatrombopag",
+    "Only lusutrombopag",
+    "Only romiplostim"
+   ],
+   "ans": 0,
+   "exp": "New drugs Avatrombopag, Lusutrombopag. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-059",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Avatrombopag/lusutrombopag use is:",
+   "opts": [
+    "Prevent procedural bleeding in liver cirrhosis",
+    "Only ITP",
+    "Only chemotherapy",
+    "Only aplastic anemia"
+   ],
+   "ans": 0,
+   "exp": "Prevent procedural bleeding in liver cirrhosis. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-060",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "IL-11 analog is:",
+   "opts": [
+    "Oprelvekin",
+    "Romiplostim",
+    "Eltrombopag",
+    "Filgrastim"
+   ],
+   "ans": 0,
+   "exp": "IL-11 analog: Oprelvekin. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-061",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Oprelvekin use is:",
+   "opts": [
+    "Chemotherapy induced thrombocytopenia",
+    "Only ITP",
+    "Only aplastic anemia",
+    "Only HIV"
+   ],
+   "ans": 0,
+   "exp": "Use: Chemotherapy induced thrombocytopenia. (Book p250)"
+  },
+  {
+   "id": "PHARM-C63-062",
+   "sec": "Drugs Acting on Thrombopoiesis",
+   "page": 250,
+   "q": "Oprelvekin S/E is:",
+   "opts": [
+    "Fluid retention -> Congestive Heart and Edema",
+    "Only bone pain",
+    "Only capillary leak",
+    "Only fever"
+   ],
+   "ans": 0,
+   "exp": "S/E: Fluid retention -> Congestive Heart, Edema. (Book p250)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U63-1",
+   "ch": 63,
+   "n": 1,
+   "title": "Physiology of Platelet Aggregation and Aspirin",
+   "sec": "Physiology of Platelet Aggregation and Aspirin · p247",
+   "qs": [
+    "PHARM-C63-001",
+    "PHARM-C63-002",
+    "PHARM-C63-003",
+    "PHARM-C63-004",
+    "PHARM-C63-005",
+    "PHARM-C63-006",
+    "PHARM-C63-007",
+    "PHARM-C63-008",
+    "PHARM-C63-009",
+    "PHARM-C63-010",
+    "PHARM-C63-011",
+    "PHARM-C63-012",
+    "PHARM-C63-013",
+    "PHARM-C63-014"
+   ],
+   "guide": "Blood vessel injury releases collagen and vWF activating platelets. Platelet activation pathways: GP IIb/IIIa blocked by abciximab, COX-1 blocked by aspirin producing thromboxane A2 leading to aggregation, ADP acting on P2Y12 blocked by clopidogrel, increased phospholipids increasing thrombin production forming fibrin from fibrinogen forming mesh and permanent clot, and protease activated receptor PAR blocked by vorapaxar. Aspirin irreversibly inhibits COX-1 decreasing thromboxane A2 at 50-325 mg OD used for secondary prophylaxis of acute coronary syndrome and ischemic stroke, treatment of ACS, essential thrombocythemia, Kawasaki disease and antiphospholipid antibody syndrome; side effect bleeding with pre-op continue aspirin and stop clopidogrel 7 days pre-op."
+  },
+  {
+   "id": "PHARM-U63-2",
+   "ch": 63,
+   "n": 2,
+   "title": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept",
+   "sec": "ADP/P2Y12 Inhibitors: Classification and Hit and Run Concept · p248",
+   "qs": [
+    "PHARM-C63-015",
+    "PHARM-C63-016",
+    "PHARM-C63-017",
+    "PHARM-C63-018",
+    "PHARM-C63-019",
+    "PHARM-C63-020"
+   ],
+   "guide": "ADP/P2Y12 inhibitors classification: irreversible clopidogrel, ticlopidine and prasugrel; reversible competitive cangrelor adenosine analog short acting T1/2 3-6 min IV used for PCI in MI; non-competitive ticagrelor long acting oral used for PCI in MI, Rx of ACS and secondary prophylaxis of MI. Note hit and run drugs irreversible ADP/P2Y12 inhibitors, aspirin and PPIs bind irreversibly to target increasing T1/2 period."
+  },
+  {
+   "id": "PHARM-U63-3",
+   "ch": 63,
+   "n": 3,
+   "title": "Clopidogrel, Ticlopidine and Prasugrel",
+   "sec": "Clopidogrel, Ticlopidine and Prasugrel · p248",
+   "qs": [
+    "PHARM-C63-021",
+    "PHARM-C63-022",
+    "PHARM-C63-023",
+    "PHARM-C63-024",
+    "PHARM-C63-025",
+    "PHARM-C63-026",
+    "PHARM-C63-027",
+    "PHARM-C63-028",
+    "PHARM-C63-029",
+    "PHARM-C63-030"
+   ],
+   "guide": "Clopidogrel is prodrug activated by CYP2C19; CYP2C19 polymorphisms blunt clopidogrel decreasing effect worsening MI and it metabolizes omeprazole causing competitive inhibition of clopidogrel; use same as aspirin and combined with aspirin for patient on stent. Ticlopidine has increased toxicity GI nausea/vomiting/diarrhea, agranulocytosis and TTP-HUS complex; use secondary stroke prophylaxis in resistant cases. Prasugrel is most potent and fastest acting with increased risk of intracranial bleed contraindicated in history of stroke/TIA, used for PCI in MI."
+  },
+  {
+   "id": "PHARM-U63-4",
+   "ch": 63,
+   "n": 4,
+   "title": "Vorapaxar and GP IIb/IIIa Inhibitors",
+   "sec": "Vorapaxar and GP IIb/IIIa Inhibitors · p249",
+   "qs": [
+    "PHARM-C63-031",
+    "PHARM-C63-032",
+    "PHARM-C63-033",
+    "PHARM-C63-034",
+    "PHARM-C63-035",
+    "PHARM-C63-036",
+    "PHARM-C63-037",
+    "PHARM-C63-038",
+    "PHARM-C63-039",
+    "PHARM-C63-040"
+   ],
+   "guide": "Vorapaxar mechanism is PAR negative; use secondary prophylaxis MI and unstable angina as single agent or combined with aspirin/clopidogrel; side effect increased risk of intracranial bleed contraindicated in stroke/TIA. Glycoprotein IIb/IIIa inhibitor mechanism abciximab blocks GPIIb/IIIa and vitronectin with shortest T1/2 maximum affinity longest acting and eptifibatide longest T1/2 minimum affinity shortest acting; uses PCI in MI and ACS; route IV/intra-coronary; other drug tirofiban."
+  },
+  {
+   "id": "PHARM-U63-5",
+   "ch": 63,
+   "n": 5,
+   "title": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis",
+   "sec": "Hematopoietic Agents: Erythropoiesis and Granulopoiesis · p249",
+   "qs": [
+    "PHARM-C63-041",
+    "PHARM-C63-042",
+    "PHARM-C63-043",
+    "PHARM-C63-044",
+    "PHARM-C63-045",
+    "PHARM-C63-046",
+    "PHARM-C63-047",
+    "PHARM-C63-048",
+    "PHARM-C63-049",
+    "PHARM-C63-050",
+    "PHARM-C63-051",
+    "PHARM-C63-052",
+    "PHARM-C63-053",
+    "PHARM-C63-054"
+   ],
+   "guide": "Drugs acting on erythropoiesis are erythropoietin EPO analogs epoetin alpha and darbepoetin longer acting clinically preferred used DOC for anemia due to CRF, dialysis, zidovudine/anticancer drugs and premature infants with side effects HTN, iron deficiency, thrombosis, pure red cell aplasia and flu like symptoms; EPO receptor agonist peginesatide for anemia of CKD CRF. Drugs acting on granulopoiesis G-CSF analog granulocyte colony stimulating factor more potent less toxic lenograstim and filgrastim most commonly used multiple dose SC or IV with derivatives lipegfilgrastin and pegfilgrastim long acting single dose in a chemotherapy cycle; uses neutropenia due to myelodysplasia, aplastic anemia, HIV and chemotherapy with side effect bone pain; GM-CSF analog granulocyte macrophage CSF less potent more toxic sargramostim with side effect capillary leak syndrome."
+  },
+  {
+   "id": "PHARM-U63-6",
+   "ch": 63,
+   "n": 6,
+   "title": "Drugs Acting on Thrombopoiesis",
+   "sec": "Drugs Acting on Thrombopoiesis · p250",
+   "qs": [
+    "PHARM-C63-055",
+    "PHARM-C63-056",
+    "PHARM-C63-057",
+    "PHARM-C63-058",
+    "PHARM-C63-059",
+    "PHARM-C63-060",
+    "PHARM-C63-061",
+    "PHARM-C63-062"
+   ],
+   "guide": "Thrombopoietin agonists are romiplostim and eltrombopag used for ITP immune thrombocytopenic purpura with side effects portal vein thrombosis and acute myeloid leukemia; new drugs avatrombopag and lusutrombopag prevent procedural bleeding in liver cirrhosis. IL-11 analog oprelvekin used for chemotherapy induced thrombocytopenia with side effect fluid retention causing congestive heart failure and edema."
+  }
+ ]
+}

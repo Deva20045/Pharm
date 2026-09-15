@@ -1,0 +1,971 @@
+{
+ "questions": [
+  {
+   "id": "PHARM-C65-001",
+   "sec": "Pathophysiology and Bronchodilator Classification",
+   "page": 256,
+   "q": "Pathophysiology of bronchial asthma:",
+   "opts": [
+    "Allergen exposure -> mast cell lysis -> Histamine Release -> Bronchoconstriction & Inflammation",
+    "Only bronchoconstriction",
+    "Only inflammation",
+    "Only mast cell lysis"
+   ],
+   "ans": 0,
+   "exp": "Allergen exposure -> mast cell lysis -> Histamine Release -> Bronchoconstriction & Inflammation. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-002",
+   "sec": "Pathophysiology and Bronchodilator Classification",
+   "page": 256,
+   "q": "Bronchoconstriction in asthma Rx is:",
+   "opts": [
+    "Bronchodilators",
+    "Steroids",
+    "Only antihistaminics",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Bronchoconstriction Rx Bronchodilators. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-003",
+   "sec": "Pathophysiology and Bronchodilator Classification",
+   "page": 256,
+   "q": "Inflammation in asthma Rx is:",
+   "opts": [
+    "Steroids",
+    "Bronchodilators",
+    "Only antihistaminics",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Inflammation Rx Steroids. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-004",
+   "sec": "Pathophysiology and Bronchodilator Classification",
+   "page": 256,
+   "q": "Bronchodilators classification includes:",
+   "opts": [
+    "Beta2 agonists, Anticholinergics, Methylxanthines",
+    "Only beta agonists",
+    "Only anticholinergics",
+    "Only methylxanthines"
+   ],
+   "ans": 0,
+   "exp": "Classification: Beta2 agonists, Anticholinergics, Methylxanthines. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-005",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Methylxanthine bronchodilation MOA is:",
+   "opts": [
+    "(-) Phosphodiesterase 3 (PDE3 > PDE4) -> ↑ cAMP -> Relax smooth muscles and Adenosine Receptor antagonism",
+    "Only PDE4 inhibition",
+    "Only adenosine antagonism",
+    "Only PDE3 inhibition only"
+   ],
+   "ans": 0,
+   "exp": "(-) Phosphodiesterase 3 (PDE3 > PDE4) -> ↑ cAMP Relax smooth muscles Adenosine Receptor antagonism. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-006",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Methylxanthine anti-inflammatory MOA includes:",
+   "opts": [
+    "PDE 4 (-): Roflumilast -> Rx of COPD, (+) Histone deacetylase, ↑ IL-10, Apoptosis of neutrophils",
+    "Only PDE3 inhibition",
+    "Only adenosine antagonism",
+    "Only cAMP increase"
+   ],
+   "ans": 0,
+   "exp": "PDE 4 (-): Roflumilast -> Rx of COPD, (+) Histone deacetylase, ↑ IL-10, Apoptosis of neutrophils. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-007",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Roflumilast is:",
+   "opts": [
+    "PDE4 inhibitor used for COPD",
+    "PDE3 inhibitor",
+    "Only for asthma",
+    "Only bronchodilator"
+   ],
+   "ans": 0,
+   "exp": "PDE 4 (-): Roflumilast -> Rx of COPD. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-008",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Histone deacetylase is stimulated by:",
+   "opts": [
+    "Methylxanthines and steroids",
+    "Only methylxanthines",
+    "Only steroids",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "(+) Histone deacetylase (Steroids also stimulate it). (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-009",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Methylxanthine increases:",
+   "opts": [
+    "IL-10",
+    "IL-1",
+    "Only TNF",
+    "Only IL-6"
+   ],
+   "ans": 0,
+   "exp": "↑ IL-10. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-010",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Methylxanthine causes apoptosis of:",
+   "opts": [
+    "Neutrophils",
+    "Only eosinophils",
+    "Only lymphocytes",
+    "Only macrophages"
+   ],
+   "ans": 0,
+   "exp": "Apoptosis of neutrophils. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-011",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Oral methylxanthine drug is:",
+   "opts": [
+    "Theophylline > Aminophylline",
+    "Aminophylline > Theophylline",
+    "Only theophylline",
+    "Only aminophylline"
+   ],
+   "ans": 0,
+   "exp": "Oral Theophylline > Aminophylline. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-012",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "Oral theophylline use is:",
+   "opts": [
+    "Add on Rx of persistent BA",
+    "Acute exacerbation of BA",
+    "Only COPD",
+    "Only intermittent asthma"
+   ],
+   "ans": 0,
+   "exp": "Add on Rx of persistent BA. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-013",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "IV methylxanthine drug is:",
+   "opts": [
+    "Aminophylline > Theophylline",
+    "Theophylline > Aminophylline",
+    "Only theophylline",
+    "Only aminophylline"
+   ],
+   "ans": 0,
+   "exp": "IV Aminophylline > Theophylline. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-014",
+   "sec": "Methylxanthines: MOA and Drugs",
+   "page": 256,
+   "q": "IV aminophylline use is:",
+   "opts": [
+    "Acute exacerbation of BA",
+    "Add on persistent BA",
+    "Only COPD",
+    "Only intermittent"
+   ],
+   "ans": 0,
+   "exp": "Acute exacerbation of BA. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-015",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Methylxanthine S/E D/t PDE4 (-) occurs at:",
+   "opts": [
+    "At levels ~20-25 mg/L",
+    "At >30 mg/L",
+    "At 5-15 mg/L",
+    "At <5 mg/L"
+   ],
+   "ans": 0,
+   "exp": "At levels ~20-25 mg/L. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-016",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "PDE4 inhibition S/E includes:",
+   "opts": [
+    "GI upset: Nausea, vomiting and Headache",
+    "Only arrhythmia",
+    "Only seizures",
+    "Only GI upset only"
+   ],
+   "ans": 0,
+   "exp": "GI upset: Nausea, vomiting, Headache. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-017",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Methylxanthine S/E D/t Adenosine Receptor (-) occurs at:",
+   "opts": [
+    "At >30 mg/L",
+    "At 20-25 mg/L",
+    "At 5-15 mg/L",
+    "At <5 mg/L"
+   ],
+   "ans": 0,
+   "exp": "At >30 mg/L. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-018",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Adenosine receptor antagonism S/E includes:",
+   "opts": [
+    "Arrhythmia (Also d/t PDE 3(-)) and Seizures",
+    "Only GI upset",
+    "Only headache",
+    "Only nausea"
+   ],
+   "ans": 0,
+   "exp": "Arrhythmia (Also d/t PDE 3(-)), Seizures. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-019",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Theophylline normal therapeutic range is:",
+   "opts": [
+    "5-15 mg/L",
+    "20-25 mg/L",
+    ">30 mg/L",
+    "0-5 mg/L"
+   ],
+   "ans": 0,
+   "exp": "Theophylline (N) range: 5-15 mg/L. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-020",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Theophylline toxicity level is:",
+   "opts": [
+    ">20 mg/L",
+    "5-15 mg/L",
+    "20-25 mg/L",
+    ">30 mg/L only"
+   ],
+   "ans": 0,
+   "exp": "Toxicity: >20 mg/L. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-021",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index",
+   "page": 256,
+   "q": "Theophylline has:",
+   "opts": [
+    "Low therapeutic index",
+    "High therapeutic index",
+    "No therapeutic index",
+    "Only wide index"
+   ],
+   "ans": 0,
+   "exp": "Low Therapeutic index. (Book p256)"
+  },
+  {
+   "id": "PHARM-C65-022",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Most potent ICS is:",
+   "opts": [
+    "Fluticasone",
+    "Mometasone",
+    "Budesonide",
+    "Flunisolide"
+   ],
+   "ans": 0,
+   "exp": "Fluticasone: most potent. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-023",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Least potent ICS is:",
+   "opts": [
+    "Flunisolide",
+    "Fluticasone",
+    "Mometasone",
+    "Budesonide"
+   ],
+   "ans": 0,
+   "exp": "Flunisolide: Least potent. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-024",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Soft steroids are:",
+   "opts": [
+    "Ciclesonide and Beclomethasone: ↓ S/E d/t metabolism in airway",
+    "Fluticasone and mometasone",
+    "Budesonide only",
+    "Flunisolide only"
+   ],
+   "ans": 0,
+   "exp": "Soft steroids: ↓ S/E d/t metabolism in airway. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-025",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "ICS drugs include:",
+   "opts": [
+    "Fluticasone, Mometasone, Budesonide, Ciclesonide, Beclomethasone, Flunisolide",
+    "Only fluticasone",
+    "Only budesonide",
+    "Only beclomethasone"
+   ],
+   "ans": 0,
+   "exp": "Drugs list. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-026",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "ICS uses include:",
+   "opts": [
+    "Persistent BA, Exercise Induced Asthma (EIA), Aspirin Induced Bronchoconstriction, Intermittent BA (<2 attacks/wk)",
+    "Only persistent BA",
+    "Only EIA",
+    "Only intermittent BA"
+   ],
+   "ans": 0,
+   "exp": "Persistent BA, Exercise Induced Asthma (EIA), Aspirin Induced Bronchoconstriction, Intermittent BA (<2 attacks/wk). (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-027",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "DOC for aspirin induced bronchoconstriction is:",
+   "opts": [
+    "ICS",
+    "Only SABA",
+    "Only systemic steroids",
+    "Only leukotriene blockers"
+   ],
+   "ans": 0,
+   "exp": "Aspirin Induced Bronchoconstriction DOC. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-028",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "ICS side effect most common is:",
+   "opts": [
+    "Hoarseness of voice",
+    "Oropharyngeal candidiasis",
+    "Systemic effects",
+    "Only hoarseness only"
+   ],
+   "ans": 0,
+   "exp": "Hoarseness of voice: m/c. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-029",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Oropharyngeal candidiasis with ICS prevented by:",
+   "opts": [
+    "Good inhaler technique",
+    "Only dose reduction",
+    "Only stopping ICS",
+    "Only adding antifungal prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Prevented by good inhaler technique. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-030",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Systemic S/E with ICS is:",
+   "opts": [
+    "Minimal",
+    "Maximum",
+    "Moderate",
+    "Severe always"
+   ],
+   "ans": 0,
+   "exp": "Systemic S/E: minimal. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-031",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Intermittent asthma 0-5 years Rx:",
+   "opts": [
+    "SABA (Short acting β Agonist)",
+    "SABA + ICS",
+    "FDC ICS + Formoterol",
+    "Only ICS"
+   ],
+   "ans": 0,
+   "exp": "0-5 years: SABA (Short acting β Agonist). (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-032",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Intermittent asthma 6-11 years Rx:",
+   "opts": [
+    "SABA + ICS (SABA before ICS)",
+    "Only SABA",
+    "FDC ICS + Formoterol",
+    "Only ICS"
+   ],
+   "ans": 0,
+   "exp": "6-11 years: SABA + ICS (SABA before ICS). (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-033",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Intermittent asthma >12 years Rx:",
+   "opts": [
+    "FDC ICS + pMDI Formoterol -> ↓Number & Severity of attack",
+    "Only SABA",
+    "SABA + ICS only",
+    "Only systemic steroids"
+   ],
+   "ans": 0,
+   "exp": ">12 years: FDC ICS + pMDI Formoterol -> ↓Number & Severity of attack. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-034",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Systemic steroids oral is:",
+   "opts": [
+    "Prednisone/Prednisolone",
+    "Hydrocortisone only",
+    "Methylprednisolone only",
+    "Only dexamethasone"
+   ],
+   "ans": 0,
+   "exp": "Oral: Prednisone/Prednisolone. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-035",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Systemic steroids I/V is:",
+   "opts": [
+    "Hydrocortisone (Faster acting) > Methylprednisolone",
+    "Only methylprednisolone",
+    "Only prednisone",
+    "Only dexamethasone"
+   ],
+   "ans": 0,
+   "exp": "I/V drug: Hydrocortisone (Faster acting) > methylprednisolone. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-036",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Systemic steroids for persistent asthma:",
+   "opts": [
+    "Oral steroids if ICS fails",
+    "Only IV steroids",
+    "Only ICS",
+    "No steroids needed"
+   ],
+   "ans": 0,
+   "exp": "Persistent asthma: Oral steroids if ICS fails. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-037",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Acute exacerbation steroids:",
+   "opts": [
+    "Oral > I/V steroids",
+    "I/V > Oral",
+    "Only IV",
+    "Only oral"
+   ],
+   "ans": 0,
+   "exp": "Acute Exacerbation: Oral > I/V steroids. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-038",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Steroids MOA in acute exacerbation decreases:",
+   "opts": [
+    "Mucus secretion and Inflammatory mediators",
+    "Only mucus",
+    "Only inflammatory mediators",
+    "Only beta receptors"
+   ],
+   "ans": 0,
+   "exp": "↓ Mucus secretion, ↓ Inflammatory mediators. (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-039",
+   "sec": "Inhalational and Systemic Steroids in Asthma",
+   "page": 257,
+   "q": "Steroids increase in acute exacerbation:",
+   "opts": [
+    "β2 receptors -> ↑ Effect of β2 Agonist -> ↑ Steroid Effect (Complementary)",
+    "Only beta1",
+    "Only alpha",
+    "Only muscarinic"
+   ],
+   "ans": 0,
+   "exp": "↑ β2 receptors -> ↑ Effect of β2 Agonist -> ↑ Steroid Effect (Complementary). (Book p257)"
+  },
+  {
+   "id": "PHARM-C65-040",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "5-LOX (Lipoxygenase) Inhibitor is:",
+   "opts": [
+    "Zileuton",
+    "Montelukast",
+    "Zafirlukast",
+    "Pranlukast"
+   ],
+   "ans": 0,
+   "exp": "5-LOX Inhibitors: Zileuton. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-041",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "LTC4/LTD4 Inhibitors are:",
+   "opts": [
+    "Montelukast, Zafirlukast, Pranlukast",
+    "Only montelukast",
+    "Only zileuton",
+    "Only pranlukast"
+   ],
+   "ans": 0,
+   "exp": "LTC4/LTD4 Inhibitor: montelukast, Zafirlukast, Pranlukast. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-042",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Antileukotrienes uses include:",
+   "opts": [
+    "Persistent BA: Add-on to ICS, EIA, Allergic rhinitis: montelukast",
+    "Only persistent BA",
+    "Only EIA",
+    "Only allergic rhinitis"
+   ],
+   "ans": 0,
+   "exp": "Uses: Persistent BA: Add-on to ICS, EIA, Allergic rhinitis: montelukast. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-043",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Antileukotriene S/E hepatotoxicity max with:",
+   "opts": [
+    "Zileuton",
+    "Montelukast",
+    "Zafirlukast",
+    "Pranlukast"
+   ],
+   "ans": 0,
+   "exp": "Hepatotoxicity: max with zileuton. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-044",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Churg-Strauss syndrome S/E with:",
+   "opts": [
+    "Montelukast & Zafirlukast",
+    "Only zileuton",
+    "Only pranlukast",
+    "Only montelukast alone"
+   ],
+   "ans": 0,
+   "exp": "Churg-Strauss syndrome: montelukast & Zafirlukast. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-045",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Mast cell stabilizers MOA:",
+   "opts": [
+    "Inhibit Ca2+ channels in mast cells Prevent Degranulation ↓ Release Histamine",
+    "Only increase histamine",
+    "Only block H1",
+    "Only block leukotrienes"
+   ],
+   "ans": 0,
+   "exp": "Inhibit Ca2+ channels in mast cells Prevent Degranulation ↓ Release Histamine. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-046",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Cromolyn sodium, Nedocromil oral use:",
+   "opts": [
+    "Food allergy, systemic mastocytosis",
+    "Only asthma",
+    "Only rhinitis",
+    "Only conjunctivitis"
+   ],
+   "ans": 0,
+   "exp": "Oral: Food allergy, systemic mastocytosis. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-047",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Cromolyn nasal spray use:",
+   "opts": [
+    "Allergic rhinitis",
+    "Food allergy",
+    "Only asthma",
+    "Only conjunctivitis"
+   ],
+   "ans": 0,
+   "exp": "Nasal spray: Allergic rhinitis. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-048",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Cromolyn eye drops use:",
+   "opts": [
+    "Allergic conjunctivitis",
+    "Only rhinitis",
+    "Only asthma",
+    "Only food allergy"
+   ],
+   "ans": 0,
+   "exp": "Eye drops: Allergic conjunctivitis. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-049",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Cromolyn inhalational use:",
+   "opts": [
+    "Mild asthma (Least toxic -> Preferred in children)",
+    "Severe asthma",
+    "Only COPD",
+    "Only EIA"
+   ],
+   "ans": 0,
+   "exp": "Inhalational: mild asthma (Least toxic -> Preferred in children). (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-050",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Ketotifen MOA is:",
+   "opts": [
+    "Mast cell stabilization + ↑ NO release",
+    "Only mast cell stabilization",
+    "Only NO release",
+    "Only H1 blockade"
+   ],
+   "ans": 0,
+   "exp": "Mast cell stabilization + ↑ NO release. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-051",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Ketotifen use is:",
+   "opts": [
+    "Prophylaxis of allergen induced asthma",
+    "Only food allergy",
+    "Only rhinitis",
+    "Only conjunctivitis"
+   ],
+   "ans": 0,
+   "exp": "Prophylaxis of allergen induced asthma. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-052",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Omalizumab is:",
+   "opts": [
+    "Anti IgE monoclonal antibody",
+    "Anti IL-5",
+    "Anti IL-4",
+    "Anti IL-4 receptor"
+   ],
+   "ans": 0,
+   "exp": "Anti IgE monoclonal antibody. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-053",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Omalizumab route is:",
+   "opts": [
+    "S/C x every 2-4 wks",
+    "IV only",
+    "Oral only",
+    "IM only"
+   ],
+   "ans": 0,
+   "exp": "Route: S/C x every 2-4 wks. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-054",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Omalizumab uses include:",
+   "opts": [
+    "Resistant asthma, Allergic rhinitis, Chronic urticaria, Food allergy",
+    "Only resistant asthma",
+    "Only allergic rhinitis",
+    "Only chronic urticaria"
+   ],
+   "ans": 0,
+   "exp": "Resistant asthma, Allergic rhinitis, Chronic urticaria, Food allergy. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-055",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Omalizumab dose based on:",
+   "opts": [
+    "Weight of pt and IgE titer",
+    "Only weight",
+    "Only IgE titer",
+    "Only age"
+   ],
+   "ans": 0,
+   "exp": "Based on weight of pt, IgE titer. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-056",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Omalizumab C/I is:",
+   "opts": [
+    "Atopic dermatitis (D/t: ↑↑ IgE)",
+    "Only asthma",
+    "Only rhinitis",
+    "Only urticaria"
+   ],
+   "ans": 0,
+   "exp": "C/I: Atopic dermatitis (D/t: ↑↑ IgE). (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-057",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Dupilumab blocks:",
+   "opts": [
+    "IL-4 Receptor on T-helper cells",
+    "IL-5",
+    "IL-5 receptor",
+    "IgE"
+   ],
+   "ans": 0,
+   "exp": "Dupilumab X IL-4 Receptor on T-helper cells. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-058",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Reslizumab and mepolizumab block:",
+   "opts": [
+    "IL-5",
+    "IL-4",
+    "IL-5 receptor",
+    "IgE"
+   ],
+   "ans": 0,
+   "exp": "Reslizumab Mepolizumab X IL-5. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-059",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "Benralizumab blocks:",
+   "opts": [
+    "IL-5 Receptor on eosinophils",
+    "IL-4 receptor",
+    "IL-5 itself",
+    "IgE"
+   ],
+   "ans": 0,
+   "exp": "Benralizumab X IL-5 Receptor on eosinophils. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-060",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "IL-5 receptor activation causes:",
+   "opts": [
+    "Maturation & survival of eosinophils",
+    "Only maturation",
+    "Only survival",
+    "Only apoptosis"
+   ],
+   "ans": 0,
+   "exp": "Maturation & survival. (Book p258)"
+  },
+  {
+   "id": "PHARM-C65-061",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "page": 258,
+   "q": "IL-4 & IL-5 monoclonal antibodies uses:",
+   "opts": [
+    "Severe Eosinophilic asthma and Atopic Dermatitis",
+    "Only severe eosinophilic asthma",
+    "Only atopic dermatitis",
+    "Only food allergy"
+   ],
+   "ans": 0,
+   "exp": "Severe Eosinophilic asthma, Atopic Dermatitis: Atopic dermatitis. (Book p258)"
+  }
+ ],
+ "units": [
+  {
+   "id": "PHARM-U65-1",
+   "ch": 65,
+   "n": 1,
+   "title": "Pathophysiology and Bronchodilator Classification",
+   "sec": "Pathophysiology and Bronchodilator Classification · p256",
+   "qs": [
+    "PHARM-C65-001",
+    "PHARM-C65-002",
+    "PHARM-C65-003",
+    "PHARM-C65-004"
+   ],
+   "guide": "Bronchial asthma pathophysiology: allergen exposure leads to mast cell lysis releasing histamine causing bronchoconstriction and inflammation treated with bronchodilators and steroids respectively. Bronchodilators classification includes beta2 agonists, anticholinergics and methylxanthines."
+  },
+  {
+   "id": "PHARM-U65-2",
+   "ch": 65,
+   "n": 2,
+   "title": "Methylxanthines: MOA and Drugs",
+   "sec": "Methylxanthines: MOA and Drugs · p256",
+   "qs": [
+    "PHARM-C65-005",
+    "PHARM-C65-006",
+    "PHARM-C65-007",
+    "PHARM-C65-008",
+    "PHARM-C65-009",
+    "PHARM-C65-010",
+    "PHARM-C65-011",
+    "PHARM-C65-012",
+    "PHARM-C65-013",
+    "PHARM-C65-014"
+   ],
+   "guide": "Methylxanthine MOA bronchodilation via inhibition of phosphodiesterase 3 PDE3 greater than PDE4 increasing cAMP relaxing smooth muscles plus adenosine receptor antagonism; anti-inflammatory via PDE4 inhibition roflumilast for COPD, stimulation of histone deacetylase which steroids also stimulate, increased IL-10 and apoptosis of neutrophils. Drugs oral theophylline greater than aminophylline add on treatment of persistent BA and IV aminophylline greater than theophylline for acute exacerbation of BA."
+  },
+  {
+   "id": "PHARM-U65-3",
+   "ch": 65,
+   "n": 3,
+   "title": "Methylxanthines: Side Effects and Therapeutic Index",
+   "sec": "Methylxanthines: Side Effects and Therapeutic Index · p256",
+   "qs": [
+    "PHARM-C65-015",
+    "PHARM-C65-016",
+    "PHARM-C65-017",
+    "PHARM-C65-018",
+    "PHARM-C65-019",
+    "PHARM-C65-020",
+    "PHARM-C65-021"
+   ],
+   "guide": "Side effects due to PDE4 inhibition at levels around 20-25 mg/L cause GI upset nausea vomiting and headache; due to adenosine receptor antagonism at greater than 30 mg/L cause arrhythmia also due to PDE3 inhibition and seizures. Low therapeutic index with theophylline normal range 5-15 mg/L and toxicity greater than 20 mg/L."
+  },
+  {
+   "id": "PHARM-U65-4",
+   "ch": 65,
+   "n": 4,
+   "title": "Inhalational and Systemic Steroids in Asthma",
+   "sec": "Inhalational and Systemic Steroids in Asthma · p257",
+   "qs": [
+    "PHARM-C65-022",
+    "PHARM-C65-023",
+    "PHARM-C65-024",
+    "PHARM-C65-025",
+    "PHARM-C65-026",
+    "PHARM-C65-027",
+    "PHARM-C65-028",
+    "PHARM-C65-029",
+    "PHARM-C65-030",
+    "PHARM-C65-031",
+    "PHARM-C65-032",
+    "PHARM-C65-033",
+    "PHARM-C65-034",
+    "PHARM-C65-035",
+    "PHARM-C65-036",
+    "PHARM-C65-037",
+    "PHARM-C65-038",
+    "PHARM-C65-039"
+   ],
+   "guide": "Inhalational corticosteroids ICS drugs fluticasone most potent, mometasone, budesonide, ciclesonide and beclomethasone soft steroids with decreased side effects due to metabolism in airway and flunisolide least potent; uses persistent BA, exercise induced asthma EIA, aspirin induced bronchoconstriction DOC and intermittent BA less than 2 attacks/week; side effects hoarseness of voice most common, oropharyngeal candidiasis prevented by good inhaler technique and systemic side effects minimal. Note intermittent asthma treatment 0-5 years SABA short acting beta agonist, 6-11 years SABA plus ICS SABA before ICS, greater than 12 years FDC ICS plus pMDI formoterol decreasing number and severity of attack. Systemic steroids oral prednisone/prednisolone and IV hydrocortisone faster acting greater than methylprednisolone used for persistent asthma if ICS fails and acute exacerbation oral greater than IV steroids; MOA in acute exacerbation decreases mucus secretion, decreases inflammatory mediators and increases beta2 receptors increasing effect of beta2 agonist increasing steroid effect complementary."
+  },
+  {
+   "id": "PHARM-U65-5",
+   "ch": 65,
+   "n": 5,
+   "title": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies",
+   "sec": "Accessory Drugs: Antileukotrienes, Mast Cell Stabilizers and Monoclonal Antibodies · p258",
+   "qs": [
+    "PHARM-C65-040",
+    "PHARM-C65-041",
+    "PHARM-C65-042",
+    "PHARM-C65-043",
+    "PHARM-C65-044",
+    "PHARM-C65-045",
+    "PHARM-C65-046",
+    "PHARM-C65-047",
+    "PHARM-C65-048",
+    "PHARM-C65-049",
+    "PHARM-C65-050",
+    "PHARM-C65-051",
+    "PHARM-C65-052",
+    "PHARM-C65-053",
+    "PHARM-C65-054",
+    "PHARM-C65-055",
+    "PHARM-C65-056",
+    "PHARM-C65-057",
+    "PHARM-C65-058",
+    "PHARM-C65-059",
+    "PHARM-C65-060",
+    "PHARM-C65-061"
+   ],
+   "guide": "Antileukotrienes are 5-LOX lipoxygenase inhibitors zileuton and LTC4/LTD4 inhibitors montelukast, zafirlukast and pranlukast used for persistent BA add-on to ICS, EIA and allergic rhinitis with montelukast and side effects hepatotoxicity maximum with zileuton and Churg-Strauss syndrome with montelukast and zafirlukast. Mast cell stabilizers inhibit Ca2+ channels in mast cells preventing degranulation decreasing histamine release; drugs cromolyn sodium and nedocromil uses oral food allergy systemic mastocytosis, nasal spray allergic rhinitis, eye drops allergic conjunctivitis and inhalational mild asthma least toxic preferred in children; ketotifen MOA mast cell stabilization plus increased NO release used for prophylaxis of allergen induced asthma. Monoclonal antibodies omalizumab anti IgE monoclonal antibody SC every 2-4 weeks used for resistant asthma, allergic rhinitis, chronic urticaria and food allergy dosed based on weight and IgE titer contraindicated in atopic dermatitis due to very high IgE; IL-4 and IL-5 related dupilumab blocks IL-4 receptor on T-helper cells, reslizumab and mepolizumab block IL-5 and benralizumab blocks IL-5 receptor on eosinophils decreasing maturation and survival used for severe eosinophilic asthma and atopic dermatitis."
+  }
+ ]
+}
