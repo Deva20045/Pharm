@@ -46,24 +46,64 @@ def validate(path):
     lo, hi = PAGE_MAP.get(ch, (1, 293))
 
     # ---- questions ----
+    dummy_re = re.compile(r"(?i)^(only |neither|none of)")
+    n_mcq = n_fill = n_match = 0
+    warns = 0
     for i, q in enumerate(qs, 1):
         if q["id"] != f"PHARM-C{ch}-{i:03d}":
             fail(f"question order/id: got {q['id']} expected PHARM-C{ch}-{i:03d}")
-        if len(q["opts"]) != 4:
-            fail(f"{q['id']}: opts != 4")
-        if not (isinstance(q["ans"], int) and 0 <= q["ans"] <= 3):
-            fail(f"{q['id']}: bad ans")
         if not (lo <= q["page"] <= hi):
             fail(f"{q['id']}: page {q['page']} outside chapter range {lo}-{hi}")
         if not q["exp"].rstrip().endswith(f"(Book p{q['page']})"):
             fail(f"{q['id']}: exp must end '(Book p{q['page']})' -> ...{q['exp'][-20:]}")
-        if not q["q"].strip() or any(not str(o).strip() for o in q["opts"]):
-            fail(f"{q['id']}: empty text")
-        if len(set(q["opts"])) != 4:
-            fail(f"{q['id']}: duplicate options")
-        if not q["sec"].strip():
-            fail(f"{q['id']}: empty sec")
-    print(f"  questions OK: {len(qs)} (C{ch}-001 .. C{ch}-{len(qs):03d})")
+        if not q["q"].strip() or not q["sec"].strip():
+            fail(f"{q['id']}: empty text/sec")
+        t = q.get("type", "mcq")
+        if t == "mcq":
+            n_mcq += 1
+            if "opts" not in q or len(q["opts"]) != 4:
+                fail(f"{q['id']}: mcq needs 4 opts")
+            if not (isinstance(q["ans"], int) and 0 <= q["ans"] <= 3):
+                fail(f"{q['id']}: bad ans")
+            if any(not str(o).strip() for o in q["opts"]):
+                fail(f"{q['id']}: empty option")
+            if len(set(q["opts"])) != 4:
+                fail(f"{q['id']}: duplicate options")
+            dist = [o for j, o in enumerate(q["opts"]) if j != q["ans"]]
+            dummy = sum(1 for o in dist if dummy_re.match(o.strip()))
+            if dummy >= 2:
+                print(f"  WARN {q['id']}: dummy 'Only X' distractors (guessable)")
+                warns += 1
+            lens = [len(o) for o in q["opts"]]
+            a = q["ans"]
+            others = [lens[j] for j in range(4) if j != a]
+            if lens[a] == max(lens) and lens[a] >= 2 * max(others):
+                print(f"  WARN {q['id']}: correct option uniquely much longer")
+                warns += 1
+        elif t == "fill":
+            n_fill += 1
+            if not str(q.get("blank", "")).strip():
+                fail(f"{q['id']}: fill needs blank")
+            if "____" not in q["q"]:
+                fail(f"{q['id']}: fill stem must contain ____")
+            if q.get("aliases") is not None and not isinstance(q["aliases"], list):
+                fail(f"{q['id']}: aliases must be a list")
+        elif t == "match":
+            n_match += 1
+            left, right = q.get("left") or [], q.get("right") or []
+            if not (3 <= len(left) <= 4 and len(left) == len(right)):
+                fail(f"{q['id']}: match needs 3-4 equal left/right")
+            if any(not str(x).strip() for x in left + right):
+                fail(f"{q['id']}: empty match item")
+            if len(set(left)) != len(left) or len(set(right)) != len(right):
+                fail(f"{q['id']}: duplicate match item")
+            if "ans" in q:
+                ans = q["ans"]
+                if not (isinstance(ans, list) and len(ans) == len(left) and set(ans) == set(range(len(left)))):
+                    fail(f"{q['id']}: match ans must be a permutation of 0..n-1")
+        else:
+            fail(f"{q['id']}: unknown type {t!r}")
+    print(f"  questions OK: {len(qs)} (C{ch}-001 .. C{ch}-{len(qs):03d})  mcq={n_mcq} fill={n_fill} match={n_match} warnings={warns}")
 
     # ---- units ----
     covered = []

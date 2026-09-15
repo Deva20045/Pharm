@@ -29,7 +29,11 @@ PROGRESS.md                 ← memory / single source of truth for continuation
    integrity → commit+push). The source PDF lives in `uploads/`.
 
 ## Schema contract (see PROGRESS.md for full detail)
-- Question: `{id:"PHARM-C{ch}-{nnn}", sec, page, q, opts[4], ans, exp}` — exp ends `(Book pX)`.
+- Question: `{id:"PHARM-C{ch}-{nnn}", sec, page, q, exp}` — exp ends `(Book pX)`.
+  Optional `type`: `mcq` (default, CHOOSE), `fill` (FILL IN THE BLANK), `match` (MATCH).
+  - mcq: `opts[4]`, `ans` 0-3 — four near-miss options of similar length, never dummy "Only X" pads.
+  - fill: stem contains `____`, `blank` + optional `aliases[]` (typed, case-insensitive).
+  - match: `left[]`/`right[]` (3-4 pairs); tap-to-pair.
 - Unit: `{id:"PHARM-U{ch}-{n}", ch, n, title, sec:"<Heading> · p<page>", qs:[...], guide}`.
 - Units cover every question exactly once, strictly in book order.
 - PDF↔book map: **book page = pdf page − 5**.

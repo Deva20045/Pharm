@@ -4,743 +4,390 @@
    "id": "PHARM-C62-001",
    "sec": "Acute Flare and Long Term Management Principles",
    "page": 244,
-   "q": "Mild-moderate acute flare of RA uses:",
+   "type": "mcq",
+   "q": "Mild–moderate acute RA flare is treated with:",
    "opts": [
-    "NSAIDs: Aspirin, Diclofenac > Celecoxib",
-    "Only steroids",
-    "Only methotrexate",
-    "Only biologics"
+    "NSAIDs (aspirin, diclofenac > celecoxib)",
+    "Immediate JAK inhibitor monotherapy",
+    "Intra-articular triamcinolone as first step",
+    "TNF inhibitor plus methotrexate on day 1"
    ],
    "ans": 0,
-   "exp": "Mild - moderate: NSAIDs: Aspirin, Diclofenac > Celecoxib. (Book p244)"
+   "exp": "NSAIDs (aspirin, diclofenac > celecoxib) (Book p244)"
   },
   {
    "id": "PHARM-C62-002",
    "sec": "Acute Flare and Long Term Management Principles",
    "page": 244,
-   "q": "Severe acute flare of RA uses:",
-   "opts": [
-    "Steroids: Also if unresponsive to NSAIDs",
-    "Only NSAIDs",
-    "Only methotrexate",
-    "Only biologics"
-   ],
-   "ans": 0,
-   "exp": "Severe: Steroids: Also if unresponsive to NSAIDS. (Book p244)"
+   "type": "fill",
+   "q": "For 1–2 joints in a severe flare use intra-articular ____.",
+   "blank": "triamcinolone",
+   "aliases": [],
+   "exp": "triamcinolone (Book p244)"
   },
   {
    "id": "PHARM-C62-003",
    "sec": "Acute Flare and Long Term Management Principles",
    "page": 244,
-   "q": "If 1-2 joints involved in severe flare:",
-   "opts": [
-    "Intra-articular triamcinolone",
-    "Oral prednisolone",
-    "Only NSAIDs",
-    "Only methotrexate"
-   ],
-   "ans": 0,
-   "exp": "1-2 Joints: Intra-articular triamcinolone. (Book p244)"
+   "type": "fill",
+   "q": "For >2 joints in a severe flare use oral ____.",
+   "blank": "prednisolone",
+   "aliases": [],
+   "exp": "prednisolone (Book p244)"
   },
   {
    "id": "PHARM-C62-004",
    "sec": "Acute Flare and Long Term Management Principles",
    "page": 244,
-   "q": "If >2 joints involved:",
-   "opts": [
-    "Oral prednisolone",
-    "Intra-articular triamcinolone",
-    "Only NSAIDs",
-    "Only methotrexate"
+   "type": "match",
+   "q": "Match the DMARD class with examples.",
+   "left": [
+    "Conventional",
+    "Biological",
+    "JAK inhibitors"
    ],
-   "ans": 0,
-   "exp": ">2 joints: Oral prednisolone. (Book p244)"
+   "right": [
+    "Methotrexate, HCQ, sulfasalazine, leflunomide…",
+    "TNF / IL-1 / IL-6 / CD20 / abatacept",
+    "Tofacitinib, baricitinib, upadacitinib"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Conventional → Methotrexate, HCQ, sulfasalazine, leflunomide…; Biological → TNF / IL-1 / IL-6 / CD20 / abatacept; JAK inhibitors → Tofacitinib, baricitinib, upadacitinib (Book p244)"
   },
   {
    "id": "PHARM-C62-005",
    "sec": "Acute Flare and Long Term Management Principles",
    "page": 244,
-   "q": "Disease modifying anti rheumatoid drugs (DMARDs) are:",
+   "type": "mcq",
+   "q": "DMARDs should not be combined because they all:",
    "opts": [
-    "Conventional DMARDs, Biological DMARDs, JAK inhibitors",
-    "Only conventional",
-    "Only biological",
-    "Only JAK inhibitors"
+    "Immunosuppress and raise infection risk",
+    "Share identical hepatotoxicity that is always additive",
+    "Antagonize methotrexate intracellularly",
+    "Are pregnancy category X together"
    ],
    "ans": 0,
-   "exp": "DMARDs: Conventional, Biological, JAK inhibitors. (Book p244)"
+   "exp": "Immunosuppress and raise infection risk (Book p244)"
   },
   {
    "id": "PHARM-C62-006",
-   "sec": "Acute Flare and Long Term Management Principles",
+   "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "Conventional DMARDs include:",
-   "opts": [
-    "Methotrexate, Hydroxychloroquine, Sulfasalazine, Leflunomide, Cyclosporin, Azathioprine, Mycophenolate mofetil, Cyclophosphamide",
-    "Only methotrexate",
-    "Only biologics",
-    "Only JAK inhibitors"
-   ],
-   "ans": 0,
-   "exp": "Conventional DMARDs list. (Book p244)"
+   "type": "fill",
+   "q": "The anchor drug and DOC for newly diagnosed RA is ____.",
+   "blank": "methotrexate",
+   "aliases": [],
+   "exp": "methotrexate (Book p244)"
   },
   {
    "id": "PHARM-C62-007",
-   "sec": "Acute Flare and Long Term Management Principles",
+   "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "Biological DMARDs include:",
-   "opts": [
-    "TNF α inhibitors, IL-1 inhibitors, IL-6 inhibitors, Abatacept, CD-20 inhibitors",
-    "Only TNF inhibitors",
-    "Only JAK inhibitors",
-    "Only conventional"
+   "type": "fill",
+   "q": "Anti-inflammatory effect of methotrexate appears in ____ weeks.",
+   "blank": "2-4",
+   "aliases": [
+    "2–4",
+    "2 to 4"
    ],
-   "ans": 0,
-   "exp": "Biological DMARDs TNF α, IL-1, IL-6, Abatacept, CD-20. (Book p244)"
+   "exp": "2-4 (Book p244)"
   },
   {
    "id": "PHARM-C62-008",
-   "sec": "Acute Flare and Long Term Management Principles",
+   "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "JAK inhibitors include:",
+   "type": "mcq",
+   "q": "If methotrexate is inadequate after 3–6 months, add:",
    "opts": [
-    "Tofacitinib, Baricitinib, Upadacitinib",
-    "Only tofacitinib",
-    "Only methotrexate",
-    "Only rituximab"
+    "HCQ + sulfasalazine, OR abatacept, OR a biological DMARD",
+    "A higher NSAID dose alone",
+    "Lifelong intra-articular triamcinolone",
+    "Pegloticase"
    ],
    "ans": 0,
-   "exp": "JAK inhibitors Tofacitinib Baricitinib Upadacitinib. (Book p244)"
+   "exp": "HCQ + sulfasalazine, OR abatacept, OR a biological DMARD (Book p244)"
   },
   {
    "id": "PHARM-C62-009",
-   "sec": "Acute Flare and Long Term Management Principles",
+   "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "DMARDs cause:",
-   "opts": [
-    "Immunosuppression -> ↑ Risk of infection -> Not to be combined",
-    "No immunosuppression",
-    "Only hepatotoxicity",
-    "Only nephrotoxicity"
+   "type": "fill",
+   "q": "Methotrexate inhibits ____, lowering THF and purine synthesis.",
+   "blank": "DHFR",
+   "aliases": [
+    "dihydrofolate reductase"
    ],
-   "ans": 0,
-   "exp": "Immunosuppression ↑ Risk of infection Not to be combined. (Book p244)"
+   "exp": "DHFR (Book p244)"
   },
   {
    "id": "PHARM-C62-010",
    "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "Anchor drug for RA is:",
-   "opts": [
-    "Methotrexate",
-    "Hydroxychloroquine",
-    "Sulfasalazine",
-    "Tofacitinib"
-   ],
-   "ans": 0,
-   "exp": "Methotrexate (Anchor drug). (Book p244)"
+   "type": "fill",
+   "q": "Increased ____ from methotrexate contributes to the anti-inflammatory effect.",
+   "blank": "adenosine",
+   "aliases": [],
+   "exp": "adenosine (Book p244)"
   },
   {
    "id": "PHARM-C62-011",
    "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "DOC for new diagnosis of RA is:",
-   "opts": [
-    "Methotrexate",
-    "Hydroxychloroquine",
-    "Sulfasalazine",
-    "Leflunomide"
+   "type": "fill",
+   "q": "Monitor ALT/AST every ____ months on methotrexate.",
+   "blank": "3-6",
+   "aliases": [
+    "3–6",
+    "3 to 6"
    ],
-   "ans": 0,
-   "exp": "DOC for new Dx. (Book p244)"
+   "exp": "3-6 (Book p244)"
   },
   {
    "id": "PHARM-C62-012",
    "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "Methotrexate anti-inflammatory effect in:",
+   "type": "mcq",
+   "q": "Methotrexate nephrotoxicity presents as:",
    "opts": [
-    "2-4 wks",
-    "1-2 days",
-    "6-12 months",
-    "Only after 1 year"
+    "Crystalluria",
+    "Minimal-change nephropathy",
+    "Papillary necrosis",
+    "ATN from myoglobin"
    ],
    "ans": 0,
-   "exp": "Anti-inflammatory effect: 2-4 wks. (Book p244)"
+   "exp": "Crystalluria (Book p244)"
   },
   {
    "id": "PHARM-C62-013",
    "sec": "Methotrexate and Treatment Algorithm",
    "page": 244,
-   "q": "If inadequate response after 3-6 months to methotrexate:",
-   "opts": [
-    "Add Hydroxychloroquine + Sulfasalazine OR Abatacept OR Biological DMARDs",
-    "Stop methotrexate",
-    "Only increase dose",
-    "Only add steroids"
-   ],
-   "ans": 0,
-   "exp": "Inadequate response after 3-6 months: Add. (Book p244)"
+   "type": "fill",
+   "q": "THF stands for ____.",
+   "blank": "tetrahydrofolate",
+   "aliases": [],
+   "exp": "tetrahydrofolate (Book p244)"
   },
   {
    "id": "PHARM-C62-014",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "If inadequate response to biological DMARDs:",
-   "opts": [
-    "Other biological DMARDs or JAK inhibitors",
-    "Only stop biologics",
-    "Only add steroids",
-    "Only NSAIDs"
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "fill",
+   "q": "Hydroxychloroquine retinopathy is a ____-eye maculopathy.",
+   "blank": "bull's-eye",
+   "aliases": [
+    "bull eye",
+    "bulleye",
+    "bulls-eye",
+    "bull’s eye",
+    "bull's to eye"
    ],
-   "ans": 0,
-   "exp": "Inadequate response Other biological DMARDs JAK inhibitors. (Book p244)"
+   "exp": "bull's-eye (Book p245)"
   },
   {
    "id": "PHARM-C62-015",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate inhibits:",
-   "opts": [
-    "DHFR: ↓ THF -> Purine synthesis -> Lymphocyte toxicity",
-    "Only THF increase",
-    "Only purine increase",
-    "Only adenosine decrease"
-   ],
-   "ans": 0,
-   "exp": "Inhibit DHFR: ↓ THF Purine synthesis Lymphocyte toxicity. (Book p244)"
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "fill",
+   "q": "Keep hydroxychloroquine ≤ ____ mg/kg/day and see ophthalmology yearly.",
+   "blank": "5",
+   "aliases": [],
+   "exp": "5 (Book p245)"
   },
   {
    "id": "PHARM-C62-016",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate increased adenosine causes:",
-   "opts": [
-    "Anti-inflammatory response",
-    "Pro-inflammatory",
-    "No effect",
-    "Only fibrosis"
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "match",
+   "q": "Match hydroxychloroquine use by RA severity.",
+   "left": [
+    "Mild RA",
+    "Moderate–severe RA",
+    "Ophthalmology"
    ],
-   "ans": 0,
-   "exp": "Increased Adenosine: Anti-inflammatory response. (Book p244)"
+   "right": [
+    "Hydroxychloroquine monotherapy",
+    "Hydroxychloroquine as add-on",
+    "Once yearly"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Mild RA → Hydroxychloroquine monotherapy; Moderate–severe RA → Hydroxychloroquine as add-on; Ophthalmology → Once yearly (Book p245)"
   },
   {
    "id": "PHARM-C62-017",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate also causes:",
-   "opts": [
-    "Hepatic fibrosis",
-    "Only renal fibrosis",
-    "Only pulmonary fibrosis",
-    "Only cardiac fibrosis"
-   ],
-   "ans": 0,
-   "exp": "Hepatic fibrosis. (Book p244)"
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "fill",
+   "q": "Sulfasalazine splits in the gut into 5-ASA (not absorbed) and a ____.",
+   "blank": "sulfonamide",
+   "aliases": [],
+   "exp": "sulfonamide (Book p245)"
   },
   {
    "id": "PHARM-C62-018",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate hepatotoxicity + liver cirrhosis monitor:",
-   "opts": [
-    "ALT/AST every 3-6 months",
-    "Only ALT once",
-    "Only AST once",
-    "No monitoring needed"
-   ],
-   "ans": 0,
-   "exp": "Monitor: ALT/AST every 3-6 months. (Book p244)"
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "fill",
+   "q": "Unabsorbed 5-ASA is used for ____ colitis.",
+   "blank": "ulcerative",
+   "aliases": [],
+   "exp": "ulcerative (Book p245)"
   },
   {
    "id": "PHARM-C62-019",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate nephrotoxicity causes:",
+   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "page": 245,
+   "type": "mcq",
+   "q": "The sulfonamide moiety of sulfasalazine in RA:",
    "opts": [
-    "Crystalluria",
-    "Only hematuria",
-    "Only proteinuria",
-    "Only stones"
+    "Inhibits lymphocyte proliferation (mono in mild, add-on in moderate–severe)",
+    "Is the piece used for ulcerative colitis",
+    "Is a JAK inhibitor",
+    "Depletes B cells via CD20"
    ],
    "ans": 0,
-   "exp": "Nephrotoxicity -> Crystalluria. (Book p244)"
+   "exp": "Inhibits lymphocyte proliferation (mono in mild, add-on in moderate–severe) (Book p245)"
   },
   {
    "id": "PHARM-C62-020",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "Methotrexate also causes:",
+   "sec": "Biological DMARDs and Side Effects",
+   "page": 245,
+   "type": "mcq",
+   "q": "TNF-α inhibitors (infliximab, adalimumab, certolizumab, etanercept, golimumab) are given:",
    "opts": [
-    "Bone marrow suppression",
-    "Only hepatotoxicity",
-    "Only nephrotoxicity",
-    "Only rash"
+    "IV or subcutaneous",
+    "Orally as a once-daily tablet",
+    "Intramuscular depot monthly",
+    "As eye drops for uveitis"
    ],
    "ans": 0,
-   "exp": "Bone marrow suppression. (Book p244)"
+   "exp": "IV or subcutaneous (Book p245)"
   },
   {
    "id": "PHARM-C62-021",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "DHFR stands for:",
-   "opts": [
-    "Dihydrofolate reductase",
-    "Dihydrofolate receptor",
-    "Dehydrofolate reductase",
-    "Dihydrofolate resistant"
-   ],
-   "ans": 0,
-   "exp": "DHFR: Dihydrofolate reductase. (Book p244)"
+   "sec": "Biological DMARDs and Side Effects",
+   "page": 245,
+   "type": "fill",
+   "q": "TNF-inhibitor mnemonic: Alpha Inhibitors Prevent ____.",
+   "blank": "RA",
+   "aliases": [],
+   "exp": "RA (Book p245)"
   },
   {
    "id": "PHARM-C62-022",
-   "sec": "Methotrexate and Treatment Algorithm",
-   "page": 244,
-   "q": "THF stands for:",
+   "sec": "Biological DMARDs and Side Effects",
+   "page": 245,
+   "type": "mcq",
+   "q": "TNF-α inhibitor contraindications include:",
    "opts": [
-    "Tetrahydrofolate",
-    "Trihydrofolate",
-    "Tetrahydrofolic acid receptor",
-    "Thymidine hydrofolate"
+    "Hepatitis B (reactivation) and congestive heart failure",
+    "Mild RA as the only approved use",
+    "Ulcerative colitis",
+    "Ankylosing spondylitis"
    ],
    "ans": 0,
-   "exp": "THF: Tetrahydrofolate. (Book p244)"
+   "exp": "Hepatitis B (reactivation) and congestive heart failure (Book p245)"
   },
   {
    "id": "PHARM-C62-023",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "sec": "Biological DMARDs and Side Effects",
    "page": 245,
-   "q": "Hydroxychloroquine MOA is:",
-   "opts": [
-    "Inhibit lymphocyte proliferation and stabilizes lysosomes",
-    "Only DHFR inhibition",
-    "Only adenosine increase",
-    "Only purine synthesis"
+   "type": "fill",
+   "q": "IL-6 inhibitors tocilizumab and sarilumab are also used for cytokine storm in ____.",
+   "blank": "COVID-19",
+   "aliases": [
+    "COVID",
+    "covid19",
+    "COVID to 19"
    ],
-   "ans": 0,
-   "exp": "Inhibit lymphocyte proliferation, Stabilizes lysosomes. (Book p245)"
+   "exp": "COVID-19 (Book p245)"
   },
   {
    "id": "PHARM-C62-024",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "sec": "Biological DMARDs and Side Effects",
    "page": 245,
-   "q": "Hydroxychloroquine use mild:",
-   "opts": [
-    "Monotherapy",
-    "Only add on",
-    "Only with biologics",
-    "Only with JAK inhibitors"
-   ],
-   "ans": 0,
-   "exp": "Mild: monotherapy. (Book p245)"
+   "type": "fill",
+   "q": "The least effective / least preferred biological is the IL-1 blocker ____.",
+   "blank": "anakinra",
+   "aliases": [],
+   "exp": "anakinra (Book p245)"
   },
   {
    "id": "PHARM-C62-025",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "sec": "Biological DMARDs and Side Effects",
    "page": 245,
-   "q": "Hydroxychloroquine moderate-severe:",
-   "opts": [
-    "Add on",
-    "Monotherapy",
-    "No use",
-    "Only biologics"
-   ],
-   "ans": 0,
-   "exp": "Moderate - Severe: Add on. (Book p245)"
+   "type": "fill",
+   "q": "Abatacept inhibits CD80/86 and therefore ____-cell activation.",
+   "blank": "T",
+   "aliases": [],
+   "exp": "T (Book p245)"
   },
   {
    "id": "PHARM-C62-026",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
+   "sec": "Biological DMARDs and Side Effects",
    "page": 245,
-   "q": "Hydroxychloroquine S/E is:",
-   "opts": [
-    "Bull eye retinopathy/maculopathy",
-    "Only hepatotoxicity",
-    "Only nephrotoxicity",
-    "Only bone marrow suppression"
+   "type": "fill",
+   "q": "Belatacept (related to abatacept) is used for ____ versus host disease.",
+   "blank": "graft",
+   "aliases": [
+    "GVHD",
+    "graft vs host",
+    "graft-versus-host"
    ],
-   "ans": 0,
-   "exp": "Bull eye retinopathy/maculopathy. (Book p245)"
+   "exp": "graft (Book p245)"
   },
   {
    "id": "PHARM-C62-027",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Max dose of hydroxychloroquine to avoid retinopathy:",
-   "opts": [
-    "≤5 mg/kg/day",
-    "≤10 mg/kg/day",
-    "≤2 mg/kg/day",
-    "≤15 mg/kg/day"
-   ],
-   "ans": 0,
-   "exp": "Max dose: ≤5 mg/kg/day. (Book p245)"
+   "sec": "JAK Inhibitors",
+   "page": 246,
+   "type": "fill",
+   "q": "JAK inhibitors work by blocking the function of ____.",
+   "blank": "cytokines",
+   "aliases": [],
+   "exp": "cytokines (Book p246)"
   },
   {
    "id": "PHARM-C62-028",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Ophthalmological exam for hydroxychloroquine:",
-   "opts": [
-    "Once yearly",
-    "Every 3-6 months",
-    "Only at start",
-    "Never needed"
+   "sec": "JAK Inhibitors",
+   "page": 246,
+   "type": "match",
+   "q": "Match the JAK inhibitor with a headline use.",
+   "left": [
+    "Baricitinib",
+    "Ruxolitinib",
+    "Abrocitinib",
+    "Tofacitinib"
    ],
-   "ans": 0,
-   "exp": "Ophthalmological exam once yearly. (Book p245)"
+   "right": [
+    "Rheumatoid arthritis",
+    "GVHD, myelofibrosis, PV failing hydroxyurea",
+    "Atopic dermatitis",
+    "PsA, UC, JIA, ankylosing spondylitis, RA"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Baricitinib → Rheumatoid arthritis; Ruxolitinib → GVHD, myelofibrosis, PV failing hydroxyurea; Abrocitinib → Atopic dermatitis; Tofacitinib → PsA, UC, JIA, ankylosing spondylitis, RA (Book p246)"
   },
   {
    "id": "PHARM-C62-029",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Sulfasalazine metabolism in gut:",
-   "opts": [
-    "5 Aminosalicylic acid and Sulfonamide",
-    "Only 5 ASA",
-    "Only sulfonamide",
-    "Only sulfapyridine"
-   ],
-   "ans": 0,
-   "exp": "In gut 5 Aminosalicylic acid Sulfonamide. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-030",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "5 Aminosalicylic acid is:",
-   "opts": [
-    "Not absorbed",
-    "Absorbed fully",
-    "Only renal excretion",
-    "Only hepatic"
-   ],
-   "ans": 0,
-   "exp": "Not absorbed. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-031",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "5 ASA use is:",
-   "opts": [
-    "Ulcerative colitis",
-    "Only RA",
-    "Only Crohn only",
-    "Only for fever"
-   ],
-   "ans": 0,
-   "exp": "Ulcerative colitis. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-032",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Sulfonamide MOA is:",
-   "opts": [
-    "Inhibits lymphocyte proliferation",
-    "Not absorbed only",
-    "Only 5 ASA effect",
-    "Only antibacterial"
-   ],
-   "ans": 0,
-   "exp": "Inhibits lymphocyte proliferation. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-033",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Sulfonamide monotherapy for:",
-   "opts": [
-    "Mild RA",
-    "Moderate-severe only",
-    "Only ulcerative colitis",
-    "Only as add on"
-   ],
-   "ans": 0,
-   "exp": "Monotherapy: mild RA. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-034",
-   "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
-   "page": 245,
-   "q": "Sulfonamide add on for:",
-   "opts": [
-    "Moderate - Severe RA",
-    "Mild only",
-    "Only ulcerative colitis",
-    "No use in RA"
-   ],
-   "ans": 0,
-   "exp": "Add on: moderate - Severe RA. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-035",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors are:",
-   "opts": [
-    "Infliximab, Adalimumab, Certolizumab, Etanercept, Golimumab",
-    "Only infliximab",
-    "Only etanercept",
-    "Only adalimumab"
-   ],
-   "ans": 0,
-   "exp": "Drugs: Infliximab, Adalimumab, Certolizumab, Etanercept, Golimumab. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-036",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors route is:",
-   "opts": [
-    "I/V and S/C",
-    "Only oral",
-    "Only IV",
-    "Only SC"
-   ],
-   "ans": 0,
-   "exp": "I/V S/C. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-037",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors uses mnemonic:",
-   "opts": [
-    "Alpha Inhibitors Prevent RA",
-    "Only RA",
-    "Only IBD",
-    "Only psoriasis"
-   ],
-   "ans": 0,
-   "exp": "Mnemonic: Alpha Inhibitors Prevent RA. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-038",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors uses include:",
-   "opts": [
-    "Ankylosing spondylitis, Inflammatory bowel disease, Psoriatic arthritis, Plaque psoriasis, Rheumatoid Arthritis",
-    "Only RA",
-    "Only ankylosing",
-    "Only IBD"
-   ],
-   "ans": 0,
-   "exp": "Ankylosing spondylitis, Inflammatory bowel disease, Psoriatic arthritis, Plaque psoriasis, Rheumatoid Arthritis. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-039",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors S/E include:",
-   "opts": [
-    "GIT ulcers -> Perforation, ↑ Risk of infection, ↑ Risk of secondary skin cancers",
-    "Only GIT ulcers",
-    "Only infection",
-    "Only skin cancers"
-   ],
-   "ans": 0,
-   "exp": "S/E: GIT ulcers -> Perforation, ↑ Risk of infection, ↑ Risk of secondary skin cancers. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-040",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "TNF α inhibitors C/I include:",
-   "opts": [
-    "Hepatitis B: Reactivation risk and Congestive heart failure",
-    "Only hepatitis B",
-    "Only CHF",
-    "Only renal failure"
-   ],
-   "ans": 0,
-   "exp": "C/I: Hepatitis B: Reactivation risk, Congestive heart failure. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-041",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "IL-6 inhibitors are:",
-   "opts": [
-    "Tocilizumab & Sarilumab",
-    "Anakinra only",
-    "Rituximab only",
-    "Abatacept only"
-   ],
-   "ans": 0,
-   "exp": "Tocilizumab & Sarilumab. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-042",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "IL-6 inhibitors uses are:",
-   "opts": [
-    "RA and Cytokine storm in COVID-19",
-    "Only RA",
-    "Only COVID cytokine storm",
-    "Only IBD"
-   ],
-   "ans": 0,
-   "exp": "Uses: RA, Cytokine storm in COVID-19. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-043",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "IL-1 inhibitor is:",
-   "opts": [
-    "Anakinra: Least effective & Least preferred biological",
-    "Tocilizumab",
-    "Rituximab",
-    "Abatacept"
-   ],
-   "ans": 0,
-   "exp": "Anakinra: Least effective & Least preferred biological. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-044",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "CD-20 inhibitors include:",
-   "opts": [
-    "Rituximab, Abatacept, Belatacept",
-    "Only rituximab",
-    "Only abatacept",
-    "Only belatacept"
-   ],
-   "ans": 0,
-   "exp": "CD-20 inhibitors: Rituximab, Abatacept, Belatacept. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-045",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "Rituximab is:",
-   "opts": [
-    "Anticancer drug",
-    "Only for RA",
-    "Only for GVHD",
-    "Only for IBD"
-   ],
-   "ans": 0,
-   "exp": "Rituximab: Anticancer drug. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-046",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "Abatacept MOA is:",
-   "opts": [
-    "Inhibit CD 80/86 -> Inhibit T cell activation",
-    "Only B cell depletion",
-    "Only IL-6 inhibition",
-    "Only TNF inhibition"
-   ],
-   "ans": 0,
-   "exp": "Inhibit CD 80/86 -> Inhibit T cell activation. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-047",
-   "sec": "Biological DMARDs and Side Effects",
-   "page": 245,
-   "q": "Belatacept is:",
-   "opts": [
-    "Related to Abatacept, Use: Graft v/s host disease",
-    "Only for RA",
-    "Only anticancer",
-    "Only for IBD"
-   ],
-   "ans": 0,
-   "exp": "Related to Abatacept, Use: Graft v/s host disease. (Book p245)"
-  },
-  {
-   "id": "PHARM-C62-048",
    "sec": "JAK Inhibitors",
    "page": 246,
-   "q": "JAK inhibitors MOA is:",
-   "opts": [
-    "(-) Function of cytokines",
-    "(+) Cytokines",
-    "Only IL-6",
-    "Only TNF"
-   ],
-   "ans": 0,
-   "exp": "MOA: (-) function of cytokines. (Book p246)"
-  },
-  {
-   "id": "PHARM-C62-049",
-   "sec": "JAK Inhibitors",
-   "page": 246,
-   "q": "Baricitinib used for:",
-   "opts": [
-    "RA",
-    "Atopic dermatitis only",
-    "Psoriatic arthritis only",
-    "Only GVHD"
-   ],
-   "ans": 0,
-   "exp": "Baricitinib: RA. (Book p246)"
-  },
-  {
-   "id": "PHARM-C62-050",
-   "sec": "JAK Inhibitors",
-   "page": 246,
-   "q": "Upadacitinib used for:",
-   "opts": [
-    "RA, Psoriatic arthritis, Atopic dermatitis",
-    "Only RA",
-    "Only atopic",
-    "Only GVHD"
-   ],
-   "ans": 0,
-   "exp": "Upadacitinib: RA, Psoriatic arthritis, Atopic dermatitis. (Book p246)"
-  },
-  {
-   "id": "PHARM-C62-051",
-   "sec": "JAK Inhibitors",
-   "page": 246,
-   "q": "Ruxolitinib used for:",
-   "opts": [
-    "GVHD, Myelofibrosis, Polycythemia vera (unresponsive to hydroxyurea)",
-    "Only RA",
-    "Only atopic dermatitis",
-    "Only psoriatic arthritis"
-   ],
-   "ans": 0,
-   "exp": "Ruxolitinib: GVHD, Myelofibrosis, Polycythemia vera (unresponsive to hydroxyurea). (Book p246)"
-  },
-  {
-   "id": "PHARM-C62-052",
-   "sec": "JAK Inhibitors",
-   "page": 246,
-   "q": "Abrocitinib used for:",
-   "opts": [
-    "Atopic dermatitis",
-    "Only RA",
-    "Only GVHD",
-    "Only myelofibrosis"
-   ],
-   "ans": 0,
-   "exp": "Abrocitinib: Atopic dermatitis. (Book p246)"
-  },
-  {
-   "id": "PHARM-C62-053",
-   "sec": "JAK Inhibitors",
-   "page": 246,
-   "q": "Tofacitinib used for:",
-   "opts": [
-    "Psoriatic arthritis, Ulcerative colitis, Juvenile idiopathic arthritis, Ankylosing spondylitis, Rheumatoid arthritis",
-    "Only RA",
-    "Only atopic dermatitis",
-    "Only GVHD"
-   ],
-   "ans": 0,
-   "exp": "Tofacitinib: Psoriatic arthritis, Ulcerative colitis, Juvenile idiopathic arthritis, Ankylosing spondylitis, Rheumatoid arthritis. (Book p246)"
+   "type": "fill",
+   "q": "Upadacitinib is used for RA, psoriatic arthritis and ____ dermatitis.",
+   "blank": "atopic",
+   "aliases": [],
+   "exp": "atopic (Book p246)"
   }
  ],
  "units": [
@@ -755,13 +402,9 @@
     "PHARM-C62-002",
     "PHARM-C62-003",
     "PHARM-C62-004",
-    "PHARM-C62-005",
-    "PHARM-C62-006",
-    "PHARM-C62-007",
-    "PHARM-C62-008",
-    "PHARM-C62-009"
+    "PHARM-C62-005"
    ],
-   "guide": "Mild to moderate acute flare of rheumatoid arthritis uses NSAIDs aspirin, diclofenac greater than celecoxib; severe flare uses steroids also if unresponsive to NSAIDs with involvement 1-2 joints intra-articular triamcinolone and more than 2 joints oral prednisolone. Long term management uses disease modifying anti rheumatoid drugs DMARDs divided into conventional DMARDs, biological DMARDs and JAK inhibitors; conventional includes methotrexate, hydroxychloroquine, sulfasalazine, leflunomide, cyclosporin, azathioprine, mycophenolate mofetil and cyclophosphamide; biological includes TNF alpha inhibitors, IL-1 inhibitors, IL-6 inhibitors, abatacept and CD-20 inhibitors; JAK inhibitors include tofacitinib, baricitinib and upadacitinib; all cause immunosuppression increasing infection risk and should not be combined."
+   "guide": "Mild–moderate flare: NSAIDs (aspirin, diclofenac > celecoxib). Severe / NSAID-unresponsive: steroids — 1–2 joints intra-articular triamcinolone; >2 joints oral prednisolone. Long-term DMARDs: conventional, biological, JAK inhibitors. All immunosuppress; do not combine."
   },
   {
    "id": "PHARM-U62-2",
@@ -770,21 +413,16 @@
    "title": "Methotrexate and Treatment Algorithm",
    "sec": "Methotrexate and Treatment Algorithm · p244",
    "qs": [
+    "PHARM-C62-006",
+    "PHARM-C62-007",
+    "PHARM-C62-008",
+    "PHARM-C62-009",
     "PHARM-C62-010",
     "PHARM-C62-011",
     "PHARM-C62-012",
-    "PHARM-C62-013",
-    "PHARM-C62-014",
-    "PHARM-C62-015",
-    "PHARM-C62-016",
-    "PHARM-C62-017",
-    "PHARM-C62-018",
-    "PHARM-C62-019",
-    "PHARM-C62-020",
-    "PHARM-C62-021",
-    "PHARM-C62-022"
+    "PHARM-C62-013"
    ],
-   "guide": "Methotrexate is anchor drug and DOC for new diagnosis of RA with anti-inflammatory effect in 2-4 weeks. If inadequate response after 3-6 months add hydroxychloroquine plus sulfasalazine or abatacept or biological DMARDs; if inadequate response to biological DMARDs add other biological DMARDs or JAK inhibitors. Methotrexate inhibits DHFR decreasing THF decreasing purine synthesis causing lymphocyte toxicity and increases adenosine giving anti-inflammatory response but also hepatic fibrosis; side effects hepatotoxicity plus liver cirrhosis monitor ALT/AST every 3-6 months, nephrotoxicity causing crystalluria and bone marrow suppression; DHFR is dihydrofolate reductase and THF is tetrahydrofolate."
+   "guide": "Methotrexate is the anchor / DOC for new RA; anti-inflammatory effect in 2–4 weeks. Inadequate at 3–6 months: add HCQ+sulfasalazine OR abatacept OR a biologic; if biologic fails → another biologic or JAK. MTX inhibits DHFR → ↓THF → ↓purine → lymphocyte toxicity; ↑adenosine (anti-inflammatory) but also hepatic fibrosis. Monitor ALT/AST q3–6 months. Also crystalluria and marrow suppression."
   },
   {
    "id": "PHARM-U62-3",
@@ -793,20 +431,14 @@
    "title": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine",
    "sec": "Conventional DMARDs: Hydroxychloroquine and Sulfasalazine · p245",
    "qs": [
-    "PHARM-C62-023",
-    "PHARM-C62-024",
-    "PHARM-C62-025",
-    "PHARM-C62-026",
-    "PHARM-C62-027",
-    "PHARM-C62-028",
-    "PHARM-C62-029",
-    "PHARM-C62-030",
-    "PHARM-C62-031",
-    "PHARM-C62-032",
-    "PHARM-C62-033",
-    "PHARM-C62-034"
+    "PHARM-C62-014",
+    "PHARM-C62-015",
+    "PHARM-C62-016",
+    "PHARM-C62-017",
+    "PHARM-C62-018",
+    "PHARM-C62-019"
    ],
-   "guide": "Hydroxychloroquine inhibits lymphocyte proliferation and stabilizes lysosomes; use mild monotherapy and moderate-severe as add on; side effect Bull eye retinopathy/maculopathy with max dose ≤5 mg/kg/day requiring ophthalmological exam once yearly. Sulfasalazine in gut metabolized to 5 aminosalicylic acid which is not absorbed used for ulcerative colitis and sulfonamide which inhibits lymphocyte proliferation used as monotherapy for mild RA and add on for moderate-severe RA."
+   "guide": "HCQ: inhibits lymphocyte proliferation, stabilizes lysosomes; mild = monotherapy, moderate–severe = add-on. S/E bull’s-eye retinopathy; max ≤5 mg/kg/day; yearly ophthalmology. Sulfasalazine → 5-ASA (not absorbed, UC) + sulfonamide (lymphocyte inhibition; mild RA mono, moderate–severe add-on)."
   },
   {
    "id": "PHARM-U62-4",
@@ -815,21 +447,15 @@
    "title": "Biological DMARDs and Side Effects",
    "sec": "Biological DMARDs and Side Effects · p245",
    "qs": [
-    "PHARM-C62-035",
-    "PHARM-C62-036",
-    "PHARM-C62-037",
-    "PHARM-C62-038",
-    "PHARM-C62-039",
-    "PHARM-C62-040",
-    "PHARM-C62-041",
-    "PHARM-C62-042",
-    "PHARM-C62-043",
-    "PHARM-C62-044",
-    "PHARM-C62-045",
-    "PHARM-C62-046",
-    "PHARM-C62-047"
+    "PHARM-C62-020",
+    "PHARM-C62-021",
+    "PHARM-C62-022",
+    "PHARM-C62-023",
+    "PHARM-C62-024",
+    "PHARM-C62-025",
+    "PHARM-C62-026"
    ],
-   "guide": "TNF alpha inhibitors are infliximab, adalimumab, certolizumab, etanercept and golimumab given IV or SC with uses mnemonic Alpha Inhibitors Prevent RA including ankylosing spondylitis, inflammatory bowel disease, psoriatic arthritis, plaque psoriasis and rheumatoid arthritis. Side effects are GIT ulcers leading to perforation, increased risk of infection and increased risk of secondary skin cancers; contraindicated in hepatitis B reactivation risk and congestive heart failure. IL-6 inhibitors tocilizumab and sarilumab used for RA and cytokine storm in COVID-19; IL-1 inhibitor anakinra is least effective and least preferred biological; CD-20 inhibitors rituximab anticancer drug, abatacept inhibits CD 80/86 inhibiting T cell activation and belatacept related to abatacept used for graft versus host disease."
+   "guide": "TNF-α: infliximab, adalimumab, certolizumab, etanercept, golimumab (IV/SC). Mnemonic Alpha Inhibitors Prevent RA — AS, IBD, psoriatic arthritis, plaque psoriasis, RA. S/E: GI ulcers/perforation, infection, secondary skin cancers. C/I: hepatitis B reactivation, CHF. IL-6: tocilizumab, sarilumab (RA, COVID cytokine storm). Anakinra (IL-1) least effective. Rituximab CD20; abatacept CD80/86; belatacept GVHD."
   },
   {
    "id": "PHARM-U62-5",
@@ -838,14 +464,11 @@
    "title": "JAK Inhibitors",
    "sec": "JAK Inhibitors · p246",
    "qs": [
-    "PHARM-C62-048",
-    "PHARM-C62-049",
-    "PHARM-C62-050",
-    "PHARM-C62-051",
-    "PHARM-C62-052",
-    "PHARM-C62-053"
+    "PHARM-C62-027",
+    "PHARM-C62-028",
+    "PHARM-C62-029"
    ],
-   "guide": "Janus kinase JAK inhibitors mechanism is inhibition of cytokine function. Drugs: baricitinib for RA, upadacitinib for RA, psoriatic arthritis and atopic dermatitis, ruxolitinib for GVHD, myelofibrosis and polycythemia vera unresponsive to hydroxyurea, abrocitinib for atopic dermatitis and tofacitinib for psoriatic arthritis, ulcerative colitis, juvenile idiopathic arthritis, ankylosing spondylitis and rheumatoid arthritis."
+   "guide": "JAK inhibitors block cytokine function. Baricitinib: RA. Upadacitinib: RA, PsA, atopic dermatitis. Ruxolitinib: GVHD, myelofibrosis, PV unresponsive to hydroxyurea. Abrocitinib: atopic dermatitis. Tofacitinib: PsA, UC, JIA, AS, RA."
   }
  ]
 }

@@ -4,491 +4,334 @@
    "id": "PHARM-C61-001",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
-   "q": "Aim of acute gout Rx is:",
+   "type": "mcq",
+   "q": "The aim of ACUTE gout treatment is:",
    "opts": [
-    "Decrease inflammation + Symptomatic relief",
-    "Only decrease uric acid",
-    "Only increase excretion",
-    "Only increase metabolism"
+    "Decrease inflammation and give symptomatic relief",
+    "Lower uric acid with a xanthine-oxidase inhibitor on day 1",
+    "Increase uric acid excretion with a uricosuric on day 1",
+    "Give pegloticase as first-line"
    ],
    "ans": 0,
-   "exp": "Aim of Rx: ↓ Inflammation + Symptomatic relief. (Book p242)"
+   "exp": "Decrease inflammation and give symptomatic relief (Book p242)"
   },
   {
    "id": "PHARM-C61-002",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
-   "q": "Acute gout drugs: NSAIDs no response leads to:",
-   "opts": [
-    "Steroid",
-    "Colchicine directly",
-    "Allopurinol",
-    "Febuxostat"
-   ],
-   "ans": 0,
-   "exp": "No response Steroid. (Book p242)"
+   "type": "fill",
+   "q": "DOC for acute gout is ____ (multiple mechanisms of action).",
+   "blank": "indomethacin",
+   "aliases": [],
+   "exp": "indomethacin (Book p242)"
   },
   {
    "id": "PHARM-C61-003",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
-   "q": "DOC for acute gout is:",
+   "type": "mcq",
+   "q": "If NSAIDs fail in an acute flare, next is a:",
    "opts": [
-    "Indomethacin (multiple mechanisms of action)",
-    "Colchicine",
-    "Allopurinol",
-    "Probenecid"
+    "Steroid",
+    "Xanthine oxidase inhibitor",
+    "Uricosuric",
+    "Uricase analog"
    ],
    "ans": 0,
-   "exp": "DOC: Indomethacin (multiple mechanisms of action). (Book p242)"
+   "exp": "Steroid (Book p242)"
   },
   {
    "id": "PHARM-C61-004",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
-   "q": "Colchicine mechanism is:",
-   "opts": [
-    "(-)microtubules -> (-)Chemotaxis -> (-) migration of leucocytes",
-    "Only increases uric acid excretion",
-    "Only inhibits xanthine oxidase",
-    "Only increases metabolism"
-   ],
-   "ans": 0,
-   "exp": "(-)microtubules (-) Chemotaxis (-) migration of leucocytes. (Book p242)"
+   "type": "fill",
+   "q": "Colchicine inhibits ____, thereby blocking leucocyte chemotaxis and migration.",
+   "blank": "microtubules",
+   "aliases": [],
+   "exp": "microtubules (Book p242)"
   },
   {
    "id": "PHARM-C61-005",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
+   "type": "mcq",
    "q": "Colchicine also:",
    "opts": [
     "Decreases IL-1 release from neutrophils and inhibits phagocytosis",
-    "Increases IL-1",
-    "Stimulates phagocytosis",
-    "Only blocks COX"
+    "Inhibits xanthine oxidase",
+    "Blocks URAT1 in the proximal tubule",
+    "Converts uric acid to allantoin"
    ],
    "ans": 0,
-   "exp": "↓IL-1 release from neutrophils, Inhibit phagocytosis. (Book p242)"
+   "exp": "Decreases IL-1 release from neutrophils and inhibits phagocytosis (Book p242)"
   },
   {
    "id": "PHARM-C61-006",
    "sec": "Acute Gout: Aim and Drugs",
    "page": 242,
-   "q": "Side effects of colchicine are:",
+   "type": "mcq",
+   "q": "Colchicine side effects include:",
    "opts": [
-    "Nausea, Vomiting, Diarrhoea, Bone marrow suppression, Alopecia",
-    "Only GI upset",
-    "Only alopecia",
-    "Only marrow suppression"
+    "Nausea, vomiting, diarrhoea, marrow suppression and alopecia",
+    "SJS with HLA-B*5801 and orotic aciduria",
+    "Xanthine stones and cardiovascular death",
+    "Hemolysis in G6PD deficiency and methemoglobinemia"
    ],
    "ans": 0,
-   "exp": "Side effects: Nausea, Vomiting, Diarrhoea, Bone marrow suppression, Alopecia. (Book p242)"
+   "exp": "Nausea, vomiting, diarrhoea, marrow suppression and alopecia (Book p242)"
   },
   {
    "id": "PHARM-C61-007",
    "sec": "Chronic Gout: Aim and Classification",
    "page": 242,
-   "q": "Aim of chronic gout is:",
-   "opts": [
-    "To prevent acute gout by decreasing uric acid",
-    "Only symptomatic relief",
-    "Only increase inflammation",
-    "Only increase uric acid"
+   "type": "match",
+   "q": "Match the chronic-gout strategy.",
+   "left": [
+    "Xanthine oxidase inhibitors",
+    "Uricosuric drugs",
+    "Uricase analogs"
    ],
-   "ans": 0,
-   "exp": "Aim: To prevent acute gout ↓uric acid. (Book p242)"
+   "right": [
+    "Decrease uric acid synthesis",
+    "Increase uric acid excretion",
+    "Increase uric acid metabolism"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Xanthine oxidase inhibitors → Decrease uric acid synthesis; Uricosuric drugs → Increase uric acid excretion; Uricase analogs → Increase uric acid metabolism (Book p242)"
   },
   {
    "id": "PHARM-C61-008",
-   "sec": "Chronic Gout: Aim and Classification",
+   "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Chronic gout can be managed by:",
-   "opts": [
-    "(-) Synthesis (Xanthine Oxidase inhibitors), ↑ Excretion (Uricosuric Drugs), ↑ Metabolism (Uricase Analogues)",
-    "Only synthesis inhibition",
-    "Only excretion increase",
-    "Only metabolism increase"
-   ],
-   "ans": 0,
-   "exp": "(-) Synthesis Xanthine Oxidase inhibitors ↑Excretion Uricosuric Drugs ↑Metabolism Uricase Analogues. (Book p242)"
+   "type": "fill",
+   "q": "DOC for chronic gout, tumor lysis, Lesch-Nyhan and organ transplant is ____.",
+   "blank": "allopurinol",
+   "aliases": [],
+   "exp": "allopurinol (Book p242)"
   },
   {
    "id": "PHARM-C61-009",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Xanthine oxidase inhibitors are used for:",
-   "opts": [
-    "Chronic gout",
-    "Acute gout DOC",
-    "Only tumor lysis",
-    "Only Lesch Nyhan"
+   "type": "fill",
+   "q": "Allopurinol SJS is associated with HLA-B*____.",
+   "blank": "5801",
+   "aliases": [
+    "HLA-B-5801",
+    "HLA-B5801"
    ],
-   "ans": 0,
-   "exp": "Chronic gout. (Book p242)"
+   "exp": "5801 (Book p242)"
   },
   {
    "id": "PHARM-C61-010",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Allopurinol DOC includes:",
-   "opts": [
-    "Chronic gout, Tumor Lysis Syndrome, Lesch Nyhan Syndrome, Organ transplant",
-    "Only chronic gout",
-    "Only tumor lysis",
-    "Only organ transplant"
-   ],
-   "ans": 0,
-   "exp": "DOC Chronic gout, Tumor Lysis Syndrome, Lesch Nyhan, Organ transplant. (Book p242)"
+   "type": "fill",
+   "q": "Allopurinol inhibits orotidylate decarboxylase causing ____ aciduria.",
+   "blank": "orotic",
+   "aliases": [],
+   "exp": "orotic (Book p242)"
   },
   {
    "id": "PHARM-C61-011",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Most common S/E of allopurinol is:",
-   "opts": [
-    "Hypersensitivity: Steven Johnson Syndrome (A/w: HLA-B-5801)",
-    "Only DRESS",
-    "Only orotic aciduria",
-    "Only xanthinuria"
-   ],
-   "ans": 0,
-   "exp": "Hypersensitivity (m/c): Steven Johnson Syndrome (A/w: HLA-B-5801). (Book p242)"
+   "type": "fill",
+   "q": "Allopurinol can cause ____ syndrome (drug rash with eosinophilia).",
+   "blank": "DRESS",
+   "aliases": [],
+   "exp": "DRESS (Book p242)"
   },
   {
    "id": "PHARM-C61-012",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Allopurinol inhibits:",
+   "type": "mcq",
+   "q": "Xanthine oxidase inhibitors can cause stones of:",
    "opts": [
-    "Orotidylate decarboxylase -> Orotic aciduria",
-    "Only xanthine oxidase",
-    "Only HPRT",
-    "Only purine nucleoside phosphorylase"
+    "Xanthine",
+    "Urate only",
+    "Cystine",
+    "Calcium oxalate only"
    ],
    "ans": 0,
-   "exp": "(-) Orotidylate decarboxylase -> Orotic aciduria. (Book p242)"
+   "exp": "Xanthine (Book p242)"
   },
   {
    "id": "PHARM-C61-013",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Allopurinol also causes:",
-   "opts": [
-    "DRESS Syndrome",
-    "Only SJS",
-    "Only orotic aciduria",
-    "Only xanthinuria"
+   "type": "fill",
+   "q": "Prevent the early acute-gout flare on XO inhibitors with NSAID/colchicine for ____ months.",
+   "blank": "3-6",
+   "aliases": [
+    "3–6",
+    "3 to 6"
    ],
-   "ans": 0,
-   "exp": "DRESS Syndrome. (Book p242)"
+   "exp": "3-6 (Book p242)"
   },
   {
    "id": "PHARM-C61-014",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
    "page": 242,
-   "q": "Xanthine oxidase inhibitor class S/E:",
+   "type": "mcq",
+   "q": "Allopurinol increases toxicity of:",
    "opts": [
-    "Xanthinuria -> Xanthine stones",
-    "Only urate stones",
-    "Only calcium stones",
-    "Only cysteine stones"
+    "6-mercaptopurine / azathioprine",
+    "Methotrexate / pemetrexed",
+    "Cyclophosphamide / ifosfamide",
+    "Probenecid / sulfinpyrazone"
    ],
    "ans": 0,
-   "exp": "Xanthinuria -> Xanthine stones. (Book p242)"
+   "exp": "6-mercaptopurine / azathioprine (Book p242)"
   },
   {
    "id": "PHARM-C61-015",
-   "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
-   "page": 242,
-   "q": "Acute gout with xanthine oxidase inhibitors prevented by:",
-   "opts": [
-    "NSAID/Colchicine x 3-6 months",
-    "No prevention needed",
-    "Only allopurinol dose increase",
-    "Only stop drug"
-   ],
-   "ans": 0,
-   "exp": "Acute gout Prevention -> NSAID/Colchicine x 3-6 months. (Book p242)"
+   "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
+   "page": 243,
+   "type": "fill",
+   "q": "The orphan drug used in allopurinol hypersensitivity is ____.",
+   "blank": "oxypurinol",
+   "aliases": [],
+   "exp": "oxypurinol (Book p243)"
   },
   {
    "id": "PHARM-C61-016",
-   "sec": "Xanthine Oxidase Inhibitors: Allopurinol",
-   "page": 242,
-   "q": "Allopurinol drug interaction:",
-   "opts": [
-    "Inhibit 6-mercaptopurine/ Azathioprine -> ↑ Toxicity",
-    "Decreases toxicity",
-    "No interaction",
-    "Only increases excretion"
+   "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
+   "page": 243,
+   "type": "fill",
+   "q": "Febuxostat is used when allopurinol is not tolerated or the response is ____.",
+   "blank": "inadequate",
+   "aliases": [
+    "inadequate response"
    ],
-   "ans": 0,
-   "exp": "Inhibit 6-mercaptopurine/ Azathioprine -> ↑ Toxicity. (Book p242)"
+   "exp": "inadequate (Book p243)"
   },
   {
    "id": "PHARM-C61-017",
    "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
    "page": 243,
-   "q": "Oxypurinol is:",
-   "opts": [
-    "Orphan drug",
-    "First line DOC",
-    "Only for tumor lysis",
-    "Only for Lesch Nyhan"
+   "type": "fill",
+   "q": "Febuxostat increases the risk of ____ death.",
+   "blank": "cardiovascular",
+   "aliases": [
+    "CV",
+    "cardiac"
    ],
-   "ans": 0,
-   "exp": "Orphan drug. (Book p243)"
+   "exp": "cardiovascular (Book p243)"
   },
   {
    "id": "PHARM-C61-018",
-   "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
+   "sec": "Uricosuric Drugs",
    "page": 243,
-   "q": "Oxypurinol use is:",
-   "opts": [
-    "Allopurinol hypersensitivity",
-    "Allopurinol intolerance only",
-    "Inadequate response only",
-    "Only gout prophylaxis"
+   "type": "match",
+   "q": "Match the uricosuric with how it is used.",
+   "left": [
+    "Probenecid / sulfinpyrazone",
+    "Benzbromarone / lesinurad",
+    "History of renal stones"
    ],
-   "ans": 0,
-   "exp": "Use: Allopurinol hypersensitivity. (Book p243)"
+   "right": [
+    "Add-on therapy better than monotherapy",
+    "Most effective; add-on only; OK in mild–moderate CKD",
+    "Contraindication (urate + calcium stones)"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Probenecid / sulfinpyrazone → Add-on therapy better than monotherapy; Benzbromarone / lesinurad → Most effective; add-on only; OK in mild–moderate CKD; History of renal stones → Contraindication (urate + calcium stones) (Book p243)"
   },
   {
    "id": "PHARM-C61-019",
-   "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
+   "sec": "Uricosuric Drugs",
    "page": 243,
-   "q": "Febuxostat use is:",
+   "type": "mcq",
+   "q": "Uricosurics may precipitate acute gout, so:",
    "opts": [
-    "Allopurinol intolerance and Inadequate response to allopurinol",
-    "Only hypersensitivity",
-    "Only first line DOC",
-    "Only tumor lysis"
+    "Preventive prophylaxis is needed",
+    "They are therefore first-line in acute gout",
+    "They should be combined with pegloticase on day 1",
+    "No NSAID cover is required"
    ],
    "ans": 0,
-   "exp": "Use: Allopurinol intolerance, Inadequate response to allopurinol. (Book p243)"
+   "exp": "Preventive prophylaxis is needed (Book p243)"
   },
   {
    "id": "PHARM-C61-020",
-   "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
+   "sec": "Uricosuric Drugs",
    "page": 243,
-   "q": "Febuxostat S/E is:",
-   "opts": [
-    "Increased risk of cardiovascular death",
-    "Only SJS",
-    "Only DRESS",
-    "Only xanthinuria"
+   "type": "match",
+   "q": "Match the comorbid chronic-gout add-on.",
+   "left": [
+    "Losartan",
+    "Atorvastatin",
+    "Fenofibrate"
    ],
-   "ans": 0,
-   "exp": "S/E: ↑ Risk of cardiovascular death. (Book p243)"
+   "right": [
+    "When the patient also has hypertension",
+    "When LDL / cholesterol is high",
+    "When triglycerides are high"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "Losartan → When the patient also has hypertension; Atorvastatin → When LDL / cholesterol is high; Fenofibrate → When triglycerides are high (Book p243)"
   },
   {
    "id": "PHARM-C61-021",
-   "sec": "Uricosuric Drugs",
+   "sec": "Uricase Analogues",
    "page": 243,
-   "q": "Uricosuric drugs are:",
-   "opts": [
-    "Probenecid, Sulfinpyrazone, Benzbromarone, Lesinraud",
-    "Only probenecid",
-    "Only allopurinol",
-    "Only febuxostat"
+   "type": "fill",
+   "q": "Humans have ____ uric acid metabolism via uricase.",
+   "blank": "no",
+   "aliases": [
+    "no uricase",
+    "absent"
    ],
-   "ans": 0,
-   "exp": "Drugs: Probenecid, Sulfinpyrazone, Benzbromarone, Lesinraud. (Book p243)"
+   "exp": "no (Book p243)"
   },
   {
    "id": "PHARM-C61-022",
-   "sec": "Uricosuric Drugs",
+   "sec": "Uricase Analogues",
    "page": 243,
-   "q": "Probenecid and sulfinpyrazone:",
-   "opts": [
-    "Add on therapy > monotherapy",
-    "Monotherapy > add on",
-    "Only monotherapy",
-    "Only prophylaxis"
-   ],
-   "ans": 0,
-   "exp": "Add on therapy > monotherapy. (Book p243)"
+   "type": "fill",
+   "q": "Resistant gout can be treated with IV ____ every 2 weeks.",
+   "blank": "pegloticase",
+   "aliases": [],
+   "exp": "pegloticase (Book p243)"
   },
   {
    "id": "PHARM-C61-023",
-   "sec": "Uricosuric Drugs",
+   "sec": "Uricase Analogues",
    "page": 243,
-   "q": "Most effective uricosurics are:",
-   "opts": [
-    "Benzbromarone and Lesinraud (Add on therapy only)",
-    "Probenecid only",
-    "Sulfinpyrazone only",
-    "Only allopurinol"
-   ],
-   "ans": 0,
-   "exp": "Most effective, Add on therapy only. (Book p243)"
+   "type": "fill",
+   "q": "DOC for high-risk tumor lysis (e.g. CLL) is ____.",
+   "blank": "rasburicase",
+   "aliases": [],
+   "exp": "rasburicase (Book p243)"
   },
   {
    "id": "PHARM-C61-024",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Uricosuric S/E:",
-   "opts": [
-    "Increased urate stone formation: C/I in h/o renal stones",
-    "No stone risk",
-    "Only calcium stones",
-    "Only xanthine stones"
-   ],
-   "ans": 0,
-   "exp": "↑Urate stone formation: C/I in h/o renal stones. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-025",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Uricosuric also increases risk of:",
-   "opts": [
-    "Calcium stones",
-    "Xanthine stones only",
-    "No stone",
-    "Only urate"
-   ],
-   "ans": 0,
-   "exp": "↑ Risk of calcium stones. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-026",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Uricosuric may:",
-   "opts": [
-    "Precipitate acute gout (Preventive prophylaxis needed)",
-    "Prevent acute gout",
-    "No effect on acute gout",
-    "Only treat acute gout"
-   ],
-   "ans": 0,
-   "exp": "Precipitate acute gout (Preventive prophylaxis). (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-027",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Uricosuric contraindication:",
-   "opts": [
-    "Renal failure except Benzbromarone and Lesinraud",
-    "No contraindication",
-    "Only liver failure",
-    "Only in gout"
-   ],
-   "ans": 0,
-   "exp": "Contraindications: Renal failure except Benzbromarone, Lesinraud. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-028",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Benzbromarone and lesinraud can be used in:",
-   "opts": [
-    "Mild-moderate renal failure",
-    "Severe renal failure",
-    "No renal failure",
-    "Only normal renal function"
-   ],
-   "ans": 0,
-   "exp": "Use: mild-moderate renal failure. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-029",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Losartan in chronic gout is used when a/w:",
-   "opts": [
-    "HTN",
-    "Increased LDL",
-    "Increased triglycerides",
-    "Only renal failure"
-   ],
-   "ans": 0,
-   "exp": "Losartan HTN. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-030",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Atorvastatin in chronic gout a/w:",
-   "opts": [
-    "Increased LDL/ Cholesterol",
-    "HTN",
-    "Increased triglycerides",
-    "Only renal stones"
-   ],
-   "ans": 0,
-   "exp": "Atorvastatin ↑LDL/ Cholesterol. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-031",
-   "sec": "Uricosuric Drugs",
-   "page": 243,
-   "q": "Fenofibrate in chronic gout a/w:",
-   "opts": [
-    "Increased Triglycerides",
-    "HTN",
-    "Increased LDL",
-    "Only urate stones"
-   ],
-   "ans": 0,
-   "exp": "Fenofibrate ↑Triglycerides. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-032",
    "sec": "Uricase Analogues",
    "page": 243,
-   "q": "Uric acid metabolism in humans is:",
+   "type": "mcq",
+   "q": "Uricase analog side effects include:",
    "opts": [
-    "No uric acid metabolism in humans",
-    "Present as uricase",
-    "Only in liver",
-    "Only in kidney"
+    "Hemolysis in G6PD deficiency and methemoglobinemia",
+    "SJS with HLA-B*5801 and orotic aciduria",
+    "Xanthine stones and cardiovascular death",
+    "Bull’s-eye maculopathy"
    ],
    "ans": 0,
-   "exp": "No uric acid metabolism in humans. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-033",
-   "sec": "Uricase Analogues",
-   "page": 243,
-   "q": "Pegloticase is:",
-   "opts": [
-    "Rx of resistant gout: I/V x once every 2 wks",
-    "DOC for tumor lysis high risk",
-    "Only oral",
-    "Only for chronic gout first line"
-   ],
-   "ans": 0,
-   "exp": "Rx of resistant gout: I/V x once every 2 wks. (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-034",
-   "sec": "Uricase Analogues",
-   "page": 243,
-   "q": "Rasburicase is DOC for:",
-   "opts": [
-    "High risk of Tumor Lysis Syndrome (Leukemia: CLL)",
-    "Resistant gout",
-    "Chronic gout",
-    "Only acute gout"
-   ],
-   "ans": 0,
-   "exp": "DOC High risk of Tumor Lysis Syndrome (Leukemia: CLL). (Book p243)"
-  },
-  {
-   "id": "PHARM-C61-035",
-   "sec": "Uricase Analogues",
-   "page": 243,
-   "q": "Uricase analogues S/E are:",
-   "opts": [
-    "Hemolysis in G-6-PD deficiency and methemoglobinemia",
-    "Only hepatotoxicity",
-    "Only nephrotoxicity",
-    "Only rash"
-   ],
-   "ans": 0,
-   "exp": "Hemolysis in G-6-PD deficiency, methemoglobinemia. (Book p243)"
+   "exp": "Hemolysis in G6PD deficiency and methemoglobinemia (Book p243)"
   }
  ],
  "units": [
@@ -506,7 +349,7 @@
     "PHARM-C61-005",
     "PHARM-C61-006"
    ],
-   "guide": "Aim of acute gout treatment is to decrease inflammation and symptomatic relief. First line is NSAIDs with no response leading to steroid; DOC is indomethacin due to multiple mechanisms of action. Second drug is colchicine which inhibits microtubules decreasing chemotaxis and migration of leucocytes, decreases IL-1 release from neutrophils and inhibits phagocytosis; side effects are nausea, vomiting, diarrhoea, bone marrow suppression and alopecia."
+   "guide": "Acute gout aims to decrease inflammation and give symptomatic relief — not to lower uric acid yet. NSAIDs first; if no response, a steroid. DOC is indomethacin (multiple MOAs). Colchicine inhibits microtubules → chemotaxis/migration of leucocytes, ↓IL-1 from neutrophils, and phagocytosis. S/E: nausea, vomiting, diarrhoea, marrow suppression, alopecia."
   },
   {
    "id": "PHARM-U61-2",
@@ -515,10 +358,9 @@
    "title": "Chronic Gout: Aim and Classification",
    "sec": "Chronic Gout: Aim and Classification · p242",
    "qs": [
-    "PHARM-C61-007",
-    "PHARM-C61-008"
+    "PHARM-C61-007"
    ],
-   "guide": "Aim of chronic gout is to prevent acute gout by decreasing uric acid via inhibiting synthesis with xanthine oxidase inhibitors, increasing excretion with uricosuric drugs and increasing metabolism with uricase analogues."
+   "guide": "Chronic gout aims to prevent acute attacks by lowering uric acid: inhibit synthesis (XO inhibitors), increase excretion (uricosurics), or increase metabolism (uricase analogs)."
   },
   {
    "id": "PHARM-U61-3",
@@ -527,16 +369,15 @@
    "title": "Xanthine Oxidase Inhibitors: Allopurinol",
    "sec": "Xanthine Oxidase Inhibitors: Allopurinol · p242",
    "qs": [
+    "PHARM-C61-008",
     "PHARM-C61-009",
     "PHARM-C61-010",
     "PHARM-C61-011",
     "PHARM-C61-012",
     "PHARM-C61-013",
-    "PHARM-C61-014",
-    "PHARM-C61-015",
-    "PHARM-C61-016"
+    "PHARM-C61-014"
    ],
-   "guide": "Allopurinol is DOC for chronic gout, tumor lysis syndrome, Lesch Nyhan syndrome and organ transplant. Side effects are hypersensitivity most common Steven Johnson Syndrome associated with HLA-B-5801, inhibition of orotidylate decarboxylase causing orotic aciduria and DRESS syndrome. Side effects of class are xanthinuria leading to xanthine stones and acute gout precipitation prevented by NSAID/colchicine for 3-6 months. Drug interaction inhibits 6-mercaptopurine/azathioprine increasing toxicity."
+   "guide": "Allopurinol is DOC for chronic gout, tumor lysis, Lesch-Nyhan and organ transplant. Hypersensitivity m/c = SJS (HLA-B*5801); also orotidylate decarboxylase block → orotic aciduria, and DRESS. Class: xanthinuria → xanthine stones; acute gout flare prevented with NSAID/colchicine 3–6 months. Interaction: ↑ 6-MP / azathioprine toxicity."
   },
   {
    "id": "PHARM-U61-4",
@@ -545,12 +386,11 @@
    "title": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat",
    "sec": "Xanthine Oxidase Inhibitors: Oxypurinol and Febuxostat · p243",
    "qs": [
-    "PHARM-C61-017",
-    "PHARM-C61-018",
-    "PHARM-C61-019",
-    "PHARM-C61-020"
+    "PHARM-C61-015",
+    "PHARM-C61-016",
+    "PHARM-C61-017"
    ],
-   "guide": "Oxypurinol is an orphan drug used for allopurinol hypersensitivity. Febuxostat is used for allopurinol intolerance and inadequate response to allopurinol with side effect increased risk of cardiovascular death."
+   "guide": "Oxypurinol is an orphan drug for allopurinol hypersensitivity. Febuxostat is for intolerance or inadequate response; S/E increased cardiovascular death."
   },
   {
    "id": "PHARM-U61-5",
@@ -559,19 +399,11 @@
    "title": "Uricosuric Drugs",
    "sec": "Uricosuric Drugs · p243",
    "qs": [
-    "PHARM-C61-021",
-    "PHARM-C61-022",
-    "PHARM-C61-023",
-    "PHARM-C61-024",
-    "PHARM-C61-025",
-    "PHARM-C61-026",
-    "PHARM-C61-027",
-    "PHARM-C61-028",
-    "PHARM-C61-029",
-    "PHARM-C61-030",
-    "PHARM-C61-031"
+    "PHARM-C61-018",
+    "PHARM-C61-019",
+    "PHARM-C61-020"
    ],
-   "guide": "Uricosuric drugs are probenecid, sulfinpyrazone which are better as add on therapy than monotherapy, and benzbromarone and lesinraud which are most effective and used as add on therapy only. Side effects are increased urate stone formation contraindicated in history of renal stones, increased risk of calcium stones and precipitation of acute gout needing preventive prophylaxis. Contraindications renal failure except benzbromarone and lesinraud which can be used in mild-moderate renal failure. Miscellaneous drugs for chronic gout with comorbidities: losartan for hypertension, atorvastatin for increased LDL/cholesterol and fenofibrate for increased triglycerides."
+   "guide": "Probenecid and sulfinpyrazone: add-on > monotherapy. Benzbromarone and lesinurad: most effective, add-on only, usable in mild–moderate renal failure. S/E: urate stones (C/I previous stones), calcium stones, precipitate acute gout. Comorbid add-ons: losartan (HTN), atorvastatin (↑LDL), fenofibrate (↑TG)."
   },
   {
    "id": "PHARM-U61-6",
@@ -580,12 +412,12 @@
    "title": "Uricase Analogues",
    "sec": "Uricase Analogues · p243",
    "qs": [
-    "PHARM-C61-032",
-    "PHARM-C61-033",
-    "PHARM-C61-034",
-    "PHARM-C61-035"
+    "PHARM-C61-021",
+    "PHARM-C61-022",
+    "PHARM-C61-023",
+    "PHARM-C61-024"
    ],
-   "guide": "No uric acid metabolism in humans. Pegloticase is used for resistant gout IV once every 2 weeks; rasburicase is DOC for high risk of tumor lysis syndrome in leukemia especially CLL. Side effects are hemolysis in G-6-PD deficiency and methemoglobinemia."
+   "guide": "Humans have no uricase. Pegloticase: resistant gout, IV every 2 weeks. Rasburicase: DOC high-risk tumor lysis (leukemia, especially CLL). S/E: hemolysis in G6PD deficiency and methemoglobinemia."
   }
  ]
 }

@@ -4,1051 +4,464 @@
    "id": "PHARM-C59-001",
    "sec": "Serotonin Receptors and 5-HT1A Agonists",
    "page": 233,
-   "q": "Serotonin receptor types are:",
-   "opts": [
-    "7 types: 5-HT1 to 5-HT7",
-    "3 types only",
-    "5 types only",
-    "10 types"
+   "type": "fill",
+   "q": "There are ____ types of serotonin receptor (5-HT1 to 5-HT7).",
+   "blank": "7",
+   "aliases": [
+    "seven"
    ],
-   "ans": 0,
-   "exp": "7 types: 5-HT1 to 5-HT7. (Book p233)"
+   "exp": "7 (Book p233)"
   },
   {
    "id": "PHARM-C59-002",
    "sec": "Serotonin Receptors and 5-HT1A Agonists",
    "page": 233,
-   "q": "All serotonin receptors are:",
-   "opts": [
-    "GPCRs (G protein coupled receptors) except 5-HT3",
-    "All ion channels",
-    "All nuclear",
-    "All tyrosine kinase"
-   ],
-   "ans": 0,
-   "exp": "All are GPCRs. (Book p233)"
+   "type": "fill",
+   "q": "All 5-HT receptors are GPCRs except 5-HT____, which is an ion channel.",
+   "blank": "3",
+   "aliases": [],
+   "exp": "3 (Book p233)"
   },
   {
    "id": "PHARM-C59-003",
    "sec": "Serotonin Receptors and 5-HT1A Agonists",
    "page": 233,
-   "q": "Exception to GPCR among 5-HT receptors is:",
-   "opts": [
-    "5-HT3 (Ion channel receptors)",
-    "5-HT1A",
-    "5-HT2",
-    "5-HT7"
-   ],
-   "ans": 0,
-   "exp": "Exception: 5-HT3 (Ion channel receptors). (Book p233)"
+   "type": "fill",
+   "q": "5-HT1A agonists used as non-benzodiazepine anxiolytics include ____, epsapirone and gepirone.",
+   "blank": "buspirone",
+   "aliases": [],
+   "exp": "buspirone (Book p233)"
   },
   {
    "id": "PHARM-C59-004",
    "sec": "Serotonin Receptors and 5-HT1A Agonists",
    "page": 233,
-   "q": "5-HT1A agonists location is:",
+   "type": "mcq",
+   "q": "5-HT1A agonists reduce anxiety by decreasing central:",
    "opts": [
-    "Pre-synaptic serotonergic neurons",
-    "Post-synaptic only",
-    "CN V trigeminal",
-    "Leucocyte"
+    "5-HT2 activity",
+    "5-HT3 ion current only",
+    "Dopamine D2 occupancy only",
+    "GABA-A chloride current"
    ],
    "ans": 0,
-   "exp": "Location: Pre-synaptic serotonergic neurons. (Book p233)"
+   "exp": "5-HT2 activity (Book p233)"
   },
   {
    "id": "PHARM-C59-005",
-   "sec": "Serotonin Receptors and 5-HT1A Agonists",
+   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
    "page": 233,
-   "q": "5-HT1A subtype is:",
-   "opts": [
-    "Gi",
-    "Gq",
-    "Gs",
-    "Ion channel"
+   "type": "match",
+   "q": "Match the migraine target.",
+   "left": [
+    "Triptans",
+    "Lasmiditan",
+    "Eptinezumab / fremanezumab / galcanezumab",
+    "Rimegepant"
    ],
-   "ans": 0,
-   "exp": "Subtype: Gi. (Book p233)"
+   "right": [
+    "5-HT1B/1D on the axon → ↓ CGRP release",
+    "5-HT1F agonist at CN V nucleus",
+    "CGRP ligand blockers, parenteral prophylaxis",
+    "CGRP receptor blocker, oral acute attack"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Triptans → 5-HT1B/1D on the axon → ↓ CGRP release; Lasmiditan → 5-HT1F agonist at CN V nucleus; Eptinezumab / fremanezumab / galcanezumab → CGRP ligand blockers, parenteral prophylaxis; Rimegepant → CGRP receptor blocker, oral acute attack (Book p233)"
   },
   {
    "id": "PHARM-C59-006",
-   "sec": "Serotonin Receptors and 5-HT1A Agonists",
+   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
    "page": 233,
-   "q": "5-HT1A agonists are:",
-   "opts": [
-    "Buspirone, Epsapirone, Gepirone",
-    "Lasmiditan and triptans",
-    "Ergotamine only",
-    "Chlorpromazine"
+   "type": "fill",
+   "q": "CGRP acts on meningeal blood vessels causing dilation, edema and ____.",
+   "blank": "headache",
+   "aliases": [
+    "migraine",
+    "migraine headache"
    ],
-   "ans": 0,
-   "exp": "Buspirone Epsapirone Gepirone. (Book p233)"
+   "exp": "headache (Book p233)"
   },
   {
    "id": "PHARM-C59-007",
-   "sec": "Serotonin Receptors and 5-HT1A Agonists",
+   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
    "page": 233,
-   "q": "5-HT1A agonists used as:",
+   "type": "mcq",
+   "q": "Erenumab and atogepant are taken:",
    "opts": [
-    "Non-benzodiazepine anxiolytics",
-    "Antidepressants only",
-    "Antiemetics",
-    "Prokinetics"
+    "Orally for migraine prophylaxis",
+    "Parenterally for prophylaxis",
+    "Orally only for acute attack",
+    "As triptan substitutes in IHD"
    ],
    "ans": 0,
-   "exp": "Used as Non-benzodiazepine anxiolytics. (Book p233)"
+   "exp": "Orally for migraine prophylaxis (Book p233)"
   },
   {
    "id": "PHARM-C59-008",
-   "sec": "Serotonin Receptors and 5-HT1A Agonists",
+   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
    "page": 233,
-   "q": "5-HT1A agonists effect on anxiety is:",
-   "opts": [
-    "Decreased anxiety",
-    "Increased anxiety",
-    "No effect",
-    "Only sedation"
-   ],
-   "ans": 0,
-   "exp": "↓ Anxiety Brain. (Book p233)"
+   "type": "fill",
+   "q": "Triptans are approved for ____ treatment of migraine (not prophylaxis).",
+   "blank": "acute",
+   "aliases": [],
+   "exp": "acute (Book p233)"
   },
   {
    "id": "PHARM-C59-009",
-   "sec": "Serotonin Receptors and 5-HT1A Agonists",
-   "page": 233,
-   "q": "5-HT1A agonists mechanism decreases:",
-   "opts": [
-    "5-HT2 activity",
-    "5-HT3 only",
-    "5-HT4 only",
-    "Dopamine only"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "Triptans differ more in pharmacokinetics than in ____.",
+   "blank": "pharmacodynamics",
+   "aliases": [
+    "PD"
    ],
-   "ans": 0,
-   "exp": "↓ 5-HT2 Brain. (Book p233)"
+   "exp": "pharmacodynamics (Book p234)"
   },
   {
    "id": "PHARM-C59-010",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "5-HT1B/1D and 5HT1F location is:",
-   "opts": [
-    "CN V (Trigeminal)",
-    "Pre-synaptic serotonergic neurons",
-    "Leucocyte",
-    "Post-synaptic GI"
-   ],
-   "ans": 0,
-   "exp": "Location: CN V (Trigeminal). (Book p233)"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "Rate of absorption of a triptan is proportional to its ____ and potency.",
+   "blank": "efficacy",
+   "aliases": [],
+   "exp": "efficacy (Book p234)"
   },
   {
    "id": "PHARM-C59-011",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "5-HT1B/1D subtype is:",
-   "opts": [
-    "Gi",
-    "Gq",
-    "Gs",
-    "Ion channel"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "Frovatriptan acts for ____ hours.",
+   "blank": "27",
+   "aliases": [
+    "27 hrs",
+    "27 h"
    ],
-   "ans": 0,
-   "exp": "Subtype: Gi. (Book p233)"
+   "exp": "27 (Book p234)"
   },
   {
    "id": "PHARM-C59-012",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "In migraine, CGRP is released from:",
-   "opts": [
-    "Axon of trigeminal nerve",
-    "Pre-synaptic serotonergic neuron",
-    "Leucocyte",
-    "Only blood vessel"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "Naratriptan acts for ____ hours.",
+   "blank": "6",
+   "aliases": [
+    "6 hrs",
+    "6 h"
    ],
-   "ans": 0,
-   "exp": "Axon CGRP. (Book p233)"
+   "exp": "6 (Book p234)"
   },
   {
    "id": "PHARM-C59-013",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "CGRP acts on:",
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "mcq",
+   "q": "Frovatriptan and naratriptan are preferred for:",
    "opts": [
-    "CGRP Receptor on meningeal blood vessel",
-    "5-HT1A receptor",
-    "H1 receptor",
-    "Dopamine receptor"
+    "A prolonged attack (slow oral absorption, long acting)",
+    "The fastest possible abortive effect",
+    "Patients with IHD because they do not vasoconstrict",
+    "Migraine prophylaxis instead of propranolol"
    ],
    "ans": 0,
-   "exp": "CGRP Receptor meningeal Blood vessel. (Book p233)"
+   "exp": "A prolonged attack (slow oral absorption, long acting) (Book p234)"
   },
   {
    "id": "PHARM-C59-014",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "CGRP receptor activation causes:",
-   "opts": [
-    "Dilation -> meningeal edema & compression -> headache: migraine",
-    "Constriction only",
-    "No edema",
-    "Only nausea"
-   ],
-   "ans": 0,
-   "exp": "↓ Dilation ↓ meningeal Edema & Compression ↓ Headache: migraine. (Book p233)"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "The fastest-acting ORAL triptan is ____.",
+   "blank": "rizatriptan",
+   "aliases": [],
+   "exp": "rizatriptan (Book p234)"
   },
   {
    "id": "PHARM-C59-015",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "5-HT1F agonist is:",
-   "opts": [
-    "Lasmiditan",
-    "Sumatriptan",
-    "Buspirone",
-    "Ergotamine"
-   ],
-   "ans": 0,
-   "exp": "Lasmiditan. (Book p233)"
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "fill",
+   "q": "Overall fastest triptan is subcutaneous / rectal ____.",
+   "blank": "sumatriptan",
+   "aliases": [],
+   "exp": "sumatriptan (Book p234)"
   },
   {
    "id": "PHARM-C59-016",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "Triptans act on:",
+   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
+   "page": 234,
+   "type": "mcq",
+   "q": "Nasal-spray triptans are:",
    "opts": [
-    "5-HT1B/1D (Gi) to inhibit CGRP release",
-    "5-HT1A only",
-    "5-HT2 only",
-    "5-HT3 only"
+    "Zolmitriptan and sumatriptan",
+    "Frovatriptan and naratriptan",
+    "Eletriptan and almotriptan",
+    "Rizatriptan nasal spray alone"
    ],
    "ans": 0,
-   "exp": "5-HT1B/1D (Gi) Triptans. (Book p233)"
+   "exp": "Zolmitriptan and sumatriptan (Book p234)"
   },
   {
    "id": "PHARM-C59-017",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "CGRP Ligand blockers are:",
+   "sec": "Triptans: Side Effects and Contraindications",
+   "page": 234,
+   "type": "mcq",
+   "q": "The chest pain of triptans is due to:",
    "opts": [
-    "Eptinezumab, Fremanezumab, Galcanezumab",
-    "Erenumab and atogepant",
-    "Rimegepant only",
-    "Lasmiditan only"
+    "Coronary vasoconstriction",
+    "Coronary vasodilation",
+    "CGRP-mediated meningeal edema",
+    "5-HT3-mediated vagal surge"
    ],
    "ans": 0,
-   "exp": "CGRP Ligand blockers Eptinezumab Fremanezumab Galcanezumab. (Book p233)"
+   "exp": "Coronary vasoconstriction (Book p234)"
   },
   {
    "id": "PHARM-C59-018",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "CGRP Ligand blockers route and use are:",
-   "opts": [
-    "Parenterally for prophylaxis of migraine",
-    "Oral for acute attack",
-    "Only IV for acute",
-    "Only for cluster"
+   "sec": "Triptans: Side Effects and Contraindications",
+   "page": 234,
+   "type": "match",
+   "q": "Match the triptan-specific contraindication.",
+   "left": [
+    "Naratriptan",
+    "Eletriptan",
+    "Zolmitriptan",
+    "All triptans"
    ],
-   "ans": 0,
-   "exp": "Parenterally for prophylaxis of migraine. (Book p233)"
+   "right": [
+    "Liver or renal failure",
+    "Liver failure",
+    "WPW syndrome",
+    "IHD, stroke/TIA, ischemic bowel, HTN/PVD"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Naratriptan → Liver or renal failure; Eletriptan → Liver failure; Zolmitriptan → WPW syndrome; All triptans → IHD, stroke/TIA, ischemic bowel, HTN/PVD (Book p234)"
   },
   {
    "id": "PHARM-C59-019",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "CGRP Receptor blockers are:",
-   "opts": [
-    "Erenumab, Atogepant, Rimegepant",
-    "Eptinezumab and fremanezumab",
-    "Only lasmiditan",
-    "Only triptans"
-   ],
-   "ans": 0,
-   "exp": "CGRP Receptor blockers Erenumab Atogepant Rimegepant. (Book p233)"
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "fill",
+   "q": "Ergotamine is a non-selective 5-HT agonist and a very potent ____.",
+   "blank": "vasoconstrictor",
+   "aliases": [],
+   "exp": "vasoconstrictor (Book p235)"
   },
   {
    "id": "PHARM-C59-020",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "Erenumab and atogepant are:",
-   "opts": [
-    "PO for prophylaxis",
-    "Parenteral for prophylaxis",
-    "Only for acute attack",
-    "Only IV"
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "fill",
+   "q": "Ergotamine gangrene of end-arteries is most common in the ____.",
+   "blank": "feet",
+   "aliases": [
+    "foot"
    ],
-   "ans": 0,
-   "exp": "PO for prophylaxis. (Book p233)"
+   "exp": "feet (Book p235)"
   },
   {
    "id": "PHARM-C59-021",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "Rimegepant is:",
-   "opts": [
-    "PO for Rx of acute attack",
-    "Parenteral for prophylaxis",
-    "Only for prophylaxis",
-    "Only IV"
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "fill",
+   "q": "Pregnancy DOC for migraine is ____.",
+   "blank": "paracetamol",
+   "aliases": [
+    "acetaminophen"
    ],
-   "ans": 0,
-   "exp": "Rimegepant: PO for Rx of acute attack. (Book p233)"
+   "exp": "paracetamol (Book p235)"
   },
   {
    "id": "PHARM-C59-022",
-   "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
-   "page": 233,
-   "q": "Triptans are approved for:",
-   "opts": [
-    "Acute Rx of migraine",
-    "Prophylaxis only",
-    "Only chronic tension headache",
-    "Only cluster prophylaxis"
-   ],
-   "ans": 0,
-   "exp": "Triptans: Approved for acute Rx of migraine. (Book p233)"
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "fill",
+   "q": "Triptan of choice in pregnancy (if needed) is ____.",
+   "blank": "sumatriptan",
+   "aliases": [],
+   "exp": "sumatriptan (Book p235)"
   },
   {
    "id": "PHARM-C59-023",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Triptans mechanism of action is:",
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "mcq",
+   "q": "If paracetamol fails in pregnancy migraine, next is:",
    "opts": [
-    "Stimulate 5-HT1B -> decreased CGRP Release and vasoconstriction",
-    "Only vasodilation",
-    "Only CGRP increase",
-    "Block 5-HT3"
+    "Codeine / caffeine / metoclopramide",
+    "Ergotamine immediately",
+    "Frovatriptan for a prolonged attack",
+    "Methysergide prophylaxis"
    ],
    "ans": 0,
-   "exp": "Stimulate 5-HT1B -> ↓ CGRP Release, Vasoconstriction. (Book p234)"
+   "exp": "Codeine / caffeine / metoclopramide (Book p235)"
   },
   {
    "id": "PHARM-C59-024",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Triptans differ in:",
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "mcq",
+   "q": "Dihydroergotamine compared with ergotamine is:",
    "opts": [
-    "Pharmacokinetics > Pharmacodynamics",
-    "Pharmacodynamics only",
-    "No difference",
-    "Only in toxicity"
+    "Less potent, better tolerated, same S/E and C/I as triptans",
+    "More potent, poorly tolerated, and safe to use in IHD",
+    "A selective 5-HT1F agonist used like lasmiditan",
+    "Reserved for migraine prophylaxis rather than acute attacks"
    ],
    "ans": 0,
-   "exp": "Differ in Pharmacokinetics > Pharmacodynamics. (Book p234)"
+   "exp": "Less potent, better tolerated, same S/E and C/I as triptans (Book p235)"
   },
   {
    "id": "PHARM-C59-025",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Rate of absorption of triptans is:",
-   "opts": [
-    "Proportional to efficacy & potency",
-    "Inversely proportional",
-    "No relation",
-    "Only affects toxicity"
-   ],
-   "ans": 0,
-   "exp": "Rate of absorption ∝ Efficacy & potency. (Book p234)"
+   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
+   "page": 235,
+   "type": "fill",
+   "q": "NSAID for a severe migraine attack is ____.",
+   "blank": "ketorolac",
+   "aliases": [],
+   "exp": "ketorolac (Book p235)"
   },
   {
    "id": "PHARM-C59-026",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Frovatriptan acts for:",
-   "opts": [
-    "27 hrs",
-    "6 hrs",
-    "1 hr",
-    "12 hrs"
-   ],
-   "ans": 0,
-   "exp": "Frovatriptan (Acts for: 27 hrs). (Book p234)"
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "fill",
+   "q": "Migraine-prophylaxis mnemonic: Flunarizine Can ____ migraine.",
+   "blank": "PREVENT",
+   "aliases": [],
+   "exp": "PREVENT (Book p235)"
   },
   {
    "id": "PHARM-C59-027",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Naratriptan acts for:",
-   "opts": [
-    "6 hrs",
-    "27 hrs",
-    "1 hr",
-    "24 hrs"
-   ],
-   "ans": 0,
-   "exp": "Naratriptan (6 hrs). (Book p234)"
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "fill",
+   "q": "DOC for migraine prophylaxis is pizotifen / ____.",
+   "blank": "propranolol",
+   "aliases": [],
+   "exp": "propranolol (Book p235)"
   },
   {
    "id": "PHARM-C59-028",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Frovatriptan and naratriptan absorption is:",
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "mcq",
+   "q": "Cyproheptadine uses include all EXCEPT:",
    "opts": [
-    "Slow oral absorption -> Long acting + Slow acting",
-    "Fast oral absorption -> Short & fast acting",
-    "No absorption",
-    "Only IV"
+    "Acute abortive treatment of migraine",
+    "Migraine prophylaxis",
+    "Serotonin syndrome and carcinoid",
+    "Cold urticaria and AIDS weight gain"
    ],
    "ans": 0,
-   "exp": "Slow oral absorption -> Long acting + Slow acting. (Book p234)"
+   "exp": "Acute abortive treatment of migraine (Book p235)"
   },
   {
    "id": "PHARM-C59-029",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Frovatriptan and naratriptan used in:",
-   "opts": [
-    "Prolonged attack",
-    "Acute attack preferred",
-    "Only in pregnancy",
-    "Only prophylaxis"
-   ],
-   "ans": 0,
-   "exp": "Used in: Prolonged attack. (Book p234)"
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "fill",
+   "q": "Methysergide causes ____ (pulmonary, cardiac, retroperitoneal).",
+   "blank": "fibrosis",
+   "aliases": [],
+   "exp": "fibrosis (Book p235)"
   },
   {
    "id": "PHARM-C59-030",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Fastest acting oral triptan is:",
-   "opts": [
-    "Rizatriptan",
-    "Frovatriptan",
-    "Naratriptan",
-    "Almotriptan"
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "fill",
+   "q": "Flibanserin (5-HT2A antagonist + 5-HT1A agonist) treats ____ in females.",
+   "blank": "HSDD",
+   "aliases": [
+    "hypoactive sexual desire disorder"
    ],
-   "ans": 0,
-   "exp": "Rizatriptan (Fastest acting). (Book p234)"
+   "exp": "HSDD (Book p235)"
   },
   {
    "id": "PHARM-C59-031",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Fast oral absorption triptans are:",
-   "opts": [
-    "Rizatriptan, Sumatriptan, Zolmitriptan, Eletriptan, Almotriptan",
-    "Frovatriptan and naratriptan",
-    "Only sumatriptan",
-    "Only zolmitriptan"
-   ],
-   "ans": 0,
-   "exp": "Fast oral absorption -> Short & fast acting. (Book p234)"
+   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
+   "page": 235,
+   "type": "fill",
+   "q": "Lorcaserin (obesity) was banned because of increased ____ risk.",
+   "blank": "cancer",
+   "aliases": [],
+   "exp": "cancer (Book p235)"
   },
   {
    "id": "PHARM-C59-032",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Fast oral absorption triptans are preferred for:",
-   "opts": [
-    "Acute attack",
-    "Prolonged attack",
-    "Prophylaxis",
-    "Only in pregnancy"
+   "sec": "Obesity Treatment and Banned Drugs",
+   "page": 236,
+   "type": "match",
+   "q": "Match the anti-obesity mechanism.",
+   "left": [
+    "Liraglutide / phentermine",
+    "Orlistat",
+    "Mirabegron",
+    "Topiramate / naltrexone / bupropion"
    ],
-   "ans": 0,
-   "exp": "Preferred Acute attack. (Book p234)"
+   "right": [
+    "Cause anorexia",
+    "Inhibits lipolysis (fat absorption)",
+    "Stimulates lipolysis",
+    "Unknown / mixed mechanisms"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Liraglutide / phentermine → Cause anorexia; Orlistat → Inhibits lipolysis (fat absorption); Mirabegron → Stimulates lipolysis; Topiramate / naltrexone / bupropion → Unknown / mixed mechanisms (Book p236)"
   },
   {
    "id": "PHARM-C59-033",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Nasal spray triptans are:",
-   "opts": [
-    "Zolmitriptan and Sumatriptan",
-    "Only frovatriptan",
-    "Only naratriptan",
-    "Only eletriptan"
-   ],
-   "ans": 0,
-   "exp": "Nasal Spray: Zolmitriptan, Sumatriptan. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-034",
-   "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
-   "page": 234,
-   "q": "Overall fastest acting triptan route is:",
-   "opts": [
-    "Subcutaneous/Rectal Sumatriptan",
-    "Oral frovatriptan",
-    "Nasal zolmitriptan",
-    "Oral rizatriptan"
-   ],
-   "ans": 0,
-   "exp": "Sumatriptan: Overall fastest acting. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-035",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Triptans side effect coronary vasoconstriction causes:",
-   "opts": [
-    "Acute chest pain",
-    "Only headache",
-    "Only nausea",
-    "Only dizziness"
-   ],
-   "ans": 0,
-   "exp": "Acute chest pain. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-036",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Coronary vasoconstriction also causes:",
-   "opts": [
-    "Pain in Jaw/neck, sweating, arrhythmia",
-    "Only chest pain",
-    "Only GI upset",
-    "Only visual changes"
-   ],
-   "ans": 0,
-   "exp": "Pain in Jaw/neck, Sweating, Arrhythmia. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-037",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Triptans contraindicated in:",
-   "opts": [
-    "Ischemic Heart Disease (IHD): MI/Angina",
-    "Only in pregnancy",
-    "Only in children",
-    "Only in elderly"
-   ],
-   "ans": 0,
-   "exp": "Ischemic Heart Disease (IHD): MI/Angina. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-038",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Triptans C/I also include:",
-   "opts": [
-    "No stroke/TIA, Ischemic Bowel Disease, HTN/PVD (Raynaud/Burger)",
-    "Only IHD",
-    "Only pregnancy",
-    "Only liver failure"
-   ],
-   "ans": 0,
-   "exp": "No stroke/TIA, Ischemic Bowel Disease, HTN/PVD (Raynaud/Burger). (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-039",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Naratriptan specific C/I is:",
-   "opts": [
-    "Liver /Renal failure",
-    "Only cardiac",
-    "Only WPW",
-    "Only liver failure alone"
-   ],
-   "ans": 0,
-   "exp": "Naratriptan: Liver /Renal failure. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-040",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Eletriptan specific C/I is:",
-   "opts": [
-    "Liver failure",
-    "Renal failure",
-    "WPW syndrome",
-    "Only IHD"
-   ],
-   "ans": 0,
-   "exp": "Eletriptan: Liver failure. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-041",
-   "sec": "Triptans: Side Effects and Contraindications",
-   "page": 234,
-   "q": "Zolmitriptan specific C/I is:",
-   "opts": [
-    "Wolf-Parkinson-White (WPW) Syndrome",
-    "Liver failure",
-    "Renal failure",
-    "Only IHD"
-   ],
-   "ans": 0,
-   "exp": "Zolmitriptan: Wolf-Parkinson-White (WPW) Syndrome. (Book p234)"
-  },
-  {
-   "id": "PHARM-C59-042",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "5HT-1F Agonist for migraine is:",
-   "opts": [
-    "Lasmiditan",
-    "Triptan",
-    "Ergotamine",
-    "Rimegepant"
-   ],
-   "ans": 0,
-   "exp": "2. 5HT-1F Agonists: Lasmiditan. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-043",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "CGRP Receptor Blocker for acute attack is:",
-   "opts": [
-    "Rimegepant",
-    "Eptinezumab",
-    "Fremanezumab",
-    "Galcanezumab"
-   ],
-   "ans": 0,
-   "exp": "3. CGRP Receptor Blockers: Rimegepant. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-044",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "Ergotamine mechanism is:",
-   "opts": [
-    "5-HT e/o Non selective agonist -> potent vasoconstrictor",
-    "Selective 5-HT1B only",
-    "Only CGRP blocker",
-    "Only D2 blocker"
-   ],
-   "ans": 0,
-   "exp": "S-HT e/o: Non selective agonist -> ↑↑Potent vasoconstrictor. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-045",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "Ergotamine side effect is:",
-   "opts": [
-    "Gangrene of organs with end arteries: Feet (m/c)",
-    "Only headache",
-    "Only nausea",
-    "Only chest pain"
-   ],
-   "ans": 0,
-   "exp": "Gangrene of organs with end arteries: Feet (m/c). (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-046",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "Dihydroergotamine is:",
-   "opts": [
-    "Less potent -> Better tolerated, S/E & C/I same as triptans",
-    "More potent than ergotamine",
-    "Not related to ergot",
-    "Only for prophylaxis"
-   ],
-   "ans": 0,
-   "exp": "Less potent -> Better tolerated, S/E & C/I: Same as triptans. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-047",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "D2 blockers for migraine are:",
-   "opts": [
-    "Chlorpromazine and metoclopramide",
-    "Only chlorpromazine",
-    "Only metoclopramide",
-    "Only domperidone"
-   ],
-   "ans": 0,
-   "exp": "5. D2 Blockers: Chlorpromazine, metoclopramide. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-048",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "NSAIDs for migraine mild-moderate attack:",
-   "opts": [
-    "Paracetamol",
-    "Ketorolac",
-    "Only triptans",
-    "Only ergotamine"
-   ],
-   "ans": 0,
-   "exp": "Paracetamol: mild - moderate attack. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-049",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "NSAID for severe migraine attack:",
-   "opts": [
-    "Ketorolac",
-    "Paracetamol",
-    "Ibuprofen only",
-    "Aspirin only"
-   ],
-   "ans": 0,
-   "exp": "Ketorolac: Severe attack. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-050",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "Opioids for migraine are:",
-   "opts": [
-    "Intranasal butorphanol and oral codeine",
-    "Only morphine",
-    "Only tramadol",
-    "Only fentanyl"
-   ],
-   "ans": 0,
-   "exp": "Intranasal butorphanol, Oral codeine. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-051",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "In pregnancy DOC for migraine is:",
-   "opts": [
-    "Paracetamol",
-    "Sumatriptan",
-    "Ergotamine",
-    "Naratriptan"
-   ],
-   "ans": 0,
-   "exp": "DOC: Paracetamol. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-052",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "If no response to paracetamol in pregnancy:",
-   "opts": [
-    "Codeine/Caffeine/metoclopramide",
-    "Triptans directly",
-    "Ergotamine",
-    "Stop treatment"
-   ],
-   "ans": 0,
-   "exp": "No response Codeine/Caffeine/metoclopramide. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-053",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "If no response to codeine/caffeine/metoclopramide in pregnancy:",
-   "opts": [
-    "Triptan: Sumatriptan (Triptan of choice in pregnancy)",
-    "Ergotamine",
-    "Frovatriptan",
-    "Naratriptan"
-   ],
-   "ans": 0,
-   "exp": "No response Triptan: Sumatriptan (Triptan of choice in pregnancy). (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-054",
-   "sec": "Other Acute Migraine Drugs and Pregnancy Management",
-   "page": 235,
-   "q": "Triptans in pregnancy may:",
-   "opts": [
-    "Block placental blood flow",
-    "Increase fetal growth",
-    "No effect on placenta",
-    "Only cause teratogenicity"
-   ],
-   "ans": 0,
-   "exp": "Triptans: may block placental blood flow. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-055",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Migraine prophylaxis mnemonic is:",
-   "opts": [
-    "Flunarizine Can PREVENT migraine",
-    "Only propranolol",
-    "Only valproate",
-    "Only flunarizine"
-   ],
-   "ans": 0,
-   "exp": "Mnemonic: Flunarizine Can PREVENT migraine. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-056",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "DOC for migraine prophylaxis is:",
-   "opts": [
-    "Pizotifen/Propranolol",
-    "Flunarizine only",
-    "Valproate only",
-    "Topiramate only"
-   ],
-   "ans": 0,
-   "exp": "Pizotifen/Propranolol: DOC. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-057",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Drugs for migraine prophylaxis include:",
-   "opts": [
-    "Flunarizine, Cyproheptadine/Candesartan/Clonidine, Pizotifen/Propranolol, Gabapentin, Valproate, Nortiptyline, Topiramate, Methysergide",
-    "Only triptans",
-    "Only ergotamine",
-    "Only NSAIDs"
-   ],
-   "ans": 0,
-   "exp": "List: Flunarizine, Cyproheptadine/Candesartan/Clonidine, Pizotifen/Propranolol, Release GABA: Gabapentin, Valproate, Nortiptyline, Topiramate, methysergide. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-058",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Release GABA drug for migraine prophylaxis is:",
-   "opts": [
-    "Gabapentin",
-    "Valproate",
-    "Topiramate",
-    "Propranolol"
-   ],
-   "ans": 0,
-   "exp": "Release GABA: Gabapentin. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-059",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "5-HT2 antagonist cyproheptadine blocks:",
-   "opts": [
-    "H1 and muscarinic",
-    "Only 5-HT2",
-    "Only H2",
-    "Only D2"
-   ],
-   "ans": 0,
-   "exp": "Cyproheptadine (-) H1 m. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-060",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Cyproheptadine uses are:",
-   "opts": [
-    "Migraine prophylaxis, serotonin syndrome, carcinoid syndrome, cold urticaria, AIDS weight gain",
-    "Only migraine prophylaxis",
-    "Only serotonin syndrome",
-    "Only cold urticaria"
-   ],
-   "ans": 0,
-   "exp": "Uses: migraine prophylaxis, Serotonin syndrome, Carcinoid syndrome, Cold urticaria, AIDS weight gain. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-061",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Pizotifen used for:",
-   "opts": [
-    "Migraine prophylaxis",
-    "Serotonin syndrome",
-    "Carcinoid",
-    "Only AIDS weight gain"
-   ],
-   "ans": 0,
-   "exp": "Pizotifen: migraine prophylaxis. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-062",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Methysergide used for:",
-   "opts": [
-    "Migraine prophylaxis",
-    "Only serotonin syndrome",
-    "Only carcinoid",
-    "Only obesity"
-   ],
-   "ans": 0,
-   "exp": "Methysergide: migraine prophylaxis. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-063",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Methysergide S/E is:",
-   "opts": [
-    "Fibrosis: Pulmonary, Cardiac, Retroperitoneal",
-    "Only hepatotoxicity",
-    "Only nephrotoxicity",
-    "Only QT prolongation"
-   ],
-   "ans": 0,
-   "exp": "S/E: Fibrosis -> Pulmonary, Cardiac, Retroperitoneal. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-064",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Flibanserin is:",
-   "opts": [
-    "5HT2A (-) + 5HT1A agonist, Rx: Hypoactive Sexual Desire Disorder (HSDD) in females",
-    "Only 5HT2 antagonist",
-    "Only for migraine",
-    "Only for obesity"
-   ],
-   "ans": 0,
-   "exp": "5HT2A (-) + 5HT1 agonist Rx: HSDD in females. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-065",
-   "sec": "Migraine Prophylaxis and 5-HT2 Drugs",
-   "page": 235,
-   "q": "Lorcaserin use and ban reason:",
-   "opts": [
-    "Use: Rx of obesity, Banned: increased risk of cancer",
-    "Use: migraine, banned for fibrosis",
-    "Use: anxiety, banned for liver failure",
-    "Use: depression, banned for stroke"
-   ],
-   "ans": 0,
-   "exp": "Use: Rx of obesity, Banned: ↑ Risk of cancer. (Book p235)"
-  },
-  {
-   "id": "PHARM-C59-066",
    "sec": "Obesity Treatment and Banned Drugs",
    "page": 236,
-   "q": "Drugs causing anorexia for obesity are:",
-   "opts": [
-    "Liraglutide and phentermine",
-    "Orlistat only",
-    "Mirabegron only",
-    "Topiramate only"
+   "type": "match",
+   "q": "Match the banned weight-loss drug with why it was withdrawn.",
+   "left": [
+    "Rimonabant",
+    "Lorcaserin",
+    "Phenylpropanolamine",
+    "Sibutramine"
    ],
-   "ans": 0,
-   "exp": "Drugs Causing Anorexia: Liraglutide, Phentermine. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-067",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Inhibitor of lipolysis for obesity is:",
-   "opts": [
-    "Orlistat",
-    "Mirabegron",
-    "Liraglutide",
-    "Phentermine"
-   ],
-   "ans": 0,
-   "exp": "Inhibitors of Lipolysis: Orlistat. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-068",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Stimulator of lipolysis is:",
-   "opts": [
-    "Mirabegron",
-    "Orlistat",
-    "Liraglutide",
-    "Topiramate"
-   ],
-   "ans": 0,
-   "exp": "Stimulators of lipolysis: mirabegron. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-069",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Unknown mechanism obesity drugs are:",
-   "opts": [
-    "Topiramate, Naltrexone, Bupropion",
-    "Liraglutide and phentermine",
-    "Orlistat only",
-    "Mirabegron only"
-   ],
-   "ans": 0,
-   "exp": "Unknown mechanism: Topiramate, Naltrexone, Bupropion. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-070",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "5-HT3 (-) are:",
-   "opts": [
-    "Antiemetics",
-    "Prokinetics",
-    "Anxiolytics",
-    "Antidepressants"
-   ],
-   "ans": 0,
-   "exp": "5-HT3 (-): Antiemetics. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-071",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "5-HT4 (+) are:",
-   "opts": [
-    "Prokinetics",
-    "Antiemetics",
-    "Anxiolytics",
-    "Antipsychotics"
-   ],
-   "ans": 0,
-   "exp": "5-HT4 (+): Prokinetics. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-072",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Rimonabant banned due to:",
-   "opts": [
+   "right": [
     "Increased suicidal tendency",
     "Cancer",
     "Stroke",
-    "MI"
+    "Myocardial infarction"
    ],
-   "ans": 0,
-   "exp": "Rimonabant ↑ suicidal tendency. (Book p236)"
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Rimonabant → Increased suicidal tendency; Lorcaserin → Cancer; Phenylpropanolamine → Stroke; Sibutramine → Myocardial infarction (Book p236)"
   },
   {
-   "id": "PHARM-C59-073",
+   "id": "PHARM-C59-034",
    "sec": "Obesity Treatment and Banned Drugs",
    "page": 236,
-   "q": "Lorcaserin banned due to:",
-   "opts": [
-    "Cancer",
-    "Suicidal tendency",
-    "Stroke",
-    "MI"
-   ],
-   "ans": 0,
-   "exp": "Lorcaserin Cancer. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-074",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Phenylpropanolamine (Norephedrine) banned due to:",
-   "opts": [
-    "Stroke",
-    "Cancer",
-    "MI",
-    "Suicidal tendency"
-   ],
-   "ans": 0,
-   "exp": "Phenylpropanolamine (Norephedrine) Stroke. (Book p236)"
-  },
-  {
-   "id": "PHARM-C59-075",
-   "sec": "Obesity Treatment and Banned Drugs",
-   "page": 236,
-   "q": "Sibutramine banned due to:",
-   "opts": [
-    "Myocardial infarction",
-    "Stroke",
-    "Cancer",
-    "Suicidal tendency"
-   ],
-   "ans": 0,
-   "exp": "Sibutramine myocardial infarction. (Book p236)"
+   "type": "fill",
+   "q": "5-HT3 antagonists are ____; 5-HT4 agonists are prokinetics.",
+   "blank": "antiemetics",
+   "aliases": [],
+   "exp": "antiemetics (Book p236)"
   }
  ],
  "units": [
@@ -1062,14 +475,9 @@
     "PHARM-C59-001",
     "PHARM-C59-002",
     "PHARM-C59-003",
-    "PHARM-C59-004",
-    "PHARM-C59-005",
-    "PHARM-C59-006",
-    "PHARM-C59-007",
-    "PHARM-C59-008",
-    "PHARM-C59-009"
+    "PHARM-C59-004"
    ],
-   "guide": "Serotonin has 7 receptor types 5-HT1 to 5-HT7, all are GPCRs except 5-HT3 which is an ion channel receptor. 5-HT1A agonists act presynaptically on serotonergic neurons, subtype Gi, and include buspirone, epsapirone and gepirone; they inhibit 5-HT1A autoreceptor leading to decreased 5-HT2 activity in brain reducing anxiety, used as non-benzodiazepine anxiolytics."
+   "guide": "Seven 5-HT types; all GPCRs except 5-HT3 (ion channel). 5-HT1A: presynaptic serotonergic, Gi — buspirone, epsapirone, gepirone — non-benzo anxiolytics that decrease 5-HT2 activity."
   },
   {
    "id": "PHARM-U59-2",
@@ -1078,21 +486,12 @@
    "title": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology",
    "sec": "5-HT1B/1D/1F, CGRP Pathway and Migraine Biology · p233",
    "qs": [
-    "PHARM-C59-010",
-    "PHARM-C59-011",
-    "PHARM-C59-012",
-    "PHARM-C59-013",
-    "PHARM-C59-014",
-    "PHARM-C59-015",
-    "PHARM-C59-016",
-    "PHARM-C59-017",
-    "PHARM-C59-018",
-    "PHARM-C59-019",
-    "PHARM-C59-020",
-    "PHARM-C59-021",
-    "PHARM-C59-022"
+    "PHARM-C59-005",
+    "PHARM-C59-006",
+    "PHARM-C59-007",
+    "PHARM-C59-008"
    ],
-   "guide": "5-HT1B/1D and 5-HT1F receptors are located on trigeminal nerve CN V, subtype Gi. In migraine, trigeminal ganglion nucleus releases CGRP via axon acting on CGRP receptor on meningeal blood vessels causing dilation, meningeal edema and compression leading to headache. 5-HT1F agonist lasmiditan acts at CN V nucleus, triptans act at 5-HT1B/1D on axon inhibiting CGRP release; CGRP ligand blockers eptinezumab, fremanezumab, galcanezumab are parenteral for prophylaxis, CGRP receptor blockers erenumab and atogepant are oral for prophylaxis, rimegepant is oral for acute attack."
+   "guide": "5-HT1B/1D/1F sit on CN V (Gi). Migraine: trigeminal axon releases CGRP → meningeal vessel dilation, edema, compression, headache. Lasmiditan = 5-HT1F at the nucleus; triptans = 5-HT1B/1D on the axon (↓CGRP). CGRP ligand mAbs (parenteral prophylaxis); CGRP receptor blockers (erenumab/atogepant PO prophylaxis; rimegepant PO acute)."
   },
   {
    "id": "PHARM-U59-3",
@@ -1101,20 +500,16 @@
    "title": "Triptans for Acute Migraine: Pharmacokinetics and Drugs",
    "sec": "Triptans for Acute Migraine: Pharmacokinetics and Drugs · p234",
    "qs": [
-    "PHARM-C59-023",
-    "PHARM-C59-024",
-    "PHARM-C59-025",
-    "PHARM-C59-026",
-    "PHARM-C59-027",
-    "PHARM-C59-028",
-    "PHARM-C59-029",
-    "PHARM-C59-030",
-    "PHARM-C59-031",
-    "PHARM-C59-032",
-    "PHARM-C59-033",
-    "PHARM-C59-034"
+    "PHARM-C59-009",
+    "PHARM-C59-010",
+    "PHARM-C59-011",
+    "PHARM-C59-012",
+    "PHARM-C59-013",
+    "PHARM-C59-014",
+    "PHARM-C59-015",
+    "PHARM-C59-016"
    ],
-   "guide": "Triptans stimulate 5-HT1B decreasing CGRP release and cause vasoconstriction; they differ in pharmacokinetics more than pharmacodynamics with rate of absorption proportional to efficacy and potency. Oral frovatriptan acts for 27 hours and naratriptan for 6 hours with slow oral absorption making them long acting and slow acting used in prolonged attack; fast oral absorption drugs rizatriptan fastest acting, sumatriptan, zolmitriptan, eletriptan and almotriptan are short and fast acting preferred for acute attack; nasal spray zolmitriptan and sumatriptan; subcutaneous/rectal sumatriptan is overall fastest acting."
+   "guide": "Triptans stimulate 5-HT1B → ↓CGRP + vasoconstriction. They differ in PK more than PD; absorption rate ∝ efficacy/potency. Frovatriptan 27 h, naratriptan 6 h — slow oral, long/slow, prolonged attack. Fast oral: rizatriptan (fastest oral), sumatriptan, zolmitriptan, eletriptan, almotriptan — preferred for acute attack. Nasal: zolmitriptan, sumatriptan. Overall fastest: S/C or rectal sumatriptan."
   },
   {
    "id": "PHARM-U59-4",
@@ -1123,15 +518,10 @@
    "title": "Triptans: Side Effects and Contraindications",
    "sec": "Triptans: Side Effects and Contraindications · p234",
    "qs": [
-    "PHARM-C59-035",
-    "PHARM-C59-036",
-    "PHARM-C59-037",
-    "PHARM-C59-038",
-    "PHARM-C59-039",
-    "PHARM-C59-040",
-    "PHARM-C59-041"
+    "PHARM-C59-017",
+    "PHARM-C59-018"
    ],
-   "guide": "Coronary vasoconstriction from triptans causes acute chest pain, pain in jaw/neck, sweating and arrhythmia. Contraindications are ischemic heart disease with MI/angina, no stroke/TIA, ischemic bowel disease, hypertension/PVD with Raynaud/Burger disease. Specific contraindications: naratriptan in liver/renal failure, eletriptan in liver failure, zolmitriptan in Wolf-Parkinson-White WPW syndrome."
+   "guide": "Coronary vasoconstriction → chest pain, jaw/neck pain, sweating, arrhythmia. C/I: IHD (MI/angina), stroke/TIA, ischemic bowel, HTN/PVD (Raynaud/Buerger). Naratriptan: liver/renal failure. Eletriptan: liver failure. Zolmitriptan: WPW."
   },
   {
    "id": "PHARM-U59-5",
@@ -1140,21 +530,15 @@
    "title": "Other Acute Migraine Drugs and Pregnancy Management",
    "sec": "Other Acute Migraine Drugs and Pregnancy Management · p235",
    "qs": [
-    "PHARM-C59-042",
-    "PHARM-C59-043",
-    "PHARM-C59-044",
-    "PHARM-C59-045",
-    "PHARM-C59-046",
-    "PHARM-C59-047",
-    "PHARM-C59-048",
-    "PHARM-C59-049",
-    "PHARM-C59-050",
-    "PHARM-C59-051",
-    "PHARM-C59-052",
-    "PHARM-C59-053",
-    "PHARM-C59-054"
+    "PHARM-C59-019",
+    "PHARM-C59-020",
+    "PHARM-C59-021",
+    "PHARM-C59-022",
+    "PHARM-C59-023",
+    "PHARM-C59-024",
+    "PHARM-C59-025"
    ],
-   "guide": "Other acute drugs: 5HT-1F agonist lasmiditan, CGRP receptor blocker rimegepant, ergot alkaloids ergotamine non-selective agonist very potent vasoconstrictor with side effect gangrene of organs with end arteries feet most common and dihydroergotamine less potent better tolerated with same S/E and C/I as triptans, D2 blockers chlorpromazine and metoclopramide, NSAIDs paracetamol for mild-moderate and ketorolac for severe attack, opioids intranasal butorphanol and oral codeine. In pregnancy DOC is paracetamol, if no response codeine/caffeine/metoclopramide, if no response sumatriptan is triptan of choice; triptans may block placental blood flow."
+   "guide": "Acute: lasmiditan, rimegepant, ergotamine (nonselective, gangrene of end-arteries — feet m/c), DHE (less potent, better tolerated, same C/I), D2 blockers, paracetamol (mild-moderate), ketorolac (severe), butorphanol/codeine. Pregnancy: paracetamol → codeine/caffeine/metoclopramide → sumatriptan (triptan of choice); triptans may block placental flow."
   },
   {
    "id": "PHARM-U59-6",
@@ -1163,19 +547,14 @@
    "title": "Migraine Prophylaxis and 5-HT2 Drugs",
    "sec": "Migraine Prophylaxis and 5-HT2 Drugs · p235",
    "qs": [
-    "PHARM-C59-055",
-    "PHARM-C59-056",
-    "PHARM-C59-057",
-    "PHARM-C59-058",
-    "PHARM-C59-059",
-    "PHARM-C59-060",
-    "PHARM-C59-061",
-    "PHARM-C59-062",
-    "PHARM-C59-063",
-    "PHARM-C59-064",
-    "PHARM-C59-065"
+    "PHARM-C59-026",
+    "PHARM-C59-027",
+    "PHARM-C59-028",
+    "PHARM-C59-029",
+    "PHARM-C59-030",
+    "PHARM-C59-031"
    ],
-   "guide": "Prophylaxis mnemonic Flunarizine Can PREVENT migraine includes flunarizine, cyproheptadine/candesartan/clonidine, pizotifen/propranolol DOC, release GABA gabapentin, valproate, nortiptyline, topiramate and methysergide. 5-HT2 antagonist cyproheptadine blocks H1 and muscarinic, used for migraine prophylaxis, serotonin syndrome, carcinoid syndrome, cold urticaria and AIDS weight gain; pizotifen for migraine prophylaxis; methysergide for migraine prophylaxis with fibrosis side effect pulmonary, cardiac and retroperitoneal; flibanserin is 5HT2A antagonist plus 5HT1A agonist for hypoactive sexual desire disorder HSDD in females. 5-HT2 agonist lorcaserin was used for obesity but banned due to increased cancer risk; 5-HT3 antagonists are antiemetics and 5-HT4 agonists are prokinetics."
+   "guide": "Mnemonic Flunarizine Can PREVENT. DOC: pizotifen/propranolol. Cyproheptadine: H1 + muscarinic block — migraine prophylaxis, serotonin syndrome, carcinoid, cold urticaria, AIDS weight gain. Methysergide: fibrosis (pulmonary, cardiac, retroperitoneal). Flibanserin: 5-HT2A antagonist + 5-HT1A agonist for HSDD. Lorcaserin (obesity) banned for cancer."
   },
   {
    "id": "PHARM-U59-7",
@@ -1184,18 +563,11 @@
    "title": "Obesity Treatment and Banned Drugs",
    "sec": "Obesity Treatment and Banned Drugs · p236",
    "qs": [
-    "PHARM-C59-066",
-    "PHARM-C59-067",
-    "PHARM-C59-068",
-    "PHARM-C59-069",
-    "PHARM-C59-070",
-    "PHARM-C59-071",
-    "PHARM-C59-072",
-    "PHARM-C59-073",
-    "PHARM-C59-074",
-    "PHARM-C59-075"
+    "PHARM-C59-032",
+    "PHARM-C59-033",
+    "PHARM-C59-034"
    ],
-   "guide": "Drugs causing anorexia for obesity are liraglutide and phentermine; inhibitor of lipolysis is orlistat; stimulator of lipolysis is mirabegron; unknown mechanisms are topiramate, naltrexone and bupropion. Note: 5-HT3 antagonists are antiemetics and 5-HT4 agonists are prokinetics. Banned drugs: rimonabant increased suicidal tendency, lorcaserin cancer, phenylpropanolamine norephedrine stroke, sibutramine myocardial infarction."
+   "guide": "Anorexia: liraglutide, phentermine. Lipolysis inhibitor: orlistat. Lipolysis stimulator: mirabegron. Unknown: topiramate, naltrexone, bupropion. 5-HT3 antagonists = antiemetics; 5-HT4 agonists = prokinetics. Banned: rimonabant (suicide), lorcaserin (cancer), phenylpropanolamine (stroke), sibutramine (MI)."
   }
  ]
 }
