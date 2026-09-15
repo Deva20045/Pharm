@@ -509,7 +509,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   stubs were REWRITTEN (the old gen_ch50_52.py had pramlintide questions misplaced inside the ch50
   benzimidazoles unit; gen_ch53_55.py was missing its ch53 opening block) as three reproducible
   generators: work/gen_ch47_49.py, work/gen_ch50_52.py, work/gen_ch53_55.py (same start/unit/q/facts/
-  finish helper pattern). Duplicate-stem audit across the batch (and against ch44-46): NONE. Validation,
+  finish helper pattern). An earlier partial remote push of this batch (commit 112f22d, 613 q / 60 u,
+  built from those buggy stubs) was merged and superseded; the stale per-chapter stubs work/gen_ch47.py
+  .. gen_ch55.py were deleted so the three batch generators are the single reproducible source.
+  Duplicate-stem audit across the batch (and against ch44-46): NONE. Validation,
   deterministic rebuild, integrity check and Node inline-JS syntax check all pass.
 - NEXT: **ch56 (book p224-226)** and ch57 (p227-229) to finish the Endocrine System, then Autacoids.
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
