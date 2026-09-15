@@ -4,1541 +4,631 @@
    "id": "PHARM-C64-001",
    "sec": "Physiology of Coagulation and Anticoagulation",
    "page": 251,
-   "q": "Oral Xa Inhibitors block:",
-   "opts": [
-    "Xa",
-    "IIa only",
-    "Fibrinogen only",
-    "Only XIa"
+   "type": "match",
+   "q": "Match the coagulation step with the drug class.",
+   "left": [
+    "Factor Xa",
+    "Thrombin (IIa)",
+    "Antithrombin III",
+    "Protein C & S"
    ],
-   "ans": 0,
-   "exp": "X -> Xa X Oral Xa Inhibitors. (Book p251)"
+   "right": [
+    "Blocked by oral Xa inhibitors (apixaban…)",
+    "Blocked by direct thrombin inhibitors",
+    "Stimulated by heparins (indirect)",
+    "Natural anticoagulant proteins"
+   ],
+   "ans": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "exp": "Factor Xa → Blocked by oral Xa inhibitors (apixaban…); Thrombin (IIa) → Blocked by direct thrombin inhibitors; Antithrombin III → Stimulated by heparins (indirect); Protein C & S → Natural anticoagulant proteins (Book p251)"
   },
   {
    "id": "PHARM-C64-002",
    "sec": "Physiology of Coagulation and Anticoagulation",
    "page": 251,
-   "q": "Direct Thrombin Inhibitors block:",
-   "opts": [
-    "Thrombin (IIa)",
-    "Xa only",
-    "Fibrinogen only",
-    "Only XIa"
-   ],
-   "ans": 0,
-   "exp": "Thrombin (IIa) X Direct Thrombin Inhibitors. (Book p251)"
+   "type": "fill",
+   "q": "Prothrombin is factor ____; thrombin is IIa.",
+   "blank": "II",
+   "aliases": [],
+   "exp": "II (Book p251)"
   },
   {
    "id": "PHARM-C64-003",
    "sec": "Physiology of Coagulation and Anticoagulation",
    "page": 251,
-   "q": "Prothrombin is:",
+   "type": "mcq",
+   "q": "Antithrombin III proteolyses:",
    "opts": [
-    "II",
-    "IIa",
-    "Xa",
-    "Fibrinogen"
+    "IIa, Xa, XIa and XIIa",
+    "Fibrinogen itself",
+    "Protein C exclusively",
+    "Tissue-factor pathway inhibitor"
    ],
    "ans": 0,
-   "exp": "Prothrombin (II). (Book p251)"
+   "exp": "IIa, Xa, XIa and XIIa (Book p251)"
   },
   {
    "id": "PHARM-C64-004",
-   "sec": "Physiology of Coagulation and Anticoagulation",
+   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Thrombin is:",
-   "opts": [
-    "IIa",
-    "II",
-    "Xa",
-    "XIIa"
-   ],
-   "ans": 0,
-   "exp": "Thrombin (IIa). (Book p251)"
+   "type": "fill",
+   "q": "The oral direct thrombin inhibitor is ____.",
+   "blank": "dabigatran",
+   "aliases": [],
+   "exp": "dabigatran (Book p251)"
   },
   {
    "id": "PHARM-C64-005",
-   "sec": "Physiology of Coagulation and Anticoagulation",
+   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Fibrinogen converts to:",
+   "type": "mcq",
+   "q": "Oral Xa inhibitors are:",
    "opts": [
-    "Fibrin",
-    "Thrombin",
-    "Prothrombin",
-    "Xa"
+    "Apixaban, edoxaban and rivaroxaban",
+    "Dabigatran, argatroban and bivalirudin",
+    "Warfarin, acenocoumarol and phenindione",
+    "Enoxaparin, tinzaparin and fondaparinux"
    ],
    "ans": 0,
-   "exp": "Fibrinogen -> Fibrin. (Book p251)"
+   "exp": "Apixaban, edoxaban and rivaroxaban (Book p251)"
   },
   {
    "id": "PHARM-C64-006",
-   "sec": "Physiology of Coagulation and Anticoagulation",
+   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Anticoagulation proteins are:",
-   "opts": [
-    "Protein C & S and Antithrombin III (Protease)",
-    "Only protein C",
-    "Only protein S",
-    "Only antithrombin III"
+   "type": "fill",
+   "q": "DOACs ____ routine coagulation monitoring.",
+   "blank": "do not require",
+   "aliases": [
+    "don't require",
+    "do not need",
+    "need no"
    ],
-   "ans": 0,
-   "exp": "Protein C & S Antithrombin III (Protease). (Book p251)"
+   "exp": "do not require (Book p251)"
   },
   {
    "id": "PHARM-C64-007",
-   "sec": "Physiology of Coagulation and Anticoagulation",
+   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Antithrombin III breaks down:",
-   "opts": [
-    "IIa, Xa, XIa, XIIa",
-    "Only IIa",
-    "Only Xa",
-    "Only IIa and Xa"
+   "type": "fill",
+   "q": "DOC for DVT prophylaxis and thrombosis prophylaxis in non-valvular AF is a ____.",
+   "blank": "DOAC",
+   "aliases": [
+    "NOAC",
+    "direct oral anticoagulant"
    ],
-   "ans": 0,
-   "exp": "Breaks down IIa Xa XIa XIIa. (Book p251)"
+   "exp": "DOAC (Book p251)"
   },
   {
    "id": "PHARM-C64-008",
-   "sec": "Physiology of Coagulation and Anticoagulation",
+   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Indirect Thrombin Inhibitors stimulate:",
-   "opts": [
-    "Antithrombin III (+)",
-    "Protein C",
-    "Protein S only",
-    "Only factor X"
-   ],
-   "ans": 0,
-   "exp": "(+) Indirect Thrombin Inhibitors. (Book p251)"
+   "type": "fill",
+   "q": "DOC for HIT among parenteral DTIs is ____ (monitor aPTT).",
+   "blank": "argatroban",
+   "aliases": [],
+   "exp": "argatroban (Book p251)"
   },
   {
    "id": "PHARM-C64-009",
    "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Oral direct thrombin inhibitor is:",
+   "type": "mcq",
+   "q": "Direct thrombin inhibitors are C/I in renal failure EXCEPT:",
    "opts": [
-    "Dabigatran",
-    "Apixaban",
-    "Rivaroxaban",
-    "Edoxaban"
+    "Argatroban (hepatic excretion)",
+    "Dabigatran (also hepatic only)",
+    "Lepirudin",
+    "Desirudin"
    ],
    "ans": 0,
-   "exp": "Oral: Dabigatran. (Book p251)"
+   "exp": "Argatroban (hepatic excretion) (Book p251)"
   },
   {
    "id": "PHARM-C64-010",
    "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "Oral Xa inhibitors are:",
-   "opts": [
-    "Apixaban, Edoxaban, Rivaroxaban",
-    "Only apixaban",
-    "Only rivaroxaban",
-    "Only dabigatran"
-   ],
-   "ans": 0,
-   "exp": "Oral Xa inhibitors: Apixaban Edoxaban Rivaroxaban. (Book p251)"
+   "type": "fill",
+   "q": "Antidote for dabigatran is ____.",
+   "blank": "idarucizumab",
+   "aliases": [],
+   "exp": "idarucizumab (Book p251)"
   },
   {
    "id": "PHARM-C64-011",
    "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
    "page": 251,
-   "q": "DOAC / NOAC stands for:",
-   "opts": [
-    "Direct acting oral anticoagulants/Novel OAC",
-    "Only direct oral",
-    "Only novel oral",
-    "Only direct acting"
-   ],
-   "ans": 0,
-   "exp": "DOAC / NOAC Direct acting oral anticoagulants/Novel OAC. (Book p251)"
+   "type": "fill",
+   "q": "Antidote for oral Xa inhibitors is ____ alfa (a decoy).",
+   "blank": "andexanet",
+   "aliases": [],
+   "exp": "andexanet (Book p251)"
   },
   {
    "id": "PHARM-C64-012",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "DOACs require coagulation monitoring:",
-   "opts": [
-    "Do not require coagulation monitoring",
-    "Require aPTT",
-    "Require PT/INR",
-    "Require anti-Xa always"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "match",
+   "q": "Match structure with anti-Xa / anti-IIa activity.",
+   "left": [
+    "UFH (AP + long HPS)",
+    "LMWH (AP + short HPS)",
+    "Fondaparinux (AP only)"
    ],
-   "ans": 0,
-   "exp": "Do not require coagulation monitoring. (Book p251)"
+   "right": [
+    "Anti-Xa = anti-IIa",
+    "Anti-Xa > anti-IIa",
+    "Anti-Xa only"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "UFH (AP + long HPS) → Anti-Xa = anti-IIa; LMWH (AP + short HPS) → Anti-Xa > anti-IIa; Fondaparinux (AP only) → Anti-Xa only (Book p252)"
   },
   {
    "id": "PHARM-C64-013",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "DOAC uses include:",
-   "opts": [
-    "Rx of DVT and Prophylaxis of DVT and Prophylaxis of thrombosis in non-valvular atrial fibrillation (AF)",
-    "Only DVT treatment",
-    "Only AF prophylaxis",
-    "Only valvular AF"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "match",
+   "q": "Match the heparin-type with monitoring / antidote / HIT.",
+   "left": [
+    "UFH",
+    "LMWH",
+    "Fondaparinux"
    ],
-   "ans": 0,
-   "exp": "Rx of DVT, DOC: Prophylaxis of DVT and Prophylaxis of thrombosis in non-valvular AF. (Book p251)"
+   "right": [
+    "aPTT; protamine effective; HIT risk highest",
+    "Anti-Xa in CKD/obese/elderly/children; protamine less effective",
+    "No monitoring; protamine ineffective; no HIT"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "UFH → aPTT; protamine effective; HIT risk highest; LMWH → Anti-Xa in CKD/obese/elderly/children; protamine less effective; Fondaparinux → No monitoring; protamine ineffective; no HIT (Book p252)"
   },
   {
    "id": "PHARM-C64-014",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "DOC for prophylaxis of DVT and thrombosis in non-valvular AF is:",
-   "opts": [
-    "DOAC",
-    "Warfarin",
-    "Heparin",
-    "Aspirin"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "fill",
+   "q": "In renal failure the heparin of choice is ____.",
+   "blank": "UFH",
+   "aliases": [
+    "unfractionated heparin",
+    "unfractionated"
    ],
-   "ans": 0,
-   "exp": "DOC: Prophylaxis of DVT and Prophylaxis of thrombosis in non-valvular AF. (Book p251)"
+   "exp": "UFH (Book p252)"
   },
   {
    "id": "PHARM-C64-015",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Parenteral direct thrombin inhibitors uses:",
-   "opts": [
-    "Heparin induced thrombocytopenia, DOC: Argatroban",
-    "Only DVT prophylaxis",
-    "Only PCI in MI",
-    "Only valvular AF"
-   ],
-   "ans": 0,
-   "exp": "Uses: Heparin induced thrombocytopenia DOC: Argatroban. (Book p251)"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "fill",
+   "q": "LMWH and fondaparinux are ____ in renal failure.",
+   "blank": "contraindicated",
+   "aliases": [],
+   "exp": "contraindicated (Book p252)"
   },
   {
    "id": "PHARM-C64-016",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Argatroban monitoring is:",
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "mcq",
+   "q": "UFH dosing is typically:",
    "opts": [
-    "aPTT monitoring required",
-    "PT/INR",
-    "No monitoring",
-    "Only anti-Xa"
+    "Prophylaxis SC BD; treatment IV QID",
+    "Prophylaxis and treatment SC OD",
+    "Oral OD",
+    "Intra-arterial once weekly"
    ],
    "ans": 0,
-   "exp": "aPTT monitoring required. (Book p251)"
+   "exp": "Prophylaxis SC BD; treatment IV QID (Book p252)"
   },
   {
    "id": "PHARM-C64-017",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Hirudin derivatives semisynthetic drugs are:",
-   "opts": [
-    "Lepirudin: Production stopped, Desirudin: S/c in DVT prophylaxis pre-op",
-    "Only lepirudin",
-    "Only desirudin",
-    "Only bivalirudin"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "fill",
+   "q": "LMWH is given SC ____ for both prophylaxis and treatment.",
+   "blank": "OD",
+   "aliases": [
+    "once daily"
    ],
-   "ans": 0,
-   "exp": "Semisynthetic: Lepirudin: Production stopped, Desirudin: S/c in DVT prophylaxis pre-op. (Book p251)"
+   "exp": "OD (Book p252)"
   },
   {
    "id": "PHARM-C64-018",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Synthetic hirudin derivatives are:",
-   "opts": [
-    "Bivalirudin and Argatroban",
-    "Only bivalirudin",
-    "Only argatroban",
-    "Only lepirudin"
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "fill",
+   "q": "UFH is metabolized by the ____ system.",
+   "blank": "reticuloendothelial",
+   "aliases": [
+    "RES"
    ],
-   "ans": 0,
-   "exp": "Synthetic: Bivalirudin, Argatroban. (Book p251)"
+   "exp": "reticuloendothelial (Book p252)"
   },
   {
    "id": "PHARM-C64-019",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Argatroban used for:",
+   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
+   "page": 252,
+   "type": "mcq",
+   "q": "Bioavailability ranking is:",
    "opts": [
-    "PCI in MI",
-    "Only HIT",
-    "Only DVT prophylaxis",
-    "Only valvular AF"
+    "Fondaparinux (maximum) > LMWH (increased) > UFH (poor)",
+    "UFH > LMWH > fondaparinux",
+    "LMWH = UFH > fondaparinux",
+    "All three are complete after oral dosing"
    ],
    "ans": 0,
-   "exp": "Used for PCI in MI. (Book p251)"
+   "exp": "Fondaparinux (maximum) > LMWH (increased) > UFH (poor) (Book p252)"
   },
   {
    "id": "PHARM-C64-020",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Direct thrombin inhibitors C/I in:",
-   "opts": [
-    "Renal failure except Argatroban (D/t hepatic excretion)",
-    "No C/I",
-    "Only liver failure",
-    "Only renal failure for all"
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "fill",
+   "q": "HIT antibodies against heparin polysaccharides cross-react with platelet factor ____.",
+   "blank": "4",
+   "aliases": [
+    "PF4"
    ],
-   "ans": 0,
-   "exp": "C/I: Renal failure Exception: Argatroban (D/t hepatic excretion). (Book p251)"
+   "exp": "4 (Book p253)"
   },
   {
    "id": "PHARM-C64-021",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Other drugs not requiring monitoring are:",
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "mcq",
+   "q": "HIT thrombosis is:",
    "opts": [
-    "LMWH and Fondaparinux",
-    "Only LMWH",
-    "Only fondaparinux",
-    "Only UFH"
+    "Venous > arterial, women > men, surgical and cancer patients",
+    "Arterial > venous, men > women, only medical inpatients",
+    "Never thrombotic — only bleeding",
+    "Seen equally with fondaparinux and UFH"
    ],
    "ans": 0,
-   "exp": "Other drugs not requiring monitoring LMWH Fondaparinux. (Book p251)"
+   "exp": "Venous > arterial, women > men, surgical and cancer patients (Book p253)"
   },
   {
    "id": "PHARM-C64-022",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Side effect of direct acting anticoagulants is:",
-   "opts": [
-    "Bleeding",
-    "Thrombosis only",
-    "Only rash",
-    "Only fever"
-   ],
-   "ans": 0,
-   "exp": "Side effects: Bleeding. (Book p251)"
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "fill",
+   "q": "HIT is more common with UFH than with ____.",
+   "blank": "LMWH",
+   "aliases": [],
+   "exp": "LMWH (Book p253)"
   },
   {
    "id": "PHARM-C64-023",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Antidote for dabigatran is:",
-   "opts": [
-    "Idarucizumab",
-    "Andexanet alfa",
-    "Protamine sulfate",
-    "Vitamin K"
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "fill",
+   "q": "Once platelets are > ____ /µL in HIT, start warfarin or a DOAC.",
+   "blank": "150000",
+   "aliases": [
+    "150,000",
+    "1,50,000",
+    "150 k"
    ],
-   "ans": 0,
-   "exp": "Dabigatran: Idarucizumab. (Book p251)"
+   "exp": "150000 (Book p253)"
   },
   {
    "id": "PHARM-C64-024",
-   "sec": "Direct Acting Anticoagulants: DOAC/NOAC",
-   "page": 251,
-   "q": "Antidote for oral Xa inhibitors is:",
-   "opts": [
-    "Andexanet alfa (Decoy)",
-    "Idarucizumab",
-    "Protamine",
-    "Vitamin K"
-   ],
-   "ans": 0,
-   "exp": "Oral Xa inhibitors: Andexanet alfa (Decoy). (Book p251)"
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "fill",
+   "q": "Minimum duration of anticoagulation after HIT thrombosis is ____ weeks (3 months if a major event).",
+   "blank": "4",
+   "aliases": [],
+   "exp": "4 (Book p253)"
   },
   {
    "id": "PHARM-C64-025",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH is:",
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "mcq",
+   "q": "Heparin C/I mnemonic TEACHER includes all EXCEPT:",
    "opts": [
-    "Glycosaminoglycans: mast cells",
-    "Only protein C",
-    "Only protein S",
-    "Only Xa inhibitor"
+    "Hyperthyroidism",
+    "Thrombocytopenia and endocarditis",
+    "Alcoholics / cirrhosis and severe hypertension",
+    "Eye/neurosurgery and renal failure (LMWH/fondaparinux)"
    ],
    "ans": 0,
-   "exp": "Glycosaminoglycans: mast cells. (Book p252)"
+   "exp": "Hyperthyroidism (Book p253)"
   },
   {
    "id": "PHARM-C64-026",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Source of UFH is:",
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "mcq",
+   "q": "Heparin S/E mnemonic AHOT stands for:",
    "opts": [
-    "MALT of porcine intestinal mucosa",
-    "Bovine lung only",
-    "Human plasma",
-    "Synthetic only"
+    "Alopecia, hemorrhage/hyperkalemia, osteoporosis, thrombosis (HIT)",
+    "Asthma, hepatitis, ototoxicity, tremor",
+    "Anemia, hiccups, osteosarcoma, tinnitus",
+    "Ataxia, hyperthermia, oliguria, thrombocytosis"
    ],
    "ans": 0,
-   "exp": "Source: MALT of porcine intestinal mucosa. (Book p252)"
+   "exp": "Alopecia, hemorrhage/hyperkalemia, osteoporosis, thrombosis (HIT) (Book p253)"
   },
   {
    "id": "PHARM-C64-027",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Active pentasaccharide (AP) attached to:",
-   "opts": [
-    "Long chain heteropolysaccharide",
-    "Short chain only",
-    "Only AP",
-    "No chain"
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "page": 253,
+   "type": "fill",
+   "q": "UFH is preferred for catheter-induced thrombosis and when given with concurrent ____.",
+   "blank": "thrombolysis",
+   "aliases": [
+    "fibrinolysis"
    ],
-   "ans": 0,
-   "exp": "Active pentasaccharide (AP) Attached to Long chain heteropolysaccharide. (Book p252)"
+   "exp": "thrombolysis (Book p253)"
   },
   {
    "id": "PHARM-C64-028",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "AP binds to:",
-   "opts": [
-    "Antithrombin III -> Breaks down Xa",
-    "Only IIa",
-    "Only fibrinogen",
-    "Only protein C"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Warfarin inhibits vitamin K ____ (VKOR).",
+   "blank": "oxidoreductase",
+   "aliases": [
+    "epoxide reductase"
    ],
-   "ans": 0,
-   "exp": "Binds to Antithrombin III Breaks down Xa. (Book p252)"
+   "exp": "oxidoreductase (Book p254)"
   },
   {
    "id": "PHARM-C64-029",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Long chain HPS binds to:",
-   "opts": [
-    "IIa -> IIa broken down",
-    "Only Xa",
-    "Only XIa",
-    "Only fibrinogen"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "match",
+   "q": "Match the order in which warfarin-sensitive proteins fall.",
+   "left": [
+    "First to decline",
+    "Second to decline",
+    "Last to decline"
    ],
-   "ans": 0,
-   "exp": "Binds to IIa II a broken down. (Book p252)"
+   "right": [
+    "Factor VII",
+    "Protein C and S",
+    "Factor II"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "First to decline → Factor VII; Second to decline → Protein C and S; Last to decline → Factor II (Book p254)"
   },
   {
    "id": "PHARM-C64-030",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH structure is:",
-   "opts": [
-    "AP + Long chain HPS",
-    "AP + Short chain HPS",
-    "AP only",
-    "Only long chain HPS"
-   ],
-   "ans": 0,
-   "exp": "UFH Structure AP + Long chain HPS. (Book p252)"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Warfarin needs a minimum of ____ days for an anticoagulant effect.",
+   "blank": "5",
+   "aliases": [],
+   "exp": "5 (Book p254)"
   },
   {
    "id": "PHARM-C64-031",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH structure is:",
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "mcq",
+   "q": "Skin necrosis in the first 5 days of warfarin is due to:",
    "opts": [
-    "AP + Short chain HPS",
-    "AP + Long chain HPS",
-    "AP only",
-    "Only short chain"
+    "Rapid fall in protein C & S → thrombosis (therefore C/I in HIT)",
+    "Excess factor II remaining while VII is still high",
+    "Vitamin K accumulating in dermal capillaries",
+    "HIT-type antibodies to platelet factor 4"
    ],
    "ans": 0,
-   "exp": "LMWH AP + Short chain HPS. (Book p252)"
+   "exp": "Rapid fall in protein C & S → thrombosis (therefore C/I in HIT) (Book p254)"
   },
   {
    "id": "PHARM-C64-032",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Fondaparinux structure is:",
-   "opts": [
-    "AP only",
-    "AP + Long chain HPS",
-    "AP + Short chain HPS",
-    "Only HPS"
-   ],
-   "ans": 0,
-   "exp": "Fondaparinux AP only. (Book p252)"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Bridge warfarin with ____ for the first 5 days.",
+   "blank": "LMWH",
+   "aliases": [],
+   "exp": "LMWH (Book p254)"
   },
   {
    "id": "PHARM-C64-033",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH activity is:",
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "mcq",
+   "q": "Warfarin is preferred over a DOAC in all EXCEPT:",
    "opts": [
-    "Against Xa = IIa",
-    "Against Xa > IIa",
-    "Only against Xa",
-    "Only against IIa"
+    "Uncomplicated non-valvular AF with normal kidneys",
+    "Valvular AF",
+    "Non-valvular AF with renal failure, P-gp block or severe mitral stenosis",
+    "Antiphospholipid syndrome and splanchnic-vein thrombosis"
    ],
    "ans": 0,
-   "exp": "Against Xa = IIa. (Book p252)"
+   "exp": "Uncomplicated non-valvular AF with normal kidneys (Book p254)"
   },
   {
    "id": "PHARM-C64-034",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH activity is:",
-   "opts": [
-    "Against Xa > IIa",
-    "Against Xa = IIa",
-    "Only against Xa",
-    "Only against IIa"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Warfarin INR target is ____ (normal 0.9–1.3).",
+   "blank": "2-3",
+   "aliases": [
+    "2–3",
+    "2 to 3"
    ],
-   "ans": 0,
-   "exp": "Against Xa > IIa. (Book p252)"
+   "exp": "2-3 (Book p254)"
   },
   {
    "id": "PHARM-C64-035",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Fondaparinux activity is:",
-   "opts": [
-    "Only against Xa",
-    "Against Xa = IIa",
-    "Against Xa > IIa",
-    "Only against IIa"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "match",
+   "q": "Match the high-INR scenario.",
+   "left": [
+    "INR 3–10, no bleed",
+    "INR >10, asymptomatic",
+    "Symptomatic bleeding"
    ],
-   "ans": 0,
-   "exp": "Only against Xa. (Book p252)"
+   "right": [
+    "Stop warfarin; restart when INR normal",
+    "Stop warfarin + vitamin K; restart when INR normal",
+    "Stop warfarin; 4-factor PCC > FFP + IV vitamin K"
+   ],
+   "ans": [
+    0,
+    1,
+    2
+   ],
+   "exp": "INR 3–10, no bleed → Stop warfarin; restart when INR normal; INR >10, asymptomatic → Stop warfarin + vitamin K; restart when INR normal; Symptomatic bleeding → Stop warfarin; 4-factor PCC > FFP + IV vitamin K (Book p254)"
   },
   {
    "id": "PHARM-C64-036",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH bioavailability is:",
-   "opts": [
-    "Poor",
-    "Maximum",
-    "Increased",
-    "Moderate"
-   ],
-   "ans": 0,
-   "exp": "Bioavailability Poor. (Book p252)"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Warfarin teratogenicity includes nasal (mid-facial) hypoplasia and ____ epiphyseal calcification.",
+   "blank": "stippled",
+   "aliases": [],
+   "exp": "stippled (Book p254)"
   },
   {
    "id": "PHARM-C64-037",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH bioavailability is:",
-   "opts": [
-    "Increased",
-    "Poor",
-    "Maximum",
-    "Same as UFH"
-   ],
-   "ans": 0,
-   "exp": "Bioavailability ↑. (Book p252)"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Warfarin is C/I in pregnancy except if the patient has a ____ valve.",
+   "blank": "mechanical",
+   "aliases": [],
+   "exp": "mechanical (Book p254)"
   },
   {
    "id": "PHARM-C64-038",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Fondaparinux bioavailability is:",
-   "opts": [
-    "Maximum",
-    "Poor",
-    "Increased",
-    "Low"
-   ],
-   "ans": 0,
-   "exp": "Maximum. (Book p252)"
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "fill",
+   "q": "Ciraparantag is an antidote for all anticoagulants except ____.",
+   "blank": "warfarin",
+   "aliases": [],
+   "exp": "warfarin (Book p254)"
   },
   {
    "id": "PHARM-C64-039",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH route and dose:",
+   "sec": "Warfarin: MOA, Uses and Monitoring",
+   "page": 254,
+   "type": "mcq",
+   "q": "Warfarin skin necrosis prefers:",
    "opts": [
-    "Prophylaxis: S/C; BD and Rx: I/V; QID",
-    "Only SC OD",
-    "Only IV OD",
-    "Only SC BD"
+    "Limbs, breast and penile skin",
+    "Scalp, palms and soles",
+    "The abdominal wall exclusively",
+    "Oral mucosa only"
    ],
    "ans": 0,
-   "exp": "Prophylaxis: S/C; BD Rx: I/V; QID. (Book p252)"
+   "exp": "Limbs, breast and penile skin (Book p254)"
   },
   {
    "id": "PHARM-C64-040",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH route and dose:",
-   "opts": [
-    "Prophylaxis and Rx S/C; OD",
-    "Prophylaxis S/C BD",
-    "Only IV QID",
-    "Only oral"
-   ],
-   "ans": 0,
-   "exp": "Prophylaxis Rx S/C; OD. (Book p252)"
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "fill",
+   "q": "tPA converts plasminogen to ____, which breaks fibrin.",
+   "blank": "plasmin",
+   "aliases": [],
+   "exp": "plasmin (Book p255)"
   },
   {
    "id": "PHARM-C64-041",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH metabolism is:",
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "mcq",
+   "q": "Streptokinase is clot-nonspecific, so it:",
    "opts": [
-    "Reticuloendothelial system",
-    "Excreted unchanged by kidneys",
-    "Only hepatic",
-    "Only renal"
+    "Lyses fibrin in clot AND plasma → more bleeding and a higher dose",
+    "Is the most clot-specific agent and is given once",
+    "Cannot cause bleeding",
+    "Is preferred in NSTEMI"
    ],
    "ans": 0,
-   "exp": "Reticuloendothelial system. (Book p252)"
+   "exp": "Lyses fibrin in clot AND plasma → more bleeding and a higher dose (Book p255)"
   },
   {
    "id": "PHARM-C64-042",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH/Fondaparinux metabolism is:",
-   "opts": [
-    "Excreted unchanged by Kidneys",
-    "Reticuloendothelial",
-    "Only hepatic",
-    "Only biliary"
-   ],
-   "ans": 0,
-   "exp": "Excreted unchanged by Kidneys. (Book p252)"
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "fill",
+   "q": "The most clot-specific fibrinolytic, given as a single dose, is ____.",
+   "blank": "tenecteplase",
+   "aliases": [],
+   "exp": "tenecteplase (Book p255)"
   },
   {
    "id": "PHARM-C64-043",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "In renal failure DOC is:",
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "mcq",
+   "q": "Fibrinolytics are used in STEMI, massive PE and peripheral thrombosis, but NEVER in:",
    "opts": [
-    "UFH",
-    "LMWH",
-    "Fondaparinux",
-    "All are safe"
+    "NSTEMI / unstable angina",
+    "STEMI within the window",
+    "Massive pulmonary embolism",
+    "Acute limb thrombosis"
    ],
    "ans": 0,
-   "exp": "In renal failure DOC. (Book p252)"
+   "exp": "NSTEMI / unstable angina (Book p255)"
   },
   {
    "id": "PHARM-C64-044",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH/Fondaparinux in renal failure:",
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "mcq",
+   "q": "BRAIN contraindications to fibrinolysis include all EXCEPT:",
    "opts": [
-    "Contraindicated",
-    "DOC",
-    "Safe",
-    "No contraindication"
+    "Uncomplicated STEMI presenting early",
+    "Brain tumour / aneurysm and intracranial hemorrhage",
+    "Recent surgery / trauma and aortic dissection",
+    "NSTEMI"
    ],
    "ans": 0,
-   "exp": "Contraindicated. (Book p252)"
+   "exp": "Uncomplicated STEMI presenting early (Book p255)"
   },
   {
    "id": "PHARM-C64-045",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH duration is:",
-   "opts": [
-    "Short acting",
-    "Long acting",
-    "Intermediate",
-    "Very long"
-   ],
-   "ans": 0,
-   "exp": "Short acting. (Book p252)"
+   "sec": "Fibrinolytics and Antifibrinolytics",
+   "page": 255,
+   "type": "fill",
+   "q": "Antifibrinolytics that block plasmin are EACA and ____ acid.",
+   "blank": "tranexamic",
+   "aliases": [],
+   "exp": "tranexamic (Book p255)"
   },
   {
    "id": "PHARM-C64-046",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH duration is:",
-   "opts": [
-    "Long acting",
-    "Short acting",
-    "Intermediate",
-    "Very short"
-   ],
-   "ans": 0,
-   "exp": "Long acting. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-047",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH monitoring is:",
-   "opts": [
-    "aPTT",
-    "PT/INR",
-    "Anti Xa assay only",
-    "Not required"
-   ],
-   "ans": 0,
-   "exp": "Monitoring aPTT. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-048",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH monitoring:",
-   "opts": [
-    "Only in: Renal failure, obese, elderly, children By: Anti Xa assay",
-    "Always aPTT",
-    "No monitoring ever",
-    "Only PT/INR"
-   ],
-   "ans": 0,
-   "exp": "Only in: Renal failure, obese, elderly, children By: Anti Xa assay. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-049",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Fondaparinux monitoring:",
-   "opts": [
-    "Not required",
-    "aPTT",
-    "PT/INR",
-    "Anti Xa always"
-   ],
-   "ans": 0,
-   "exp": "Not required. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-050",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "UFH antidote protamine sulfate:",
-   "opts": [
-    "Effective: Neutralizes HPS",
-    "Not effective",
-    "Less effective",
-    "No antidote"
-   ],
-   "ans": 0,
-   "exp": "Effective: Neutralizes HPS. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-051",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "LMWH antidote protamine:",
-   "opts": [
-    "Less effective",
-    "Effective neutralizes HPS",
-    "Not effective",
-    "No effect"
-   ],
-   "ans": 0,
-   "exp": "Less effective. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-052",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Fondaparinux antidote protamine:",
-   "opts": [
-    "Not effective",
-    "Effective",
-    "Less effective",
-    "Partially effective"
-   ],
-   "ans": 0,
-   "exp": "Not effective. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-053",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Risk of HIT with UFH is:",
-   "opts": [
-    "↑↑ (highest)",
-    "↑",
-    "None",
-    "Same as LMWH"
-   ],
-   "ans": 0,
-   "exp": "Risk of HIT ↑↑. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-054",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Risk of HIT with LMWH is:",
-   "opts": [
-    "↑",
-    "↑↑",
-    "None",
-    "Zero"
-   ],
-   "ans": 0,
-   "exp": "Risk ↑. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-055",
-   "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
-   "page": 252,
-   "q": "Risk of HIT with fondaparinux is:",
-   "opts": [
-    "None",
-    "↑↑",
-    "↑",
-    "Moderate"
-   ],
-   "ans": 0,
-   "exp": "None. (Book p252)"
-  },
-  {
-   "id": "PHARM-C64-056",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Antibodies in HIT are produced against:",
-   "opts": [
-    "HPS: Cross react with platelet factor 4",
-    "Only platelet factor 4 alone",
-    "Only HPS alone",
-    "Only fibrinogen"
-   ],
-   "ans": 0,
-   "exp": "Antibodies produced against HPS: Cross react with platelet factor 4. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-057",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Antibodies cause:",
-   "opts": [
-    "Platelet aggregation",
-    "Only bleeding",
-    "Only hemolysis",
-    "Only leukopenia"
-   ],
-   "ans": 0,
-   "exp": "Platelet aggregation. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-058",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Thrombosis in HIT incidence:",
-   "opts": [
-    "Venous > Arterial",
-    "Arterial > Venous",
-    "Equal",
-    "Only arterial"
-   ],
-   "ans": 0,
-   "exp": "Venous > Arterial. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-059",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Gender incidence in HIT:",
-   "opts": [
-    "F > M",
-    "M > F",
-    "Equal",
-    "Only in females"
-   ],
-   "ans": 0,
-   "exp": "F > M. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-060",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Patient groups at risk for HIT:",
-   "opts": [
-    "Surgical and cancer patients",
-    "Only medical patients",
-    "Only healthy",
-    "Only children"
-   ],
-   "ans": 0,
-   "exp": "Surgical and cancer patients. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-061",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Heparin induced thrombocytopenia is:",
-   "opts": [
-    "Not severe",
-    "Severe always",
-    "Fatal always",
-    "Only mild bleeding"
-   ],
-   "ans": 0,
-   "exp": "Not severe. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-062",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Cause of HIT more with:",
-   "opts": [
-    "UFH > LMWH",
-    "LMWH > UFH",
-    "Fondaparinux > UFH",
-    "Equal for all"
-   ],
-   "ans": 0,
-   "exp": "Cause: UFH > LMWH. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-063",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Rx of HIT thrombosis is:",
-   "opts": [
-    "Same as thrombosis",
-    "Only heparin",
-    "Only warfarin alone",
-    "Only stop heparin"
-   ],
-   "ans": 0,
-   "exp": "Rx: Same as thrombosis. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-064",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Treatment of thrombosis in HIT is:",
-   "opts": [
-    "Parenteral direct thrombin inhibitor: Argatroban(DOC) and Fondaparinux",
-    "Only UFH",
-    "Only LMWH",
-    "Only warfarin"
-   ],
-   "ans": 0,
-   "exp": "Parenteral direct thrombin inhibitor: Argatroban(DOC), Fondaparinux. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-065",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "If platelet count >1,50,000 in HIT:",
-   "opts": [
-    "Start Warfarin / DOAC",
-    "Continue heparin",
-    "Stop all anticoagulants",
-    "Only aspirin"
-   ],
-   "ans": 0,
-   "exp": "If platelet count >1,50,000 Start Warfarin / DOAC. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-066",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Duration of treatment for HIT thrombosis:",
-   "opts": [
-    "Minimum 4 wks, With h/o major thromboembolic event: 3 months",
-    "Only 1 week",
-    "Only 2 weeks",
-    "Lifelong always"
-   ],
-   "ans": 0,
-   "exp": "Minimum 4 wks, With h/o major thromboembolic event: 3 months. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-067",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "UFH uses are:",
-   "opts": [
-    "Catheter induced thrombosis and Anticoagulant with concurrent thrombolysis",
-    "Only catheter thrombosis",
-    "Only thrombolysis",
-    "Only DVT prophylaxis"
-   ],
-   "ans": 0,
-   "exp": "Catheter induced thrombosis, Anticoagulant with concurrent thrombolysis. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-068",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "LMWH/Fondaparinux DOC for:",
-   "opts": [
-    "Rx of thrombosis",
-    "Only catheter thrombosis",
-    "Only prophylaxis",
-    "Only HIT"
-   ],
-   "ans": 0,
-   "exp": "DOC: Rx of thrombosis. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-069",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Heparin C/I mnemonic is:",
-   "opts": [
-    "TEACHER",
-    "AHOT",
-    "BRAIN",
-    "Only TEACHER"
-   ],
-   "ans": 0,
-   "exp": "Mnemonic: TEACHER. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-070",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "TEACHER stands for:",
-   "opts": [
-    "Thrombocytopenia, Endocarditis, Alcoholics, Cirrhosis, Hypertension (Severe), Eye/Neurosurgery, Renal failure (LMWH/Fondaparinux)",
-    "Only thrombocytopenia",
-    "Only endocarditis",
-    "Only renal failure"
-   ],
-   "ans": 0,
-   "exp": "Thrombocytopenia, Endocarditis, Alcoholics, Cirrhosis, Hypertension (Severe), Eye/Neurosurgery, Renal failure (LMWH/Fondaparinux). (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-071",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "Heparin S/E mnemonic is:",
-   "opts": [
-    "AHOT",
-    "TEACHER",
-    "BRAIN",
-    "Only AHOT"
-   ],
-   "ans": 0,
-   "exp": "Mnemonic: AHOT. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-072",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "page": 253,
-   "q": "AHOT stands for:",
-   "opts": [
-    "Alopecia, Hemorrhage/Hyperkalemia, Osteoporosis, Thrombosis: HIT",
-    "Only alopecia",
-    "Only hemorrhage",
-    "Only thrombosis"
-   ],
-   "ans": 0,
-   "exp": "Alopecia, Hemorrhage/Hyperkalemia, Osteoporosis, Thrombosis: HIT. (Book p253)"
-  },
-  {
-   "id": "PHARM-C64-073",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin inhibits:",
-   "opts": [
-    "Vitamin K oxidoreductase (VKOR)",
-    "Gamma carboxylase directly",
-    "Only protein C",
-    "Only factor X"
-   ],
-   "ans": 0,
-   "exp": "Vitamin K Vit K oxidoreductase (VKOR). (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-074",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "VKOR produces:",
-   "opts": [
-    "Active Vit K",
-    "Inactive Vit K",
-    "Only protein C",
-    "Only factor II"
-   ],
-   "ans": 0,
-   "exp": "VKOR -> ↓ Active Vit K. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-075",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Active Vit K stimulates:",
-   "opts": [
-    "Gamma carboxylase",
-    "Only VKOR",
-    "Only factor II",
-    "Only protein C"
-   ],
-   "ans": 0,
-   "exp": "Active Vit K (+) γ carboxylase. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-076",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Gamma carboxylase activates:",
-   "opts": [
-    "Factors II, VII, IX, X and Protein C & S",
-    "Only factors II and VII",
-    "Only protein C & S",
-    "Only factor X"
-   ],
-   "ans": 0,
-   "exp": "Factors: II, VII, IX, X Protein C & S. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-077",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "First factor to decline with warfarin is:",
-   "opts": [
-    "VII",
-    "II",
-    "Protein C",
-    "Protein S"
-   ],
-   "ans": 0,
-   "exp": "First to decline. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-078",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Second to decline is:",
-   "opts": [
-    "Protein C & S",
-    "Factor II",
-    "Factor VII",
-    "Factor IX"
-   ],
-   "ans": 0,
-   "exp": "Second to decline. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-079",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Last to decline is:",
-   "opts": [
-    "Factor II",
-    "Factor VII",
-    "Protein C",
-    "Protein S"
-   ],
-   "ans": 0,
-   "exp": "Last to decline. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-080",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Minimum days for warfarin to produce anticoagulant effect:",
-   "opts": [
-    "5 days",
-    "1 day",
-    "2 days",
-    "10 days"
-   ],
-   "ans": 0,
-   "exp": "Minimum 5 days to produce anticoagulant effect. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-081",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "First 5 days rapid decrease in protein C & S causes:",
-   "opts": [
-    "Thrombosis -> Skin necrosis (C/I in HIT)",
-    "Only bleeding",
-    "Only alopecia",
-    "Only blue feet"
-   ],
-   "ans": 0,
-   "exp": "First 5 days: Rapid ↓ in protein C & S -> Thrombosis -> Skin necrosis (C/I in HIT). (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-082",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Prophylaxis of DVT DOC is:",
-   "opts": [
-    "DOAC",
-    "Warfarin",
-    "Heparin",
-    "Aspirin"
-   ],
-   "ans": 0,
-   "exp": "Prophylaxis of DVT (DOC: DOAC). (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-083",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Heparin bridge is:",
-   "opts": [
-    "LMWH for first 5 days until warfarin is effective",
-    "Only warfarin alone",
-    "Only DOAC",
-    "No bridge needed"
-   ],
-   "ans": 0,
-   "exp": "Heparin bridge: LMWH for first 5 days until warfarin is effective. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-084",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin preferred over DOAC in:",
-   "opts": [
-    "Valvular AF and Non valvular AF with Renal failure, Pgp pump (-), Severe mitral stenosis",
-    "Only non-valvular AF",
-    "Only valvular AF",
-    "No preference"
-   ],
-   "ans": 0,
-   "exp": "Thrombosis prophylaxis (Preferred over DOAC) Valvular AF, Non valvular AF: Renal failure, Pgp pump (-), Severe mitral stenosis. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-085",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin DOC for thrombosis in:",
-   "opts": [
-    "Antiphospholipid antibody syndrome and Splanchnic vein thrombosis",
-    "Only antiphospholipid",
-    "Only splanchnic vein",
-    "Only DVT"
-   ],
-   "ans": 0,
-   "exp": "DOC Thrombosis: Antiphospholipid antibody syndrome, Splanchnic vein thrombosis. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-086",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin side effects include:",
-   "opts": [
-    "Bleeding, Skin necrosis (Limbs, breast, penile area), Worsens HIT, Alopecia, Blue feet",
-    "Only bleeding",
-    "Only skin necrosis",
-    "Only alopecia"
-   ],
-   "ans": 0,
-   "exp": "Bleeding, Skin necrosis, Worsens HIT, Alopecia, Blue feet. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-087",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Skin necrosis sites with warfarin are:",
-   "opts": [
-    "Limbs, breast, penile area",
-    "Only limbs",
-    "Only breast",
-    "Only penile"
-   ],
-   "ans": 0,
-   "exp": "Limbs, breast, penile area. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-088",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin teratogenicity:",
-   "opts": [
-    "Nasal (mid facial) hypoplasia and Stippled epiphyseal calcification",
-    "Only nasal hypoplasia",
-    "Only stippled calcification",
-    "Only limb defects"
-   ],
-   "ans": 0,
-   "exp": "Nasal (mid facial) hypoplasia, Stippled epiphyseal calcification. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-089",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Warfarin C/I in pregnancy:",
-   "opts": [
-    "Pregnancy except if patient has mechanical valve",
-    "Always contraindicated",
-    "Never contraindicated",
-    "Only first trimester"
-   ],
-   "ans": 0,
-   "exp": "Pregnancy: Except if patient has mechanical valve. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-090",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "PT/INR target for warfarin is:",
-   "opts": [
-    "2-3 (Normal: 0.9-1.3)",
-    "1-2",
-    "3-4",
-    "0.9-1.3 only"
-   ],
-   "ans": 0,
-   "exp": "Target: 2-3 (Normal: 0.9-1.3). (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-091",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "INR >3-10 management:",
-   "opts": [
-    "Stop warfarin -> Restart when INR normalizes",
-    "Continue warfarin",
-    "Add vitamin K immediately",
-    "Start FFP"
-   ],
-   "ans": 0,
-   "exp": "INR >3-10: Stop warfarin -> Restart when INR normalizes. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-092",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "INR >10 asymptomatic management:",
-   "opts": [
-    "Stop warfarin + Start vit K -> Restart when INR normalizes",
-    "Only stop warfarin",
-    "Only vitamin K",
-    "Start FFP only"
-   ],
-   "ans": 0,
-   "exp": "INR >10 & Asymptomatic: Stop warfarin + Start vit K -> Restart when INR normalizes. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-093",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Symptomatic bleeding with warfarin:",
-   "opts": [
-    "Stop warfarin -> Start 4 factor prothrombin complex (PTC) > FFP + I/V Vit K",
-    "Only vitamin K",
-    "Only FFP",
-    "Only stop warfarin"
-   ],
-   "ans": 0,
-   "exp": "Symptomatic (Bleeding): Stop warfarin -> Start 4 factor prothrombin complex (PTC) > FFP + I/V Vit K. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-094",
-   "sec": "Warfarin: MOA, Uses and Monitoring",
-   "page": 254,
-   "q": "Ciraparantag is:",
-   "opts": [
-    "Antidote for all anticoagulants except warfarin",
-    "Antidote for warfarin only",
-    "Only for heparin",
-    "Only for DOACs"
-   ],
-   "ans": 0,
-   "exp": "Antidote for all anticoagulants except warfarin. (Book p254)"
-  },
-  {
-   "id": "PHARM-C64-095",
    "sec": "Fibrinolytics and Antifibrinolytics",
    "page": 255,
-   "q": "Physiology of fibrinolysis:",
+   "type": "mcq",
+   "q": "Tranexamic acid / EACA are C/I in upper genitourinary bleed because of the risk of:",
    "opts": [
-    "Plasminogen Tissue Plasminogen Activator (TPA) -> Plasmin -> Breaks fibrin",
-    "Only plasminogen -> fibrin",
-    "Only TPA -> fibrinogen",
-    "Only plasmin -> thrombin"
+    "Ischemia (also hypotension and myopathy)",
+    "Massive fibrinolysis",
+    "HIT",
+    "Warfarin skin necrosis"
    ],
    "ans": 0,
-   "exp": "Plasminogen TPA -> Plasmin -> Breaks fibrin. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-096",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Streptokinase MOA:",
-   "opts": [
-    "Binds to plasminogen Exposes TPA binding site -> ↑ Plasmin",
-    "Only inhibits plasmin",
-    "Only blocks TPA",
-    "Only degrades fibrinogen directly"
-   ],
-   "ans": 0,
-   "exp": "Binds to plasminogen Exposes TPA binding site -> ↑ Plasmin. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-097",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Streptokinase clot specificity:",
-   "opts": [
-    "Clot non specific: Breaks fibrin in both clot and plasma -> ↑ Risk of bleeding",
-    "Clot specific",
-    "Only breaks clot fibrin",
-    "No bleeding risk"
-   ],
-   "ans": 0,
-   "exp": "Clot non specific: Breaks fibrin in both clot and plasma -> ↑ Risk of bleeding. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-098",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Streptokinase dose requirement is:",
-   "opts": [
-    "Increased dose requirement",
-    "Decreased dose",
-    "No dose change",
-    "Only single dose"
-   ],
-   "ans": 0,
-   "exp": "↑Dose requirement. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-099",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Recombinant tPA drugs are:",
-   "opts": [
-    "Alteplase, Duteplase, Reteplase, Tenecteplase",
-    "Only alteplase",
-    "Only streptokinase",
-    "Only tenecteplase"
-   ],
-   "ans": 0,
-   "exp": "Alteplase, Duteplase, Reteplase, Tenecteplase. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-100",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Recombinant tPA clot specificity is:",
-   "opts": [
-    "Clot specific",
-    "Clot non specific",
-    "No specificity",
-    "Only non specific for alteplase"
-   ],
-   "ans": 0,
-   "exp": "Clot specific. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-101",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Most clot specific + single dose is:",
-   "opts": [
-    "Tenecteplase",
-    "Alteplase",
-    "Reteplase",
-    "Streptokinase"
-   ],
-   "ans": 0,
-   "exp": "Most clot specific + Single dose administration. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-102",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Fibrinolytics use is:",
-   "opts": [
-    "STEMI (Never in: NSTEMI/Unstable angina), Massive pulmonary embolism, Peripheral thrombosis",
-    "Only STEMI",
-    "Only NSTEMI",
-    "Only unstable angina"
-   ],
-   "ans": 0,
-   "exp": "STEMI (Never in: NSTEMI/Unstable angina), Massive pulmonary embolism, Peripheral thrombosis. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-103",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Fibrinolytics never in:",
-   "opts": [
-    "NSTEMI/Unstable angina",
-    "STEMI",
-    "Massive PE",
-    "Peripheral thrombosis"
-   ],
-   "ans": 0,
-   "exp": "Never in: NSTEMI/Unstable angina. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-104",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Fibrinolytics C/I mnemonic is:",
-   "opts": [
-    "BRAIN",
-    "TEACHER",
-    "AHOT",
-    "Only BRAIN"
-   ],
-   "ans": 0,
-   "exp": "Mnemonic: BRAIN. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-105",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "BRAIN stands for:",
-   "opts": [
-    "Brain tumour/Aneurysm, Recent Sx/Trauma, Aortic dissection, Intracranial hemorrhage, NSTEMI",
-    "Only brain tumour",
-    "Only recent surgery",
-    "Only aortic dissection"
-   ],
-   "ans": 0,
-   "exp": "Brain tumour/Aneurysm, Recent Sx/Trauma, Aortic dissection, Intracranial hemorrhage, NSTEMI. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-106",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Bleeding due to fibrinolytics Rx is:",
-   "opts": [
-    "Antifibrinolytics -> X -> Plasmin",
-    "Only continue fibrinolytics",
-    "Only vitamin K",
-    "Only FFP"
-   ],
-   "ans": 0,
-   "exp": "Antifibrinolytics X Plasmin. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-107",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Antifibrinolytics are:",
-   "opts": [
-    "EACA (Epsilon aminocaproic acid) and Tranexamic acid",
-    "Only EACA",
-    "Only tranexamic acid",
-    "Only aprotinin"
-   ],
-   "ans": 0,
-   "exp": "EACA Tranexamic acid. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-108",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Antifibrinolytics uses include:",
-   "opts": [
-    "Thrombolytics induced bleeding, Procedural bleed in hemophilia, GIT bleeding, Trauma/Surgical bleed, Menorrhagia",
-    "Only thrombolytics bleeding",
-    "Only menorrhagia",
-    "Only GIT bleeding"
-   ],
-   "ans": 0,
-   "exp": "Uses: Thrombolytics induced bleeding, Procedural bleed in hemophilia, GIT bleeding, Trauma/Surgical bleed, Menorrhagia. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-109",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Antifibrinolytics C/I include:",
-   "opts": [
-    "Upper Genitourinary bleed: Risk of Ischemia, Hypotension, Myopathy",
-    "Only upper GU bleed",
-    "Only hypotension",
-    "Only myopathy"
-   ],
-   "ans": 0,
-   "exp": "C/I: Upper Genitourinary bleed: Risk of Ischemia, Hypotension, Myopathy. (Book p255)"
-  },
-  {
-   "id": "PHARM-C64-110",
-   "sec": "Fibrinolytics and Antifibrinolytics",
-   "page": 255,
-   "q": "Upper genitourinary bleed with antifibrinolytics risk is:",
-   "opts": [
-    "Ischemia",
-    "Only bleeding",
-    "Only thrombosis",
-    "Only infection"
-   ],
-   "ans": 0,
-   "exp": "Risk of Ischemia. (Book p255)"
+   "exp": "Ischemia (also hypotension and myopathy) (Book p255)"
   }
  ],
  "units": [
@@ -1551,14 +641,9 @@
    "qs": [
     "PHARM-C64-001",
     "PHARM-C64-002",
-    "PHARM-C64-003",
-    "PHARM-C64-004",
-    "PHARM-C64-005",
-    "PHARM-C64-006",
-    "PHARM-C64-007",
-    "PHARM-C64-008"
+    "PHARM-C64-003"
    ],
-   "guide": "Coagulation: X to Xa blocked by oral Xa inhibitors, prothrombin II to thrombin IIa blocked by direct thrombin inhibitors, fibrinogen to fibrin. Anticoagulation: protein C and S and antithrombin III protease which breaks down IIa, Xa, XIa and XIIa and is stimulated by indirect thrombin inhibitors heparins."
+   "guide": "X→Xa blocked by oral Xa inhibitors; II→IIa blocked by direct thrombin inhibitors; fibrinogen→fibrin. Anticoagulation: protein C & S and antithrombin III (breaks IIa, Xa, XIa, XIIa), stimulated by indirect thrombin inhibitors (heparins)."
   },
   {
    "id": "PHARM-U64-2",
@@ -1567,24 +652,16 @@
    "title": "Direct Acting Anticoagulants: DOAC/NOAC",
    "sec": "Direct Acting Anticoagulants: DOAC/NOAC · p251",
    "qs": [
+    "PHARM-C64-004",
+    "PHARM-C64-005",
+    "PHARM-C64-006",
+    "PHARM-C64-007",
+    "PHARM-C64-008",
     "PHARM-C64-009",
     "PHARM-C64-010",
-    "PHARM-C64-011",
-    "PHARM-C64-012",
-    "PHARM-C64-013",
-    "PHARM-C64-014",
-    "PHARM-C64-015",
-    "PHARM-C64-016",
-    "PHARM-C64-017",
-    "PHARM-C64-018",
-    "PHARM-C64-019",
-    "PHARM-C64-020",
-    "PHARM-C64-021",
-    "PHARM-C64-022",
-    "PHARM-C64-023",
-    "PHARM-C64-024"
+    "PHARM-C64-011"
    ],
-   "guide": "Direct thrombin inhibitor oral is dabigatran; oral Xa inhibitors are apixaban, edoxaban and rivaroxaban; together they are DOAC/Novel OAC direct acting oral anticoagulants which do not require coagulation monitoring and are used for treatment of DVT and DOC for prophylaxis of DVT and prophylaxis of thrombosis in non-valvular atrial fibrillation AF. Parenteral direct thrombin inhibitors uses heparin induced thrombocytopenia with DOC argatroban requiring aPTT monitoring and hirudin derivatives semisynthetic lepirudin production stopped and desirudin SC in DVT prophylaxis pre-op and synthetic bivalirudin and argatroban used for PCI in MI contraindicated in renal failure except argatroban due to hepatic excretion; other drugs not requiring monitoring are LMWH and fondaparinux. Side effect bleeding with antidotes dabigatran idarucizumab and oral Xa inhibitors andexanet alfa decoy."
+   "guide": "Oral DTI: dabigatran. Oral Xa: apixaban, edoxaban, rivaroxaban. DOACs: no routine monitoring; Rx DVT; DOC DVT prophylaxis and non-valvular AF. Parenteral DTI: HIT — argatroban DOC (aPTT); hirudins; bivalirudin/argatroban PCI. C/I renal failure except argatroban (hepatic). Antidotes: idarucizumab (dabigatran), andexanet alfa (Xa, decoy)."
   },
   {
    "id": "PHARM-U64-3",
@@ -1593,9 +670,42 @@
    "title": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure",
    "sec": "Indirect Thrombin Inhibitors: UFH, LMWH and Fondaparinux Structure · p252",
    "qs": [
+    "PHARM-C64-012",
+    "PHARM-C64-013",
+    "PHARM-C64-014",
+    "PHARM-C64-015",
+    "PHARM-C64-016",
+    "PHARM-C64-017",
+    "PHARM-C64-018",
+    "PHARM-C64-019"
+   ],
+   "guide": "UFH: AP + long HPS, Xa = IIa, poor BA, SC BD prophylaxis / IV QID Rx, RES metabolism, DOC in renal failure, short, aPTT, protamine effective, HIT ↑↑. LMWH: AP + short HPS, Xa > IIa, better BA, SC OD, renal excretion, C/I in renal failure, long, anti-Xa in special groups, protamine less effective, HIT ↑. Fondaparinux: AP only, Xa only, max BA, no monitoring, protamine useless, no HIT."
+  },
+  {
+   "id": "PHARM-U64-4",
+   "ch": 64,
+   "n": 4,
+   "title": "Heparin Induced Thrombocytopenia and Heparin Uses",
+   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses · p253",
+   "qs": [
+    "PHARM-C64-020",
+    "PHARM-C64-021",
+    "PHARM-C64-022",
+    "PHARM-C64-023",
+    "PHARM-C64-024",
     "PHARM-C64-025",
     "PHARM-C64-026",
-    "PHARM-C64-027",
+    "PHARM-C64-027"
+   ],
+   "guide": "HIT: antibodies to HPS cross-react with PF4 → aggregation → thrombosis (venous > arterial, F>M, surgical/cancer). UFH > LMWH; not severe thrombocytopenia. Rx like thrombosis: argatroban DOC, fondaparinux; platelets >150k then warfarin/DOAC; ≥4 weeks, 3 months if major event. UFH: catheter thrombosis, with thrombolysis. LMWH/fondaparinux DOC for treating thrombosis. C/I TEACHER; S/E AHOT."
+  },
+  {
+   "id": "PHARM-U64-5",
+   "ch": 64,
+   "n": 5,
+   "title": "Warfarin: MOA, Uses and Monitoring",
+   "sec": "Warfarin: MOA, Uses and Monitoring · p254",
+   "qs": [
     "PHARM-C64-028",
     "PHARM-C64-029",
     "PHARM-C64-030",
@@ -1607,84 +717,9 @@
     "PHARM-C64-036",
     "PHARM-C64-037",
     "PHARM-C64-038",
-    "PHARM-C64-039",
-    "PHARM-C64-040",
-    "PHARM-C64-041",
-    "PHARM-C64-042",
-    "PHARM-C64-043",
-    "PHARM-C64-044",
-    "PHARM-C64-045",
-    "PHARM-C64-046",
-    "PHARM-C64-047",
-    "PHARM-C64-048",
-    "PHARM-C64-049",
-    "PHARM-C64-050",
-    "PHARM-C64-051",
-    "PHARM-C64-052",
-    "PHARM-C64-053",
-    "PHARM-C64-054",
-    "PHARM-C64-055"
+    "PHARM-C64-039"
    ],
-   "guide": "Unfractionated heparin UFH is glycosaminoglycans from mast cells sourced from MALT of porcine intestinal mucosa. Structure and mechanism: active pentasaccharide AP attached to long chain heteropolysaccharide binds antithrombin III breaking down Xa and long chain HPS binds IIa breaking down IIa. Comparison table: UFH structure AP plus long chain HPS activity against Xa equal IIa bioavailability poor route prophylaxis SC BD and treatment IV QID metabolism reticuloendothelial system in renal failure DOC short acting monitoring aPTT antidote protamine sulfate effective neutralizes HPS risk of HIT double up arrow; LMWH enoxaparin/tinzaparin structure AP plus short chain HPS activity against Xa greater than IIa bioavailability increased route prophylaxis and treatment SC OD metabolism excreted unchanged by kidneys contraindicated in renal failure long acting monitoring only in renal failure obese elderly children by anti-Xa assay antidote less effective risk of HIT single up arrow; fondaparinux structure AP only activity only against Xa bioavailability maximum monitoring not required antidote not effective risk of HIT none."
-  },
-  {
-   "id": "PHARM-U64-4",
-   "ch": 64,
-   "n": 4,
-   "title": "Heparin Induced Thrombocytopenia and Heparin Uses",
-   "sec": "Heparin Induced Thrombocytopenia and Heparin Uses · p253",
-   "qs": [
-    "PHARM-C64-056",
-    "PHARM-C64-057",
-    "PHARM-C64-058",
-    "PHARM-C64-059",
-    "PHARM-C64-060",
-    "PHARM-C64-061",
-    "PHARM-C64-062",
-    "PHARM-C64-063",
-    "PHARM-C64-064",
-    "PHARM-C64-065",
-    "PHARM-C64-066",
-    "PHARM-C64-067",
-    "PHARM-C64-068",
-    "PHARM-C64-069",
-    "PHARM-C64-070",
-    "PHARM-C64-071",
-    "PHARM-C64-072"
-   ],
-   "guide": "Antibodies produced against HPS cross react with platelet factor 4 causing platelet aggregation leading to thrombosis incidence venous greater than arterial, female greater than male, surgical and cancer patients leading to heparin induced thrombocytopenia HIT not severe with cause UFH greater than LMWH and treatment same as thrombosis. Treatment of thrombosis is parenteral direct thrombin inhibitor argatroban DOC and fondaparinux; if platelet count greater than 1,50,000 start warfarin/DOAC with duration minimum 4 weeks and with history of major thromboembolic event 3 months. Uses UFH catheter induced thrombosis and anticoagulant with concurrent thrombolysis; LMWH/fondaparinux DOC for treatment of thrombosis. Heparin contraindications mnemonic TEACHER thrombocytopenia, endocarditis, alcoholics, cirrhosis, severe hypertension, eye/neurosurgery and renal failure for LMWH/fondaparinux; side effects mnemonic AHOT alopecia, hemorrhage/hyperkalemia, osteoporosis and thrombosis HIT."
-  },
-  {
-   "id": "PHARM-U64-5",
-   "ch": 64,
-   "n": 5,
-   "title": "Warfarin: MOA, Uses and Monitoring",
-   "sec": "Warfarin: MOA, Uses and Monitoring · p254",
-   "qs": [
-    "PHARM-C64-073",
-    "PHARM-C64-074",
-    "PHARM-C64-075",
-    "PHARM-C64-076",
-    "PHARM-C64-077",
-    "PHARM-C64-078",
-    "PHARM-C64-079",
-    "PHARM-C64-080",
-    "PHARM-C64-081",
-    "PHARM-C64-082",
-    "PHARM-C64-083",
-    "PHARM-C64-084",
-    "PHARM-C64-085",
-    "PHARM-C64-086",
-    "PHARM-C64-087",
-    "PHARM-C64-088",
-    "PHARM-C64-089",
-    "PHARM-C64-090",
-    "PHARM-C64-091",
-    "PHARM-C64-092",
-    "PHARM-C64-093",
-    "PHARM-C64-094"
-   ],
-   "guide": "Warfarin inhibits vitamin K oxidoreductase VKOR decreasing active vitamin K which stimulates gamma carboxylase needed for factors II, VII, IX, X and protein C and S; factor VII first to decline, protein C and S second to decline and factor II last to decline; minimum 5 days to produce anticoagulant effect and first 5 days rapid decrease in protein C and S causes thrombosis leading to skin necrosis contraindicated in HIT. Uses prophylaxis of DVT DOC DOAC with heparin bridge LMWH for first 5 days until warfarin effective; thrombosis prophylaxis preferred over DOAC in valvular AF and non-valvular AF with renal failure, Pgp pump negative and severe mitral stenosis; DOC for thrombosis in antiphospholipid antibody syndrome and splanchnic vein thrombosis. Side effects bleeding, skin necrosis limbs breast penile area, worsens HIT, alopecia, blue feet and teratogenicity nasal mid facial hypoplasia and stippled epiphyseal calcification; contraindicated in pregnancy except if patient has mechanical valve. Monitoring PT/INR target 2-3 normal 0.9-1.3; INR 3-10 stop warfarin restart when INR normalizes; INR >10 asymptomatic stop warfarin plus vitamin K restart when INR normalizes; symptomatic bleeding stop warfarin start 4 factor prothrombin complex PTC greater than FFP plus IV vitamin K; note ciraparantag antidote for all anticoagulants except warfarin."
+   "guide": "Warfarin inhibits VKOR → ↓ active vit K → ↓ γ-carboxylation of II, VII, IX, X, protein C & S. VII first, C&S second, II last. 5 days to anticoagulate; first 5 days thrombosis/skin necrosis (C/I HIT) — heparin-bridge with LMWH. Preferred over DOAC in valvular AF and non-valvular AF with CKD, P-gp(−), severe MS. DOC APS and splanchnic-vein thrombosis. INR 2–3. Ciraparantag reverses all but warfarin."
   },
   {
    "id": "PHARM-U64-6",
@@ -1693,24 +728,15 @@
    "title": "Fibrinolytics and Antifibrinolytics",
    "sec": "Fibrinolytics and Antifibrinolytics · p255",
    "qs": [
-    "PHARM-C64-095",
-    "PHARM-C64-096",
-    "PHARM-C64-097",
-    "PHARM-C64-098",
-    "PHARM-C64-099",
-    "PHARM-C64-100",
-    "PHARM-C64-101",
-    "PHARM-C64-102",
-    "PHARM-C64-103",
-    "PHARM-C64-104",
-    "PHARM-C64-105",
-    "PHARM-C64-106",
-    "PHARM-C64-107",
-    "PHARM-C64-108",
-    "PHARM-C64-109",
-    "PHARM-C64-110"
+    "PHARM-C64-040",
+    "PHARM-C64-041",
+    "PHARM-C64-042",
+    "PHARM-C64-043",
+    "PHARM-C64-044",
+    "PHARM-C64-045",
+    "PHARM-C64-046"
    ],
-   "guide": "Physiology of fibrinolysis plasminogen via tissue plasminogen activator TPA to plasmin which breaks fibrin. Streptokinase binds to plasminogen exposing TPA binding site increasing plasmin, clot non-specific breaking fibrin in both clot and plasma increasing bleeding risk and increased dose requirement. Recombinant tPA alteplase, duteplase, reteplase and tenecteplase most clot specific with single dose administration are clot specific. Uses STEMI never in NSTEMI/unstable angina, massive pulmonary embolism and peripheral thrombosis; contraindications mnemonic BRAIN brain tumour/aneurysm, recent surgery/trauma, aortic dissection, intracranial hemorrhage and NSTEMI. Side effect bleeding treated with antifibrinolytics inhibiting plasmin EACA epsilon aminocaproic acid and tranexamic acid used for thrombolytics induced bleeding, procedural bleed in hemophilia, GIT bleeding, trauma/surgical bleed and menorrhagia with contraindications upper genitourinary bleed risk of ischemia, hypotension and myopathy."
+   "guide": "Plasminogen —tPA→ plasmin → fibrin. Streptokinase: clot-nonspecific, ↑ bleed, ↑ dose. Recombinant tPA (alteplase, duteplase, reteplase, tenecteplase) clot-specific; tenecteplase most specific + single dose. Uses: STEMI (never NSTEMI/UA), massive PE, peripheral thrombosis. C/I BRAIN. Bleed: EACA, tranexamic acid. TXA C/I: upper GU bleed (ischemia), hypotension, myopathy."
   }
  ]
 }

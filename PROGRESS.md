@@ -7,6 +7,8 @@ line-by-line questions, first line → last line, strict book order, identical s
 to PULSE Ortho (https://github.com/Deva20045/ORTHO). Every explanation ends `(Book pX)`.
 No generic/page-meta questions; test understanding, recall, clinical application,
 comparisons, values, exceptions; convert every table/diagram/flowchart into questions.
+Never pad MCQs with dummy "Only X" / "neither" options or a uniquely long correct
+choice — if four genuine near-misses do not exist, use FILL (typed blank) or MATCH.
 
 ## Sources
 - `uploads/Pharmacology Marrow E8 (1).pdf` = 298 pdf pages = book pages 1-293 (book ends p293).
@@ -19,7 +21,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 
 ## Schema (must match exactly — same as ORTHO, PHARM prefix)
 - Question: {id:"PHARM-C{ch}-{nnn}" sequential per chapter from 001, sec, page(book),
-  q, opts[4], ans(idx 0-3), exp ends "(Book pX)"}
+  q, exp ends "(Book pX)", optional type "mcq"|"fill"|"match" (default mcq).
+  mcq = CHOOSE: opts[4], ans 0-3, four near-misses of similar length (never dummy "Only X").
+  fill = FILL IN THE BLANK: stem contains ____, blank + optional aliases[].
+  match = MATCH: left[]/right[] 3-4 pairs, tap-to-pair.}
 - Unit: {id:"PHARM-U{ch}-{n}" sequential per chapter from 1, ch, n, title,
   sec:"<Heading> · p<page>", qs:[ids contiguous & ordered], guide: vivid 2-3 sentence prose}
 - Units must cover every question exactly once, in order.
@@ -50,13 +55,13 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
 44: 174-179 DONE (144 qs, 10 units) | 45: 180-183 DONE (70 qs, 6 units) | 46: 184-188 DONE (105 qs, 7 units) |
 47: 189-192 DONE (86 qs, 8 units) | 48: 193-198 DONE (116 qs, 10 units) | 49: 199-204 DONE (108 qs, 12 units) | 50: 205-206 DONE (43 qs, 7 units)
 ### Endocrine System
-51: 207-210 DONE (70 qs, 8 units) | 52: 211-214 DONE (77 qs, 9 units) | 53: 215-217 DONE (51 qs, 8 units) | 54: 218-220 DONE (42 qs, 3 units) | 55: 221-223 DONE (54 qs, 5 units) | 56: 224-226 DONE (59 qs, 6 units) | 57: 227-229 DONE (57 qs, 6 units)
+51: 207-210 DONE (70 qs, 8 units) | 52: 211-214 DONE (77 qs, 9 units) | 53: 215-217 DONE (51 qs, 8 units) | 54: 218-220 DONE (42 qs, 3 units) | 55: 221-223 DONE (54 qs, 5 units) | 56: 224-226 DONE (40 qs, 6 units) | 57: 227-229 DONE (36 qs, 6 units)
 ### Autacoids
-58: 230-232 DONE (74 qs, 5 units) | 59: 233-236 DONE (75 qs, 7 units) | 60: 237-241 DONE (91 qs, 7 units) | 61: 242-243 DONE (35 qs, 6 units) | 62: 244-246 DONE (53 qs, 5 units)
+58: 230-232 DONE (31 qs, 5 units) | 59: 233-236 DONE (34 qs, 7 units) | 60: 237-241 DONE (54 qs, 7 units) | 61: 242-243 DONE (24 qs, 6 units) | 62: 244-246 DONE (29 qs, 5 units)
 ### Hematology
 63: 247-250 DONE (62 qs, 6 units) | 64: 251-255 DONE (110 qs, 6 units)
 ### Respiratory System
-65: 256-258 DONE (61 qs, 5 units) | 66: 259-260
+65: 256-258 DONE (31 qs, 5 units) | 66: 259-260
 ### Gastrointestinal Drugs
 67: 261-265 | 68: 266-268 | 69: 269-271
 ### Immunomodulators
@@ -667,9 +672,10 @@ comparisons, values, exceptions; convert every table/diagram/flowchart into ques
   mast cell stabilizers inhibit Ca2+ channels prevent degranulation ↓histamine cromolyn nedocromil oral food allergy systemic mastocytosis nasal allergic rhinitis eye allergic conjunctivitis inhalational mild asthma
   least toxic preferred children ketotifen mast cell + ↑NO prophylaxis allergen asthma, monoclonal omalizumab anti IgE SC q2-4 wks resistant asthma allergic rhinitis chronic urticaria food allergy dose weight IgE titer
   C/I atopic dermatitis ↑↑IgE IL-4 dupilumab IL-4 receptor T-helper IL-5 reslizumab mepolizumab IL-5 receptor benralizumab eosinophils maturation survival severe eosinophilic asthma atopic dermatitis).
-- **TOTAL LIVE NOW: 5878 questions, 480 units, chapters 1-65.** Endocrine System COMPLETE (through Bone 56 + Thyroid 57); Autacoids COMPLETE (Anti-histaminics 58, Serotonin 59, Eicosanoids 60, Gout 61, RA 62); Hematology COMPLETE (Anti-aggregants 63, Anticoagulants 64); Respiratory live through Bronchial Asthma 65.
-- **SESSION 11 NOTES:** source pages p224-258 rendered at 180 dpi and read line-by-line; crops verified osteonecrosis jaw image (p225), teriparatide max 2 yr note (p226), potassium iodide 10% vs Lugol 5% (p228), I131 timing diagram (p229), fexofenadine least sedating (p232), triptan durations 27 hr frovatriptan vs 6 hr naratriptan (p234), ergot gangrene feet m/c (p235), zileuton vs montelukast (p238-239), diclofenac short T1/2 long acting joints (p241), allopurinol HLA-B-5801 SJS (p242), uricosuric add-on > mono (p243), DMARD anchor methotrexate (p244), hydroxychloroquine Bull eye ≤5 mg/kg (p245), platelet aggregation diagram abciximab/aspirin/clopidogrel/vorapaxar (p247), hit & run definition (p248), UFH vs LMWH table AP+long vs AP+short vs AP only (p252), warfarin factor decline order VII first II last (p254), fibrinolytic BRAIN mnemonic (p255), theophylline 5-15 mg/L normal (p256), ICS soft steroids ciclesonide beclomethasone (p257), omalizumab weight+IgE titer dosing (p258). Generator work/gen_ch56_65.py is single reproducible source for this batch (same start/unit/q/facts/finish pattern). Validation, deterministic rebuild, integrity and Node syntax all PASS.
-- NEXT: **ch66 Antitussives (p259-260)** to start Respiratory completion, then GI drugs.
+- **TOTAL LIVE NOW: 5554 questions, 480 units, chapters 1-65.** Endocrine System COMPLETE (through Bone 56 + Thyroid 57); Autacoids COMPLETE (Anti-histaminics 58, Serotonin 59, Eicosanoids 60, Gout 61, RA 62); Hematology COMPLETE (Anti-aggregants 63, Anticoagulants 64); Respiratory live through Bronchial Asthma 65.
+- **SESSION 11 NOTES:** source pages p224-258 rendered at 180 dpi and read line-by-line; crops verified osteonecrosis jaw image (p225), teriparatide max 2 yr note (p226), potassium iodide 10% vs Lugol 5% (p228), I131 timing diagram (p229), fexofenadine least sedating (p232), triptan durations 27 hr frovatriptan vs 6 hr naratriptan (p234), ergot gangrene feet m/c (p235), zileuton vs montelukast (p238-239), diclofenac short T1/2 long acting joints (p241), allopurinol HLA-B-5801 SJS (p242), uricosuric add-on > mono (p243), DMARD anchor methotrexate (p244), hydroxychloroquine Bull eye ≤5 mg/kg (p245), platelet aggregation diagram abciximab/aspirin/clopidogrel/vorapaxar (p247), hit & run definition (p248), UFH vs LMWH table AP+long vs AP+short vs AP only (p252), warfarin factor decline order VII first II last (p254), fibrinolytic BRAIN mnemonic (p255), theophylline 5-15 mg/L normal (p256), ICS soft steroids ciclesonide beclomethasone (p257), omalizumab weight+IgE titer dosing (p258). Generator work/gen_ch56_65.py is single reproducible source for this batch.
+- **SESSION 12 (quality audit):** User reported options were too predictable — you could pick the longest / most complete choice without knowing the fact. Audit of live data: ch1–55 only 2.4% of 5201 questions had dummy "Only X" distractors (left as CHOOSE). ch56–65 were 44–85% "Only X" pads with a uniquely-longest correct option. Rewrote ch56–65 on the same book facts / unit path as **353 questions** (103 CHOOSE / 211 FILL / 39 MATCH), 0 dummy-Only, 0 length-giveaway. Quiz engine now supports CHOOSE (4 near-miss options), FILL (typed blank + aliases), MATCH (tap-to-pair). `work/validate.py` warns on dummy pads. `work/quiz_runtime.js` + `work/patch_engine.py` are the runtime source. Validation, rebuild, integrity, Node syntax PASS. Counts: ch56 40/6, ch57 36/6, ch58 31/5, ch59 34/7, ch60 54/7, ch61 24/6, ch62 29/5, ch63 28/6, ch64 46/6, ch65 31/5.
+- NEXT: **ch66 Antitussives (p259-260)** — new chapters must ship mixed CHOOSE/FILL/MATCH with near-miss distractors, never "Only X" pads. Then GI drugs.
 - LIVE LINK: https://deva20045.github.io/Pharm/ (index.html redirects -> pulse-pharm-complete.html).
   GitHub Pages: enable once via Repo -> Settings -> Pages -> "Deploy from a branch" -> main /(root).
 - Deliverable file: `pulse-pharm-complete.html` (repo root).
